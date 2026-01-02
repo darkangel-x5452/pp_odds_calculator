@@ -12,9 +12,11 @@ def get_matches_comps(input_jn: dict):
         "Head To Head",
         "Result",
         "Winner",
+        "Winner of Tie",
     ]
     ignore_options = [
-        "Leading Point Scorer"
+        "Leading Point Scorer",
+        "Total Points Odd/Even", "Home Team Points Odd/Even", "Away Team Points Odd/Even",
         ]
     
     for _sport in sports:
@@ -36,7 +38,7 @@ def get_matches_comps(input_jn: dict):
                 betOptionPriority = _match['betOptionPriority']
 
                 if not any(item in betOptionPriority for item in match_result_options):
-                    if not any(item in betOptionPriority for item in ignore_options):                        
+                    if not all(item in ignore_options for item in betOptionPriority):
                         print(f"Expected 'Head To Head' in {match_name} betOptionPriority but got {json.dumps(betOptionPriority)}")
 
                 markets = _match['markets']
@@ -78,7 +80,9 @@ def get_matches_comps(input_jn: dict):
     all_matches_ls.sort(
         key=lambda x: datetime.fromisoformat(x["start_time_aest"])
     )
-    with open(f"data/results/matches_with_two_dollar_odds_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json", "w") as f:
+    print(f"Total matches with two dollar odds: {len(all_matches_ls)}")
+    with open(f"data/results/matches_with_two_dollar_odds.json", "w") as f:
+    # with open(f"data/results/matches_with_two_dollar_odds_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json", "w") as f:
         json.dump(all_matches_ls, f, indent=4)
 
 def get_matches_matches(input_jn: dict):
