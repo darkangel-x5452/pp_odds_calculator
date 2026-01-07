@@ -4,7 +4,7 @@ import os
 import requests
 from datetime import datetime, timezone, timedelta
 
-from utils.get_matches import get_matches_comps, get_matches_matches
+from utils.get_matches import GetMatchesOdds, get_matches_comps, get_matches_matches
 
 
 def run_app():
@@ -18,12 +18,12 @@ def run_app():
         "Accept-Encoding": "gzip, deflate, br",
     }
     resp_raw = requests.request("GET", odds_api, headers=headers, data=payload)
-
+    gmo = GetMatchesOdds()
     resp_jn = resp_raw.json()
     if "-info-service" in odds_api:
-        get_matches_matches(input_jn=resp_jn)
+        gmo.get_matches_matches(input_jn=resp_jn)
     elif "recommendation-service" in odds_api:
-        get_matches_comps(input_jn=resp_jn)
+        gmo.get_matches_comps(input_jn=resp_jn)
     else:
         print("Unknown ODDS_API endpoint.")
     print("App is stopped.")
