@@ -4,7 +4,7 @@ import os
 import requests
 from datetime import datetime, timezone, timedelta
 
-from utils.get_matches import get_matches_comps
+from utils.get_matches import get_matches_comps, get_matches_matches
 
 
 def run_app():
@@ -20,7 +20,12 @@ def run_app():
     resp_raw = requests.request("GET", odds_api, headers=headers, data=payload)
 
     resp_jn = resp_raw.json()
-    get_matches_comps(input_jn=resp_jn)
+    if "tab-info-service" in odds_api:
+        get_matches_matches(input_jn=resp_jn)
+    elif "recommendation-service" in odds_api:
+        get_matches_comps(input_jn=resp_jn)
+    else:
+        print("Unknown ODDS_API endpoint.")
     print("App is stopped.")
 
 
