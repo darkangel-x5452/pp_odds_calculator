@@ -20,7 +20,7 @@ def run_app():
     resp_raw = requests.request("GET", odds_api, headers=headers, data=payload)
 
     resp_jn = resp_raw.json()
-    if "tab-info-service" in odds_api:
+    if "-info-service" in odds_api:
         get_matches_matches(input_jn=resp_jn)
     elif "recommendation-service" in odds_api:
         get_matches_comps(input_jn=resp_jn)
