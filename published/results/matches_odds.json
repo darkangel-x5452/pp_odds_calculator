@@ -229,5 +229,38 @@
         "match_name": "NJIT v New Hampshire",
         "betOption": "Head To Head",
         "start_time": "2026-01-09T00:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "Georgia State VERSES Appalachian St",
+        "contestants": [
+            {
+                "name": "Georgia State",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Appalachian St",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Georgia State",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Appalachian St",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Georgia State v Appalachian St",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T00:00:00.000Z"
     }
 ]
