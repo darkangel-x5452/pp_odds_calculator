@@ -1,42 +1,9 @@
 [
     {
-        "start_time_aest": "2026-01-09T03:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Basketball Champions League",
-        "contestant_names": "AS Karditsas VERSES Kk Spartak Subot",
-        "contestants": [
-            {
-                "name": "AS Karditsas",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Kk Spartak Subot",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "AS Karditsas",
-                "returnWin": 1.66,
-                "returnPlace": 0
-            },
-            {
-                "name": "Kk Spartak Subot",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "AS Karditsas v Kk Spartak Subot",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-08T16:30:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T03:30:00+11:00",
+        "start_time_aest": "2026-01-09T04:30:00+11:00",
         "sport_name": "Snooker",
         "competition_name": "Championship League",
-        "contestant_names": "Xiao Guodong VERSES Ben Woollaston",
+        "contestant_names": "Xiao Guodong VERSES Matthew Selt",
         "contestants": [
             {
                 "name": "Guodong",
@@ -44,7 +11,7 @@
                 "isHome": true
             },
             {
-                "name": "Woollaston",
+                "name": "Selt",
                 "position": "AWAY",
                 "isHome": false
             }
@@ -52,281 +19,116 @@
         "propositions": [
             {
                 "name": "Xiao Guodong",
-                "returnWin": 1.5,
+                "returnWin": 1.58,
                 "returnPlace": 0
             },
             {
-                "name": "Ben Woollaston",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Guodong v Woollaston",
-        "betOption": "Result",
-        "start_time": "2026-01-08T16:30:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T03:30:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "Championship League",
-        "contestant_names": "Zhao Xintong VERSES Gary Wilson",
-        "contestants": [
-            {
-                "name": "Xintong",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Wilson",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Zhao Xintong",
-                "returnWin": 1.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Gary Wilson",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Xintong v Wilson",
-        "betOption": "Result",
-        "start_time": "2026-01-08T16:30:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Israel Premier League Women",
-        "contestant_names": "Petah Tikva VERSES Maccabi Ashdod",
-        "contestants": [
-            {
-                "name": "Petah Tikva",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Maccabi Ashdod",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Petah Tikva",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Maccabi Ashdod",
-                "returnWin": 1.45,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Petah Tikva v Maccabi Ashdod",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-08T17:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Israel Premier League Women",
-        "contestant_names": "Rishon LeZion VERSES Elitzur Holon",
-        "contestants": [
-            {
-                "name": "Rishon LeZion",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Elitzur Holon",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Rishon LeZion",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            },
-            {
-                "name": "Elitzur Holon",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Rishon LeZion v Elitzur Holon",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-08T17:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Israel Premier League Women",
-        "contestant_names": "Maccabi Haifa VERSES Maccabi Karmiel",
-        "contestants": [
-            {
-                "name": "Maccabi Haifa",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Maccabi Karmiel",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Maccabi Haifa",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            },
-            {
-                "name": "Maccabi Karmiel",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Maccabi Haifa v Maccabi Karmiel",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-08T17:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T04:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestant_names": "Braden Shick VERSES Shunsuke Mitsui",
-        "contestants": [
-            {
-                "name": "Shick B",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Mitsui",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Braden Shick",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            },
-            {
-                "name": "Shunsuke Mitsui",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Shick B v Mitsui",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-08T17:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T04:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestant_names": "Mees Rottgering VERSES Daniel Milavsky",
-        "contestants": [
-            {
-                "name": "Rottgering M",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Milavsky D",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Mees Rottgering",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            },
-            {
-                "name": "Daniel Milavsky",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Rottgering M v Milavsky D",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-08T17:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T04:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestant_names": "Bor Artnak VERSES Theodore Dean",
-        "contestants": [
-            {
-                "name": "Artnak B",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Dean",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Bor Artnak",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            },
-            {
-                "name": "Theodore Dean",
+                "name": "Matthew Selt",
                 "returnWin": 2.3,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Artnak B v Dean",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-08T17:00:00.000Z"
+        "match_name": "Guodong v Selt",
+        "betOption": "Result",
+        "start_time": "2026-01-08T17:30:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-09T04:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestant_names": "Luca Pow VERSES Nicolas Arseneault",
+        "start_time_aest": "2026-01-09T05:30:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "Championship League",
+        "contestant_names": "Gary Wilson VERSES Matthew Selt",
         "contestants": [
             {
-                "name": "Pow",
+                "name": "Wilson",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Arseneault N",
+                "name": "Selt",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Luca Pow",
-                "returnWin": 1.65,
+                "name": "Gary Wilson",
+                "returnWin": 1.6,
                 "returnPlace": 0
             },
             {
-                "name": "Nicolas Arseneault",
-                "returnWin": 2.1,
+                "name": "Matthew Selt",
+                "returnWin": 2.25,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Pow v Arseneault N",
+        "match_name": "Wilson v Selt",
+        "betOption": "Result",
+        "start_time": "2026-01-08T18:30:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T05:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestant_names": "Kn Smith VERSES Quinn Vandecasteele",
+        "contestants": [
+            {
+                "name": "Smith K",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Vandecasteele",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Kn Smith",
+                "returnWin": 1.48,
+                "returnPlace": 0
+            },
+            {
+                "name": "Quinn Vandecasteele",
+                "returnWin": 2.45,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Smith K v Vandecasteele",
         "betOption": "Head To Head",
-        "start_time": "2026-01-08T17:00:00.000Z"
+        "start_time": "2026-01-08T18:30:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T05:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestant_names": "Jack Kennedy VERSES Tristan Mccormick",
+        "contestants": [
+            {
+                "name": "Kennedy",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "McCormick",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jack Kennedy",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            },
+            {
+                "name": "Tristan Mccormick",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Kennedy v McCormick",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-08T18:30:00.000Z"
     }
 ]
