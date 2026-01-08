@@ -151,6 +151,9 @@ class GetMatchesOdds():
                     return_win = _proposition['returnWin']
                     if two_dollar_flag is False:
                         two_dollar_flag = True if return_win >= 2.0 and return_win <= self.high_odds else False
+
+                proposition_names = [p['name'] for p in clean_propositions]
+                contestant_full_names = " verse ".join(proposition_names)
                 if two_dollar_flag is True:
                     start_time_aest = datetime.fromisoformat(start_time.replace("Z", "+00:00"))
                     # Convert to AEST
@@ -161,9 +164,10 @@ class GetMatchesOdds():
                         "start_time_aest": aest_dt_iso,
                         "sport_name": sportName,
                         "competition_name": competitionName,
-                        "match_name": match_name,
+                        "contestant_names": contestant_full_names,
                         "contestants": contestants,
                         "propositions": clean_propositions,
+                        "match_name": match_name,
                         # "competitors": competitors,
                         "betOption": betOption,
                         # "bettingStatus": bettingStatus,
