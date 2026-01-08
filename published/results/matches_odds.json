@@ -243,5 +243,160 @@
         "bettingStatus": "Open",
         "start_time": "2026-01-08T14:30:00.000Z",
         "two_dollar_flag": true
+    },
+    {
+        "start_time_aest": "2026-01-09T02:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "South Africa T20",
+        "match_name": "Joburg Spr Kings v Paarl Royals",
+        "contestants": [
+            {
+                "name": "Joburg Spr Kings",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Paarl Royals",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "id": "668068",
+                "name": "Joburg Spr Kings",
+                "returnWin": 1.65,
+                "returnPlace": 0,
+                "differential": null,
+                "bettingStatus": "Open",
+                "allowPlace": false,
+                "number": 668068,
+                "isOpen": true,
+                "sortOrder": 1,
+                "position": "HOME"
+            },
+            {
+                "id": "668074",
+                "name": "Paarl Royals",
+                "returnWin": 2.2,
+                "returnPlace": 0,
+                "differential": null,
+                "bettingStatus": "Open",
+                "allowPlace": false,
+                "number": 668074,
+                "isOpen": true,
+                "sortOrder": 2,
+                "position": "AWAY"
+            }
+        ],
+        "competitors": [],
+        "betOption": "Head To Head",
+        "bettingStatus": "Open",
+        "start_time": "2026-01-08T15:30:00.000Z",
+        "two_dollar_flag": true
+    },
+    {
+        "start_time_aest": "2026-01-09T02:50:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Israel Super League",
+        "match_name": "Hpl Galil Elion v Hapoel BeerSheva",
+        "contestants": [
+            {
+                "name": "Hpl Galil Elion",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Hapoel BeerSheva",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "id": "676066",
+                "name": "Hpl Galil Elion",
+                "returnWin": 2.2,
+                "returnPlace": 0,
+                "differential": null,
+                "bettingStatus": "Open",
+                "allowPlace": false,
+                "number": 676066,
+                "isOpen": true,
+                "sortOrder": 1,
+                "position": "HOME"
+            },
+            {
+                "id": "676067",
+                "name": "Hapoel BeerSheva",
+                "returnWin": 1.6,
+                "returnPlace": 0,
+                "differential": null,
+                "bettingStatus": "Open",
+                "allowPlace": false,
+                "number": 676067,
+                "isOpen": true,
+                "sortOrder": 2,
+                "position": "AWAY"
+            }
+        ],
+        "competitors": [],
+        "betOption": "Head To Head",
+        "bettingStatus": "Open",
+        "start_time": "2026-01-08T15:50:00.000Z",
+        "two_dollar_flag": true
+    },
+    {
+        "start_time_aest": "2026-01-09T03:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "EuroLeague",
+        "match_name": "Dubai Basketball v Fenerbahce",
+        "contestants": [
+            {
+                "name": "Dubai Basketball",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Fenerbahce",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "id": "584915",
+                "name": "Dubai Basketball",
+                "returnWin": 2.3,
+                "returnPlace": 0,
+                "differential": null,
+                "bettingStatus": "Open",
+                "allowPlace": false,
+                "number": 584915,
+                "isOpen": true,
+                "sortOrder": 1,
+                "position": "HOME",
+                "sameGame": true
+            },
+            {
+                "id": "584916",
+                "name": "Fenerbahce",
+                "returnWin": 1.58,
+                "returnPlace": 0,
+                "differential": null,
+                "bettingStatus": "Open",
+                "allowPlace": false,
+                "number": 584916,
+                "isOpen": true,
+                "sortOrder": 2,
+                "position": "AWAY",
+                "sameGame": true
+            }
+        ],
+        "competitors": [],
+        "betOption": "Head To Head",
+        "bettingStatus": "Open",
+        "start_time": "2026-01-08T16:00:00.000Z",
+        "two_dollar_flag": true
     }
 ]
