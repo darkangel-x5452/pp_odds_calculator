@@ -243,56 +243,5 @@
         "bettingStatus": "Open",
         "start_time": "2026-01-08T14:30:00.000Z",
         "two_dollar_flag": true
-    },
-    {
-        "start_time_aest": "2026-01-09T02:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "South Africa T20",
-        "match_name": "Joburg Spr Kings v Paarl Royals",
-        "contestants": [
-            {
-                "name": "Joburg Spr Kings",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Paarl Royals",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "id": "668068",
-                "name": "Joburg Spr Kings",
-                "returnWin": 1.65,
-                "returnPlace": 0,
-                "differential": null,
-                "bettingStatus": "Open",
-                "allowPlace": false,
-                "number": 668068,
-                "isOpen": true,
-                "sortOrder": 1,
-                "position": "HOME"
-            },
-            {
-                "id": "668074",
-                "name": "Paarl Royals",
-                "returnWin": 2.2,
-                "returnPlace": 0,
-                "differential": null,
-                "bettingStatus": "Open",
-                "allowPlace": false,
-                "number": 668074,
-                "isOpen": true,
-                "sortOrder": 2,
-                "position": "AWAY"
-            }
-        ],
-        "competitors": [],
-        "betOption": "Head To Head",
-        "bettingStatus": "Open",
-        "start_time": "2026-01-08T15:30:00.000Z",
-        "two_dollar_flag": true
     }
 ]
