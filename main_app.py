@@ -1,10 +1,8 @@
-import json
 import os
 
 import requests
-from datetime import datetime, timezone, timedelta
 
-from utils.get_matches import GetMatchesOdds, get_matches_comps, get_matches_matches
+from utils.get_matches import GetMatchesOdds
 
 
 def run_app():
