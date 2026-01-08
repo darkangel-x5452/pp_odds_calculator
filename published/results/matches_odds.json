@@ -1,6 +1,6 @@
 [
     {
-        "start_time_aest": "2026-01-09T08:45:00+11:00",
+        "start_time_aest": "2026-01-09T09:10:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "UTR Pro Series",
         "contestant_names": "Florian Kostov VERSES Julius Tan",
@@ -30,40 +30,7 @@
         ],
         "match_name": "Kostov F v Tan",
         "betOption": "Head To Head",
-        "start_time": "2026-01-08T21:45:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T09:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestant_names": "FairleighDicknsn VERSES Chicago State",
-        "contestants": [
-            {
-                "name": "FairleighDicknsn",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Chicago State",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "FairleighDicknsn",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            },
-            {
-                "name": "Chicago State",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "FairleighDicknsn v Chicago State",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-08T22:00:00.000Z"
+        "start_time": "2026-01-08T22:10:00.000Z"
     },
     {
         "start_time_aest": "2026-01-09T10:00:00+11:00",
@@ -260,6 +227,39 @@
             }
         ],
         "match_name": "Georgia State v Appalachian St",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T00:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "Monmouth VERSES WilliamMary",
+        "contestants": [
+            {
+                "name": "Monmouth",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "WilliamMary",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Monmouth",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            },
+            {
+                "name": "WilliamMary",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Monmouth v WilliamMary",
         "betOption": "Head To Head",
         "start_time": "2026-01-09T00:00:00.000Z"
     }
