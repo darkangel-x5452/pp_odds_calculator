@@ -22,6 +22,7 @@ class GetMatchesOdds():
         self.high_odds = 2.5
 
         self.result_path = "published/results/matches_odds.json"
+        self.historical_path = "data/results/matches_odds_historical.json"
 
     def get_matches_comps(self, input_jn: dict):
         sports = input_jn['nextToGoMatches']['sports']
@@ -53,8 +54,15 @@ class GetMatchesOdds():
             with open(self.result_path, "w") as f:
                 json.dump([], f, indent=4)
 
+        if os.path.exists(self.historical_path) is False:
+            with open(self.historical_path, "w") as f:
+                json.dump([], f, indent=4)
+
         with open(self.result_path, "r") as f:
             existing_matches: list[dict] = json.load(f)
+        
+        with open(self.historical_path, "r") as f:            
+            historical_matches: list[dict] = json.load(f)
 
         adding_matches_ls = existing_matches.copy()
 
@@ -65,6 +73,8 @@ class GetMatchesOdds():
             match_start_time = datetime.fromisoformat(_existing_match["start_time_aest"])
             if match_start_time >= current_dt:
                 filtered_matches_ls.append(_existing_match)
+            else:
+                historical_matches.append(_existing_match)
         adding_matches_ls = filtered_matches_ls
 
         # Add new matches to the list
@@ -87,6 +97,13 @@ class GetMatchesOdds():
         )
         with open(self.result_path, "w") as f:
             json.dump(adding_matches_ls, f, indent=4)
+            
+        historical_matches.sort(
+            key=lambda x: datetime.fromisoformat(x["start_time_aest"]),
+            reverse=False
+        )
+        with open(self.historical_path, "w") as f:
+            json.dump(historical_matches, f, indent=4)
 
     def _clean_propositions(self, propositions: list[dict]) -> list[dict]:
         cleaned_propositions = []
