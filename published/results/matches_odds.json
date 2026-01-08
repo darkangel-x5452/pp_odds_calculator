@@ -1,104 +1,5 @@
 [
     {
-        "start_time_aest": "2026-01-09T02:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "South Africa T20",
-        "contestant_names": "Joburg Spr Kings VERSES Paarl Royals",
-        "contestants": [
-            {
-                "name": "Joburg Spr Kings",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Paarl Royals",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Joburg Spr Kings",
-                "returnWin": 1.8,
-                "returnPlace": 0
-            },
-            {
-                "name": "Paarl Royals",
-                "returnWin": 2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Joburg Spr Kings v Paarl Royals",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-08T15:30:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T02:50:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Israel Super League",
-        "contestant_names": "Hpl Galil Elion VERSES Hapoel BeerSheva",
-        "contestants": [
-            {
-                "name": "Hpl Galil Elion",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Hapoel BeerSheva",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Hpl Galil Elion",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            },
-            {
-                "name": "Hapoel BeerSheva",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Hpl Galil Elion v Hapoel BeerSheva",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-08T15:50:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T03:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "EuroLeague",
-        "contestant_names": "Dubai Basketball VERSES Fenerbahce",
-        "contestants": [
-            {
-                "name": "Dubai Basketball",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Fenerbahce",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Dubai Basketball",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            },
-            {
-                "name": "Fenerbahce",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Dubai Basketball v Fenerbahce",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-08T16:00:00.000Z"
-    },
-    {
         "start_time_aest": "2026-01-09T03:30:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "Basketball Champions League",
@@ -359,6 +260,72 @@
             }
         ],
         "match_name": "Rottgering M v Milavsky D",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-08T17:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T04:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestant_names": "Bor Artnak VERSES Theodore Dean",
+        "contestants": [
+            {
+                "name": "Artnak B",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Dean",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bor Artnak",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            },
+            {
+                "name": "Theodore Dean",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Artnak B v Dean",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-08T17:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T04:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestant_names": "Luca Pow VERSES Nicolas Arseneault",
+        "contestants": [
+            {
+                "name": "Pow",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Arseneault N",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Luca Pow",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            },
+            {
+                "name": "Nicolas Arseneault",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Pow v Arseneault N",
         "betOption": "Head To Head",
         "start_time": "2026-01-08T17:00:00.000Z"
     }
