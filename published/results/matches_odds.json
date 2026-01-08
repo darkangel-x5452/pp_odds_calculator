@@ -196,6 +196,55 @@
         "two_dollar_flag": true
     },
     {
+        "start_time_aest": "2026-01-09T01:30:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "German Masters Qualifiers",
+        "match_name": "OConnor v Day R",
+        "contestants": [
+            {
+                "name": "OConnor",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Day R",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "id": "915333",
+                "name": "Joe OConnor",
+                "returnWin": 1.55,
+                "returnPlace": 0,
+                "differential": null,
+                "bettingStatus": "Open",
+                "allowPlace": false,
+                "number": 915333,
+                "isOpen": true,
+                "sortOrder": 1
+            },
+            {
+                "id": "915334",
+                "name": "Ryan Day",
+                "returnWin": 2.4,
+                "returnPlace": 0,
+                "differential": null,
+                "bettingStatus": "Open",
+                "allowPlace": false,
+                "number": 915334,
+                "isOpen": true,
+                "sortOrder": 3
+            }
+        ],
+        "competitors": [],
+        "betOption": "Result",
+        "bettingStatus": "Open",
+        "start_time": "2026-01-08T14:30:00.000Z",
+        "two_dollar_flag": true
+    },
+    {
         "start_time_aest": "2026-01-09T02:30:00+11:00",
         "sport_name": "Cricket",
         "competition_name": "South Africa T20",
