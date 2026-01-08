@@ -1,71 +1,5 @@
 [
     {
-        "start_time_aest": "2026-01-09T10:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Brazil NBB",
-        "contestant_names": "SC Corinthians VERSES Minas TC",
-        "contestants": [
-            {
-                "name": "SC Corinthians",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Minas TC",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "SC Corinthians",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            },
-            {
-                "name": "Minas TC",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "SC Corinthians v Minas TC",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-08T23:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T10:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestant_names": "Bryant VERSES UMass-Lowell",
-        "contestants": [
-            {
-                "name": "Bryant",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "UMass-Lowell",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Bryant",
-                "returnWin": 1.74,
-                "returnPlace": 0
-            },
-            {
-                "name": "UMass-Lowell",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Bryant v UMass-Lowell",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-08T23:00:00.000Z"
-    },
-    {
         "start_time_aest": "2026-01-09T10:30:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA 125 Tour",
@@ -227,6 +161,39 @@
             }
         ],
         "match_name": "Monmouth v WilliamMary",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T00:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "Florida Gulf Cst VERSES Austin Peay",
+        "contestants": [
+            {
+                "name": "Florida Gulf Cst",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Austin Peay",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Florida Gulf Cst",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            },
+            {
+                "name": "Austin Peay",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Florida Gulf Cst v Austin Peay",
         "betOption": "Head To Head",
         "start_time": "2026-01-09T00:00:00.000Z"
     }
