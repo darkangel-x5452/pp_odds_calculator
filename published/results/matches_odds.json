@@ -1,104 +1,5 @@
 [
     {
-        "start_time_aest": "2026-01-09T06:15:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Iceland Premier League",
-        "contestant_names": "IR Reykjavik VERSES Njarovik",
-        "contestants": [
-            {
-                "name": "IR Reykjavik",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Njarovik",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "IR Reykjavik",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            },
-            {
-                "name": "Njarovik",
-                "returnWin": 1.68,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "IR Reykjavik v Njarovik",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-08T19:15:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T06:15:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Poland Energa Basket Liga",
-        "contestant_names": "GTK Gliwice VERSES Czarni Slupsk",
-        "contestants": [
-            {
-                "name": "GTK Gliwice",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Czarni Slupsk",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "GTK Gliwice",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            },
-            {
-                "name": "Czarni Slupsk",
-                "returnWin": 1.68,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "GTK Gliwice v Czarni Slupsk",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-08T19:15:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T06:20:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "Championship League",
-        "contestant_names": "Gary Wilson VERSES Matthew Selt",
-        "contestants": [
-            {
-                "name": "Wilson",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Selt",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Gary Wilson",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            },
-            {
-                "name": "Matthew Selt",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Wilson v Selt",
-        "betOption": "Result",
-        "start_time": "2026-01-08T19:20:00.000Z"
-    },
-    {
         "start_time_aest": "2026-01-09T08:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "UTR Pro Series",
@@ -163,5 +64,170 @@
         "match_name": "FairleighDicknsn v Chicago State",
         "betOption": "Head To Head",
         "start_time": "2026-01-08T22:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Brazil NBB",
+        "contestant_names": "SC Corinthians VERSES Minas TC",
+        "contestants": [
+            {
+                "name": "SC Corinthians",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Minas TC",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "SC Corinthians",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            },
+            {
+                "name": "Minas TC",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "SC Corinthians v Minas TC",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-08T23:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "Bryant VERSES UMass-Lowell",
+        "contestants": [
+            {
+                "name": "Bryant",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "UMass-Lowell",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bryant",
+                "returnWin": 1.74,
+                "returnPlace": 0
+            },
+            {
+                "name": "UMass-Lowell",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Bryant v UMass-Lowell",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-08T23:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T10:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Tour",
+        "contestant_names": "Daria Snigur VERSES Joanna Garland",
+        "contestants": [
+            {
+                "name": "Snigur",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Garland",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Daria Snigur",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            },
+            {
+                "name": "Joanna Garland",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Snigur v Garland",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-08T23:30:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestant_names": "Rocamora VERSES Pergamino Basket",
+        "contestants": [
+            {
+                "name": "Rocamora",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Pergamino Basket",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Rocamora",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            },
+            {
+                "name": "Pergamino Basket",
+                "returnWin": 1.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Rocamora v Pergamino Basket",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T00:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "NJIT VERSES New Hampshire",
+        "contestants": [
+            {
+                "name": "NJIT",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "New Hampshire",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "NJIT",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "New Hampshire",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "NJIT v New Hampshire",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T00:00:00.000Z"
     }
 ]
