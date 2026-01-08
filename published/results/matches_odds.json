@@ -1,236 +1,5 @@
 [
     {
-        "start_time_aest": "2026-01-09T05:10:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "Championship League",
-        "contestant_names": "Xiao Guodong VERSES Matthew Selt",
-        "contestants": [
-            {
-                "name": "Guodong",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Selt",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Xiao Guodong",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            },
-            {
-                "name": "Matthew Selt",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Guodong v Selt",
-        "betOption": "Result",
-        "start_time": "2026-01-08T18:10:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T05:30:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "Championship League",
-        "contestant_names": "Gary Wilson VERSES Matthew Selt",
-        "contestants": [
-            {
-                "name": "Wilson",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Selt",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Gary Wilson",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            },
-            {
-                "name": "Matthew Selt",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Wilson v Selt",
-        "betOption": "Result",
-        "start_time": "2026-01-08T18:30:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T05:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestant_names": "Kn Smith VERSES Quinn Vandecasteele",
-        "contestants": [
-            {
-                "name": "Smith K",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Vandecasteele",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Kn Smith",
-                "returnWin": 1.48,
-                "returnPlace": 0
-            },
-            {
-                "name": "Quinn Vandecasteele",
-                "returnWin": 2.45,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Smith K v Vandecasteele",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-08T18:30:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T05:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestant_names": "Jack Kennedy VERSES Tristan Mccormick",
-        "contestants": [
-            {
-                "name": "Kennedy",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "McCormick",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jack Kennedy",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            },
-            {
-                "name": "Tristan Mccormick",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Kennedy v McCormick",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-08T18:30:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T06:00:00+11:00",
-        "sport_name": "Soccer",
-        "competition_name": "Spain Super Cup",
-        "contestant_names": "Atletico Madrid VERSES Real Madrid",
-        "contestants": [
-            {
-                "name": "Atletico Madrid",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Real Madrid",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Atletico Madrid",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            },
-            {
-                "name": "Real Madrid",
-                "returnWin": 1.7,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Atletico Madrid v Real Madrid",
-        "betOption": "Winner of Tie",
-        "start_time": "2026-01-08T19:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T06:00:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "CEV Challenge Cup",
-        "contestant_names": "TSV Herrsching VERSES Bigbank Tartu",
-        "contestants": [
-            {
-                "name": "TSV Herrsching",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Bigbank Tartu",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "TSV Herrsching",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            },
-            {
-                "name": "Bigbank Tartu",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "TSV Herrsching v Bigbank Tartu",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-08T19:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T06:00:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Champions League Women",
-        "contestant_names": "Le Cannet-Rocheville (W) VERSES CS Alba Blaj (W)",
-        "contestants": [
-            {
-                "name": "Le Can-Roch (W)",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "CS Alba Blaj (W)",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Le Cannet-Rocheville (W)",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            },
-            {
-                "name": "CS Alba Blaj (W)",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Le Can-Roch (W) v CS Alba Blaj (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-08T19:00:00.000Z"
-    },
-    {
         "start_time_aest": "2026-01-09T06:15:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "Iceland Premier League",
@@ -262,5 +31,137 @@
         "match_name": "IR Reykjavik v Njarovik",
         "betOption": "Head To Head",
         "start_time": "2026-01-08T19:15:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T06:15:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Poland Energa Basket Liga",
+        "contestant_names": "GTK Gliwice VERSES Czarni Slupsk",
+        "contestants": [
+            {
+                "name": "GTK Gliwice",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Czarni Slupsk",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "GTK Gliwice",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            },
+            {
+                "name": "Czarni Slupsk",
+                "returnWin": 1.68,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "GTK Gliwice v Czarni Slupsk",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-08T19:15:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T06:20:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "Championship League",
+        "contestant_names": "Gary Wilson VERSES Matthew Selt",
+        "contestants": [
+            {
+                "name": "Wilson",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Selt",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Gary Wilson",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            },
+            {
+                "name": "Matthew Selt",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Wilson v Selt",
+        "betOption": "Result",
+        "start_time": "2026-01-08T19:20:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T08:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "UTR Pro Series",
+        "contestant_names": "Florian Kostov VERSES Julius Tan",
+        "contestants": [
+            {
+                "name": "Kostov F",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Tan",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Florian Kostov",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            },
+            {
+                "name": "Julius Tan",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Kostov F v Tan",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-08T21:45:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T09:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "FairleighDicknsn VERSES Chicago State",
+        "contestants": [
+            {
+                "name": "FairleighDicknsn",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Chicago State",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "FairleighDicknsn",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            },
+            {
+                "name": "Chicago State",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "FairleighDicknsn v Chicago State",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-08T22:00:00.000Z"
     }
 ]
