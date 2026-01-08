@@ -3,7 +3,7 @@
         "start_time_aest": "2026-01-09T02:30:00+11:00",
         "sport_name": "Cricket",
         "competition_name": "South Africa T20",
-        "match_name": "Joburg Spr Kings v Paarl Royals",
+        "contestant_names": "Joburg Spr Kings VERSES Paarl Royals",
         "contestants": [
             {
                 "name": "Joburg Spr Kings",
@@ -18,43 +18,25 @@
         ],
         "propositions": [
             {
-                "id": "668068",
                 "name": "Joburg Spr Kings",
-                "returnWin": 1.65,
-                "returnPlace": 0,
-                "differential": null,
-                "bettingStatus": "Open",
-                "allowPlace": false,
-                "number": 668068,
-                "isOpen": true,
-                "sortOrder": 1,
-                "position": "HOME"
+                "returnWin": 1.8,
+                "returnPlace": 0
             },
             {
-                "id": "668074",
                 "name": "Paarl Royals",
-                "returnWin": 2.2,
-                "returnPlace": 0,
-                "differential": null,
-                "bettingStatus": "Open",
-                "allowPlace": false,
-                "number": 668074,
-                "isOpen": true,
-                "sortOrder": 2,
-                "position": "AWAY"
+                "returnWin": 2,
+                "returnPlace": 0
             }
         ],
-        "competitors": [],
+        "match_name": "Joburg Spr Kings v Paarl Royals",
         "betOption": "Head To Head",
-        "bettingStatus": "Open",
-        "start_time": "2026-01-08T15:30:00.000Z",
-        "two_dollar_flag": true
+        "start_time": "2026-01-08T15:30:00.000Z"
     },
     {
         "start_time_aest": "2026-01-09T02:50:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "Israel Super League",
-        "match_name": "Hpl Galil Elion v Hapoel BeerSheva",
+        "contestant_names": "Hpl Galil Elion VERSES Hapoel BeerSheva",
         "contestants": [
             {
                 "name": "Hpl Galil Elion",
@@ -69,43 +51,25 @@
         ],
         "propositions": [
             {
-                "id": "676066",
                 "name": "Hpl Galil Elion",
                 "returnWin": 2.2,
-                "returnPlace": 0,
-                "differential": null,
-                "bettingStatus": "Open",
-                "allowPlace": false,
-                "number": 676066,
-                "isOpen": true,
-                "sortOrder": 1,
-                "position": "HOME"
+                "returnPlace": 0
             },
             {
-                "id": "676067",
                 "name": "Hapoel BeerSheva",
                 "returnWin": 1.6,
-                "returnPlace": 0,
-                "differential": null,
-                "bettingStatus": "Open",
-                "allowPlace": false,
-                "number": 676067,
-                "isOpen": true,
-                "sortOrder": 2,
-                "position": "AWAY"
+                "returnPlace": 0
             }
         ],
-        "competitors": [],
+        "match_name": "Hpl Galil Elion v Hapoel BeerSheva",
         "betOption": "Head To Head",
-        "bettingStatus": "Open",
-        "start_time": "2026-01-08T15:50:00.000Z",
-        "two_dollar_flag": true
+        "start_time": "2026-01-08T15:50:00.000Z"
     },
     {
         "start_time_aest": "2026-01-09T03:00:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "EuroLeague",
-        "match_name": "Dubai Basketball v Fenerbahce",
+        "contestant_names": "Dubai Basketball VERSES Fenerbahce",
         "contestants": [
             {
                 "name": "Dubai Basketball",
@@ -130,7 +94,7 @@
                 "returnPlace": 0
             }
         ],
-        "competitors": [],
+        "match_name": "Dubai Basketball v Fenerbahce",
         "betOption": "Head To Head",
         "start_time": "2026-01-08T16:00:00.000Z"
     },
@@ -138,7 +102,7 @@
         "start_time_aest": "2026-01-09T03:30:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "Basketball Champions League",
-        "match_name": "AS Karditsas v Kk Spartak Subot",
+        "contestant_names": "AS Karditsas VERSES Kk Spartak Subot",
         "contestants": [
             {
                 "name": "AS Karditsas",
@@ -163,6 +127,7 @@
                 "returnPlace": 0
             }
         ],
+        "match_name": "AS Karditsas v Kk Spartak Subot",
         "betOption": "Head To Head",
         "start_time": "2026-01-08T16:30:00.000Z"
     },
@@ -170,7 +135,7 @@
         "start_time_aest": "2026-01-09T03:30:00+11:00",
         "sport_name": "Snooker",
         "competition_name": "Championship League",
-        "match_name": "Guodong v Woollaston",
+        "contestant_names": "Xiao Guodong VERSES Ben Woollaston",
         "contestants": [
             {
                 "name": "Guodong",
@@ -186,15 +151,16 @@
         "propositions": [
             {
                 "name": "Xiao Guodong",
-                "returnWin": 1.55,
+                "returnWin": 1.5,
                 "returnPlace": 0
             },
             {
                 "name": "Ben Woollaston",
-                "returnWin": 2.4,
+                "returnWin": 2.5,
                 "returnPlace": 0
             }
         ],
+        "match_name": "Guodong v Woollaston",
         "betOption": "Result",
         "start_time": "2026-01-08T16:30:00.000Z"
     },
@@ -202,7 +168,7 @@
         "start_time_aest": "2026-01-09T03:30:00+11:00",
         "sport_name": "Snooker",
         "competition_name": "Championship League",
-        "match_name": "Xintong v Wilson",
+        "contestant_names": "Zhao Xintong VERSES Gary Wilson",
         "contestants": [
             {
                 "name": "Xintong",
@@ -227,6 +193,7 @@
                 "returnPlace": 0
             }
         ],
+        "match_name": "Xintong v Wilson",
         "betOption": "Result",
         "start_time": "2026-01-08T16:30:00.000Z"
     },
@@ -234,7 +201,7 @@
         "start_time_aest": "2026-01-09T04:00:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "Israel Premier League Women",
-        "match_name": "Petah Tikva v Maccabi Ashdod",
+        "contestant_names": "Petah Tikva VERSES Maccabi Ashdod",
         "contestants": [
             {
                 "name": "Petah Tikva",
@@ -259,6 +226,7 @@
                 "returnPlace": 0
             }
         ],
+        "match_name": "Petah Tikva v Maccabi Ashdod",
         "betOption": "Head To Head",
         "start_time": "2026-01-08T17:00:00.000Z"
     },
@@ -266,7 +234,7 @@
         "start_time_aest": "2026-01-09T04:00:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "Israel Premier League Women",
-        "match_name": "Rishon LeZion v Elitzur Holon",
+        "contestant_names": "Rishon LeZion VERSES Elitzur Holon",
         "contestants": [
             {
                 "name": "Rishon LeZion",
@@ -291,6 +259,7 @@
                 "returnPlace": 0
             }
         ],
+        "match_name": "Rishon LeZion v Elitzur Holon",
         "betOption": "Head To Head",
         "start_time": "2026-01-08T17:00:00.000Z"
     },
@@ -298,7 +267,7 @@
         "start_time_aest": "2026-01-09T04:00:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "Israel Premier League Women",
-        "match_name": "Maccabi Haifa v Maccabi Karmiel",
+        "contestant_names": "Maccabi Haifa VERSES Maccabi Karmiel",
         "contestants": [
             {
                 "name": "Maccabi Haifa",
@@ -323,6 +292,40 @@
                 "returnPlace": 0
             }
         ],
+        "match_name": "Maccabi Haifa v Maccabi Karmiel",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-08T17:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Qatar QBL",
+        "contestant_names": "Al-Arabi VERSES Al Ahli Qatar",
+        "contestants": [
+            {
+                "name": "Al-Arabi",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Al Ahli Qatar",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Al-Arabi",
+                "returnWin": 1.45,
+                "returnPlace": 0
+            },
+            {
+                "name": "Al Ahli Qatar",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Al-Arabi v Al Ahli Qatar",
         "betOption": "Head To Head",
         "start_time": "2026-01-08T17:00:00.000Z"
     },
@@ -330,7 +333,7 @@
         "start_time_aest": "2026-01-09T04:00:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ITF Mens",
-        "match_name": "Shick B v Mitsui",
+        "contestant_names": "Braden Shick VERSES Shunsuke Mitsui",
         "contestants": [
             {
                 "name": "Shick B",
@@ -355,6 +358,7 @@
                 "returnPlace": 0
             }
         ],
+        "match_name": "Shick B v Mitsui",
         "betOption": "Head To Head",
         "start_time": "2026-01-08T17:00:00.000Z"
     },
@@ -362,7 +366,7 @@
         "start_time_aest": "2026-01-09T04:00:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ITF Mens",
-        "match_name": "Rottgering M v Milavsky D",
+        "contestant_names": "Mees Rottgering VERSES Daniel Milavsky",
         "contestants": [
             {
                 "name": "Rottgering M",
@@ -387,6 +391,7 @@
                 "returnPlace": 0
             }
         ],
+        "match_name": "Rottgering M v Milavsky D",
         "betOption": "Head To Head",
         "start_time": "2026-01-08T17:00:00.000Z"
     }
