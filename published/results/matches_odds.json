@@ -1,203 +1,5 @@
 [
     {
-        "start_time_aest": "2026-01-09T14:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestant_names": "Seattle VERSES Minnesota",
-        "contestants": [
-            {
-                "name": "Seattle",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Minnesota",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Seattle",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            },
-            {
-                "name": "Minnesota",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Seattle v Minnesota",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T03:05:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T14:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestant_names": "Las Vegas VERSES Columbus",
-        "contestants": [
-            {
-                "name": "Las Vegas",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Columbus",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Las Vegas",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            },
-            {
-                "name": "Columbus",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Las Vegas v Columbus",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T03:05:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T14:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestant_names": "Alexander Blockx VERSES James Mccabe",
-        "contestants": [
-            {
-                "name": "Blockx A",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Mccabe",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Alexander Blockx",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            },
-            {
-                "name": "James Mccabe",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Blockx A v Mccabe",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T03:15:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T14:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestant_names": "Zdenek Kolar VERSES Marek Gengel",
-        "contestants": [
-            {
-                "name": "KolarZ",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Gengel",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Zdenek Kolar",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            },
-            {
-                "name": "Marek Gengel",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "KolarZ v Gengel",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T03:15:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T14:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestant_names": "Rio Noguchi VERSES Joel Schwaerzler",
-        "contestants": [
-            {
-                "name": "Noguchi",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Schwaerzler",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Rio Noguchi",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            },
-            {
-                "name": "Joel Schwaerzler",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Noguchi v Schwaerzler",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T03:15:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T14:25:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "NZ Super Smash",
-        "contestant_names": "Wellington Firebirds VERSES Otago Volts",
-        "contestants": [
-            {
-                "name": "Wellington",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Otago",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Wellington Firebirds",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            },
-            {
-                "name": "Otago Volts",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Wellington v Otago",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T03:25:00.000Z"
-    },
-    {
         "start_time_aest": "2026-01-09T14:30:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
@@ -229,6 +31,72 @@
         "match_name": "Oregon v Ohio State",
         "betOption": "Head To Head",
         "start_time": "2026-01-09T03:30:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T14:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestant_names": "Zdenek Kolar VERSES Marek Gengel",
+        "contestants": [
+            {
+                "name": "KolarZ",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Gengel",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Zdenek Kolar",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            },
+            {
+                "name": "Marek Gengel",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "KolarZ v Gengel",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T03:45:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T14:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestant_names": "Rio Noguchi VERSES Joel Schwaerzler",
+        "contestants": [
+            {
+                "name": "Noguchi",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Schwaerzler",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Rio Noguchi",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            },
+            {
+                "name": "Joel Schwaerzler",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Noguchi v Schwaerzler",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T03:45:00.000Z"
     },
     {
         "start_time_aest": "2026-01-09T16:00:00+11:00",
@@ -295,5 +163,38 @@
         "match_name": "Nys/Verbeek v Vocel/Machac",
         "betOption": "Head To Head",
         "start_time": "2026-01-09T05:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T17:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA Doubles",
+        "contestant_names": "Eala/Jovic VERSES Xu/Yang",
+        "contestants": [
+            {
+                "name": "Eala/Jovic",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Xu/Yang",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Eala/Jovic",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            },
+            {
+                "name": "Xu/Yang",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Eala/Jovic v Xu/Yang",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T06:30:00.000Z"
     }
 ]
