@@ -1,72 +1,6 @@
 [
     {
-        "start_time_aest": "2026-01-09T15:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestant_names": "Zdenek Kolar VERSES Marek Gengel",
-        "contestants": [
-            {
-                "name": "KolarZ",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Gengel",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Zdenek Kolar",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            },
-            {
-                "name": "Marek Gengel",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "KolarZ v Gengel",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T04:15:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T15:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestant_names": "Rio Noguchi VERSES Joel Schwaerzler",
-        "contestants": [
-            {
-                "name": "Noguchi",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Schwaerzler",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Rio Noguchi",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            },
-            {
-                "name": "Joel Schwaerzler",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Noguchi v Schwaerzler",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T04:15:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T16:00:00+11:00",
+        "start_time_aest": "2026-01-09T16:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP",
         "contestant_names": "Raphael Collignon VERSES Brandon Nakashima",
@@ -85,51 +19,18 @@
         "propositions": [
             {
                 "name": "Raphael Collignon",
-                "returnWin": 2.2,
+                "returnWin": 2.15,
                 "returnPlace": 0
             },
             {
                 "name": "Brandon Nakashima",
-                "returnWin": 1.62,
+                "returnWin": 1.65,
                 "returnPlace": 0
             }
         ],
         "match_name": "Collignon v Nakashima B",
         "betOption": "Head To Head",
-        "start_time": "2026-01-09T05:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T16:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "contestant_names": "Nys/Verbeek VERSES Vocel/Machac",
-        "contestants": [
-            {
-                "name": "Nys/Verbeek",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Vocel/Machac",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Nys/Verbeek",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            },
-            {
-                "name": "Vocel/Machac",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Nys/Verbeek v Vocel/Machac",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T05:00:00.000Z"
+        "start_time": "2026-01-09T05:15:00.000Z"
     },
     {
         "start_time_aest": "2026-01-09T17:30:00+11:00",
@@ -163,5 +64,38 @@
         "match_name": "Eala/Jovic v Xu/Yang",
         "betOption": "Head To Head",
         "start_time": "2026-01-09T06:30:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T18:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Japan Womens Empress Cup",
+        "contestant_names": "Denso Iris VERSES Fujitsu Red Wave",
+        "contestants": [
+            {
+                "name": "Denso Iris",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Fujitsu Red Wave",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Denso Iris",
+                "returnWin": 1.45,
+                "returnPlace": 0
+            },
+            {
+                "name": "Fujitsu Red Wave",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Denso Iris v Fujitsu Red Wave",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T07:00:00.000Z"
     }
 ]
