@@ -1,105 +1,39 @@
 [
     {
-        "start_time_aest": "2026-01-09T19:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestant_names": "Mirra Andreeva VERSES Marta Kostyuk",
+        "start_time_aest": "2026-01-09T20:15:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Philippines PBA Cup",
+        "contestant_names": "Meralco Bolts VERSES TnT TropangTxtrs",
         "contestants": [
             {
-                "name": "Andreeva M",
+                "name": "Meralco Bolts",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Kostyuk",
+                "name": "TnT TropangTxtrs",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Mirra Andreeva",
-                "returnWin": 1.75,
-                "returnPlace": 0
-            },
-            {
-                "name": "Marta Kostyuk",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Andreeva M v Kostyuk",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T08:30:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T19:40:00+11:00",
-        "sport_name": "Badminton",
-        "competition_name": "Badminton World Tour",
-        "contestant_names": "Alex Lanier VERSES Kunlavut Vitidsarn",
-        "contestants": [
-            {
-                "name": "Lanier",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Vitidsarn",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Alex Lanier",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Kunlavut Vitidsarn",
-                "returnWin": 1.48,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Lanier v Vitidsarn",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T08:40:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T19:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestant_names": "Mirra Andreeva VERSES Marta Kostyuk",
-        "contestants": [
-            {
-                "name": "Andreeva M",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Kostyuk",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Mirra Andreeva",
-                "returnWin": 1.8,
-                "returnPlace": 0
-            },
-            {
-                "name": "Marta Kostyuk",
+                "name": "Meralco Bolts",
                 "returnWin": 2,
                 "returnPlace": 0
+            },
+            {
+                "name": "TnT TropangTxtrs",
+                "returnWin": 1.7,
+                "returnPlace": 0
             }
         ],
-        "match_name": "Andreeva M v Kostyuk",
+        "match_name": "Meralco Bolts v TnT TropangTxtrs",
         "betOption": "Head To Head",
-        "start_time": "2026-01-09T08:45:00.000Z"
+        "start_time": "2026-01-09T09:15:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-09T20:00:00+11:00",
+        "start_time_aest": "2026-01-09T20:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestant_names": "Michael Zheng VERSES Arthur Gea",
@@ -129,72 +63,171 @@
         ],
         "match_name": "Zheng M v Gea A",
         "betOption": "Head To Head",
-        "start_time": "2026-01-09T09:00:00.000Z"
+        "start_time": "2026-01-09T09:15:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-09T20:00:00+11:00",
+        "start_time_aest": "2026-01-09T20:30:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ITF Mens",
-        "contestant_names": "Florian Broska VERSES Lukas Pokorny",
+        "contestant_names": "Pierre Yves Bailly VERSES Theo Papamalamis",
         "contestants": [
             {
-                "name": "Broska",
+                "name": "Bailly PY",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Pokorny L",
+                "name": "Papamalamis",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Florian Broska",
-                "returnWin": 1.55,
+                "name": "Pierre Yves Bailly",
+                "returnWin": 1.68,
                 "returnPlace": 0
             },
             {
-                "name": "Lukas Pokorny",
-                "returnWin": 2.3,
+                "name": "Theo Papamalamis",
+                "returnWin": 2.05,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Broska v Pokorny L",
+        "match_name": "Bailly PY v Papamalamis",
         "betOption": "Head To Head",
-        "start_time": "2026-01-09T09:00:00.000Z"
+        "start_time": "2026-01-09T09:30:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-09T20:00:00+11:00",
+        "start_time_aest": "2026-01-09T21:00:00+11:00",
         "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestant_names": "Milana Zhabrailova VERSES Yasmine Mansouri",
+        "competition_name": "ATP",
+        "contestant_names": "Juncheng Shang VERSES Alexander Bublik",
         "contestants": [
             {
-                "name": "Zhabrailova",
+                "name": "Shang",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Mansouri Y",
+                "name": "Bublik",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Milana Zhabrailova",
-                "returnWin": 2.45,
+                "name": "Juncheng Shang",
+                "returnWin": 2.3,
                 "returnPlace": 0
             },
             {
-                "name": "Yasmine Mansouri",
-                "returnWin": 1.48,
+                "name": "Alexander Bublik",
+                "returnWin": 1.58,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Zhabrailova v Mansouri Y",
+        "match_name": "Shang v Bublik",
         "betOption": "Head To Head",
-        "start_time": "2026-01-09T09:00:00.000Z"
+        "start_time": "2026-01-09T10:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T21:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestant_names": "Amir Omarkhanov VERSES Yaroslav Demin",
+        "contestants": [
+            {
+                "name": "Omarkhanov A",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Demin",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Amir Omarkhanov",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            },
+            {
+                "name": "Yaroslav Demin",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Omarkhanov A v Demin",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T10:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T21:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestant_names": "Julian Alonso Vivanco VERSES Pavel Lagutin",
+        "contestants": [
+            {
+                "name": "Alonso Vivanco",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Lagutin",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Julian Alonso Vivanco",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Pavel Lagutin",
+                "returnWin": 1.46,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Alonso Vivanco v Lagutin",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T10:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T21:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestant_names": "Alaa Trifi VERSES John Hallquist Lithen",
+        "contestants": [
+            {
+                "name": "Trifi A",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Hallquist Lithen",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alaa Trifi",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            },
+            {
+                "name": "John Hallquist Lithen",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Trifi A v Hallquist Lithen",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T10:00:00.000Z"
     }
 ]
