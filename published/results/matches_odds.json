@@ -1,133 +1,39 @@
 [
     {
-        "start_time_aest": "2026-01-09T12:05:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "contestant_names": "Guinard/Johnson VERSES Miedler/Cabral",
+        "start_time_aest": "2026-01-09T13:05:00+11:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico LMP",
+        "contestant_names": "Culiacan VERSES Los Mochis",
         "contestants": [
             {
-                "name": "Guinard/Johnson",
+                "name": "Culiacan",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Miedler/Cabral",
+                "name": "Los Mochis",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Guinard/Johnson",
-                "returnWin": 2.4,
+                "name": "Culiacan",
+                "returnWin": 1.55,
                 "returnPlace": 0
             },
             {
-                "name": "Miedler/Cabral",
-                "returnWin": 1.5,
+                "name": "Los Mochis",
+                "returnWin": 2.3,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Guinard/Johnson v Miedler/Cabral",
+        "match_name": "Culiacan v Los Mochis",
         "betOption": "Head To Head",
-        "start_time": "2026-01-09T01:05:00.000Z"
+        "start_time": "2026-01-09T02:05:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-09T12:08:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestant_names": "Nashville VERSES NY Islanders",
-        "contestants": [
-            {
-                "name": "Nashville",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "NY Islanders",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Nashville",
-                "returnWin": 1.75,
-                "returnPlace": 0
-            },
-            {
-                "name": "NY Islanders",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Nashville v NY Islanders",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T01:08:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T12:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestant_names": "Minnesota VERSES Cleveland",
-        "contestants": [
-            {
-                "name": "Minnesota",
-                "position": "HOME",
-                "isHome": true,
-                "image": [
-                    {
-                        "size": "svg",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBA%20logos/Minnesota%20Timberwolves.svg"
-                    },
-                    {
-                        "size": "xxhdpi",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBA%20logos/Minnesota%20Timberwolves_xxhdpi.png"
-                    },
-                    {
-                        "size": "2x",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBA%20logos/Minnesota%20Timberwolves%402x.png"
-                    }
-                ]
-            },
-            {
-                "name": "Cleveland",
-                "position": "AWAY",
-                "isHome": false,
-                "image": [
-                    {
-                        "size": "svg",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBA%20logos/Cleveland%20Cavaliers.svg"
-                    },
-                    {
-                        "size": "xxhdpi",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBA%20logos/Cleveland%20Cavaliers_xxhdpi.png"
-                    },
-                    {
-                        "size": "2x",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBA%20logos/Cleveland%20Cavaliers%402x.png"
-                    }
-                ]
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Minnesota",
-                "returnWin": 1.67,
-                "returnPlace": 0
-            },
-            {
-                "name": "Cleveland",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Minnesota v Cleveland",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T01:10:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T12:15:00+11:00",
+        "start_time_aest": "2026-01-09T13:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestant_names": "Zdenek Kolar VERSES Marek Gengel",
@@ -157,10 +63,10 @@
         ],
         "match_name": "KolarZ v Gengel",
         "betOption": "Head To Head",
-        "start_time": "2026-01-09T01:15:00.000Z"
+        "start_time": "2026-01-09T02:15:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-09T12:15:00+11:00",
+        "start_time_aest": "2026-01-09T13:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestant_names": "Rio Noguchi VERSES Joel Schwaerzler",
@@ -190,171 +96,171 @@
         ],
         "match_name": "Noguchi v Schwaerzler",
         "betOption": "Head To Head",
-        "start_time": "2026-01-09T01:15:00.000Z"
+        "start_time": "2026-01-09T02:15:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-09T12:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestant_names": "SIU Edwardsville VERSES ArknssLittleRock",
+        "start_time_aest": "2026-01-09T13:30:00+11:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico LMP",
+        "contestant_names": "Hermosillo VERSES Jalisco",
         "contestants": [
             {
-                "name": "SIU Edwardsville",
+                "name": "Hermosillo",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "ArknssLittleRock",
+                "name": "Jalisco",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "SIU Edwardsville",
-                "returnWin": 1.53,
+                "name": "Hermosillo",
+                "returnWin": 1.5,
                 "returnPlace": 0
             },
             {
-                "name": "ArknssLittleRock",
-                "returnWin": 2.5,
+                "name": "Jalisco",
+                "returnWin": 2.4,
                 "returnPlace": 0
             }
         ],
-        "match_name": "SIU Edwardsville v ArknssLittleRock",
+        "match_name": "Hermosillo v Jalisco",
         "betOption": "Head To Head",
-        "start_time": "2026-01-09T01:30:00.000Z"
+        "start_time": "2026-01-09T02:30:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-09T12:30:00+11:00",
+        "start_time_aest": "2026-01-09T13:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "CSU Bakersfield VERSES UC Riverside",
+        "contestants": [
+            {
+                "name": "CSU Bakersfield",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "UC Riverside",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "CSU Bakersfield",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            },
+            {
+                "name": "UC Riverside",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "CSU Bakersfield v UC Riverside",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T02:30:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T14:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "Portland VERSES Pacific",
+        "contestants": [
+            {
+                "name": "Portland",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Pacific",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Portland",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            },
+            {
+                "name": "Pacific",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Portland v Pacific",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T03:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T14:00:00+11:00",
         "sport_name": "Tennis",
-        "competition_name": "WTA 125 Tour",
-        "contestant_names": "Polina Kudermetova VERSES Himeno Sakatsume",
+        "competition_name": "ATP",
+        "contestant_names": "Aleksandar Kovacevic VERSES Giovanni Perricard",
         "contestants": [
             {
-                "name": "Kudermetova P",
+                "name": "Kovacevic A",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Sakatsume",
+                "name": "Perricard",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Polina Kudermetova",
-                "returnWin": 1.52,
-                "returnPlace": 0
-            },
-            {
-                "name": "Himeno Sakatsume",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Kudermetova P v Sakatsume",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T01:30:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T13:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestant_names": "EastrnWashington VERSES Montana State",
-        "contestants": [
-            {
-                "name": "EastrnWashington",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Montana State",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "EastrnWashington",
+                "name": "Aleksandar Kovacevic",
                 "returnWin": 2.15,
                 "returnPlace": 0
             },
             {
-                "name": "Montana State",
-                "returnWin": 1.7,
+                "name": "Giovanni Perricard",
+                "returnWin": 1.65,
                 "returnPlace": 0
             }
         ],
-        "match_name": "EastrnWashington v Montana State",
+        "match_name": "Kovacevic A v Perricard",
         "betOption": "Head To Head",
-        "start_time": "2026-01-09T02:00:00.000Z"
+        "start_time": "2026-01-09T03:00:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-09T13:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestant_names": "New Mexico State VERSES Western Kentucky",
+        "start_time_aest": "2026-01-09T14:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestant_names": "Alexander Blockx VERSES James Mccabe",
         "contestants": [
             {
-                "name": "New Mexico State",
+                "name": "Blockx A",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Western Kentucky",
+                "name": "Mccabe",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "New Mexico State",
-                "returnWin": 1.74,
+                "name": "Alexander Blockx",
+                "returnWin": 1.55,
                 "returnPlace": 0
             },
             {
-                "name": "Western Kentucky",
-                "returnWin": 2.1,
+                "name": "James Mccabe",
+                "returnWin": 2.3,
                 "returnPlace": 0
             }
         ],
-        "match_name": "New Mexico State v Western Kentucky",
+        "match_name": "Blockx A v Mccabe",
         "betOption": "Head To Head",
-        "start_time": "2026-01-09T02:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T13:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestant_names": "UTEP VERSES Middle Tennessee",
-        "contestants": [
-            {
-                "name": "UTEP",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Middle Tennessee",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "UTEP",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Middle Tennessee",
-                "returnWin": 1.53,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "UTEP v Middle Tennessee",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T02:00:00.000Z"
+        "start_time": "2026-01-09T03:00:00.000Z"
     }
 ]
