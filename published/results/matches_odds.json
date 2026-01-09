@@ -1,167 +1,134 @@
 [
     {
-        "start_time_aest": "2026-01-10T02:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "South Africa T20",
-        "contestant_names": "Durban SprGiants VERSES Eastern Cape",
-        "contestants": [
-            {
-                "name": "Durban SprGiants",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Eastern Cape",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Durban SprGiants",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            },
-            {
-                "name": "Eastern Cape",
-                "returnWin": 1.75,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Durban SprGiants v Eastern Cape",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T15:30:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-10T02:30:00+11:00",
+        "start_time_aest": "2026-01-10T04:00:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ITF Mens",
-        "contestant_names": "Cosme Rolland De Ravel VERSES Lucas Poullain",
+        "contestant_names": "Bor Artnak VERSES Luca Pow",
         "contestants": [
             {
-                "name": "Rolland De Ravel",
+                "name": "Artnak B",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Poullain",
+                "name": "Pow",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Cosme Rolland De Ravel",
-                "returnWin": 2.1,
+                "name": "Bor Artnak",
+                "returnWin": 2.5,
                 "returnPlace": 0
             },
             {
-                "name": "Lucas Poullain",
-                "returnWin": 1.65,
+                "name": "Luca Pow",
+                "returnWin": 1.46,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Rolland De Ravel v Poullain",
+        "match_name": "Artnak B v Pow",
         "betOption": "Head To Head",
-        "start_time": "2026-01-09T15:30:00.000Z"
+        "start_time": "2026-01-09T17:00:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-10T03:00:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "Welsh Open Qualifiers",
-        "contestant_names": "Huang Jiahao VERSES Patrick Whelan",
+        "start_time_aest": "2026-01-10T04:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestant_names": "Kn Smith VERSES Daniel Milavsky",
         "contestants": [
             {
-                "name": "Jiahao Huang",
+                "name": "Smith K",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Whelan Patrick",
+                "name": "Milavsky D",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Huang Jiahao",
+                "name": "Kn Smith",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            },
+            {
+                "name": "Daniel Milavsky",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Smith K v Milavsky D",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T17:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-10T04:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestant_names": "Shunsuke Mitsui VERSES Jay Friend",
+        "contestants": [
+            {
+                "name": "Mitsui",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Friend",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Shunsuke Mitsui",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Jay Friend",
                 "returnWin": 1.6,
                 "returnPlace": 0
-            },
-            {
-                "name": "Patrick Whelan",
-                "returnWin": 2.25,
-                "returnPlace": 0
             }
         ],
-        "match_name": "Jiahao Huang v Whelan Patrick",
-        "betOption": "Result",
-        "start_time": "2026-01-09T16:00:00.000Z"
+        "match_name": "Mitsui v Friend",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T17:00:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-10T03:00:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "Welsh Open Qualifiers",
-        "contestant_names": "Haris Tahir VERSES Yulu Bai",
+        "start_time_aest": "2026-01-10T04:45:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Denmark Basketligaen",
+        "contestant_names": "BK Amager VERSES Herlev",
         "contestants": [
             {
-                "name": "Tahir",
+                "name": "BK Amager",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Bai",
+                "name": "Herlev",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Haris Tahir",
-                "returnWin": 1.65,
+                "name": "BK Amager",
+                "returnWin": 2.5,
                 "returnPlace": 0
             },
             {
-                "name": "Yulu Bai",
-                "returnWin": 2.15,
+                "name": "Herlev",
+                "returnWin": 1.46,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Tahir v Bai",
-        "betOption": "Result",
-        "start_time": "2026-01-09T16:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-10T03:00:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "Welsh Open Qualifiers",
-        "contestant_names": "Artemijs Zizins VERSES Ross Muir",
-        "contestants": [
-            {
-                "name": "Zizins",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "MuirR",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Artemijs Zizins",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            },
-            {
-                "name": "Ross Muir",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Zizins v MuirR",
-        "betOption": "Result",
-        "start_time": "2026-01-09T16:00:00.000Z"
+        "match_name": "BK Amager v Herlev",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T17:45:00.000Z"
     }
 ]
