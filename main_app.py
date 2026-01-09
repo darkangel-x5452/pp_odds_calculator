@@ -4,6 +4,9 @@ import requests
 
 from utils.get_matches import GetMatchesOdds
 
+from utils.logger import logger
+
+_logger = logger(__name__)
 
 def run_app():
     print("App is running...")
@@ -28,6 +31,6 @@ def run_app():
 
 
 if __name__ == "__main__":
-    print("Starting the application...")
+    _logger.info("Starting the application...")
     run_app()
-    print("Application has stopped.")
+    _logger.info("Application has stopped.")
