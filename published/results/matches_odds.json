@@ -1,71 +1,5 @@
 [
     {
-        "start_time_aest": "2026-01-10T04:45:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Denmark Basketligaen",
-        "contestant_names": "BK Amager VERSES Herlev",
-        "contestants": [
-            {
-                "name": "BK Amager",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Herlev",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "BK Amager",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Herlev",
-                "returnWin": 1.46,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "BK Amager v Herlev",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T17:45:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-10T05:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "EuroLeague",
-        "contestant_names": "Zalgiris VERSES Crvena Zvezda",
-        "contestants": [
-            {
-                "name": "Zalgiris",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Crvena Zvezda",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Zalgiris",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            },
-            {
-                "name": "Crvena Zvezda",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Zalgiris v Crvena Zvezda",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T18:00:00.000Z"
-    },
-    {
         "start_time_aest": "2026-01-10T06:00:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "Basketball Champions League",
@@ -161,6 +95,39 @@
             }
         ],
         "match_name": "Leclercq Julien v Hugill",
+        "betOption": "Result",
+        "start_time": "2026-01-09T19:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-10T06:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "Welsh Open Qualifiers",
+        "contestant_names": "Ka Wai Cheung VERSES Mateusz Baranowski",
+        "contestants": [
+            {
+                "name": "Wai Cheung Ka",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Baranowski",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ka Wai Cheung",
+                "returnWin": 1.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Mateusz Baranowski",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Wai Cheung Ka v Baranowski",
         "betOption": "Result",
         "start_time": "2026-01-09T19:00:00.000Z"
     }
