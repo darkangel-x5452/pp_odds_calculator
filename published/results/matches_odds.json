@@ -1,134 +1,68 @@
 [
     {
-        "start_time_aest": "2026-01-10T06:00:00+11:00",
+        "start_time_aest": "2026-01-10T07:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Basketball Champions League",
-        "contestant_names": "Cholet VERSES Tofas",
+        "competition_name": "Belgium Basketball League",
+        "contestant_names": "Port Of Antwerp VERSES Bent Schoenen Wa",
         "contestants": [
             {
-                "name": "Cholet",
+                "name": "Port Of Antwerp",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Tofas",
+                "name": "Bent Schoenen Wa",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Cholet",
-                "returnWin": 1.5,
+                "name": "Port Of Antwerp",
+                "returnWin": 1.55,
                 "returnPlace": 0
             },
             {
-                "name": "Tofas",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Cholet v Tofas",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T19:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-10T06:00:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "Welsh Open Qualifiers",
-        "contestant_names": "Dylan Emery VERSES Yao Pengcheng",
-        "contestants": [
-            {
-                "name": "Emery Dylan",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Pengcheng Yao",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Dylan Emery",
-                "returnWin": 1.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Yao Pengcheng",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Emery Dylan v Pengcheng Yao",
-        "betOption": "Result",
-        "start_time": "2026-01-09T19:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-10T06:00:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "Welsh Open Qualifiers",
-        "contestant_names": "Julien Leclercq VERSES Ashley Hugill",
-        "contestants": [
-            {
-                "name": "Leclercq Julien",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Hugill",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Julien Leclercq",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            },
-            {
-                "name": "Ashley Hugill",
+                "name": "Bent Schoenen Wa",
                 "returnWin": 2.25,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Leclercq Julien v Hugill",
-        "betOption": "Result",
-        "start_time": "2026-01-09T19:00:00.000Z"
+        "match_name": "Port Of Antwerp  v Bent Schoenen Wa",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T20:00:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-10T06:00:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "Welsh Open Qualifiers",
-        "contestant_names": "Ka Wai Cheung VERSES Mateusz Baranowski",
+        "start_time_aest": "2026-01-10T07:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "UTR Pro Series",
+        "contestant_names": "Robin Eldin VERSES Oliver Welch",
         "contestants": [
             {
-                "name": "Wai Cheung Ka",
+                "name": "Eldin",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Baranowski",
+                "name": "Welch",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Ka Wai Cheung",
-                "returnWin": 1.5,
+                "name": "Robin Eldin",
+                "returnWin": 1.48,
                 "returnPlace": 0
             },
             {
-                "name": "Mateusz Baranowski",
-                "returnWin": 2.5,
+                "name": "Oliver Welch",
+                "returnWin": 2.45,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Wai Cheung Ka v Baranowski",
-        "betOption": "Result",
-        "start_time": "2026-01-09T19:00:00.000Z"
+        "match_name": "Eldin v Welch",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T20:30:00.000Z"
     }
 ]
