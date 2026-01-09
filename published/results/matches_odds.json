@@ -1,200 +1,167 @@
 [
     {
-        "start_time_aest": "2026-01-09T10:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA 125 Tour",
-        "contestant_names": "Daria Snigur VERSES Joanna Garland",
+        "start_time_aest": "2026-01-09T11:08:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestant_names": "Detroit VERSES Vancouver",
         "contestants": [
             {
-                "name": "Snigur",
+                "name": "Detroit",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Garland",
+                "name": "Vancouver",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Daria Snigur",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            },
-            {
-                "name": "Joanna Garland",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Snigur v Garland",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-08T23:30:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga A",
-        "contestant_names": "Rocamora VERSES Pergamino Basket",
-        "contestants": [
-            {
-                "name": "Rocamora",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Pergamino Basket",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Rocamora",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            },
-            {
-                "name": "Pergamino Basket",
-                "returnWin": 1.5,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Rocamora v Pergamino Basket",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T00:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestant_names": "NJIT VERSES New Hampshire",
-        "contestants": [
-            {
-                "name": "NJIT",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "New Hampshire",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "NJIT",
-                "returnWin": 2,
-                "returnPlace": 0
-            },
-            {
-                "name": "New Hampshire",
-                "returnWin": 1.8,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "NJIT v New Hampshire",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T00:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestant_names": "Georgia State VERSES Appalachian St",
-        "contestants": [
-            {
-                "name": "Georgia State",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Appalachian St",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Georgia State",
-                "returnWin": 2,
-                "returnPlace": 0
-            },
-            {
-                "name": "Appalachian St",
-                "returnWin": 1.8,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Georgia State v Appalachian St",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T00:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-09T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestant_names": "Monmouth VERSES WilliamMary",
-        "contestants": [
-            {
-                "name": "Monmouth",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "WilliamMary",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Monmouth",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            },
-            {
-                "name": "WilliamMary",
+                "name": "Detroit",
                 "returnWin": 1.65,
                 "returnPlace": 0
+            },
+            {
+                "name": "Vancouver",
+                "returnWin": 2.2,
+                "returnPlace": 0
             }
         ],
-        "match_name": "Monmouth v WilliamMary",
+        "match_name": "Detroit v Vancouver",
         "betOption": "Head To Head",
-        "start_time": "2026-01-09T00:00:00.000Z"
+        "start_time": "2026-01-09T00:08:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-09T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestant_names": "Florida Gulf Cst VERSES Austin Peay",
+        "start_time_aest": "2026-01-09T11:08:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestant_names": "Philadelphia VERSES Toronto",
         "contestants": [
             {
-                "name": "Florida Gulf Cst",
+                "name": "Philadelphia",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Austin Peay",
+                "name": "Toronto",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Florida Gulf Cst",
-                "returnWin": 1.6,
+                "name": "Philadelphia",
+                "returnWin": 1.8,
                 "returnPlace": 0
             },
             {
-                "name": "Austin Peay",
-                "returnWin": 2.35,
+                "name": "Toronto",
+                "returnWin": 2,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Florida Gulf Cst v Austin Peay",
+        "match_name": "Philadelphia v Toronto",
         "betOption": "Head To Head",
-        "start_time": "2026-01-09T00:00:00.000Z"
+        "start_time": "2026-01-09T00:08:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T11:15:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestant_names": "NY Rangers VERSES Buffalo",
+        "contestants": [
+            {
+                "name": "NY Rangers",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Buffalo",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "NY Rangers",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Buffalo",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "NY Rangers v Buffalo",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T00:15:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T11:15:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestant_names": "Boston VERSES Calgary",
+        "contestants": [
+            {
+                "name": "Boston",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Calgary",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Boston",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            },
+            {
+                "name": "Calgary",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Boston v Calgary",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T00:15:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-09T11:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestant_names": "Zdenek Kolar VERSES Marek Gengel",
+        "contestants": [
+            {
+                "name": "KolarZ",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Gengel",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Zdenek Kolar",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            },
+            {
+                "name": "Marek Gengel",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "KolarZ v Gengel",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T00:15:00.000Z"
     }
 ]
