@@ -1,38 +1,5 @@
 [
     {
-        "start_time_aest": "2026-01-10T07:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "UTR Pro Series",
-        "contestant_names": "Robin Eldin VERSES Oliver Welch",
-        "contestants": [
-            {
-                "name": "Eldin",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Welch",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Robin Eldin",
-                "returnWin": 1.48,
-                "returnPlace": 0
-            },
-            {
-                "name": "Oliver Welch",
-                "returnWin": 2.45,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Eldin v Welch",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T20:30:00.000Z"
-    },
-    {
         "start_time_aest": "2026-01-10T08:30:00+11:00",
         "sport_name": "Volleyball",
         "competition_name": "Brazil SuperLiga",
@@ -97,6 +64,105 @@
         "match_name": "Pato v Caxias Do Sul",
         "betOption": "Head To Head",
         "start_time": "2026-01-09T22:30:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-10T09:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Brazil NBB",
+        "contestant_names": "Sao Jose Dos Cam VERSES Paulistano",
+        "contestants": [
+            {
+                "name": "Sao Jose Dos Cam",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Paulistano",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sao Jose Dos Cam",
+                "returnWin": 1.45,
+                "returnPlace": 0
+            },
+            {
+                "name": "Paulistano",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Sao Jose Dos Cam v Paulistano",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T22:30:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-10T10:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "United Cup",
+        "contestant_names": "Belinda Bencic VERSES Elise Mertens",
+        "contestants": [
+            {
+                "name": "Bencic",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Mertens E",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Belinda Bencic",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            },
+            {
+                "name": "Elise Mertens",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Bencic v Mertens E",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T23:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-10T10:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "UTR Pro Series",
+        "contestant_names": "Chase Zhao VERSES Baxter Errey",
+        "contestants": [
+            {
+                "name": "Zhao C",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Baxter Errey",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Chase Zhao",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            },
+            {
+                "name": "Baxter Errey",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Zhao C v Baxter Errey",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T23:00:00.000Z"
     },
     {
         "start_time_aest": "2026-01-10T11:00:00+11:00",
