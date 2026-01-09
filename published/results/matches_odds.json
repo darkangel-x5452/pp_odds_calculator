@@ -1,104 +1,5 @@
 [
     {
-        "start_time_aest": "2026-01-10T04:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestant_names": "Bor Artnak VERSES Luca Pow",
-        "contestants": [
-            {
-                "name": "Artnak B",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Pow",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Bor Artnak",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Luca Pow",
-                "returnWin": 1.46,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Artnak B v Pow",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T17:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-10T04:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestant_names": "Kn Smith VERSES Daniel Milavsky",
-        "contestants": [
-            {
-                "name": "Smith K",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Milavsky D",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Kn Smith",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            },
-            {
-                "name": "Daniel Milavsky",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Smith K v Milavsky D",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T17:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-10T04:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestant_names": "Shunsuke Mitsui VERSES Jay Friend",
-        "contestants": [
-            {
-                "name": "Mitsui",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Friend",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Shunsuke Mitsui",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            },
-            {
-                "name": "Jay Friend",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Mitsui v Friend",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-09T17:00:00.000Z"
-    },
-    {
         "start_time_aest": "2026-01-10T04:45:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "Denmark Basketligaen",
@@ -130,5 +31,137 @@
         "match_name": "BK Amager v Herlev",
         "betOption": "Head To Head",
         "start_time": "2026-01-09T17:45:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-10T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "EuroLeague",
+        "contestant_names": "Zalgiris VERSES Crvena Zvezda",
+        "contestants": [
+            {
+                "name": "Zalgiris",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Crvena Zvezda",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Zalgiris",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            },
+            {
+                "name": "Crvena Zvezda",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Zalgiris v Crvena Zvezda",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T18:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-10T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Basketball Champions League",
+        "contestant_names": "Cholet VERSES Tofas",
+        "contestants": [
+            {
+                "name": "Cholet",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Tofas",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Cholet",
+                "returnWin": 1.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Tofas",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Cholet v Tofas",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-09T19:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-10T06:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "Welsh Open Qualifiers",
+        "contestant_names": "Dylan Emery VERSES Yao Pengcheng",
+        "contestants": [
+            {
+                "name": "Emery Dylan",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Pengcheng Yao",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Dylan Emery",
+                "returnWin": 1.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Yao Pengcheng",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Emery Dylan v Pengcheng Yao",
+        "betOption": "Result",
+        "start_time": "2026-01-09T19:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-10T06:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "Welsh Open Qualifiers",
+        "contestant_names": "Julien Leclercq VERSES Ashley Hugill",
+        "contestants": [
+            {
+                "name": "Leclercq Julien",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Hugill",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Julien Leclercq",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            },
+            {
+                "name": "Ashley Hugill",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Leclercq Julien v Hugill",
+        "betOption": "Result",
+        "start_time": "2026-01-09T19:00:00.000Z"
     }
 ]
