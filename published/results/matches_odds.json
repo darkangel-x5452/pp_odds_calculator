@@ -1,128 +1,105 @@
 [
     {
-        "start_time_aest": "2026-01-10T11:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestant_names": "Orlando VERSES Philadelphia",
+        "start_time_aest": "2026-01-10T12:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestant_names": "Chicago VERSES Washington",
         "contestants": [
             {
-                "name": "Orlando",
+                "name": "Chicago",
                 "position": "HOME",
-                "isHome": true,
-                "image": [
-                    {
-                        "size": "svg",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBA%20logos/Orlando%20Magic.svg"
-                    },
-                    {
-                        "size": "xxhdpi",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBA%20logos/Orlando%20Magic_xxhdpi.png"
-                    },
-                    {
-                        "size": "2x",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBA%20logos/Orlando%20Magic%402x.png"
-                    }
-                ]
+                "isHome": true
             },
             {
-                "name": "Philadelphia",
+                "name": "Washington",
                 "position": "AWAY",
-                "isHome": false,
-                "image": [
-                    {
-                        "size": "svg",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBA%20logos/Philadelphia%2076ers.svg"
-                    },
-                    {
-                        "size": "xxhdpi",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBA%20logos/Philadelphia%2076ers_xxhdpi.png"
-                    },
-                    {
-                        "size": "2x",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBA%20logos/Philadelphia%2076ers%402x.png"
-                    }
-                ]
+                "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Orlando",
-                "returnWin": 2.3,
+                "name": "Chicago",
+                "returnWin": 2.1,
                 "returnPlace": 0
             },
             {
-                "name": "Philadelphia",
-                "returnWin": 1.65,
+                "name": "Washington",
+                "returnWin": 1.7,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Orlando v Philadelphia",
+        "match_name": "Chicago v Washington",
         "betOption": "Head To Head",
-        "start_time": "2026-01-10T00:10:00.000Z"
+        "start_time": "2026-01-10T01:05:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-10T11:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestant_names": "Washington VERSES New Orleans",
+        "start_time_aest": "2026-01-10T12:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestant_names": "Winnipeg VERSES Los Angeles",
         "contestants": [
             {
-                "name": "Washington",
+                "name": "Winnipeg",
                 "position": "HOME",
-                "isHome": true,
-                "image": [
-                    {
-                        "size": "svg",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBA%20logos/Washington%20Wizards.svg"
-                    },
-                    {
-                        "size": "xxhdpi",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBA%20logos/Washington%20Wizards_xxhdpi.png"
-                    },
-                    {
-                        "size": "2x",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBA%20logos/Washington%20Wizards%402x.png"
-                    }
-                ]
+                "isHome": true
             },
             {
-                "name": "New Orleans",
+                "name": "Los Angeles",
                 "position": "AWAY",
-                "isHome": false,
-                "image": [
-                    {
-                        "size": "svg",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBA%20logos/New%20Orleans%20Pelicans.svg"
-                    },
-                    {
-                        "size": "xxhdpi",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBA%20logos/New%20Orleans%20Pelicans_xxhdpi.png"
-                    },
-                    {
-                        "size": "2x",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBA%20logos/New%20Orleans%20Pelicans%402x.png"
-                    }
-                ]
+                "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Washington",
-                "returnWin": 2.25,
+                "name": "Winnipeg",
+                "returnWin": 2.1,
                 "returnPlace": 0
             },
             {
-                "name": "New Orleans",
-                "returnWin": 1.67,
+                "name": "Los Angeles",
+                "returnWin": 1.7,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Washington v New Orleans",
+        "match_name": "Winnipeg v Los Angeles",
         "betOption": "Head To Head",
-        "start_time": "2026-01-10T00:10:00.000Z"
+        "start_time": "2026-01-10T01:05:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-10T11:15:00+11:00",
+        "start_time_aest": "2026-01-10T12:10:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "NZ Womens Super Smash",
+        "contestant_names": "Canterbury Magicians (W) VERSES Auckland Hearts (W)",
+        "contestants": [
+            {
+                "name": "Canterbury (W)",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Auckland (W)",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Canterbury Magicians (W)",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Auckland Hearts (W)",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Canterbury (W) v Auckland (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-10T01:10:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-10T12:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP",
         "contestant_names": "Cristian Garin VERSES Eliot Spizzirri",
@@ -152,10 +129,10 @@
         ],
         "match_name": "Garin C v Spizzirri E",
         "betOption": "Head To Head",
-        "start_time": "2026-01-10T00:15:00.000Z"
+        "start_time": "2026-01-10T01:15:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-10T11:15:00+11:00",
+        "start_time_aest": "2026-01-10T12:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA",
         "contestant_names": "Viktorija Golubic VERSES Alycia Parks",
@@ -174,21 +151,21 @@
         "propositions": [
             {
                 "name": "Viktorija Golubic",
-                "returnWin": 1.62,
+                "returnWin": 1.6,
                 "returnPlace": 0
             },
             {
                 "name": "Alycia Parks",
-                "returnWin": 2.15,
+                "returnWin": 2.2,
                 "returnPlace": 0
             }
         ],
         "match_name": "Golubic v Parks",
         "betOption": "Head To Head",
-        "start_time": "2026-01-10T00:15:00.000Z"
+        "start_time": "2026-01-10T01:15:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-10T11:15:00+11:00",
+        "start_time_aest": "2026-01-10T12:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA",
         "contestant_names": "Oksana Selekhmeteva VERSES Panna Udvardy",
@@ -218,39 +195,39 @@
         ],
         "match_name": "Selekhmeteva v Udvardy P",
         "betOption": "Head To Head",
-        "start_time": "2026-01-10T00:15:00.000Z"
+        "start_time": "2026-01-10T01:15:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-10T11:30:00+11:00",
-        "sport_name": "American Football",
-        "competition_name": "College Football",
-        "contestant_names": "Indiana VERSES Oregon",
+        "start_time_aest": "2026-01-10T12:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "Minnesota VERSES USC",
         "contestants": [
             {
-                "name": "Indiana",
+                "name": "Minnesota",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Oregon",
+                "name": "USC",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Indiana",
+                "name": "Minnesota",
                 "returnWin": 1.58,
                 "returnPlace": 0
             },
             {
-                "name": "Oregon",
+                "name": "USC",
                 "returnWin": 2.4,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Indiana v Oregon",
+        "match_name": "Minnesota v USC",
         "betOption": "Head To Head",
-        "start_time": "2026-01-10T00:30:00.000Z"
+        "start_time": "2026-01-10T01:30:00.000Z"
     }
 ]
