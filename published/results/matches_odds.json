@@ -1,6 +1,6 @@
 [
     {
-        "start_time_aest": "2026-01-10T23:30:00+11:00",
+        "start_time_aest": "2026-01-11T00:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestant_names": "Pedro Martinez Portero VERSES Timofey Skatov",
@@ -30,105 +30,105 @@
         ],
         "match_name": "Martinez P v Skatov",
         "betOption": "Head To Head",
-        "start_time": "2026-01-10T12:30:00.000Z"
+        "start_time": "2026-01-10T13:15:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-11T00:00:00+11:00",
+        "start_time_aest": "2026-01-11T01:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Bulgaria NBL",
-        "contestant_names": "Botev 2012 VERSES Academic Bultex",
+        "competition_name": "Finland Korisliiga",
+        "contestant_names": "Korihait VERSES Vilpas",
         "contestants": [
             {
-                "name": "Botev 2012",
+                "name": "Korihait",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Academic Bultex",
+                "name": "Vilpas",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Botev 2012",
-                "returnWin": 2.15,
+                "name": "Korihait",
+                "returnWin": 2,
                 "returnPlace": 0
             },
             {
-                "name": "Academic Bultex",
-                "returnWin": 1.62,
+                "name": "Vilpas",
+                "returnWin": 1.7,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Botev 2012 v Academic Bultex",
+        "match_name": "Korihait v Vilpas",
         "betOption": "Head To Head",
-        "start_time": "2026-01-10T13:00:00.000Z"
+        "start_time": "2026-01-10T14:00:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-11T00:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "ICCA Arabian Cricket League",
-        "contestant_names": "GHK Properties VERSES CSS Group",
+        "start_time_aest": "2026-01-11T01:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Sweden Basketligan Women",
+        "contestant_names": "Alvik BBK VERSES Aik Basket",
         "contestants": [
             {
-                "name": "Ghk Properties",
+                "name": "Alvik BBK",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Css Group",
+                "name": "Aik Basket",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "GHK Properties",
+                "name": "Alvik BBK",
                 "returnWin": 2.05,
                 "returnPlace": 0
             },
             {
-                "name": "CSS Group",
-                "returnWin": 1.75,
+                "name": "Aik Basket",
+                "returnWin": 1.66,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Ghk Properties v Css Group",
+        "match_name": "Alvik BBK v Aik Basket",
         "betOption": "Head To Head",
-        "start_time": "2026-01-10T13:00:00.000Z"
+        "start_time": "2026-01-10T14:00:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-11T00:00:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "Welsh Open Qualifiers",
-        "contestant_names": "Lu Haotian VERSES Sam Craigie",
+        "start_time_aest": "2026-01-11T01:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Womens Premier League",
+        "contestant_names": "Mumbai (W) VERSES Delhi (W)",
         "contestants": [
             {
-                "name": "Haotian",
+                "name": "Mumbai (W)",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Craigie",
+                "name": "Delhi (W)",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Lu Haotian",
-                "returnWin": 2.25,
+                "name": "Mumbai (W)",
+                "returnWin": 1.75,
                 "returnPlace": 0
             },
             {
-                "name": "Sam Craigie",
-                "returnWin": 1.6,
+                "name": "Delhi (W)",
+                "returnWin": 2.05,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Haotian v Craigie",
-        "betOption": "Result",
-        "start_time": "2026-01-10T13:00:00.000Z"
+        "match_name": "Mumbai (W) v Delhi (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-10T14:00:00.000Z"
     }
 ]
