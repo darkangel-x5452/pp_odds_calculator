@@ -1,299 +1,35 @@
 [
     {
-        "start_time_aest": "2026-01-10T20:05:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "contestant_names": "Kirkov/Stevens VERSES Khachanov/Rublev",
-        "contestants": [
-            {
-                "name": "Kirkov/Stevens",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Khachanov/Rublev",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Kirkov/Stevens",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            },
-            {
-                "name": "Khachanov/Rublev",
-                "returnWin": 1.52,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Kirkov/Stevens v Khachanov/Rublev",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T09:05:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-10T20:20:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestant_names": "Martina Colmegna VERSES Luca Udvardy",
-        "contestants": [
-            {
-                "name": "Colmegna",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Udvardy L",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Martina Colmegna",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            },
-            {
-                "name": "Luca Udvardy",
-                "returnWin": 1.68,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Colmegna v Udvardy L",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T09:20:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-10T20:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Womens Premier League",
-        "contestant_names": "Warriorz VERSES Gujarat",
-        "contestants": [
-            {
-                "name": "Warriorz (W)",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Gujarat (W)",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Warriorz",
-                "returnWin": 1.68,
-                "returnPlace": 0
-            },
-            {
-                "name": "Gujarat",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Warriorz (W) v Gujarat (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T09:30:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-10T20:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestant_names": "Lidia Encheva VERSES Noemi Maines",
-        "contestants": [
-            {
-                "name": "Encheva",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Maines",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Lidia Encheva",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            },
-            {
-                "name": "Noemi Maines",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Encheva v Maines",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T09:30:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-10T21:00:00+11:00",
+        "start_time_aest": "2026-01-10T22:30:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Indonesian Basketball League",
-        "contestant_names": "Kesatria Bengawa VERSES Rans Pik",
+        "competition_name": "China CBA Women",
+        "contestant_names": "Jiangsu VERSES Shandong",
         "contestants": [
             {
-                "name": "Kesatria Bengawa",
+                "name": "Jiangsu",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Rans Pik",
+                "name": "Shandong",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Kesatria Bengawa",
-                "returnWin": 1.7,
+                "name": "Jiangsu",
+                "returnWin": 1.55,
                 "returnPlace": 0
             },
             {
-                "name": "Rans Pik",
-                "returnWin": 2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Kesatria Bengawa v Rans Pik",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T10:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-10T21:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Turkey Super League",
-        "contestant_names": "Galatasaray VERSES Besiktas",
-        "contestants": [
-            {
-                "name": "Galatasaray",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Besiktas",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Galatasaray",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            },
-            {
-                "name": "Besiktas",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Galatasaray v Besiktas",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T10:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-10T21:00:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "Welsh Open Qualifiers",
-        "contestant_names": "Jordan Brown VERSES Gao Yang",
-        "contestants": [
-            {
-                "name": "Brown J",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Yang Gao",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jordan Brown",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            },
-            {
-                "name": "Gao Yang",
-                "returnWin": 1.7,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Brown J v Yang Gao",
-        "betOption": "Result",
-        "start_time": "2026-01-10T10:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-10T21:00:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "Welsh Open Qualifiers",
-        "contestant_names": "Zak Surety VERSES Louis Heathcote",
-        "contestants": [
-            {
-                "name": "Surety",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Heathcote",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Zak Surety",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            },
-            {
-                "name": "Louis Heathcote",
+                "name": "Shandong",
                 "returnWin": 2.25,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Surety v Heathcote",
-        "betOption": "Result",
-        "start_time": "2026-01-10T10:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-10T21:00:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "Welsh Open Qualifiers",
-        "contestant_names": "Robbie Williams VERSES Marco Fu",
-        "contestants": [
-            {
-                "name": "Williams R",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Fu",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Robbie Williams",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            },
-            {
-                "name": "Marco Fu",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Williams R v Fu",
-        "betOption": "Result",
-        "start_time": "2026-01-10T10:00:00.000Z"
+        "match_name": "Jiangsu v Shandong",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-10T11:30:00.000Z"
     }
 ]
