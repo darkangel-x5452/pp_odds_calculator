@@ -1,233 +1,167 @@
 [
     {
-        "start_time_aest": "2026-01-11T07:35:00+11:00",
+        "start_time_aest": "2026-01-11T08:05:00+11:00",
         "sport_name": "Ice Hockey",
         "competition_name": "NHL",
-        "contestant_names": "Pittsburgh VERSES Calgary",
+        "contestant_names": "San Jose VERSES Dallas",
         "contestants": [
             {
-                "name": "Pittsburgh",
+                "name": "San Jose",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Calgary",
+                "name": "Dallas",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Pittsburgh",
-                "returnWin": 1.62,
+                "name": "San Jose",
+                "returnWin": 2.35,
                 "returnPlace": 0
             },
             {
-                "name": "Calgary",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Pittsburgh v Calgary",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T20:35:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T08:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestant_names": "Xavier VERSES Providence",
-        "contestants": [
-            {
-                "name": "Xavier",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Providence",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Xavier",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            },
-            {
-                "name": "Providence",
-                "returnWin": 1.74,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Xavier v Providence",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T21:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T08:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestant_names": "UTEP VERSES Western Kentucky",
-        "contestants": [
-            {
-                "name": "UTEP",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Western Kentucky",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "UTEP",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            },
-            {
-                "name": "Western Kentucky",
+                "name": "Dallas",
                 "returnWin": 1.58,
                 "returnPlace": 0
             }
         ],
-        "match_name": "UTEP v Western Kentucky",
+        "match_name": "San Jose v Dallas",
         "betOption": "Head To Head",
-        "start_time": "2026-01-10T21:00:00.000Z"
+        "start_time": "2026-01-10T21:05:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-11T08:00:00+11:00",
+        "start_time_aest": "2026-01-11T08:30:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
-        "contestant_names": "Florida Gulf Cst VERSES Lipscomb",
+        "contestant_names": "Chattanooga VERSES Samford",
         "contestants": [
             {
-                "name": "Florida Gulf Cst",
+                "name": "Chattanooga",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Lipscomb",
+                "name": "Samford",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Florida Gulf Cst",
-                "returnWin": 1.67,
+                "name": "Chattanooga",
+                "returnWin": 1.77,
                 "returnPlace": 0
             },
             {
-                "name": "Lipscomb",
-                "returnWin": 2.2,
+                "name": "Samford",
+                "returnWin": 2.05,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Florida Gulf Cst v Lipscomb",
+        "match_name": "Chattanooga v Samford",
         "betOption": "Head To Head",
-        "start_time": "2026-01-10T21:00:00.000Z"
+        "start_time": "2026-01-10T21:30:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-11T08:00:00+11:00",
+        "start_time_aest": "2026-01-11T08:30:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Portugal Cup Women",
-        "contestant_names": "Clube Galitos VERSES Basquete De Barc",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "Eastern Illinois VERSES Tennessee State",
         "contestants": [
             {
-                "name": "Clube Galitos",
+                "name": "Eastern Illinois",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Basquete De Barc",
+                "name": "Tennessee State",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Clube Galitos",
-                "returnWin": 2.1,
+                "name": "Eastern Illinois",
+                "returnWin": 2.45,
                 "returnPlace": 0
             },
             {
-                "name": "Basquete De Barc",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Clube Galitos v Basquete De Barc",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T21:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T08:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestant_names": "Astrid Cirotte VERSES Jasmijn Gimbrere",
-        "contestants": [
-            {
-                "name": "Cirotte A",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Gimbrere",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Astrid Cirotte",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            },
-            {
-                "name": "Jasmijn Gimbrere",
+                "name": "Tennessee State",
                 "returnWin": 1.55,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Cirotte A v Gimbrere",
+        "match_name": "Eastern Illinois v Tennessee State",
         "betOption": "Head To Head",
-        "start_time": "2026-01-10T21:00:00.000Z"
+        "start_time": "2026-01-10T21:30:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-11T08:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "UTR Pro Series",
-        "contestant_names": "Luke Cripps VERSES Harry Roberts",
+        "start_time_aest": "2026-01-11T08:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "Western Illinois VERSES Tennessee Tech",
         "contestants": [
             {
-                "name": "Cripps L",
+                "name": "Western Illinois",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Roberts",
+                "name": "Tennessee Tech",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Luke Cripps",
-                "returnWin": 2.4,
+                "name": "Western Illinois",
+                "returnWin": 2.3,
                 "returnPlace": 0
             },
             {
-                "name": "Harry Roberts",
-                "returnWin": 1.5,
+                "name": "Tennessee Tech",
+                "returnWin": 1.62,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Cripps L v Roberts",
+        "match_name": "Western Illinois v Tennessee Tech",
         "betOption": "Head To Head",
-        "start_time": "2026-01-10T21:00:00.000Z"
+        "start_time": "2026-01-10T21:30:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-11T08:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "MarylandEstnShre VERSES Howard",
+        "contestants": [
+            {
+                "name": "MarylandEstnShre",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Howard",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "MarylandEstnShre",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            },
+            {
+                "name": "Howard",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "MarylandEstnShre v Howard",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-10T21:30:00.000Z"
     }
 ]
