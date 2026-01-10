@@ -1,299 +1,68 @@
 [
     {
-        "start_time_aest": "2026-01-11T03:30:00+11:00",
+        "start_time_aest": "2026-01-11T04:10:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Poland Energa Basket Liga",
-        "contestant_names": "Trefl Sopot VERSES Wloclawek",
+        "competition_name": "France LNB Pro A",
+        "contestant_names": "Boulazac VERSES Le Mans",
         "contestants": [
             {
-                "name": "Trefl Sopot",
+                "name": "Boulazac",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Wloclawek",
+                "name": "Le Mans",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Trefl Sopot",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            },
-            {
-                "name": "Wloclawek",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Trefl Sopot v Wloclawek",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T16:30:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T03:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Sweden Superettan",
-        "contestant_names": "IK Eos VERSES Ockelbo Bbk",
-        "contestants": [
-            {
-                "name": "IK Eos",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Ockelbo Bbk",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "IK Eos",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            },
-            {
-                "name": "Ockelbo Bbk",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "IK Eos v Ockelbo Bbk",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T16:30:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T03:30:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Spain Superliga",
-        "contestant_names": "Unicaja Almeria VERSES CAI Teruel",
-        "contestants": [
-            {
-                "name": "Unicaja Almeria",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "CAI Teruel",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Unicaja Almeria",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            },
-            {
-                "name": "CAI Teruel",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Unicaja Almeria v CAI Teruel",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T16:30:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T03:30:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Turkish Womens Volleyball League",
-        "contestant_names": "Aras Kargo (W) VERSES Nilufer Bld (W)",
-        "contestants": [
-            {
-                "name": "Aras Kargo (W)",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Nilufer Bld (W)",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Aras Kargo (W)",
-                "returnWin": 1.72,
-                "returnPlace": 0
-            },
-            {
-                "name": "Nilufer Bld (W)",
-                "returnWin": 2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Aras Kargo (W) v Nilufer Bld (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T16:30:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Czech Republic NBL",
-        "contestant_names": "Kralovsti Sokoli VERSES NH Ostrava",
-        "contestants": [
-            {
-                "name": "Kralovsti Sokoli",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "NH Ostrava",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Kralovsti Sokoli",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            },
-            {
-                "name": "NH Ostrava",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Kralovsti Sokoli v NH Ostrava",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T17:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Czech Republic NBL",
-        "contestant_names": "BK Opava VERSES BK Decin",
-        "contestants": [
-            {
-                "name": "BK Opava",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "BK Decin",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "BK Opava",
-                "returnWin": 1.48,
-                "returnPlace": 0
-            },
-            {
-                "name": "BK Decin",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "BK Opava v BK Decin",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T17:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Hungary NB IA",
-        "contestant_names": "Budapesti Honved VERSES Kaposvari Kk",
-        "contestants": [
-            {
-                "name": "Budapesti Honved",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Kaposvari Kk",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Budapesti Honved",
-                "returnWin": 1.52,
-                "returnPlace": 0
-            },
-            {
-                "name": "Kaposvari Kk",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Budapesti Honved v Kaposvari Kk",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T17:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestant_names": "Indiana VERSES Nebraska",
-        "contestants": [
-            {
-                "name": "Indiana",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Nebraska",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Indiana",
-                "returnWin": 1.53,
-                "returnPlace": 0
-            },
-            {
-                "name": "Nebraska",
+                "name": "Boulazac",
                 "returnWin": 2.5,
                 "returnPlace": 0
+            },
+            {
+                "name": "Le Mans",
+                "returnWin": 1.45,
+                "returnPlace": 0
             }
         ],
-        "match_name": "Indiana v Nebraska",
+        "match_name": "Boulazac v Le Mans",
         "betOption": "Head To Head",
-        "start_time": "2026-01-10T17:00:00.000Z"
+        "start_time": "2026-01-10T17:10:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-11T04:00:00+11:00",
+        "start_time_aest": "2026-01-11T04:20:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestant_names": "West Virginia VERSES Kansas",
+        "competition_name": "France LNB Pro A",
+        "contestant_names": "Limoges VERSES Elan Chalon",
         "contestants": [
             {
-                "name": "West Virginia",
+                "name": "Limoges",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Kansas",
+                "name": "Elan Chalon",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "West Virginia",
-                "returnWin": 2.4,
+                "name": "Limoges",
+                "returnWin": 2.05,
                 "returnPlace": 0
             },
             {
-                "name": "Kansas",
-                "returnWin": 1.58,
+                "name": "Elan Chalon",
+                "returnWin": 1.66,
                 "returnPlace": 0
             }
         ],
-        "match_name": "West Virginia v Kansas",
+        "match_name": "Limoges v Elan Chalon",
         "betOption": "Head To Head",
-        "start_time": "2026-01-10T17:00:00.000Z"
+        "start_time": "2026-01-10T17:20:00.000Z"
     }
 ]
