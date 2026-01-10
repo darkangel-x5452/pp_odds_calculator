@@ -1,167 +1,134 @@
 [
     {
-        "start_time_aest": "2026-01-11T08:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestant_names": "San Jose VERSES Dallas",
-        "contestants": [
-            {
-                "name": "San Jose",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Dallas",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "San Jose",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            },
-            {
-                "name": "Dallas",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "San Jose v Dallas",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T21:05:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T08:30:00+11:00",
+        "start_time_aest": "2026-01-11T09:00:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
-        "contestant_names": "Chattanooga VERSES Samford",
+        "contestant_names": "EastrnWashington VERSES Montana",
         "contestants": [
             {
-                "name": "Chattanooga",
+                "name": "EastrnWashington",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Samford",
+                "name": "Montana",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Chattanooga",
+                "name": "EastrnWashington",
                 "returnWin": 1.77,
                 "returnPlace": 0
             },
             {
-                "name": "Samford",
+                "name": "Montana",
                 "returnWin": 2.05,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Chattanooga v Samford",
+        "match_name": "EastrnWashington v Montana",
         "betOption": "Head To Head",
-        "start_time": "2026-01-10T21:30:00.000Z"
+        "start_time": "2026-01-10T22:00:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-11T08:30:00+11:00",
+        "start_time_aest": "2026-01-11T09:00:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
-        "contestant_names": "Eastern Illinois VERSES Tennessee State",
+        "contestant_names": "Cal Poly VERSES UC Davis",
         "contestants": [
             {
-                "name": "Eastern Illinois",
+                "name": "Cal Poly",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Tennessee State",
+                "name": "UC Davis",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Eastern Illinois",
-                "returnWin": 2.45,
+                "name": "Cal Poly",
+                "returnWin": 2,
                 "returnPlace": 0
             },
             {
-                "name": "Tennessee State",
-                "returnWin": 1.55,
+                "name": "UC Davis",
+                "returnWin": 1.8,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Eastern Illinois v Tennessee State",
+        "match_name": "Cal Poly v UC Davis",
         "betOption": "Head To Head",
-        "start_time": "2026-01-10T21:30:00.000Z"
+        "start_time": "2026-01-10T22:00:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-11T08:30:00+11:00",
+        "start_time_aest": "2026-01-11T09:00:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
-        "contestant_names": "Western Illinois VERSES Tennessee Tech",
+        "contestant_names": "Missouri State VERSES FIU",
         "contestants": [
             {
-                "name": "Western Illinois",
+                "name": "Missouri State",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Tennessee Tech",
+                "name": "FIU",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Western Illinois",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            },
-            {
-                "name": "Tennessee Tech",
+                "name": "Missouri State",
                 "returnWin": 1.62,
                 "returnPlace": 0
+            },
+            {
+                "name": "FIU",
+                "returnWin": 2.3,
+                "returnPlace": 0
             }
         ],
-        "match_name": "Western Illinois v Tennessee Tech",
+        "match_name": "Missouri State v FIU",
         "betOption": "Head To Head",
-        "start_time": "2026-01-10T21:30:00.000Z"
+        "start_time": "2026-01-10T22:00:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-11T08:30:00+11:00",
+        "start_time_aest": "2026-01-11T09:30:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
-        "contestant_names": "MarylandEstnShre VERSES Howard",
+        "contestant_names": "Bethune-Cookman VERSES Grambling State",
         "contestants": [
             {
-                "name": "MarylandEstnShre",
+                "name": "Bethune-Cookman",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Howard",
+                "name": "Grambling State",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "MarylandEstnShre",
-                "returnWin": 2.3,
+                "name": "Bethune-Cookman",
+                "returnWin": 1.58,
                 "returnPlace": 0
             },
             {
-                "name": "Howard",
-                "returnWin": 1.62,
+                "name": "Grambling State",
+                "returnWin": 2.4,
                 "returnPlace": 0
             }
         ],
-        "match_name": "MarylandEstnShre v Howard",
+        "match_name": "Bethune-Cookman v Grambling State",
         "betOption": "Head To Head",
-        "start_time": "2026-01-10T21:30:00.000Z"
+        "start_time": "2026-01-10T22:30:00.000Z"
     }
 ]
