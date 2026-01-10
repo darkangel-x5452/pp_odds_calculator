@@ -1,137 +1,5 @@
 [
     {
-        "start_time_aest": "2026-01-11T06:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "BNXT League",
-        "contestant_names": "Belfius Mons VERSES Oostende",
-        "contestants": [
-            {
-                "name": "Belfius Mons",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Oostende",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Belfius Mons",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Oostende",
-                "returnWin": 1.46,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Belfius Mons v Oostende",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T19:30:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T06:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestant_names": "Marquette VERSES Villanova",
-        "contestants": [
-            {
-                "name": "Marquette",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Villanova",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Marquette",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            },
-            {
-                "name": "Villanova",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Marquette v Villanova",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T19:30:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T06:30:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Belgium Liga Heren",
-        "contestant_names": "Par-Ky Menen VERSES Volley Haasrode Leuven",
-        "contestants": [
-            {
-                "name": "Par-ky Menen",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Haasrode Leuven",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Par-Ky Menen",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            },
-            {
-                "name": "Volley Haasrode Leuven",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Par-ky Menen v Haasrode Leuven",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T19:30:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T06:30:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Belgium Liga Heren",
-        "contestant_names": "VDK Gent VERSES Axis Guibertin",
-        "contestants": [
-            {
-                "name": "Vdk Gent",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Axis Guibertin",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "VDK Gent",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            },
-            {
-                "name": "Axis Guibertin",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Vdk Gent v Axis Guibertin",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T19:30:00.000Z"
-    },
-    {
         "start_time_aest": "2026-01-11T07:00:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "Brazil NBB",
@@ -227,6 +95,72 @@
             }
         ],
         "match_name": "Arizona State v Kansas State",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-10T20:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-11T07:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "Texas-Arlington VERSES Abilene Chrstian",
+        "contestants": [
+            {
+                "name": "Texas-Arlington",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Abilene Chrstian",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Texas-Arlington",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            },
+            {
+                "name": "Abilene Chrstian",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Texas-Arlington v Abilene Chrstian",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-10T20:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-11T07:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "Longwood VERSES Presbyterian",
+        "contestants": [
+            {
+                "name": "Longwood",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Presbyterian",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Longwood",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            },
+            {
+                "name": "Presbyterian",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Longwood v Presbyterian",
         "betOption": "Head To Head",
         "start_time": "2026-01-10T20:00:00.000Z"
     }
