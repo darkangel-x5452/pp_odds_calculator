@@ -1,68 +1,200 @@
 [
     {
-        "start_time_aest": "2026-01-11T04:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "France LNB Pro A",
-        "contestant_names": "Boulazac VERSES Le Mans",
+        "start_time_aest": "2026-01-11T04:45:00+11:00",
+        "sport_name": "Soccer",
+        "competition_name": "English FA Cup",
+        "contestant_names": "Bristol City VERSES Watford",
         "contestants": [
             {
-                "name": "Boulazac",
+                "name": "Bristol City",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Le Mans",
+                "name": "Watford",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Boulazac",
+                "name": "Bristol City",
+                "returnWin": 1.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Watford",
                 "returnWin": 2.5,
                 "returnPlace": 0
-            },
-            {
-                "name": "Le Mans",
-                "returnWin": 1.45,
-                "returnPlace": 0
             }
         ],
-        "match_name": "Boulazac v Le Mans",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T17:10:00.000Z"
+        "match_name": "Bristol City v Watford",
+        "betOption": "Winner of Tie",
+        "start_time": "2026-01-10T17:45:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-11T04:20:00+11:00",
+        "start_time_aest": "2026-01-11T05:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "France LNB Pro A",
-        "contestant_names": "Limoges VERSES Elan Chalon",
+        "competition_name": "Austria Bundesliga",
+        "contestant_names": "Kapfenburg VERSES Swans Gmunden",
         "contestants": [
             {
-                "name": "Limoges",
+                "name": "Kapfenburg",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Elan Chalon",
+                "name": "Swans Gmunden",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Limoges",
+                "name": "Kapfenburg",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            },
+            {
+                "name": "Swans Gmunden",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Kapfenburg v Swans Gmunden",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-10T18:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-11T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "Baylor VERSES Houston",
+        "contestants": [
+            {
+                "name": "Baylor",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Houston",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Baylor",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Houston",
+                "returnWin": 1.67,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Baylor v Houston",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-10T18:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-11T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "Western Michigan VERSES Eastern Michigan",
+        "contestants": [
+            {
+                "name": "Western Michigan",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Eastern Michigan",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Western Michigan",
                 "returnWin": 2.05,
                 "returnPlace": 0
             },
             {
-                "name": "Elan Chalon",
-                "returnWin": 1.66,
+                "name": "Eastern Michigan",
+                "returnWin": 1.77,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Limoges v Elan Chalon",
+        "match_name": "Western Michigan v Eastern Michigan",
         "betOption": "Head To Head",
-        "start_time": "2026-01-10T17:20:00.000Z"
+        "start_time": "2026-01-10T18:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-11T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Spain ACB Liga",
+        "contestant_names": "Bilbao VERSES UCAM Murcia",
+        "contestants": [
+            {
+                "name": "Bilbao",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "UCAM Murcia",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bilbao",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            },
+            {
+                "name": "UCAM Murcia",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Bilbao v UCAM Murcia",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-10T18:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-11T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Spain Liga Women",
+        "contestant_names": "Islas Canarias VERSES Leganes",
+        "contestants": [
+            {
+                "name": "Islas Canarias",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Leganes",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Islas Canarias",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Leganes",
+                "returnWin": 1.45,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Islas Canarias v Leganes",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-10T18:00:00.000Z"
     }
 ]
