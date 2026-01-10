@@ -1,38 +1,5 @@
 [
     {
-        "start_time_aest": "2026-01-11T09:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestant_names": "Bethune-Cookman VERSES Grambling State",
-        "contestants": [
-            {
-                "name": "Bethune-Cookman",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Grambling State",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Bethune-Cookman",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            },
-            {
-                "name": "Grambling State",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Bethune-Cookman v Grambling State",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T22:30:00.000Z"
-    },
-    {
         "start_time_aest": "2026-01-11T10:00:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
@@ -262,5 +229,137 @@
         "match_name": "Fearnley v OConnell",
         "betOption": "Head To Head",
         "start_time": "2026-01-10T23:30:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-11T10:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestant_names": "Katerina Siniakova VERSES Elena-Gabriela Ruse",
+        "contestants": [
+            {
+                "name": "Siniakova",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Ruse E",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Katerina Siniakova",
+                "returnWin": 1.72,
+                "returnPlace": 0
+            },
+            {
+                "name": "Elena-Gabriela Ruse",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Siniakova v Ruse E",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-10T23:30:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-11T10:40:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "NZ Womens Super Smash",
+        "contestant_names": "Wellington (W) VERSES Northern Brave (W)",
+        "contestants": [
+            {
+                "name": "Wellington (W)",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Nthn Brave (W)",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Wellington (W)",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            },
+            {
+                "name": "Northern Brave (W)",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Wellington (W) v Nthn Brave (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-10T23:40:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-11T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "CSU Fullerton VERSES CSU Northridge",
+        "contestants": [
+            {
+                "name": "CSU Fullerton",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "CSU Northridge",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "CSU Fullerton",
+                "returnWin": 1.67,
+                "returnPlace": 0
+            },
+            {
+                "name": "CSU Northridge",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "CSU Fullerton v CSU Northridge",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-11T00:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-11T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "Lamar VERSES Incarnate Word",
+        "contestants": [
+            {
+                "name": "Lamar",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Incarnate Word",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lamar",
+                "returnWin": 1.77,
+                "returnPlace": 0
+            },
+            {
+                "name": "Incarnate Word",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Lamar v Incarnate Word",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-11T00:00:00.000Z"
     }
 ]
