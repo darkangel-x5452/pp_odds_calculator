@@ -1,38 +1,5 @@
 [
     {
-        "start_time_aest": "2026-01-11T07:30:00+11:00",
-        "sport_name": "Boxing",
-        "competition_name": "Kabayel v Knyba",
-        "contestant_names": "SHALA Granit VERSES MILAS Petar",
-        "contestants": [
-            {
-                "name": "Shala",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Milas",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "SHALA Granit",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            },
-            {
-                "name": "MILAS Petar",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Shala v Milas",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T20:30:00.000Z"
-    },
-    {
         "start_time_aest": "2026-01-11T07:35:00+11:00",
         "sport_name": "Ice Hockey",
         "competition_name": "NHL",
@@ -161,6 +128,105 @@
             }
         ],
         "match_name": "Florida Gulf Cst v Lipscomb",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-10T21:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-11T08:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Portugal Cup Women",
+        "contestant_names": "Clube Galitos VERSES Basquete De Barc",
+        "contestants": [
+            {
+                "name": "Clube Galitos",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Basquete De Barc",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Clube Galitos",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            },
+            {
+                "name": "Basquete De Barc",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Clube Galitos v Basquete De Barc",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-10T21:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-11T08:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestant_names": "Astrid Cirotte VERSES Jasmijn Gimbrere",
+        "contestants": [
+            {
+                "name": "Cirotte A",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Gimbrere",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Astrid Cirotte",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            },
+            {
+                "name": "Jasmijn Gimbrere",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Cirotte A v Gimbrere",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-10T21:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-11T08:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "UTR Pro Series",
+        "contestant_names": "Luke Cripps VERSES Harry Roberts",
+        "contestants": [
+            {
+                "name": "Cripps L",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Roberts",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Luke Cripps",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            },
+            {
+                "name": "Harry Roberts",
+                "returnWin": 1.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Cripps L v Roberts",
         "betOption": "Head To Head",
         "start_time": "2026-01-10T21:00:00.000Z"
     }
