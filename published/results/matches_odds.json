@@ -1,195 +1,233 @@
 [
     {
-        "start_time_aest": "2026-01-11T05:10:00+11:00",
+        "start_time_aest": "2026-01-11T06:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestant_names": "Cleveland VERSES Minnesota",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "South Alabama VERSES Georgia Southern",
         "contestants": [
             {
-                "name": "Cleveland",
-                "position": "HOME",
-                "isHome": true,
-                "image": [
-                    {
-                        "size": "svg",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBA%20logos/Cleveland%20Cavaliers.svg"
-                    },
-                    {
-                        "size": "xxhdpi",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBA%20logos/Cleveland%20Cavaliers_xxhdpi.png"
-                    },
-                    {
-                        "size": "2x",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBA%20logos/Cleveland%20Cavaliers%402x.png"
-                    }
-                ]
-            },
-            {
-                "name": "Minnesota",
-                "position": "AWAY",
-                "isHome": false,
-                "image": [
-                    {
-                        "size": "svg",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBA%20logos/Minnesota%20Timberwolves.svg"
-                    },
-                    {
-                        "size": "xxhdpi",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBA%20logos/Minnesota%20Timberwolves_xxhdpi.png"
-                    },
-                    {
-                        "size": "2x",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBA%20logos/Minnesota%20Timberwolves%402x.png"
-                    }
-                ]
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Cleveland",
-                "returnWin": 1.73,
-                "returnPlace": 0
-            },
-            {
-                "name": "Minnesota",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Cleveland v Minnesota",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T18:10:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T05:11:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestant_names": "Boston VERSES NY Rangers",
-        "contestants": [
-            {
-                "name": "Boston",
+                "name": "South Alabama",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "NY Rangers",
+                "name": "Georgia Southern",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Boston",
-                "returnWin": 1.75,
+                "name": "South Alabama",
+                "returnWin": 1.74,
                 "returnPlace": 0
             },
             {
-                "name": "NY Rangers",
-                "returnWin": 2.05,
+                "name": "Georgia Southern",
+                "returnWin": 2.1,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Boston v NY Rangers",
+        "match_name": "South Alabama v Georgia Southern",
         "betOption": "Head To Head",
-        "start_time": "2026-01-10T18:11:00.000Z"
+        "start_time": "2026-01-10T19:00:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-11T05:15:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Czech Republic Extraliga",
-        "contestant_names": "VK Euro Sitex Pribram VERSES VK Benatky nad Jizerou",
-        "contestants": [
-            {
-                "name": "Pribram",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "VK Benatky",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "VK Euro Sitex Pribram",
-                "returnWin": 1.68,
-                "returnPlace": 0
-            },
-            {
-                "name": "VK Benatky nad Jizerou",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Pribram v VK Benatky",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-10T18:15:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T05:30:00+11:00",
+        "start_time_aest": "2026-01-11T06:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Poland Energa Basket Liga",
-        "contestant_names": "Start Lublin VERSES Dabrowa Gornicza",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "Creighton VERSES St Johns",
         "contestants": [
             {
-                "name": "Start Lublin",
+                "name": "Creighton",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Dabrowa Gornicza",
+                "name": "St Johns",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Start Lublin",
-                "returnWin": 1.48,
+                "name": "Creighton",
+                "returnWin": 2,
                 "returnPlace": 0
             },
             {
-                "name": "Dabrowa Gornicza",
-                "returnWin": 2.45,
+                "name": "St Johns",
+                "returnWin": 1.8,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Start Lublin v Dabrowa Gornicza",
+        "match_name": "Creighton v St Johns",
         "betOption": "Head To Head",
-        "start_time": "2026-01-10T18:30:00.000Z"
+        "start_time": "2026-01-10T19:00:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-11T05:30:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "France Ligue A",
-        "contestant_names": "Arago de Sete VERSES Chaumont",
+        "start_time_aest": "2026-01-11T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "Davidson VERSES Rhode Island",
         "contestants": [
             {
-                "name": "Arago de Sete",
+                "name": "Davidson",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Chaumont",
+                "name": "Rhode Island",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Arago de Sete",
-                "returnWin": 1.52,
+                "name": "Davidson",
+                "returnWin": 1.65,
                 "returnPlace": 0
             },
             {
-                "name": "Chaumont",
-                "returnWin": 2.35,
+                "name": "Rhode Island",
+                "returnWin": 2.25,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Arago de Sete v Chaumont",
+        "match_name": "Davidson v Rhode Island",
         "betOption": "Head To Head",
-        "start_time": "2026-01-10T18:30:00.000Z"
+        "start_time": "2026-01-10T19:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-11T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "Northeastern VERSES Towson",
+        "contestants": [
+            {
+                "name": "Northeastern",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Towson",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Northeastern",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            },
+            {
+                "name": "Towson",
+                "returnWin": 1.74,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Northeastern v Towson",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-10T19:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-11T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "Pittsburgh VERSES Syracuse",
+        "contestants": [
+            {
+                "name": "Pittsburgh",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Syracuse",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Pittsburgh",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            },
+            {
+                "name": "Syracuse",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Pittsburgh v Syracuse",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-10T19:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-11T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "Drexel VERSES WilliamMary",
+        "contestants": [
+            {
+                "name": "Drexel",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "WilliamMary",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Drexel",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            },
+            {
+                "name": "WilliamMary",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Drexel v WilliamMary",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-10T19:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-11T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "Albany VERSES Bryant",
+        "contestants": [
+            {
+                "name": "Albany",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Bryant",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Albany",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            },
+            {
+                "name": "Bryant",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Albany v Bryant",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-10T19:00:00.000Z"
     }
 ]
