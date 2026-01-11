@@ -1,167 +1,35 @@
 [
     {
-        "start_time_aest": "2026-01-11T21:00:00+11:00",
+        "start_time_aest": "2026-01-11T22:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Turkey Super League",
-        "contestant_names": "Mersin BSB VERSES Trabzonspor Mp",
+        "competition_name": "Bulgaria NBL",
+        "contestant_names": "BK Beroe VERSES Spartak Pleven",
         "contestants": [
             {
-                "name": "Mersin BSB",
+                "name": "BK Beroe",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Trabzonspor Mp",
+                "name": "Spartak Pleven",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Mersin BSB",
-                "returnWin": 2.5,
+                "name": "BK Beroe",
+                "returnWin": 2.05,
                 "returnPlace": 0
             },
             {
-                "name": "Trabzonspor Mp",
-                "returnWin": 1.45,
+                "name": "Spartak Pleven",
+                "returnWin": 1.68,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Mersin BSB v Trabzonspor Mp",
+        "match_name": "BK Beroe v Spartak Pleven",
         "betOption": "Head To Head",
-        "start_time": "2026-01-11T10:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T21:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestant_names": "Yaroslav Demin VERSES Ivan Ivanov",
-        "contestants": [
-            {
-                "name": "Demin",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Ivanov",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Yaroslav Demin",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            },
-            {
-                "name": "Ivan Ivanov",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Demin v Ivanov",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-11T10:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T21:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestant_names": "Esther Adeshina VERSES Tegan Bush",
-        "contestants": [
-            {
-                "name": "Adeshina",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Bush",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Esther Adeshina",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            },
-            {
-                "name": "Tegan Bush",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Adeshina v Bush",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-11T10:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T21:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestant_names": "Lucie Petruzelova VERSES Carmen Lopez Martinez",
-        "contestants": [
-            {
-                "name": "Petruzelova L",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Lopez Martinez",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Lucie Petruzelova",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Carmen Lopez Martinez",
-                "returnWin": 1.46,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Petruzelova L v Lopez Martinez",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-11T10:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T21:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "contestant_names": "Khachanov/Rublev VERSES Sonego/Musetti",
-        "contestants": [
-            {
-                "name": "Khachanov/Rublev",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Sonego/Musetti",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Khachanov/Rublev",
-                "returnWin": 1.52,
-                "returnPlace": 0
-            },
-            {
-                "name": "Sonego/Musetti",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Khachanov/Rublev v Sonego/Musetti",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-11T10:00:00.000Z"
+        "start_time": "2026-01-11T11:00:00.000Z"
     }
 ]
