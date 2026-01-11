@@ -1,137 +1,5 @@
 [
     {
-        "start_time_aest": "2026-01-12T05:00:00+11:00",
-        "sport_name": "American Football",
-        "competition_name": "NFL",
-        "contestant_names": "Jacksonville VERSES Buffalo",
-        "contestants": [
-            {
-                "name": "Jacksonville",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Buffalo",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jacksonville",
-                "returnWin": 1.77,
-                "returnPlace": 0
-            },
-            {
-                "name": "Buffalo",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Jacksonville v Buffalo",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-11T18:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-12T05:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestant_names": "Florida Atlantic VERSES Memphis",
-        "contestants": [
-            {
-                "name": "Florida Atlantic",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Memphis",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Florida Atlantic",
-                "returnWin": 1.74,
-                "returnPlace": 0
-            },
-            {
-                "name": "Memphis",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Florida Atlantic v Memphis",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-11T18:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-12T05:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestant_names": "Liberty VERSES Louisiana Tech",
-        "contestants": [
-            {
-                "name": "Liberty",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Louisiana Tech",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Liberty",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            },
-            {
-                "name": "Louisiana Tech",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Liberty v Louisiana Tech",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-11T18:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-12T05:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestant_names": "Notre Dame VERSES North Carolina",
-        "contestants": [
-            {
-                "name": "Notre Dame",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "North Carolina",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Notre Dame",
-                "returnWin": 1.8,
-                "returnPlace": 0
-            },
-            {
-                "name": "North Carolina",
-                "returnWin": 1.95,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Notre Dame v North Carolina",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-11T18:00:00.000Z"
-    },
-    {
         "start_time_aest": "2026-01-12T06:00:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
@@ -227,6 +95,72 @@
             }
         ],
         "match_name": "Rice v Charlotte U",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-11T19:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-12T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestant_names": "Loyola (IL) VERSES Saint Louis",
+        "contestants": [
+            {
+                "name": "Loyola (IL)",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Saint Louis",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Loyola (IL)",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            },
+            {
+                "name": "Saint Louis",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Loyola (IL) v Saint Louis",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-11T19:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-12T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestant_names": "VCU VERSES Duquesne",
+        "contestants": [
+            {
+                "name": "VCU",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Duquesne",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "VCU",
+                "returnWin": 1.75,
+                "returnPlace": 0
+            },
+            {
+                "name": "Duquesne",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "VCU v Duquesne",
         "betOption": "Head To Head",
         "start_time": "2026-01-11T19:00:00.000Z"
     }
