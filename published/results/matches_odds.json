@@ -64,5 +64,137 @@
         "match_name": "Georgia Tech v Clemson",
         "betOption": "Head To Head",
         "start_time": "2026-01-11T21:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-12T08:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestant_names": "Alb Lim VERSES Jasmijn Gimbrere",
+        "contestants": [
+            {
+                "name": "Lim A",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Gimbrere",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alb Lim",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            },
+            {
+                "name": "Jasmijn Gimbrere",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Lim A v Gimbrere",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-11T21:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-12T09:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "UCF VERSES Cincinnati",
+        "contestants": [
+            {
+                "name": "UCF",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Cincinnati",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "UCF",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            },
+            {
+                "name": "Cincinnati",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "UCF v Cincinnati",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-11T22:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-12T09:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestant_names": "Oregon VERSES Michigan State",
+        "contestants": [
+            {
+                "name": "Oregon",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Michigan State",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Oregon",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Michigan State",
+                "returnWin": 1.75,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Oregon v Michigan State",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-11T22:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-12T09:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestant_names": "Boston VERSES Pittsburgh",
+        "contestants": [
+            {
+                "name": "Boston",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Pittsburgh",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Boston",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Pittsburgh",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Boston v Pittsburgh",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-11T22:05:00.000Z"
     }
 ]
