@@ -1,5 +1,38 @@
 [
     {
+        "start_time_aest": "2026-01-11T21:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestant_names": "Robert Strombachs VERSES Anton Matusevich",
+        "contestants": [
+            {
+                "name": "Strombachs R",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Matusevich A",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Robert Strombachs",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Anton Matusevich",
+                "returnWin": 1.45,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Strombachs R v Matusevich A",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-11T10:45:00.000Z"
+    },
+    {
         "start_time_aest": "2026-01-11T22:00:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "Bulgaria NBL",
