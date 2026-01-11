@@ -1,6 +1,6 @@
 [
     {
-        "start_time_aest": "2026-01-12T02:45:00+11:00",
+        "start_time_aest": "2026-01-12T03:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestant_names": "Thiago Cigarran VERSES Juan Carlos Manuel Aguilar",
@@ -19,149 +19,83 @@
         "propositions": [
             {
                 "name": "Thiago Cigarran",
-                "returnWin": 2.3,
+                "returnWin": 2.25,
                 "returnPlace": 0
             },
             {
                 "name": "Juan Carlos Manuel Aguilar",
-                "returnWin": 1.52,
+                "returnWin": 1.55,
                 "returnPlace": 0
             }
         ],
         "match_name": "Cigarran v Aguilar JC",
         "betOption": "Head To Head",
-        "start_time": "2026-01-11T15:45:00.000Z"
+        "start_time": "2026-01-11T16:15:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-12T02:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestant_names": "Arklon HrtDPino VERSES Lucio Ratti",
-        "contestants": [
-            {
-                "name": "Arklon HrtDPino",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Ratti",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Arklon HrtDPino",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            },
-            {
-                "name": "Lucio Ratti",
-                "returnWin": 1.67,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Arklon HrtDPino v Ratti",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-11T15:45:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-12T03:00:00+11:00",
+        "start_time_aest": "2026-01-12T03:30:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Norway BLNO",
-        "contestant_names": "Ammerud Basket VERSES Centrum Tigers",
+        "competition_name": "France LNB Pro A",
+        "contestant_names": "Gravelines VERSES Cholet",
         "contestants": [
             {
-                "name": "Ammerud Basket",
+                "name": "Gravelines",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Centrum Tigers",
+                "name": "Cholet",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Ammerud Basket",
-                "returnWin": 2.3,
+                "name": "Gravelines",
+                "returnWin": 2.35,
                 "returnPlace": 0
             },
             {
-                "name": "Centrum Tigers",
-                "returnWin": 1.52,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Ammerud Basket v Centrum Tigers",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-11T16:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-12T03:00:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Italian Serie A1 Mens",
-        "contestant_names": "Trentino Volley VERSES Verona",
-        "contestants": [
-            {
-                "name": "Trentino",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Verona",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Trentino Volley",
+                "name": "Cholet",
                 "returnWin": 1.5,
                 "returnPlace": 0
-            },
-            {
-                "name": "Verona",
-                "returnWin": 2.4,
-                "returnPlace": 0
             }
         ],
-        "match_name": "Trentino v Verona",
+        "match_name": "Gravelines v Cholet",
         "betOption": "Head To Head",
-        "start_time": "2026-01-11T16:00:00.000Z"
+        "start_time": "2026-01-11T16:30:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-12T03:00:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Italy Serie A1 Women",
-        "contestant_names": "Foppapedretti Bergamo (W) VERSES Megabox Vallefoglia (W)",
+        "start_time_aest": "2026-01-12T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "Iowa VERSES Illinois",
         "contestants": [
             {
-                "name": "Fopp Bergamo (W)",
+                "name": "Iowa",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Megabox (W)",
+                "name": "Illinois",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Foppapedretti Bergamo (W)",
+                "name": "Iowa",
                 "returnWin": 2,
                 "returnPlace": 0
             },
             {
-                "name": "Megabox Vallefoglia (W)",
-                "returnWin": 1.72,
+                "name": "Illinois",
+                "returnWin": 1.8,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Fopp Bergamo (W) v Megabox (W)",
+        "match_name": "Iowa v Illinois",
         "betOption": "Head To Head",
-        "start_time": "2026-01-11T16:00:00.000Z"
+        "start_time": "2026-01-11T17:00:00.000Z"
     }
 ]
