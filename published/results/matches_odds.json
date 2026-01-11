@@ -1,167 +1,233 @@
 [
     {
-        "start_time_aest": "2026-01-12T04:00:00+11:00",
+        "start_time_aest": "2026-01-12T04:30:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestant_names": "Iowa VERSES Illinois",
+        "competition_name": "British Basketball League",
+        "contestant_names": "Cheshire VERSES Newcastle",
         "contestants": [
             {
-                "name": "Iowa",
+                "name": "Cheshire",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Illinois",
+                "name": "Newcastle",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Iowa",
-                "returnWin": 2,
+                "name": "Cheshire",
+                "returnWin": 1.48,
                 "returnPlace": 0
             },
             {
-                "name": "Illinois",
-                "returnWin": 1.8,
+                "name": "Newcastle",
+                "returnWin": 2.45,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Iowa v Illinois",
+        "match_name": "Cheshire v Newcastle",
         "betOption": "Head To Head",
-        "start_time": "2026-01-11T17:00:00.000Z"
+        "start_time": "2026-01-11T17:30:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-12T04:00:00+11:00",
+        "start_time_aest": "2026-01-12T04:30:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Spain ACB Liga",
-        "contestant_names": "Girona Basket VERSES Saski Baskonia",
+        "competition_name": "Italy Lega Serie A",
+        "contestant_names": "Reyer Venezia VERSES Obiettivo Lavoro",
         "contestants": [
             {
-                "name": "Girona Basket",
+                "name": "Reyer Venezia",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Saski Baskonia",
+                "name": "Obiettivo Lavoro",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Girona Basket",
-                "returnWin": 1.95,
-                "returnPlace": 0
-            },
-            {
-                "name": "Saski Baskonia",
-                "returnWin": 1.73,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Girona Basket v Saski Baskonia",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-11T17:00:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-12T04:00:00+11:00",
-        "sport_name": "Soccer",
-        "competition_name": "France Cup",
-        "contestant_names": "Metz VERSES Montpellier HSC",
-        "contestants": [
-            {
-                "name": "Metz",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Montpellier HSC",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Metz",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            },
-            {
-                "name": "Montpellier HSC",
+                "name": "Reyer Venezia",
                 "returnWin": 2.15,
                 "returnPlace": 0
+            },
+            {
+                "name": "Obiettivo Lavoro",
+                "returnWin": 1.6,
+                "returnPlace": 0
             }
         ],
-        "match_name": "Metz v Montpellier HSC",
-        "betOption": "Winner of Tie",
-        "start_time": "2026-01-11T17:00:00.000Z"
+        "match_name": "Reyer Venezia v Obiettivo Lavoro",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-11T17:30:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-12T04:00:00+11:00",
-        "sport_name": "Soccer",
-        "competition_name": "France Cup",
-        "contestant_names": "Le Mans VERSES Nancy",
+        "start_time_aest": "2026-01-12T04:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Turkey Super League",
+        "contestant_names": "Socar Petkim Spo VERSES Tofas",
         "contestants": [
             {
-                "name": "Le Mans",
+                "name": "Socar Petkim Spo",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Nancy",
+                "name": "Tofas",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Le Mans",
-                "returnWin": 1.52,
+                "name": "Socar Petkim Spo",
+                "returnWin": 1.55,
                 "returnPlace": 0
             },
             {
-                "name": "Nancy",
+                "name": "Tofas",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Socar Petkim Spo v Tofas",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-11T17:30:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-12T05:00:00+11:00",
+        "sport_name": "American Football",
+        "competition_name": "NFL",
+        "contestant_names": "Jacksonville VERSES Buffalo",
+        "contestants": [
+            {
+                "name": "Jacksonville",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Buffalo",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jacksonville",
+                "returnWin": 1.77,
+                "returnPlace": 0
+            },
+            {
+                "name": "Buffalo",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Jacksonville v Buffalo",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-11T18:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-12T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestant_names": "Florida Atlantic VERSES Memphis",
+        "contestants": [
+            {
+                "name": "Florida Atlantic",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Memphis",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Florida Atlantic",
+                "returnWin": 1.74,
+                "returnPlace": 0
+            },
+            {
+                "name": "Memphis",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Florida Atlantic v Memphis",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-11T18:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-12T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestant_names": "Liberty VERSES Louisiana Tech",
+        "contestants": [
+            {
+                "name": "Liberty",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Louisiana Tech",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Liberty",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            },
+            {
+                "name": "Louisiana Tech",
                 "returnWin": 2.35,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Le Mans v Nancy",
-        "betOption": "Winner of Tie",
-        "start_time": "2026-01-11T17:00:00.000Z"
+        "match_name": "Liberty v Louisiana Tech",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-11T18:00:00.000Z"
     },
     {
-        "start_time_aest": "2026-01-12T04:00:00+11:00",
-        "sport_name": "Soccer",
-        "competition_name": "France Cup",
-        "contestant_names": "Nantes VERSES Nice",
+        "start_time_aest": "2026-01-12T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestant_names": "Notre Dame VERSES North Carolina",
         "contestants": [
             {
-                "name": "Nantes",
+                "name": "Notre Dame",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Nice",
+                "name": "North Carolina",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Nantes",
-                "returnWin": 2.25,
+                "name": "Notre Dame",
+                "returnWin": 1.8,
                 "returnPlace": 0
             },
             {
-                "name": "Nice",
-                "returnWin": 1.58,
+                "name": "North Carolina",
+                "returnWin": 1.95,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Nantes v Nice",
-        "betOption": "Winner of Tie",
-        "start_time": "2026-01-11T17:00:00.000Z"
+        "match_name": "Notre Dame v North Carolina",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-11T18:00:00.000Z"
     }
 ]
