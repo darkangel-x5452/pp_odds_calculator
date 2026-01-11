@@ -97,7 +97,7 @@ class GetMatchesOdds():
         )
         with open(self.result_path, "w") as f:
             json.dump(adding_matches_ls, f, indent=4)
-            
+
         historical_matches.sort(
             key=lambda x: datetime.fromisoformat(x["start_time_aest"]),
             reverse=False
@@ -129,6 +129,11 @@ class GetMatchesOdds():
             match_name = _match['name']
             start_time = _match['startTime']
             contestants = _match['contestants']
+            cleaned_contestants = []
+            for _contestant in contestants:
+                _contestant.pop("image", None)  # None if key not found
+                cleaned_contestants.append(_contestant)
+
             competitionName = _match['competitionName']
             sportName = _match['sportName']
             # competitors = _match['competitors'] if 'competitors' in _match else []
@@ -182,7 +187,7 @@ class GetMatchesOdds():
                         "sport_name": sportName,
                         "competition_name": competitionName,
                         "contestant_names": contestant_full_names,
-                        "contestants": contestants,
+                        "contestants": cleaned_contestants,
                         "propositions": clean_propositions,
                         "match_name": match_name,
                         # "competitors": competitors,

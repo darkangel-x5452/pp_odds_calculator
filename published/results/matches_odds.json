@@ -1,138 +1,6 @@
 [
     {
-        "start_time_aest": "2026-01-11T16:05:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Japan V Premier League (W)",
-        "contestant_names": "AquaFairies (W) VERSES Denso Airybees (W)",
-        "contestants": [
-            {
-                "name": "AquaFairies (W)",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Denso (W)",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "AquaFairies (W)",
-                "returnWin": 1.68,
-                "returnPlace": 0
-            },
-            {
-                "name": "Denso Airybees (W)",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "AquaFairies (W) v Denso (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-11T05:05:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T16:05:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Japan V Premier League (W)",
-        "contestant_names": "JT Marvelous (W) VERSES Hisamitsu (W)",
-        "contestants": [
-            {
-                "name": "JT Marvelous (W)",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Hisamitsu (W)",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "JT Marvelous (W)",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            },
-            {
-                "name": "Hisamitsu (W)",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "JT Marvelous (W) v Hisamitsu (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-11T05:05:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T16:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestant_names": "Arthur Weber VERSES Tung-Lin Wu",
-        "contestants": [
-            {
-                "name": "Weber A",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Wu TL",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Arthur Weber",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            },
-            {
-                "name": "Tung-Lin Wu",
-                "returnWin": 1.48,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Weber A v Wu TL",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-11T05:15:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T16:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "contestant_names": "Jesper De Jong VERSES Thiago Agustin Tirante",
-        "contestants": [
-            {
-                "name": "De Jong",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Tirante",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jesper De Jong",
-                "returnWin": 1.46,
-                "returnPlace": 0
-            },
-            {
-                "name": "Thiago Agustin Tirante",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "De Jong v Tirante",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-11T05:30:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T16:37:00+11:00",
+        "start_time_aest": "2026-01-11T16:47:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NBL",
         "contestant_names": "Sydney VERSES Melbourne",
@@ -140,40 +8,12 @@
             {
                 "name": "Sydney",
                 "position": "HOME",
-                "isHome": true,
-                "image": [
-                    {
-                        "size": "svg",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBL/Sydney%20FC.svg"
-                    },
-                    {
-                        "size": "xxhdpi",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBL/Sydney%20FC_xxhdpi.png"
-                    },
-                    {
-                        "size": "2x",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBL/Sydney%20FC%402x.png"
-                    }
-                ]
+                "isHome": true
             },
             {
                 "name": "Melbourne",
                 "position": "AWAY",
-                "isHome": false,
-                "image": [
-                    {
-                        "size": "svg",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBL/Melbourne%20United.svg"
-                    },
-                    {
-                        "size": "xxhdpi",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBL/Melbourne%20United_xxhdpi.png"
-                    },
-                    {
-                        "size": "2x",
-                        "url": "https://metadata.beta.tab.com.au/icons/NBL/Melbourne%20United%402x.png"
-                    }
-                ]
+                "isHome": false
             }
         ],
         "propositions": [
@@ -190,7 +30,7 @@
         ],
         "match_name": "Sydney v Melbourne",
         "betOption": "Head To Head",
-        "start_time": "2026-01-11T05:37:00.000Z"
+        "start_time": "2026-01-11T05:47:00.000Z"
     },
     {
         "start_time_aest": "2026-01-11T17:00:00+11:00",
@@ -212,12 +52,12 @@
         "propositions": [
             {
                 "name": "Yu Qi Shi",
-                "returnWin": 1.48,
+                "returnWin": 1.5,
                 "returnPlace": 0
             },
             {
                 "name": "Kunlavut Vitidsarn",
-                "returnWin": 2.5,
+                "returnWin": 2.4,
                 "returnPlace": 0
             }
         ],
@@ -290,5 +130,38 @@
         "match_name": "Martin D v Denolly",
         "betOption": "Head To Head",
         "start_time": "2026-01-11T06:00:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-11T18:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Bangladesh Premier League",
+        "contestant_names": "Durbar Rajshahi VERSES Rangpur Riders",
+        "contestants": [
+            {
+                "name": "Durbar Rajshahi",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Rangpur Riders",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Durbar Rajshahi",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            },
+            {
+                "name": "Rangpur Riders",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Durbar Rajshahi v Rangpur Riders",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-11T07:00:00.000Z"
     }
 ]
