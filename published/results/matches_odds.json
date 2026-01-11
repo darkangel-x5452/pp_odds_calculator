@@ -1,68 +1,101 @@
 [
     {
-        "start_time_aest": "2026-01-11T21:45:00+11:00",
+        "start_time_aest": "2026-01-11T22:15:00+11:00",
         "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestant_names": "Robert Strombachs VERSES Anton Matusevich",
+        "competition_name": "ITF Mens",
+        "contestant_names": "Wilson Leven Nadal VERSES Yannick Baluska",
         "contestants": [
             {
-                "name": "Strombachs R",
+                "name": "Wilson Leven Nad",
                 "position": "HOME",
                 "isHome": true
             },
             {
-                "name": "Matusevich A",
+                "name": "Baluska",
                 "position": "AWAY",
                 "isHome": false
             }
         ],
         "propositions": [
             {
-                "name": "Robert Strombachs",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Anton Matusevich",
-                "returnWin": 1.45,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Strombachs R v Matusevich A",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-11T10:45:00.000Z"
-    },
-    {
-        "start_time_aest": "2026-01-11T22:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Bulgaria NBL",
-        "contestant_names": "BK Beroe VERSES Spartak Pleven",
-        "contestants": [
-            {
-                "name": "BK Beroe",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Spartak Pleven",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "BK Beroe",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            },
-            {
-                "name": "Spartak Pleven",
+                "name": "Wilson Leven Nadal",
                 "returnWin": 1.68,
                 "returnPlace": 0
+            },
+            {
+                "name": "Yannick Baluska",
+                "returnWin": 2.05,
+                "returnPlace": 0
             }
         ],
-        "match_name": "BK Beroe v Spartak Pleven",
+        "match_name": "Wilson Leven Nad v Baluska",
         "betOption": "Head To Head",
-        "start_time": "2026-01-11T11:00:00.000Z"
+        "start_time": "2026-01-11T11:15:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-11T22:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Poland Energa Basket Liga",
+        "contestant_names": "King Szczecin VERSES Legia Warszawa",
+        "contestants": [
+            {
+                "name": "King Szczecin",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Legia Warszawa",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "King Szczecin",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            },
+            {
+                "name": "Legia Warszawa",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "King Szczecin v Legia Warszawa",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-11T11:30:00.000Z"
+    },
+    {
+        "start_time_aest": "2026-01-11T22:35:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "China CBA",
+        "contestant_names": "Jilin Northeast VERSES Qingdao",
+        "contestants": [
+            {
+                "name": "Jilin Northeast",
+                "position": "HOME",
+                "isHome": true
+            },
+            {
+                "name": "Qingdao",
+                "position": "AWAY",
+                "isHome": false
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jilin Northeast",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            },
+            {
+                "name": "Qingdao",
+                "returnWin": 1.48,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Jilin Northeast  v Qingdao",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-11T11:35:00.000Z"
     }
 ]
