@@ -1,71 +1,5 @@
 [
     {
-        "contestant_names": "Hikaru Shiraishi VERSES Neil Oberleitner",
-        "start_time_aest": "2026-01-12T16:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Hikaru Shiraishi",
-                "position": "HOME",
-                "short_name": "Shiraishi"
-            },
-            {
-                "full_name": "Neil Oberleitner",
-                "position": "AWAY",
-                "short_name": "Oberleitner"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Hikaru Shiraishi",
-                "returnWin": 1.95,
-                "returnPlace": 0
-            },
-            {
-                "name": "Neil Oberleitner",
-                "returnWin": 1.72,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Shiraishi v Oberleitner",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-12T05:45:00.000Z"
-    },
-    {
-        "contestant_names": "Toyota Alvark VERSES Aisin Seahorses",
-        "start_time_aest": "2026-01-12T17:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Japan Emperors Cup",
-        "contestants": [
-            {
-                "full_name": "Toyota Alvark",
-                "position": "HOME",
-                "short_name": "Toyota Alvark"
-            },
-            {
-                "full_name": "Aisin Seahorses",
-                "position": "AWAY",
-                "short_name": "Aisin Seahorses"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Toyota Alvark",
-                "returnWin": 1.52,
-                "returnPlace": 0
-            },
-            {
-                "name": "Aisin Seahorses",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Toyota Alvark v Aisin Seahorses",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-12T06:00:00.000Z"
-    },
-    {
         "contestant_names": "Miomir Kecmanovic VERSES Valentin Vacherot",
         "start_time_aest": "2026-01-12T17:30:00+11:00",
         "sport_name": "Tennis",
@@ -493,5 +427,71 @@
         "match_name": "Uchida v Bertrand R",
         "betOption": "Head To Head",
         "start_time": "2026-01-12T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Daria Kasatkina VERSES Maria Sakkari",
+        "start_time_aest": "2026-01-12T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Daria Kasatkina",
+                "position": "HOME",
+                "short_name": "Kasatkina"
+            },
+            {
+                "full_name": "Maria Sakkari",
+                "position": "AWAY",
+                "short_name": "Sakkari"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Daria Kasatkina",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            },
+            {
+                "name": "Maria Sakkari",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Kasatkina v Sakkari",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-12T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Sydney Thunder VERSES Melb Renegades",
+        "start_time_aest": "2026-01-12T19:15:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Big Bash",
+        "contestants": [
+            {
+                "full_name": "Sydney Thunder",
+                "position": "HOME",
+                "short_name": "Sydney Thunder"
+            },
+            {
+                "full_name": "Melb Renegades",
+                "position": "AWAY",
+                "short_name": "Melb Renegades"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sydney Thunder",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            },
+            {
+                "name": "Melb Renegades",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Sydney Thunder v Melb Renegades",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-12T08:15:00.000Z"
     }
 ]
