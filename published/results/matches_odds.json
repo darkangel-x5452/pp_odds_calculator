@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Sendi/Bauru VERSES PinheirosSKY",
-        "start_time_aest": "2026-01-13T09:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Brazil NBB",
-        "contestants": [
-            {
-                "full_name": "Sendi/Bauru",
-                "position": "HOME",
-                "short_name": "Sendi/Bauru"
-            },
-            {
-                "full_name": "PinheirosSKY",
-                "position": "AWAY",
-                "short_name": "PinheirosSKY"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sendi/Bauru",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "PinheirosSKY",
-                "returnWin": 1.45,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Sendi/Bauru v PinheirosSKY",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-12T22:30:00.000Z"
-    },
-    {
         "contestant_names": "Gonzalez/Pel VERSES Rikl/Nouza",
         "start_time_aest": "2026-01-13T09:35:00+11:00",
         "sport_name": "Tennis",
@@ -64,6 +31,39 @@
         "match_name": "Gonzalez/Pel v Rikl/Nouza",
         "betOption": "Head To Head",
         "start_time": "2026-01-12T22:35:00.000Z"
+    },
+    {
+        "contestant_names": "Gonzalez/Pel VERSES Rikl/Nouza",
+        "start_time_aest": "2026-01-13T09:40:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP Doubles",
+        "contestants": [
+            {
+                "full_name": "Gonzalez/Pel",
+                "position": "HOME",
+                "short_name": "Gonzalez/Pel"
+            },
+            {
+                "full_name": "Rikl/Nouza",
+                "position": "AWAY",
+                "short_name": "Rikl/Nouza"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Gonzalez/Pel",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            },
+            {
+                "name": "Rikl/Nouza",
+                "returnWin": 1.72,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Gonzalez/Pel v Rikl/Nouza",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-12T22:40:00.000Z"
     },
     {
         "contestant_names": "Morgan State VERSES NC Central",
@@ -458,6 +458,39 @@
             }
         ],
         "match_name": "Florida AM v Grambling State",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-13T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "American VERSES Navy",
+        "start_time_aest": "2026-01-13T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "American",
+                "position": "HOME",
+                "short_name": "American"
+            },
+            {
+                "full_name": "Navy",
+                "position": "AWAY",
+                "short_name": "Navy"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "American",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Navy",
+                "returnWin": 1.67,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "American v Navy",
         "betOption": "Head To Head",
         "start_time": "2026-01-13T00:00:00.000Z"
     }
