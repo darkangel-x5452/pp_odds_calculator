@@ -196,5 +196,38 @@
         "match_name": "Artech Bluestar  v Super Kings",
         "betOption": "Head To Head",
         "start_time": "2026-01-12T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Mateus Alves VERSES Matheus Pucinelli De Almeida",
+        "start_time_aest": "2026-01-13T04:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Mateus Alves",
+                "position": "HOME",
+                "short_name": "Alves M"
+            },
+            {
+                "full_name": "Matheus Pucinelli De Almeida",
+                "position": "AWAY",
+                "short_name": "Pucinelli"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mateus Alves",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            },
+            {
+                "name": "Matheus Pucinelli De Almeida",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Alves M v Pucinelli",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-12T17:00:00.000Z"
     }
 ]
