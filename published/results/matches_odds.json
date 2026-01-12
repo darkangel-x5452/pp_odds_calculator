@@ -1,104 +1,5 @@
 [
     {
-        "contestant_names": "Juan Pablo Varillas VERSES Gonzalo Villanueva",
-        "start_time_aest": "2026-01-13T07:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Juan Pablo Varillas",
-                "position": "HOME",
-                "short_name": "Varillas"
-            },
-            {
-                "full_name": "Gonzalo Villanueva",
-                "position": "AWAY",
-                "short_name": "Villanueva G"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Juan Pablo Varillas",
-                "returnWin": 1.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Gonzalo Villanueva",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Varillas v Villanueva G",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-12T20:45:00.000Z"
-    },
-    {
-        "contestant_names": "Frantzen/Haase VERSES Tracy/Cash",
-        "start_time_aest": "2026-01-13T08:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "contestants": [
-            {
-                "full_name": "Frantzen/Haase",
-                "position": "HOME",
-                "short_name": "Frantzen/Haase"
-            },
-            {
-                "full_name": "Tracy/Cash",
-                "position": "AWAY",
-                "short_name": "Tracy/Cash"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Frantzen/Haase",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            },
-            {
-                "name": "Tracy/Cash",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Frantzen/Haase v Tracy/Cash",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-12T21:00:00.000Z"
-    },
-    {
-        "contestant_names": "Reboul/Doumbia VERSES Erler/Galloway",
-        "start_time_aest": "2026-01-13T08:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "contestants": [
-            {
-                "full_name": "Reboul/Doumbia",
-                "position": "HOME",
-                "short_name": "Reboul/Doumbia"
-            },
-            {
-                "full_name": "Erler/Galloway",
-                "position": "AWAY",
-                "short_name": "Erler/Galloway"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Reboul/Doumbia",
-                "returnWin": 1.68,
-                "returnPlace": 0
-            },
-            {
-                "name": "Erler/Galloway",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Reboul/Doumbia v Erler/Galloway",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-12T21:00:00.000Z"
-    },
-    {
         "contestant_names": "Batavo Mackenzie (W) VERSES Volei Bauru (W)",
         "start_time_aest": "2026-01-13T08:30:00+11:00",
         "sport_name": "Volleyball",
@@ -130,6 +31,39 @@
         "match_name": "B Mackenzie (W) v Volei Bauru (W)",
         "betOption": "Head To Head",
         "start_time": "2026-01-12T21:30:00.000Z"
+    },
+    {
+        "contestant_names": "Sendi/Bauru VERSES PinheirosSKY",
+        "start_time_aest": "2026-01-13T09:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Brazil NBB",
+        "contestants": [
+            {
+                "full_name": "Sendi/Bauru",
+                "position": "HOME",
+                "short_name": "Sendi/Bauru"
+            },
+            {
+                "full_name": "PinheirosSKY",
+                "position": "AWAY",
+                "short_name": "PinheirosSKY"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sendi/Bauru",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "PinheirosSKY",
+                "returnWin": 1.45,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Sendi/Bauru v PinheirosSKY",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-12T22:30:00.000Z"
     },
     {
         "contestant_names": "Gonzalez/Pel VERSES Rikl/Nouza",
@@ -427,5 +361,71 @@
         "match_name": "Hunter S v Gorgodze E",
         "betOption": "Head To Head",
         "start_time": "2026-01-12T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Sijia Wei VERSES Elvina Kalieva",
+        "start_time_aest": "2026-01-13T10:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Sijia Wei",
+                "position": "HOME",
+                "short_name": "Wei"
+            },
+            {
+                "full_name": "Elvina Kalieva",
+                "position": "AWAY",
+                "short_name": "Kalieva E"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sijia Wei",
+                "returnWin": 1.68,
+                "returnPlace": 0
+            },
+            {
+                "name": "Elvina Kalieva",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Wei v Kalieva E",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-12T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Rocamora VERSES Club Villa Mitre",
+        "start_time_aest": "2026-01-13T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Rocamora",
+                "position": "HOME",
+                "short_name": "Rocamora"
+            },
+            {
+                "full_name": "Club Villa Mitre",
+                "position": "AWAY",
+                "short_name": "Club Villa Mitre"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Rocamora",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            },
+            {
+                "name": "Club Villa Mitre",
+                "returnWin": 1.73,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Rocamora v Club Villa Mitre",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-13T00:00:00.000Z"
     }
 ]
