@@ -1,40 +1,7 @@
 [
     {
-        "contestant_names": "Eliana Blake VERSES Beatrise Zeltina",
-        "start_time_aest": "2026-01-12T23:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Eliana Blake",
-                "position": "HOME",
-                "short_name": "Blake E"
-            },
-            {
-                "full_name": "Beatrise Zeltina",
-                "position": "AWAY",
-                "short_name": "Zeltina"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Eliana Blake",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Beatrise Zeltina",
-                "returnWin": 1.46,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Blake E v Zeltina",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-12T12:15:00.000Z"
-    },
-    {
         "contestant_names": "Denis Yevseyev VERSES Daniel Masur",
-        "start_time_aest": "2026-01-12T23:30:00+11:00",
+        "start_time_aest": "2026-01-12T23:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -52,51 +19,18 @@
         "propositions": [
             {
                 "name": "Denis Yevseyev",
-                "returnWin": 2.25,
+                "returnWin": 2.35,
                 "returnPlace": 0
             },
             {
                 "name": "Daniel Masur",
-                "returnWin": 1.55,
+                "returnWin": 1.5,
                 "returnPlace": 0
             }
         ],
         "match_name": "Yevseyev v Masur D",
         "betOption": "Head To Head",
-        "start_time": "2026-01-12T12:30:00.000Z"
-    },
-    {
-        "contestant_names": "Maks Kasnikowski VERSES Milos Karol",
-        "start_time_aest": "2026-01-12T23:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Maks Kasnikowski",
-                "position": "HOME",
-                "short_name": "Kasnikowski"
-            },
-            {
-                "full_name": "Milos Karol",
-                "position": "AWAY",
-                "short_name": "Karol"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Maks Kasnikowski",
-                "returnWin": 2,
-                "returnPlace": 0
-            },
-            {
-                "name": "Milos Karol",
-                "returnWin": 1.7,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Kasnikowski v Karol",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-12T12:30:00.000Z"
+        "start_time": "2026-01-12T12:45:00.000Z"
     },
     {
         "contestant_names": "Mark Williams VERSES Mark Allen",
@@ -163,6 +97,39 @@
         "match_name": "Gima v Ratti",
         "betOption": "Head To Head",
         "start_time": "2026-01-12T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Mark Williams VERSES Mark Allen",
+        "start_time_aest": "2026-01-13T00:10:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "The Masters",
+        "contestants": [
+            {
+                "full_name": "Mark Williams",
+                "position": "HOME",
+                "short_name": "Williams"
+            },
+            {
+                "full_name": "Mark Allen",
+                "position": "AWAY",
+                "short_name": "Allen M"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mark Williams",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            },
+            {
+                "name": "Mark Allen",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Williams v Allen M",
+        "betOption": "Result",
+        "start_time": "2026-01-12T13:10:00.000Z"
     },
     {
         "contestant_names": "PretoriaCapitals VERSES MI Cape Town",
