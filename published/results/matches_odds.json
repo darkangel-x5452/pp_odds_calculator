@@ -1,71 +1,5 @@
 [
     {
-        "contestant_names": "Remy Bertola VERSES Sandro Kopp",
-        "start_time_aest": "2026-01-13T01:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Remy Bertola",
-                "position": "HOME",
-                "short_name": "Bertola"
-            },
-            {
-                "full_name": "Sandro Kopp",
-                "position": "AWAY",
-                "short_name": "Kopp"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Remy Bertola",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            },
-            {
-                "name": "Sandro Kopp",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Bertola v Kopp",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-12T14:45:00.000Z"
-    },
-    {
-        "contestant_names": "Sacha Grandvincent VERSES Aubin Rouillon",
-        "start_time_aest": "2026-01-13T02:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Sacha Grandvincent",
-                "position": "HOME",
-                "short_name": "Grandvincent"
-            },
-            {
-                "full_name": "Aubin Rouillon",
-                "position": "AWAY",
-                "short_name": "Rouillon"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sacha Grandvincent",
-                "returnWin": 1.46,
-                "returnPlace": 0
-            },
-            {
-                "name": "Aubin Rouillon",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Grandvincent v Rouillon",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-12T15:00:00.000Z"
-    },
-    {
         "contestant_names": "Natalia Sousa Salazar VERSES Alisa Danilova",
         "start_time_aest": "2026-01-13T02:15:00+11:00",
         "sport_name": "Tennis",
@@ -229,5 +163,137 @@
         "match_name": "Al Muharraq v Shabab Al Ahli D",
         "betOption": "Head To Head",
         "start_time": "2026-01-12T16:30:00.000Z"
+    },
+    {
+        "contestant_names": "Paul Jubb VERSES Dimitar Kuzmanov",
+        "start_time_aest": "2026-01-13T03:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Paul Jubb",
+                "position": "HOME",
+                "short_name": "Jubb"
+            },
+            {
+                "full_name": "Dimitar Kuzmanov",
+                "position": "AWAY",
+                "short_name": "Kuzmanov"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Paul Jubb",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            },
+            {
+                "name": "Dimitar Kuzmanov",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Jubb v Kuzmanov",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-12T16:30:00.000Z"
+    },
+    {
+        "contestant_names": "Edas Butvilas VERSES Norbert Gombos",
+        "start_time_aest": "2026-01-13T03:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Edas Butvilas",
+                "position": "HOME",
+                "short_name": "Butvilas E"
+            },
+            {
+                "full_name": "Norbert Gombos",
+                "position": "AWAY",
+                "short_name": "Gombos"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Edas Butvilas",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            },
+            {
+                "name": "Norbert Gombos",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Butvilas E v Gombos",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-12T16:30:00.000Z"
+    },
+    {
+        "contestant_names": "Barak Netanya VERSES Ironi Kiryat Ata",
+        "start_time_aest": "2026-01-13T03:35:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Israel Super League",
+        "contestants": [
+            {
+                "full_name": "Barak Netanya",
+                "position": "HOME",
+                "short_name": "Barak Netanya"
+            },
+            {
+                "full_name": "Ironi Kiryat Ata",
+                "position": "AWAY",
+                "short_name": "Ironi Kiryat Ata"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Barak Netanya",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            },
+            {
+                "name": "Ironi Kiryat Ata",
+                "returnWin": 1.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Barak Netanya v Ironi Kiryat Ata",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-12T16:35:00.000Z"
+    },
+    {
+        "contestant_names": "Split VERSES Fmp",
+        "start_time_aest": "2026-01-13T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "ABA League",
+        "contestants": [
+            {
+                "full_name": "Split",
+                "position": "HOME",
+                "short_name": "Split"
+            },
+            {
+                "full_name": "Fmp",
+                "position": "AWAY",
+                "short_name": "Fmp"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Split",
+                "returnWin": 1.68,
+                "returnPlace": 0
+            },
+            {
+                "name": "Fmp",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Split v Fmp",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-12T17:00:00.000Z"
     }
 ]
