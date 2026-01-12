@@ -1,104 +1,5 @@
 [
     {
-        "contestant_names": "Al Muharraq VERSES Shabab Al Ahli D",
-        "start_time_aest": "2026-01-13T03:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "West Asia Super League",
-        "contestants": [
-            {
-                "full_name": "Al Muharraq",
-                "position": "HOME",
-                "short_name": "Al Muharraq"
-            },
-            {
-                "full_name": "Shabab Al Ahli D",
-                "position": "AWAY",
-                "short_name": "Shabab Al Ahli D"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Al Muharraq",
-                "returnWin": 1.46,
-                "returnPlace": 0
-            },
-            {
-                "name": "Shabab Al Ahli D",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Al Muharraq v Shabab Al Ahli D",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-12T16:30:00.000Z"
-    },
-    {
-        "contestant_names": "Paul Jubb VERSES Dimitar Kuzmanov",
-        "start_time_aest": "2026-01-13T03:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Paul Jubb",
-                "position": "HOME",
-                "short_name": "Jubb"
-            },
-            {
-                "full_name": "Dimitar Kuzmanov",
-                "position": "AWAY",
-                "short_name": "Kuzmanov"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Paul Jubb",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            },
-            {
-                "name": "Dimitar Kuzmanov",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Jubb v Kuzmanov",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-12T16:30:00.000Z"
-    },
-    {
-        "contestant_names": "Edas Butvilas VERSES Norbert Gombos",
-        "start_time_aest": "2026-01-13T03:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Edas Butvilas",
-                "position": "HOME",
-                "short_name": "Butvilas E"
-            },
-            {
-                "full_name": "Norbert Gombos",
-                "position": "AWAY",
-                "short_name": "Gombos"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Edas Butvilas",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            },
-            {
-                "name": "Norbert Gombos",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Butvilas E v Gombos",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-12T16:30:00.000Z"
-    },
-    {
         "contestant_names": "Barak Netanya VERSES Ironi Kiryat Ata",
         "start_time_aest": "2026-01-13T03:35:00+11:00",
         "sport_name": "Basketball",
@@ -130,6 +31,39 @@
         "match_name": "Barak Netanya v Ironi Kiryat Ata",
         "betOption": "Head To Head",
         "start_time": "2026-01-12T16:35:00.000Z"
+    },
+    {
+        "contestant_names": "Edas Butvilas VERSES Norbert Gombos",
+        "start_time_aest": "2026-01-13T03:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Edas Butvilas",
+                "position": "HOME",
+                "short_name": "Butvilas E"
+            },
+            {
+                "full_name": "Norbert Gombos",
+                "position": "AWAY",
+                "short_name": "Gombos"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Edas Butvilas",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            },
+            {
+                "name": "Norbert Gombos",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Butvilas E v Gombos",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-12T16:45:00.000Z"
     },
     {
         "contestant_names": "Split VERSES Fmp",
@@ -227,6 +161,39 @@
             }
         ],
         "match_name": "Alves M v Pucinelli",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-12T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Maccabi Karmiel VERSES HapLev Jerusalem",
+        "start_time_aest": "2026-01-13T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Israel Premier League Women",
+        "contestants": [
+            {
+                "full_name": "Maccabi Karmiel",
+                "position": "HOME",
+                "short_name": "Maccabi Karmiel"
+            },
+            {
+                "full_name": "HapLev Jerusalem",
+                "position": "AWAY",
+                "short_name": "HapLev Jerusalem"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Maccabi Karmiel",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            },
+            {
+                "name": "HapLev Jerusalem",
+                "returnWin": 1.73,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Maccabi Karmiel v HapLev Jerusalem",
         "betOption": "Head To Head",
         "start_time": "2026-01-12T17:00:00.000Z"
     }
