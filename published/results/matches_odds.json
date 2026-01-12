@@ -1,52 +1,85 @@
 [
     {
-        "contestant_names": "Brandon Holt VERSES Lukas Neumayer",
-        "start_time_aest": "2026-01-12T13:45:00+11:00",
+        "contestant_names": "Mihalikova/Nicholls VERSES Kempen/Siskova",
+        "start_time_aest": "2026-01-12T14:00:00+11:00",
         "sport_name": "Tennis",
-        "competition_name": "Australian Open",
+        "competition_name": "WTA Doubles",
         "contestants": [
             {
-                "name": "Holt B",
                 "position": "HOME",
-                "isHome": true
+                "short_name": "Mihalikova/Nicholls",
+                "full_name": "Mihalikova/Nicholls"
             },
             {
-                "name": "L Neumayer",
                 "position": "AWAY",
-                "isHome": false
+                "short_name": "Kempen/Siskova",
+                "full_name": "Kempen/Siskova"
             }
         ],
         "propositions": [
             {
-                "name": "Brandon Holt",
-                "returnWin": 1.75,
+                "name": "Mihalikova/Nicholls",
+                "returnWin": 1.62,
                 "returnPlace": 0
             },
             {
-                "name": "Lukas Neumayer",
-                "returnWin": 1.95,
+                "name": "Kempen/Siskova",
+                "returnWin": 2.2,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Holt B v L Neumayer",
+        "match_name": "Mihalikova/Nicholls v Kempen/Siskova",
         "betOption": "Head To Head",
-        "start_time": "2026-01-12T02:45:00.000Z"
+        "start_time": "2026-01-12T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Yasutaka Uchiyama VERSES Tung-Lin Wu",
+        "start_time_aest": "2026-01-12T14:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "name": "Uchiyama Y",
+                "position": "HOME",
+                "full_name": "Yasutaka Uchiyama"
+            },
+            {
+                "name": "Wu TL",
+                "position": "AWAY",
+                "full_name": "Tung-Lin Wu"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Yasutaka Uchiyama",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            },
+            {
+                "name": "Tung-Lin Wu",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Uchiyama Y v Wu TL",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-12T03:15:00.000Z"
     },
     {
         "contestant_names": "Paula Badosa VERSES Marie Bouzkova",
-        "start_time_aest": "2026-01-12T13:45:00+11:00",
+        "start_time_aest": "2026-01-12T14:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA",
         "contestants": [
             {
                 "name": "Badosa",
                 "position": "HOME",
-                "isHome": true
+                "full_name": "Paula Badosa"
             },
             {
                 "name": "Bouzkova",
                 "position": "AWAY",
-                "isHome": false
+                "full_name": "Marie Bouzkova"
             }
         ],
         "propositions": [
@@ -63,138 +96,39 @@
         ],
         "match_name": "Badosa v Bouzkova",
         "betOption": "Head To Head",
-        "start_time": "2026-01-12T02:45:00.000Z"
+        "start_time": "2026-01-12T03:15:00.000Z"
     },
     {
-        "contestant_names": "Jaime Faria VERSES Luka Mikrut",
-        "start_time_aest": "2026-01-12T14:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open",
+        "contestant_names": "Karnataka VERSES Mumbai",
+        "start_time_aest": "2026-01-12T14:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Vijay Hazare Trophy",
         "contestants": [
             {
-                "name": "Faria J",
                 "position": "HOME",
-                "isHome": true
+                "short_name": "Karnataka",
+                "full_name": "Karnataka"
             },
             {
-                "name": "Mikrut",
                 "position": "AWAY",
-                "isHome": false
+                "short_name": "Mumbai",
+                "full_name": "Mumbai"
             }
         ],
         "propositions": [
             {
-                "name": "Jaime Faria",
-                "returnWin": 1.62,
+                "name": "Karnataka",
+                "returnWin": 1.68,
                 "returnPlace": 0
             },
             {
-                "name": "Luka Mikrut",
+                "name": "Mumbai",
                 "returnWin": 2.15,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Faria J v Mikrut",
+        "match_name": "Karnataka v Mumbai",
         "betOption": "Head To Head",
-        "start_time": "2026-01-12T03:00:00.000Z"
-    },
-    {
-        "contestant_names": "Philip Sekulic VERSES Marco Trungelliti",
-        "start_time_aest": "2026-01-12T14:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open",
-        "contestants": [
-            {
-                "name": "Sekulic P",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Trungelliti",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Philip Sekulic",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            },
-            {
-                "name": "Marco Trungelliti",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Sekulic P v Trungelliti",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-12T03:00:00.000Z"
-    },
-    {
-        "contestant_names": "Yasutaka Uchiyama VERSES Tung-Lin Wu",
-        "start_time_aest": "2026-01-12T14:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "name": "Uchiyama Y",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Wu TL",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Yasutaka Uchiyama",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            },
-            {
-                "name": "Tung-Lin Wu",
-                "returnWin": 1.57,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Uchiyama Y v Wu TL",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-12T03:00:00.000Z"
-    },
-    {
-        "contestant_names": "Katie Volynets VERSES Ann Li",
-        "start_time_aest": "2026-01-12T14:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestants": [
-            {
-                "name": "Volynets",
-                "position": "HOME",
-                "isHome": true
-            },
-            {
-                "name": "Li A",
-                "position": "AWAY",
-                "isHome": false
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Katie Volynets",
-                "returnWin": 1.8,
-                "returnPlace": 0
-            },
-            {
-                "name": "Ann Li",
-                "returnWin": 2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Volynets v Li A",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-12T03:00:00.000Z"
+        "start_time": "2026-01-12T03:30:00.000Z"
     }
 ]
