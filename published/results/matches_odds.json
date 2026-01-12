@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Miomir Kecmanovic VERSES Valentin Vacherot",
-        "start_time_aest": "2026-01-12T17:30:00+11:00",
+        "start_time_aest": "2026-01-12T17:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP",
         "contestants": [
@@ -30,40 +30,7 @@
         ],
         "match_name": "Kecmanovic v Vacherot",
         "betOption": "Head To Head",
-        "start_time": "2026-01-12T06:30:00.000Z"
-    },
-    {
-        "contestant_names": "Aoyama/Tang VERSES Skoch/Maleckova",
-        "start_time_aest": "2026-01-12T17:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA Doubles",
-        "contestants": [
-            {
-                "full_name": "Aoyama/Tang",
-                "position": "HOME",
-                "short_name": "Aoyama/Tang"
-            },
-            {
-                "full_name": "Skoch/Maleckova",
-                "position": "AWAY",
-                "short_name": "Skoch/Maleckova"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Aoyama/Tang",
-                "returnWin": 1.75,
-                "returnPlace": 0
-            },
-            {
-                "name": "Skoch/Maleckova",
-                "returnWin": 2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Aoyama/Tang v Skoch/Maleckova",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-12T06:30:00.000Z"
+        "start_time": "2026-01-12T06:45:00.000Z"
     },
     {
         "contestant_names": "Sylhet Titans VERSES Rangpur Riders",
@@ -493,5 +460,71 @@
         "match_name": "Sydney Thunder v Melb Renegades",
         "betOption": "Head To Head",
         "start_time": "2026-01-12T08:15:00.000Z"
+    },
+    {
+        "contestant_names": "Maximus Jones VERSES Joel Schwaerzler",
+        "start_time_aest": "2026-01-12T20:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Maximus Jones",
+                "position": "HOME",
+                "short_name": "Jones"
+            },
+            {
+                "full_name": "Joel Schwaerzler",
+                "position": "AWAY",
+                "short_name": "Schwaerzler"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Maximus Jones",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            },
+            {
+                "name": "Joel Schwaerzler",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Jones v Schwaerzler",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-12T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Thomas Gerbaud VERSES Mao Poels",
+        "start_time_aest": "2026-01-12T20:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Thomas Gerbaud",
+                "position": "HOME",
+                "short_name": "Gerbaud"
+            },
+            {
+                "full_name": "Mao Poels",
+                "position": "AWAY",
+                "short_name": "Poels"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Thomas Gerbaud",
+                "returnWin": 1.46,
+                "returnPlace": 0
+            },
+            {
+                "name": "Mao Poels",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Gerbaud v Poels",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-12T09:30:00.000Z"
     }
 ]
