@@ -1,137 +1,5 @@
 [
     {
-        "contestant_names": "Natalia Sousa Salazar VERSES Alisa Danilova",
-        "start_time_aest": "2026-01-13T02:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Natalia Sousa Salazar",
-                "position": "HOME",
-                "short_name": "Salazar N"
-            },
-            {
-                "full_name": "Alisa Danilova",
-                "position": "AWAY",
-                "short_name": "Danilova A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Natalia Sousa Salazar",
-                "returnWin": 1.75,
-                "returnPlace": 0
-            },
-            {
-                "name": "Alisa Danilova",
-                "returnWin": 1.95,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Salazar N v Danilova A",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-12T15:15:00.000Z"
-    },
-    {
-        "contestant_names": "Thomas Gerbaud VERSES Vitter Benjamin",
-        "start_time_aest": "2026-01-13T02:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Thomas Gerbaud",
-                "position": "HOME",
-                "short_name": "Gerbaud"
-            },
-            {
-                "full_name": "Vitter Benjamin",
-                "position": "AWAY",
-                "short_name": "Benjamin"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Thomas Gerbaud",
-                "returnWin": 1.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Vitter Benjamin",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Gerbaud v Benjamin",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-12T15:15:00.000Z"
-    },
-    {
-        "contestant_names": "Sabastiani Leon VERSES Lourdes Ayala",
-        "start_time_aest": "2026-01-13T02:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Sabastiani Leon",
-                "position": "HOME",
-                "short_name": "Leon S"
-            },
-            {
-                "full_name": "Lourdes Ayala",
-                "position": "AWAY",
-                "short_name": "Ayala"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sabastiani Leon",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            },
-            {
-                "name": "Lourdes Ayala",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Leon S v Ayala",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-12T15:15:00.000Z"
-    },
-    {
-        "contestant_names": "PretoriaCapitals VERSES MI Cape Town",
-        "start_time_aest": "2026-01-13T02:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "South Africa T20",
-        "contestants": [
-            {
-                "full_name": "PretoriaCapitals",
-                "position": "HOME",
-                "short_name": "PretoriaCapitals"
-            },
-            {
-                "full_name": "MI Cape Town",
-                "position": "AWAY",
-                "short_name": "MI Cape Town"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "PretoriaCapitals",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            },
-            {
-                "name": "MI Cape Town",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "PretoriaCapitals v MI Cape Town",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-12T15:30:00.000Z"
-    },
-    {
         "contestant_names": "Al Muharraq VERSES Shabab Al Ahli D",
         "start_time_aest": "2026-01-13T03:30:00+11:00",
         "sport_name": "Basketball",
@@ -293,6 +161,39 @@
             }
         ],
         "match_name": "Split v Fmp",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-12T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Artech BlueStar CC VERSES Super Kings",
+        "start_time_aest": "2026-01-13T04:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Falcons Champions Trophy T20",
+        "contestants": [
+            {
+                "full_name": "Artech BlueStar CC",
+                "position": "HOME",
+                "short_name": "Artech Bluestar"
+            },
+            {
+                "full_name": "Super Kings",
+                "position": "AWAY",
+                "short_name": "Super Kings"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Artech BlueStar CC",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            },
+            {
+                "name": "Super Kings",
+                "returnWin": 1.85,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Artech Bluestar  v Super Kings",
         "betOption": "Head To Head",
         "start_time": "2026-01-12T17:00:00.000Z"
     }
