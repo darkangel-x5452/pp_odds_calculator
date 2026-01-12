@@ -163,5 +163,38 @@
         "match_name": "Blake E v Zeltina",
         "betOption": "Head To Head",
         "start_time": "2026-01-12T12:15:00.000Z"
+    },
+    {
+        "contestant_names": "Denis Yevseyev VERSES Daniel Masur",
+        "start_time_aest": "2026-01-12T23:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Denis Yevseyev",
+                "position": "HOME",
+                "short_name": "Yevseyev"
+            },
+            {
+                "full_name": "Daniel Masur",
+                "position": "AWAY",
+                "short_name": "Masur D"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Denis Yevseyev",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            },
+            {
+                "name": "Daniel Masur",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Yevseyev v Masur D",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-12T12:30:00.000Z"
     }
 ]
