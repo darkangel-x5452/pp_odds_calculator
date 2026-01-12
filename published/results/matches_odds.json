@@ -1,36 +1,36 @@
 [
     {
-        "contestant_names": "Changsha Wantian VERSES Hefei Kuangfeng",
-        "start_time_aest": "2026-01-12T22:30:00+11:00",
+        "contestant_names": "Guangzhou VERSES Tianjin",
+        "start_time_aest": "2026-01-12T22:35:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "China NBL",
+        "competition_name": "China CBA",
         "contestants": [
             {
-                "full_name": "Changsha Wantian",
+                "full_name": "Guangzhou",
                 "position": "HOME",
-                "short_name": "Changsha Wantian"
+                "short_name": "Guangzhou"
             },
             {
-                "full_name": "Hefei Kuangfeng",
+                "full_name": "Tianjin",
                 "position": "AWAY",
-                "short_name": "Hefei Kuangfeng"
+                "short_name": "Tianjin"
             }
         ],
         "propositions": [
             {
-                "name": "Changsha Wantian",
+                "name": "Guangzhou",
                 "returnWin": 1.45,
                 "returnPlace": 0
             },
             {
-                "name": "Hefei Kuangfeng",
+                "name": "Tianjin",
                 "returnWin": 2.5,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Changsha Wantian v Hefei Kuangfeng",
+        "match_name": "Guangzhou v Tianjin",
         "betOption": "Head To Head",
-        "start_time": "2026-01-12T11:30:00.000Z"
+        "start_time": "2026-01-12T11:35:00.000Z"
     },
     {
         "contestant_names": "Octave Caillat VERSES Alberto Morolli",
@@ -196,5 +196,71 @@
         "match_name": "Yevseyev v Masur D",
         "betOption": "Head To Head",
         "start_time": "2026-01-12T12:30:00.000Z"
+    },
+    {
+        "contestant_names": "Maks Kasnikowski VERSES Milos Karol",
+        "start_time_aest": "2026-01-12T23:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Maks Kasnikowski",
+                "position": "HOME",
+                "short_name": "Kasnikowski"
+            },
+            {
+                "full_name": "Milos Karol",
+                "position": "AWAY",
+                "short_name": "Karol"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Maks Kasnikowski",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Milos Karol",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Kasnikowski v Karol",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-12T12:30:00.000Z"
+    },
+    {
+        "contestant_names": "Mark Williams VERSES Mark Allen",
+        "start_time_aest": "2026-01-13T00:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "The Masters",
+        "contestants": [
+            {
+                "full_name": "Mark Williams",
+                "position": "HOME",
+                "short_name": "Williams"
+            },
+            {
+                "full_name": "Mark Allen",
+                "position": "AWAY",
+                "short_name": "Allen M"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mark Williams",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            },
+            {
+                "name": "Mark Allen",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Williams v Allen M",
+        "betOption": "Result",
+        "start_time": "2026-01-12T13:00:00.000Z"
     }
 ]
