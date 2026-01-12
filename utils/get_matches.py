@@ -20,6 +20,7 @@ class GetMatchesOdds():
             ]
         
         self.high_odds = 2.5
+        self.min_odds = 1.95
 
         self.result_path = "published/results/matches_odds.json"
         self.historical_path = "data/results/matches_odds_historical.json"
@@ -30,7 +31,6 @@ class GetMatchesOdds():
         all_matches_ls = []
         
         for _sport in sports:
-            # sport_name = _sport['name']
             competitions = _sport['competitions']
             for _competition in competitions:
                 competition_name = _competition['name']
@@ -129,9 +129,12 @@ class GetMatchesOdds():
             match_name = _match['name']
             start_time = _match['startTime']
             contestants = _match['contestants']
-            cleaned_contestants = []
+            cleaned_contestants: list[dict] = []
             for _contestant in contestants:
                 _contestant.pop("image", None)  # None if key not found
+                _contestant.pop("isHome", None)  # None if key not found
+                _contestant["short_name"] = _contestant["name"]  # None if key not found
+                _contestant.pop("name", None)  # None if key not found
                 cleaned_contestants.append(_contestant)
 
             competitionName = _match['competitionName']
@@ -172,8 +175,20 @@ class GetMatchesOdds():
                 for _proposition in clean_propositions:
                     return_win = _proposition['returnWin']
                     if two_dollar_flag is False:
-                        two_dollar_flag = True if return_win >= 2.0 and return_win <= self.high_odds else False
-
+                        two_dollar_flag = True if return_win >= self.min_odds and return_win <= self.high_odds else False
+                full_name_0 = clean_propositions[0]["name"]
+                full_name_1 = clean_propositions[1]["name"]
+                cleaned_contestants[0]["full_name"] = full_name_0
+                cleaned_contestants[1]["full_name"] = full_name_1
+                
+                key = "full_name"
+                cleaned_contestants_new: list[dict] = []
+                for _clean_contentant in cleaned_contestants:
+                    if key in _clean_contentant:
+                        new_copy = _clean_contentant.copy()
+                        value = new_copy.pop(key)
+                        cleaned_contestants_new.append({key: value, **new_copy})
+                cleaned_contestants = cleaned_contestants_new.copy()
                 proposition_names = [p['name'] for p in clean_propositions]
                 contestant_full_names = " VERSES ".join(proposition_names)
                 if two_dollar_flag is True:
@@ -183,10 +198,10 @@ class GetMatchesOdds():
                     aest_dt_iso = aest_dt.isoformat()
                     
                     match_details = {
+                        "contestant_names": contestant_full_names,
                         "start_time_aest": aest_dt_iso,
                         "sport_name": sportName,
                         "competition_name": competitionName,
-                        "contestant_names": contestant_full_names,
                         "contestants": cleaned_contestants,
                         "propositions": clean_propositions,
                         "match_name": match_name,
