@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Mateus Alves VERSES Matheus Pucinelli De Almeida",
-        "start_time_aest": "2026-01-13T04:45:00+11:00",
+        "start_time_aest": "2026-01-13T05:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -30,7 +30,7 @@
         ],
         "match_name": "Alves M v Pucinelli",
         "betOption": "Head To Head",
-        "start_time": "2026-01-12T17:45:00.000Z"
+        "start_time": "2026-01-12T18:15:00.000Z"
     },
     {
         "contestant_names": "Maccabi Ashdod VERSES Maccabi RamatGan",
@@ -196,5 +196,38 @@
         "match_name": "Olivo R v Sakamoto P",
         "betOption": "Head To Head",
         "start_time": "2026-01-12T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Frantzen/Haase VERSES Tracy/Cash",
+        "start_time_aest": "2026-01-13T08:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP Doubles",
+        "contestants": [
+            {
+                "full_name": "Frantzen/Haase",
+                "position": "HOME",
+                "short_name": "Frantzen/Haase"
+            },
+            {
+                "full_name": "Tracy/Cash",
+                "position": "AWAY",
+                "short_name": "Tracy/Cash"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Frantzen/Haase",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Tracy/Cash",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Frantzen/Haase v Tracy/Cash",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-12T21:00:00.000Z"
     }
 ]
