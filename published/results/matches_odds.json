@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Mateus Alves VERSES Matheus Pucinelli De Almeida",
-        "start_time_aest": "2026-01-13T05:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Mateus Alves",
-                "position": "HOME",
-                "short_name": "Alves M"
-            },
-            {
-                "full_name": "Matheus Pucinelli De Almeida",
-                "position": "AWAY",
-                "short_name": "Pucinelli"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Mateus Alves",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            },
-            {
-                "name": "Matheus Pucinelli De Almeida",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Alves M v Pucinelli",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-12T18:15:00.000Z"
-    },
-    {
         "contestant_names": "Maccabi Ashdod VERSES Maccabi RamatGan",
         "start_time_aest": "2026-01-13T05:40:00+11:00",
         "sport_name": "Basketball",
@@ -227,6 +194,39 @@
             }
         ],
         "match_name": "Frantzen/Haase v Tracy/Cash",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-12T21:00:00.000Z"
+    },
+    {
+        "contestant_names": "Reboul/Doumbia VERSES Erler/Galloway",
+        "start_time_aest": "2026-01-13T08:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP Doubles",
+        "contestants": [
+            {
+                "full_name": "Reboul/Doumbia",
+                "position": "HOME",
+                "short_name": "Reboul/Doumbia"
+            },
+            {
+                "full_name": "Erler/Galloway",
+                "position": "AWAY",
+                "short_name": "Erler/Galloway"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Reboul/Doumbia",
+                "returnWin": 1.68,
+                "returnPlace": 0
+            },
+            {
+                "name": "Erler/Galloway",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Reboul/Doumbia v Erler/Galloway",
         "betOption": "Head To Head",
         "start_time": "2026-01-12T21:00:00.000Z"
     }
