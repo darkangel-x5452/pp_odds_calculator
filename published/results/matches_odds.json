@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Nikolas Sanchez Izquierdo VERSES Joao Eduardo Schiessl",
-        "start_time_aest": "2026-01-13T06:15:00+11:00",
+        "start_time_aest": "2026-01-13T06:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -30,11 +30,11 @@
         ],
         "match_name": "Isquierdo v Schiessl",
         "betOption": "Head To Head",
-        "start_time": "2026-01-12T19:15:00.000Z"
+        "start_time": "2026-01-12T19:45:00.000Z"
     },
     {
         "contestant_names": "Juan Pablo Varillas VERSES Gonzalo Villanueva",
-        "start_time_aest": "2026-01-13T06:15:00+11:00",
+        "start_time_aest": "2026-01-13T06:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -52,51 +52,18 @@
         "propositions": [
             {
                 "name": "Juan Pablo Varillas",
-                "returnWin": 1.46,
+                "returnWin": 1.5,
                 "returnPlace": 0
             },
             {
                 "name": "Gonzalo Villanueva",
-                "returnWin": 2.5,
+                "returnWin": 2.4,
                 "returnPlace": 0
             }
         ],
         "match_name": "Varillas v Villanueva G",
         "betOption": "Head To Head",
-        "start_time": "2026-01-12T19:15:00.000Z"
-    },
-    {
-        "contestant_names": "Renzo Olivo VERSES Pedro Sakamoto",
-        "start_time_aest": "2026-01-13T06:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Renzo Olivo",
-                "position": "HOME",
-                "short_name": "Olivo R"
-            },
-            {
-                "full_name": "Pedro Sakamoto",
-                "position": "AWAY",
-                "short_name": "Sakamoto P"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Renzo Olivo",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            },
-            {
-                "name": "Pedro Sakamoto",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Olivo R v Sakamoto P",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-12T19:15:00.000Z"
+        "start_time": "2026-01-12T19:45:00.000Z"
     },
     {
         "contestant_names": "Frantzen/Haase VERSES Tracy/Cash",
@@ -227,6 +194,138 @@
             }
         ],
         "match_name": "Morgan State v NC Central",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-12T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Blake Ellis VERSES Stefano Travaglia",
+        "start_time_aest": "2026-01-13T10:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Blake Ellis",
+                "position": "HOME",
+                "short_name": "Ellis B"
+            },
+            {
+                "full_name": "Stefano Travaglia",
+                "position": "AWAY",
+                "short_name": "Travaglia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Blake Ellis",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            },
+            {
+                "name": "Stefano Travaglia",
+                "returnWin": 1.68,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Ellis B v Travaglia",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-12T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Lorenzo Giustino VERSES Francesco Maestrelli",
+        "start_time_aest": "2026-01-13T10:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Lorenzo Giustino",
+                "position": "HOME",
+                "short_name": "Giustino"
+            },
+            {
+                "full_name": "Francesco Maestrelli",
+                "position": "AWAY",
+                "short_name": "Maestrelli"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lorenzo Giustino",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            },
+            {
+                "name": "Francesco Maestrelli",
+                "returnWin": 1.68,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Giustino v Maestrelli",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-12T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Chun Hsin Tseng VERSES Martin Landaluce",
+        "start_time_aest": "2026-01-13T10:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Chun Hsin Tseng",
+                "position": "HOME",
+                "short_name": "Hsin Tseng"
+            },
+            {
+                "full_name": "Martin Landaluce",
+                "position": "AWAY",
+                "short_name": "Landaluce"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Chun Hsin Tseng",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Martin Landaluce",
+                "returnWin": 1.46,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Hsin Tseng v Landaluce",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-12T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Yosuke Watanuki VERSES Nicolai Budkov Kjaer",
+        "start_time_aest": "2026-01-13T10:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Yosuke Watanuki",
+                "position": "HOME",
+                "short_name": "Watanuki Y"
+            },
+            {
+                "full_name": "Nicolai Budkov Kjaer",
+                "position": "AWAY",
+                "short_name": "Budkov Kjaer"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Yosuke Watanuki",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            },
+            {
+                "name": "Nicolai Budkov Kjaer",
+                "returnWin": 1.75,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Watanuki Y v Budkov Kjaer",
         "betOption": "Head To Head",
         "start_time": "2026-01-12T23:00:00.000Z"
     }
