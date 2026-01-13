@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Bruno Kuzuhara VERSES Franco Agamenone",
-        "start_time_aest": "2026-01-14T05:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Bruno Kuzuhara",
-                "position": "HOME",
-                "short_name": "Kuzuhara"
-            },
-            {
-                "full_name": "Franco Agamenone",
-                "position": "AWAY",
-                "short_name": "Agamenone"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Bruno Kuzuhara",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            },
-            {
-                "name": "Franco Agamenone",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Kuzuhara v Agamenone",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-13T18:15:00.000Z"
-    },
-    {
         "contestant_names": "VK Vestsjaelland VERSES Gentofte Volley",
         "start_time_aest": "2026-01-14T05:45:00+11:00",
         "sport_name": "Volleyball",
@@ -228,6 +195,72 @@
         ],
         "match_name": "Okapi Aalstar v Antwerp Giants",
         "betOption": "Head To Head",
+        "start_time": "2026-01-13T19:30:00.000Z"
+    },
+    {
+        "contestant_names": "Antwerp VERSES Raal La Louviere",
+        "start_time_aest": "2026-01-14T06:30:00+11:00",
+        "sport_name": "Soccer",
+        "competition_name": "Belgium Cup",
+        "contestants": [
+            {
+                "full_name": "Antwerp",
+                "position": "HOME",
+                "short_name": "Antwerp"
+            },
+            {
+                "full_name": "Raal La Louviere",
+                "position": "AWAY",
+                "short_name": "Raal La Louviere"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Antwerp",
+                "returnWin": 1.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Raal La Louviere",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Antwerp v Raal La Louviere",
+        "betOption": "Winner of Tie",
+        "start_time": "2026-01-13T19:30:00.000Z"
+    },
+    {
+        "contestant_names": "Charleroi VERSES Club Brugge",
+        "start_time_aest": "2026-01-14T06:30:00+11:00",
+        "sport_name": "Soccer",
+        "competition_name": "Belgium Cup",
+        "contestants": [
+            {
+                "full_name": "Charleroi",
+                "position": "HOME",
+                "short_name": "Charleroi"
+            },
+            {
+                "full_name": "Club Brugge",
+                "position": "AWAY",
+                "short_name": "Club Brugge"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Charleroi",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            },
+            {
+                "name": "Club Brugge",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Charleroi v Club Brugge",
+        "betOption": "Winner of Tie",
         "start_time": "2026-01-13T19:30:00.000Z"
     }
 ]
