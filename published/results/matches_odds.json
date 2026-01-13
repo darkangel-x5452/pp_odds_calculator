@@ -1,73 +1,7 @@
 [
     {
-        "contestant_names": "Mathilde Lollia VERSES Chelsea Fontenel",
-        "start_time_aest": "2026-01-14T01:05:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Mathilde Lollia",
-                "position": "HOME",
-                "short_name": "Lollia"
-            },
-            {
-                "full_name": "Chelsea Fontenel",
-                "position": "AWAY",
-                "short_name": "Fontenel"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Mathilde Lollia",
-                "returnWin": 1.75,
-                "returnPlace": 0
-            },
-            {
-                "name": "Chelsea Fontenel",
-                "returnWin": 1.95,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Lollia v Fontenel",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-13T14:05:00.000Z"
-    },
-    {
-        "contestant_names": "Dimitris Azoidis VERSES Francesco Ferrari",
-        "start_time_aest": "2026-01-14T01:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Dimitris Azoidis",
-                "position": "HOME",
-                "short_name": "Azoidis"
-            },
-            {
-                "full_name": "Francesco Ferrari",
-                "position": "AWAY",
-                "short_name": "Ferrari F"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Dimitris Azoidis",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            },
-            {
-                "name": "Francesco Ferrari",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Azoidis v Ferrari F",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-13T14:15:00.000Z"
-    },
-    {
         "contestant_names": "Harry Searle VERSES Clement Chidekh",
-        "start_time_aest": "2026-01-14T01:30:00+11:00",
+        "start_time_aest": "2026-01-14T01:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -96,40 +30,7 @@
         ],
         "match_name": "Searle v Chidekh C",
         "betOption": "Head To Head",
-        "start_time": "2026-01-13T14:30:00.000Z"
-    },
-    {
-        "contestant_names": "Ana Grubor VERSES Berta Bonardi",
-        "start_time_aest": "2026-01-14T01:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Ana Grubor",
-                "position": "HOME",
-                "short_name": "Grubor"
-            },
-            {
-                "full_name": "Berta Bonardi",
-                "position": "AWAY",
-                "short_name": "Bonardi"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ana Grubor",
-                "returnWin": 1.75,
-                "returnPlace": 0
-            },
-            {
-                "name": "Berta Bonardi",
-                "returnWin": 1.95,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Grubor v Bonardi",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-13T14:30:00.000Z"
+        "start_time": "2026-01-13T14:45:00.000Z"
     },
     {
         "contestant_names": "Lorenzo Joaquin Rodriguez VERSES Stefan Palosi",
@@ -198,6 +99,39 @@
         "start_time": "2026-01-13T15:00:00.000Z"
     },
     {
+        "contestant_names": "Ana Grubor VERSES Berta Bonardi",
+        "start_time_aest": "2026-01-14T02:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Ana Grubor",
+                "position": "HOME",
+                "short_name": "Grubor"
+            },
+            {
+                "full_name": "Berta Bonardi",
+                "position": "AWAY",
+                "short_name": "Bonardi"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ana Grubor",
+                "returnWin": 1.72,
+                "returnPlace": 0
+            },
+            {
+                "name": "Berta Bonardi",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Grubor v Bonardi",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-13T15:00:00.000Z"
+    },
+    {
         "contestant_names": "Matteo Fondriest VERSES Tristan Stringer",
         "start_time_aest": "2026-01-14T02:15:00+11:00",
         "sport_name": "Tennis",
@@ -227,6 +161,39 @@
             }
         ],
         "match_name": "Fondriest v Stringer",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-13T15:15:00.000Z"
+    },
+    {
+        "contestant_names": "Vicente Jose Benitez VERSES Matias Rojas",
+        "start_time_aest": "2026-01-14T02:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Vicente Jose Benitez",
+                "position": "HOME",
+                "short_name": "Vicente Jose Ben"
+            },
+            {
+                "full_name": "Matias Rojas",
+                "position": "AWAY",
+                "short_name": "Rojas M"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Vicente Jose Benitez",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Matias Rojas",
+                "returnWin": 1.46,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Vicente Jose Ben v Rojas M",
         "betOption": "Head To Head",
         "start_time": "2026-01-13T15:15:00.000Z"
     },
@@ -262,5 +229,71 @@
         "match_name": "Paarl Royals v Durban SprGiants",
         "betOption": "Head To Head",
         "start_time": "2026-01-13T15:30:00.000Z"
+    },
+    {
+        "contestant_names": "Astralis VERSES fnatic",
+        "start_time_aest": "2026-01-14T03:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "contestants": [
+            {
+                "full_name": "Astralis",
+                "position": "HOME",
+                "short_name": "Astralis"
+            },
+            {
+                "full_name": "fnatic",
+                "position": "AWAY",
+                "short_name": "Fnatic"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Astralis",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            },
+            {
+                "name": "fnatic",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Astralis v Fnatic",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-13T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "SaraivaDosSantos VERSES Bastian Malla",
+        "start_time_aest": "2026-01-14T03:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "SaraivaDosSantos",
+                "position": "HOME",
+                "short_name": "SaraivaDosSantos"
+            },
+            {
+                "full_name": "Bastian Malla",
+                "position": "AWAY",
+                "short_name": "Malla"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "SaraivaDosSantos",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            },
+            {
+                "name": "Bastian Malla",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "SaraivaDosSantos v Malla",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-13T16:00:00.000Z"
     }
 ]
