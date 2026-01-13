@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Bruno Kuzuhara VERSES Franco Agamenone",
-        "start_time_aest": "2026-01-14T04:45:00+11:00",
+        "start_time_aest": "2026-01-14T05:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -30,7 +30,7 @@
         ],
         "match_name": "Kuzuhara v Agamenone",
         "betOption": "Head To Head",
-        "start_time": "2026-01-13T17:45:00.000Z"
+        "start_time": "2026-01-13T18:15:00.000Z"
     },
     {
         "contestant_names": "VK Vestsjaelland VERSES Gentofte Volley",
@@ -130,5 +130,104 @@
         "match_name": "Karlsruhe v TSV Herrsching",
         "betOption": "Head To Head",
         "start_time": "2026-01-13T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "John Higgins VERSES Barry Hawkins",
+        "start_time_aest": "2026-01-14T06:15:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "The Masters",
+        "contestants": [
+            {
+                "full_name": "John Higgins",
+                "position": "HOME",
+                "short_name": "Higgins J"
+            },
+            {
+                "full_name": "Barry Hawkins",
+                "position": "AWAY",
+                "short_name": "Hawkins"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "John Higgins",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            },
+            {
+                "name": "Barry Hawkins",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Higgins J v Hawkins",
+        "betOption": "Result",
+        "start_time": "2026-01-13T19:15:00.000Z"
+    },
+    {
+        "contestant_names": "Ryan Colby VERSES Dominick Mosejczuk",
+        "start_time_aest": "2026-01-14T06:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Ryan Colby",
+                "position": "HOME",
+                "short_name": "Colby"
+            },
+            {
+                "full_name": "Dominick Mosejczuk",
+                "position": "AWAY",
+                "short_name": "Mosejczuk D"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ryan Colby",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            },
+            {
+                "name": "Dominick Mosejczuk",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Colby v Mosejczuk D",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-13T19:15:00.000Z"
+    },
+    {
+        "contestant_names": "Okapi Aalstar VERSES Antwerp Giants",
+        "start_time_aest": "2026-01-14T06:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "BNXT League",
+        "contestants": [
+            {
+                "full_name": "Okapi Aalstar",
+                "position": "HOME",
+                "short_name": "Okapi Aalstar"
+            },
+            {
+                "full_name": "Antwerp Giants",
+                "position": "AWAY",
+                "short_name": "Antwerp Giants"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Okapi Aalstar",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            },
+            {
+                "name": "Antwerp Giants",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Okapi Aalstar v Antwerp Giants",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-13T19:30:00.000Z"
     }
 ]
