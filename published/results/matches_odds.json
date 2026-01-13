@@ -1,104 +1,5 @@
 [
     {
-        "contestant_names": "VK Vestsjaelland VERSES Gentofte Volley",
-        "start_time_aest": "2026-01-14T05:45:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Denmark DVBF Elitedivision",
-        "contestants": [
-            {
-                "full_name": "VK Vestsjaelland",
-                "position": "HOME",
-                "short_name": "VK Vestsjaelland"
-            },
-            {
-                "full_name": "Gentofte Volley",
-                "position": "AWAY",
-                "short_name": "Gentofte Volley"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "VK Vestsjaelland",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            },
-            {
-                "name": "Gentofte Volley",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "VK Vestsjaelland v Gentofte Volley",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-13T18:45:00.000Z"
-    },
-    {
-        "contestant_names": "Murkel Dellien VERSES Joaquin Aguilar Cardozo",
-        "start_time_aest": "2026-01-14T06:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Murkel Dellien",
-                "position": "HOME",
-                "short_name": "Dellien M"
-            },
-            {
-                "full_name": "Joaquin Aguilar Cardozo",
-                "position": "AWAY",
-                "short_name": "Cardozo J"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Murkel Dellien",
-                "returnWin": 1.68,
-                "returnPlace": 0
-            },
-            {
-                "name": "Joaquin Aguilar Cardozo",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Dellien M v Cardozo J",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-13T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Karlsruhe VERSES TSV Herrsching",
-        "start_time_aest": "2026-01-14T06:00:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "German Bundesliga Mens",
-        "contestants": [
-            {
-                "full_name": "Karlsruhe",
-                "position": "HOME",
-                "short_name": "Karlsruhe"
-            },
-            {
-                "full_name": "TSV Herrsching",
-                "position": "AWAY",
-                "short_name": "TSV Herrsching"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Karlsruhe",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            },
-            {
-                "name": "TSV Herrsching",
-                "returnWin": 1.68,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Karlsruhe v TSV Herrsching",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-13T19:00:00.000Z"
-    },
-    {
         "contestant_names": "John Higgins VERSES Barry Hawkins",
         "start_time_aest": "2026-01-14T06:15:00+11:00",
         "sport_name": "Snooker",
@@ -161,6 +62,39 @@
             }
         ],
         "match_name": "Colby v Mosejczuk D",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-13T19:15:00.000Z"
+    },
+    {
+        "contestant_names": "Murkel Dellien VERSES Joaquin Aguilar Cardozo",
+        "start_time_aest": "2026-01-14T06:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Murkel Dellien",
+                "position": "HOME",
+                "short_name": "Dellien M"
+            },
+            {
+                "full_name": "Joaquin Aguilar Cardozo",
+                "position": "AWAY",
+                "short_name": "Cardozo J"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Murkel Dellien",
+                "returnWin": 1.68,
+                "returnPlace": 0
+            },
+            {
+                "name": "Joaquin Aguilar Cardozo",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Dellien M v Cardozo J",
         "betOption": "Head To Head",
         "start_time": "2026-01-13T19:15:00.000Z"
     },
