@@ -1,73 +1,7 @@
 [
     {
-        "contestant_names": "John Higgins VERSES Barry Hawkins",
-        "start_time_aest": "2026-01-14T06:15:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "The Masters",
-        "contestants": [
-            {
-                "full_name": "John Higgins",
-                "position": "HOME",
-                "short_name": "Higgins J"
-            },
-            {
-                "full_name": "Barry Hawkins",
-                "position": "AWAY",
-                "short_name": "Hawkins"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "John Higgins",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            },
-            {
-                "name": "Barry Hawkins",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Higgins J v Hawkins",
-        "betOption": "Result",
-        "start_time": "2026-01-13T19:15:00.000Z"
-    },
-    {
-        "contestant_names": "Ryan Colby VERSES Dominick Mosejczuk",
-        "start_time_aest": "2026-01-14T06:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Ryan Colby",
-                "position": "HOME",
-                "short_name": "Colby"
-            },
-            {
-                "full_name": "Dominick Mosejczuk",
-                "position": "AWAY",
-                "short_name": "Mosejczuk D"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ryan Colby",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            },
-            {
-                "name": "Dominick Mosejczuk",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Colby v Mosejczuk D",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-13T19:15:00.000Z"
-    },
-    {
         "contestant_names": "Murkel Dellien VERSES Joaquin Aguilar Cardozo",
-        "start_time_aest": "2026-01-14T06:15:00+11:00",
+        "start_time_aest": "2026-01-14T06:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -85,116 +19,50 @@
         "propositions": [
             {
                 "name": "Murkel Dellien",
-                "returnWin": 1.68,
+                "returnWin": 1.72,
                 "returnPlace": 0
             },
             {
                 "name": "Joaquin Aguilar Cardozo",
-                "returnWin": 2.05,
+                "returnWin": 2,
                 "returnPlace": 0
             }
         ],
         "match_name": "Dellien M v Cardozo J",
         "betOption": "Head To Head",
-        "start_time": "2026-01-13T19:15:00.000Z"
+        "start_time": "2026-01-13T19:45:00.000Z"
     },
     {
-        "contestant_names": "Okapi Aalstar VERSES Antwerp Giants",
-        "start_time_aest": "2026-01-14T06:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "BNXT League",
-        "contestants": [
-            {
-                "full_name": "Okapi Aalstar",
-                "position": "HOME",
-                "short_name": "Okapi Aalstar"
-            },
-            {
-                "full_name": "Antwerp Giants",
-                "position": "AWAY",
-                "short_name": "Antwerp Giants"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Okapi Aalstar",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            },
-            {
-                "name": "Antwerp Giants",
-                "returnWin": 1.52,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Okapi Aalstar v Antwerp Giants",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-13T19:30:00.000Z"
-    },
-    {
-        "contestant_names": "Antwerp VERSES Raal La Louviere",
-        "start_time_aest": "2026-01-14T06:30:00+11:00",
+        "contestant_names": "FC Utrecht VERSES FC Twente",
+        "start_time_aest": "2026-01-14T07:00:00+11:00",
         "sport_name": "Soccer",
-        "competition_name": "Belgium Cup",
+        "competition_name": "Netherlands KNVB Cup",
         "contestants": [
             {
-                "full_name": "Antwerp",
+                "full_name": "FC Utrecht",
                 "position": "HOME",
-                "short_name": "Antwerp"
+                "short_name": "FC Utrecht"
             },
             {
-                "full_name": "Raal La Louviere",
+                "full_name": "FC Twente",
                 "position": "AWAY",
-                "short_name": "Raal La Louviere"
+                "short_name": "FC Twente"
             }
         ],
         "propositions": [
             {
-                "name": "Antwerp",
-                "returnWin": 1.5,
+                "name": "FC Utrecht",
+                "returnWin": 2.05,
                 "returnPlace": 0
             },
             {
-                "name": "Raal La Louviere",
-                "returnWin": 2.5,
+                "name": "FC Twente",
+                "returnWin": 1.72,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Antwerp v Raal La Louviere",
+        "match_name": "FC Utrecht v FC Twente",
         "betOption": "Winner of Tie",
-        "start_time": "2026-01-13T19:30:00.000Z"
-    },
-    {
-        "contestant_names": "Charleroi VERSES Club Brugge",
-        "start_time_aest": "2026-01-14T06:30:00+11:00",
-        "sport_name": "Soccer",
-        "competition_name": "Belgium Cup",
-        "contestants": [
-            {
-                "full_name": "Charleroi",
-                "position": "HOME",
-                "short_name": "Charleroi"
-            },
-            {
-                "full_name": "Club Brugge",
-                "position": "AWAY",
-                "short_name": "Club Brugge"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Charleroi",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            },
-            {
-                "name": "Club Brugge",
-                "returnWin": 1.52,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Charleroi v Club Brugge",
-        "betOption": "Winner of Tie",
-        "start_time": "2026-01-13T19:30:00.000Z"
+        "start_time": "2026-01-13T20:00:00.000Z"
     }
 ]
