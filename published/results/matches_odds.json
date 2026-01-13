@@ -1,137 +1,5 @@
 [
     {
-        "contestant_names": "Matteo Fondriest VERSES Tristan Stringer",
-        "start_time_aest": "2026-01-13T23:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Matteo Fondriest",
-                "position": "HOME",
-                "short_name": "Fondriest"
-            },
-            {
-                "full_name": "Tristan Stringer",
-                "position": "AWAY",
-                "short_name": "Stringer"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Matteo Fondriest",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            },
-            {
-                "name": "Tristan Stringer",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Fondriest v Stringer",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-13T12:15:00.000Z"
-    },
-    {
-        "contestant_names": "Dimitris Azoidis VERSES Francesco Ferrari",
-        "start_time_aest": "2026-01-13T23:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Dimitris Azoidis",
-                "position": "HOME",
-                "short_name": "Azoidis"
-            },
-            {
-                "full_name": "Francesco Ferrari",
-                "position": "AWAY",
-                "short_name": "Ferrari F"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Dimitris Azoidis",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            },
-            {
-                "name": "Francesco Ferrari",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Azoidis v Ferrari F",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-13T12:15:00.000Z"
-    },
-    {
-        "contestant_names": "Henri Squire VERSES Lui Maxted",
-        "start_time_aest": "2026-01-13T23:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Henri Squire",
-                "position": "HOME",
-                "short_name": "Squire H"
-            },
-            {
-                "full_name": "Lui Maxted",
-                "position": "AWAY",
-                "short_name": "Maxted"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Henri Squire",
-                "returnWin": 1.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Lui Maxted",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Squire H v Maxted",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-13T12:30:00.000Z"
-    },
-    {
-        "contestant_names": "Daniel Masur VERSES Milos Karol",
-        "start_time_aest": "2026-01-13T23:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Daniel Masur",
-                "position": "HOME",
-                "short_name": "Masur D"
-            },
-            {
-                "full_name": "Milos Karol",
-                "position": "AWAY",
-                "short_name": "Karol"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Daniel Masur",
-                "returnWin": 2,
-                "returnPlace": 0
-            },
-            {
-                "name": "Milos Karol",
-                "returnWin": 1.72,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Masur D v Karol",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-13T12:30:00.000Z"
-    },
-    {
         "contestant_names": "Chun Long VERSES Fukien",
         "start_time_aest": "2026-01-13T23:40:00+11:00",
         "sport_name": "Basketball",
@@ -163,6 +31,72 @@
         "match_name": "Chun Long v Fukien",
         "betOption": "Head To Head",
         "start_time": "2026-01-13T12:40:00.000Z"
+    },
+    {
+        "contestant_names": "Henri Squire VERSES Lui Maxted",
+        "start_time_aest": "2026-01-13T23:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Henri Squire",
+                "position": "HOME",
+                "short_name": "Squire H"
+            },
+            {
+                "full_name": "Lui Maxted",
+                "position": "AWAY",
+                "short_name": "Maxted"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Henri Squire",
+                "returnWin": 1.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Lui Maxted",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Squire H v Maxted",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-13T12:45:00.000Z"
+    },
+    {
+        "contestant_names": "Daniel Masur VERSES Milos Karol",
+        "start_time_aest": "2026-01-13T23:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Daniel Masur",
+                "position": "HOME",
+                "short_name": "Masur D"
+            },
+            {
+                "full_name": "Milos Karol",
+                "position": "AWAY",
+                "short_name": "Karol"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Daniel Masur",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Milos Karol",
+                "returnWin": 1.72,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Masur D v Karol",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-13T12:45:00.000Z"
     },
     {
         "contestant_names": "Galaxy CC VERSES CSS Group",
@@ -262,5 +196,170 @@
         "match_name": "Dias v Aboian V",
         "betOption": "Head To Head",
         "start_time": "2026-01-13T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Alejandro Juan Mano VERSES Andreja Petrovic",
+        "start_time_aest": "2026-01-14T00:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Alejandro Juan Mano",
+                "position": "HOME",
+                "short_name": "Mano"
+            },
+            {
+                "full_name": "Andreja Petrovic",
+                "position": "AWAY",
+                "short_name": "Petrovic A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alejandro Juan Mano",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            },
+            {
+                "name": "Andreja Petrovic",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Mano v Petrovic A",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-13T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Diego Ortiz Gamonal VERSES Enzo Rimoli",
+        "start_time_aest": "2026-01-14T00:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Diego Ortiz Gamonal",
+                "position": "HOME",
+                "short_name": "Ortz Gamonal"
+            },
+            {
+                "full_name": "Enzo Rimoli",
+                "position": "AWAY",
+                "short_name": "Rimoli"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Diego Ortiz Gamonal",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            },
+            {
+                "name": "Enzo Rimoli",
+                "returnWin": 1.68,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Ortz Gamonal v Rimoli",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-13T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Tg Pedretti VERSES Martha Matoula",
+        "start_time_aest": "2026-01-14T00:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Tg Pedretti",
+                "position": "HOME",
+                "short_name": "Pedretti T"
+            },
+            {
+                "full_name": "Martha Matoula",
+                "position": "AWAY",
+                "short_name": "Matoula"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tg Pedretti",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            },
+            {
+                "name": "Martha Matoula",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Pedretti T v Matoula",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-13T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Miriana Tona VERSES Reasco Gonzalez",
+        "start_time_aest": "2026-01-14T00:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Miriana Tona",
+                "position": "HOME",
+                "short_name": "Tona"
+            },
+            {
+                "full_name": "Reasco Gonzalez",
+                "position": "AWAY",
+                "short_name": "Reasco Gonzalez"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Miriana Tona",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            },
+            {
+                "name": "Reasco Gonzalez",
+                "returnWin": 1.68,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Tona v Reasco Gonzalez",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-13T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Kyren Wilson VERSES Si Jiahui",
+        "start_time_aest": "2026-01-14T00:10:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "The Masters",
+        "contestants": [
+            {
+                "full_name": "Kyren Wilson",
+                "position": "HOME",
+                "short_name": "Wilson K"
+            },
+            {
+                "full_name": "Si Jiahui",
+                "position": "AWAY",
+                "short_name": "Jiahui Si"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Kyren Wilson",
+                "returnWin": 1.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Si Jiahui",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Wilson K v Jiahui Si",
+        "betOption": "Result",
+        "start_time": "2026-01-13T13:10:00.000Z"
     }
 ]
