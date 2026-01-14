@@ -1,137 +1,5 @@
 [
     {
-        "contestant_names": "Olivetti/Arribage VERSES Haase/Frantzen",
-        "start_time_aest": "2026-01-15T10:10:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "contestants": [
-            {
-                "full_name": "Olivetti/Arribage",
-                "position": "HOME",
-                "short_name": "Olivetti/Arribage"
-            },
-            {
-                "full_name": "Haase/Frantzen",
-                "position": "AWAY",
-                "short_name": "Haase/Frantzen"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Olivetti/Arribage",
-                "returnWin": 1.8,
-                "returnPlace": 0
-            },
-            {
-                "name": "Haase/Frantzen",
-                "returnWin": 1.95,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Olivetti/Arribage v Haase/Frantzen",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-14T23:10:00.000Z"
-    },
-    {
-        "contestant_names": "Gimnasia LaPlata VERSES Club Pico Foot",
-        "start_time_aest": "2026-01-15T10:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga A",
-        "contestants": [
-            {
-                "full_name": "Gimnasia LaPlata",
-                "position": "HOME",
-                "short_name": "Gimnasia LaPlata"
-            },
-            {
-                "full_name": "Club Pico Foot",
-                "position": "AWAY",
-                "short_name": "Club Pico Foot"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Gimnasia LaPlata",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            },
-            {
-                "name": "Club Pico Foot",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Gimnasia LaPlata v Club Pico Foot",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-14T23:30:00.000Z"
-    },
-    {
-        "contestant_names": "Xavier VERSES Butler",
-        "start_time_aest": "2026-01-15T10:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Xavier",
-                "position": "HOME",
-                "short_name": "Xavier"
-            },
-            {
-                "full_name": "Butler",
-                "position": "AWAY",
-                "short_name": "Butler"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Xavier",
-                "returnWin": 2,
-                "returnPlace": 0
-            },
-            {
-                "name": "Butler",
-                "returnWin": 1.8,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Xavier v Butler",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-14T23:30:00.000Z"
-    },
-    {
-        "contestant_names": "Winthrop VERSES High Point",
-        "start_time_aest": "2026-01-15T10:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Winthrop",
-                "position": "HOME",
-                "short_name": "Winthrop"
-            },
-            {
-                "full_name": "High Point",
-                "position": "AWAY",
-                "short_name": "High Point"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Winthrop",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            },
-            {
-                "name": "High Point",
-                "returnWin": 1.67,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Winthrop v High Point",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-14T23:30:00.000Z"
-    },
-    {
         "contestant_names": "Otago Sparks (W) VERSES Wellington (W)",
         "start_time_aest": "2026-01-15T10:40:00+11:00",
         "sport_name": "Cricket",
@@ -326,6 +194,72 @@
             }
         ],
         "match_name": "Samford v Furman",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "St Josephs VERSES St Bonaventure",
+        "start_time_aest": "2026-01-15T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "St Josephs",
+                "position": "HOME",
+                "short_name": "St Josephs"
+            },
+            {
+                "full_name": "St Bonaventure",
+                "position": "AWAY",
+                "short_name": "St Bonaventure"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "St Josephs",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            },
+            {
+                "name": "St Bonaventure",
+                "returnWin": 1.77,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "St Josephs v St Bonaventure",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Georgia Tech VERSES Pittsburgh",
+        "start_time_aest": "2026-01-15T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Georgia Tech",
+                "position": "HOME",
+                "short_name": "Georgia Tech"
+            },
+            {
+                "full_name": "Pittsburgh",
+                "position": "AWAY",
+                "short_name": "Pittsburgh"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Georgia Tech",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Pittsburgh",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Georgia Tech v Pittsburgh",
         "betOption": "Head To Head",
         "start_time": "2026-01-15T00:00:00.000Z"
     }
