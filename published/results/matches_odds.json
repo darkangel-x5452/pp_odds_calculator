@@ -1,40 +1,7 @@
 [
     {
-        "contestant_names": "Nikolas Sanchez Izquierdo VERSES Daniel Dutra Da Silva",
-        "start_time_aest": "2026-01-15T00:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Nikolas Sanchez Izquierdo",
-                "position": "HOME",
-                "short_name": "Isquierdo"
-            },
-            {
-                "full_name": "Daniel Dutra Da Silva",
-                "position": "AWAY",
-                "short_name": "Dutra Da Silva"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Nikolas Sanchez Izquierdo",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            },
-            {
-                "name": "Daniel Dutra Da Silva",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Isquierdo v Dutra Da Silva",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-14T13:15:00.000Z"
-    },
-    {
         "contestant_names": "Henri Squire VERSES Charles Broom",
-        "start_time_aest": "2026-01-15T00:15:00+11:00",
+        "start_time_aest": "2026-01-15T00:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -63,40 +30,7 @@
         ],
         "match_name": "Squire H v Broom",
         "betOption": "Head To Head",
-        "start_time": "2026-01-14T13:15:00.000Z"
-    },
-    {
-        "contestant_names": "Niels Mcdonald VERSES Maximilian Neuchrist",
-        "start_time_aest": "2026-01-15T00:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Niels Mcdonald",
-                "position": "HOME",
-                "short_name": "Mcdonald"
-            },
-            {
-                "full_name": "Maximilian Neuchrist",
-                "position": "AWAY",
-                "short_name": "Neuchrist"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Niels Mcdonald",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            },
-            {
-                "name": "Maximilian Neuchrist",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Mcdonald v Neuchrist",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-14T13:30:00.000Z"
+        "start_time": "2026-01-14T13:45:00.000Z"
     },
     {
         "contestant_names": "Warriorz (W) VERSES Delhi (W)",
@@ -163,5 +97,71 @@
         "match_name": "Dominguez S v Gailis",
         "betOption": "Head To Head",
         "start_time": "2026-01-14T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Tom Gentzsch VERSES Marvin Moeller",
+        "start_time_aest": "2026-01-15T01:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Tom Gentzsch",
+                "position": "HOME",
+                "short_name": "Gentzsch"
+            },
+            {
+                "full_name": "Marvin Moeller",
+                "position": "AWAY",
+                "short_name": "Moeller M"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tom Gentzsch",
+                "returnWin": 1.72,
+                "returnPlace": 0
+            },
+            {
+                "name": "Marvin Moeller",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Gentzsch v Moeller M",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-14T14:30:00.000Z"
+    },
+    {
+        "contestant_names": "Johannus Monday VERSES Alastair Gray",
+        "start_time_aest": "2026-01-15T01:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Johannus Monday",
+                "position": "HOME",
+                "short_name": "Monday"
+            },
+            {
+                "full_name": "Alastair Gray",
+                "position": "AWAY",
+                "short_name": "Gray A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Johannus Monday",
+                "returnWin": 1.46,
+                "returnPlace": 0
+            },
+            {
+                "name": "Alastair Gray",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Monday v Gray A",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-14T14:30:00.000Z"
     }
 ]
