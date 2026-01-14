@@ -1,36 +1,36 @@
 [
     {
-        "contestant_names": "Nigeria VERSES Morocco",
-        "start_time_aest": "2026-01-15T07:00:00+11:00",
+        "contestant_names": "FC Porto VERSES Benfica",
+        "start_time_aest": "2026-01-15T07:45:00+11:00",
         "sport_name": "Soccer",
-        "competition_name": "Africa Cup of Nations",
+        "competition_name": "Portugal Cup",
         "contestants": [
             {
-                "full_name": "Nigeria",
+                "full_name": "FC Porto",
                 "position": "HOME",
-                "short_name": "Nigeria"
+                "short_name": "FC Porto"
             },
             {
-                "full_name": "Morocco",
+                "full_name": "Benfica",
                 "position": "AWAY",
-                "short_name": "Morocco"
+                "short_name": "Benfica"
             }
         ],
         "propositions": [
             {
-                "name": "Nigeria",
-                "returnWin": 2.3,
+                "name": "FC Porto",
+                "returnWin": 1.5,
                 "returnPlace": 0
             },
             {
-                "name": "Morocco",
-                "returnWin": 1.58,
+                "name": "Benfica",
+                "returnWin": 2.5,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Nigeria v Morocco",
+        "match_name": "FC Porto v Benfica",
         "betOption": "Winner of Tie",
-        "start_time": "2026-01-14T20:00:00.000Z"
+        "start_time": "2026-01-14T20:45:00.000Z"
     },
     {
         "contestant_names": "Aleksa Ciric VERSES Bor Artnak",
@@ -97,5 +97,38 @@
         "match_name": "Shah A v Pow",
         "betOption": "Head To Head",
         "start_time": "2026-01-14T21:00:00.000Z"
+    },
+    {
+        "contestant_names": "Corinthians/Guarulhos VERSES Suzano Volei",
+        "start_time_aest": "2026-01-15T08:30:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "Brazil SuperLiga",
+        "contestants": [
+            {
+                "full_name": "Corinthians/Guarulhos",
+                "position": "HOME",
+                "short_name": "Guarulhos"
+            },
+            {
+                "full_name": "Suzano Volei",
+                "position": "AWAY",
+                "short_name": "Suzano Volei"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Corinthians/Guarulhos",
+                "returnWin": 1.46,
+                "returnPlace": 0
+            },
+            {
+                "name": "Suzano Volei",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Guarulhos v Suzano Volei",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-14T21:30:00.000Z"
     }
 ]
