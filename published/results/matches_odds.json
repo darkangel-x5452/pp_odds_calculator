@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Dinamo Sassari VERSES Zaragoza",
-        "start_time_aest": "2026-01-15T06:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "FIBA Europe Cup",
-        "contestants": [
-            {
-                "full_name": "Dinamo Sassari",
-                "position": "HOME",
-                "short_name": "Dinamo Sassari"
-            },
-            {
-                "full_name": "Zaragoza",
-                "position": "AWAY",
-                "short_name": "Zaragoza"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Dinamo Sassari",
-                "returnWin": 1.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Zaragoza",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Dinamo Sassari v Zaragoza",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-14T19:30:00.000Z"
-    },
-    {
         "contestant_names": "Nigeria VERSES Morocco",
         "start_time_aest": "2026-01-15T07:00:00+11:00",
         "sport_name": "Soccer",
@@ -64,5 +31,71 @@
         "match_name": "Nigeria v Morocco",
         "betOption": "Winner of Tie",
         "start_time": "2026-01-14T20:00:00.000Z"
+    },
+    {
+        "contestant_names": "Aleksa Ciric VERSES Bor Artnak",
+        "start_time_aest": "2026-01-15T08:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Aleksa Ciric",
+                "position": "HOME",
+                "short_name": "Ciric A"
+            },
+            {
+                "full_name": "Bor Artnak",
+                "position": "AWAY",
+                "short_name": "Artnak B"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Aleksa Ciric",
+                "returnWin": 2.15,
+                "returnPlace": 0
+            },
+            {
+                "name": "Bor Artnak",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Ciric A v Artnak B",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-14T21:00:00.000Z"
+    },
+    {
+        "contestant_names": "Aryan Shah VERSES Luca Pow",
+        "start_time_aest": "2026-01-15T08:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Aryan Shah",
+                "position": "HOME",
+                "short_name": "Shah A"
+            },
+            {
+                "full_name": "Luca Pow",
+                "position": "AWAY",
+                "short_name": "Pow"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Aryan Shah",
+                "returnWin": 2.15,
+                "returnPlace": 0
+            },
+            {
+                "name": "Luca Pow",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Shah A v Pow",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-14T21:00:00.000Z"
     }
 ]
