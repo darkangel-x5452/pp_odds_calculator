@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Asterix Avo Beveren (W) VERSES Sagres Neuchatel UC (W)",
-        "start_time_aest": "2026-01-15T05:30:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "CEV Cup Women",
-        "contestants": [
-            {
-                "full_name": "Asterix Avo Beveren (W)",
-                "position": "HOME",
-                "short_name": "Asterix Av (W)"
-            },
-            {
-                "full_name": "Sagres Neuchatel UC (W)",
-                "position": "AWAY",
-                "short_name": "Neuchatel UC (W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Asterix Avo Beveren (W)",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            },
-            {
-                "name": "Sagres Neuchatel UC (W)",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Asterix Av (W) v Neuchatel UC (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-14T18:30:00.000Z"
-    },
-    {
         "contestant_names": "Est Movistar VERSES Olympiakos",
         "start_time_aest": "2026-01-15T06:00:00+11:00",
         "sport_name": "Basketball",
@@ -161,6 +128,72 @@
             }
         ],
         "match_name": "Polonia Warsaw v Energa Torun",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-14T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Almere City VERSES Telstar",
+        "start_time_aest": "2026-01-15T06:00:00+11:00",
+        "sport_name": "Soccer",
+        "competition_name": "Netherlands KNVB Cup",
+        "contestants": [
+            {
+                "full_name": "Almere City",
+                "position": "HOME",
+                "short_name": "Almere City"
+            },
+            {
+                "full_name": "Telstar",
+                "position": "AWAY",
+                "short_name": "Telstar"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Almere City",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            },
+            {
+                "name": "Telstar",
+                "returnWin": 1.72,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Almere City v Telstar",
+        "betOption": "Winner of Tie",
+        "start_time": "2026-01-14T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Alan Magadan VERSES Charlie Robertson",
+        "start_time_aest": "2026-01-15T06:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Alan Magadan",
+                "position": "HOME",
+                "short_name": "Magadan"
+            },
+            {
+                "full_name": "Charlie Robertson",
+                "position": "AWAY",
+                "short_name": "Robertson C"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alan Magadan",
+                "returnWin": 2.45,
+                "returnPlace": 0
+            },
+            {
+                "name": "Charlie Robertson",
+                "returnWin": 1.48,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Magadan v Robertson C",
         "betOption": "Head To Head",
         "start_time": "2026-01-14T19:00:00.000Z"
     }
