@@ -1,104 +1,5 @@
 [
     {
-        "contestant_names": "Henri Squire VERSES Charles Broom",
-        "start_time_aest": "2026-01-15T00:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Henri Squire",
-                "position": "HOME",
-                "short_name": "Squire H"
-            },
-            {
-                "full_name": "Charles Broom",
-                "position": "AWAY",
-                "short_name": "Broom"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Henri Squire",
-                "returnWin": 1.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Charles Broom",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Squire H v Broom",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-14T13:45:00.000Z"
-    },
-    {
-        "contestant_names": "Warriorz (W) VERSES Delhi (W)",
-        "start_time_aest": "2026-01-15T01:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Womens Premier League",
-        "contestants": [
-            {
-                "full_name": "Warriorz (W)",
-                "position": "HOME",
-                "short_name": "Warriorz (W)"
-            },
-            {
-                "full_name": "Delhi (W)",
-                "position": "AWAY",
-                "short_name": "Delhi (W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Warriorz (W)",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            },
-            {
-                "name": "Delhi (W)",
-                "returnWin": 1.7,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Warriorz (W) v Delhi (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-14T14:00:00.000Z"
-    },
-    {
-        "contestant_names": "Dominguez S VERSES Rachel Gailis",
-        "start_time_aest": "2026-01-15T01:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Dominguez S",
-                "position": "HOME",
-                "short_name": "Dominguez S"
-            },
-            {
-                "full_name": "Rachel Gailis",
-                "position": "AWAY",
-                "short_name": "Gailis"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Dominguez S",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            },
-            {
-                "name": "Rachel Gailis",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Dominguez S v Gailis",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-14T14:00:00.000Z"
-    },
-    {
         "contestant_names": "Tom Gentzsch VERSES Marvin Moeller",
         "start_time_aest": "2026-01-15T01:30:00+11:00",
         "sport_name": "Tennis",
@@ -163,5 +64,137 @@
         "match_name": "Monday v Gray A",
         "betOption": "Head To Head",
         "start_time": "2026-01-14T14:30:00.000Z"
+    },
+    {
+        "contestant_names": "Franco Agamenone VERSES Matheus Pucinelli De Almeida",
+        "start_time_aest": "2026-01-15T02:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Franco Agamenone",
+                "position": "HOME",
+                "short_name": "Agamenone"
+            },
+            {
+                "full_name": "Matheus Pucinelli De Almeida",
+                "position": "AWAY",
+                "short_name": "Pucinelli"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Franco Agamenone",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            },
+            {
+                "name": "Matheus Pucinelli De Almeida",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Agamenone v Pucinelli",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-14T15:00:00.000Z"
+    },
+    {
+        "contestant_names": "Taverna VERSES Juan Manuel La Serna",
+        "start_time_aest": "2026-01-15T02:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Taverna",
+                "position": "HOME",
+                "short_name": "Taverna"
+            },
+            {
+                "full_name": "Juan Manuel La Serna",
+                "position": "AWAY",
+                "short_name": "La Serna"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Taverna",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            },
+            {
+                "name": "Juan Manuel La Serna",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Taverna v La Serna",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-14T15:00:00.000Z"
+    },
+    {
+        "contestant_names": "Eastern Cape VERSES Joburg Spr Kings",
+        "start_time_aest": "2026-01-15T02:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "South Africa T20",
+        "contestants": [
+            {
+                "full_name": "Eastern Cape",
+                "position": "HOME",
+                "short_name": "Eastern Cape"
+            },
+            {
+                "full_name": "Joburg Spr Kings",
+                "position": "AWAY",
+                "short_name": "Joburg Spr Kings"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Eastern Cape",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            },
+            {
+                "name": "Joburg Spr Kings",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Eastern Cape v Joburg Spr Kings",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-14T15:30:00.000Z"
+    },
+    {
+        "contestant_names": "Lia Karatancheva VERSES Ena Koike",
+        "start_time_aest": "2026-01-15T02:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Lia Karatancheva",
+                "position": "HOME",
+                "short_name": "Karatancheva"
+            },
+            {
+                "full_name": "Ena Koike",
+                "position": "AWAY",
+                "short_name": "Koike E"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lia Karatancheva",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            },
+            {
+                "name": "Ena Koike",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Karatancheva v Koike E",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-14T15:30:00.000Z"
     }
 ]
