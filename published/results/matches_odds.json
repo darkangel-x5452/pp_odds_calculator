@@ -1,69 +1,36 @@
 [
     {
-        "contestant_names": "Giovanni Perricard VERSES Jakub Mensik",
-        "start_time_aest": "2026-01-15T18:15:00+11:00",
+        "contestant_names": "L Kichenok/Krawczyk VERSES Perez/Schuurs",
+        "start_time_aest": "2026-01-15T18:40:00+11:00",
         "sport_name": "Tennis",
-        "competition_name": "ATP",
+        "competition_name": "WTA Doubles",
         "contestants": [
             {
-                "full_name": "Giovanni Perricard",
+                "full_name": "L Kichenok/Krawczyk",
                 "position": "HOME",
-                "short_name": "Perricard"
+                "short_name": "L Kichenok/Krawczyk"
             },
             {
-                "full_name": "Jakub Mensik",
+                "full_name": "Perez/Schuurs",
                 "position": "AWAY",
-                "short_name": "Mensik"
+                "short_name": "Perez/Schuurs"
             }
         ],
         "propositions": [
             {
-                "name": "Giovanni Perricard",
-                "returnWin": 2.3,
+                "name": "L Kichenok/Krawczyk",
+                "returnWin": 2.05,
                 "returnPlace": 0
             },
             {
-                "name": "Jakub Mensik",
-                "returnWin": 1.58,
+                "name": "Perez/Schuurs",
+                "returnWin": 1.72,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Perricard v Mensik",
+        "match_name": "L Kichenok/Krawczyk v Perez/Schuurs",
         "betOption": "Head To Head",
-        "start_time": "2026-01-15T07:15:00.000Z"
-    },
-    {
-        "contestant_names": "Erler/Galloway VERSES Reynolds/Watt",
-        "start_time_aest": "2026-01-15T18:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "contestants": [
-            {
-                "full_name": "Erler/Galloway",
-                "position": "HOME",
-                "short_name": "Erler/Galloway"
-            },
-            {
-                "full_name": "Reynolds/Watt",
-                "position": "AWAY",
-                "short_name": "Reynolds/Watt"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Erler/Galloway",
-                "returnWin": 1.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Reynolds/Watt",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Erler/Galloway v Reynolds/Watt",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-15T07:30:00.000Z"
+        "start_time": "2026-01-15T07:40:00.000Z"
     },
     {
         "contestant_names": "Antonia Ruzic VERSES Olga Danilovic",
@@ -262,6 +229,105 @@
         "match_name": "Zavatska v Popa M",
         "betOption": "Head To Head",
         "start_time": "2026-01-15T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Anna Snigireva VERSES Camilla Zanolini",
+        "start_time_aest": "2026-01-15T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Anna Snigireva",
+                "position": "HOME",
+                "short_name": "Snigireva"
+            },
+            {
+                "full_name": "Camilla Zanolini",
+                "position": "AWAY",
+                "short_name": "Zanolini"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Anna Snigireva",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            },
+            {
+                "name": "Camilla Zanolini",
+                "returnWin": 1.68,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Snigireva v Zanolini",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Danilina/Krunic VERSES Siniakova/Zhang",
+        "start_time_aest": "2026-01-15T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA Doubles",
+        "contestants": [
+            {
+                "full_name": "Danilina/Krunic",
+                "position": "HOME",
+                "short_name": "Danilina/Krunic"
+            },
+            {
+                "full_name": "Siniakova/Zhang",
+                "position": "AWAY",
+                "short_name": "Siniakova/Zhang"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Danilina/Krunic",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            },
+            {
+                "name": "Siniakova/Zhang",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Danilina/Krunic v Siniakova/Zhang",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Perth VERSES Bendigo",
+        "start_time_aest": "2026-01-15T19:07:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "WNBL",
+        "contestants": [
+            {
+                "full_name": "Perth",
+                "position": "HOME",
+                "short_name": "Perth"
+            },
+            {
+                "full_name": "Bendigo",
+                "position": "AWAY",
+                "short_name": "Bendigo"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Perth",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            },
+            {
+                "name": "Bendigo",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Perth v Bendigo",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T08:07:00.000Z"
     },
     {
         "contestant_names": "Melb Renegades VERSES Perth Scorchers",
