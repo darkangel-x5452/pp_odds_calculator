@@ -1,40 +1,7 @@
 [
     {
-        "contestant_names": "Calvin Mueller VERSES Daniel De Jonge",
-        "start_time_aest": "2026-01-15T23:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Calvin Mueller",
-                "position": "HOME",
-                "short_name": "Mueller C"
-            },
-            {
-                "full_name": "Daniel De Jonge",
-                "position": "AWAY",
-                "short_name": "De Jonge"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Calvin Mueller",
-                "returnWin": 1.68,
-                "returnPlace": 0
-            },
-            {
-                "name": "Daniel De Jonge",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Mueller C v De Jonge",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-15T12:15:00.000Z"
-    },
-    {
         "contestant_names": "Charles Broom VERSES Clement Chidekh",
-        "start_time_aest": "2026-01-15T23:30:00+11:00",
+        "start_time_aest": "2026-01-15T23:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -63,7 +30,7 @@
         ],
         "match_name": "Broom v Chidekh C",
         "betOption": "Head To Head",
-        "start_time": "2026-01-15T12:30:00.000Z"
+        "start_time": "2026-01-15T12:45:00.000Z"
     },
     {
         "contestant_names": "John Higgins VERSES Zhao Xintong",
@@ -196,5 +163,38 @@
         "match_name": "Stojsavljevic v Bandecchi",
         "betOption": "Head To Head",
         "start_time": "2026-01-15T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "John Higgins VERSES Zhao Xintong",
+        "start_time_aest": "2026-01-16T00:15:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "The Masters",
+        "contestants": [
+            {
+                "full_name": "John Higgins",
+                "position": "HOME",
+                "short_name": "Higgins J"
+            },
+            {
+                "full_name": "Zhao Xintong",
+                "position": "AWAY",
+                "short_name": "Xintong"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "John Higgins",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            },
+            {
+                "name": "Zhao Xintong",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Higgins J v Xintong",
+        "betOption": "Result",
+        "start_time": "2026-01-15T13:15:00.000Z"
     }
 ]
