@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Juan Manuel La Serna VERSES Franco Agamenone",
-        "start_time_aest": "2026-01-16T02:45:00+11:00",
+        "start_time_aest": "2026-01-16T03:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -30,73 +30,7 @@
         ],
         "match_name": "La Serna v Agamenone",
         "betOption": "Head To Head",
-        "start_time": "2026-01-15T15:45:00.000Z"
-    },
-    {
-        "contestant_names": "Liquid VERSES NIP",
-        "start_time_aest": "2026-01-16T03:00:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "Counter Strike 2",
-        "contestants": [
-            {
-                "full_name": "Liquid",
-                "position": "HOME",
-                "short_name": "Liquid"
-            },
-            {
-                "full_name": "NIP",
-                "position": "AWAY",
-                "short_name": "Nip"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Liquid",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            },
-            {
-                "name": "NIP",
-                "returnWin": 1.68,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Liquid v Nip",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-15T16:00:00.000Z"
-    },
-    {
-        "contestant_names": "Fatra Zlin VERSES VK Dukla Liberec",
-        "start_time_aest": "2026-01-16T03:00:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Czech Republic Extraliga",
-        "contestants": [
-            {
-                "full_name": "Fatra Zlin",
-                "position": "HOME",
-                "short_name": "Fatra Zlin"
-            },
-            {
-                "full_name": "VK Dukla Liberec",
-                "position": "AWAY",
-                "short_name": "VK Dukla Liberec"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Fatra Zlin",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "VK Dukla Liberec",
-                "returnWin": 1.46,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Fatra Zlin v VK Dukla Liberec",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-15T16:00:00.000Z"
+        "start_time": "2026-01-15T16:15:00.000Z"
     },
     {
         "contestant_names": "Tampereen Pyrint VERSES Bisons Loimaa",
@@ -260,6 +194,105 @@
             }
         ],
         "match_name": "Zmi Holdings v Dubai Dare Devil",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Micah Braswell VERSES Stefan Dostanic",
+        "start_time_aest": "2026-01-16T04:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Micah Braswell",
+                "position": "HOME",
+                "short_name": "Braswell"
+            },
+            {
+                "full_name": "Stefan Dostanic",
+                "position": "AWAY",
+                "short_name": "Dostanic"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Micah Braswell",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            },
+            {
+                "name": "Stefan Dostanic",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Braswell v Dostanic",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Tristan Mccormick VERSES Alexander Kotzen",
+        "start_time_aest": "2026-01-16T04:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Tristan Mccormick",
+                "position": "HOME",
+                "short_name": "McCormick"
+            },
+            {
+                "full_name": "Alexander Kotzen",
+                "position": "AWAY",
+                "short_name": "Kotzen A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tristan Mccormick",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            },
+            {
+                "name": "Alexander Kotzen",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "McCormick v Kotzen A",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "VK Benatky nad Jizerou VERSES VK Ostrava",
+        "start_time_aest": "2026-01-16T04:00:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "Czech Republic Extraliga",
+        "contestants": [
+            {
+                "full_name": "VK Benatky nad Jizerou",
+                "position": "HOME",
+                "short_name": "VK Benatky"
+            },
+            {
+                "full_name": "VK Ostrava",
+                "position": "AWAY",
+                "short_name": "Ostrava"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "VK Benatky nad Jizerou",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            },
+            {
+                "name": "VK Ostrava",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "VK Benatky v Ostrava",
         "betOption": "Head To Head",
         "start_time": "2026-01-15T17:00:00.000Z"
     }
