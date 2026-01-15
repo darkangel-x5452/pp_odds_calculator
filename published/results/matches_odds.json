@@ -64,5 +64,38 @@
         "match_name": "Bryant v UMBC",
         "betOption": "Head To Head",
         "start_time": "2026-01-15T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Notre Dame VERSES Louisville",
+        "start_time_aest": "2026-01-16T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Notre Dame",
+                "position": "HOME",
+                "short_name": "Notre Dame"
+            },
+            {
+                "full_name": "Louisville",
+                "position": "AWAY",
+                "short_name": "Louisville"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Notre Dame",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            },
+            {
+                "name": "Louisville",
+                "returnWin": 1.72,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Notre Dame v Louisville",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T23:00:00.000Z"
     }
 ]
