@@ -163,5 +163,38 @@
         "match_name": "Appalachian St v James Madison",
         "betOption": "Head To Head",
         "start_time": "2026-01-15T23:30:00.000Z"
+    },
+    {
+        "contestant_names": "Cleveland State VERSES Green Bay",
+        "start_time_aest": "2026-01-16T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Cleveland State",
+                "position": "HOME",
+                "short_name": "Cleveland State"
+            },
+            {
+                "full_name": "Green Bay",
+                "position": "AWAY",
+                "short_name": "Green Bay"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Cleveland State",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            },
+            {
+                "name": "Green Bay",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Cleveland State v Green Bay",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T00:00:00.000Z"
     }
 ]
