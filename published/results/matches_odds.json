@@ -1,167 +1,233 @@
 [
     {
-        "contestant_names": "New Jersey VERSES Seattle",
-        "start_time_aest": "2026-01-15T11:09:00+11:00",
+        "contestant_names": "Buffalo VERSES Philadelphia",
+        "start_time_aest": "2026-01-15T11:39:00+11:00",
         "sport_name": "Ice Hockey",
         "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "New Jersey",
+                "full_name": "Buffalo",
                 "position": "HOME",
-                "short_name": "New Jersey"
+                "short_name": "Buffalo"
             },
             {
-                "full_name": "Seattle",
+                "full_name": "Philadelphia",
                 "position": "AWAY",
-                "short_name": "Seattle"
+                "short_name": "Philadelphia"
             }
         ],
         "propositions": [
             {
-                "name": "New Jersey",
-                "returnWin": 1.65,
+                "name": "Buffalo",
+                "returnWin": 1.7,
                 "returnPlace": 0
             },
             {
-                "name": "Seattle",
-                "returnWin": 2.2,
+                "name": "Philadelphia",
+                "returnWin": 2.1,
                 "returnPlace": 0
             }
         ],
-        "match_name": "New Jersey v Seattle",
+        "match_name": "Buffalo v Philadelphia",
         "betOption": "Head To Head",
-        "start_time": "2026-01-15T00:09:00.000Z"
+        "start_time": "2026-01-15T00:39:00.000Z"
     },
     {
-        "contestant_names": "Indiana VERSES Toronto",
-        "start_time_aest": "2026-01-15T11:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
+        "contestant_names": "NY Rangers VERSES Ottawa",
+        "start_time_aest": "2026-01-15T11:39:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "Indiana",
+                "full_name": "NY Rangers",
                 "position": "HOME",
-                "short_name": "Indiana"
+                "short_name": "NY Rangers"
             },
             {
-                "full_name": "Toronto",
+                "full_name": "Ottawa",
                 "position": "AWAY",
-                "short_name": "Toronto"
+                "short_name": "Ottawa"
             }
         ],
         "propositions": [
             {
-                "name": "Indiana",
-                "returnWin": 1.85,
-                "returnPlace": 0
-            },
-            {
-                "name": "Toronto",
+                "name": "NY Rangers",
                 "returnWin": 2,
                 "returnPlace": 0
-            }
-        ],
-        "match_name": "Indiana v Toronto",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-15T00:10:00.000Z"
-    },
-    {
-        "contestant_names": "Jaime Faria VERSES Marco Trungelliti",
-        "start_time_aest": "2026-01-15T11:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open",
-        "contestants": [
-            {
-                "full_name": "Jaime Faria",
-                "position": "HOME",
-                "short_name": "Faria J"
             },
             {
-                "full_name": "Marco Trungelliti",
+                "name": "Ottawa",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "NY Rangers v Ottawa",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T00:39:00.000Z"
+    },
+    {
+        "contestant_names": "Kimberly Birrell VERSES Jaqueline Cristian",
+        "start_time_aest": "2026-01-15T11:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Kimberly Birrell",
+                "position": "HOME",
+                "short_name": "Birrell K"
+            },
+            {
+                "full_name": "Jaqueline Cristian",
                 "position": "AWAY",
-                "short_name": "Trungelliti"
+                "short_name": "Cristian"
             }
         ],
         "propositions": [
             {
-                "name": "Jaime Faria",
-                "returnWin": 1.55,
+                "name": "Kimberly Birrell",
+                "returnWin": 2.35,
                 "returnPlace": 0
             },
             {
-                "name": "Marco Trungelliti",
+                "name": "Jaqueline Cristian",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Birrell K v Cristian",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T00:45:00.000Z"
+    },
+    {
+        "contestant_names": "Wyoming VERSES San Diego State",
+        "start_time_aest": "2026-01-15T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Wyoming",
+                "position": "HOME",
+                "short_name": "Wyoming"
+            },
+            {
+                "full_name": "San Diego State",
+                "position": "AWAY",
+                "short_name": "San Diego State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Wyoming",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            },
+            {
+                "name": "San Diego State",
+                "returnWin": 1.85,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Wyoming v San Diego State",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Kansas State VERSES UCF",
+        "start_time_aest": "2026-01-15T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Kansas State",
+                "position": "HOME",
+                "short_name": "Kansas State"
+            },
+            {
+                "full_name": "UCF",
+                "position": "AWAY",
+                "short_name": "UCF"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Kansas State",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            },
+            {
+                "name": "UCF",
                 "returnWin": 2.3,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Faria J v Trungelliti",
+        "match_name": "Kansas State v UCF",
         "betOption": "Head To Head",
-        "start_time": "2026-01-15T00:15:00.000Z"
+        "start_time": "2026-01-15T01:00:00.000Z"
     },
     {
-        "contestant_names": "Dino Prizmic VERSES Arthur Fery",
-        "start_time_aest": "2026-01-15T11:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open",
+        "contestant_names": "Boca Juniors VERSES Minas TC",
+        "start_time_aest": "2026-01-15T12:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Champions League Americas",
         "contestants": [
             {
-                "full_name": "Dino Prizmic",
+                "full_name": "Boca Juniors",
                 "position": "HOME",
-                "short_name": "Prizmic"
+                "short_name": "Boca Juniors"
             },
             {
-                "full_name": "Arthur Fery",
+                "full_name": "Minas TC",
                 "position": "AWAY",
-                "short_name": "Fery"
+                "short_name": "Minas TC"
             }
         ],
         "propositions": [
             {
-                "name": "Dino Prizmic",
+                "name": "Boca Juniors",
                 "returnWin": 1.5,
                 "returnPlace": 0
             },
             {
-                "name": "Arthur Fery",
-                "returnWin": 2.4,
+                "name": "Minas TC",
+                "returnWin": 2.35,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Prizmic v Fery",
+        "match_name": "Boca Juniors v Minas TC",
         "betOption": "Head To Head",
-        "start_time": "2026-01-15T00:15:00.000Z"
+        "start_time": "2026-01-15T01:10:00.000Z"
     },
     {
-        "contestant_names": "Lucia Bronzetti VERSES Sloane Stephens",
-        "start_time_aest": "2026-01-15T11:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open",
+        "contestant_names": "New Orleans VERSES Brooklyn",
+        "start_time_aest": "2026-01-15T12:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
         "contestants": [
             {
-                "full_name": "Lucia Bronzetti",
+                "full_name": "New Orleans",
                 "position": "HOME",
-                "short_name": "Bronzetti L"
+                "short_name": "New Orleans"
             },
             {
-                "full_name": "Sloane Stephens",
+                "full_name": "Brooklyn",
                 "position": "AWAY",
-                "short_name": "Stephens"
+                "short_name": "Brooklyn"
             }
         ],
         "propositions": [
             {
-                "name": "Lucia Bronzetti",
-                "returnWin": 2.15,
+                "name": "New Orleans",
+                "returnWin": 1.85,
                 "returnPlace": 0
             },
             {
-                "name": "Sloane Stephens",
-                "returnWin": 1.62,
+                "name": "Brooklyn",
+                "returnWin": 2,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Bronzetti L v Stephens",
+        "match_name": "New Orleans v Brooklyn",
         "betOption": "Head To Head",
-        "start_time": "2026-01-15T00:15:00.000Z"
+        "start_time": "2026-01-15T01:10:00.000Z"
     }
 ]
