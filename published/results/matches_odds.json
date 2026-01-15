@@ -1,137 +1,5 @@
 [
     {
-        "contestant_names": "Bryant VERSES UMBC",
-        "start_time_aest": "2026-01-16T10:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Bryant",
-                "position": "HOME",
-                "short_name": "Bryant"
-            },
-            {
-                "full_name": "UMBC",
-                "position": "AWAY",
-                "short_name": "UMBC"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Bryant",
-                "returnWin": 1.95,
-                "returnPlace": 0
-            },
-            {
-                "name": "UMBC",
-                "returnWin": 1.85,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Bryant v UMBC",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-15T23:00:00.000Z"
-    },
-    {
-        "contestant_names": "Notre Dame VERSES Louisville",
-        "start_time_aest": "2026-01-16T10:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Notre Dame",
-                "position": "HOME",
-                "short_name": "Notre Dame"
-            },
-            {
-                "full_name": "Louisville",
-                "position": "AWAY",
-                "short_name": "Louisville"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Notre Dame",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            },
-            {
-                "name": "Louisville",
-                "returnWin": 1.72,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Notre Dame v Louisville",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-15T23:00:00.000Z"
-    },
-    {
-        "contestant_names": "Guyana (W) VERSES Leeward Isl (W)",
-        "start_time_aest": "2026-01-16T10:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Womens WI Breakout League T20",
-        "contestants": [
-            {
-                "full_name": "Guyana (W)",
-                "position": "HOME",
-                "short_name": "Guyana (W)"
-            },
-            {
-                "full_name": "Leeward Isl (W)",
-                "position": "AWAY",
-                "short_name": "Leeward Isl (W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Guyana (W)",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            },
-            {
-                "name": "Leeward Isl (W)",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Guyana (W) v Leeward Isl (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-15T23:00:00.000Z"
-    },
-    {
-        "contestant_names": "Syracuse VERSES California",
-        "start_time_aest": "2026-01-16T10:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Syracuse",
-                "position": "HOME",
-                "short_name": "Syracuse"
-            },
-            {
-                "full_name": "California",
-                "position": "AWAY",
-                "short_name": "California"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Syracuse",
-                "returnWin": 1.53,
-                "returnPlace": 0
-            },
-            {
-                "name": "California",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Syracuse v California",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-15T23:00:00.000Z"
-    },
-    {
         "contestant_names": "Appalachian St VERSES James Madison",
         "start_time_aest": "2026-01-16T10:30:00+11:00",
         "sport_name": "Basketball",
@@ -194,6 +62,105 @@
             }
         ],
         "match_name": "Cleveland State v Green Bay",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Delaware VERSES UTEP",
+        "start_time_aest": "2026-01-16T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Delaware",
+                "position": "HOME",
+                "short_name": "Delaware"
+            },
+            {
+                "full_name": "UTEP",
+                "position": "AWAY",
+                "short_name": "UTEP"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Delaware",
+                "returnWin": 1.74,
+                "returnPlace": 0
+            },
+            {
+                "name": "UTEP",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Delaware v UTEP",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Milwaukee VERSES Oakland",
+        "start_time_aest": "2026-01-16T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Milwaukee",
+                "position": "HOME",
+                "short_name": "Milwaukee"
+            },
+            {
+                "full_name": "Oakland",
+                "position": "AWAY",
+                "short_name": "Oakland"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Milwaukee",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            },
+            {
+                "name": "Oakland",
+                "returnWin": 1.74,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Milwaukee v Oakland",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Northeastern VERSES Elon",
+        "start_time_aest": "2026-01-16T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Northeastern",
+                "position": "HOME",
+                "short_name": "Northeastern"
+            },
+            {
+                "full_name": "Elon",
+                "position": "AWAY",
+                "short_name": "Elon"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Northeastern",
+                "returnWin": 2.15,
+                "returnPlace": 0
+            },
+            {
+                "name": "Elon",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Northeastern v Elon",
         "betOption": "Head To Head",
         "start_time": "2026-01-16T00:00:00.000Z"
     }
