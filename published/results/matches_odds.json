@@ -1,71 +1,5 @@
 [
     {
-        "contestant_names": "Micah Braswell VERSES Stefan Dostanic",
-        "start_time_aest": "2026-01-16T04:05:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Micah Braswell",
-                "position": "HOME",
-                "short_name": "Braswell"
-            },
-            {
-                "full_name": "Stefan Dostanic",
-                "position": "AWAY",
-                "short_name": "Dostanic"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Micah Braswell",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            },
-            {
-                "name": "Stefan Dostanic",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Braswell v Dostanic",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-15T17:05:00.000Z"
-    },
-    {
-        "contestant_names": "Tristan Mccormick VERSES Alexander Kotzen",
-        "start_time_aest": "2026-01-16T04:05:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Tristan Mccormick",
-                "position": "HOME",
-                "short_name": "McCormick"
-            },
-            {
-                "full_name": "Alexander Kotzen",
-                "position": "AWAY",
-                "short_name": "Kotzen A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Tristan Mccormick",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            },
-            {
-                "name": "Alexander Kotzen",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "McCormick v Kotzen A",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-15T17:05:00.000Z"
-    },
-    {
         "contestant_names": "Horsens VERSES FOG Naestved",
         "start_time_aest": "2026-01-16T05:00:00+11:00",
         "sport_name": "Basketball",
@@ -97,5 +31,236 @@
         "match_name": "Horsens v FOG Naestved",
         "betOption": "Head To Head",
         "start_time": "2026-01-15T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Alb Lim VERSES Yasmine Kabbaj",
+        "start_time_aest": "2026-01-16T05:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Alb Lim",
+                "position": "HOME",
+                "short_name": "Lim A"
+            },
+            {
+                "full_name": "Yasmine Kabbaj",
+                "position": "AWAY",
+                "short_name": "Kabbaj"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alb Lim",
+                "returnWin": 2.45,
+                "returnPlace": 0
+            },
+            {
+                "name": "Yasmine Kabbaj",
+                "returnWin": 1.48,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Lim A v Kabbaj",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Bayern Munich VERSES Panathinaikos",
+        "start_time_aest": "2026-01-16T05:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "EuroLeague",
+        "contestants": [
+            {
+                "full_name": "Bayern Munich",
+                "position": "HOME",
+                "short_name": "Bayern Munich"
+            },
+            {
+                "full_name": "Panathinaikos",
+                "position": "AWAY",
+                "short_name": "Panathinaikos"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bayern Munich",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            },
+            {
+                "name": "Panathinaikos",
+                "returnWin": 1.53,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Bayern Munich v Panathinaikos",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T18:30:00.000Z"
+    },
+    {
+        "contestant_names": "Windward Isl (W) VERSES TrndadTobago (W)",
+        "start_time_aest": "2026-01-16T05:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Womens WI Breakout League T20",
+        "contestants": [
+            {
+                "full_name": "Windward Isl (W)",
+                "position": "HOME",
+                "short_name": "Windward Isl (W)"
+            },
+            {
+                "full_name": "TrndadTobago (W)",
+                "position": "AWAY",
+                "short_name": "TrndadTobago (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Windward Isl (W)",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            },
+            {
+                "name": "TrndadTobago (W)",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Windward Isl (W) v TrndadTobago (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T18:30:00.000Z"
+    },
+    {
+        "contestant_names": "Castors Braine VERSES Umed Lublin",
+        "start_time_aest": "2026-01-16T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "EuroCup Women",
+        "contestants": [
+            {
+                "full_name": "Castors Braine",
+                "position": "HOME",
+                "short_name": "Castors Braine"
+            },
+            {
+                "full_name": "Umed Lublin",
+                "position": "AWAY",
+                "short_name": "Umed Lublin"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Castors Braine",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            },
+            {
+                "name": "Umed Lublin",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Castors Braine v Umed Lublin",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Cal Baptist VERSES Abilene Chrstian",
+        "start_time_aest": "2026-01-16T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Cal Baptist",
+                "position": "HOME",
+                "short_name": "Cal Baptist"
+            },
+            {
+                "full_name": "Abilene Chrstian",
+                "position": "AWAY",
+                "short_name": "Abilene Chrstian"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Cal Baptist",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            },
+            {
+                "name": "Abilene Chrstian",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Cal Baptist v Abilene Chrstian",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Braden Shick VERSES Bor Artnak",
+        "start_time_aest": "2026-01-16T06:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Braden Shick",
+                "position": "HOME",
+                "short_name": "Shick B"
+            },
+            {
+                "full_name": "Bor Artnak",
+                "position": "AWAY",
+                "short_name": "Artnak B"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Braden Shick",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            },
+            {
+                "name": "Bor Artnak",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Shick B v Artnak B",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Chelsea Fontenel VERSES Emma Lene",
+        "start_time_aest": "2026-01-16T06:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Chelsea Fontenel",
+                "position": "HOME",
+                "short_name": "Fontenel"
+            },
+            {
+                "full_name": "Emma Lene",
+                "position": "AWAY",
+                "short_name": "Lene E"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Chelsea Fontenel",
+                "returnWin": 1.75,
+                "returnPlace": 0
+            },
+            {
+                "name": "Emma Lene",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Fontenel v Lene E",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T19:00:00.000Z"
     }
 ]
