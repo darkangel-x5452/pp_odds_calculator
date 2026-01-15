@@ -97,5 +97,71 @@
         "match_name": "Guyana (W) v Leeward Isl (W)",
         "betOption": "Head To Head",
         "start_time": "2026-01-15T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Syracuse VERSES California",
+        "start_time_aest": "2026-01-16T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Syracuse",
+                "position": "HOME",
+                "short_name": "Syracuse"
+            },
+            {
+                "full_name": "California",
+                "position": "AWAY",
+                "short_name": "California"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Syracuse",
+                "returnWin": 1.53,
+                "returnPlace": 0
+            },
+            {
+                "name": "California",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Syracuse v California",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Appalachian St VERSES James Madison",
+        "start_time_aest": "2026-01-16T10:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Appalachian St",
+                "position": "HOME",
+                "short_name": "Appalachian St"
+            },
+            {
+                "full_name": "James Madison",
+                "position": "AWAY",
+                "short_name": "James Madison"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Appalachian St",
+                "returnWin": 1.77,
+                "returnPlace": 0
+            },
+            {
+                "name": "James Madison",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Appalachian St v James Madison",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T23:30:00.000Z"
     }
 ]
