@@ -1,40 +1,7 @@
 [
     {
-        "contestant_names": "PretoriaCapitals VERSES Paarl Royals",
-        "start_time_aest": "2026-01-16T02:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "South Africa T20",
-        "contestants": [
-            {
-                "full_name": "PretoriaCapitals",
-                "position": "HOME",
-                "short_name": "PretoriaCapitals"
-            },
-            {
-                "full_name": "Paarl Royals",
-                "position": "AWAY",
-                "short_name": "Paarl Royals"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "PretoriaCapitals",
-                "returnWin": 1.68,
-                "returnPlace": 0
-            },
-            {
-                "name": "Paarl Royals",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "PretoriaCapitals v Paarl Royals",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-15T15:30:00.000Z"
-    },
-    {
         "contestant_names": "Juan Manuel La Serna VERSES Franco Agamenone",
-        "start_time_aest": "2026-01-16T02:30:00+11:00",
+        "start_time_aest": "2026-01-16T02:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -52,18 +19,18 @@
         "propositions": [
             {
                 "name": "Juan Manuel La Serna",
-                "returnWin": 2.3,
+                "returnWin": 2.35,
                 "returnPlace": 0
             },
             {
                 "name": "Franco Agamenone",
-                "returnWin": 1.55,
+                "returnWin": 1.52,
                 "returnPlace": 0
             }
         ],
         "match_name": "La Serna v Agamenone",
         "betOption": "Head To Head",
-        "start_time": "2026-01-15T15:30:00.000Z"
+        "start_time": "2026-01-15T15:45:00.000Z"
     },
     {
         "contestant_names": "Liquid VERSES NIP",
@@ -95,6 +62,39 @@
             }
         ],
         "match_name": "Liquid v Nip",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "Fatra Zlin VERSES VK Dukla Liberec",
+        "start_time_aest": "2026-01-16T03:00:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "Czech Republic Extraliga",
+        "contestants": [
+            {
+                "full_name": "Fatra Zlin",
+                "position": "HOME",
+                "short_name": "Fatra Zlin"
+            },
+            {
+                "full_name": "VK Dukla Liberec",
+                "position": "AWAY",
+                "short_name": "VK Dukla Liberec"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Fatra Zlin",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "VK Dukla Liberec",
+                "returnWin": 1.46,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Fatra Zlin v VK Dukla Liberec",
         "betOption": "Head To Head",
         "start_time": "2026-01-15T16:00:00.000Z"
     },
@@ -227,6 +227,39 @@
             }
         ],
         "match_name": "USK Praha v BC Brno",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "ZMI Holdings VERSES Dubai Dare Devils",
+        "start_time_aest": "2026-01-16T04:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "ICCA Arabian Cricket League",
+        "contestants": [
+            {
+                "full_name": "ZMI Holdings",
+                "position": "HOME",
+                "short_name": "Zmi Holdings"
+            },
+            {
+                "full_name": "Dubai Dare Devils",
+                "position": "AWAY",
+                "short_name": "Dubai Dare Devil"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "ZMI Holdings",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            },
+            {
+                "name": "Dubai Dare Devils",
+                "returnWin": 1.75,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Zmi Holdings v Dubai Dare Devil",
         "betOption": "Head To Head",
         "start_time": "2026-01-15T17:00:00.000Z"
     }
