@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Eliot Spizzirri VERSES Fabian Marozsan",
-        "start_time_aest": "2026-01-15T15:45:00+11:00",
+        "start_time_aest": "2026-01-15T16:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP",
         "contestants": [
@@ -30,44 +30,11 @@
         ],
         "match_name": "Spizzirri E v Marozsan",
         "betOption": "Head To Head",
-        "start_time": "2026-01-15T04:45:00.000Z"
-    },
-    {
-        "contestant_names": "Diana Shnaider VERSES Emma Navarro",
-        "start_time_aest": "2026-01-15T15:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestants": [
-            {
-                "full_name": "Diana Shnaider",
-                "position": "HOME",
-                "short_name": "Shnaider D"
-            },
-            {
-                "full_name": "Emma Navarro",
-                "position": "AWAY",
-                "short_name": "Navarro E"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Diana Shnaider",
-                "returnWin": 1.75,
-                "returnPlace": 0
-            },
-            {
-                "name": "Emma Navarro",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Shnaider D v Navarro E",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-15T04:45:00.000Z"
+        "start_time": "2026-01-15T05:15:00.000Z"
     },
     {
         "contestant_names": "Tamara Korpatsch VERSES Maddison Inglis",
-        "start_time_aest": "2026-01-15T15:45:00+11:00",
+        "start_time_aest": "2026-01-15T16:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Australian Open",
         "contestants": [
@@ -96,7 +63,7 @@
         ],
         "match_name": "Korpatsch v Inglis",
         "betOption": "Head To Head",
-        "start_time": "2026-01-15T04:45:00.000Z"
+        "start_time": "2026-01-15T05:15:00.000Z"
     },
     {
         "contestant_names": "Giovanni Perricard VERSES Jakub Mensik",
@@ -163,5 +130,38 @@
         "match_name": "Bolelli/Vavassori v Pavic/Arevalo",
         "betOption": "Head To Head",
         "start_time": "2026-01-15T05:30:00.000Z"
+    },
+    {
+        "contestant_names": "Yu Jen Chi VERSES Rasmus Gemke",
+        "start_time_aest": "2026-01-15T16:40:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour",
+        "contestants": [
+            {
+                "full_name": "Yu Jen Chi",
+                "position": "HOME",
+                "short_name": "Chi YJ"
+            },
+            {
+                "full_name": "Rasmus Gemke",
+                "position": "AWAY",
+                "short_name": "Gemke"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Yu Jen Chi",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            },
+            {
+                "name": "Rasmus Gemke",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Chi YJ v Gemke",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T05:40:00.000Z"
     }
 ]
