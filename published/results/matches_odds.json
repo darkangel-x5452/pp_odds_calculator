@@ -1,71 +1,5 @@
 [
     {
-        "contestant_names": "Horsens VERSES FOG Naestved",
-        "start_time_aest": "2026-01-16T05:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Denmark Basketligaen",
-        "contestants": [
-            {
-                "full_name": "Horsens",
-                "position": "HOME",
-                "short_name": "Horsens"
-            },
-            {
-                "full_name": "FOG Naestved",
-                "position": "AWAY",
-                "short_name": "FOG Naestved"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Horsens",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            },
-            {
-                "name": "FOG Naestved",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Horsens v FOG Naestved",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-15T18:00:00.000Z"
-    },
-    {
-        "contestant_names": "Alb Lim VERSES Yasmine Kabbaj",
-        "start_time_aest": "2026-01-16T05:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Alb Lim",
-                "position": "HOME",
-                "short_name": "Lim A"
-            },
-            {
-                "full_name": "Yasmine Kabbaj",
-                "position": "AWAY",
-                "short_name": "Kabbaj"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Alb Lim",
-                "returnWin": 2.45,
-                "returnPlace": 0
-            },
-            {
-                "name": "Yasmine Kabbaj",
-                "returnWin": 1.48,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Lim A v Kabbaj",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-15T18:00:00.000Z"
-    },
-    {
         "contestant_names": "Bayern Munich VERSES Panathinaikos",
         "start_time_aest": "2026-01-16T05:30:00+11:00",
         "sport_name": "Basketball",
@@ -262,5 +196,38 @@
         "match_name": "Fontenel v Lene E",
         "betOption": "Head To Head",
         "start_time": "2026-01-15T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Maccabi Tel Aviv VERSES Zalgiris",
+        "start_time_aest": "2026-01-16T06:05:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "EuroLeague",
+        "contestants": [
+            {
+                "full_name": "Maccabi Tel Aviv",
+                "position": "HOME",
+                "short_name": "Maccabi Tel Aviv"
+            },
+            {
+                "full_name": "Zalgiris",
+                "position": "AWAY",
+                "short_name": "Zalgiris"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Maccabi Tel Aviv",
+                "returnWin": 1.68,
+                "returnPlace": 0
+            },
+            {
+                "name": "Zalgiris",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Maccabi Tel Aviv v Zalgiris",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-15T19:05:00.000Z"
     }
 ]
