@@ -1,40 +1,7 @@
 [
     {
-        "contestant_names": "Andrea Collarini VERSES Juan Pablo Varillas",
-        "start_time_aest": "2026-01-17T01:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Andrea Collarini",
-                "position": "HOME",
-                "short_name": "Collarini A"
-            },
-            {
-                "full_name": "Juan Pablo Varillas",
-                "position": "AWAY",
-                "short_name": "Varillas"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Andrea Collarini",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            },
-            {
-                "name": "Juan Pablo Varillas",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Collarini A v Varillas",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-16T14:15:00.000Z"
-    },
-    {
         "contestant_names": "Hynek Barton VERSES Mikhail Kukushkin",
-        "start_time_aest": "2026-01-17T01:30:00+11:00",
+        "start_time_aest": "2026-01-17T01:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -63,7 +30,7 @@
         ],
         "match_name": "Barton H v Kukushkin",
         "betOption": "Head To Head",
-        "start_time": "2026-01-16T14:30:00.000Z"
+        "start_time": "2026-01-16T14:45:00.000Z"
     },
     {
         "contestant_names": "SCM CSU Craiova VERSES Targu Mures",
@@ -130,6 +97,105 @@
         "match_name": "Pain v Betboom Team",
         "betOption": "Head To Head",
         "start_time": "2026-01-16T15:00:00.000Z"
+    },
+    {
+        "contestant_names": "MI Cape Town VERSES Eastern Cape",
+        "start_time_aest": "2026-01-17T02:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "South Africa T20",
+        "contestants": [
+            {
+                "full_name": "MI Cape Town",
+                "position": "HOME",
+                "short_name": "MI Cape Town"
+            },
+            {
+                "full_name": "Eastern Cape",
+                "position": "AWAY",
+                "short_name": "Eastern Cape"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "MI Cape Town",
+                "returnWin": 1.85,
+                "returnPlace": 0
+            },
+            {
+                "name": "Eastern Cape",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "MI Cape Town v Eastern Cape",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T15:30:00.000Z"
+    },
+    {
+        "contestant_names": "Daniel De Jonge VERSES Loann Massard",
+        "start_time_aest": "2026-01-17T02:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Daniel De Jonge",
+                "position": "HOME",
+                "short_name": "De Jonge"
+            },
+            {
+                "full_name": "Loann Massard",
+                "position": "AWAY",
+                "short_name": "Massard"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Daniel De Jonge",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            },
+            {
+                "name": "Loann Massard",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "De Jonge v Massard",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T15:30:00.000Z"
+    },
+    {
+        "contestant_names": "Bursaspor VERSES Merkezefendi",
+        "start_time_aest": "2026-01-17T03:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Turkey Super League",
+        "contestants": [
+            {
+                "full_name": "Bursaspor",
+                "position": "HOME",
+                "short_name": "Bursaspor"
+            },
+            {
+                "full_name": "Merkezefendi",
+                "position": "AWAY",
+                "short_name": "Merkezefendi"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bursaspor",
+                "returnWin": 1.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Merkezefendi",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Bursaspor v Merkezefendi",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T16:00:00.000Z"
     },
     {
         "contestant_names": "Neil Robertson VERSES Kyren Wilson",
