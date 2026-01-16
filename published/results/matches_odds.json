@@ -1,101 +1,35 @@
 [
     {
-        "contestant_names": "Neil Robertson VERSES Kyren Wilson",
-        "start_time_aest": "2026-01-17T06:00:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "The Masters",
-        "contestants": [
-            {
-                "full_name": "Neil Robertson",
-                "position": "HOME",
-                "short_name": "Robertson N"
-            },
-            {
-                "full_name": "Kyren Wilson",
-                "position": "AWAY",
-                "short_name": "Wilson K"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Neil Robertson",
-                "returnWin": 1.7,
-                "returnPlace": 0
-            },
-            {
-                "name": "Kyren Wilson",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Robertson N v Wilson K",
-        "betOption": "Result",
-        "start_time": "2026-01-16T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Heidelberg VERSES EWE Oldenburg",
-        "start_time_aest": "2026-01-17T06:00:00+11:00",
+        "contestant_names": "Basquete Cearens VERSES Botafogo",
+        "start_time_aest": "2026-01-17T09:30:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Germany Bundesliga",
+        "competition_name": "Brazil NBB",
         "contestants": [
             {
-                "full_name": "Heidelberg",
+                "full_name": "Basquete Cearens",
                 "position": "HOME",
-                "short_name": "Heidelberg"
+                "short_name": "Basquete Cearens"
             },
             {
-                "full_name": "EWE Oldenburg",
+                "full_name": "Botafogo",
                 "position": "AWAY",
-                "short_name": "EWE Oldenburg"
+                "short_name": "Botafogo"
             }
         ],
         "propositions": [
             {
-                "name": "Heidelberg",
+                "name": "Basquete Cearens",
+                "returnWin": 1.45,
+                "returnPlace": 0
+            },
+            {
+                "name": "Botafogo",
                 "returnWin": 2.5,
                 "returnPlace": 0
-            },
-            {
-                "name": "EWE Oldenburg",
-                "returnWin": 1.46,
-                "returnPlace": 0
             }
         ],
-        "match_name": "Heidelberg v EWE Oldenburg",
+        "match_name": "Basquete Cearens v Botafogo",
         "betOption": "Head To Head",
-        "start_time": "2026-01-16T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Mees Rottgering VERSES Braden Shick",
-        "start_time_aest": "2026-01-17T06:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Mees Rottgering",
-                "position": "HOME",
-                "short_name": "Rottgering M"
-            },
-            {
-                "full_name": "Braden Shick",
-                "position": "AWAY",
-                "short_name": "Shick B"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Mees Rottgering",
-                "returnWin": 1.72,
-                "returnPlace": 0
-            },
-            {
-                "name": "Braden Shick",
-                "returnWin": 2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Rottgering M v Shick B",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-16T19:00:00.000Z"
+        "start_time": "2026-01-16T22:30:00.000Z"
     }
 ]
