@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Basquete Cearens VERSES Botafogo",
-        "start_time_aest": "2026-01-17T09:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Brazil NBB",
-        "contestants": [
-            {
-                "full_name": "Basquete Cearens",
-                "position": "HOME",
-                "short_name": "Basquete Cearens"
-            },
-            {
-                "full_name": "Botafogo",
-                "position": "AWAY",
-                "short_name": "Botafogo"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Basquete Cearens",
-                "returnWin": 1.45,
-                "returnPlace": 0
-            },
-            {
-                "name": "Botafogo",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Basquete Cearens v Botafogo",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-16T22:30:00.000Z"
-    },
-    {
         "contestant_names": "Erler/Galloway VERSES Olivetti/Arribage",
         "start_time_aest": "2026-01-17T09:35:00+11:00",
         "sport_name": "Tennis",
@@ -229,5 +196,38 @@
         "match_name": "Detroit v San Jose",
         "betOption": "Head To Head",
         "start_time": "2026-01-17T00:05:00.000Z"
+    },
+    {
+        "contestant_names": "Philadelphia VERSES Cleveland",
+        "start_time_aest": "2026-01-17T11:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Philadelphia",
+                "position": "HOME",
+                "short_name": "Philadelphia"
+            },
+            {
+                "full_name": "Cleveland",
+                "position": "AWAY",
+                "short_name": "Cleveland"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Philadelphia",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            },
+            {
+                "name": "Cleveland",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Philadelphia v Cleveland",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T00:10:00.000Z"
     }
 ]
