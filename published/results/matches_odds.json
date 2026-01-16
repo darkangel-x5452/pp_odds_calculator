@@ -1,201 +1,234 @@
 [
     {
-        "contestant_names": "Cleveland State VERSES Green Bay",
-        "start_time_aest": "2026-01-16T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "contestant_names": "Columbus VERSES Vancouver",
+        "start_time_aest": "2026-01-16T11:08:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "Cleveland State",
+                "full_name": "Columbus",
                 "position": "HOME",
-                "short_name": "Cleveland State"
+                "short_name": "Columbus"
             },
             {
-                "full_name": "Green Bay",
+                "full_name": "Vancouver",
                 "position": "AWAY",
-                "short_name": "Green Bay"
+                "short_name": "Vancouver"
             }
         ],
         "propositions": [
             {
-                "name": "Cleveland State",
-                "returnWin": 2.4,
+                "name": "Columbus",
+                "returnWin": 1.58,
                 "returnPlace": 0
             },
             {
-                "name": "Green Bay",
+                "name": "Vancouver",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Columbus v Vancouver",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T00:08:00.000Z"
+    },
+    {
+        "contestant_names": "Washington VERSES San Jose",
+        "start_time_aest": "2026-01-16T11:08:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Washington",
+                "position": "HOME",
+                "short_name": "Washington"
+            },
+            {
+                "full_name": "San Jose",
+                "position": "AWAY",
+                "short_name": "San Jose"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Washington",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            },
+            {
+                "name": "San Jose",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Washington v San Jose",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T00:08:00.000Z"
+    },
+    {
+        "contestant_names": "Buffalo VERSES Montreal",
+        "start_time_aest": "2026-01-16T11:08:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Buffalo",
+                "position": "HOME",
+                "short_name": "Buffalo"
+            },
+            {
+                "full_name": "Montreal",
+                "position": "AWAY",
+                "short_name": "Montreal"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Buffalo",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            },
+            {
+                "name": "Montreal",
+                "returnWin": 1.75,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Buffalo v Montreal",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T00:08:00.000Z"
+    },
+    {
+        "contestant_names": "Pittsburgh VERSES Philadelphia",
+        "start_time_aest": "2026-01-16T11:09:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Pittsburgh",
+                "position": "HOME",
+                "short_name": "Pittsburgh"
+            },
+            {
+                "full_name": "Philadelphia",
+                "position": "AWAY",
+                "short_name": "Philadelphia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Pittsburgh",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            },
+            {
+                "name": "Philadelphia",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Pittsburgh v Philadelphia",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T00:09:00.000Z"
+    },
+    {
+        "contestant_names": "Minas TC VERSES Aguada",
+        "start_time_aest": "2026-01-16T11:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Champions League Americas",
+        "contestants": [
+            {
+                "full_name": "Minas TC",
+                "position": "HOME",
+                "short_name": "Minas TC"
+            },
+            {
+                "full_name": "Aguada",
+                "position": "AWAY",
+                "short_name": "Aguada"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Minas TC",
+                "returnWin": 1.48,
+                "returnPlace": 0
+            },
+            {
+                "name": "Aguada",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Minas TC v Aguada",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T00:10:00.000Z"
+    },
+    {
+        "contestant_names": "Houston VERSES Oklahoma City",
+        "start_time_aest": "2026-01-16T11:40:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Houston",
+                "position": "HOME",
+                "short_name": "Houston"
+            },
+            {
+                "full_name": "Oklahoma City",
+                "position": "AWAY",
+                "short_name": "Oklahoma City"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Houston",
+                "returnWin": 2.45,
+                "returnPlace": 0
+            },
+            {
+                "name": "Oklahoma City",
                 "returnWin": 1.58,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Cleveland State v Green Bay",
+        "match_name": "Houston v Oklahoma City",
         "betOption": "Head To Head",
-        "start_time": "2026-01-16T00:00:00.000Z"
+        "start_time": "2026-01-16T00:40:00.000Z"
     },
     {
-        "contestant_names": "Delaware VERSES UTEP",
-        "start_time_aest": "2026-01-16T11:00:00+11:00",
+        "contestant_names": "Miami VERSES Boston",
+        "start_time_aest": "2026-01-16T11:40:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "competition_name": "NBA",
         "contestants": [
             {
-                "full_name": "Delaware",
+                "full_name": "Miami",
                 "position": "HOME",
-                "short_name": "Delaware"
+                "short_name": "Miami"
             },
             {
-                "full_name": "UTEP",
+                "full_name": "Boston",
                 "position": "AWAY",
-                "short_name": "UTEP"
+                "short_name": "Boston"
             }
         ],
         "propositions": [
             {
-                "name": "Delaware",
-                "returnWin": 1.74,
+                "name": "Miami",
+                "returnWin": 2.2,
                 "returnPlace": 0
             },
             {
-                "name": "UTEP",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Delaware v UTEP",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-16T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Milwaukee VERSES Oakland",
-        "start_time_aest": "2026-01-16T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Milwaukee",
-                "position": "HOME",
-                "short_name": "Milwaukee"
-            },
-            {
-                "full_name": "Oakland",
-                "position": "AWAY",
-                "short_name": "Oakland"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Milwaukee",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            },
-            {
-                "name": "Oakland",
-                "returnWin": 1.74,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Milwaukee v Oakland",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-16T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Northeastern VERSES Elon",
-        "start_time_aest": "2026-01-16T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Northeastern",
-                "position": "HOME",
-                "short_name": "Northeastern"
-            },
-            {
-                "full_name": "Elon",
-                "position": "AWAY",
-                "short_name": "Elon"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Northeastern",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            },
-            {
-                "name": "Elon",
+                "name": "Boston",
                 "returnWin": 1.7,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Northeastern v Elon",
+        "match_name": "Miami v Boston",
         "betOption": "Head To Head",
-        "start_time": "2026-01-16T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Sth Carolina St VERSES Texas Tech",
-        "start_time_aest": "2026-01-16T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Sth Carolina St",
-                "position": "HOME",
-                "short_name": "Sth Carolina St"
-            },
-            {
-                "full_name": "Texas Tech",
-                "position": "AWAY",
-                "short_name": "Texas Tech"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sth Carolina St",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            },
-            {
-                "name": "Texas Tech",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Sth Carolina St v Texas Tech",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-16T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "South Carolina VERSES Texas",
-        "start_time_aest": "2026-01-16T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "South Carolina",
-                "position": "HOME",
-                "short_name": "South Carolina"
-            },
-            {
-                "full_name": "Texas",
-                "position": "AWAY",
-                "short_name": "Texas"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "South Carolina",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            },
-            {
-                "name": "Texas",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "South Carolina v Texas",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-16T00:00:00.000Z"
+        "start_time": "2026-01-16T00:40:00.000Z"
     },
     {
         "contestant_names": "Wu Yize VERSES Xiao Guodong",
