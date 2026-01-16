@@ -66,6 +66,39 @@
         "start_time": "2026-01-16T22:30:00.000Z"
     },
     {
+        "contestant_names": "Erler/Galloway VERSES Olivetti/Arribage",
+        "start_time_aest": "2026-01-17T09:35:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP Doubles",
+        "contestants": [
+            {
+                "full_name": "Erler/Galloway",
+                "position": "HOME",
+                "short_name": "Galloway"
+            },
+            {
+                "full_name": "Olivetti/Arribage",
+                "position": "AWAY",
+                "short_name": "Arribage"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Erler/Galloway",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            },
+            {
+                "name": "Olivetti/Arribage",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Galloway v Arribage",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T22:35:00.000Z"
+    },
+    {
         "contestant_names": "Hofstra VERSES Stony Brook",
         "start_time_aest": "2026-01-17T10:00:00+11:00",
         "sport_name": "Basketball",
@@ -130,5 +163,71 @@
         "match_name": "Providence v Creighton",
         "betOption": "Head To Head",
         "start_time": "2026-01-16T23:30:00.000Z"
+    },
+    {
+        "contestant_names": "Carolina VERSES Florida",
+        "start_time_aest": "2026-01-17T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Carolina",
+                "position": "HOME",
+                "short_name": "Carolina"
+            },
+            {
+                "full_name": "Florida",
+                "position": "AWAY",
+                "short_name": "Florida"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Carolina",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            },
+            {
+                "name": "Florida",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Carolina v Florida",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T00:05:00.000Z"
+    },
+    {
+        "contestant_names": "Detroit VERSES San Jose",
+        "start_time_aest": "2026-01-17T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Detroit",
+                "position": "HOME",
+                "short_name": "Detroit"
+            },
+            {
+                "full_name": "San Jose",
+                "position": "AWAY",
+                "short_name": "San Jose"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Detroit",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            },
+            {
+                "name": "San Jose",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Detroit v San Jose",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T00:05:00.000Z"
     }
 ]
