@@ -1,104 +1,5 @@
 [
     {
-        "contestant_names": "Shandong Honey B VERSES Hubei Culture An",
-        "start_time_aest": "2026-01-16T22:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "China NBL",
-        "contestants": [
-            {
-                "full_name": "Shandong Honey B",
-                "position": "HOME",
-                "short_name": "Shandong Honey B"
-            },
-            {
-                "full_name": "Hubei Culture An",
-                "position": "AWAY",
-                "short_name": "Hubei Culture An"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Shandong Honey B",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            },
-            {
-                "name": "Hubei Culture An",
-                "returnWin": 1.66,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Shandong Honey B v Hubei Culture An",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-16T11:30:00.000Z"
-    },
-    {
-        "contestant_names": "San Mig Beermen VERSES Ginebra Kings",
-        "start_time_aest": "2026-01-16T22:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Philippines PBA Cup",
-        "contestants": [
-            {
-                "full_name": "San Mig Beermen",
-                "position": "HOME",
-                "short_name": "San Mig Beermen"
-            },
-            {
-                "full_name": "Ginebra Kings",
-                "position": "AWAY",
-                "short_name": "Ginebra Kings"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "San Mig Beermen",
-                "returnWin": 1.7,
-                "returnPlace": 0
-            },
-            {
-                "name": "Ginebra Kings",
-                "returnWin": 2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "San Mig Beermen v Ginebra Kings",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-16T11:30:00.000Z"
-    },
-    {
-        "contestant_names": "Dimitris Sakellaridis VERSES Keisuke Saitoh",
-        "start_time_aest": "2026-01-16T22:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Dimitris Sakellaridis",
-                "position": "HOME",
-                "short_name": "Sakellaridis D"
-            },
-            {
-                "full_name": "Keisuke Saitoh",
-                "position": "AWAY",
-                "short_name": "Saitoh K"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Dimitris Sakellaridis",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            },
-            {
-                "name": "Keisuke Saitoh",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Sakellaridis D v Saitoh K",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-16T11:30:00.000Z"
-    },
-    {
         "contestant_names": "Liaoning VERSES Xinjiang Tiansha",
         "start_time_aest": "2026-01-16T22:35:00+11:00",
         "sport_name": "Basketball",
@@ -264,6 +165,72 @@
         "start_time": "2026-01-16T12:00:00.000Z"
     },
     {
+        "contestant_names": "Liam Gavrielides VERSES Jack Loge",
+        "start_time_aest": "2026-01-16T23:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Liam Gavrielides",
+                "position": "HOME",
+                "short_name": "Gavrielides"
+            },
+            {
+                "full_name": "Jack Loge",
+                "position": "AWAY",
+                "short_name": "Loge"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Liam Gavrielides",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            },
+            {
+                "name": "Jack Loge",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Gavrielides v Loge",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T12:00:00.000Z"
+    },
+    {
+        "contestant_names": "Dimitris Sakellaridis VERSES Keisuke Saitoh",
+        "start_time_aest": "2026-01-16T23:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Dimitris Sakellaridis",
+                "position": "HOME",
+                "short_name": "Sakellaridis D"
+            },
+            {
+                "full_name": "Keisuke Saitoh",
+                "position": "AWAY",
+                "short_name": "Saitoh K"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Dimitris Sakellaridis",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            },
+            {
+                "name": "Keisuke Saitoh",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Sakellaridis D v Saitoh K",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T12:00:00.000Z"
+    },
+    {
         "contestant_names": "Wu Yize VERSES Xiao Guodong",
         "start_time_aest": "2026-01-17T00:00:00+11:00",
         "sport_name": "Snooker",
@@ -294,6 +261,39 @@
         ],
         "match_name": "Yize v Guodong",
         "betOption": "Result",
+        "start_time": "2026-01-16T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Seven Districts VERSES Z Sports",
+        "start_time_aest": "2026-01-17T00:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "ICCA Arabian Cricket League",
+        "contestants": [
+            {
+                "full_name": "Seven Districts",
+                "position": "HOME",
+                "short_name": "Seven Districts"
+            },
+            {
+                "full_name": "Z Sports",
+                "position": "AWAY",
+                "short_name": "Z Sports"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Seven Districts",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Z Sports",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Seven Districts v Z Sports",
+        "betOption": "Head To Head",
         "start_time": "2026-01-16T13:00:00.000Z"
     },
     {
