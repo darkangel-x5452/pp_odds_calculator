@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Pavaranukroh D/Paewsampran S VERSES Gicquel T/Delrue D",
-        "start_time_aest": "2026-01-16T17:10:00+11:00",
-        "sport_name": "Badminton",
-        "competition_name": "Badminton World Tour Doubles",
-        "contestants": [
-            {
-                "full_name": "Pavaranukroh D/Paewsampran S",
-                "position": "HOME",
-                "short_name": "Pvrnkrh/Pewsmprn"
-            },
-            {
-                "full_name": "Gicquel T/Delrue D",
-                "position": "AWAY",
-                "short_name": "Gcql T/Dlr D"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Pavaranukroh D/Paewsampran S",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            },
-            {
-                "name": "Gicquel T/Delrue D",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Pvrnkrh/Pewsmprn v Gcql T/Dlr D",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-16T06:10:00.000Z"
-    },
-    {
         "contestant_names": "Christo Popov VERSES Jonatan Christie",
         "start_time_aest": "2026-01-16T17:40:00+11:00",
         "sport_name": "Badminton",
@@ -130,6 +97,39 @@
         "match_name": "Zavatska v Fita Boluda",
         "betOption": "Head To Head",
         "start_time": "2026-01-16T07:30:00.000Z"
+    },
+    {
+        "contestant_names": "Saurashtra VERSES Punjab",
+        "start_time_aest": "2026-01-16T19:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Vijay Hazare Trophy",
+        "contestants": [
+            {
+                "full_name": "Saurashtra",
+                "position": "HOME",
+                "short_name": "Saurashtra"
+            },
+            {
+                "full_name": "Punjab",
+                "position": "AWAY",
+                "short_name": "Punjab"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Saurashtra",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Punjab",
+                "returnWin": 1.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Saurashtra v Punjab",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T08:00:00.000Z"
     },
     {
         "contestant_names": "Wu Yize VERSES Xiao Guodong",
