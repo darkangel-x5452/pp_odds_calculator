@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Bhambri/Goransson VERSES Erler/Galloway",
-        "start_time_aest": "2026-01-16T17:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "contestants": [
-            {
-                "full_name": "Bhambri/Goransson",
-                "position": "HOME",
-                "short_name": "Bhambri/Goransson"
-            },
-            {
-                "full_name": "Erler/Galloway",
-                "position": "AWAY",
-                "short_name": "Erler/Galloway"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Bhambri/Goransson",
-                "returnWin": 1.8,
-                "returnPlace": 0
-            },
-            {
-                "name": "Erler/Galloway",
-                "returnWin": 1.95,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Bhambri/Goransson v Erler/Galloway",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-16T06:00:00.000Z"
-    },
-    {
         "contestant_names": "Pavaranukroh D/Paewsampran S VERSES Gicquel T/Delrue D",
         "start_time_aest": "2026-01-16T17:10:00+11:00",
         "sport_name": "Badminton",
@@ -128,6 +95,39 @@
             }
         ],
         "match_name": "Valkusz v Obradovic D",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T07:30:00.000Z"
+    },
+    {
+        "contestant_names": "Katarina Zavatska VERSES Angela Fita Boluda",
+        "start_time_aest": "2026-01-16T18:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Katarina Zavatska",
+                "position": "HOME",
+                "short_name": "Zavatska"
+            },
+            {
+                "full_name": "Angela Fita Boluda",
+                "position": "AWAY",
+                "short_name": "Fita Boluda"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Katarina Zavatska",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            },
+            {
+                "name": "Angela Fita Boluda",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Zavatska v Fita Boluda",
         "betOption": "Head To Head",
         "start_time": "2026-01-16T07:30:00.000Z"
     },
