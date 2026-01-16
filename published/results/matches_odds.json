@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Wu Yize VERSES Xiao Guodong",
-        "start_time_aest": "2026-01-17T00:10:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "The Masters",
-        "contestants": [
-            {
-                "full_name": "Wu Yize",
-                "position": "HOME",
-                "short_name": "Yize"
-            },
-            {
-                "full_name": "Xiao Guodong",
-                "position": "AWAY",
-                "short_name": "Guodong"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Wu Yize",
-                "returnWin": 1.75,
-                "returnPlace": 0
-            },
-            {
-                "name": "Xiao Guodong",
-                "returnWin": 2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Yize v Guodong",
-        "betOption": "Result",
-        "start_time": "2026-01-16T13:10:00.000Z"
-    },
-    {
         "contestant_names": "Gaziantep VERSES Konya Buyuksehir",
         "start_time_aest": "2026-01-17T01:00:00+11:00",
         "sport_name": "Basketball",
@@ -163,6 +130,39 @@
         "match_name": "Barton H v Kukushkin",
         "betOption": "Head To Head",
         "start_time": "2026-01-16T14:30:00.000Z"
+    },
+    {
+        "contestant_names": "SCM CSU Craiova VERSES Targu Mures",
+        "start_time_aest": "2026-01-17T02:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Romania Divizia A",
+        "contestants": [
+            {
+                "full_name": "SCM CSU Craiova",
+                "position": "HOME",
+                "short_name": "SCM CSU Craiova"
+            },
+            {
+                "full_name": "Targu Mures",
+                "position": "AWAY",
+                "short_name": "Targu Mures"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "SCM CSU Craiova",
+                "returnWin": 1.48,
+                "returnPlace": 0
+            },
+            {
+                "name": "Targu Mures",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "SCM CSU Craiova v Targu Mures",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T15:00:00.000Z"
     },
     {
         "contestant_names": "Neil Robertson VERSES Kyren Wilson",
