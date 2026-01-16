@@ -64,5 +64,71 @@
         "match_name": "Basquete Cearens v Botafogo",
         "betOption": "Head To Head",
         "start_time": "2026-01-16T22:30:00.000Z"
+    },
+    {
+        "contestant_names": "Hofstra VERSES Stony Brook",
+        "start_time_aest": "2026-01-17T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Hofstra",
+                "position": "HOME",
+                "short_name": "Hofstra"
+            },
+            {
+                "full_name": "Stony Brook",
+                "position": "AWAY",
+                "short_name": "Stony Brook"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hofstra",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            },
+            {
+                "name": "Stony Brook",
+                "returnWin": 1.53,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Hofstra v Stony Brook",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Providence VERSES Creighton",
+        "start_time_aest": "2026-01-17T10:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Providence",
+                "position": "HOME",
+                "short_name": "Providence"
+            },
+            {
+                "full_name": "Creighton",
+                "position": "AWAY",
+                "short_name": "Creighton"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Providence",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            },
+            {
+                "name": "Creighton",
+                "returnWin": 1.85,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Providence v Creighton",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T23:30:00.000Z"
     }
 ]
