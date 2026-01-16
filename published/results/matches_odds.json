@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Wu Yize VERSES Xiao Guodong",
-        "start_time_aest": "2026-01-17T00:00:00+11:00",
+        "start_time_aest": "2026-01-17T00:10:00+11:00",
         "sport_name": "Snooker",
         "competition_name": "The Masters",
         "contestants": [
@@ -19,51 +19,150 @@
         "propositions": [
             {
                 "name": "Wu Yize",
-                "returnWin": 1.7,
+                "returnWin": 1.75,
                 "returnPlace": 0
             },
             {
                 "name": "Xiao Guodong",
-                "returnWin": 2.1,
+                "returnWin": 2,
                 "returnPlace": 0
             }
         ],
         "match_name": "Yize v Guodong",
         "betOption": "Result",
-        "start_time": "2026-01-16T13:00:00.000Z"
+        "start_time": "2026-01-16T13:10:00.000Z"
     },
     {
-        "contestant_names": "Seven Districts VERSES Z Sports",
-        "start_time_aest": "2026-01-17T00:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "ICCA Arabian Cricket League",
+        "contestant_names": "Gaziantep VERSES Konya Buyuksehir",
+        "start_time_aest": "2026-01-17T01:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Turkey Federation Cup",
         "contestants": [
             {
-                "full_name": "Seven Districts",
+                "full_name": "Gaziantep",
                 "position": "HOME",
-                "short_name": "Seven Districts"
+                "short_name": "Gaziantep"
             },
             {
-                "full_name": "Z Sports",
+                "full_name": "Konya Buyuksehir",
                 "position": "AWAY",
-                "short_name": "Z Sports"
+                "short_name": "Konya Buyuksehir"
             }
         ],
         "propositions": [
             {
-                "name": "Seven Districts",
-                "returnWin": 2.5,
+                "name": "Gaziantep",
+                "returnWin": 1.48,
                 "returnPlace": 0
             },
             {
-                "name": "Z Sports",
+                "name": "Konya Buyuksehir",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Gaziantep v Konya Buyuksehir",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Bangalore (W) VERSES Gujarat (W)",
+        "start_time_aest": "2026-01-17T01:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Womens Premier League",
+        "contestants": [
+            {
+                "full_name": "Bangalore (W)",
+                "position": "HOME",
+                "short_name": "Bangalore (W)"
+            },
+            {
+                "full_name": "Gujarat (W)",
+                "position": "AWAY",
+                "short_name": "Gujarat (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bangalore (W)",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            },
+            {
+                "name": "Gujarat (W)",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Bangalore (W) v Gujarat (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Andrea Collarini VERSES Juan Pablo Varillas",
+        "start_time_aest": "2026-01-17T01:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Andrea Collarini",
+                "position": "HOME",
+                "short_name": "Collarini A"
+            },
+            {
+                "full_name": "Juan Pablo Varillas",
+                "position": "AWAY",
+                "short_name": "Varillas"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Andrea Collarini",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            },
+            {
+                "name": "Juan Pablo Varillas",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Collarini A v Varillas",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Hynek Barton VERSES Mikhail Kukushkin",
+        "start_time_aest": "2026-01-17T01:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Hynek Barton",
+                "position": "HOME",
+                "short_name": "Barton H"
+            },
+            {
+                "full_name": "Mikhail Kukushkin",
+                "position": "AWAY",
+                "short_name": "Kukushkin"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hynek Barton",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            },
+            {
+                "name": "Mikhail Kukushkin",
                 "returnWin": 1.52,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Seven Districts v Z Sports",
+        "match_name": "Barton H v Kukushkin",
         "betOption": "Head To Head",
-        "start_time": "2026-01-16T13:00:00.000Z"
+        "start_time": "2026-01-16T14:30:00.000Z"
     },
     {
         "contestant_names": "Neil Robertson VERSES Kyren Wilson",
