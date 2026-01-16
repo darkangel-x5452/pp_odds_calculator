@@ -1,269 +1,5 @@
 [
     {
-        "contestant_names": "Harrison/Skupski VERSES Krawietz/Puetz",
-        "start_time_aest": "2026-01-16T12:35:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "contestants": [
-            {
-                "full_name": "Harrison/Skupski",
-                "position": "HOME",
-                "short_name": "Harrison/Skupski"
-            },
-            {
-                "full_name": "Krawietz/Puetz",
-                "position": "AWAY",
-                "short_name": "Krawietz/Puetz"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Harrison/Skupski",
-                "returnWin": 2,
-                "returnPlace": 0
-            },
-            {
-                "name": "Krawietz/Puetz",
-                "returnWin": 1.75,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Harrison/Skupski v Krawietz/Puetz",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-16T01:35:00.000Z"
-    },
-    {
-        "contestant_names": "Chicago VERSES Calgary",
-        "start_time_aest": "2026-01-16T12:38:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Chicago",
-                "position": "HOME",
-                "short_name": "Chicago"
-            },
-            {
-                "full_name": "Calgary",
-                "position": "AWAY",
-                "short_name": "Calgary"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Chicago",
-                "returnWin": 1.85,
-                "returnPlace": 0
-            },
-            {
-                "name": "Calgary",
-                "returnWin": 1.95,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Chicago v Calgary",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-16T01:38:00.000Z"
-    },
-    {
-        "contestant_names": "Dallas VERSES Utah",
-        "start_time_aest": "2026-01-16T12:40:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Dallas",
-                "position": "HOME",
-                "short_name": "Dallas"
-            },
-            {
-                "full_name": "Utah",
-                "position": "AWAY",
-                "short_name": "Utah"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Dallas",
-                "returnWin": 1.7,
-                "returnPlace": 0
-            },
-            {
-                "name": "Utah",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Dallas v Utah",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-16T01:40:00.000Z"
-    },
-    {
-        "contestant_names": "UC Davis VERSES CSU Fullerton",
-        "start_time_aest": "2026-01-16T13:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "UC Davis",
-                "position": "HOME",
-                "short_name": "UC Davis"
-            },
-            {
-                "full_name": "CSU Fullerton",
-                "position": "AWAY",
-                "short_name": "CSU Fullerton"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "UC Davis",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            },
-            {
-                "name": "CSU Fullerton",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "UC Davis v CSU Fullerton",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-16T02:00:00.000Z"
-    },
-    {
-        "contestant_names": "Florida Atlantic VERSES Wichita State",
-        "start_time_aest": "2026-01-16T13:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Florida Atlantic",
-                "position": "HOME",
-                "short_name": "Florida Atlantic"
-            },
-            {
-                "full_name": "Wichita State",
-                "position": "AWAY",
-                "short_name": "Wichita State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Florida Atlantic",
-                "returnWin": 1.53,
-                "returnPlace": 0
-            },
-            {
-                "name": "Wichita State",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Florida Atlantic v Wichita State",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-16T02:00:00.000Z"
-    },
-    {
-        "contestant_names": "Idaho State VERSES Idaho",
-        "start_time_aest": "2026-01-16T13:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Idaho State",
-                "position": "HOME",
-                "short_name": "Idaho State"
-            },
-            {
-                "full_name": "Idaho",
-                "position": "AWAY",
-                "short_name": "Idaho"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Idaho State",
-                "returnWin": 1.74,
-                "returnPlace": 0
-            },
-            {
-                "name": "Idaho",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Idaho State v Idaho",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-16T02:00:00.000Z"
-    },
-    {
-        "contestant_names": "Weber State VERSES EastrnWashington",
-        "start_time_aest": "2026-01-16T13:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Weber State",
-                "position": "HOME",
-                "short_name": "Weber State"
-            },
-            {
-                "full_name": "EastrnWashington",
-                "position": "AWAY",
-                "short_name": "EastrnWashington"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Weber State",
-                "returnWin": 1.53,
-                "returnPlace": 0
-            },
-            {
-                "name": "EastrnWashington",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Weber State v EastrnWashington",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-16T02:00:00.000Z"
-    },
-    {
-        "contestant_names": "USC VERSES Maryland",
-        "start_time_aest": "2026-01-16T13:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "USC",
-                "position": "HOME",
-                "short_name": "USC"
-            },
-            {
-                "full_name": "Maryland",
-                "position": "AWAY",
-                "short_name": "Maryland"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "USC",
-                "returnWin": 1.95,
-                "returnPlace": 0
-            },
-            {
-                "name": "Maryland",
-                "returnWin": 1.8,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "USC v Maryland",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-16T02:00:00.000Z"
-    },
-    {
         "contestant_names": "Utah VERSES Dallas",
         "start_time_aest": "2026-01-16T13:08:00+11:00",
         "sport_name": "Ice Hockey",
@@ -427,6 +163,270 @@
         "match_name": "Las Vegas v Toronto",
         "betOption": "Head To Head",
         "start_time": "2026-01-16T02:44:00.000Z"
+    },
+    {
+        "contestant_names": "Portland State VERSES NorthernColorado",
+        "start_time_aest": "2026-01-16T14:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Portland State",
+                "position": "HOME",
+                "short_name": "Portland State"
+            },
+            {
+                "full_name": "NorthernColorado",
+                "position": "AWAY",
+                "short_name": "NorthernColorado"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Portland State",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            },
+            {
+                "name": "NorthernColorado",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Portland State v NorthernColorado",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Sacramento State VERSES Northern Arizona",
+        "start_time_aest": "2026-01-16T14:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Sacramento State",
+                "position": "HOME",
+                "short_name": "Sacramento State"
+            },
+            {
+                "full_name": "Northern Arizona",
+                "position": "AWAY",
+                "short_name": "Northern Arizona"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sacramento State",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            },
+            {
+                "name": "Northern Arizona",
+                "returnWin": 2.45,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Sacramento State v Northern Arizona",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Hayu Kinoshita VERSES Ekaterina Maklakova",
+        "start_time_aest": "2026-01-16T14:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Hayu Kinoshita",
+                "position": "HOME",
+                "short_name": "Kinoshita"
+            },
+            {
+                "full_name": "Ekaterina Maklakova",
+                "position": "AWAY",
+                "short_name": "Maklakova"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hayu Kinoshita",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            },
+            {
+                "name": "Ekaterina Maklakova",
+                "returnWin": 2.15,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Kinoshita v Maklakova",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Lisa Pigato VERSES Mei Yamaguchi",
+        "start_time_aest": "2026-01-16T14:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Lisa Pigato",
+                "position": "HOME",
+                "short_name": "Pigato"
+            },
+            {
+                "full_name": "Mei Yamaguchi",
+                "position": "AWAY",
+                "short_name": "Yamaguchi M"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lisa Pigato",
+                "returnWin": 1.46,
+                "returnPlace": 0
+            },
+            {
+                "name": "Mei Yamaguchi",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Pigato v Yamaguchi M",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Portland VERSES Atlanta",
+        "start_time_aest": "2026-01-16T14:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Portland",
+                "position": "HOME",
+                "short_name": "Portland"
+            },
+            {
+                "full_name": "Atlanta",
+                "position": "AWAY",
+                "short_name": "Atlanta"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Portland",
+                "returnWin": 2.45,
+                "returnPlace": 0
+            },
+            {
+                "name": "Atlanta",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Portland v Atlanta",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T03:10:00.000Z"
+    },
+    {
+        "contestant_names": "Mexicali VERSES Jalisco",
+        "start_time_aest": "2026-01-16T14:30:00+11:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico LMP",
+        "contestants": [
+            {
+                "full_name": "Mexicali",
+                "position": "HOME",
+                "short_name": "Mexicali"
+            },
+            {
+                "full_name": "Jalisco",
+                "position": "AWAY",
+                "short_name": "Jalisco"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mexicali",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Jalisco",
+                "returnWin": 1.72,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Mexicali v Jalisco",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T03:30:00.000Z"
+    },
+    {
+        "contestant_names": "Challenging Stars VERSES Toyota TGS",
+        "start_time_aest": "2026-01-16T14:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Falcons Champions Trophy T20",
+        "contestants": [
+            {
+                "full_name": "Challenging Stars",
+                "position": "HOME",
+                "short_name": "Challenging Star"
+            },
+            {
+                "full_name": "Toyota TGS",
+                "position": "AWAY",
+                "short_name": "Toyota TGS"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Challenging Stars",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Toyota TGS",
+                "returnWin": 1.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Challenging Star v Toyota TGS",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T03:30:00.000Z"
+    },
+    {
+        "contestant_names": "Bolelli/Vavassori VERSES Heliovaara/Patten",
+        "start_time_aest": "2026-01-16T14:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP Doubles",
+        "contestants": [
+            {
+                "full_name": "Bolelli/Vavassori",
+                "position": "HOME",
+                "short_name": "Bolelli/Vavassori"
+            },
+            {
+                "full_name": "Heliovaara/Patten",
+                "position": "AWAY",
+                "short_name": "Heliovaara/Patten"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bolelli/Vavassori",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            },
+            {
+                "name": "Heliovaara/Patten",
+                "returnWin": 1.72,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Bolelli/Vavassori v Heliovaara/Patten",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T03:30:00.000Z"
     },
     {
         "contestant_names": "Wu Yize VERSES Xiao Guodong",
