@@ -1,36 +1,36 @@
 [
     {
-        "contestant_names": "Christo Popov VERSES Jonatan Christie",
-        "start_time_aest": "2026-01-16T17:40:00+11:00",
-        "sport_name": "Badminton",
-        "competition_name": "Badminton World Tour",
+        "contestant_names": "Nepal (W) VERSES USA (W)",
+        "start_time_aest": "2026-01-16T18:15:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Womens T20 World Cup Warm Up",
         "contestants": [
             {
-                "full_name": "Christo Popov",
+                "full_name": "Nepal (W)",
                 "position": "HOME",
-                "short_name": "Popov C"
+                "short_name": "Nepal (W)"
             },
             {
-                "full_name": "Jonatan Christie",
+                "full_name": "USA (W)",
                 "position": "AWAY",
-                "short_name": "J Christie"
+                "short_name": "USA (W)"
             }
         ],
         "propositions": [
             {
-                "name": "Christo Popov",
-                "returnWin": 2.1,
+                "name": "Nepal (W)",
+                "returnWin": 2,
                 "returnPlace": 0
             },
             {
-                "name": "Jonatan Christie",
-                "returnWin": 1.65,
+                "name": "USA (W)",
+                "returnWin": 1.8,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Popov C v J Christie",
+        "match_name": "Nepal (W) v USA (W)",
         "betOption": "Head To Head",
-        "start_time": "2026-01-16T06:40:00.000Z"
+        "start_time": "2026-01-16T07:15:00.000Z"
     },
     {
         "contestant_names": "Mate Valkusz VERSES Dusan Obradovic",
@@ -128,6 +128,39 @@
             }
         ],
         "match_name": "Saurashtra v Punjab",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-16T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Alejandro Davidovich Fokina VERSES Ugo Humbert",
+        "start_time_aest": "2026-01-16T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "contestants": [
+            {
+                "full_name": "Alejandro Davidovich Fokina",
+                "position": "HOME",
+                "short_name": "Davidvich Fokina"
+            },
+            {
+                "full_name": "Ugo Humbert",
+                "position": "AWAY",
+                "short_name": "Humbert"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alejandro Davidovich Fokina",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            },
+            {
+                "name": "Ugo Humbert",
+                "returnWin": 1.75,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Davidvich Fokina v Humbert",
         "betOption": "Head To Head",
         "start_time": "2026-01-16T08:00:00.000Z"
     },
