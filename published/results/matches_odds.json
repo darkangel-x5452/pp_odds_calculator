@@ -1,71 +1,5 @@
 [
     {
-        "contestant_names": "Yu Fei Chen VERSES Zhi Yi Wang",
-        "start_time_aest": "2026-01-17T16:50:00+11:00",
-        "sport_name": "Badminton",
-        "competition_name": "Badminton World Tour",
-        "contestants": [
-            {
-                "full_name": "Yu Fei Chen",
-                "position": "HOME",
-                "short_name": "Chen YF"
-            },
-            {
-                "full_name": "Zhi Yi Wang",
-                "position": "AWAY",
-                "short_name": "Wang ZY"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Yu Fei Chen",
-                "returnWin": 1.72,
-                "returnPlace": 0
-            },
-            {
-                "name": "Zhi Yi Wang",
-                "returnWin": 2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Chen YF v Wang ZY",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T05:50:00.000Z"
-    },
-    {
-        "contestant_names": "Adelaide VERSES Melb Renegades",
-        "start_time_aest": "2026-01-17T17:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Big Bash",
-        "contestants": [
-            {
-                "full_name": "Adelaide",
-                "position": "HOME",
-                "short_name": "Adelaide"
-            },
-            {
-                "full_name": "Melb Renegades",
-                "position": "AWAY",
-                "short_name": "Melb Renegades"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Adelaide",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            },
-            {
-                "name": "Melb Renegades",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Adelaide v Melb Renegades",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T06:00:00.000Z"
-    },
-    {
         "contestant_names": "Osaka Blazers Sakai VERSES FC Tokyo",
         "start_time_aest": "2026-01-17T17:05:00+11:00",
         "sport_name": "Volleyball",
@@ -196,5 +130,71 @@
         "match_name": "Woori Bank Won v KEB Hana Bank",
         "betOption": "Head To Head",
         "start_time": "2026-01-17T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Dusan Obradovic VERSES Alex Marti Pujolras",
+        "start_time_aest": "2026-01-17T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Dusan Obradovic",
+                "position": "HOME",
+                "short_name": "Obradovic D"
+            },
+            {
+                "full_name": "Alex Marti Pujolras",
+                "position": "AWAY",
+                "short_name": "Marti Pujolras"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Dusan Obradovic",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            },
+            {
+                "name": "Alex Marti Pujolras",
+                "returnWin": 2.15,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Obradovic D v Marti Pujolras",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Alexandr Binda VERSES Daniil Ostapenkov",
+        "start_time_aest": "2026-01-17T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Alexandr Binda",
+                "position": "HOME",
+                "short_name": "Binda A"
+            },
+            {
+                "full_name": "Daniil Ostapenkov",
+                "position": "AWAY",
+                "short_name": "Ostapenkov"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alexandr Binda",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            },
+            {
+                "name": "Daniil Ostapenkov",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Binda A v Ostapenkov",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T08:00:00.000Z"
     }
 ]
