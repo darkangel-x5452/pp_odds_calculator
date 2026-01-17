@@ -1,71 +1,5 @@
 [
     {
-        "contestant_names": "PAOK Saloniki VERSES Pas Janina",
-        "start_time_aest": "2026-01-17T20:45:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Greece A1 Women",
-        "contestants": [
-            {
-                "full_name": "PAOK Saloniki",
-                "position": "HOME",
-                "short_name": "PAOK Saloniki"
-            },
-            {
-                "full_name": "Pas Janina",
-                "position": "AWAY",
-                "short_name": "Pas Janina"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "PAOK Saloniki",
-                "returnWin": 1.95,
-                "returnPlace": 0
-            },
-            {
-                "name": "Pas Janina",
-                "returnWin": 1.73,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "PAOK Saloniki v Pas Janina",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T09:45:00.000Z"
-    },
-    {
-        "contestant_names": "Victor Lai VERSES Chun-Yi Lin",
-        "start_time_aest": "2026-01-17T20:50:00+11:00",
-        "sport_name": "Badminton",
-        "competition_name": "Badminton World Tour",
-        "contestants": [
-            {
-                "full_name": "Victor Lai",
-                "position": "HOME",
-                "short_name": "Lai"
-            },
-            {
-                "full_name": "Chun-Yi Lin",
-                "position": "AWAY",
-                "short_name": "Lin"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Victor Lai",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            },
-            {
-                "name": "Chun-Yi Lin",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Lai v Lin",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T09:50:00.000Z"
-    },
-    {
         "contestant_names": "Melbourne VERSES Tasmania",
         "start_time_aest": "2026-01-17T21:37:00+11:00",
         "sport_name": "Basketball",
@@ -161,6 +95,72 @@
             }
         ],
         "match_name": "Pain v Heroic",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "JD Gaming VERSES Invictus Gaming",
+        "start_time_aest": "2026-01-17T22:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "contestants": [
+            {
+                "full_name": "JD Gaming",
+                "position": "HOME",
+                "short_name": "Jd Gaming"
+            },
+            {
+                "full_name": "Invictus Gaming",
+                "position": "AWAY",
+                "short_name": "Invictus Gaming"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "JD Gaming",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            },
+            {
+                "name": "Invictus Gaming",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Jd Gaming v Invictus Gaming",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Daniel De Jonge VERSES Oskar Brostrom Poulsen",
+        "start_time_aest": "2026-01-17T22:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Daniel De Jonge",
+                "position": "HOME",
+                "short_name": "De Jonge"
+            },
+            {
+                "full_name": "Oskar Brostrom Poulsen",
+                "position": "AWAY",
+                "short_name": "Poulsen"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Daniel De Jonge",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Oskar Brostrom Poulsen",
+                "returnWin": 1.72,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "De Jonge v Poulsen",
         "betOption": "Head To Head",
         "start_time": "2026-01-17T11:00:00.000Z"
     }
