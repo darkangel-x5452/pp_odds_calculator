@@ -1,40 +1,7 @@
 [
     {
-        "contestant_names": "Maximus Jones VERSES Pol Martin Tiffon",
-        "start_time_aest": "2026-01-17T15:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Maximus Jones",
-                "position": "HOME",
-                "short_name": "Jones"
-            },
-            {
-                "full_name": "Pol Martin Tiffon",
-                "position": "AWAY",
-                "short_name": "Martin Tiffon"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Maximus Jones",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Pol Martin Tiffon",
-                "returnWin": 1.46,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Jones v Martin Tiffon",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T04:15:00.000Z"
-    },
-    {
         "contestant_names": "Ugo Humbert VERSES Tomas Machac",
-        "start_time_aest": "2026-01-17T15:30:00+11:00",
+        "start_time_aest": "2026-01-17T15:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP",
         "contestants": [
@@ -52,18 +19,18 @@
         "propositions": [
             {
                 "name": "Ugo Humbert",
-                "returnWin": 1.65,
+                "returnWin": 1.62,
                 "returnPlace": 0
             },
             {
                 "name": "Tomas Machac",
-                "returnWin": 2.15,
+                "returnWin": 2.2,
                 "returnPlace": 0
             }
         ],
         "match_name": "Humbert v Machac",
         "betOption": "Head To Head",
-        "start_time": "2026-01-17T04:30:00.000Z"
+        "start_time": "2026-01-17T04:45:00.000Z"
     },
     {
         "contestant_names": "Busan BNK Sum VERSES Samsung Blue Min",
@@ -229,6 +196,39 @@
         "match_name": "Hitachi (W) v Ageo (W)",
         "betOption": "Head To Head",
         "start_time": "2026-01-17T05:05:00.000Z"
+    },
+    {
+        "contestant_names": "Yu Fei Chen VERSES Zhi Yi Wang",
+        "start_time_aest": "2026-01-17T16:50:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour",
+        "contestants": [
+            {
+                "full_name": "Yu Fei Chen",
+                "position": "HOME",
+                "short_name": "Chen YF"
+            },
+            {
+                "full_name": "Zhi Yi Wang",
+                "position": "AWAY",
+                "short_name": "Wang ZY"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Yu Fei Chen",
+                "returnWin": 1.72,
+                "returnPlace": 0
+            },
+            {
+                "name": "Zhi Yi Wang",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Chen YF v Wang ZY",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T05:50:00.000Z"
     },
     {
         "contestant_names": "Adelaide VERSES Melb Renegades",
