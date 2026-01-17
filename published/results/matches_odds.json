@@ -1,36 +1,36 @@
 [
     {
-        "contestant_names": "ArknsasPineBluff VERSES Florida AM",
-        "start_time_aest": "2026-01-18T10:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "contestant_names": "Otago Sparks (W) VERSES Northern Brave (W)",
+        "start_time_aest": "2026-01-18T10:40:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "NZ Womens Super Smash",
         "contestants": [
             {
-                "full_name": "ArknsasPineBluff",
+                "full_name": "Otago Sparks (W)",
                 "position": "HOME",
-                "short_name": "ArknsasPineBluff"
+                "short_name": "Otago Sparks (W)"
             },
             {
-                "full_name": "Florida AM",
+                "full_name": "Northern Brave (W)",
                 "position": "AWAY",
-                "short_name": "Florida AM"
+                "short_name": "Nthn Brave (W)"
             }
         ],
         "propositions": [
             {
-                "name": "ArknsasPineBluff",
-                "returnWin": 1.65,
+                "name": "Otago Sparks (W)",
+                "returnWin": 1.58,
                 "returnPlace": 0
             },
             {
-                "name": "Florida AM",
-                "returnWin": 2.25,
+                "name": "Northern Brave (W)",
+                "returnWin": 2.3,
                 "returnPlace": 0
             }
         ],
-        "match_name": "ArknsasPineBluff v Florida AM",
+        "match_name": "Otago Sparks (W) v Nthn Brave (W)",
         "betOption": "Head To Head",
-        "start_time": "2026-01-17T23:30:00.000Z"
+        "start_time": "2026-01-17T23:40:00.000Z"
     },
     {
         "contestant_names": "Fresno State VERSES Wyoming",
@@ -260,6 +260,39 @@
             }
         ],
         "match_name": "Putintseva v Haddad Maia",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Dayana Yastremska VERSES Elena-Gabriela Ruse",
+        "start_time_aest": "2026-01-18T11:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Dayana Yastremska",
+                "position": "HOME",
+                "short_name": "Yastremska D"
+            },
+            {
+                "full_name": "Elena-Gabriela Ruse",
+                "position": "AWAY",
+                "short_name": "Ruse E"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Dayana Yastremska",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            },
+            {
+                "name": "Elena-Gabriela Ruse",
+                "returnWin": 2.15,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Yastremska D v Ruse E",
         "betOption": "Head To Head",
         "start_time": "2026-01-18T00:00:00.000Z"
     }
