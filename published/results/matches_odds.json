@@ -1,71 +1,5 @@
 [
     {
-        "contestant_names": "Brooklyn VERSES Chicago",
-        "start_time_aest": "2026-01-17T11:40:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Brooklyn",
-                "position": "HOME",
-                "short_name": "Brooklyn"
-            },
-            {
-                "full_name": "Chicago",
-                "position": "AWAY",
-                "short_name": "Chicago"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Brooklyn",
-                "returnWin": 1.85,
-                "returnPlace": 0
-            },
-            {
-                "name": "Chicago",
-                "returnWin": 2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Brooklyn v Chicago",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T00:40:00.000Z"
-    },
-    {
-        "contestant_names": "Toronto VERSES LA Clippers",
-        "start_time_aest": "2026-01-17T11:40:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Toronto",
-                "position": "HOME",
-                "short_name": "Toronto"
-            },
-            {
-                "full_name": "LA Clippers",
-                "position": "AWAY",
-                "short_name": "LA Clippers"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Toronto",
-                "returnWin": 1.73,
-                "returnPlace": 0
-            },
-            {
-                "name": "LA Clippers",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Toronto v LA Clippers",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T00:40:00.000Z"
-    },
-    {
         "contestant_names": "DePaul VERSES Marquette",
         "start_time_aest": "2026-01-17T12:30:00+11:00",
         "sport_name": "Basketball",
@@ -130,5 +64,38 @@
         "match_name": "Andreeva M v Mboko",
         "betOption": "Head To Head",
         "start_time": "2026-01-17T02:00:00.000Z"
+    },
+    {
+        "contestant_names": "Houston VERSES Minnesota",
+        "start_time_aest": "2026-01-17T13:40:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Houston",
+                "position": "HOME",
+                "short_name": "Houston"
+            },
+            {
+                "full_name": "Minnesota",
+                "position": "AWAY",
+                "short_name": "Minnesota"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Houston",
+                "returnWin": 1.56,
+                "returnPlace": 0
+            },
+            {
+                "name": "Minnesota",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Houston v Minnesota",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T02:40:00.000Z"
     }
 ]
