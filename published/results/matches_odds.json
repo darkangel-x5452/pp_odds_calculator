@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "DePaul VERSES Marquette",
-        "start_time_aest": "2026-01-17T12:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "DePaul",
-                "position": "HOME",
-                "short_name": "DePaul"
-            },
-            {
-                "full_name": "Marquette",
-                "position": "AWAY",
-                "short_name": "Marquette"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "DePaul",
-                "returnWin": 1.67,
-                "returnPlace": 0
-            },
-            {
-                "name": "Marquette",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "DePaul v Marquette",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T01:30:00.000Z"
-    },
-    {
         "contestant_names": "Mirra Andreeva VERSES Victoria Mboko",
         "start_time_aest": "2026-01-17T13:00:00+11:00",
         "sport_name": "Tennis",
@@ -97,5 +64,71 @@
         "match_name": "Houston v Minnesota",
         "betOption": "Head To Head",
         "start_time": "2026-01-17T02:40:00.000Z"
+    },
+    {
+        "contestant_names": "Fangran Tian VERSES Lisa Pigato",
+        "start_time_aest": "2026-01-17T14:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Fangran Tian",
+                "position": "HOME",
+                "short_name": "Tian F"
+            },
+            {
+                "full_name": "Lisa Pigato",
+                "position": "AWAY",
+                "short_name": "Pigato"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Fangran Tian",
+                "returnWin": 1.72,
+                "returnPlace": 0
+            },
+            {
+                "name": "Lisa Pigato",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Tian F v Pigato",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Mexicali VERSES Jalisco",
+        "start_time_aest": "2026-01-17T14:30:00+11:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico LMP",
+        "contestants": [
+            {
+                "full_name": "Mexicali",
+                "position": "HOME",
+                "short_name": "Mexicali"
+            },
+            {
+                "full_name": "Jalisco",
+                "position": "AWAY",
+                "short_name": "Jalisco"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mexicali",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            },
+            {
+                "name": "Jalisco",
+                "returnWin": 1.75,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Mexicali v Jalisco",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T03:30:00.000Z"
     }
 ]
