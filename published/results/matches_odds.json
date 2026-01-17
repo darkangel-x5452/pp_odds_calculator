@@ -1,205 +1,40 @@
 [
     {
-        "contestant_names": "Buffalo VERSES Minnesota",
-        "start_time_aest": "2026-01-18T04:39:00+11:00",
+        "contestant_names": "Philadelphia VERSES NY Rangers",
+        "start_time_aest": "2026-01-18T05:09:00+11:00",
         "sport_name": "Ice Hockey",
         "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "Buffalo",
+                "full_name": "Philadelphia",
                 "position": "HOME",
-                "short_name": "Buffalo"
+                "short_name": "Philadelphia"
             },
             {
-                "full_name": "Minnesota",
+                "full_name": "NY Rangers",
                 "position": "AWAY",
-                "short_name": "Minnesota"
+                "short_name": "NY Rangers"
             }
         ],
         "propositions": [
             {
-                "name": "Buffalo",
-                "returnWin": 1.8,
+                "name": "Philadelphia",
+                "returnWin": 1.75,
                 "returnPlace": 0
             },
             {
-                "name": "Minnesota",
-                "returnWin": 2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Buffalo v Minnesota",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T17:39:00.000Z"
-    },
-    {
-        "contestant_names": "Bertram Tortona VERSES Olimpia Milano",
-        "start_time_aest": "2026-01-18T04:45:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Italy Lega Serie A",
-        "contestants": [
-            {
-                "full_name": "Bertram Tortona",
-                "position": "HOME",
-                "short_name": "Bertram Tortona"
-            },
-            {
-                "full_name": "Olimpia Milano",
-                "position": "AWAY",
-                "short_name": "Olimpia Milano"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Bertram Tortona",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            },
-            {
-                "name": "Olimpia Milano",
-                "returnWin": 1.57,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Bertram Tortona v Olimpia Milano",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T17:45:00.000Z"
-    },
-    {
-        "contestant_names": "Western Carolina VERSES Chattanooga",
-        "start_time_aest": "2026-01-18T05:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Western Carolina",
-                "position": "HOME",
-                "short_name": "Western Carolina"
-            },
-            {
-                "full_name": "Chattanooga",
-                "position": "AWAY",
-                "short_name": "Chattanooga"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Western Carolina",
-                "returnWin": 1.77,
-                "returnPlace": 0
-            },
-            {
-                "name": "Chattanooga",
+                "name": "NY Rangers",
                 "returnWin": 2.05,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Western Carolina v Chattanooga",
+        "match_name": "Philadelphia v NY Rangers",
         "betOption": "Head To Head",
-        "start_time": "2026-01-17T18:00:00.000Z"
-    },
-    {
-        "contestant_names": "Lafayette VERSES Holy Cross",
-        "start_time_aest": "2026-01-18T05:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Lafayette",
-                "position": "HOME",
-                "short_name": "Lafayette"
-            },
-            {
-                "full_name": "Holy Cross",
-                "position": "AWAY",
-                "short_name": "Holy Cross"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Lafayette",
-                "returnWin": 1.74,
-                "returnPlace": 0
-            },
-            {
-                "name": "Holy Cross",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Lafayette v Holy Cross",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T18:00:00.000Z"
-    },
-    {
-        "contestant_names": "Loyola (MD) VERSES Boston Uni",
-        "start_time_aest": "2026-01-18T05:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Loyola (MD)",
-                "position": "HOME",
-                "short_name": "Loyola (MD)"
-            },
-            {
-                "full_name": "Boston Uni",
-                "position": "AWAY",
-                "short_name": "Boston Uni"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Loyola (MD)",
-                "returnWin": 2,
-                "returnPlace": 0
-            },
-            {
-                "name": "Boston Uni",
-                "returnWin": 1.8,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Loyola (MD) v Boston Uni",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T18:00:00.000Z"
-    },
-    {
-        "contestant_names": "Andorra VERSES Cafes Candelas",
-        "start_time_aest": "2026-01-18T05:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Spain ACB Liga",
-        "contestants": [
-            {
-                "full_name": "Andorra",
-                "position": "HOME",
-                "short_name": "Andorra"
-            },
-            {
-                "full_name": "Cafes Candelas",
-                "position": "AWAY",
-                "short_name": "Cafes Candelas"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Andorra",
-                "returnWin": 1.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Cafes Candelas",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Andorra v Cafes Candelas",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T18:00:00.000Z"
+        "start_time": "2026-01-17T18:09:00.000Z"
     },
     {
         "contestant_names": "FURIA Esports VERSES LOUD",
-        "start_time_aest": "2026-01-18T05:00:00+11:00",
+        "start_time_aest": "2026-01-18T05:20:00+11:00",
         "sport_name": "Esports",
         "competition_name": "League of Legends",
         "contestants": [
@@ -228,39 +63,237 @@
         ],
         "match_name": "Furia Esports v Loud",
         "betOption": "Head To Head",
-        "start_time": "2026-01-17T18:00:00.000Z"
+        "start_time": "2026-01-17T18:20:00.000Z"
     },
     {
-        "contestant_names": "Team Heretics VERSES Natus Vincere",
-        "start_time_aest": "2026-01-18T05:00:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "League of Legends",
+        "contestant_names": "Ms Safed VERSES Mcb Maale Admium",
+        "start_time_aest": "2026-01-18T05:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Israel Cup",
         "contestants": [
             {
-                "full_name": "Team Heretics",
+                "full_name": "Ms Safed",
                 "position": "HOME",
-                "short_name": "Heretics"
+                "short_name": "Ms Safed"
             },
             {
-                "full_name": "Natus Vincere",
+                "full_name": "Mcb Maale Admium",
                 "position": "AWAY",
-                "short_name": "Natus Vincere"
+                "short_name": "Mcb Maale Admium"
             }
         ],
         "propositions": [
             {
-                "name": "Team Heretics",
-                "returnWin": 2,
+                "name": "Ms Safed",
+                "returnWin": 1.73,
                 "returnPlace": 0
             },
             {
-                "name": "Natus Vincere",
-                "returnWin": 1.72,
+                "name": "Mcb Maale Admium",
+                "returnWin": 1.95,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Heretics v Natus Vincere",
+        "match_name": "Ms Safed v Mcb Maale Admium",
         "betOption": "Head To Head",
-        "start_time": "2026-01-17T18:00:00.000Z"
+        "start_time": "2026-01-17T18:30:00.000Z"
+    },
+    {
+        "contestant_names": "Czarni Slupsk VERSES Arka Gdynia",
+        "start_time_aest": "2026-01-18T05:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Poland Energa Basket Liga",
+        "contestants": [
+            {
+                "full_name": "Czarni Slupsk",
+                "position": "HOME",
+                "short_name": "Czarni Slupsk"
+            },
+            {
+                "full_name": "Arka Gdynia",
+                "position": "AWAY",
+                "short_name": "Arka Gdynia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Czarni Slupsk",
+                "returnWin": 2.15,
+                "returnPlace": 0
+            },
+            {
+                "name": "Arka Gdynia",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Czarni Slupsk v Arka Gdynia",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T18:30:00.000Z"
+    },
+    {
+        "contestant_names": "Barbads (W) VERSES Windward Isl (W)",
+        "start_time_aest": "2026-01-18T05:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Womens WI Breakout League T20",
+        "contestants": [
+            {
+                "full_name": "Barbads (W)",
+                "position": "HOME",
+                "short_name": "Barbads (W)"
+            },
+            {
+                "full_name": "Windward Isl (W)",
+                "position": "AWAY",
+                "short_name": "Windward Isl (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Barbads (W)",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            },
+            {
+                "name": "Windward Isl (W)",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Barbads (W) v Windward Isl (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T18:30:00.000Z"
+    },
+    {
+        "contestant_names": "Bitterfeld Wolfen VERSES ASV Dachau",
+        "start_time_aest": "2026-01-18T05:30:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "German Bundesliga Mens",
+        "contestants": [
+            {
+                "full_name": "Bitterfeld Wolfen",
+                "position": "HOME",
+                "short_name": "BitterfeldWolfen"
+            },
+            {
+                "full_name": "ASV Dachau",
+                "position": "AWAY",
+                "short_name": "Asv Dachau"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bitterfeld Wolfen",
+                "returnWin": 1.72,
+                "returnPlace": 0
+            },
+            {
+                "name": "ASV Dachau",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "BitterfeldWolfen v Asv Dachau",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T18:30:00.000Z"
+    },
+    {
+        "contestant_names": "Team Vitality VERSES SK Gaming",
+        "start_time_aest": "2026-01-18T05:45:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "contestants": [
+            {
+                "full_name": "Team Vitality",
+                "position": "HOME",
+                "short_name": "Vitality"
+            },
+            {
+                "full_name": "SK Gaming",
+                "position": "AWAY",
+                "short_name": "SK Gaming"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Team Vitality",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            },
+            {
+                "name": "SK Gaming",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Vitality v SK Gaming",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T18:45:00.000Z"
+    },
+    {
+        "contestant_names": "Cedevita VERSES Buducnost Voli",
+        "start_time_aest": "2026-01-18T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "ABA League",
+        "contestants": [
+            {
+                "full_name": "Cedevita",
+                "position": "HOME",
+                "short_name": "Cedevita"
+            },
+            {
+                "full_name": "Buducnost Voli",
+                "position": "AWAY",
+                "short_name": "Buducnost Voli"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Cedevita",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            },
+            {
+                "name": "Buducnost Voli",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Cedevita v Buducnost Voli",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "SC Rasta Vechta VERSES Alba Berlin",
+        "start_time_aest": "2026-01-18T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Germany Bundesliga",
+        "contestants": [
+            {
+                "full_name": "SC Rasta Vechta",
+                "position": "HOME",
+                "short_name": "SC Rasta Vechta"
+            },
+            {
+                "full_name": "Alba Berlin",
+                "position": "AWAY",
+                "short_name": "Alba Berlin"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "SC Rasta Vechta",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Alba Berlin",
+                "returnWin": 1.46,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "SC Rasta Vechta v Alba Berlin",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T19:00:00.000Z"
     }
 ]
