@@ -163,5 +163,71 @@
         "match_name": "Philadelphia v Cleveland",
         "betOption": "Head To Head",
         "start_time": "2026-01-17T00:10:00.000Z"
+    },
+    {
+        "contestant_names": "Welcome VERSES Cordon",
+        "start_time_aest": "2026-01-17T11:15:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Uruguay LUB",
+        "contestants": [
+            {
+                "full_name": "Welcome",
+                "position": "HOME",
+                "short_name": "Welcome"
+            },
+            {
+                "full_name": "Cordon",
+                "position": "AWAY",
+                "short_name": "Cordon"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Welcome",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            },
+            {
+                "name": "Cordon",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Welcome v Cordon",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T00:15:00.000Z"
+    },
+    {
+        "contestant_names": "Brooklyn VERSES Chicago",
+        "start_time_aest": "2026-01-17T11:40:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Brooklyn",
+                "position": "HOME",
+                "short_name": "Brooklyn"
+            },
+            {
+                "full_name": "Chicago",
+                "position": "AWAY",
+                "short_name": "Chicago"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Brooklyn",
+                "returnWin": 1.85,
+                "returnPlace": 0
+            },
+            {
+                "name": "Chicago",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Brooklyn v Chicago",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T00:40:00.000Z"
     }
 ]
