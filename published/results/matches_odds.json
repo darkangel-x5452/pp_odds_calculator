@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Krawietz/Puetz VERSES Heliovaara/Patten",
-        "start_time_aest": "2026-01-17T18:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "contestants": [
-            {
-                "full_name": "Krawietz/Puetz",
-                "position": "HOME",
-                "short_name": "Krawietz/Puetz"
-            },
-            {
-                "full_name": "Heliovaara/Patten",
-                "position": "AWAY",
-                "short_name": "Heliovaara/Patten"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Krawietz/Puetz",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            },
-            {
-                "name": "Heliovaara/Patten",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Krawietz/Puetz v Heliovaara/Patten",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T07:30:00.000Z"
-    },
-    {
         "contestant_names": "Dusan Obradovic VERSES Alex Marti Pujolras",
         "start_time_aest": "2026-01-17T19:00:00+11:00",
         "sport_name": "Tennis",
@@ -295,5 +262,38 @@
         "match_name": "Perth Scorchers v Melbourne Stars",
         "betOption": "Head To Head",
         "start_time": "2026-01-17T09:15:00.000Z"
+    },
+    {
+        "contestant_names": "Warriorz (W) VERSES Mumbai (W)",
+        "start_time_aest": "2026-01-17T20:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Womens Premier League",
+        "contestants": [
+            {
+                "full_name": "Warriorz (W)",
+                "position": "HOME",
+                "short_name": "Warriorz (W)"
+            },
+            {
+                "full_name": "Mumbai (W)",
+                "position": "AWAY",
+                "short_name": "Mumbai (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Warriorz (W)",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            },
+            {
+                "name": "Mumbai (W)",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Warriorz (W) v Mumbai (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T09:30:00.000Z"
     }
 ]
