@@ -1,36 +1,36 @@
 [
     {
-        "contestant_names": "Woori Bank Won VERSES KEB Hana Bank",
-        "start_time_aest": "2026-01-17T18:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "South Korea KBL Women",
+        "contestant_names": "Krawietz/Puetz VERSES Heliovaara/Patten",
+        "start_time_aest": "2026-01-17T18:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP Doubles",
         "contestants": [
             {
-                "full_name": "Woori Bank Won",
+                "full_name": "Krawietz/Puetz",
                 "position": "HOME",
-                "short_name": "Woori Bank Won"
+                "short_name": "Krawietz/Puetz"
             },
             {
-                "full_name": "KEB Hana Bank",
+                "full_name": "Heliovaara/Patten",
                 "position": "AWAY",
-                "short_name": "KEB Hana Bank"
+                "short_name": "Heliovaara/Patten"
             }
         ],
         "propositions": [
             {
-                "name": "Woori Bank Won",
-                "returnWin": 2.15,
+                "name": "Krawietz/Puetz",
+                "returnWin": 2.25,
                 "returnPlace": 0
             },
             {
-                "name": "KEB Hana Bank",
+                "name": "Heliovaara/Patten",
                 "returnWin": 1.6,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Woori Bank Won v KEB Hana Bank",
+        "match_name": "Krawietz/Puetz v Heliovaara/Patten",
         "betOption": "Head To Head",
-        "start_time": "2026-01-17T07:00:00.000Z"
+        "start_time": "2026-01-17T07:30:00.000Z"
     },
     {
         "contestant_names": "Dusan Obradovic VERSES Alex Marti Pujolras",
@@ -163,6 +163,105 @@
         "match_name": "Zanolini v Abdel Aziz",
         "betOption": "Head To Head",
         "start_time": "2026-01-17T08:15:00.000Z"
+    },
+    {
+        "contestant_names": "Guizhou Menglong VERSES Anhui Wenyi",
+        "start_time_aest": "2026-01-17T20:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "China NBL",
+        "contestants": [
+            {
+                "full_name": "Guizhou Menglong",
+                "position": "HOME",
+                "short_name": "Guizhou Menglong"
+            },
+            {
+                "full_name": "Anhui Wenyi",
+                "position": "AWAY",
+                "short_name": "Anhui Wenyi"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Guizhou Menglong",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            },
+            {
+                "name": "Anhui Wenyi",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Guizhou Menglong v Anhui Wenyi",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Bank Of Taiwan VERSES Taiwan Beer",
+        "start_time_aest": "2026-01-17T20:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Taiwan Super Basketball Challenge",
+        "contestants": [
+            {
+                "full_name": "Bank Of Taiwan",
+                "position": "HOME",
+                "short_name": "Bank Of Taiwan"
+            },
+            {
+                "full_name": "Taiwan Beer",
+                "position": "AWAY",
+                "short_name": "Taiwan Beer"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bank Of Taiwan",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Taiwan Beer",
+                "returnWin": 1.57,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Bank Of Taiwan v Taiwan Beer",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Bilibili Gaming VERSES Anyones Legend",
+        "start_time_aest": "2026-01-17T20:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "contestants": [
+            {
+                "full_name": "Bilibili Gaming",
+                "position": "HOME",
+                "short_name": "Bilibili Gaming"
+            },
+            {
+                "full_name": "Anyones Legend",
+                "position": "AWAY",
+                "short_name": "Anyones Legend"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bilibili Gaming",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            },
+            {
+                "name": "Anyones Legend",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Bilibili Gaming v Anyones Legend",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T09:00:00.000Z"
     },
     {
         "contestant_names": "Perth Scorchers VERSES Melbourne Stars",
