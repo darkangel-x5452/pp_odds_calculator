@@ -1,71 +1,5 @@
 [
     {
-        "contestant_names": "Perth Scorchers VERSES Melbourne Stars",
-        "start_time_aest": "2026-01-17T20:15:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Big Bash",
-        "contestants": [
-            {
-                "full_name": "Perth Scorchers",
-                "position": "HOME",
-                "short_name": "Perth Scorchers"
-            },
-            {
-                "full_name": "Melbourne Stars",
-                "position": "AWAY",
-                "short_name": "Melbourne Stars"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Perth Scorchers",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            },
-            {
-                "name": "Melbourne Stars",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Perth Scorchers v Melbourne Stars",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T09:15:00.000Z"
-    },
-    {
-        "contestant_names": "Warriorz (W) VERSES Mumbai (W)",
-        "start_time_aest": "2026-01-17T20:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Womens Premier League",
-        "contestants": [
-            {
-                "full_name": "Warriorz (W)",
-                "position": "HOME",
-                "short_name": "Warriorz (W)"
-            },
-            {
-                "full_name": "Mumbai (W)",
-                "position": "AWAY",
-                "short_name": "Mumbai (W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Warriorz (W)",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            },
-            {
-                "name": "Mumbai (W)",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Warriorz (W) v Mumbai (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T09:30:00.000Z"
-    },
-    {
         "contestant_names": "PAOK Saloniki VERSES Pas Janina",
         "start_time_aest": "2026-01-17T20:45:00+11:00",
         "sport_name": "Basketball",
@@ -130,5 +64,104 @@
         "match_name": "Lai v Lin",
         "betOption": "Head To Head",
         "start_time": "2026-01-17T09:50:00.000Z"
+    },
+    {
+        "contestant_names": "Melbourne VERSES Tasmania",
+        "start_time_aest": "2026-01-17T21:37:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBL",
+        "contestants": [
+            {
+                "full_name": "Melbourne",
+                "position": "HOME",
+                "short_name": "Melbourne"
+            },
+            {
+                "full_name": "Tasmania",
+                "position": "AWAY",
+                "short_name": "Tasmania"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Melbourne",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Tasmania",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Melbourne v Tasmania",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T10:37:00.000Z"
+    },
+    {
+        "contestant_names": "Durban SprGiants VERSES Paarl Royals",
+        "start_time_aest": "2026-01-17T22:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "South Africa T20",
+        "contestants": [
+            {
+                "full_name": "Durban SprGiants",
+                "position": "HOME",
+                "short_name": "Durban SprGiants"
+            },
+            {
+                "full_name": "Paarl Royals",
+                "position": "AWAY",
+                "short_name": "Paarl Royals"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Durban SprGiants",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            },
+            {
+                "name": "Paarl Royals",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Durban SprGiants v Paarl Royals",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "paiN VERSES Heroic",
+        "start_time_aest": "2026-01-17T22:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "contestants": [
+            {
+                "full_name": "paiN",
+                "position": "HOME",
+                "short_name": "Pain"
+            },
+            {
+                "full_name": "Heroic",
+                "position": "AWAY",
+                "short_name": "Heroic"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "paiN",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            },
+            {
+                "name": "Heroic",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Pain v Heroic",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T11:00:00.000Z"
     }
 ]
