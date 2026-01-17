@@ -1,73 +1,238 @@
 [
     {
-        "contestant_names": "Ludwigsburg VERSES Telekom Baskets",
-        "start_time_aest": "2026-01-18T04:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Germany Bundesliga",
+        "contestant_names": "Buffalo VERSES Minnesota",
+        "start_time_aest": "2026-01-18T04:39:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "Ludwigsburg",
+                "full_name": "Buffalo",
                 "position": "HOME",
-                "short_name": "Ludwigsburg"
+                "short_name": "Buffalo"
             },
             {
-                "full_name": "Telekom Baskets",
+                "full_name": "Minnesota",
                 "position": "AWAY",
-                "short_name": "Telekom Baskets"
+                "short_name": "Minnesota"
             }
         ],
         "propositions": [
             {
-                "name": "Ludwigsburg",
-                "returnWin": 1.68,
+                "name": "Buffalo",
+                "returnWin": 1.8,
                 "returnPlace": 0
             },
             {
-                "name": "Telekom Baskets",
+                "name": "Minnesota",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Buffalo v Minnesota",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T17:39:00.000Z"
+    },
+    {
+        "contestant_names": "Bertram Tortona VERSES Olimpia Milano",
+        "start_time_aest": "2026-01-18T04:45:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Italy Lega Serie A",
+        "contestants": [
+            {
+                "full_name": "Bertram Tortona",
+                "position": "HOME",
+                "short_name": "Bertram Tortona"
+            },
+            {
+                "full_name": "Olimpia Milano",
+                "position": "AWAY",
+                "short_name": "Olimpia Milano"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bertram Tortona",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Olimpia Milano",
+                "returnWin": 1.57,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Bertram Tortona v Olimpia Milano",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T17:45:00.000Z"
+    },
+    {
+        "contestant_names": "Western Carolina VERSES Chattanooga",
+        "start_time_aest": "2026-01-18T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Western Carolina",
+                "position": "HOME",
+                "short_name": "Western Carolina"
+            },
+            {
+                "full_name": "Chattanooga",
+                "position": "AWAY",
+                "short_name": "Chattanooga"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Western Carolina",
+                "returnWin": 1.77,
+                "returnPlace": 0
+            },
+            {
+                "name": "Chattanooga",
                 "returnWin": 2.05,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Ludwigsburg v Telekom Baskets",
+        "match_name": "Western Carolina v Chattanooga",
         "betOption": "Head To Head",
-        "start_time": "2026-01-17T17:30:00.000Z"
+        "start_time": "2026-01-17T18:00:00.000Z"
     },
     {
-        "contestant_names": "Bamberg VERSES s.Oliver Baskets",
-        "start_time_aest": "2026-01-18T04:30:00+11:00",
+        "contestant_names": "Lafayette VERSES Holy Cross",
+        "start_time_aest": "2026-01-18T05:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Germany Bundesliga",
+        "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Bamberg",
+                "full_name": "Lafayette",
                 "position": "HOME",
-                "short_name": "Bamberg"
+                "short_name": "Lafayette"
             },
             {
-                "full_name": "s.Oliver Baskets",
+                "full_name": "Holy Cross",
                 "position": "AWAY",
-                "short_name": "s.Oliver Baskets"
+                "short_name": "Holy Cross"
             }
         ],
         "propositions": [
             {
-                "name": "Bamberg",
-                "returnWin": 2.1,
+                "name": "Lafayette",
+                "returnWin": 1.74,
                 "returnPlace": 0
             },
             {
-                "name": "s.Oliver Baskets",
-                "returnWin": 1.65,
+                "name": "Holy Cross",
+                "returnWin": 2.1,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Bamberg v s.Oliver Baskets",
+        "match_name": "Lafayette v Holy Cross",
         "betOption": "Head To Head",
-        "start_time": "2026-01-17T17:30:00.000Z"
+        "start_time": "2026-01-17T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Loyola (MD) VERSES Boston Uni",
+        "start_time_aest": "2026-01-18T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Loyola (MD)",
+                "position": "HOME",
+                "short_name": "Loyola (MD)"
+            },
+            {
+                "full_name": "Boston Uni",
+                "position": "AWAY",
+                "short_name": "Boston Uni"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Loyola (MD)",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Boston Uni",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Loyola (MD) v Boston Uni",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Andorra VERSES Cafes Candelas",
+        "start_time_aest": "2026-01-18T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Spain ACB Liga",
+        "contestants": [
+            {
+                "full_name": "Andorra",
+                "position": "HOME",
+                "short_name": "Andorra"
+            },
+            {
+                "full_name": "Cafes Candelas",
+                "position": "AWAY",
+                "short_name": "Cafes Candelas"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Andorra",
+                "returnWin": 1.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Cafes Candelas",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Andorra v Cafes Candelas",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "FURIA Esports VERSES LOUD",
+        "start_time_aest": "2026-01-18T05:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "contestants": [
+            {
+                "full_name": "FURIA Esports",
+                "position": "HOME",
+                "short_name": "Furia Esports"
+            },
+            {
+                "full_name": "LOUD",
+                "position": "AWAY",
+                "short_name": "Loud"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "FURIA Esports",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            },
+            {
+                "name": "LOUD",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Furia Esports v Loud",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T18:00:00.000Z"
     },
     {
         "contestant_names": "Team Heretics VERSES Natus Vincere",
-        "start_time_aest": "2026-01-18T04:30:00+11:00",
+        "start_time_aest": "2026-01-18T05:00:00+11:00",
         "sport_name": "Esports",
         "competition_name": "League of Legends",
         "contestants": [
@@ -96,39 +261,6 @@
         ],
         "match_name": "Heretics v Natus Vincere",
         "betOption": "Head To Head",
-        "start_time": "2026-01-17T17:30:00.000Z"
-    },
-    {
-        "contestant_names": "Perpignan VERSES Lions",
-        "start_time_aest": "2026-01-18T04:30:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "European Challenge Cup",
-        "contestants": [
-            {
-                "full_name": "Perpignan",
-                "position": "HOME",
-                "short_name": "Perpignan"
-            },
-            {
-                "full_name": "Lions",
-                "position": "AWAY",
-                "short_name": "Lions"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Perpignan",
-                "returnWin": 1.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Lions",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Perpignan v Lions",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T17:30:00.000Z"
+        "start_time": "2026-01-17T18:00:00.000Z"
     }
 ]
