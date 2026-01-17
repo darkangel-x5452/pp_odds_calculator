@@ -1,71 +1,5 @@
 [
     {
-        "contestant_names": "Dallas VERSES Utah",
-        "start_time_aest": "2026-01-18T09:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Dallas",
-                "position": "HOME",
-                "short_name": "Dallas"
-            },
-            {
-                "full_name": "Utah",
-                "position": "AWAY",
-                "short_name": "Utah"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Dallas",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            },
-            {
-                "name": "Utah",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Dallas v Utah",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T22:10:00.000Z"
-    },
-    {
-        "contestant_names": "Utah VERSES Seattle",
-        "start_time_aest": "2026-01-18T09:10:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Utah",
-                "position": "HOME",
-                "short_name": "Utah"
-            },
-            {
-                "full_name": "Seattle",
-                "position": "AWAY",
-                "short_name": "Seattle"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Utah",
-                "returnWin": 1.52,
-                "returnPlace": 0
-            },
-            {
-                "name": "Seattle",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Utah v Seattle",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T22:10:00.000Z"
-    },
-    {
         "contestant_names": "Florida State VERSES Wake Forest",
         "start_time_aest": "2026-01-18T10:00:00+11:00",
         "sport_name": "Basketball",
@@ -130,5 +64,71 @@
         "match_name": "Washington v Michigan State",
         "betOption": "Head To Head",
         "start_time": "2026-01-17T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Jamaica (W) VERSES Guyana (W)",
+        "start_time_aest": "2026-01-18T10:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Womens WI Breakout League T20",
+        "contestants": [
+            {
+                "full_name": "Jamaica (W)",
+                "position": "HOME",
+                "short_name": "Jamaica (W)"
+            },
+            {
+                "full_name": "Guyana (W)",
+                "position": "AWAY",
+                "short_name": "Guyana (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jamaica (W)",
+                "returnWin": 2.15,
+                "returnPlace": 0
+            },
+            {
+                "name": "Guyana (W)",
+                "returnWin": 1.68,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Jamaica (W) v Guyana (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "ArknsasPineBluff VERSES Florida AM",
+        "start_time_aest": "2026-01-18T10:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "ArknsasPineBluff",
+                "position": "HOME",
+                "short_name": "ArknsasPineBluff"
+            },
+            {
+                "full_name": "Florida AM",
+                "position": "AWAY",
+                "short_name": "Florida AM"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "ArknsasPineBluff",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            },
+            {
+                "name": "Florida AM",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "ArknsasPineBluff v Florida AM",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T23:30:00.000Z"
     }
 ]
