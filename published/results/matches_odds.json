@@ -1,299 +1,134 @@
 [
     {
-        "contestant_names": "Shifters VERSES GIANTX",
-        "start_time_aest": "2026-01-18T03:45:00+11:00",
+        "contestant_names": "Ludwigsburg VERSES Telekom Baskets",
+        "start_time_aest": "2026-01-18T04:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Germany Bundesliga",
+        "contestants": [
+            {
+                "full_name": "Ludwigsburg",
+                "position": "HOME",
+                "short_name": "Ludwigsburg"
+            },
+            {
+                "full_name": "Telekom Baskets",
+                "position": "AWAY",
+                "short_name": "Telekom Baskets"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ludwigsburg",
+                "returnWin": 1.68,
+                "returnPlace": 0
+            },
+            {
+                "name": "Telekom Baskets",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Ludwigsburg v Telekom Baskets",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T17:30:00.000Z"
+    },
+    {
+        "contestant_names": "Bamberg VERSES s.Oliver Baskets",
+        "start_time_aest": "2026-01-18T04:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Germany Bundesliga",
+        "contestants": [
+            {
+                "full_name": "Bamberg",
+                "position": "HOME",
+                "short_name": "Bamberg"
+            },
+            {
+                "full_name": "s.Oliver Baskets",
+                "position": "AWAY",
+                "short_name": "s.Oliver Baskets"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bamberg",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            },
+            {
+                "name": "s.Oliver Baskets",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Bamberg v s.Oliver Baskets",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T17:30:00.000Z"
+    },
+    {
+        "contestant_names": "Team Heretics VERSES Natus Vincere",
+        "start_time_aest": "2026-01-18T04:30:00+11:00",
         "sport_name": "Esports",
         "competition_name": "League of Legends",
         "contestants": [
             {
-                "full_name": "Shifters",
+                "full_name": "Team Heretics",
                 "position": "HOME",
-                "short_name": "Shifters"
+                "short_name": "Heretics"
             },
             {
-                "full_name": "GIANTX",
+                "full_name": "Natus Vincere",
                 "position": "AWAY",
-                "short_name": "Giantx"
+                "short_name": "Natus Vincere"
             }
         ],
         "propositions": [
             {
-                "name": "Shifters",
-                "returnWin": 2.4,
+                "name": "Team Heretics",
+                "returnWin": 2,
                 "returnPlace": 0
             },
             {
-                "name": "GIANTX",
+                "name": "Natus Vincere",
+                "returnWin": 1.72,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Heretics v Natus Vincere",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T17:30:00.000Z"
+    },
+    {
+        "contestant_names": "Perpignan VERSES Lions",
+        "start_time_aest": "2026-01-18T04:30:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "European Challenge Cup",
+        "contestants": [
+            {
+                "full_name": "Perpignan",
+                "position": "HOME",
+                "short_name": "Perpignan"
+            },
+            {
+                "full_name": "Lions",
+                "position": "AWAY",
+                "short_name": "Lions"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Perpignan",
                 "returnWin": 1.5,
                 "returnPlace": 0
-            }
-        ],
-        "match_name": "Shifters v Giantx",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T16:45:00.000Z"
-    },
-    {
-        "contestant_names": "BK Opava VERSES BC Brno",
-        "start_time_aest": "2026-01-18T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Czech Republic NBL",
-        "contestants": [
-            {
-                "full_name": "BK Opava",
-                "position": "HOME",
-                "short_name": "BK Opava"
             },
             {
-                "full_name": "BC Brno",
-                "position": "AWAY",
-                "short_name": "BC Brno"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "BK Opava",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            },
-            {
-                "name": "BC Brno",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "BK Opava v BC Brno",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Usti nad Labem VERSES BK Decin",
-        "start_time_aest": "2026-01-18T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Czech Republic NBL",
-        "contestants": [
-            {
-                "full_name": "Usti nad Labem",
-                "position": "HOME",
-                "short_name": "Usti nad Labem"
-            },
-            {
-                "full_name": "BK Decin",
-                "position": "AWAY",
-                "short_name": "BK Decin"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Usti nad Labem",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            },
-            {
-                "name": "BK Decin",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Usti nad Labem v BK Decin",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Dijon VERSES Elan Chalon",
-        "start_time_aest": "2026-01-18T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "France LNB Pro A",
-        "contestants": [
-            {
-                "full_name": "Dijon",
-                "position": "HOME",
-                "short_name": "Dijon"
-            },
-            {
-                "full_name": "Elan Chalon",
-                "position": "AWAY",
-                "short_name": "Elan Chalon"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Dijon",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            },
-            {
-                "name": "Elan Chalon",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Dijon v Elan Chalon",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Canisius VERSES Mount St Marys",
-        "start_time_aest": "2026-01-18T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Canisius",
-                "position": "HOME",
-                "short_name": "Canisius"
-            },
-            {
-                "full_name": "Mount St Marys",
-                "position": "AWAY",
-                "short_name": "Mount St Marys"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Canisius",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            },
-            {
-                "name": "Mount St Marys",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Canisius v Mount St Marys",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "SMU VERSES Virginia",
-        "start_time_aest": "2026-01-18T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "SMU",
-                "position": "HOME",
-                "short_name": "SMU"
-            },
-            {
-                "full_name": "Virginia",
-                "position": "AWAY",
-                "short_name": "Virginia"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "SMU",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            },
-            {
-                "name": "Virginia",
-                "returnWin": 1.74,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "SMU v Virginia",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Basket Bydgoszcz VERSES Contimax Mosir B",
-        "start_time_aest": "2026-01-18T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Poland Energa Basket Women",
-        "contestants": [
-            {
-                "full_name": "Basket Bydgoszcz",
-                "position": "HOME",
-                "short_name": "Basket Bydgoszcz"
-            },
-            {
-                "full_name": "Contimax Mosir B",
-                "position": "AWAY",
-                "short_name": "Contimax Mosir B"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Basket Bydgoszcz",
-                "returnWin": 1.45,
-                "returnPlace": 0
-            },
-            {
-                "name": "Contimax Mosir B",
+                "name": "Lions",
                 "returnWin": 2.5,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Basket Bydgoszcz v Contimax Mosir B",
+        "match_name": "Perpignan v Lions",
         "betOption": "Head To Head",
-        "start_time": "2026-01-17T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Gks Tychy VERSES Resovia Rzeszow",
-        "start_time_aest": "2026-01-18T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Poland First Division",
-        "contestants": [
-            {
-                "full_name": "Gks Tychy",
-                "position": "HOME",
-                "short_name": "Gks Tychy"
-            },
-            {
-                "full_name": "Resovia Rzeszow",
-                "position": "AWAY",
-                "short_name": "Resovia Rzeszow"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Gks Tychy",
-                "returnWin": 1.57,
-                "returnPlace": 0
-            },
-            {
-                "name": "Resovia Rzeszow",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Gks Tychy v Resovia Rzeszow",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Al-Sadd VERSES Al Ahli Qatar",
-        "start_time_aest": "2026-01-18T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Qatar QBL",
-        "contestants": [
-            {
-                "full_name": "Al-Sadd",
-                "position": "HOME",
-                "short_name": "Al-Sadd"
-            },
-            {
-                "full_name": "Al Ahli Qatar",
-                "position": "AWAY",
-                "short_name": "Al Ahli Qatar"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Al-Sadd",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            },
-            {
-                "name": "Al Ahli Qatar",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Al-Sadd v Al Ahli Qatar",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T17:00:00.000Z"
+        "start_time": "2026-01-17T17:30:00.000Z"
     }
 ]
