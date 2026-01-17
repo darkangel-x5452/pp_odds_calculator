@@ -1,104 +1,5 @@
 [
     {
-        "contestant_names": "Calgary VERSES NY Islanders",
-        "start_time_aest": "2026-01-18T07:09:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Calgary",
-                "position": "HOME",
-                "short_name": "Calgary"
-            },
-            {
-                "full_name": "NY Islanders",
-                "position": "AWAY",
-                "short_name": "NY Islanders"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Calgary",
-                "returnWin": 1.8,
-                "returnPlace": 0
-            },
-            {
-                "name": "NY Islanders",
-                "returnWin": 2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Calgary v NY Islanders",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T20:09:00.000Z"
-    },
-    {
-        "contestant_names": "LSU VERSES Missouri",
-        "start_time_aest": "2026-01-18T07:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "LSU",
-                "position": "HOME",
-                "short_name": "LSU"
-            },
-            {
-                "full_name": "Missouri",
-                "position": "AWAY",
-                "short_name": "Missouri"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "LSU",
-                "returnWin": 1.85,
-                "returnPlace": 0
-            },
-            {
-                "name": "Missouri",
-                "returnWin": 1.95,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "LSU v Missouri",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T20:30:00.000Z"
-    },
-    {
-        "contestant_names": "Sanjoanense VERSES Clube Galitos",
-        "start_time_aest": "2026-01-18T07:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Portugal LFB Women",
-        "contestants": [
-            {
-                "full_name": "Sanjoanense",
-                "position": "HOME",
-                "short_name": "Sanjoanense"
-            },
-            {
-                "full_name": "Clube Galitos",
-                "position": "AWAY",
-                "short_name": "Clube Galitos"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sanjoanense",
-                "returnWin": 1.45,
-                "returnPlace": 0
-            },
-            {
-                "name": "Clube Galitos",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Sanjoanense v Clube Galitos",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T20:30:00.000Z"
-    },
-    {
         "contestant_names": "Movistar KOI VERSES G2 Esports",
         "start_time_aest": "2026-01-18T07:45:00+11:00",
         "sport_name": "Esports",
@@ -260,6 +161,72 @@
             }
         ],
         "match_name": "Nicholls State v Lamar",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T21:00:00.000Z"
+    },
+    {
+        "contestant_names": "Alcorn State VERSES Texas Southern",
+        "start_time_aest": "2026-01-18T08:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Alcorn State",
+                "position": "HOME",
+                "short_name": "Alcorn State"
+            },
+            {
+                "full_name": "Texas Southern",
+                "position": "AWAY",
+                "short_name": "Texas Southern"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alcorn State",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            },
+            {
+                "name": "Texas Southern",
+                "returnWin": 1.85,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Alcorn State v Texas Southern",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T21:00:00.000Z"
+    },
+    {
+        "contestant_names": "SC Coimbroes VERSES Basquete De Barc",
+        "start_time_aest": "2026-01-18T08:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Portugal LFB Women",
+        "contestants": [
+            {
+                "full_name": "SC Coimbroes",
+                "position": "HOME",
+                "short_name": "SC Coimbroes"
+            },
+            {
+                "full_name": "Basquete De Barc",
+                "position": "AWAY",
+                "short_name": "Basquete De Barc"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "SC Coimbroes",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            },
+            {
+                "name": "Basquete De Barc",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "SC Coimbroes v Basquete De Barc",
         "betOption": "Head To Head",
         "start_time": "2026-01-17T21:00:00.000Z"
     }
