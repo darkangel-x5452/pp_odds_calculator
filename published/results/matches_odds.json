@@ -1,104 +1,5 @@
 [
     {
-        "contestant_names": "Denver VERSES Buffalo",
-        "start_time_aest": "2026-01-18T08:33:00+11:00",
-        "sport_name": "American Football",
-        "competition_name": "NFL",
-        "contestants": [
-            {
-                "full_name": "Denver",
-                "position": "HOME",
-                "short_name": "Denver"
-            },
-            {
-                "full_name": "Buffalo",
-                "position": "AWAY",
-                "short_name": "Buffalo"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Denver",
-                "returnWin": 1.8,
-                "returnPlace": 0
-            },
-            {
-                "name": "Buffalo",
-                "returnWin": 2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Denver v Buffalo",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T21:33:00.000Z"
-    },
-    {
-        "contestant_names": "UC Davis VERSES UC Irvine",
-        "start_time_aest": "2026-01-18T09:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "UC Davis",
-                "position": "HOME",
-                "short_name": "UC Davis"
-            },
-            {
-                "full_name": "UC Irvine",
-                "position": "AWAY",
-                "short_name": "UC Irvine"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "UC Davis",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            },
-            {
-                "name": "UC Irvine",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "UC Davis v UC Irvine",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T22:00:00.000Z"
-    },
-    {
-        "contestant_names": "Grambling State VERSES Sthrn University",
-        "start_time_aest": "2026-01-18T09:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Grambling State",
-                "position": "HOME",
-                "short_name": "Grambling State"
-            },
-            {
-                "full_name": "Sthrn University",
-                "position": "AWAY",
-                "short_name": "Sthrn University"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Grambling State",
-                "returnWin": 1.8,
-                "returnPlace": 0
-            },
-            {
-                "name": "Sthrn University",
-                "returnWin": 2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Grambling State v Sthrn University",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-17T22:00:00.000Z"
-    },
-    {
         "contestant_names": "Dallas VERSES Utah",
         "start_time_aest": "2026-01-18T09:10:00+11:00",
         "sport_name": "Basketball",
@@ -163,5 +64,71 @@
         "match_name": "Utah v Seattle",
         "betOption": "Head To Head",
         "start_time": "2026-01-17T22:10:00.000Z"
+    },
+    {
+        "contestant_names": "Florida State VERSES Wake Forest",
+        "start_time_aest": "2026-01-18T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Florida State",
+                "position": "HOME",
+                "short_name": "Florida State"
+            },
+            {
+                "full_name": "Wake Forest",
+                "position": "AWAY",
+                "short_name": "Wake Forest"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Florida State",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            },
+            {
+                "name": "Wake Forest",
+                "returnWin": 1.85,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Florida State v Wake Forest",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Washington VERSES Michigan State",
+        "start_time_aest": "2026-01-18T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Washington",
+                "position": "HOME",
+                "short_name": "Washington"
+            },
+            {
+                "full_name": "Michigan State",
+                "position": "AWAY",
+                "short_name": "Michigan State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Washington",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            },
+            {
+                "name": "Michigan State",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Washington v Michigan State",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-17T23:00:00.000Z"
     }
 ]
