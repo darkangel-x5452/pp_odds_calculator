@@ -1,101 +1,134 @@
 [
     {
-        "contestant_names": "Clara Vlasselaer VERSES Urszula Radwanska",
-        "start_time_aest": "2026-01-19T02:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
+        "contestant_names": "Sheffield VERSES London Lions",
+        "start_time_aest": "2026-01-19T03:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "British Basketball League",
         "contestants": [
             {
-                "full_name": "Clara Vlasselaer",
+                "full_name": "Sheffield",
                 "position": "HOME",
-                "short_name": "Vlasselaer"
+                "short_name": "Sheffield"
             },
             {
-                "full_name": "Urszula Radwanska",
+                "full_name": "London Lions",
                 "position": "AWAY",
-                "short_name": "Radwanska U"
+                "short_name": "London Lions"
             }
         ],
         "propositions": [
             {
-                "name": "Clara Vlasselaer",
+                "name": "Sheffield",
+                "returnWin": 2.45,
+                "returnPlace": 0
+            },
+            {
+                "name": "London Lions",
+                "returnWin": 1.48,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Sheffield v London Lions",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "Dinamo Sassari VERSES Napoli",
+        "start_time_aest": "2026-01-19T03:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Italy Lega Serie A",
+        "contestants": [
+            {
+                "full_name": "Dinamo Sassari",
+                "position": "HOME",
+                "short_name": "Dinamo Sassari"
+            },
+            {
+                "full_name": "Napoli",
+                "position": "AWAY",
+                "short_name": "Napoli"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Dinamo Sassari",
+                "returnWin": 1.73,
+                "returnPlace": 0
+            },
+            {
+                "name": "Napoli",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Dinamo Sassari v Napoli",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "Fluxo W7m VERSES Los",
+        "start_time_aest": "2026-01-19T03:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "contestants": [
+            {
+                "full_name": "Fluxo W7m",
+                "position": "HOME",
+                "short_name": "Fluxo W7m"
+            },
+            {
+                "full_name": "Los",
+                "position": "AWAY",
+                "short_name": "Los"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Fluxo W7m",
                 "returnWin": 2.1,
                 "returnPlace": 0
             },
             {
-                "name": "Urszula Radwanska",
+                "name": "Los",
                 "returnWin": 1.65,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Vlasselaer v Radwanska U",
+        "match_name": "Fluxo W7m v Los",
         "betOption": "Head To Head",
-        "start_time": "2026-01-18T15:15:00.000Z"
+        "start_time": "2026-01-18T16:00:00.000Z"
     },
     {
-        "contestant_names": "Konya Buyuksehir VERSES Cayirova Belediy",
-        "start_time_aest": "2026-01-19T02:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Turkey Federation Cup",
+        "contestant_names": "Heretics VERSES Shifters",
+        "start_time_aest": "2026-01-19T03:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
         "contestants": [
             {
-                "full_name": "Konya Buyuksehir",
+                "full_name": "Heretics",
                 "position": "HOME",
-                "short_name": "Konya Buyuksehir"
+                "short_name": "Heretics"
             },
             {
-                "full_name": "Cayirova Belediy",
+                "full_name": "Shifters",
                 "position": "AWAY",
-                "short_name": "Cayirova Belediy"
+                "short_name": "Shifters"
             }
         ],
         "propositions": [
             {
-                "name": "Konya Buyuksehir",
-                "returnWin": 2.3,
+                "name": "Heretics",
+                "returnWin": 2.1,
                 "returnPlace": 0
             },
             {
-                "name": "Cayirova Belediy",
-                "returnWin": 1.52,
+                "name": "Shifters",
+                "returnWin": 1.65,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Konya Buyuksehir v Cayirova Belediy",
+        "match_name": "Heretics v Shifters",
         "betOption": "Head To Head",
-        "start_time": "2026-01-18T15:30:00.000Z"
-    },
-    {
-        "contestant_names": "Thelya Ledain Terrine VERSES Eva Swiderek",
-        "start_time_aest": "2026-01-19T02:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Thelya Ledain Terrine",
-                "position": "HOME",
-                "short_name": "Thelya Ledain Te"
-            },
-            {
-                "full_name": "Eva Swiderek",
-                "position": "AWAY",
-                "short_name": "Eva Swiderek"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Thelya Ledain Terrine",
-                "returnWin": 1.46,
-                "returnPlace": 0
-            },
-            {
-                "name": "Eva Swiderek",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Thelya Ledain Te v Eva Swiderek",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T15:30:00.000Z"
+        "start_time": "2026-01-18T16:00:00.000Z"
     }
 ]
