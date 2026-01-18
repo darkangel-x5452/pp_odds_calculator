@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Emilio Nava VERSES Kyrian Jacquet",
-        "start_time_aest": "2026-01-18T13:15:00+11:00",
+        "start_time_aest": "2026-01-18T13:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Australian Open",
         "contestants": [
@@ -30,7 +30,7 @@
         ],
         "match_name": "Nava v Jacquet",
         "betOption": "Head To Head",
-        "start_time": "2026-01-18T02:15:00.000Z"
+        "start_time": "2026-01-18T02:45:00.000Z"
     },
     {
         "contestant_names": "Oklahoma State VERSES Kansas State",
@@ -130,5 +130,137 @@
         "match_name": "Orlov A v Cui J",
         "betOption": "Head To Head",
         "start_time": "2026-01-18T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Sanhui Shin VERSES Hiroki Moriya",
+        "start_time_aest": "2026-01-18T14:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Sanhui Shin",
+                "position": "HOME",
+                "short_name": "Shin S"
+            },
+            {
+                "full_name": "Hiroki Moriya",
+                "position": "AWAY",
+                "short_name": "Moriya H"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sanhui Shin",
+                "returnWin": 2.15,
+                "returnPlace": 0
+            },
+            {
+                "name": "Hiroki Moriya",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Shin S v Moriya H",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Lisa Pigato VERSES Hiromi Abe",
+        "start_time_aest": "2026-01-18T14:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Lisa Pigato",
+                "position": "HOME",
+                "short_name": "Pigato"
+            },
+            {
+                "full_name": "Hiromi Abe",
+                "position": "AWAY",
+                "short_name": "Abe H"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lisa Pigato",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            },
+            {
+                "name": "Hiromi Abe",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Pigato v Abe H",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Vancouver VERSES Edmonton",
+        "start_time_aest": "2026-01-18T14:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Vancouver",
+                "position": "HOME",
+                "short_name": "Vancouver"
+            },
+            {
+                "full_name": "Edmonton",
+                "position": "AWAY",
+                "short_name": "Edmonton"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Vancouver",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            },
+            {
+                "name": "Edmonton",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Vancouver v Edmonton",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T03:05:00.000Z"
+    },
+    {
+        "contestant_names": "Anaheim VERSES Los Angeles",
+        "start_time_aest": "2026-01-18T14:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Anaheim",
+                "position": "HOME",
+                "short_name": "Anaheim"
+            },
+            {
+                "full_name": "Los Angeles",
+                "position": "AWAY",
+                "short_name": "Los Angeles"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Anaheim",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            },
+            {
+                "name": "Los Angeles",
+                "returnWin": 1.75,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Anaheim v Los Angeles",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T03:05:00.000Z"
     }
 ]
