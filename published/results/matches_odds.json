@@ -130,5 +130,104 @@
         "match_name": "Gimnasia Y Esgri v Carril Oes Pic",
         "betOption": "Head To Head",
         "start_time": "2026-01-18T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Washington VERSES Minnesota",
+        "start_time_aest": "2026-01-19T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Washington",
+                "position": "HOME",
+                "short_name": "Washington"
+            },
+            {
+                "full_name": "Minnesota",
+                "position": "AWAY",
+                "short_name": "Minnesota"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Washington",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Minnesota",
+                "returnWin": 1.75,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Washington v Minnesota",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Colon VERSES Rivadavia De Men",
+        "start_time_aest": "2026-01-19T10:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Colon",
+                "position": "HOME",
+                "short_name": "Colon"
+            },
+            {
+                "full_name": "Rivadavia De Men",
+                "position": "AWAY",
+                "short_name": "Rivadavia De Men"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Colon",
+                "returnWin": 1.48,
+                "returnPlace": 0
+            },
+            {
+                "name": "Rivadavia De Men",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Colon v Rivadavia De Men",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T23:30:00.000Z"
+    },
+    {
+        "contestant_names": "Barrio Parque VERSES San Isidro",
+        "start_time_aest": "2026-01-19T10:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Barrio Parque",
+                "position": "HOME",
+                "short_name": "Barrio Parque"
+            },
+            {
+                "full_name": "San Isidro",
+                "position": "AWAY",
+                "short_name": "San Isidro"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Barrio Parque",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            },
+            {
+                "name": "San Isidro",
+                "returnWin": 2.15,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Barrio Parque v San Isidro",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T23:30:00.000Z"
     }
 ]
