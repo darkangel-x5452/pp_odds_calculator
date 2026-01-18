@@ -1,35 +1,101 @@
 [
     {
-        "contestant_names": "Clement Deleersnyder VERSES Leo Deflandre",
-        "start_time_aest": "2026-01-18T22:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
+        "contestant_names": "Tianjin VERSES Nanjing Monkey K",
+        "start_time_aest": "2026-01-18T22:35:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "China CBA",
         "contestants": [
             {
-                "full_name": "Clement Deleersnyder",
+                "full_name": "Tianjin",
                 "position": "HOME",
-                "short_name": "Deleersnyder"
+                "short_name": "Tianjin"
             },
             {
-                "full_name": "Leo Deflandre",
+                "full_name": "Nanjing Monkey K",
                 "position": "AWAY",
-                "short_name": "Deflandre"
+                "short_name": "Nanjing Monkey K"
             }
         ],
         "propositions": [
             {
-                "name": "Clement Deleersnyder",
-                "returnWin": 1.72,
+                "name": "Tianjin",
+                "returnWin": 1.66,
                 "returnPlace": 0
             },
             {
-                "name": "Leo Deflandre",
-                "returnWin": 2,
+                "name": "Nanjing Monkey K",
+                "returnWin": 2.05,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Deleersnyder v Deflandre",
+        "match_name": "Tianjin v Nanjing Monkey K",
         "betOption": "Head To Head",
-        "start_time": "2026-01-18T11:15:00.000Z"
+        "start_time": "2026-01-18T11:35:00.000Z"
+    },
+    {
+        "contestant_names": "Tapiolan Honka VERSES Hba-marsky",
+        "start_time_aest": "2026-01-18T23:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Finland Korisliiga Women",
+        "contestants": [
+            {
+                "full_name": "Tapiolan Honka",
+                "position": "HOME",
+                "short_name": "Tapiolan Honka"
+            },
+            {
+                "full_name": "Hba-marsky",
+                "position": "AWAY",
+                "short_name": "Hba-marsky"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tapiolan Honka",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Hba-marsky",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Tapiolan Honka v Hba-marsky",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T12:00:00.000Z"
+    },
+    {
+        "contestant_names": "Islas Canarias VERSES Ae Sedis",
+        "start_time_aest": "2026-01-18T23:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Spain Liga Women",
+        "contestants": [
+            {
+                "full_name": "Islas Canarias",
+                "position": "HOME",
+                "short_name": "Islas Canarias"
+            },
+            {
+                "full_name": "Ae Sedis",
+                "position": "AWAY",
+                "short_name": "Ae Sedis"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Islas Canarias",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Ae Sedis",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Islas Canarias v Ae Sedis",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T12:00:00.000Z"
     }
 ]
