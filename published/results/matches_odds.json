@@ -1,104 +1,5 @@
 [
     {
-        "contestant_names": "Julia Stusek VERSES Ariana Arseneault",
-        "start_time_aest": "2026-01-18T20:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Julia Stusek",
-                "position": "HOME",
-                "short_name": "Stusek"
-            },
-            {
-                "full_name": "Ariana Arseneault",
-                "position": "AWAY",
-                "short_name": "Arseneault A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Julia Stusek",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            },
-            {
-                "name": "Ariana Arseneault",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Stusek v Arseneault A",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T09:15:00.000Z"
-    },
-    {
-        "contestant_names": "Gorilla XI VERSES Dubai Wanderers",
-        "start_time_aest": "2026-01-18T20:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "ICCA Arabian Cricket League",
-        "contestants": [
-            {
-                "full_name": "Gorilla XI",
-                "position": "HOME",
-                "short_name": "Gorilla Xi"
-            },
-            {
-                "full_name": "Dubai Wanderers",
-                "position": "AWAY",
-                "short_name": "Dubai Wanderers"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Gorilla XI",
-                "returnWin": 2,
-                "returnPlace": 0
-            },
-            {
-                "name": "Dubai Wanderers",
-                "returnWin": 1.8,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Gorilla Xi v Dubai Wanderers",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T09:30:00.000Z"
-    },
-    {
-        "contestant_names": "Max Houkes VERSES Niels Visker",
-        "start_time_aest": "2026-01-18T20:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Max Houkes",
-                "position": "HOME",
-                "short_name": "Houkes"
-            },
-            {
-                "full_name": "Niels Visker",
-                "position": "AWAY",
-                "short_name": "Visker"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Max Houkes",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            },
-            {
-                "name": "Niels Visker",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Houkes v Visker",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T09:30:00.000Z"
-    },
-    {
         "contestant_names": "Pacific Caesar S VERSES Rajawali Medan",
         "start_time_aest": "2026-01-18T21:00:00+11:00",
         "sport_name": "Basketball",
@@ -229,5 +130,38 @@
         "match_name": "Zick v De Jonge",
         "betOption": "Head To Head",
         "start_time": "2026-01-18T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Celine Naef VERSES Elizara Yaneva",
+        "start_time_aest": "2026-01-18T21:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Celine Naef",
+                "position": "HOME",
+                "short_name": "Naef C"
+            },
+            {
+                "full_name": "Elizara Yaneva",
+                "position": "AWAY",
+                "short_name": "Yaneva"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Celine Naef",
+                "returnWin": 1.68,
+                "returnPlace": 0
+            },
+            {
+                "name": "Elizara Yaneva",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Naef C v Yaneva",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T10:30:00.000Z"
     }
 ]
