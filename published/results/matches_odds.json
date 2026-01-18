@@ -1,71 +1,5 @@
 [
     {
-        "contestant_names": "Gimnasia Y Esgri VERSES Carril Oes Pic",
-        "start_time_aest": "2026-01-19T10:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga Nacional de Basket",
-        "contestants": [
-            {
-                "full_name": "Gimnasia Y Esgri",
-                "position": "HOME",
-                "short_name": "Gimnasia Y Esgri"
-            },
-            {
-                "full_name": "Carril Oes Pic",
-                "position": "AWAY",
-                "short_name": "Carril Oes Pic"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Gimnasia Y Esgri",
-                "returnWin": 1.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Carril Oes Pic",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Gimnasia Y Esgri v Carril Oes Pic",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T23:00:00.000Z"
-    },
-    {
-        "contestant_names": "Washington VERSES Minnesota",
-        "start_time_aest": "2026-01-19T10:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Washington",
-                "position": "HOME",
-                "short_name": "Washington"
-            },
-            {
-                "full_name": "Minnesota",
-                "position": "AWAY",
-                "short_name": "Minnesota"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Washington",
-                "returnWin": 2,
-                "returnPlace": 0
-            },
-            {
-                "name": "Minnesota",
-                "returnWin": 1.75,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Washington v Minnesota",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T23:00:00.000Z"
-    },
-    {
         "contestant_names": "Colon VERSES Rivadavia De Men",
         "start_time_aest": "2026-01-19T10:30:00+11:00",
         "sport_name": "Basketball",
@@ -130,5 +64,71 @@
         "match_name": "Barrio Parque v San Isidro",
         "betOption": "Head To Head",
         "start_time": "2026-01-18T23:30:00.000Z"
+    },
+    {
+        "contestant_names": "Quentin Halys VERSES Alejandro Tabilo",
+        "start_time_aest": "2026-01-19T11:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Quentin Halys",
+                "position": "HOME",
+                "short_name": "Halys"
+            },
+            {
+                "full_name": "Alejandro Tabilo",
+                "position": "AWAY",
+                "short_name": "Tabilo A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Quentin Halys",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            },
+            {
+                "name": "Alejandro Tabilo",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Halys v Tabilo A",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Ann Li VERSES Maria Camila Osorio Serrano",
+        "start_time_aest": "2026-01-19T11:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Ann Li",
+                "position": "HOME",
+                "short_name": "Li A"
+            },
+            {
+                "full_name": "Maria Camila Osorio Serrano",
+                "position": "AWAY",
+                "short_name": "Osorio Serrano"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ann Li",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            },
+            {
+                "name": "Maria Camila Osorio Serrano",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Li A v Osorio Serrano",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T00:00:00.000Z"
     }
 ]
