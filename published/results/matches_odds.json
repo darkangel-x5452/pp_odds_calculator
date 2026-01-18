@@ -1,203 +1,5 @@
 [
     {
-        "contestant_names": "Vancouver VERSES Edmonton",
-        "start_time_aest": "2026-01-18T14:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Vancouver",
-                "position": "HOME",
-                "short_name": "Vancouver"
-            },
-            {
-                "full_name": "Edmonton",
-                "position": "AWAY",
-                "short_name": "Edmonton"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Vancouver",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            },
-            {
-                "name": "Edmonton",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Vancouver v Edmonton",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T03:05:00.000Z"
-    },
-    {
-        "contestant_names": "Anaheim VERSES Los Angeles",
-        "start_time_aest": "2026-01-18T14:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Anaheim",
-                "position": "HOME",
-                "short_name": "Anaheim"
-            },
-            {
-                "full_name": "Los Angeles",
-                "position": "AWAY",
-                "short_name": "Los Angeles"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Anaheim",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            },
-            {
-                "name": "Los Angeles",
-                "returnWin": 1.75,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Anaheim v Los Angeles",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T03:05:00.000Z"
-    },
-    {
-        "contestant_names": "Portland VERSES LA Lakers",
-        "start_time_aest": "2026-01-18T14:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Portland",
-                "position": "HOME",
-                "short_name": "Portland"
-            },
-            {
-                "full_name": "LA Lakers",
-                "position": "AWAY",
-                "short_name": "LA Lakers"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Portland",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            },
-            {
-                "name": "LA Lakers",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Portland v LA Lakers",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T03:10:00.000Z"
-    },
-    {
-        "contestant_names": "Patrick Kypson VERSES Francisco Comesana",
-        "start_time_aest": "2026-01-18T14:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open",
-        "contestants": [
-            {
-                "full_name": "Patrick Kypson",
-                "position": "HOME",
-                "short_name": "Kypson"
-            },
-            {
-                "full_name": "Francisco Comesana",
-                "position": "AWAY",
-                "short_name": "Comesana"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Patrick Kypson",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            },
-            {
-                "name": "Francisco Comesana",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Kypson v Comesana",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T03:15:00.000Z"
-    },
-    {
-        "contestant_names": "Emilio Nava VERSES Kyrian Jacquet",
-        "start_time_aest": "2026-01-18T14:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open",
-        "contestants": [
-            {
-                "full_name": "Emilio Nava",
-                "position": "HOME",
-                "short_name": "Nava"
-            },
-            {
-                "full_name": "Kyrian Jacquet",
-                "position": "AWAY",
-                "short_name": "Jacquet"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Emilio Nava",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            },
-            {
-                "name": "Kyrian Jacquet",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Nava v Jacquet",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T03:15:00.000Z"
-    },
-    {
-        "contestant_names": "Otago Volts VERSES Northern Brave",
-        "start_time_aest": "2026-01-18T14:25:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "NZ Super Smash",
-        "contestants": [
-            {
-                "full_name": "Otago Volts",
-                "position": "HOME",
-                "short_name": "Otago"
-            },
-            {
-                "full_name": "Northern Brave",
-                "position": "AWAY",
-                "short_name": "Northern Brave"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Otago Volts",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            },
-            {
-                "name": "Northern Brave",
-                "returnWin": 1.75,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Otago v Northern Brave",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T03:25:00.000Z"
-    },
-    {
         "contestant_names": "Liam Draxl VERSES Damir Dzumhur",
         "start_time_aest": "2026-01-18T15:00:00+11:00",
         "sport_name": "Tennis",
@@ -264,6 +66,72 @@
         "start_time": "2026-01-18T04:30:00.000Z"
     },
     {
+        "contestant_names": "Moerani Bouzige VERSES Hyeon Chung",
+        "start_time_aest": "2026-01-18T15:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Moerani Bouzige",
+                "position": "HOME",
+                "short_name": "Bouzige"
+            },
+            {
+                "full_name": "Hyeon Chung",
+                "position": "AWAY",
+                "short_name": "Chung H"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Moerani Bouzige",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Hyeon Chung",
+                "returnWin": 1.45,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Bouzige v Chung H",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T04:30:00.000Z"
+    },
+    {
+        "contestant_names": "Yannick Hanfmann VERSES Zachary Svajda",
+        "start_time_aest": "2026-01-18T15:40:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Yannick Hanfmann",
+                "position": "HOME",
+                "short_name": "Hanfmann Y"
+            },
+            {
+                "full_name": "Zachary Svajda",
+                "position": "AWAY",
+                "short_name": "Svajda Z"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Yannick Hanfmann",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            },
+            {
+                "name": "Zachary Svajda",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Hanfmann Y v Svajda Z",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T04:40:00.000Z"
+    },
+    {
         "contestant_names": "Alexander Blockx VERSES Jaime Faria",
         "start_time_aest": "2026-01-18T16:00:00+11:00",
         "sport_name": "Tennis",
@@ -295,5 +163,104 @@
         "match_name": "Blockx A v Faria J",
         "betOption": "Head To Head",
         "start_time": "2026-01-18T05:00:00.000Z"
+    },
+    {
+        "contestant_names": "Chungwa Tel VERSES Taiwan Power",
+        "start_time_aest": "2026-01-18T16:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Taiwan WSBL Women",
+        "contestants": [
+            {
+                "full_name": "Chungwa Tel",
+                "position": "HOME",
+                "short_name": "Chungwa Tel"
+            },
+            {
+                "full_name": "Taiwan Power",
+                "position": "AWAY",
+                "short_name": "Taiwan Power"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Chungwa Tel",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            },
+            {
+                "name": "Taiwan Power",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Chungwa Tel v Taiwan Power",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T05:00:00.000Z"
+    },
+    {
+        "contestant_names": "Osaka Blazers Sakai VERSES FC Tokyo",
+        "start_time_aest": "2026-01-18T16:05:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "Japan V League",
+        "contestants": [
+            {
+                "full_name": "Osaka Blazers Sakai",
+                "position": "HOME",
+                "short_name": "Osaka Blazers"
+            },
+            {
+                "full_name": "FC Tokyo",
+                "position": "AWAY",
+                "short_name": "FC Tokyo"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Osaka Blazers Sakai",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            },
+            {
+                "name": "FC Tokyo",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Osaka Blazers v FC Tokyo",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T05:05:00.000Z"
+    },
+    {
+        "contestant_names": "Himeji Victorina (W) VERSES PFU Bluecats (W)",
+        "start_time_aest": "2026-01-18T16:05:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "Japan V Premier League (W)",
+        "contestants": [
+            {
+                "full_name": "Himeji Victorina (W)",
+                "position": "HOME",
+                "short_name": "Himeji Victo (W)"
+            },
+            {
+                "full_name": "PFU Bluecats (W)",
+                "position": "AWAY",
+                "short_name": "PFU Bluecats (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Himeji Victorina (W)",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            },
+            {
+                "name": "PFU Bluecats (W)",
+                "returnWin": 1.75,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Himeji Victo (W) v PFU Bluecats (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T05:05:00.000Z"
     }
 ]
