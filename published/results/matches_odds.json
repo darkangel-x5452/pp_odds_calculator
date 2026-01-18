@@ -1,40 +1,7 @@
 [
     {
-        "contestant_names": "Brisbane Heat VERSES Sydney Sixers",
-        "start_time_aest": "2026-01-18T19:15:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Big Bash",
-        "contestants": [
-            {
-                "full_name": "Brisbane Heat",
-                "position": "HOME",
-                "short_name": "Brisbane Heat"
-            },
-            {
-                "full_name": "Sydney Sixers",
-                "position": "AWAY",
-                "short_name": "Sydney Sixers"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Brisbane Heat",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            },
-            {
-                "name": "Sydney Sixers",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Brisbane Heat v Sydney Sixers",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T08:15:00.000Z"
-    },
-    {
         "contestant_names": "Anastasia Pavlyuchenkova VERSES Zhoxuan Bai",
-        "start_time_aest": "2026-01-18T19:15:00+11:00",
+        "start_time_aest": "2026-01-18T19:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Australian Open",
         "contestants": [
@@ -63,7 +30,7 @@
         ],
         "match_name": "Pavlyuchenkova v Bai",
         "betOption": "Head To Head",
-        "start_time": "2026-01-18T08:15:00.000Z"
+        "start_time": "2026-01-18T08:45:00.000Z"
     },
     {
         "contestant_names": "Lukas Pokorny VERSES Florian Broska",
@@ -163,5 +130,104 @@
         "match_name": "Gorilla Xi v Dubai Wanderers",
         "betOption": "Head To Head",
         "start_time": "2026-01-18T09:30:00.000Z"
+    },
+    {
+        "contestant_names": "Max Houkes VERSES Niels Visker",
+        "start_time_aest": "2026-01-18T20:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Max Houkes",
+                "position": "HOME",
+                "short_name": "Houkes"
+            },
+            {
+                "full_name": "Niels Visker",
+                "position": "AWAY",
+                "short_name": "Visker"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Max Houkes",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            },
+            {
+                "name": "Niels Visker",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Houkes v Visker",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T09:30:00.000Z"
+    },
+    {
+        "contestant_names": "Pacific Caesar S VERSES Rajawali Medan",
+        "start_time_aest": "2026-01-18T21:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Indonesian Basketball League",
+        "contestants": [
+            {
+                "full_name": "Pacific Caesar S",
+                "position": "HOME",
+                "short_name": "Pacific Caesar S"
+            },
+            {
+                "full_name": "Rajawali Medan",
+                "position": "AWAY",
+                "short_name": "Rajawali Medan"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Pacific Caesar S",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            },
+            {
+                "name": "Rajawali Medan",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Pacific Caesar S v Rajawali Medan",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Gernika Bizkaia VERSES Porta Xi Ensino",
+        "start_time_aest": "2026-01-18T21:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Spain Liga Women",
+        "contestants": [
+            {
+                "full_name": "Gernika Bizkaia",
+                "position": "HOME",
+                "short_name": "Gernika Bizkaia"
+            },
+            {
+                "full_name": "Porta Xi Ensino",
+                "position": "AWAY",
+                "short_name": "Porta Xi Ensino"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Gernika Bizkaia",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            },
+            {
+                "name": "Porta Xi Ensino",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Gernika Bizkaia v Porta Xi Ensino",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T10:00:00.000Z"
     }
 ]
