@@ -1,101 +1,134 @@
 [
     {
-        "contestant_names": "Tianjin VERSES Nanjing Monkey K",
-        "start_time_aest": "2026-01-18T22:35:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "China CBA",
+        "contestant_names": "Sarah Van Emst VERSES Sarah Melany Fajmonova",
+        "start_time_aest": "2026-01-18T23:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
         "contestants": [
             {
-                "full_name": "Tianjin",
+                "full_name": "Sarah Van Emst",
                 "position": "HOME",
-                "short_name": "Tianjin"
+                "short_name": "Van Emst"
             },
             {
-                "full_name": "Nanjing Monkey K",
+                "full_name": "Sarah Melany Fajmonova",
                 "position": "AWAY",
-                "short_name": "Nanjing Monkey K"
+                "short_name": "Fajmonova"
             }
         ],
         "propositions": [
             {
-                "name": "Tianjin",
+                "name": "Sarah Van Emst",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            },
+            {
+                "name": "Sarah Melany Fajmonova",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Van Emst v Fajmonova",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T12:45:00.000Z"
+    },
+    {
+        "contestant_names": "Arka Gdynia VERSES AZS Poznan",
+        "start_time_aest": "2026-01-19T00:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Poland Energa Basket Women",
+        "contestants": [
+            {
+                "full_name": "Arka Gdynia",
+                "position": "HOME",
+                "short_name": "Arka Gdynia"
+            },
+            {
+                "full_name": "AZS Poznan",
+                "position": "AWAY",
+                "short_name": "AZS Poznan"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Arka Gdynia",
                 "returnWin": 1.66,
                 "returnPlace": 0
             },
             {
-                "name": "Nanjing Monkey K",
+                "name": "AZS Poznan",
                 "returnWin": 2.05,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Tianjin v Nanjing Monkey K",
+        "match_name": "Arka Gdynia v AZS Poznan",
         "betOption": "Head To Head",
-        "start_time": "2026-01-18T11:35:00.000Z"
+        "start_time": "2026-01-18T13:00:00.000Z"
     },
     {
-        "contestant_names": "Tapiolan Honka VERSES Hba-marsky",
-        "start_time_aest": "2026-01-18T23:00:00+11:00",
+        "contestant_names": "Aik VERSES Malbas",
+        "start_time_aest": "2026-01-19T00:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Finland Korisliiga Women",
+        "competition_name": "Sweden Superettan",
         "contestants": [
             {
-                "full_name": "Tapiolan Honka",
+                "full_name": "Aik",
                 "position": "HOME",
-                "short_name": "Tapiolan Honka"
+                "short_name": "Aik"
             },
             {
-                "full_name": "Hba-marsky",
+                "full_name": "Malbas",
                 "position": "AWAY",
-                "short_name": "Hba-marsky"
+                "short_name": "Malbas"
             }
         ],
         "propositions": [
             {
-                "name": "Tapiolan Honka",
-                "returnWin": 2,
+                "name": "Aik",
+                "returnWin": 2.2,
                 "returnPlace": 0
             },
             {
-                "name": "Hba-marsky",
-                "returnWin": 1.7,
+                "name": "Malbas",
+                "returnWin": 1.57,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Tapiolan Honka v Hba-marsky",
+        "match_name": "Aik v Malbas",
         "betOption": "Head To Head",
-        "start_time": "2026-01-18T12:00:00.000Z"
+        "start_time": "2026-01-18T13:00:00.000Z"
     },
     {
-        "contestant_names": "Islas Canarias VERSES Ae Sedis",
-        "start_time_aest": "2026-01-18T23:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Spain Liga Women",
+        "contestant_names": "Kyren Wilson VERSES John Higgins",
+        "start_time_aest": "2026-01-19T00:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "The Masters",
         "contestants": [
             {
-                "full_name": "Islas Canarias",
+                "full_name": "Kyren Wilson",
                 "position": "HOME",
-                "short_name": "Islas Canarias"
+                "short_name": "Wilson K"
             },
             {
-                "full_name": "Ae Sedis",
+                "full_name": "John Higgins",
                 "position": "AWAY",
-                "short_name": "Ae Sedis"
+                "short_name": "Higgins J"
             }
         ],
         "propositions": [
             {
-                "name": "Islas Canarias",
-                "returnWin": 2,
+                "name": "Kyren Wilson",
+                "returnWin": 1.65,
                 "returnPlace": 0
             },
             {
-                "name": "Ae Sedis",
-                "returnWin": 1.7,
+                "name": "John Higgins",
+                "returnWin": 2.15,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Islas Canarias v Ae Sedis",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T12:00:00.000Z"
+        "match_name": "Wilson K v Higgins J",
+        "betOption": "Result",
+        "start_time": "2026-01-18T13:00:00.000Z"
     }
 ]
