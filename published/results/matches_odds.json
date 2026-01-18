@@ -1,299 +1,134 @@
 [
     {
-        "contestant_names": "Swans Gmunden VERSES Traiskirchen",
-        "start_time_aest": "2026-01-19T04:00:00+11:00",
+        "contestant_names": "Nth Carolina St VERSES Louisville",
+        "start_time_aest": "2026-01-19T05:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Austria Bundesliga",
+        "competition_name": "NCAA Basketball Women",
         "contestants": [
             {
-                "full_name": "Swans Gmunden",
+                "full_name": "Nth Carolina St",
                 "position": "HOME",
-                "short_name": "Swans Gmunden"
+                "short_name": "Nth Carolina St"
             },
             {
-                "full_name": "Traiskirchen",
+                "full_name": "Louisville",
                 "position": "AWAY",
-                "short_name": "Traiskirchen"
+                "short_name": "Louisville"
             }
         ],
         "propositions": [
             {
-                "name": "Swans Gmunden",
-                "returnWin": 1.48,
-                "returnPlace": 0
-            },
-            {
-                "name": "Traiskirchen",
-                "returnWin": 2.45,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Swans Gmunden v Traiskirchen",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "APU Udine VERSES Reggio Emilia",
-        "start_time_aest": "2026-01-19T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Italy Lega Serie A",
-        "contestants": [
-            {
-                "full_name": "APU Udine",
-                "position": "HOME",
-                "short_name": "APU Udine"
-            },
-            {
-                "full_name": "Reggio Emilia",
-                "position": "AWAY",
-                "short_name": "Reggio Emilia"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "APU Udine",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            },
-            {
-                "name": "Reggio Emilia",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "APU Udine v Reggio Emilia",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Maryland VERSES Penn State",
-        "start_time_aest": "2026-01-19T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Maryland",
-                "position": "HOME",
-                "short_name": "Maryland"
-            },
-            {
-                "full_name": "Penn State",
-                "position": "AWAY",
-                "short_name": "Penn State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Maryland",
-                "returnWin": 1.8,
-                "returnPlace": 0
-            },
-            {
-                "name": "Penn State",
-                "returnWin": 2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Maryland v Penn State",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Temple VERSES Florida Atlantic",
-        "start_time_aest": "2026-01-19T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Temple",
-                "position": "HOME",
-                "short_name": "Temple"
-            },
-            {
-                "full_name": "Florida Atlantic",
-                "position": "AWAY",
-                "short_name": "Florida Atlantic"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Temple",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            },
-            {
-                "name": "Florida Atlantic",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Temple v Florida Atlantic",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Sleza Wroclaw VERSES Umed Lublin",
-        "start_time_aest": "2026-01-19T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Poland Energa Basket Women",
-        "contestants": [
-            {
-                "full_name": "Sleza Wroclaw",
-                "position": "HOME",
-                "short_name": "Sleza Wroclaw"
-            },
-            {
-                "full_name": "Umed Lublin",
-                "position": "AWAY",
-                "short_name": "Umed Lublin"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sleza Wroclaw",
-                "returnWin": 1.48,
-                "returnPlace": 0
-            },
-            {
-                "name": "Umed Lublin",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Sleza Wroclaw v Umed Lublin",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Ptg Sokol Lancut VERSES Inea Azs Poznan",
-        "start_time_aest": "2026-01-19T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Poland First Division",
-        "contestants": [
-            {
-                "full_name": "Ptg Sokol Lancut",
-                "position": "HOME",
-                "short_name": "Ptg Sokol Lancut"
-            },
-            {
-                "full_name": "Inea Azs Poznan",
-                "position": "AWAY",
-                "short_name": "Inea Azs Poznan"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ptg Sokol Lancut",
-                "returnWin": 1.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Inea Azs Poznan",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Ptg Sokol Lancut v Inea Azs Poznan",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "GAT VERSES Salmiya Strikers",
-        "start_time_aest": "2026-01-19T04:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Falcons Champions Trophy T20",
-        "contestants": [
-            {
-                "full_name": "GAT",
-                "position": "HOME",
-                "short_name": "Gat"
-            },
-            {
-                "full_name": "Salmiya Strikers",
-                "position": "AWAY",
-                "short_name": "Salmiya Strikers"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "GAT",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            },
-            {
-                "name": "Salmiya Strikers",
-                "returnWin": 1.7,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Gat v Salmiya Strikers",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Alif Pharma VERSES Z Sports",
-        "start_time_aest": "2026-01-19T04:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "ICCA Arabian Cricket League",
-        "contestants": [
-            {
-                "full_name": "Alif Pharma",
-                "position": "HOME",
-                "short_name": "Alif Pharma"
-            },
-            {
-                "full_name": "Z Sports",
-                "position": "AWAY",
-                "short_name": "Z Sports"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Alif Pharma",
+                "name": "Nth Carolina St",
                 "returnWin": 2.15,
                 "returnPlace": 0
             },
             {
-                "name": "Z Sports",
-                "returnWin": 1.68,
+                "name": "Louisville",
+                "returnWin": 1.65,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Alif Pharma v Z Sports",
+        "match_name": "Nth Carolina St v Louisville",
         "betOption": "Head To Head",
-        "start_time": "2026-01-18T17:00:00.000Z"
+        "start_time": "2026-01-18T18:00:00.000Z"
     },
     {
-        "contestant_names": "Los Ratones VERSES Karmine Blue",
-        "start_time_aest": "2026-01-19T04:00:00+11:00",
+        "contestant_names": "Vitality VERSES Natus Vincere",
+        "start_time_aest": "2026-01-19T05:00:00+11:00",
         "sport_name": "Esports",
         "competition_name": "League of Legends",
         "contestants": [
             {
-                "full_name": "Los Ratones",
+                "full_name": "Vitality",
                 "position": "HOME",
-                "short_name": "Los Ratones"
+                "short_name": "Vitality"
             },
             {
-                "full_name": "Karmine Blue",
+                "full_name": "Natus Vincere",
                 "position": "AWAY",
-                "short_name": "Karmine Blue"
+                "short_name": "Natus Vincere"
             }
         ],
         "propositions": [
             {
-                "name": "Los Ratones",
-                "returnWin": 1.55,
+                "name": "Vitality",
+                "returnWin": 1.62,
                 "returnPlace": 0
             },
             {
-                "name": "Karmine Blue",
-                "returnWin": 2.3,
+                "name": "Natus Vincere",
+                "returnWin": 2.15,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Los Ratones v Karmine Blue",
+        "match_name": "Vitality v Natus Vincere",
         "betOption": "Head To Head",
-        "start_time": "2026-01-18T17:00:00.000Z"
+        "start_time": "2026-01-18T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "TSV Hartberg VERSES SK Aich/Dob",
+        "start_time_aest": "2026-01-19T05:00:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "Austria Herren Volley League",
+        "contestants": [
+            {
+                "full_name": "TSV Hartberg",
+                "position": "HOME",
+                "short_name": "TSV Hartberg"
+            },
+            {
+                "full_name": "SK Aich/Dob",
+                "position": "AWAY",
+                "short_name": "SK Aich/Dob"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "TSV Hartberg",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            },
+            {
+                "name": "SK Aich/Dob",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "TSV Hartberg v SK Aich/Dob",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Cantu VERSES Basket Brescia",
+        "start_time_aest": "2026-01-19T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Italy Lega Serie A",
+        "contestants": [
+            {
+                "full_name": "Cantu",
+                "position": "HOME",
+                "short_name": "Cantu"
+            },
+            {
+                "full_name": "Basket Brescia",
+                "position": "AWAY",
+                "short_name": "Basket Brescia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Cantu",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            },
+            {
+                "name": "Basket Brescia",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Cantu v Basket Brescia",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T19:00:00.000Z"
     }
 ]
