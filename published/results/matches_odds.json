@@ -1,40 +1,7 @@
 [
     {
-        "contestant_names": "UC Santa Barbara VERSES Hawaii",
-        "start_time_aest": "2026-01-18T13:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "UC Santa Barbara",
-                "position": "HOME",
-                "short_name": "UC Santa Barbara"
-            },
-            {
-                "full_name": "Hawaii",
-                "position": "AWAY",
-                "short_name": "Hawaii"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "UC Santa Barbara",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            },
-            {
-                "name": "Hawaii",
-                "returnWin": 1.7,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "UC Santa Barbara v Hawaii",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T02:00:00.000Z"
-    },
-    {
         "contestant_names": "Emilio Nava VERSES Kyrian Jacquet",
-        "start_time_aest": "2026-01-18T13:00:00+11:00",
+        "start_time_aest": "2026-01-18T13:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Australian Open",
         "contestants": [
@@ -63,6 +30,105 @@
         ],
         "match_name": "Nava v Jacquet",
         "betOption": "Head To Head",
-        "start_time": "2026-01-18T02:00:00.000Z"
+        "start_time": "2026-01-18T02:15:00.000Z"
+    },
+    {
+        "contestant_names": "Oklahoma State VERSES Kansas State",
+        "start_time_aest": "2026-01-18T14:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Oklahoma State",
+                "position": "HOME",
+                "short_name": "Oklahoma State"
+            },
+            {
+                "full_name": "Kansas State",
+                "position": "AWAY",
+                "short_name": "Kansas State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Oklahoma State",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            },
+            {
+                "name": "Kansas State",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Oklahoma State v Kansas State",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Patrick Kypson VERSES Francisco Comesana",
+        "start_time_aest": "2026-01-18T14:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Patrick Kypson",
+                "position": "HOME",
+                "short_name": "Kypson"
+            },
+            {
+                "full_name": "Francisco Comesana",
+                "position": "AWAY",
+                "short_name": "Comesana"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Patrick Kypson",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            },
+            {
+                "name": "Francisco Comesana",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Kypson v Comesana",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Alexander Orlov VERSES Jie Cui",
+        "start_time_aest": "2026-01-18T14:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Alexander Orlov",
+                "position": "HOME",
+                "short_name": "Orlov A"
+            },
+            {
+                "full_name": "Jie Cui",
+                "position": "AWAY",
+                "short_name": "Cui J"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alexander Orlov",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            },
+            {
+                "name": "Jie Cui",
+                "returnWin": 1.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Orlov A v Cui J",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T03:00:00.000Z"
     }
 ]
