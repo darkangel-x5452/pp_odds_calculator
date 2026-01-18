@@ -1,170 +1,5 @@
 [
     {
-        "contestant_names": "Yannick Hanfmann VERSES Zachary Svajda",
-        "start_time_aest": "2026-01-18T16:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open",
-        "contestants": [
-            {
-                "full_name": "Yannick Hanfmann",
-                "position": "HOME",
-                "short_name": "Hanfmann Y"
-            },
-            {
-                "full_name": "Zachary Svajda",
-                "position": "AWAY",
-                "short_name": "Svajda Z"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Yannick Hanfmann",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            },
-            {
-                "name": "Zachary Svajda",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Hanfmann Y v Svajda Z",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T05:45:00.000Z"
-    },
-    {
-        "contestant_names": "Alexander Blockx VERSES Jaime Faria",
-        "start_time_aest": "2026-01-18T16:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open",
-        "contestants": [
-            {
-                "full_name": "Alexander Blockx",
-                "position": "HOME",
-                "short_name": "Blockx A"
-            },
-            {
-                "full_name": "Jaime Faria",
-                "position": "AWAY",
-                "short_name": "Faria J"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Alexander Blockx",
-                "returnWin": 1.52,
-                "returnPlace": 0
-            },
-            {
-                "name": "Jaime Faria",
-                "returnWin": 2.45,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Blockx A v Faria J",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T05:45:00.000Z"
-    },
-    {
-        "contestant_names": "Jake Delaney VERSES Lorenzo Carboni",
-        "start_time_aest": "2026-01-18T17:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Jake Delaney",
-                "position": "HOME",
-                "short_name": "Delaney Jk"
-            },
-            {
-                "full_name": "Lorenzo Carboni",
-                "position": "AWAY",
-                "short_name": "Carboni"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jake Delaney",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            },
-            {
-                "name": "Lorenzo Carboni",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Delaney Jk v Carboni",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T06:00:00.000Z"
-    },
-    {
-        "contestant_names": "Tim Handel VERSES Hikaru Shiraishi",
-        "start_time_aest": "2026-01-18T17:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Tim Handel",
-                "position": "HOME",
-                "short_name": "Handel"
-            },
-            {
-                "full_name": "Hikaru Shiraishi",
-                "position": "AWAY",
-                "short_name": "Shiraishi"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Tim Handel",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            },
-            {
-                "name": "Hikaru Shiraishi",
-                "returnWin": 1.5,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Handel v Shiraishi",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T06:00:00.000Z"
-    },
-    {
-        "contestant_names": "Akira Santillan VERSES Max Hans Rehberg",
-        "start_time_aest": "2026-01-18T17:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Akira Santillan",
-                "position": "HOME",
-                "short_name": "Santillan A"
-            },
-            {
-                "full_name": "Max Hans Rehberg",
-                "position": "AWAY",
-                "short_name": "Rehberg"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Akira Santillan",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            },
-            {
-                "name": "Max Hans Rehberg",
-                "returnWin": 1.67,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Santillan A v Rehberg",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-18T06:00:00.000Z"
-    },
-    {
         "contestant_names": "Toray Arrows (W) VERSES Prestige Int (W)",
         "start_time_aest": "2026-01-18T17:05:00+11:00",
         "sport_name": "Volleyball",
@@ -196,6 +31,39 @@
         "match_name": "Toray Arrows (W) v Prestige Int (W)",
         "betOption": "Head To Head",
         "start_time": "2026-01-18T06:05:00.000Z"
+    },
+    {
+        "contestant_names": "Yannick Hanfmann VERSES Zachary Svajda",
+        "start_time_aest": "2026-01-18T17:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Yannick Hanfmann",
+                "position": "HOME",
+                "short_name": "Hanfmann Y"
+            },
+            {
+                "full_name": "Zachary Svajda",
+                "position": "AWAY",
+                "short_name": "Svajda Z"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Yannick Hanfmann",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            },
+            {
+                "name": "Zachary Svajda",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Hanfmann Y v Svajda Z",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T06:15:00.000Z"
     },
     {
         "contestant_names": "Pavaranukroh D/Paewsampran S VERSES Christiansen M/Boje A",
@@ -262,5 +130,71 @@
         "match_name": "Jones v Weber A",
         "betOption": "Head To Head",
         "start_time": "2026-01-18T06:30:00.000Z"
+    },
+    {
+        "contestant_names": "Anastasia Pavlyuchenkova VERSES Zhoxuan Bai",
+        "start_time_aest": "2026-01-18T18:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Anastasia Pavlyuchenkova",
+                "position": "HOME",
+                "short_name": "Pavlyuchenkova"
+            },
+            {
+                "full_name": "Zhoxuan Bai",
+                "position": "AWAY",
+                "short_name": "Bai"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Anastasia Pavlyuchenkova",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            },
+            {
+                "name": "Zhoxuan Bai",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Pavlyuchenkova v Bai",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Brisbane Heat VERSES Sydney Sixers",
+        "start_time_aest": "2026-01-18T19:15:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Big Bash",
+        "contestants": [
+            {
+                "full_name": "Brisbane Heat",
+                "position": "HOME",
+                "short_name": "Brisbane Heat"
+            },
+            {
+                "full_name": "Sydney Sixers",
+                "position": "AWAY",
+                "short_name": "Sydney Sixers"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Brisbane Heat",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            },
+            {
+                "name": "Sydney Sixers",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Brisbane Heat v Sydney Sixers",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-18T08:15:00.000Z"
     }
 ]
