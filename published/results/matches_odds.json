@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Iowa VERSES Michigan State",
-        "start_time_aest": "2026-01-19T12:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Iowa",
-                "position": "HOME",
-                "short_name": "Iowa"
-            },
-            {
-                "full_name": "Michigan State",
-                "position": "AWAY",
-                "short_name": "Michigan State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Iowa",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            },
-            {
-                "name": "Michigan State",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Iowa v Michigan State",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-19T01:00:00.000Z"
-    },
-    {
         "contestant_names": "Edmonton VERSES St Louis",
         "start_time_aest": "2026-01-19T12:05:00+11:00",
         "sport_name": "Ice Hockey",
@@ -163,5 +130,104 @@
         "match_name": "Budkov Kjaer v Opelka",
         "betOption": "Head To Head",
         "start_time": "2026-01-19T02:00:00.000Z"
+    },
+    {
+        "contestant_names": "Priscilla Hon VERSES Marina Stakusic",
+        "start_time_aest": "2026-01-19T13:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Priscilla Hon",
+                "position": "HOME",
+                "short_name": "Hon"
+            },
+            {
+                "full_name": "Marina Stakusic",
+                "position": "AWAY",
+                "short_name": "Stakusic"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Priscilla Hon",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            },
+            {
+                "name": "Marina Stakusic",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Hon v Stakusic",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T02:00:00.000Z"
+    },
+    {
+        "contestant_names": "Sacramento VERSES Portland",
+        "start_time_aest": "2026-01-19T13:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Sacramento",
+                "position": "HOME",
+                "short_name": "Sacramento"
+            },
+            {
+                "full_name": "Portland",
+                "position": "AWAY",
+                "short_name": "Portland"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sacramento",
+                "returnWin": 1.85,
+                "returnPlace": 0
+            },
+            {
+                "name": "Portland",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Sacramento v Portland",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T02:10:00.000Z"
+    },
+    {
+        "contestant_names": "Linda Klimovicova VERSES Francesca Jones",
+        "start_time_aest": "2026-01-19T13:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Linda Klimovicova",
+                "position": "HOME",
+                "short_name": "Klimovicova"
+            },
+            {
+                "full_name": "Francesca Jones",
+                "position": "AWAY",
+                "short_name": "Jones F"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Linda Klimovicova",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            },
+            {
+                "name": "Francesca Jones",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Klimovicova v Jones F",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T02:30:00.000Z"
     }
 ]
