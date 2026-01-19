@@ -1,71 +1,5 @@
 [
     {
-        "contestant_names": "Isabella Shinikova VERSES Maria Kalyakina",
-        "start_time_aest": "2026-01-19T21:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Isabella Shinikova",
-                "position": "HOME",
-                "short_name": "Shinikova"
-            },
-            {
-                "full_name": "Maria Kalyakina",
-                "position": "AWAY",
-                "short_name": "Kalyakina"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Isabella Shinikova",
-                "returnWin": 1.52,
-                "returnPlace": 0
-            },
-            {
-                "name": "Maria Kalyakina",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Shinikova v Kalyakina",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-19T10:15:00.000Z"
-    },
-    {
-        "contestant_names": "Bhamidipaty VERSES Jana Kolodynska",
-        "start_time_aest": "2026-01-19T21:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Bhamidipaty",
-                "position": "HOME",
-                "short_name": "Bhamidipaty"
-            },
-            {
-                "full_name": "Jana Kolodynska",
-                "position": "AWAY",
-                "short_name": "Kolodynska"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Bhamidipaty",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            },
-            {
-                "name": "Jana Kolodynska",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Bhamidipaty v Kolodynska",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-19T10:15:00.000Z"
-    },
-    {
         "contestant_names": "EDward Gaming VERSES NinjasInPyjamas",
         "start_time_aest": "2026-01-19T22:00:00+11:00",
         "sport_name": "Esports",
@@ -394,5 +328,38 @@
         "match_name": "Robertson N v Bingham",
         "betOption": "Result",
         "start_time": "2026-01-19T12:00:00.000Z"
+    },
+    {
+        "contestant_names": "Alexis Berquier VERSES Leonardo Taddia",
+        "start_time_aest": "2026-01-19T23:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Alexis Berquier",
+                "position": "HOME",
+                "short_name": "Berquier"
+            },
+            {
+                "full_name": "Leonardo Taddia",
+                "position": "AWAY",
+                "short_name": "Taddia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alexis Berquier",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            },
+            {
+                "name": "Leonardo Taddia",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Berquier v Taddia",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T12:15:00.000Z"
     }
 ]
