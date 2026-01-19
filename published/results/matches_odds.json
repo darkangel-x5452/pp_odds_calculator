@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Wellington Firebirds VERSES Canterbury Kings",
-        "start_time_aest": "2026-01-19T14:25:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "NZ Super Smash",
-        "contestants": [
-            {
-                "full_name": "Wellington Firebirds",
-                "position": "HOME",
-                "short_name": "Wellington"
-            },
-            {
-                "full_name": "Canterbury Kings",
-                "position": "AWAY",
-                "short_name": "Canterbury"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Wellington Firebirds",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            },
-            {
-                "name": "Canterbury Kings",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Wellington v Canterbury",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-19T03:25:00.000Z"
-    },
-    {
         "contestant_names": "Laslo Djere VERSES Stan Wawrinka",
         "start_time_aest": "2026-01-19T15:30:00+11:00",
         "sport_name": "Tennis",
@@ -99,6 +66,39 @@
         "start_time": "2026-01-19T04:30:00.000Z"
     },
     {
+        "contestant_names": "Daniel Altmaier VERSES Marin Cilic",
+        "start_time_aest": "2026-01-19T15:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Daniel Altmaier",
+                "position": "HOME",
+                "short_name": "Altmaier"
+            },
+            {
+                "full_name": "Marin Cilic",
+                "position": "AWAY",
+                "short_name": "Cilic"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Daniel Altmaier",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Marin Cilic",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Altmaier v Cilic",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T04:30:00.000Z"
+    },
+    {
         "contestant_names": "Lilian Marmousez VERSES James Trotter",
         "start_time_aest": "2026-01-19T16:00:00+11:00",
         "sport_name": "Tennis",
@@ -130,5 +130,137 @@
         "match_name": "Marmousez v Trotter",
         "betOption": "Head To Head",
         "start_time": "2026-01-19T05:00:00.000Z"
+    },
+    {
+        "contestant_names": "Max Hans Rehberg VERSES Lorenzo Carboni",
+        "start_time_aest": "2026-01-19T16:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Max Hans Rehberg",
+                "position": "HOME",
+                "short_name": "Rehberg"
+            },
+            {
+                "full_name": "Lorenzo Carboni",
+                "position": "AWAY",
+                "short_name": "Carboni"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Max Hans Rehberg",
+                "returnWin": 1.57,
+                "returnPlace": 0
+            },
+            {
+                "name": "Lorenzo Carboni",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Rehberg v Carboni",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T05:00:00.000Z"
+    },
+    {
+        "contestant_names": "Yuliia Starodubtseva VERSES Ajla Tomljanovic",
+        "start_time_aest": "2026-01-19T17:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Yuliia Starodubtseva",
+                "position": "HOME",
+                "short_name": "Starodubtseva"
+            },
+            {
+                "full_name": "Ajla Tomljanovic",
+                "position": "AWAY",
+                "short_name": "Tomljanovic"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Yuliia Starodubtseva",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            },
+            {
+                "name": "Ajla Tomljanovic",
+                "returnWin": 1.75,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Starodubtseva v Tomljanovic",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T06:00:00.000Z"
+    },
+    {
+        "contestant_names": "Adrian Mannarino VERSES Rinky Hijikata",
+        "start_time_aest": "2026-01-19T17:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Adrian Mannarino",
+                "position": "HOME",
+                "short_name": "Mannarino"
+            },
+            {
+                "full_name": "Rinky Hijikata",
+                "position": "AWAY",
+                "short_name": "Hijikata"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Adrian Mannarino",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            },
+            {
+                "name": "Rinky Hijikata",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Mannarino v Hijikata",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T06:30:00.000Z"
+    },
+    {
+        "contestant_names": "Terence Atmane VERSES Francesco Maestrelli",
+        "start_time_aest": "2026-01-19T17:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Terence Atmane",
+                "position": "HOME",
+                "short_name": "Atmane"
+            },
+            {
+                "full_name": "Francesco Maestrelli",
+                "position": "AWAY",
+                "short_name": "Maestrelli"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Terence Atmane",
+                "returnWin": 1.53,
+                "returnPlace": 0
+            },
+            {
+                "name": "Francesco Maestrelli",
+                "returnWin": 2.45,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Atmane v Maestrelli",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T06:30:00.000Z"
     }
 ]
