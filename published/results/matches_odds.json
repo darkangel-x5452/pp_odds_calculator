@@ -1,71 +1,5 @@
 [
     {
-        "contestant_names": "Sacramento VERSES Portland",
-        "start_time_aest": "2026-01-19T13:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Sacramento",
-                "position": "HOME",
-                "short_name": "Sacramento"
-            },
-            {
-                "full_name": "Portland",
-                "position": "AWAY",
-                "short_name": "Portland"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sacramento",
-                "returnWin": 1.85,
-                "returnPlace": 0
-            },
-            {
-                "name": "Portland",
-                "returnWin": 2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Sacramento v Portland",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-19T02:10:00.000Z"
-    },
-    {
-        "contestant_names": "Linda Klimovicova VERSES Francesca Jones",
-        "start_time_aest": "2026-01-19T13:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open",
-        "contestants": [
-            {
-                "full_name": "Linda Klimovicova",
-                "position": "HOME",
-                "short_name": "Klimovicova"
-            },
-            {
-                "full_name": "Francesca Jones",
-                "position": "AWAY",
-                "short_name": "Jones F"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Linda Klimovicova",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            },
-            {
-                "name": "Francesca Jones",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Klimovicova v Jones F",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-19T02:30:00.000Z"
-    },
-    {
         "contestant_names": "LA Lakers VERSES Toronto",
         "start_time_aest": "2026-01-19T13:40:00+11:00",
         "sport_name": "Basketball",
@@ -196,5 +130,38 @@
         "match_name": "Jorda Sanchis v Chung H",
         "betOption": "Head To Head",
         "start_time": "2026-01-19T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Wellington Firebirds VERSES Canterbury Kings",
+        "start_time_aest": "2026-01-19T14:25:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "NZ Super Smash",
+        "contestants": [
+            {
+                "full_name": "Wellington Firebirds",
+                "position": "HOME",
+                "short_name": "Wellington"
+            },
+            {
+                "full_name": "Canterbury Kings",
+                "position": "AWAY",
+                "short_name": "Canterbury"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Wellington Firebirds",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Canterbury Kings",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Wellington v Canterbury",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T03:25:00.000Z"
     }
 ]
