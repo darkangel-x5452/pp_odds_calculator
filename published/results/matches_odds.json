@@ -1,137 +1,5 @@
 [
     {
-        "contestant_names": "Seattle VERSES Pittsburgh",
-        "start_time_aest": "2026-01-20T09:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Seattle",
-                "position": "HOME",
-                "short_name": "Seattle"
-            },
-            {
-                "full_name": "Pittsburgh",
-                "position": "AWAY",
-                "short_name": "Pittsburgh"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Seattle",
-                "returnWin": 2,
-                "returnPlace": 0
-            },
-            {
-                "name": "Pittsburgh",
-                "returnWin": 1.8,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Seattle v Pittsburgh",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-19T22:05:00.000Z"
-    },
-    {
-        "contestant_names": "Paulistano VERSES Uniceub Brb",
-        "start_time_aest": "2026-01-20T09:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Brazil NBB",
-        "contestants": [
-            {
-                "full_name": "Paulistano",
-                "position": "HOME",
-                "short_name": "Paulistano"
-            },
-            {
-                "full_name": "Uniceub Brb",
-                "position": "AWAY",
-                "short_name": "Uniceub Brb"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Paulistano",
-                "returnWin": 2,
-                "returnPlace": 0
-            },
-            {
-                "name": "Uniceub Brb",
-                "returnWin": 1.7,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Paulistano v Uniceub Brb",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-19T22:30:00.000Z"
-    },
-    {
-        "contestant_names": "Sao Jose Dos Cam VERSES Minas TC",
-        "start_time_aest": "2026-01-20T09:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Brazil NBB",
-        "contestants": [
-            {
-                "full_name": "Sao Jose Dos Cam",
-                "position": "HOME",
-                "short_name": "Sao Jose Dos Cam"
-            },
-            {
-                "full_name": "Minas TC",
-                "position": "AWAY",
-                "short_name": "Minas TC"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sao Jose Dos Cam",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            },
-            {
-                "name": "Minas TC",
-                "returnWin": 1.5,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Sao Jose Dos Cam v Minas TC",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-19T22:30:00.000Z"
-    },
-    {
-        "contestant_names": "Caxias Do Sul VERSES Sendi/Bauru",
-        "start_time_aest": "2026-01-20T09:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Brazil NBB",
-        "contestants": [
-            {
-                "full_name": "Caxias Do Sul",
-                "position": "HOME",
-                "short_name": "Caxias Do Sul"
-            },
-            {
-                "full_name": "Sendi/Bauru",
-                "position": "AWAY",
-                "short_name": "Sendi/Bauru"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Caxias Do Sul",
-                "returnWin": 2,
-                "returnPlace": 0
-            },
-            {
-                "name": "Sendi/Bauru",
-                "returnWin": 1.7,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Caxias Do Sul v Sendi/Bauru",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-19T22:30:00.000Z"
-    },
-    {
         "contestant_names": "Marquette VERSES Providence",
         "start_time_aest": "2026-01-20T10:00:00+11:00",
         "sport_name": "Basketball",
@@ -361,5 +229,170 @@
         "match_name": "Queensland (W) v SthAustralia (W)",
         "betOption": "Head To Head",
         "start_time": "2026-01-19T23:30:00.000Z"
+    },
+    {
+        "contestant_names": "Lehigh VERSES Loyola (MD)",
+        "start_time_aest": "2026-01-20T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Lehigh",
+                "position": "HOME",
+                "short_name": "Lehigh"
+            },
+            {
+                "full_name": "Loyola (MD)",
+                "position": "AWAY",
+                "short_name": "Loyola (MD)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lehigh",
+                "returnWin": 1.53,
+                "returnPlace": 0
+            },
+            {
+                "name": "Loyola (MD)",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Lehigh v Loyola (MD)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-20T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Cristian Garin VERSES Luciano Darderi",
+        "start_time_aest": "2026-01-20T11:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Cristian Garin",
+                "position": "HOME",
+                "short_name": "Garin C"
+            },
+            {
+                "full_name": "Luciano Darderi",
+                "position": "AWAY",
+                "short_name": "Darderi"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Cristian Garin",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Luciano Darderi",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Garin C v Darderi",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-20T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Karen Khachanov VERSES Alex Michelsen",
+        "start_time_aest": "2026-01-20T13:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Karen Khachanov",
+                "position": "HOME",
+                "short_name": "Khachanov"
+            },
+            {
+                "full_name": "Alex Michelsen",
+                "position": "AWAY",
+                "short_name": "Michelsen A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Karen Khachanov",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            },
+            {
+                "name": "Alex Michelsen",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Khachanov v Michelsen A",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-20T02:00:00.000Z"
+    },
+    {
+        "contestant_names": "Ben Shelton VERSES Ugo Humbert",
+        "start_time_aest": "2026-01-20T13:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Ben Shelton",
+                "position": "HOME",
+                "short_name": "Shelton B"
+            },
+            {
+                "full_name": "Ugo Humbert",
+                "position": "AWAY",
+                "short_name": "Humbert"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ben Shelton",
+                "returnWin": 1.53,
+                "returnPlace": 0
+            },
+            {
+                "name": "Ugo Humbert",
+                "returnWin": 2.45,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Shelton B v Humbert",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-20T02:30:00.000Z"
+    },
+    {
+        "contestant_names": "Grigor Dimitrov VERSES Tomas Machac",
+        "start_time_aest": "2026-01-20T17:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Grigor Dimitrov",
+                "position": "HOME",
+                "short_name": "Dimitrov G"
+            },
+            {
+                "full_name": "Tomas Machac",
+                "position": "AWAY",
+                "short_name": "Machac"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Grigor Dimitrov",
+                "returnWin": 2.15,
+                "returnPlace": 0
+            },
+            {
+                "name": "Tomas Machac",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Dimitrov G v Machac",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-20T06:30:00.000Z"
     }
 ]
