@@ -1,101 +1,167 @@
 [
     {
-        "contestant_names": "Quentin Halys VERSES Alejandro Tabilo",
-        "start_time_aest": "2026-01-19T11:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open",
+        "contestant_names": "Iowa VERSES Michigan State",
+        "start_time_aest": "2026-01-19T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
         "contestants": [
             {
-                "full_name": "Quentin Halys",
+                "full_name": "Iowa",
                 "position": "HOME",
-                "short_name": "Halys"
+                "short_name": "Iowa"
             },
             {
-                "full_name": "Alejandro Tabilo",
+                "full_name": "Michigan State",
                 "position": "AWAY",
-                "short_name": "Tabilo A"
+                "short_name": "Michigan State"
             }
         ],
         "propositions": [
             {
-                "name": "Quentin Halys",
-                "returnWin": 1.8,
+                "name": "Iowa",
+                "returnWin": 1.58,
                 "returnPlace": 0
             },
             {
-                "name": "Alejandro Tabilo",
-                "returnWin": 2,
+                "name": "Michigan State",
+                "returnWin": 2.3,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Halys v Tabilo A",
+        "match_name": "Iowa v Michigan State",
         "betOption": "Head To Head",
-        "start_time": "2026-01-19T00:15:00.000Z"
+        "start_time": "2026-01-19T01:00:00.000Z"
     },
     {
-        "contestant_names": "Ann Li VERSES Maria Camila Osorio Serrano",
-        "start_time_aest": "2026-01-19T11:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open",
+        "contestant_names": "Edmonton VERSES St Louis",
+        "start_time_aest": "2026-01-19T12:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "Ann Li",
+                "full_name": "Edmonton",
                 "position": "HOME",
-                "short_name": "Li A"
+                "short_name": "Edmonton"
             },
             {
-                "full_name": "Maria Camila Osorio Serrano",
+                "full_name": "St Louis",
                 "position": "AWAY",
-                "short_name": "Osorio Serrano"
+                "short_name": "St Louis"
             }
         ],
         "propositions": [
             {
-                "name": "Ann Li",
+                "name": "Edmonton",
                 "returnWin": 1.65,
                 "returnPlace": 0
             },
             {
-                "name": "Maria Camila Osorio Serrano",
-                "returnWin": 2.25,
+                "name": "St Louis",
+                "returnWin": 2.2,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Li A v Osorio Serrano",
+        "match_name": "Edmonton v St Louis",
         "betOption": "Head To Head",
-        "start_time": "2026-01-19T00:15:00.000Z"
+        "start_time": "2026-01-19T01:05:00.000Z"
     },
     {
-        "contestant_names": "Sofia Kenin VERSES Peyton Stearns",
-        "start_time_aest": "2026-01-19T11:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open",
+        "contestant_names": "Denver VERSES Charlotte",
+        "start_time_aest": "2026-01-19T12:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
         "contestants": [
             {
-                "full_name": "Sofia Kenin",
+                "full_name": "Denver",
                 "position": "HOME",
-                "short_name": "Kenin"
+                "short_name": "Denver"
             },
             {
-                "full_name": "Peyton Stearns",
+                "full_name": "Charlotte",
                 "position": "AWAY",
-                "short_name": "Stearns P"
+                "short_name": "Charlotte"
             }
         ],
         "propositions": [
             {
-                "name": "Sofia Kenin",
-                "returnWin": 1.7,
+                "name": "Denver",
+                "returnWin": 2.15,
                 "returnPlace": 0
             },
             {
-                "name": "Peyton Stearns",
-                "returnWin": 2.15,
+                "name": "Charlotte",
+                "returnWin": 1.73,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Kenin v Stearns P",
+        "match_name": "Denver v Charlotte",
         "betOption": "Head To Head",
-        "start_time": "2026-01-19T00:15:00.000Z"
+        "start_time": "2026-01-19T01:10:00.000Z"
+    },
+    {
+        "contestant_names": "Fabian Marozsan VERSES Arthur Rinderknech",
+        "start_time_aest": "2026-01-19T13:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Fabian Marozsan",
+                "position": "HOME",
+                "short_name": "Marozsan"
+            },
+            {
+                "full_name": "Arthur Rinderknech",
+                "position": "AWAY",
+                "short_name": "Rinderknech"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Fabian Marozsan",
+                "returnWin": 1.77,
+                "returnPlace": 0
+            },
+            {
+                "name": "Arthur Rinderknech",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Marozsan v Rinderknech",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T02:00:00.000Z"
+    },
+    {
+        "contestant_names": "Nicolai Budkov Kjaer VERSES Reilly Opelka",
+        "start_time_aest": "2026-01-19T13:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Nicolai Budkov Kjaer",
+                "position": "HOME",
+                "short_name": "Budkov Kjaer"
+            },
+            {
+                "full_name": "Reilly Opelka",
+                "position": "AWAY",
+                "short_name": "Opelka"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nicolai Budkov Kjaer",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            },
+            {
+                "name": "Reilly Opelka",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Budkov Kjaer v Opelka",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T02:00:00.000Z"
     }
 ]
