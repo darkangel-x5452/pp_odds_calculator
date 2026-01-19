@@ -328,5 +328,38 @@
         "match_name": "Florida v San Jose",
         "betOption": "Head To Head",
         "start_time": "2026-01-19T23:05:00.000Z"
+    },
+    {
+        "contestant_names": "Hebraica Macabi VERSES Urunday",
+        "start_time_aest": "2026-01-20T10:15:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Uruguay LUB",
+        "contestants": [
+            {
+                "full_name": "Hebraica Macabi",
+                "position": "HOME",
+                "short_name": "Hebraica Macabi"
+            },
+            {
+                "full_name": "Urunday",
+                "position": "AWAY",
+                "short_name": "Urunday"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hebraica Macabi",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            },
+            {
+                "name": "Urunday",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Hebraica Macabi v Urunday",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T23:15:00.000Z"
     }
 ]
