@@ -1,71 +1,5 @@
 [
     {
-        "contestant_names": "Neil Robertson VERSES Stuart Bingham",
-        "start_time_aest": "2026-01-20T03:30:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "Championship League",
-        "contestants": [
-            {
-                "full_name": "Neil Robertson",
-                "position": "HOME",
-                "short_name": "Robertson N"
-            },
-            {
-                "full_name": "Stuart Bingham",
-                "position": "AWAY",
-                "short_name": "Bingham"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Neil Robertson",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            },
-            {
-                "name": "Stuart Bingham",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Robertson N v Bingham",
-        "betOption": "Result",
-        "start_time": "2026-01-19T16:30:00.000Z"
-    },
-    {
-        "contestant_names": "Zhao Xintong VERSES Xiao Guodong",
-        "start_time_aest": "2026-01-20T03:30:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "Championship League",
-        "contestants": [
-            {
-                "full_name": "Zhao Xintong",
-                "position": "HOME",
-                "short_name": "Xintong"
-            },
-            {
-                "full_name": "Xiao Guodong",
-                "position": "AWAY",
-                "short_name": "Guodong"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Zhao Xintong",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            },
-            {
-                "name": "Xiao Guodong",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Xintong v Guodong",
-        "betOption": "Result",
-        "start_time": "2026-01-19T16:30:00.000Z"
-    },
-    {
         "contestant_names": "BK Opava VERSES BK Decin",
         "start_time_aest": "2026-01-20T04:00:00+11:00",
         "sport_name": "Basketball",
@@ -161,6 +95,39 @@
             }
         ],
         "match_name": "HapLev Jerusalem v Elitzur Ramla",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Corona Brasov VERSES Dinamo Bucuresti",
+        "start_time_aest": "2026-01-20T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Romania Divizia A",
+        "contestants": [
+            {
+                "full_name": "Corona Brasov",
+                "position": "HOME",
+                "short_name": "Corona Brasov"
+            },
+            {
+                "full_name": "Dinamo Bucuresti",
+                "position": "AWAY",
+                "short_name": "Dinamo Bucuresti"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Corona Brasov",
+                "returnWin": 1.45,
+                "returnPlace": 0
+            },
+            {
+                "name": "Dinamo Bucuresti",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Corona Brasov v Dinamo Bucuresti",
         "betOption": "Head To Head",
         "start_time": "2026-01-19T17:00:00.000Z"
     }
