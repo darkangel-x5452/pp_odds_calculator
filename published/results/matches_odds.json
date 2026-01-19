@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Fares Zakaria VERSES Patrick Zahraj",
-        "start_time_aest": "2026-01-20T00:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Fares Zakaria",
-                "position": "HOME",
-                "short_name": "Zakaria"
-            },
-            {
-                "full_name": "Patrick Zahraj",
-                "position": "AWAY",
-                "short_name": "Zahraj"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Fares Zakaria",
-                "returnWin": 1.95,
-                "returnPlace": 0
-            },
-            {
-                "name": "Patrick Zahraj",
-                "returnWin": 1.75,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Zakaria v Zahraj",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-19T13:00:00.000Z"
-    },
-    {
         "contestant_names": "Yaroslava Bartashevich VERSES Martina Trevisan",
         "start_time_aest": "2026-01-20T00:15:00+11:00",
         "sport_name": "Tennis",
@@ -95,6 +62,39 @@
             }
         ],
         "match_name": "Zeltina v Milovanovic",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T13:15:00.000Z"
+    },
+    {
+        "contestant_names": "Fares Zakaria VERSES Patrick Zahraj",
+        "start_time_aest": "2026-01-20T00:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Fares Zakaria",
+                "position": "HOME",
+                "short_name": "Zakaria"
+            },
+            {
+                "full_name": "Patrick Zahraj",
+                "position": "AWAY",
+                "short_name": "Zahraj"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Fares Zakaria",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            },
+            {
+                "name": "Patrick Zahraj",
+                "returnWin": 1.75,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Zakaria v Zahraj",
         "betOption": "Head To Head",
         "start_time": "2026-01-19T13:15:00.000Z"
     },
@@ -262,5 +262,104 @@
         "match_name": "Afghanistan v West Indies",
         "betOption": "Head To Head",
         "start_time": "2026-01-19T14:30:00.000Z"
+    },
+    {
+        "contestant_names": "Vilius Gaubas VERSES Alejandro Moro Canas",
+        "start_time_aest": "2026-01-20T02:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Vilius Gaubas",
+                "position": "HOME",
+                "short_name": "Gaubas"
+            },
+            {
+                "full_name": "Alejandro Moro Canas",
+                "position": "AWAY",
+                "short_name": "Moro Canas"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Vilius Gaubas",
+                "returnWin": 1.72,
+                "returnPlace": 0
+            },
+            {
+                "name": "Alejandro Moro Canas",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Gaubas v Moro Canas",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T15:00:00.000Z"
+    },
+    {
+        "contestant_names": "Borna Gojo VERSES Jay Clarke",
+        "start_time_aest": "2026-01-20T02:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Borna Gojo",
+                "position": "HOME",
+                "short_name": "Gojo"
+            },
+            {
+                "full_name": "Jay Clarke",
+                "position": "AWAY",
+                "short_name": "Clarke"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Borna Gojo",
+                "returnWin": 1.46,
+                "returnPlace": 0
+            },
+            {
+                "name": "Jay Clarke",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Gojo v Clarke",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T15:00:00.000Z"
+    },
+    {
+        "contestant_names": "Paarl Royals VERSES Joburg Spr Kings",
+        "start_time_aest": "2026-01-20T02:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "South Africa T20",
+        "contestants": [
+            {
+                "full_name": "Paarl Royals",
+                "position": "HOME",
+                "short_name": "Paarl Royals"
+            },
+            {
+                "full_name": "Joburg Spr Kings",
+                "position": "AWAY",
+                "short_name": "Joburg Spr Kings"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Paarl Royals",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            },
+            {
+                "name": "Joburg Spr Kings",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Paarl Royals v Joburg Spr Kings",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T15:30:00.000Z"
     }
 ]
