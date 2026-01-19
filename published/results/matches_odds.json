@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Pedro Dias VERSES Genaro Alberto Olivieri",
-        "start_time_aest": "2026-01-20T08:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Pedro Dias",
-                "position": "HOME",
-                "short_name": "Dias"
-            },
-            {
-                "full_name": "Genaro Alberto Olivieri",
-                "position": "AWAY",
-                "short_name": "Alberto Olivieri"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Pedro Dias",
-                "returnWin": 1.75,
-                "returnPlace": 0
-            },
-            {
-                "name": "Genaro Alberto Olivieri",
-                "returnWin": 1.95,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Dias v Alberto Olivieri",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-19T21:00:00.000Z"
-    },
-    {
         "contestant_names": "George Mason VERSES George Wshington",
         "start_time_aest": "2026-01-20T09:00:00+11:00",
         "sport_name": "Basketball",
@@ -262,5 +229,104 @@
         "match_name": "Marquette v Providence",
         "betOption": "Head To Head",
         "start_time": "2026-01-19T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Jamaica (W) VERSES Windward Isl (W)",
+        "start_time_aest": "2026-01-20T10:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Womens WI Breakout League T20",
+        "contestants": [
+            {
+                "full_name": "Jamaica (W)",
+                "position": "HOME",
+                "short_name": "Jamaica (W)"
+            },
+            {
+                "full_name": "Windward Isl (W)",
+                "position": "AWAY",
+                "short_name": "Windward Isl (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jamaica (W)",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            },
+            {
+                "name": "Windward Isl (W)",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Jamaica (W) v Windward Isl (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Igor Marcondes VERSES Felipe Alves",
+        "start_time_aest": "2026-01-20T10:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Igor Marcondes",
+                "position": "HOME",
+                "short_name": "Marcondes I"
+            },
+            {
+                "full_name": "Felipe Alves",
+                "position": "AWAY",
+                "short_name": "Alves F"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Igor Marcondes",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            },
+            {
+                "name": "Felipe Alves",
+                "returnWin": 1.68,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Marcondes I v Alves F",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Florida VERSES San Jose",
+        "start_time_aest": "2026-01-20T10:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Florida",
+                "position": "HOME",
+                "short_name": "Florida"
+            },
+            {
+                "full_name": "San Jose",
+                "position": "AWAY",
+                "short_name": "San Jose"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Florida",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            },
+            {
+                "name": "San Jose",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Florida v San Jose",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T23:05:00.000Z"
     }
 ]
