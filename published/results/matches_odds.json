@@ -1,71 +1,5 @@
 [
     {
-        "contestant_names": "George Mason VERSES George Wshington",
-        "start_time_aest": "2026-01-20T09:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "George Mason",
-                "position": "HOME",
-                "short_name": "George Mason"
-            },
-            {
-                "full_name": "George Wshington",
-                "position": "AWAY",
-                "short_name": "George Wshington"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "George Mason",
-                "returnWin": 1.74,
-                "returnPlace": 0
-            },
-            {
-                "name": "George Wshington",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "George Mason v George Wshington",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-19T22:00:00.000Z"
-    },
-    {
-        "contestant_names": "Alabama State VERSES Alabama AM",
-        "start_time_aest": "2026-01-20T09:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Alabama State",
-                "position": "HOME",
-                "short_name": "Alabama State"
-            },
-            {
-                "full_name": "Alabama AM",
-                "position": "AWAY",
-                "short_name": "Alabama AM"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Alabama State",
-                "returnWin": 1.74,
-                "returnPlace": 0
-            },
-            {
-                "name": "Alabama AM",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Alabama State v Alabama AM",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-19T22:00:00.000Z"
-    },
-    {
         "contestant_names": "Seattle VERSES Pittsburgh",
         "start_time_aest": "2026-01-20T09:05:00+11:00",
         "sport_name": "Ice Hockey",
@@ -361,5 +295,71 @@
         "match_name": "Hebraica Macabi v Urunday",
         "betOption": "Head To Head",
         "start_time": "2026-01-19T23:15:00.000Z"
+    },
+    {
+        "contestant_names": "ArknsasPineBluff VERSES Bethune-Cookman",
+        "start_time_aest": "2026-01-20T10:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "ArknsasPineBluff",
+                "position": "HOME",
+                "short_name": "ArknsasPineBluff"
+            },
+            {
+                "full_name": "Bethune-Cookman",
+                "position": "AWAY",
+                "short_name": "Bethune-Cookman"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "ArknsasPineBluff",
+                "returnWin": 2.15,
+                "returnPlace": 0
+            },
+            {
+                "name": "Bethune-Cookman",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "ArknsasPineBluff v Bethune-Cookman",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T23:30:00.000Z"
+    },
+    {
+        "contestant_names": "Queensland (W) VERSES South Australia (W)",
+        "start_time_aest": "2026-01-20T10:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Womens National Cricket League",
+        "contestants": [
+            {
+                "full_name": "Queensland (W)",
+                "position": "HOME",
+                "short_name": "Queensland (W)"
+            },
+            {
+                "full_name": "South Australia (W)",
+                "position": "AWAY",
+                "short_name": "SthAustralia (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Queensland (W)",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            },
+            {
+                "name": "South Australia (W)",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Queensland (W) v SthAustralia (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T23:30:00.000Z"
     }
 ]
