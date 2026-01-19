@@ -1,35 +1,233 @@
 [
     {
-        "contestant_names": "Alcorn State VERSES Prairie View AM",
-        "start_time_aest": "2026-01-20T07:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "contestant_names": "Pedro Dias VERSES Genaro Alberto Olivieri",
+        "start_time_aest": "2026-01-20T08:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
         "contestants": [
             {
-                "full_name": "Alcorn State",
+                "full_name": "Pedro Dias",
                 "position": "HOME",
-                "short_name": "Alcorn State"
+                "short_name": "Dias"
             },
             {
-                "full_name": "Prairie View AM",
+                "full_name": "Genaro Alberto Olivieri",
                 "position": "AWAY",
-                "short_name": "Prairie View AM"
+                "short_name": "Alberto Olivieri"
             }
         ],
         "propositions": [
             {
-                "name": "Alcorn State",
-                "returnWin": 2.3,
+                "name": "Pedro Dias",
+                "returnWin": 1.75,
                 "returnPlace": 0
             },
             {
-                "name": "Prairie View AM",
-                "returnWin": 1.62,
+                "name": "Genaro Alberto Olivieri",
+                "returnWin": 1.95,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Alcorn State v Prairie View AM",
+        "match_name": "Dias v Alberto Olivieri",
         "betOption": "Head To Head",
-        "start_time": "2026-01-19T20:00:00.000Z"
+        "start_time": "2026-01-19T21:00:00.000Z"
+    },
+    {
+        "contestant_names": "George Mason VERSES George Wshington",
+        "start_time_aest": "2026-01-20T09:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "George Mason",
+                "position": "HOME",
+                "short_name": "George Mason"
+            },
+            {
+                "full_name": "George Wshington",
+                "position": "AWAY",
+                "short_name": "George Wshington"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "George Mason",
+                "returnWin": 1.74,
+                "returnPlace": 0
+            },
+            {
+                "name": "George Wshington",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "George Mason v George Wshington",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T22:00:00.000Z"
+    },
+    {
+        "contestant_names": "Alabama State VERSES Alabama AM",
+        "start_time_aest": "2026-01-20T09:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Alabama State",
+                "position": "HOME",
+                "short_name": "Alabama State"
+            },
+            {
+                "full_name": "Alabama AM",
+                "position": "AWAY",
+                "short_name": "Alabama AM"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alabama State",
+                "returnWin": 1.74,
+                "returnPlace": 0
+            },
+            {
+                "name": "Alabama AM",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Alabama State v Alabama AM",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T22:00:00.000Z"
+    },
+    {
+        "contestant_names": "Seattle VERSES Pittsburgh",
+        "start_time_aest": "2026-01-20T09:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Seattle",
+                "position": "HOME",
+                "short_name": "Seattle"
+            },
+            {
+                "full_name": "Pittsburgh",
+                "position": "AWAY",
+                "short_name": "Pittsburgh"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Seattle",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Pittsburgh",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Seattle v Pittsburgh",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T22:05:00.000Z"
+    },
+    {
+        "contestant_names": "Paulistano VERSES Uniceub Brb",
+        "start_time_aest": "2026-01-20T09:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Brazil NBB",
+        "contestants": [
+            {
+                "full_name": "Paulistano",
+                "position": "HOME",
+                "short_name": "Paulistano"
+            },
+            {
+                "full_name": "Uniceub Brb",
+                "position": "AWAY",
+                "short_name": "Uniceub Brb"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Paulistano",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Uniceub Brb",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Paulistano v Uniceub Brb",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T22:30:00.000Z"
+    },
+    {
+        "contestant_names": "Sao Jose Dos Cam VERSES Minas TC",
+        "start_time_aest": "2026-01-20T09:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Brazil NBB",
+        "contestants": [
+            {
+                "full_name": "Sao Jose Dos Cam",
+                "position": "HOME",
+                "short_name": "Sao Jose Dos Cam"
+            },
+            {
+                "full_name": "Minas TC",
+                "position": "AWAY",
+                "short_name": "Minas TC"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sao Jose Dos Cam",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            },
+            {
+                "name": "Minas TC",
+                "returnWin": 1.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Sao Jose Dos Cam v Minas TC",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T22:30:00.000Z"
+    },
+    {
+        "contestant_names": "Caxias Do Sul VERSES Sendi/Bauru",
+        "start_time_aest": "2026-01-20T09:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Brazil NBB",
+        "contestants": [
+            {
+                "full_name": "Caxias Do Sul",
+                "position": "HOME",
+                "short_name": "Caxias Do Sul"
+            },
+            {
+                "full_name": "Sendi/Bauru",
+                "position": "AWAY",
+                "short_name": "Sendi/Bauru"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Caxias Do Sul",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Sendi/Bauru",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Caxias Do Sul v Sendi/Bauru",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T22:30:00.000Z"
     }
 ]
