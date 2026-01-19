@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Afghanistan VERSES West Indies",
-        "start_time_aest": "2026-01-20T01:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Twenty20 Internationals",
-        "contestants": [
-            {
-                "full_name": "Afghanistan",
-                "position": "HOME",
-                "short_name": "Afghanistan"
-            },
-            {
-                "full_name": "West Indies",
-                "position": "AWAY",
-                "short_name": "West Indies"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Afghanistan",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            },
-            {
-                "name": "West Indies",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Afghanistan v West Indies",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-19T14:30:00.000Z"
-    },
-    {
         "contestant_names": "Vilius Gaubas VERSES Alejandro Moro Canas",
         "start_time_aest": "2026-01-20T02:00:00+11:00",
         "sport_name": "Tennis",
@@ -328,5 +295,71 @@
         "match_name": "Salazar N v Leon S",
         "betOption": "Head To Head",
         "start_time": "2026-01-19T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "Neil Robertson VERSES Stuart Bingham",
+        "start_time_aest": "2026-01-20T03:30:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "Championship League",
+        "contestants": [
+            {
+                "full_name": "Neil Robertson",
+                "position": "HOME",
+                "short_name": "Robertson N"
+            },
+            {
+                "full_name": "Stuart Bingham",
+                "position": "AWAY",
+                "short_name": "Bingham"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Neil Robertson",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            },
+            {
+                "name": "Stuart Bingham",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Robertson N v Bingham",
+        "betOption": "Result",
+        "start_time": "2026-01-19T16:30:00.000Z"
+    },
+    {
+        "contestant_names": "Zhao Xintong VERSES Xiao Guodong",
+        "start_time_aest": "2026-01-20T03:30:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "Championship League",
+        "contestants": [
+            {
+                "full_name": "Zhao Xintong",
+                "position": "HOME",
+                "short_name": "Xintong"
+            },
+            {
+                "full_name": "Xiao Guodong",
+                "position": "AWAY",
+                "short_name": "Guodong"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Zhao Xintong",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            },
+            {
+                "name": "Xiao Guodong",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Xintong v Guodong",
+        "betOption": "Result",
+        "start_time": "2026-01-19T16:30:00.000Z"
     }
 ]
