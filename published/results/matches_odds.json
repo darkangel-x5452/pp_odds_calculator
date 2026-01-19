@@ -1,104 +1,5 @@
 [
     {
-        "contestant_names": "Vilius Gaubas VERSES Alejandro Moro Canas",
-        "start_time_aest": "2026-01-20T02:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Vilius Gaubas",
-                "position": "HOME",
-                "short_name": "Gaubas"
-            },
-            {
-                "full_name": "Alejandro Moro Canas",
-                "position": "AWAY",
-                "short_name": "Moro Canas"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Vilius Gaubas",
-                "returnWin": 1.72,
-                "returnPlace": 0
-            },
-            {
-                "name": "Alejandro Moro Canas",
-                "returnWin": 2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Gaubas v Moro Canas",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-19T15:00:00.000Z"
-    },
-    {
-        "contestant_names": "Borna Gojo VERSES Jay Clarke",
-        "start_time_aest": "2026-01-20T02:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Borna Gojo",
-                "position": "HOME",
-                "short_name": "Gojo"
-            },
-            {
-                "full_name": "Jay Clarke",
-                "position": "AWAY",
-                "short_name": "Clarke"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Borna Gojo",
-                "returnWin": 1.46,
-                "returnPlace": 0
-            },
-            {
-                "name": "Jay Clarke",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Gojo v Clarke",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-19T15:00:00.000Z"
-    },
-    {
-        "contestant_names": "Al-Wakrah VERSES Al-Shamal",
-        "start_time_aest": "2026-01-20T02:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Qatar QBL",
-        "contestants": [
-            {
-                "full_name": "Al-Wakrah",
-                "position": "HOME",
-                "short_name": "Al-Wakrah"
-            },
-            {
-                "full_name": "Al-Shamal",
-                "position": "AWAY",
-                "short_name": "Al-Shamal"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Al-Wakrah",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            },
-            {
-                "name": "Al-Shamal",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Al-Wakrah v Al-Shamal",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-19T15:00:00.000Z"
-    },
-    {
         "contestant_names": "Carola Celina Sosa VERSES Heydi Doldan",
         "start_time_aest": "2026-01-20T02:15:00+11:00",
         "sport_name": "Tennis",
@@ -361,5 +262,71 @@
         "match_name": "Xintong v Guodong",
         "betOption": "Result",
         "start_time": "2026-01-19T16:30:00.000Z"
+    },
+    {
+        "contestant_names": "BK Opava VERSES BK Decin",
+        "start_time_aest": "2026-01-20T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Czech Cup",
+        "contestants": [
+            {
+                "full_name": "BK Opava",
+                "position": "HOME",
+                "short_name": "BK Opava"
+            },
+            {
+                "full_name": "BK Decin",
+                "position": "AWAY",
+                "short_name": "BK Decin"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "BK Opava",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            },
+            {
+                "name": "BK Decin",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "BK Opava v BK Decin",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Petah Tikva VERSES Hapoel Beer Shev",
+        "start_time_aest": "2026-01-20T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Israel Premier League Women",
+        "contestants": [
+            {
+                "full_name": "Petah Tikva",
+                "position": "HOME",
+                "short_name": "Petah Tikva"
+            },
+            {
+                "full_name": "Hapoel Beer Shev",
+                "position": "AWAY",
+                "short_name": "Hapoel Beer Shev"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Petah Tikva",
+                "returnWin": 1.45,
+                "returnPlace": 0
+            },
+            {
+                "name": "Hapoel Beer Shev",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Petah Tikva v Hapoel Beer Shev",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T17:00:00.000Z"
     }
 ]
