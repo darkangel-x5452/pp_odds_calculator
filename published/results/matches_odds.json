@@ -1,104 +1,5 @@
 [
     {
-        "contestant_names": "Daniel Altmaier VERSES Marin Cilic",
-        "start_time_aest": "2026-01-19T15:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open",
-        "contestants": [
-            {
-                "full_name": "Daniel Altmaier",
-                "position": "HOME",
-                "short_name": "Altmaier"
-            },
-            {
-                "full_name": "Marin Cilic",
-                "position": "AWAY",
-                "short_name": "Cilic"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Daniel Altmaier",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Marin Cilic",
-                "returnWin": 1.52,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Altmaier v Cilic",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-19T04:45:00.000Z"
-    },
-    {
-        "contestant_names": "Lilian Marmousez VERSES James Trotter",
-        "start_time_aest": "2026-01-19T16:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Lilian Marmousez",
-                "position": "HOME",
-                "short_name": "Marmousez"
-            },
-            {
-                "full_name": "James Trotter",
-                "position": "AWAY",
-                "short_name": "Trotter"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Lilian Marmousez",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            },
-            {
-                "name": "James Trotter",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Marmousez v Trotter",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-19T05:00:00.000Z"
-    },
-    {
-        "contestant_names": "Max Hans Rehberg VERSES Lorenzo Carboni",
-        "start_time_aest": "2026-01-19T16:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Max Hans Rehberg",
-                "position": "HOME",
-                "short_name": "Rehberg"
-            },
-            {
-                "full_name": "Lorenzo Carboni",
-                "position": "AWAY",
-                "short_name": "Carboni"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Max Hans Rehberg",
-                "returnWin": 1.57,
-                "returnPlace": 0
-            },
-            {
-                "name": "Lorenzo Carboni",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Rehberg v Carboni",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-19T05:00:00.000Z"
-    },
-    {
         "contestant_names": "Yuliia Starodubtseva VERSES Ajla Tomljanovic",
         "start_time_aest": "2026-01-19T17:00:00+11:00",
         "sport_name": "Tennis",
@@ -227,6 +128,39 @@
             }
         ],
         "match_name": "Krejcikova B v Shnaider D",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-19T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Robin Bertrand VERSES Dodig Matej",
+        "start_time_aest": "2026-01-19T18:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Robin Bertrand",
+                "position": "HOME",
+                "short_name": "Bertrand R"
+            },
+            {
+                "full_name": "Dodig Matej",
+                "position": "AWAY",
+                "short_name": "Matej"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Robin Bertrand",
+                "returnWin": 2.15,
+                "returnPlace": 0
+            },
+            {
+                "name": "Dodig Matej",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Bertrand R v Matej",
         "betOption": "Head To Head",
         "start_time": "2026-01-19T07:00:00.000Z"
     }
