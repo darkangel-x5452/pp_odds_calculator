@@ -196,5 +196,71 @@
         "match_name": "Jupiter Links v Los Angeles",
         "betOption": "Head To Head",
         "start_time": "2026-01-21T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Kamil Majchrzak VERSES Fabian Marozsan",
+        "start_time_aest": "2026-01-21T11:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Kamil Majchrzak",
+                "position": "HOME",
+                "short_name": "Majchrzak"
+            },
+            {
+                "full_name": "Fabian Marozsan",
+                "position": "AWAY",
+                "short_name": "Marozsan"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Kamil Majchrzak",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            },
+            {
+                "name": "Fabian Marozsan",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Majchrzak v Marozsan",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Zeynep Sonmez VERSES Anna Bondar",
+        "start_time_aest": "2026-01-21T11:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Zeynep Sonmez",
+                "position": "HOME",
+                "short_name": "Sonmez"
+            },
+            {
+                "full_name": "Anna Bondar",
+                "position": "AWAY",
+                "short_name": "Bondar A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Zeynep Sonmez",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            },
+            {
+                "name": "Anna Bondar",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Sonmez v Bondar A",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T00:00:00.000Z"
     }
 ]
