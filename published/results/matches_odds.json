@@ -130,5 +130,137 @@
         "match_name": "Zhabrailova v Loeb",
         "betOption": "Head To Head",
         "start_time": "2026-01-20T10:30:00.000Z"
+    },
+    {
+        "contestant_names": "Mark Selby VERSES Zhao Xintong",
+        "start_time_aest": "2026-01-20T22:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "Championship League",
+        "contestants": [
+            {
+                "full_name": "Mark Selby",
+                "position": "HOME",
+                "short_name": "Selby"
+            },
+            {
+                "full_name": "Zhao Xintong",
+                "position": "AWAY",
+                "short_name": "Xintong"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mark Selby",
+                "returnWin": 1.68,
+                "returnPlace": 0
+            },
+            {
+                "name": "Zhao Xintong",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Selby v Xintong",
+        "betOption": "Result",
+        "start_time": "2026-01-20T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Maks Kasnikowski VERSES Jurij Rodionov",
+        "start_time_aest": "2026-01-20T22:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Maks Kasnikowski",
+                "position": "HOME",
+                "short_name": "Kasnikowski"
+            },
+            {
+                "full_name": "Jurij Rodionov",
+                "position": "AWAY",
+                "short_name": "Rodionov"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Maks Kasnikowski",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Jurij Rodionov",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Kasnikowski v Rodionov",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-20T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Dmitry Popko VERSES Kimmer Coppejans",
+        "start_time_aest": "2026-01-20T22:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Dmitry Popko",
+                "position": "HOME",
+                "short_name": "Popko D"
+            },
+            {
+                "full_name": "Kimmer Coppejans",
+                "position": "AWAY",
+                "short_name": "Coppejans"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Dmitry Popko",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            },
+            {
+                "name": "Kimmer Coppejans",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Popko D v Coppejans",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-20T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Joel Schwaerzler VERSES Stefano Napolitano",
+        "start_time_aest": "2026-01-20T22:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Joel Schwaerzler",
+                "position": "HOME",
+                "short_name": "Schwaerzler"
+            },
+            {
+                "full_name": "Stefano Napolitano",
+                "position": "AWAY",
+                "short_name": "Napolitano S"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Joel Schwaerzler",
+                "returnWin": 2.15,
+                "returnPlace": 0
+            },
+            {
+                "name": "Stefano Napolitano",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Schwaerzler v Napolitano S",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-20T11:00:00.000Z"
     }
 ]
