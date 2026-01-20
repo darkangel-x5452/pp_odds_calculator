@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Cedevita VERSES U-bt Cluj-napoca",
-        "start_time_aest": "2026-01-21T04:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "EuroCup",
-        "contestants": [
-            {
-                "full_name": "Cedevita",
-                "position": "HOME",
-                "short_name": "Cedevita"
-            },
-            {
-                "full_name": "U-bt Cluj-napoca",
-                "position": "AWAY",
-                "short_name": "U-bt Cluj-napoca"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Cedevita",
-                "returnWin": 1.48,
-                "returnPlace": 0
-            },
-            {
-                "name": "U-bt Cluj-napoca",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Cedevita v U-bt Cluj-napoca",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-20T17:30:00.000Z"
-    },
-    {
         "contestant_names": "Gerwyn Price VERSES Luke Humphries",
         "start_time_aest": "2026-01-21T04:45:00+11:00",
         "sport_name": "Darts",
@@ -97,5 +64,104 @@
         "match_name": "Hapoel Jerusalem v Bahcesehir",
         "betOption": "Head To Head",
         "start_time": "2026-01-20T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Trefl Sopot VERSES Rostock Seawolve",
+        "start_time_aest": "2026-01-21T05:15:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "FIBA Europe Cup",
+        "contestants": [
+            {
+                "full_name": "Trefl Sopot",
+                "position": "HOME",
+                "short_name": "Trefl Sopot"
+            },
+            {
+                "full_name": "Rostock Seawolve",
+                "position": "AWAY",
+                "short_name": "Rostock Seawolve"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Trefl Sopot",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            },
+            {
+                "name": "Rostock Seawolve",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Trefl Sopot v Rostock Seawolve",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-20T18:15:00.000Z"
+    },
+    {
+        "contestant_names": "ASVEL Lyon VERSES Zalgiris",
+        "start_time_aest": "2026-01-21T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "EuroLeague",
+        "contestants": [
+            {
+                "full_name": "ASVEL Lyon",
+                "position": "HOME",
+                "short_name": "ASVEL Lyon"
+            },
+            {
+                "full_name": "Zalgiris",
+                "position": "AWAY",
+                "short_name": "Zalgiris"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "ASVEL Lyon",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            },
+            {
+                "name": "Zalgiris",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "ASVEL Lyon v Zalgiris",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-20T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Zsombor Piros VERSES Jan Choinski",
+        "start_time_aest": "2026-01-21T06:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Zsombor Piros",
+                "position": "HOME",
+                "short_name": "Piros"
+            },
+            {
+                "full_name": "Jan Choinski",
+                "position": "AWAY",
+                "short_name": "Choinski J"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Zsombor Piros",
+                "returnWin": 1.68,
+                "returnPlace": 0
+            },
+            {
+                "name": "Jan Choinski",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Piros v Choinski J",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-20T19:00:00.000Z"
     }
 ]
