@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Joao Lucas Silva VERSES Nikolas Sanchez Izquierdo",
-        "start_time_aest": "2026-01-21T08:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Joao Lucas Silva",
-                "position": "HOME",
-                "short_name": "Silva J"
-            },
-            {
-                "full_name": "Nikolas Sanchez Izquierdo",
-                "position": "AWAY",
-                "short_name": "Isquierdo"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Joao Lucas Silva",
-                "returnWin": 1.68,
-                "returnPlace": 0
-            },
-            {
-                "name": "Nikolas Sanchez Izquierdo",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Silva J v Isquierdo",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-20T21:30:00.000Z"
-    },
-    {
         "contestant_names": "Massachusetts VERSES Toledo",
         "start_time_aest": "2026-01-21T10:00:00+11:00",
         "sport_name": "Basketball",
@@ -128,6 +95,72 @@
             }
         ],
         "match_name": "Colon v Paula Galvez",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Clemson VERSES Nth Carolina St",
+        "start_time_aest": "2026-01-21T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Clemson",
+                "position": "HOME",
+                "short_name": "Clemson"
+            },
+            {
+                "full_name": "Nth Carolina St",
+                "position": "AWAY",
+                "short_name": "Nth Carolina St"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Clemson",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            },
+            {
+                "name": "Nth Carolina St",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Clemson v Nth Carolina St",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "South Carolina VERSES Oklahoma",
+        "start_time_aest": "2026-01-21T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "South Carolina",
+                "position": "HOME",
+                "short_name": "South Carolina"
+            },
+            {
+                "full_name": "Oklahoma",
+                "position": "AWAY",
+                "short_name": "Oklahoma"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "South Carolina",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            },
+            {
+                "name": "Oklahoma",
+                "returnWin": 1.74,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "South Carolina v Oklahoma",
         "betOption": "Head To Head",
         "start_time": "2026-01-21T00:00:00.000Z"
     }
