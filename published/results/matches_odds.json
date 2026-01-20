@@ -1,137 +1,5 @@
 [
     {
-        "contestant_names": "Lehigh VERSES Loyola (MD)",
-        "start_time_aest": "2026-01-20T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Lehigh",
-                "position": "HOME",
-                "short_name": "Lehigh"
-            },
-            {
-                "full_name": "Loyola (MD)",
-                "position": "AWAY",
-                "short_name": "Loyola (MD)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Lehigh",
-                "returnWin": 1.53,
-                "returnPlace": 0
-            },
-            {
-                "name": "Loyola (MD)",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Lehigh v Loyola (MD)",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-20T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Cristian Garin VERSES Luciano Darderi",
-        "start_time_aest": "2026-01-20T11:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open",
-        "contestants": [
-            {
-                "full_name": "Cristian Garin",
-                "position": "HOME",
-                "short_name": "Garin C"
-            },
-            {
-                "full_name": "Luciano Darderi",
-                "position": "AWAY",
-                "short_name": "Darderi"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Cristian Garin",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Luciano Darderi",
-                "returnWin": 1.52,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Garin C v Darderi",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-20T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Ashlyn Krueger VERSES Sara Bejlek",
-        "start_time_aest": "2026-01-20T11:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open",
-        "contestants": [
-            {
-                "full_name": "Ashlyn Krueger",
-                "position": "HOME",
-                "short_name": "Krueger A"
-            },
-            {
-                "full_name": "Sara Bejlek",
-                "position": "AWAY",
-                "short_name": "Bejlek"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ashlyn Krueger",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            },
-            {
-                "name": "Sara Bejlek",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Krueger A v Bejlek",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-20T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Golubev/Nedovyesov VERSES Etcheverry/Ugo Carabelli",
-        "start_time_aest": "2026-01-20T11:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
-        "contestants": [
-            {
-                "full_name": "Golubev/Nedovyesov",
-                "position": "HOME",
-                "short_name": "Golubev/Ndovyesov"
-            },
-            {
-                "full_name": "Etcheverry/Ugo Carabelli",
-                "position": "AWAY",
-                "short_name": "Etchverry/U-Crbelli"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Golubev/Nedovyesov",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            },
-            {
-                "name": "Etcheverry/Ugo Carabelli",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Golubev/Ndovyesov v Etchverry/U-Crbelli",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-20T00:00:00.000Z"
-    },
-    {
         "contestant_names": "Malvin VERSES Def Sporting",
         "start_time_aest": "2026-01-20T11:15:00+11:00",
         "sport_name": "Basketball",
@@ -161,6 +29,72 @@
             }
         ],
         "match_name": "Malvin v Def Sporting",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-20T00:15:00.000Z"
+    },
+    {
+        "contestant_names": "Ashlyn Krueger VERSES Sara Bejlek",
+        "start_time_aest": "2026-01-20T11:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Ashlyn Krueger",
+                "position": "HOME",
+                "short_name": "Krueger A"
+            },
+            {
+                "full_name": "Sara Bejlek",
+                "position": "AWAY",
+                "short_name": "Bejlek"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ashlyn Krueger",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            },
+            {
+                "name": "Sara Bejlek",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Krueger A v Bejlek",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-20T00:15:00.000Z"
+    },
+    {
+        "contestant_names": "Golubev/Nedovyesov VERSES Etcheverry/Ugo Carabelli",
+        "start_time_aest": "2026-01-20T11:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open Doubles",
+        "contestants": [
+            {
+                "full_name": "Golubev/Nedovyesov",
+                "position": "HOME",
+                "short_name": "Golubev/Ndovyesov"
+            },
+            {
+                "full_name": "Etcheverry/Ugo Carabelli",
+                "position": "AWAY",
+                "short_name": "Etchverry/U-Crbelli"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Golubev/Nedovyesov",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            },
+            {
+                "name": "Etcheverry/Ugo Carabelli",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Golubev/Ndovyesov v Etchverry/U-Crbelli",
         "betOption": "Head To Head",
         "start_time": "2026-01-20T00:15:00.000Z"
     },
