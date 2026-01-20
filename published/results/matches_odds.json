@@ -1,71 +1,5 @@
 [
     {
-        "contestant_names": "Tofas VERSES Alba Berlin",
-        "start_time_aest": "2026-01-21T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Basketball Champions League",
-        "contestants": [
-            {
-                "full_name": "Tofas",
-                "position": "HOME",
-                "short_name": "Tofas"
-            },
-            {
-                "full_name": "Alba Berlin",
-                "position": "AWAY",
-                "short_name": "Alba Berlin"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Tofas",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            },
-            {
-                "name": "Alba Berlin",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Tofas v Alba Berlin",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-20T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "GHK Properties VERSES Pharma Solutions",
-        "start_time_aest": "2026-01-21T04:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "ICCA Arabian Cricket League",
-        "contestants": [
-            {
-                "full_name": "GHK Properties",
-                "position": "HOME",
-                "short_name": "Ghk Properties"
-            },
-            {
-                "full_name": "Pharma Solutions",
-                "position": "AWAY",
-                "short_name": "Pharma Solutions"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "GHK Properties",
-                "returnWin": 1.7,
-                "returnPlace": 0
-            },
-            {
-                "name": "Pharma Solutions",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Ghk Properties v Pharma Solutions",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-20T17:00:00.000Z"
-    },
-    {
         "contestant_names": "Cedevita VERSES U-bt Cluj-napoca",
         "start_time_aest": "2026-01-21T04:30:00+11:00",
         "sport_name": "Basketball",
@@ -97,5 +31,71 @@
         "match_name": "Cedevita v U-bt Cluj-napoca",
         "betOption": "Head To Head",
         "start_time": "2026-01-20T17:30:00.000Z"
+    },
+    {
+        "contestant_names": "Gerwyn Price VERSES Luke Humphries",
+        "start_time_aest": "2026-01-21T04:45:00+11:00",
+        "sport_name": "Darts",
+        "competition_name": "Saudi Arabia Darts Masters",
+        "contestants": [
+            {
+                "full_name": "Gerwyn Price",
+                "position": "HOME",
+                "short_name": "Price"
+            },
+            {
+                "full_name": "Luke Humphries",
+                "position": "AWAY",
+                "short_name": "Humphries Luke"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Gerwyn Price",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            },
+            {
+                "name": "Luke Humphries",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Price v Humphries Luke",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-20T17:45:00.000Z"
+    },
+    {
+        "contestant_names": "Hapoel Jerusalem VERSES Bahcesehir",
+        "start_time_aest": "2026-01-21T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "EuroCup",
+        "contestants": [
+            {
+                "full_name": "Hapoel Jerusalem",
+                "position": "HOME",
+                "short_name": "Hapoel Jerusalem"
+            },
+            {
+                "full_name": "Bahcesehir",
+                "position": "AWAY",
+                "short_name": "Bahcesehir"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hapoel Jerusalem",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            },
+            {
+                "name": "Bahcesehir",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Hapoel Jerusalem v Bahcesehir",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-20T18:00:00.000Z"
     }
 ]
