@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Massachusetts VERSES Toledo",
-        "start_time_aest": "2026-01-21T10:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Massachusetts",
-                "position": "HOME",
-                "short_name": "Massachusetts"
-            },
-            {
-                "full_name": "Toledo",
-                "position": "AWAY",
-                "short_name": "Toledo"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Massachusetts",
-                "returnWin": 1.7,
-                "returnPlace": 0
-            },
-            {
-                "name": "Toledo",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Massachusetts v Toledo",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-20T23:00:00.000Z"
-    },
-    {
         "contestant_names": "Rocamora VERSES La Union Colon E",
         "start_time_aest": "2026-01-21T11:00:00+11:00",
         "sport_name": "Basketball",
@@ -194,6 +161,39 @@
             }
         ],
         "match_name": "Kent State v Miami (Ohio)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Jupiter Links VERSES Los Angeles",
+        "start_time_aest": "2026-01-21T11:00:00+11:00",
+        "sport_name": "Golf",
+        "competition_name": "TGL",
+        "contestants": [
+            {
+                "full_name": "Jupiter Links",
+                "position": "HOME",
+                "short_name": "Jupiter Links"
+            },
+            {
+                "full_name": "Los Angeles",
+                "position": "AWAY",
+                "short_name": "Los Angeles"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jupiter Links",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            },
+            {
+                "name": "Los Angeles",
+                "returnWin": 1.53,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Jupiter Links v Los Angeles",
         "betOption": "Head To Head",
         "start_time": "2026-01-21T00:00:00.000Z"
     }
