@@ -1,104 +1,5 @@
 [
     {
-        "contestant_names": "Detroit VERSES Boston",
-        "start_time_aest": "2026-01-20T12:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Detroit",
-                "position": "HOME",
-                "short_name": "Detroit"
-            },
-            {
-                "full_name": "Boston",
-                "position": "AWAY",
-                "short_name": "Boston"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Detroit",
-                "returnWin": 1.73,
-                "returnPlace": 0
-            },
-            {
-                "name": "Boston",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Detroit v Boston",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-20T01:10:00.000Z"
-    },
-    {
-        "contestant_names": "Northern Brave (W) VERSES Central Hinds (W)",
-        "start_time_aest": "2026-01-20T12:10:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "NZ Womens Super Smash",
-        "contestants": [
-            {
-                "full_name": "Northern Brave (W)",
-                "position": "HOME",
-                "short_name": "Nthn Brave (W)"
-            },
-            {
-                "full_name": "Central Hinds (W)",
-                "position": "AWAY",
-                "short_name": "Central Hinds(W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Northern Brave (W)",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            },
-            {
-                "name": "Central Hinds (W)",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Nthn Brave (W) v Central Hinds(W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-20T01:10:00.000Z"
-    },
-    {
-        "contestant_names": "Detroit VERSES Boston",
-        "start_time_aest": "2026-01-20T12:12:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Detroit",
-                "position": "HOME",
-                "short_name": "Detroit"
-            },
-            {
-                "full_name": "Boston",
-                "position": "AWAY",
-                "short_name": "Boston"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Detroit",
-                "returnWin": 1.73,
-                "returnPlace": 0
-            },
-            {
-                "name": "Boston",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Detroit v Boston",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-20T01:12:00.000Z"
-    },
-    {
         "contestant_names": "Chicago VERSES Winnipeg",
         "start_time_aest": "2026-01-20T12:40:00+11:00",
         "sport_name": "Ice Hockey",
@@ -425,6 +326,39 @@
             }
         ],
         "match_name": "Fonseca v Spizzirri E",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-20T02:30:00.000Z"
+    },
+    {
+        "contestant_names": "Lulu Sun VERSES Linda Fruhvirtova",
+        "start_time_aest": "2026-01-20T13:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Lulu Sun",
+                "position": "HOME",
+                "short_name": "Sun L"
+            },
+            {
+                "full_name": "Linda Fruhvirtova",
+                "position": "AWAY",
+                "short_name": "Fruhvirtova L"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lulu Sun",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            },
+            {
+                "name": "Linda Fruhvirtova",
+                "returnWin": 2.15,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Sun L v Fruhvirtova L",
         "betOption": "Head To Head",
         "start_time": "2026-01-20T02:30:00.000Z"
     },
