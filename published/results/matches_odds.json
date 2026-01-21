@@ -1,40 +1,7 @@
 [
     {
-        "contestant_names": "Xiao Guodong VERSES Jak Jones",
-        "start_time_aest": "2026-01-22T05:30:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "Championship League",
-        "contestants": [
-            {
-                "full_name": "Xiao Guodong",
-                "position": "HOME",
-                "short_name": "Guodong"
-            },
-            {
-                "full_name": "Jak Jones",
-                "position": "AWAY",
-                "short_name": "Jones"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Xiao Guodong",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            },
-            {
-                "name": "Jak Jones",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Guodong v Jones",
-        "betOption": "Result",
-        "start_time": "2026-01-21T18:30:00.000Z"
-    },
-    {
         "contestant_names": "Thiago Moura Monteiro VERSES Franco Agamenone",
-        "start_time_aest": "2026-01-22T05:30:00+11:00",
+        "start_time_aest": "2026-01-22T05:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -63,7 +30,7 @@
         ],
         "match_name": "Monteiro v Agamenone",
         "betOption": "Head To Head",
-        "start_time": "2026-01-21T18:30:00.000Z"
+        "start_time": "2026-01-21T18:45:00.000Z"
     },
     {
         "contestant_names": "Tg Pedretti VERSES Sara Cakarevic",
@@ -130,5 +97,137 @@
         "match_name": "Inea Azs Poznan v Polonia 1912 Les",
         "betOption": "Head To Head",
         "start_time": "2026-01-21T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Benfica VERSES TFL Altekma",
+        "start_time_aest": "2026-01-22T06:00:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "CEV Challenge Cup",
+        "contestants": [
+            {
+                "full_name": "Benfica",
+                "position": "HOME",
+                "short_name": "Benfica"
+            },
+            {
+                "full_name": "TFL Altekma",
+                "position": "AWAY",
+                "short_name": "Tfl Altekma"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Benfica",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            },
+            {
+                "name": "TFL Altekma",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Benfica v Tfl Altekma",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Orion Doetinchem VERSES CSU Brasov",
+        "start_time_aest": "2026-01-22T06:00:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "CEV Cup",
+        "contestants": [
+            {
+                "full_name": "Orion Doetinchem",
+                "position": "HOME",
+                "short_name": "Orion Doetinchem"
+            },
+            {
+                "full_name": "CSU Brasov",
+                "position": "AWAY",
+                "short_name": "Csu Brasov"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Orion Doetinchem",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            },
+            {
+                "name": "CSU Brasov",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Orion Doetinchem v Csu Brasov",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Volley Lugano (W) VERSES Kanti Schaffhausen (W)",
+        "start_time_aest": "2026-01-22T06:00:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "Switzerland NLA Women",
+        "contestants": [
+            {
+                "full_name": "Volley Lugano (W)",
+                "position": "HOME",
+                "short_name": "Vol Lugano (W)"
+            },
+            {
+                "full_name": "Kanti Schaffhausen (W)",
+                "position": "AWAY",
+                "short_name": "Kanti Schaff (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Volley Lugano (W)",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            },
+            {
+                "name": "Kanti Schaffhausen (W)",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Vol Lugano (W) v Kanti Schaff (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Obiettivo Lavoro VERSES Fenerbahce",
+        "start_time_aest": "2026-01-22T06:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "EuroLeague",
+        "contestants": [
+            {
+                "full_name": "Obiettivo Lavoro",
+                "position": "HOME",
+                "short_name": "Obiettivo Lavoro"
+            },
+            {
+                "full_name": "Fenerbahce",
+                "position": "AWAY",
+                "short_name": "Fenerbahce"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Obiettivo Lavoro",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            },
+            {
+                "name": "Fenerbahce",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Obiettivo Lavoro v Fenerbahce",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T19:30:00.000Z"
     }
 ]
