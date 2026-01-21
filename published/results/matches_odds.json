@@ -1,167 +1,398 @@
 [
     {
-        "contestant_names": "Philadelphia VERSES Phoenix",
-        "start_time_aest": "2026-01-21T11:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Philadelphia",
-                "position": "HOME",
-                "short_name": "Philadelphia"
-            },
-            {
-                "full_name": "Phoenix",
-                "position": "AWAY",
-                "short_name": "Phoenix"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Philadelphia",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            },
-            {
-                "name": "Phoenix",
-                "returnWin": 1.7,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Philadelphia v Phoenix",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-21T00:10:00.000Z"
-    },
-    {
-        "contestant_names": "Montreal VERSES Minnesota",
-        "start_time_aest": "2026-01-21T11:10:00+11:00",
+        "contestant_names": "Dallas VERSES Boston",
+        "start_time_aest": "2026-01-21T11:39:00+11:00",
         "sport_name": "Ice Hockey",
         "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "Montreal",
+                "full_name": "Dallas",
                 "position": "HOME",
-                "short_name": "Montreal"
+                "short_name": "Dallas"
             },
             {
-                "full_name": "Minnesota",
+                "full_name": "Boston",
                 "position": "AWAY",
-                "short_name": "Minnesota"
+                "short_name": "Boston"
             }
         ],
         "propositions": [
             {
-                "name": "Montreal",
+                "name": "Dallas",
                 "returnWin": 1.7,
                 "returnPlace": 0
             },
             {
-                "name": "Minnesota",
+                "name": "Boston",
                 "returnWin": 2.1,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Montreal v Minnesota",
+        "match_name": "Dallas v Boston",
         "betOption": "Head To Head",
-        "start_time": "2026-01-21T00:10:00.000Z"
+        "start_time": "2026-01-21T00:39:00.000Z"
     },
     {
-        "contestant_names": "Union Atletica VERSES GOES",
-        "start_time_aest": "2026-01-21T11:15:00+11:00",
+        "contestant_names": "Hindu Cordoba VERSES San Isidro",
+        "start_time_aest": "2026-01-21T12:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Uruguay LUB",
+        "competition_name": "Argentina Liga A",
         "contestants": [
             {
-                "full_name": "Union Atletica",
+                "full_name": "Hindu Cordoba",
                 "position": "HOME",
-                "short_name": "Union Atletica"
+                "short_name": "Hindu Cordoba"
             },
             {
-                "full_name": "GOES",
+                "full_name": "San Isidro",
                 "position": "AWAY",
-                "short_name": "GOES"
+                "short_name": "San Isidro"
             }
         ],
         "propositions": [
             {
-                "name": "Union Atletica",
-                "returnWin": 1.5,
+                "name": "Hindu Cordoba",
+                "returnWin": 2.25,
                 "returnPlace": 0
             },
             {
-                "name": "GOES",
-                "returnWin": 2.35,
+                "name": "San Isidro",
+                "returnWin": 1.55,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Union Atletica v GOES",
+        "match_name": "Hindu Cordoba v San Isidro",
         "betOption": "Head To Head",
-        "start_time": "2026-01-21T00:15:00.000Z"
+        "start_time": "2026-01-21T01:00:00.000Z"
     },
     {
-        "contestant_names": "Kamil Majchrzak VERSES Fabian Marozsan",
-        "start_time_aest": "2026-01-21T11:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open",
+        "contestant_names": "Arizona VERSES Kansas",
+        "start_time_aest": "2026-01-21T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
         "contestants": [
             {
-                "full_name": "Kamil Majchrzak",
+                "full_name": "Arizona",
                 "position": "HOME",
-                "short_name": "Majchrzak"
+                "short_name": "Arizona"
             },
             {
-                "full_name": "Fabian Marozsan",
+                "full_name": "Kansas",
                 "position": "AWAY",
-                "short_name": "Marozsan"
+                "short_name": "Kansas"
             }
         ],
         "propositions": [
             {
-                "name": "Kamil Majchrzak",
-                "returnWin": 2.35,
+                "name": "Arizona",
+                "returnWin": 2.25,
                 "returnPlace": 0
             },
             {
-                "name": "Fabian Marozsan",
+                "name": "Kansas",
                 "returnWin": 1.6,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Majchrzak v Marozsan",
+        "match_name": "Arizona v Kansas",
         "betOption": "Head To Head",
-        "start_time": "2026-01-21T00:15:00.000Z"
+        "start_time": "2026-01-21T01:00:00.000Z"
     },
     {
-        "contestant_names": "Zeynep Sonmez VERSES Anna Bondar",
-        "start_time_aest": "2026-01-21T11:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open",
+        "contestant_names": "Winnipeg VERSES St Louis",
+        "start_time_aest": "2026-01-21T12:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "Zeynep Sonmez",
+                "full_name": "Winnipeg",
                 "position": "HOME",
-                "short_name": "Sonmez"
+                "short_name": "Winnipeg"
             },
             {
-                "full_name": "Anna Bondar",
+                "full_name": "St Louis",
                 "position": "AWAY",
-                "short_name": "Bondar A"
+                "short_name": "St Louis"
             }
         ],
         "propositions": [
             {
-                "name": "Zeynep Sonmez",
-                "returnWin": 1.65,
+                "name": "Winnipeg",
+                "returnWin": 1.8,
                 "returnPlace": 0
             },
             {
-                "name": "Anna Bondar",
-                "returnWin": 2.25,
+                "name": "St Louis",
+                "returnWin": 2,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Sonmez v Bondar A",
+        "match_name": "Winnipeg v St Louis",
         "betOption": "Head To Head",
-        "start_time": "2026-01-21T00:15:00.000Z"
+        "start_time": "2026-01-21T01:05:00.000Z"
+    },
+    {
+        "contestant_names": "Nashville VERSES Buffalo",
+        "start_time_aest": "2026-01-21T12:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Nashville",
+                "position": "HOME",
+                "short_name": "Nashville"
+            },
+            {
+                "full_name": "Buffalo",
+                "position": "AWAY",
+                "short_name": "Buffalo"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nashville",
+                "returnWin": 1.75,
+                "returnPlace": 0
+            },
+            {
+                "name": "Buffalo",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Nashville v Buffalo",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T01:05:00.000Z"
+    },
+    {
+        "contestant_names": "Chicago VERSES LA Clippers",
+        "start_time_aest": "2026-01-21T12:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Chicago",
+                "position": "HOME",
+                "short_name": "Chicago"
+            },
+            {
+                "full_name": "LA Clippers",
+                "position": "AWAY",
+                "short_name": "LA Clippers"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Chicago",
+                "returnWin": 1.73,
+                "returnPlace": 0
+            },
+            {
+                "name": "LA Clippers",
+                "returnWin": 2.15,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Chicago v LA Clippers",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T01:10:00.000Z"
+    },
+    {
+        "contestant_names": "Houston VERSES San Antonio",
+        "start_time_aest": "2026-01-21T12:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Houston",
+                "position": "HOME",
+                "short_name": "Houston"
+            },
+            {
+                "full_name": "San Antonio",
+                "position": "AWAY",
+                "short_name": "San Antonio"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Houston",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            },
+            {
+                "name": "San Antonio",
+                "returnWin": 2.45,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Houston v San Antonio",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T01:10:00.000Z"
+    },
+    {
+        "contestant_names": "Canterbury Magicians (W) VERSES Otago Sparks (W)",
+        "start_time_aest": "2026-01-21T12:10:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "NZ Womens Super Smash",
+        "contestants": [
+            {
+                "full_name": "Canterbury Magicians (W)",
+                "position": "HOME",
+                "short_name": "Canterbury (W)"
+            },
+            {
+                "full_name": "Otago Sparks (W)",
+                "position": "AWAY",
+                "short_name": "Otago Sparks (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Canterbury Magicians (W)",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            },
+            {
+                "name": "Otago Sparks (W)",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Canterbury (W) v Otago Sparks (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T01:10:00.000Z"
+    },
+    {
+        "contestant_names": "SE Missouri St VERSES Tennessee-Martin",
+        "start_time_aest": "2026-01-21T12:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "SE Missouri St",
+                "position": "HOME",
+                "short_name": "SE Missouri St"
+            },
+            {
+                "full_name": "Tennessee-Martin",
+                "position": "AWAY",
+                "short_name": "Tennessee-Martin"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "SE Missouri St",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            },
+            {
+                "name": "Tennessee-Martin",
+                "returnWin": 2.15,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "SE Missouri St v Tennessee-Martin",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T01:30:00.000Z"
+    },
+    {
+        "contestant_names": "Wyoming VERSES Boise State",
+        "start_time_aest": "2026-01-21T12:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Wyoming",
+                "position": "HOME",
+                "short_name": "Wyoming"
+            },
+            {
+                "full_name": "Boise State",
+                "position": "AWAY",
+                "short_name": "Boise State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Wyoming",
+                "returnWin": 1.85,
+                "returnPlace": 0
+            },
+            {
+                "name": "Boise State",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Wyoming v Boise State",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T01:30:00.000Z"
+    },
+    {
+        "contestant_names": "Mississippi VERSES Auburn",
+        "start_time_aest": "2026-01-21T13:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Mississippi",
+                "position": "HOME",
+                "short_name": "Mississippi"
+            },
+            {
+                "full_name": "Auburn",
+                "position": "AWAY",
+                "short_name": "Auburn"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mississippi",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            },
+            {
+                "name": "Auburn",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Mississippi v Auburn",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T02:00:00.000Z"
+    },
+    {
+        "contestant_names": "Baylor VERSES Texas Tech",
+        "start_time_aest": "2026-01-21T13:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Baylor",
+                "position": "HOME",
+                "short_name": "Baylor"
+            },
+            {
+                "full_name": "Texas Tech",
+                "position": "AWAY",
+                "short_name": "Texas Tech"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Baylor",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            },
+            {
+                "name": "Texas Tech",
+                "returnWin": 1.74,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Baylor v Texas Tech",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T02:00:00.000Z"
     }
 ]
