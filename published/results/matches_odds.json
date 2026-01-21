@@ -1,35 +1,167 @@
 [
     {
-        "contestant_names": "UniaoCorinthians VERSES Sendi/Bauru",
-        "start_time_aest": "2026-01-22T09:00:00+11:00",
+        "contestant_names": "Wofford VERSES Samford",
+        "start_time_aest": "2026-01-22T10:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Brazil NBB",
+        "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "UniaoCorinthians",
+                "full_name": "Wofford",
                 "position": "HOME",
-                "short_name": "UniaoCorinthians"
+                "short_name": "Wofford"
             },
             {
-                "full_name": "Sendi/Bauru",
+                "full_name": "Samford",
                 "position": "AWAY",
-                "short_name": "Sendi/Bauru"
+                "short_name": "Samford"
             }
         ],
         "propositions": [
             {
-                "name": "UniaoCorinthians",
-                "returnWin": 1.5,
+                "name": "Wofford",
+                "returnWin": 1.6,
                 "returnPlace": 0
             },
             {
-                "name": "Sendi/Bauru",
+                "name": "Samford",
                 "returnWin": 2.35,
                 "returnPlace": 0
             }
         ],
-        "match_name": "UniaoCorinthians v Sendi/Bauru",
+        "match_name": "Wofford v Samford",
         "betOption": "Head To Head",
-        "start_time": "2026-01-21T22:00:00.000Z"
+        "start_time": "2026-01-21T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "USC Upstate VERSES UNC Asheville",
+        "start_time_aest": "2026-01-22T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "USC Upstate",
+                "position": "HOME",
+                "short_name": "USC Upstate"
+            },
+            {
+                "full_name": "UNC Asheville",
+                "position": "AWAY",
+                "short_name": "UNC Asheville"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "USC Upstate",
+                "returnWin": 1.74,
+                "returnPlace": 0
+            },
+            {
+                "name": "UNC Asheville",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "USC Upstate v UNC Asheville",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "VMI VERSES UNC Greensboro",
+        "start_time_aest": "2026-01-22T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "VMI",
+                "position": "HOME",
+                "short_name": "VMI"
+            },
+            {
+                "full_name": "UNC Greensboro",
+                "position": "AWAY",
+                "short_name": "UNC Greensboro"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "VMI",
+                "returnWin": 2.15,
+                "returnPlace": 0
+            },
+            {
+                "name": "UNC Greensboro",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "VMI v UNC Greensboro",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Duquesne VERSES Dayton",
+        "start_time_aest": "2026-01-22T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Duquesne",
+                "position": "HOME",
+                "short_name": "Duquesne"
+            },
+            {
+                "full_name": "Dayton",
+                "position": "AWAY",
+                "short_name": "Dayton"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Duquesne",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            },
+            {
+                "name": "Dayton",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Duquesne v Dayton",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "VCU VERSES George Wshington",
+        "start_time_aest": "2026-01-22T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "VCU",
+                "position": "HOME",
+                "short_name": "VCU"
+            },
+            {
+                "full_name": "George Wshington",
+                "position": "AWAY",
+                "short_name": "George Wshington"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "VCU",
+                "returnWin": 1.72,
+                "returnPlace": 0
+            },
+            {
+                "name": "George Wshington",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "VCU v George Wshington",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T23:00:00.000Z"
     }
 ]
