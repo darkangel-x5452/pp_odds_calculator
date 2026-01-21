@@ -1,71 +1,5 @@
 [
     {
-        "contestant_names": "McCabe/Tu VERSES Bergs/Collignon",
-        "start_time_aest": "2026-01-21T15:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
-        "contestants": [
-            {
-                "full_name": "McCabe/Tu",
-                "position": "HOME",
-                "short_name": "McCabe/Tu"
-            },
-            {
-                "full_name": "Bergs/Collignon",
-                "position": "AWAY",
-                "short_name": "Bergs/Collignon"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "McCabe/Tu",
-                "returnWin": 1.68,
-                "returnPlace": 0
-            },
-            {
-                "name": "Bergs/Collignon",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "McCabe/Tu v Bergs/Collignon",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-21T04:00:00.000Z"
-    },
-    {
-        "contestant_names": "Colorado VERSES Kansas",
-        "start_time_aest": "2026-01-21T15:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Colorado",
-                "position": "HOME",
-                "short_name": "Colorado"
-            },
-            {
-                "full_name": "Kansas",
-                "position": "AWAY",
-                "short_name": "Kansas"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Colorado",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Kansas",
-                "returnWin": 1.53,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Colorado v Kansas",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-21T04:00:00.000Z"
-    },
-    {
         "contestant_names": "Supanida Katethong VERSES Line Christophersen",
         "start_time_aest": "2026-01-21T15:20:00+11:00",
         "sport_name": "Badminton",
@@ -229,5 +163,71 @@
         "match_name": "Kjaersfeldt v Han QX",
         "betOption": "Head To Head",
         "start_time": "2026-01-21T04:40:00.000Z"
+    },
+    {
+        "contestant_names": "Canterbury Kings VERSES Otago Volts",
+        "start_time_aest": "2026-01-21T15:55:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "NZ Super Smash",
+        "contestants": [
+            {
+                "full_name": "Canterbury Kings",
+                "position": "HOME",
+                "short_name": "Canterbury"
+            },
+            {
+                "full_name": "Otago Volts",
+                "position": "AWAY",
+                "short_name": "Otago"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Canterbury Kings",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            },
+            {
+                "name": "Otago Volts",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Canterbury v Otago",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T04:55:00.000Z"
+    },
+    {
+        "contestant_names": "Lee J/Lee Y L VERSES Vestergaard M/Busch C",
+        "start_time_aest": "2026-01-21T16:10:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour Doubles",
+        "contestants": [
+            {
+                "full_name": "Lee J/Lee Y L",
+                "position": "HOME",
+                "short_name": "Lee J/Lee Y L"
+            },
+            {
+                "full_name": "Vestergaard M/Busch C",
+                "position": "AWAY",
+                "short_name": "VestergaardBusch"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lee J/Lee Y L",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Vestergaard M/Busch C",
+                "returnWin": 1.72,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Lee J/Lee Y L v VestergaardBusch",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T05:10:00.000Z"
     }
 ]
