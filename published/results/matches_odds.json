@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "HobartHurricanes VERSES Melbourne Stars",
-        "start_time_aest": "2026-01-21T20:31:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Big Bash",
-        "contestants": [
-            {
-                "full_name": "HobartHurricanes",
-                "position": "HOME",
-                "short_name": "HobartHurricanes"
-            },
-            {
-                "full_name": "Melbourne Stars",
-                "position": "AWAY",
-                "short_name": "Melbourne Stars"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "HobartHurricanes",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            },
-            {
-                "name": "Melbourne Stars",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "HobartHurricanes v Melbourne Stars",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-21T09:31:00.000Z"
-    },
-    {
         "contestant_names": "Zuzanna Pawlikowska VERSES Anastasiya Soboleva",
         "start_time_aest": "2026-01-21T21:30:00+11:00",
         "sport_name": "Tennis",
@@ -195,6 +162,39 @@
         ],
         "match_name": "Xintong v Jones",
         "betOption": "Result",
+        "start_time": "2026-01-21T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Barbora Palicova VERSES Tamila Gadamauri",
+        "start_time_aest": "2026-01-21T22:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Barbora Palicova",
+                "position": "HOME",
+                "short_name": "Palicova B"
+            },
+            {
+                "full_name": "Tamila Gadamauri",
+                "position": "AWAY",
+                "short_name": "Gadamauri"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Barbora Palicova",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            },
+            {
+                "name": "Tamila Gadamauri",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Palicova B v Gadamauri",
+        "betOption": "Head To Head",
         "start_time": "2026-01-21T11:00:00.000Z"
     }
 ]
