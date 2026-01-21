@@ -1,104 +1,5 @@
 [
     {
-        "contestant_names": "Dallas VERSES Boston",
-        "start_time_aest": "2026-01-21T11:39:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Dallas",
-                "position": "HOME",
-                "short_name": "Dallas"
-            },
-            {
-                "full_name": "Boston",
-                "position": "AWAY",
-                "short_name": "Boston"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Dallas",
-                "returnWin": 1.7,
-                "returnPlace": 0
-            },
-            {
-                "name": "Boston",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Dallas v Boston",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-21T00:39:00.000Z"
-    },
-    {
-        "contestant_names": "Hindu Cordoba VERSES San Isidro",
-        "start_time_aest": "2026-01-21T12:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga A",
-        "contestants": [
-            {
-                "full_name": "Hindu Cordoba",
-                "position": "HOME",
-                "short_name": "Hindu Cordoba"
-            },
-            {
-                "full_name": "San Isidro",
-                "position": "AWAY",
-                "short_name": "San Isidro"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Hindu Cordoba",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            },
-            {
-                "name": "San Isidro",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Hindu Cordoba v San Isidro",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-21T01:00:00.000Z"
-    },
-    {
-        "contestant_names": "Arizona VERSES Kansas",
-        "start_time_aest": "2026-01-21T12:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Arizona",
-                "position": "HOME",
-                "short_name": "Arizona"
-            },
-            {
-                "full_name": "Kansas",
-                "position": "AWAY",
-                "short_name": "Kansas"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Arizona",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            },
-            {
-                "name": "Kansas",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Arizona v Kansas",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-21T01:00:00.000Z"
-    },
-    {
         "contestant_names": "Winnipeg VERSES St Louis",
         "start_time_aest": "2026-01-21T12:05:00+11:00",
         "sport_name": "Ice Hockey",
@@ -392,6 +293,72 @@
             }
         ],
         "match_name": "Baylor v Texas Tech",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T02:00:00.000Z"
+    },
+    {
+        "contestant_names": "Missouri VERSES Georgia",
+        "start_time_aest": "2026-01-21T13:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Missouri",
+                "position": "HOME",
+                "short_name": "Missouri"
+            },
+            {
+                "full_name": "Georgia",
+                "position": "AWAY",
+                "short_name": "Georgia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Missouri",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            },
+            {
+                "name": "Georgia",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Missouri v Georgia",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T02:00:00.000Z"
+    },
+    {
+        "contestant_names": "Tomas Martin Etcheverry VERSES Arthur Fery",
+        "start_time_aest": "2026-01-21T13:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Tomas Martin Etcheverry",
+                "position": "HOME",
+                "short_name": "Etcheverry"
+            },
+            {
+                "full_name": "Arthur Fery",
+                "position": "AWAY",
+                "short_name": "Fery"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tomas Martin Etcheverry",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            },
+            {
+                "name": "Arthur Fery",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Etcheverry v Fery",
         "betOption": "Head To Head",
         "start_time": "2026-01-21T02:00:00.000Z"
     }
