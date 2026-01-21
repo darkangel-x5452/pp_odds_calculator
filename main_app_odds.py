@@ -5,12 +5,13 @@ import requests
 from utils.get_matches import GetMatchesOdds
 
 from utils.logger import logger
+from utils.tools import load_api
 
 _logger = logger(__name__)
 
 def run_app():
     print("App is running...")
-    odds_api = os.environ["ODDS_API"]
+    odds_api = load_api("company_1")["url"]
     payload = {}
     headers = {
         "Content-Type": "application/json",
