@@ -163,5 +163,71 @@
         "match_name": "VCU v George Wshington",
         "betOption": "Head To Head",
         "start_time": "2026-01-21T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Hugo Dellien VERSES Igor Marcondes",
+        "start_time_aest": "2026-01-22T10:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Hugo Dellien",
+                "position": "HOME",
+                "short_name": "Dellien H"
+            },
+            {
+                "full_name": "Igor Marcondes",
+                "position": "AWAY",
+                "short_name": "Marcondes I"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hugo Dellien",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            },
+            {
+                "name": "Igor Marcondes",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Dellien H v Marcondes I",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Queensland (W) VERSES South Australia (W)",
+        "start_time_aest": "2026-01-22T10:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Womens National Cricket League",
+        "contestants": [
+            {
+                "full_name": "Queensland (W)",
+                "position": "HOME",
+                "short_name": "Queensland (W)"
+            },
+            {
+                "full_name": "South Australia (W)",
+                "position": "AWAY",
+                "short_name": "SthAustralia (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Queensland (W)",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            },
+            {
+                "name": "South Australia (W)",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Queensland (W) v SthAustralia (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T23:30:00.000Z"
     }
 ]
