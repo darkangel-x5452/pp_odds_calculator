@@ -1,71 +1,5 @@
 [
     {
-        "contestant_names": "Jak Jones VERSES Jack Lisowski",
-        "start_time_aest": "2026-01-22T03:30:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "Championship League",
-        "contestants": [
-            {
-                "full_name": "Jak Jones",
-                "position": "HOME",
-                "short_name": "Jones"
-            },
-            {
-                "full_name": "Jack Lisowski",
-                "position": "AWAY",
-                "short_name": "Lisowski"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jak Jones",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            },
-            {
-                "name": "Jack Lisowski",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Jones v Lisowski",
-        "betOption": "Result",
-        "start_time": "2026-01-21T16:30:00.000Z"
-    },
-    {
-        "contestant_names": "Ayana Akli VERSES Emily Seibold",
-        "start_time_aest": "2026-01-22T03:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Ayana Akli",
-                "position": "HOME",
-                "short_name": "Akli A"
-            },
-            {
-                "full_name": "Emily Seibold",
-                "position": "AWAY",
-                "short_name": "Seibold E"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ayana Akli",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            },
-            {
-                "name": "Emily Seibold",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Akli A v Seibold E",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-21T16:30:00.000Z"
-    },
-    {
         "contestant_names": "Maria Navarro Oliva VERSES Miriana Tona",
         "start_time_aest": "2026-01-22T03:55:00+11:00",
         "sport_name": "Tennis",
@@ -97,5 +31,71 @@
         "match_name": "Navarro Oliva v Tona",
         "betOption": "Head To Head",
         "start_time": "2026-01-21T16:55:00.000Z"
+    },
+    {
+        "contestant_names": "Lietkabelis VERSES Aquila Trento",
+        "start_time_aest": "2026-01-22T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "EuroCup",
+        "contestants": [
+            {
+                "full_name": "Lietkabelis",
+                "position": "HOME",
+                "short_name": "Lietkabelis"
+            },
+            {
+                "full_name": "Aquila Trento",
+                "position": "AWAY",
+                "short_name": "Aquila Trento"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lietkabelis",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            },
+            {
+                "name": "Aquila Trento",
+                "returnWin": 1.66,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Lietkabelis v Aquila Trento",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Politech Opolska VERSES WKK Wroclaw",
+        "start_time_aest": "2026-01-22T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Poland First Division",
+        "contestants": [
+            {
+                "full_name": "Politech Opolska",
+                "position": "HOME",
+                "short_name": "Politech Opolska"
+            },
+            {
+                "full_name": "WKK Wroclaw",
+                "position": "AWAY",
+                "short_name": "WKK Wroclaw"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Politech Opolska",
+                "returnWin": 1.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "WKK Wroclaw",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Politech Opolska v WKK Wroclaw",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T17:00:00.000Z"
     }
 ]
