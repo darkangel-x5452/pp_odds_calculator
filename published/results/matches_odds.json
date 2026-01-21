@@ -1,205 +1,106 @@
 [
     {
-        "contestant_names": "Rocamora VERSES La Union Colon E",
-        "start_time_aest": "2026-01-21T11:00:00+11:00",
+        "contestant_names": "Philadelphia VERSES Phoenix",
+        "start_time_aest": "2026-01-21T11:10:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Argentina Liga A",
+        "competition_name": "NBA",
         "contestants": [
             {
-                "full_name": "Rocamora",
+                "full_name": "Philadelphia",
                 "position": "HOME",
-                "short_name": "Rocamora"
+                "short_name": "Philadelphia"
             },
             {
-                "full_name": "La Union Colon E",
+                "full_name": "Phoenix",
                 "position": "AWAY",
-                "short_name": "La Union Colon E"
+                "short_name": "Phoenix"
             }
         ],
         "propositions": [
             {
-                "name": "Rocamora",
-                "returnWin": 2.25,
+                "name": "Philadelphia",
+                "returnWin": 2.2,
                 "returnPlace": 0
             },
             {
-                "name": "La Union Colon E",
-                "returnWin": 1.55,
+                "name": "Phoenix",
+                "returnWin": 1.7,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Rocamora v La Union Colon E",
+        "match_name": "Philadelphia v Phoenix",
         "betOption": "Head To Head",
-        "start_time": "2026-01-21T00:00:00.000Z"
+        "start_time": "2026-01-21T00:10:00.000Z"
     },
     {
-        "contestant_names": "Colon VERSES Paula Galvez",
-        "start_time_aest": "2026-01-21T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga A",
+        "contestant_names": "Montreal VERSES Minnesota",
+        "start_time_aest": "2026-01-21T11:10:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "Colon",
+                "full_name": "Montreal",
                 "position": "HOME",
-                "short_name": "Colon"
+                "short_name": "Montreal"
             },
             {
-                "full_name": "Paula Galvez",
+                "full_name": "Minnesota",
                 "position": "AWAY",
-                "short_name": "Paula Galvez"
+                "short_name": "Minnesota"
             }
         ],
         "propositions": [
             {
-                "name": "Colon",
-                "returnWin": 2.3,
+                "name": "Montreal",
+                "returnWin": 1.7,
                 "returnPlace": 0
             },
             {
-                "name": "Paula Galvez",
-                "returnWin": 1.52,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Colon v Paula Galvez",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-21T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Clemson VERSES Nth Carolina St",
-        "start_time_aest": "2026-01-21T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Clemson",
-                "position": "HOME",
-                "short_name": "Clemson"
-            },
-            {
-                "full_name": "Nth Carolina St",
-                "position": "AWAY",
-                "short_name": "Nth Carolina St"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Clemson",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            },
-            {
-                "name": "Nth Carolina St",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Clemson v Nth Carolina St",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-21T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "South Carolina VERSES Oklahoma",
-        "start_time_aest": "2026-01-21T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "South Carolina",
-                "position": "HOME",
-                "short_name": "South Carolina"
-            },
-            {
-                "full_name": "Oklahoma",
-                "position": "AWAY",
-                "short_name": "Oklahoma"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "South Carolina",
+                "name": "Minnesota",
                 "returnWin": 2.1,
                 "returnPlace": 0
-            },
-            {
-                "name": "Oklahoma",
-                "returnWin": 1.74,
-                "returnPlace": 0
             }
         ],
-        "match_name": "South Carolina v Oklahoma",
+        "match_name": "Montreal v Minnesota",
         "betOption": "Head To Head",
-        "start_time": "2026-01-21T00:00:00.000Z"
+        "start_time": "2026-01-21T00:10:00.000Z"
     },
     {
-        "contestant_names": "Kent State VERSES Miami (Ohio)",
-        "start_time_aest": "2026-01-21T11:00:00+11:00",
+        "contestant_names": "Union Atletica VERSES GOES",
+        "start_time_aest": "2026-01-21T11:15:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "competition_name": "Uruguay LUB",
         "contestants": [
             {
-                "full_name": "Kent State",
+                "full_name": "Union Atletica",
                 "position": "HOME",
-                "short_name": "Kent State"
+                "short_name": "Union Atletica"
             },
             {
-                "full_name": "Miami (Ohio)",
+                "full_name": "GOES",
                 "position": "AWAY",
-                "short_name": "Miami (Ohio)"
+                "short_name": "GOES"
             }
         ],
         "propositions": [
             {
-                "name": "Kent State",
-                "returnWin": 1.77,
+                "name": "Union Atletica",
+                "returnWin": 1.5,
                 "returnPlace": 0
             },
             {
-                "name": "Miami (Ohio)",
-                "returnWin": 2.05,
+                "name": "GOES",
+                "returnWin": 2.35,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Kent State v Miami (Ohio)",
+        "match_name": "Union Atletica v GOES",
         "betOption": "Head To Head",
-        "start_time": "2026-01-21T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Jupiter Links VERSES Los Angeles",
-        "start_time_aest": "2026-01-21T11:00:00+11:00",
-        "sport_name": "Golf",
-        "competition_name": "TGL",
-        "contestants": [
-            {
-                "full_name": "Jupiter Links",
-                "position": "HOME",
-                "short_name": "Jupiter Links"
-            },
-            {
-                "full_name": "Los Angeles",
-                "position": "AWAY",
-                "short_name": "Los Angeles"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jupiter Links",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            },
-            {
-                "name": "Los Angeles",
-                "returnWin": 1.53,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Jupiter Links v Los Angeles",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-21T00:00:00.000Z"
+        "start_time": "2026-01-21T00:15:00.000Z"
     },
     {
         "contestant_names": "Kamil Majchrzak VERSES Fabian Marozsan",
-        "start_time_aest": "2026-01-21T11:00:00+11:00",
+        "start_time_aest": "2026-01-21T11:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Australian Open",
         "contestants": [
@@ -228,11 +129,11 @@
         ],
         "match_name": "Majchrzak v Marozsan",
         "betOption": "Head To Head",
-        "start_time": "2026-01-21T00:00:00.000Z"
+        "start_time": "2026-01-21T00:15:00.000Z"
     },
     {
         "contestant_names": "Zeynep Sonmez VERSES Anna Bondar",
-        "start_time_aest": "2026-01-21T11:00:00+11:00",
+        "start_time_aest": "2026-01-21T11:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Australian Open",
         "contestants": [
@@ -261,6 +162,6 @@
         ],
         "match_name": "Sonmez v Bondar A",
         "betOption": "Head To Head",
-        "start_time": "2026-01-21T00:00:00.000Z"
+        "start_time": "2026-01-21T00:15:00.000Z"
     }
 ]
