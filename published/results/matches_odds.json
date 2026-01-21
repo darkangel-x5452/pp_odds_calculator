@@ -1,1 +1,35 @@
-[]
+[
+    {
+        "contestant_names": "UniaoCorinthians VERSES Sendi/Bauru",
+        "start_time_aest": "2026-01-22T09:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Brazil NBB",
+        "contestants": [
+            {
+                "full_name": "UniaoCorinthians",
+                "position": "HOME",
+                "short_name": "UniaoCorinthians"
+            },
+            {
+                "full_name": "Sendi/Bauru",
+                "position": "AWAY",
+                "short_name": "Sendi/Bauru"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "UniaoCorinthians",
+                "returnWin": 1.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Sendi/Bauru",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "UniaoCorinthians v Sendi/Bauru",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-21T22:00:00.000Z"
+    }
+]
