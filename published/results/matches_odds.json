@@ -1,73 +1,73 @@
 [
     {
-        "contestant_names": "Chris Rodesch VERSES Jurij Rodionov",
-        "start_time_aest": "2026-01-22T02:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
+        "contestant_names": "Jak Jones VERSES Jack Lisowski",
+        "start_time_aest": "2026-01-22T03:30:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "Championship League",
         "contestants": [
             {
-                "full_name": "Chris Rodesch",
+                "full_name": "Jak Jones",
                 "position": "HOME",
-                "short_name": "Rodesch C"
+                "short_name": "Jones"
             },
             {
-                "full_name": "Jurij Rodionov",
+                "full_name": "Jack Lisowski",
                 "position": "AWAY",
-                "short_name": "Rodionov"
+                "short_name": "Lisowski"
             }
         ],
         "propositions": [
             {
-                "name": "Chris Rodesch",
-                "returnWin": 1.75,
+                "name": "Jak Jones",
+                "returnWin": 2.15,
                 "returnPlace": 0
             },
             {
-                "name": "Jurij Rodionov",
-                "returnWin": 1.95,
+                "name": "Jack Lisowski",
+                "returnWin": 1.65,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Rodesch C v Rodionov",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-21T15:45:00.000Z"
+        "match_name": "Jones v Lisowski",
+        "betOption": "Result",
+        "start_time": "2026-01-21T16:30:00.000Z"
     },
     {
-        "contestant_names": "SaraivaDosSantos VERSES Thiago Cigarran",
-        "start_time_aest": "2026-01-22T03:00:00+11:00",
+        "contestant_names": "Ayana Akli VERSES Emily Seibold",
+        "start_time_aest": "2026-01-22T03:30:00+11:00",
         "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
+        "competition_name": "ITF Womens",
         "contestants": [
             {
-                "full_name": "SaraivaDosSantos",
+                "full_name": "Ayana Akli",
                 "position": "HOME",
-                "short_name": "SaraivaDosSantos"
+                "short_name": "Akli A"
             },
             {
-                "full_name": "Thiago Cigarran",
+                "full_name": "Emily Seibold",
                 "position": "AWAY",
-                "short_name": "Cigarran"
+                "short_name": "Seibold E"
             }
         ],
         "propositions": [
             {
-                "name": "SaraivaDosSantos",
+                "name": "Ayana Akli",
                 "returnWin": 1.58,
                 "returnPlace": 0
             },
             {
-                "name": "Thiago Cigarran",
+                "name": "Emily Seibold",
                 "returnWin": 2.25,
                 "returnPlace": 0
             }
         ],
-        "match_name": "SaraivaDosSantos v Cigarran",
+        "match_name": "Akli A v Seibold E",
         "betOption": "Head To Head",
-        "start_time": "2026-01-21T16:00:00.000Z"
+        "start_time": "2026-01-21T16:30:00.000Z"
     },
     {
         "contestant_names": "Maria Navarro Oliva VERSES Miriana Tona",
-        "start_time_aest": "2026-01-22T03:00:00+11:00",
+        "start_time_aest": "2026-01-22T03:55:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ITF Womens",
         "contestants": [
@@ -96,105 +96,6 @@
         ],
         "match_name": "Navarro Oliva v Tona",
         "betOption": "Head To Head",
-        "start_time": "2026-01-21T16:00:00.000Z"
-    },
-    {
-        "contestant_names": "Fordham VERSES Saint Louis",
-        "start_time_aest": "2026-01-22T03:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Fordham",
-                "position": "HOME",
-                "short_name": "Fordham"
-            },
-            {
-                "full_name": "Saint Louis",
-                "position": "AWAY",
-                "short_name": "Saint Louis"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Fordham",
-                "returnWin": 2,
-                "returnPlace": 0
-            },
-            {
-                "name": "Saint Louis",
-                "returnWin": 1.75,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Fordham v Saint Louis",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-21T16:00:00.000Z"
-    },
-    {
-        "contestant_names": "Lafayette VERSES Boston Uni",
-        "start_time_aest": "2026-01-22T03:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Lafayette",
-                "position": "HOME",
-                "short_name": "Lafayette"
-            },
-            {
-                "full_name": "Boston Uni",
-                "position": "AWAY",
-                "short_name": "Boston Uni"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Lafayette",
-                "returnWin": 1.68,
-                "returnPlace": 0
-            },
-            {
-                "name": "Boston Uni",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Lafayette v Boston Uni",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-21T16:00:00.000Z"
-    },
-    {
-        "contestant_names": "Alanya Bld VERSES Noliko Maaseik",
-        "start_time_aest": "2026-01-22T03:00:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "CEV Cup",
-        "contestants": [
-            {
-                "full_name": "Alanya Bld",
-                "position": "HOME",
-                "short_name": "Alanya Bld"
-            },
-            {
-                "full_name": "Noliko Maaseik",
-                "position": "AWAY",
-                "short_name": "Noliko Maaseik"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Alanya Bld",
-                "returnWin": 1.68,
-                "returnPlace": 0
-            },
-            {
-                "name": "Noliko Maaseik",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Alanya Bld v Noliko Maaseik",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-21T16:00:00.000Z"
+        "start_time": "2026-01-21T16:55:00.000Z"
     }
 ]
