@@ -64,5 +64,38 @@
         "match_name": "Maryland v Iowa",
         "betOption": "Head To Head",
         "start_time": "2026-01-22T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Tennessee VERSES Kentucky",
+        "start_time_aest": "2026-01-23T10:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Tennessee",
+                "position": "HOME",
+                "short_name": "Tennessee"
+            },
+            {
+                "full_name": "Kentucky",
+                "position": "AWAY",
+                "short_name": "Kentucky"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tennessee",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            },
+            {
+                "name": "Kentucky",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Tennessee v Kentucky",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-22T23:30:00.000Z"
     }
 ]
