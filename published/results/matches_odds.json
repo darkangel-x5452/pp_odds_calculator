@@ -64,5 +64,38 @@
         "match_name": "SamsungBluefangs v Woori Hansae",
         "betOption": "Head To Head",
         "start_time": "2026-01-22T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Mobis Phoebus VERSES Seoul Knights",
+        "start_time_aest": "2026-01-22T21:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "South Korea KBL",
+        "contestants": [
+            {
+                "full_name": "Mobis Phoebus",
+                "position": "HOME",
+                "short_name": "Mobis Phoebus"
+            },
+            {
+                "full_name": "Seoul Knights",
+                "position": "AWAY",
+                "short_name": "Seoul Knights"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mobis Phoebus",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Seoul Knights",
+                "returnWin": 1.45,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Mobis Phoebus v Seoul Knights",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-22T10:00:00.000Z"
     }
 ]
