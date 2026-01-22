@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Naomi Osaka VERSES Sorana Cirstea",
-        "start_time_aest": "2026-01-22T19:00:00+11:00",
+        "start_time_aest": "2026-01-22T19:20:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Australian Open",
         "contestants": [
@@ -30,6 +30,39 @@
         ],
         "match_name": "Osaka v Cirstea S",
         "betOption": "Head To Head",
-        "start_time": "2026-01-22T08:00:00.000Z"
+        "start_time": "2026-01-22T08:20:00.000Z"
+    },
+    {
+        "contestant_names": "Sri Lanka VERSES England",
+        "start_time_aest": "2026-01-22T20:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "One Day Internationals",
+        "contestants": [
+            {
+                "full_name": "Sri Lanka",
+                "position": "HOME",
+                "short_name": "Sri Lanka"
+            },
+            {
+                "full_name": "England",
+                "position": "AWAY",
+                "short_name": "England"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sri Lanka",
+                "returnWin": 2.15,
+                "returnPlace": 0
+            },
+            {
+                "name": "England",
+                "returnWin": 1.68,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Sri Lanka v England",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-22T09:00:00.000Z"
     }
 ]
