@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Tennessee VERSES Kentucky",
-        "start_time_aest": "2026-01-23T10:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Tennessee",
-                "position": "HOME",
-                "short_name": "Tennessee"
-            },
-            {
-                "full_name": "Kentucky",
-                "position": "AWAY",
-                "short_name": "Kentucky"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Tennessee",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            },
-            {
-                "name": "Kentucky",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Tennessee v Kentucky",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-22T23:30:00.000Z"
-    },
-    {
         "contestant_names": "UAB VERSES South Florida",
         "start_time_aest": "2026-01-23T11:00:00+11:00",
         "sport_name": "Basketball",
@@ -293,6 +260,39 @@
             }
         ],
         "match_name": "WilliamMary v UNC Wilmington",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Siena VERSES Marist",
+        "start_time_aest": "2026-01-23T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Siena",
+                "position": "HOME",
+                "short_name": "Siena"
+            },
+            {
+                "full_name": "Marist",
+                "position": "AWAY",
+                "short_name": "Marist"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Siena",
+                "returnWin": 1.85,
+                "returnPlace": 0
+            },
+            {
+                "name": "Marist",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Siena v Marist",
         "betOption": "Head To Head",
         "start_time": "2026-01-23T00:00:00.000Z"
     }
