@@ -1,101 +1,68 @@
 [
     {
-        "contestant_names": "Lundgaard D/Vestergaard M VERSES Midorikawa H/Yamashita K",
-        "start_time_aest": "2026-01-22T17:30:00+11:00",
-        "sport_name": "Badminton",
-        "competition_name": "Badminton World Tour Doubles",
-        "contestants": [
-            {
-                "full_name": "Lundgaard D/Vestergaard M",
-                "position": "HOME",
-                "short_name": "Lndgd/Vstrgard"
-            },
-            {
-                "full_name": "Midorikawa H/Yamashita K",
-                "position": "AWAY",
-                "short_name": "Mdrikawa/Ymshita"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Lundgaard D/Vestergaard M",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            },
-            {
-                "name": "Midorikawa H/Yamashita K",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Lndgd/Vstrgard v Mdrikawa/Ymshita",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-22T06:30:00.000Z"
-    },
-    {
-        "contestant_names": "Sri Lanka VERSES England",
-        "start_time_aest": "2026-01-22T20:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "One Day Internationals",
-        "contestants": [
-            {
-                "full_name": "Sri Lanka",
-                "position": "HOME",
-                "short_name": "Sri Lanka"
-            },
-            {
-                "full_name": "England",
-                "position": "AWAY",
-                "short_name": "England"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sri Lanka",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            },
-            {
-                "name": "England",
-                "returnWin": 1.68,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Sri Lanka v England",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-22T09:00:00.000Z"
-    },
-    {
-        "contestant_names": "Alina Korneeva VERSES Hanne Vandewinkel",
-        "start_time_aest": "2026-01-22T20:00:00+11:00",
+        "contestant_names": "Barbora Palicova VERSES Noma Noha Akugue",
+        "start_time_aest": "2026-01-22T21:00:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ITF Womens",
         "contestants": [
             {
-                "full_name": "Alina Korneeva",
+                "full_name": "Barbora Palicova",
                 "position": "HOME",
-                "short_name": "Korneeva A"
+                "short_name": "Palicova B"
             },
             {
-                "full_name": "Hanne Vandewinkel",
+                "full_name": "Noma Noha Akugue",
                 "position": "AWAY",
-                "short_name": "Vandewinkel"
+                "short_name": "Akugue"
             }
         ],
         "propositions": [
             {
-                "name": "Alina Korneeva",
-                "returnWin": 1.68,
+                "name": "Barbora Palicova",
+                "returnWin": 2.2,
                 "returnPlace": 0
             },
             {
-                "name": "Hanne Vandewinkel",
-                "returnWin": 2.05,
+                "name": "Noma Noha Akugue",
+                "returnWin": 1.6,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Korneeva A v Vandewinkel",
+        "match_name": "Palicova B v Akugue",
         "betOption": "Head To Head",
-        "start_time": "2026-01-22T09:00:00.000Z"
+        "start_time": "2026-01-22T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Samsung Bluefangs VERSES Woori Hansae",
+        "start_time_aest": "2026-01-22T21:00:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "South Korea V League",
+        "contestants": [
+            {
+                "full_name": "Samsung Bluefangs",
+                "position": "HOME",
+                "short_name": "SamsungBluefangs"
+            },
+            {
+                "full_name": "Woori Hansae",
+                "position": "AWAY",
+                "short_name": "Woori Hansae"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Samsung Bluefangs",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            },
+            {
+                "name": "Woori Hansae",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "SamsungBluefangs v Woori Hansae",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-22T10:00:00.000Z"
     }
 ]
