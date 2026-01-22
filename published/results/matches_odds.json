@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Tomas Machac VERSES Stefanos Tsitsipas",
-        "start_time_aest": "2026-01-22T16:45:00+11:00",
+        "start_time_aest": "2026-01-22T17:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Australian Open",
         "contestants": [
@@ -19,51 +19,18 @@
         "propositions": [
             {
                 "name": "Tomas Machac",
-                "returnWin": 1.53,
+                "returnWin": 1.55,
                 "returnPlace": 0
             },
             {
                 "name": "Stefanos Tsitsipas",
-                "returnWin": 2.45,
+                "returnWin": 2.4,
                 "returnPlace": 0
             }
         ],
         "match_name": "Machac v Tsitsipas",
         "betOption": "Head To Head",
-        "start_time": "2026-01-22T05:45:00.000Z"
-    },
-    {
-        "contestant_names": "Hozumi/Wu VERSES Khromacheva/Panova",
-        "start_time_aest": "2026-01-22T17:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
-        "contestants": [
-            {
-                "full_name": "Hozumi/Wu",
-                "position": "HOME",
-                "short_name": "Hozumi/Wu"
-            },
-            {
-                "full_name": "Khromacheva/Panova",
-                "position": "AWAY",
-                "short_name": "Khromacheva/Panova"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Hozumi/Wu",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Khromacheva/Panova",
-                "returnWin": 1.46,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Hozumi/Wu v Khromacheva/Panova",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-22T06:00:00.000Z"
+        "start_time": "2026-01-22T06:15:00.000Z"
     },
     {
         "contestant_names": "Lundgaard D/Vestergaard M VERSES Midorikawa H/Yamashita K",
@@ -194,6 +161,39 @@
             }
         ],
         "match_name": "Oh My God v Ultra Prime",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-22T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Andrey Chepelev VERSES Viacheslav Bielinskyi",
+        "start_time_aest": "2026-01-22T18:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Andrey Chepelev",
+                "position": "HOME",
+                "short_name": "Chepelev A"
+            },
+            {
+                "full_name": "Viacheslav Bielinskyi",
+                "position": "AWAY",
+                "short_name": "Bielinskyi V"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Andrey Chepelev",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Viacheslav Bielinskyi",
+                "returnWin": 1.46,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Chepelev A v Bielinskyi V",
         "betOption": "Head To Head",
         "start_time": "2026-01-22T07:00:00.000Z"
     }
