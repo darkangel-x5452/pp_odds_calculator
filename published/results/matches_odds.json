@@ -1,36 +1,36 @@
 [
     {
-        "contestant_names": "Naomi Osaka VERSES Sorana Cirstea",
-        "start_time_aest": "2026-01-22T19:20:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open",
+        "contestant_names": "Lundgaard D/Vestergaard M VERSES Midorikawa H/Yamashita K",
+        "start_time_aest": "2026-01-22T17:30:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour Doubles",
         "contestants": [
             {
-                "full_name": "Naomi Osaka",
+                "full_name": "Lundgaard D/Vestergaard M",
                 "position": "HOME",
-                "short_name": "Osaka"
+                "short_name": "Lndgd/Vstrgard"
             },
             {
-                "full_name": "Sorana Cirstea",
+                "full_name": "Midorikawa H/Yamashita K",
                 "position": "AWAY",
-                "short_name": "Cirstea S"
+                "short_name": "Mdrikawa/Ymshita"
             }
         ],
         "propositions": [
             {
-                "name": "Naomi Osaka",
-                "returnWin": 1.55,
+                "name": "Lundgaard D/Vestergaard M",
+                "returnWin": 2.1,
                 "returnPlace": 0
             },
             {
-                "name": "Sorana Cirstea",
-                "returnWin": 2.4,
+                "name": "Midorikawa H/Yamashita K",
+                "returnWin": 1.65,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Osaka v Cirstea S",
+        "match_name": "Lndgd/Vstrgard v Mdrikawa/Ymshita",
         "betOption": "Head To Head",
-        "start_time": "2026-01-22T08:20:00.000Z"
+        "start_time": "2026-01-22T06:30:00.000Z"
     },
     {
         "contestant_names": "Sri Lanka VERSES England",
@@ -62,6 +62,39 @@
             }
         ],
         "match_name": "Sri Lanka v England",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-22T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Alina Korneeva VERSES Hanne Vandewinkel",
+        "start_time_aest": "2026-01-22T20:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Alina Korneeva",
+                "position": "HOME",
+                "short_name": "Korneeva A"
+            },
+            {
+                "full_name": "Hanne Vandewinkel",
+                "position": "AWAY",
+                "short_name": "Vandewinkel"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alina Korneeva",
+                "returnWin": 1.68,
+                "returnPlace": 0
+            },
+            {
+                "name": "Hanne Vandewinkel",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Korneeva A v Vandewinkel",
         "betOption": "Head To Head",
         "start_time": "2026-01-22T09:00:00.000Z"
     }
