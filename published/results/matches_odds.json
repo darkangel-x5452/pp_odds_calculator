@@ -1,170 +1,5 @@
 [
     {
-        "contestant_names": "Kira Pavlova VERSES Jenny Lim",
-        "start_time_aest": "2026-01-23T03:25:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Kira Pavlova",
-                "position": "HOME",
-                "short_name": "Pavlova K"
-            },
-            {
-                "full_name": "Jenny Lim",
-                "position": "AWAY",
-                "short_name": "Lim J"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Kira Pavlova",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Jenny Lim",
-                "returnWin": 1.46,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Pavlova K v Lim J",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-22T16:25:00.000Z"
-    },
-    {
-        "contestant_names": "MEC Study Group VERSES Gujrat CC",
-        "start_time_aest": "2026-01-23T03:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Falcons Champions Trophy T20",
-        "contestants": [
-            {
-                "full_name": "MEC Study Group",
-                "position": "HOME",
-                "short_name": "MEC Study Group"
-            },
-            {
-                "full_name": "Gujrat CC",
-                "position": "AWAY",
-                "short_name": "Gujrat CC"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "MEC Study Group",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            },
-            {
-                "name": "Gujrat CC",
-                "returnWin": 1.75,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "MEC Study Group v Gujrat CC",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-22T16:30:00.000Z"
-    },
-    {
-        "contestant_names": "Wu Yize VERSES Jak Jones",
-        "start_time_aest": "2026-01-23T03:30:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "Championship League",
-        "contestants": [
-            {
-                "full_name": "Wu Yize",
-                "position": "HOME",
-                "short_name": "Yize"
-            },
-            {
-                "full_name": "Jak Jones",
-                "position": "AWAY",
-                "short_name": "Jones"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Wu Yize",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            },
-            {
-                "name": "Jak Jones",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Yize v Jones",
-        "betOption": "Result",
-        "start_time": "2026-01-22T16:30:00.000Z"
-    },
-    {
-        "contestant_names": "Zhang Anda VERSES Oliver Lines",
-        "start_time_aest": "2026-01-23T03:30:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "Championship League",
-        "contestants": [
-            {
-                "full_name": "Zhang Anda",
-                "position": "HOME",
-                "short_name": "ZhangA"
-            },
-            {
-                "full_name": "Oliver Lines",
-                "position": "AWAY",
-                "short_name": "Lines"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Zhang Anda",
-                "returnWin": 1.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Oliver Lines",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "ZhangA v Lines",
-        "betOption": "Result",
-        "start_time": "2026-01-22T16:30:00.000Z"
-    },
-    {
-        "contestant_names": "Madison Brengle VERSES Xiaodi You",
-        "start_time_aest": "2026-01-23T03:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Madison Brengle",
-                "position": "HOME",
-                "short_name": "Brengle"
-            },
-            {
-                "full_name": "Xiaodi You",
-                "position": "AWAY",
-                "short_name": "You X"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Madison Brengle",
-                "returnWin": 1.48,
-                "returnPlace": 0
-            },
-            {
-                "name": "Xiaodi You",
-                "returnWin": 2.45,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Brengle v You X",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-22T16:30:00.000Z"
-    },
-    {
         "contestant_names": "Sopron VERSES Athinaikos",
         "start_time_aest": "2026-01-23T04:00:00+11:00",
         "sport_name": "Basketball",
@@ -328,5 +163,38 @@
         "match_name": "Horodok v PAOK",
         "betOption": "Head To Head",
         "start_time": "2026-01-22T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Kira Pavlova VERSES Jenny Lim",
+        "start_time_aest": "2026-01-23T04:25:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Kira Pavlova",
+                "position": "HOME",
+                "short_name": "Pavlova K"
+            },
+            {
+                "full_name": "Jenny Lim",
+                "position": "AWAY",
+                "short_name": "Lim J"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Kira Pavlova",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Jenny Lim",
+                "returnWin": 1.46,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Pavlova K v Lim J",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-22T17:25:00.000Z"
     }
 ]
