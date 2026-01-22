@@ -97,5 +97,71 @@
         "match_name": "Tennessee v Kentucky",
         "betOption": "Head To Head",
         "start_time": "2026-01-22T23:30:00.000Z"
+    },
+    {
+        "contestant_names": "UAB VERSES South Florida",
+        "start_time_aest": "2026-01-23T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "UAB",
+                "position": "HOME",
+                "short_name": "UAB"
+            },
+            {
+                "full_name": "South Florida",
+                "position": "AWAY",
+                "short_name": "South Florida"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "UAB",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            },
+            {
+                "name": "South Florida",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "UAB v South Florida",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Georgia Southern VERSES Arkansas State",
+        "start_time_aest": "2026-01-23T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Georgia Southern",
+                "position": "HOME",
+                "short_name": "Georgia Southern"
+            },
+            {
+                "full_name": "Arkansas State",
+                "position": "AWAY",
+                "short_name": "Arkansas State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Georgia Southern",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            },
+            {
+                "name": "Arkansas State",
+                "returnWin": 1.85,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Georgia Southern v Arkansas State",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T00:00:00.000Z"
     }
 ]
