@@ -1,71 +1,5 @@
 [
     {
-        "contestant_names": "Ebden/Ram VERSES Griekspoor/van de Zandschulp",
-        "start_time_aest": "2026-01-23T15:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
-        "contestants": [
-            {
-                "full_name": "Ebden/Ram",
-                "position": "HOME",
-                "short_name": "Ebden/Ram"
-            },
-            {
-                "full_name": "Griekspoor/van de Zandschulp",
-                "position": "AWAY",
-                "short_name": "Griekspoor/van de Zandschulp"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ebden/Ram",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            },
-            {
-                "name": "Griekspoor/van de Zandschulp",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Ebden/Ram v Griekspoor/van de Zandschulp",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T04:00:00.000Z"
-    },
-    {
-        "contestant_names": "Inglis/Kubler VERSES Mihalikova/Glasspool",
-        "start_time_aest": "2026-01-23T15:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
-        "contestants": [
-            {
-                "full_name": "Inglis/Kubler",
-                "position": "HOME",
-                "short_name": "Inglis/Kubler"
-            },
-            {
-                "full_name": "Mihalikova/Glasspool",
-                "position": "AWAY",
-                "short_name": "Mihalikova/Glasspool"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Inglis/Kubler",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            },
-            {
-                "name": "Mihalikova/Glasspool",
-                "returnWin": 1.52,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Inglis/Kubler v Mihalikova/Glasspool",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T04:00:00.000Z"
-    },
-    {
         "contestant_names": "Canterbury Kings VERSES Wellington Firebirds",
         "start_time_aest": "2026-01-23T15:55:00+11:00",
         "sport_name": "Cricket",
@@ -198,6 +132,39 @@
         "start_time": "2026-01-23T06:00:00.000Z"
     },
     {
+        "contestant_names": "Hunter/Nys VERSES Perez/Cabral",
+        "start_time_aest": "2026-01-23T17:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open Doubles",
+        "contestants": [
+            {
+                "full_name": "Hunter/Nys",
+                "position": "HOME",
+                "short_name": "Hunter/Nys"
+            },
+            {
+                "full_name": "Perez/Cabral",
+                "position": "AWAY",
+                "short_name": "Perez/Cabral"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hunter/Nys",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            },
+            {
+                "name": "Perez/Cabral",
+                "returnWin": 1.68,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Hunter/Nys v Perez/Cabral",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T06:00:00.000Z"
+    },
+    {
         "contestant_names": "Francisco Cerundolo VERSES Andrey Rublev",
         "start_time_aest": "2026-01-23T17:30:00+11:00",
         "sport_name": "Tennis",
@@ -227,6 +194,39 @@
             }
         ],
         "match_name": "Cerundolo F v Rublev A",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T06:30:00.000Z"
+    },
+    {
+        "contestant_names": "Thuy Linh Nguyen VERSES Pitchamon Opatniputh",
+        "start_time_aest": "2026-01-23T17:30:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour",
+        "contestants": [
+            {
+                "full_name": "Thuy Linh Nguyen",
+                "position": "HOME",
+                "short_name": "Nguyen TL"
+            },
+            {
+                "full_name": "Pitchamon Opatniputh",
+                "position": "AWAY",
+                "short_name": "Opatniputh"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Thuy Linh Nguyen",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Pitchamon Opatniputh",
+                "returnWin": 1.72,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Nguyen TL v Opatniputh",
         "betOption": "Head To Head",
         "start_time": "2026-01-23T06:30:00.000Z"
     }
