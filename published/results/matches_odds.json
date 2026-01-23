@@ -1,100 +1,5 @@
 [
     {
-        "contestant_names": "Edas Butvilas VERSES Rodrigo Pacheco Mendez",
-        "start_time_aest": "2026-01-23T20:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Edas Butvilas",
-                "position": "HOME",
-                "short_name": "Butvilas E"
-            },
-            {
-                "full_name": "Rodrigo Pacheco Mendez",
-                "position": "AWAY",
-                "short_name": "Pacheco Mendez"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Edas Butvilas",
-                "returnWin": 1.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Rodrigo Pacheco Mendez",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Butvilas E v Pacheco Mendez",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T09:15:00.000Z"
-    },
-    {
-        "contestant_names": "Lundgaard D/Vestergaard M VERSES Choi S G/Goh V S",
-        "start_time_aest": "2026-01-23T20:30:00+11:00",
-        "sport_name": "Badminton",
-        "competition_name": "Badminton World Tour Doubles",
-        "contestants": [
-            {
-                "full_name": "Lundgaard D/Vestergaard M"
-            },
-            {
-                "full_name": "Choi S G/Goh V S"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Lundgaard D/Vestergaard M",
-                "returnWin": 1.53,
-                "returnPlace": 0
-            },
-            {
-                "name": "Choi S G/Goh V S",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Lndgd/Vstrgard v Choi S G/Goh V S",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T09:30:00.000Z"
-    },
-    {
-        "contestant_names": "Rose R A/Setianingrum F VERSES Luo X M/Wang Y D",
-        "start_time_aest": "2026-01-23T20:30:00+11:00",
-        "sport_name": "Badminton",
-        "competition_name": "Badminton World Tour Doubles",
-        "contestants": [
-            {
-                "full_name": "Rose R A/Setianingrum F",
-                "position": "HOME",
-                "short_name": "Rse/Setianingrum"
-            },
-            {
-                "full_name": "Luo X M/Wang Y D",
-                "position": "AWAY",
-                "short_name": "Luo X M/Wang Y D"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Rose R A/Setianingrum F",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            },
-            {
-                "name": "Luo X M/Wang Y D",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Rse/Setianingrum v Luo X M/Wang Y D",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T09:30:00.000Z"
-    },
-    {
         "contestant_names": "Fukuoka VERSES Nara",
         "start_time_aest": "2026-01-23T20:55:00+11:00",
         "sport_name": "Basketball",
@@ -291,6 +196,72 @@
         "match_name": "Mcb Maale Admium v Eliztur Shomron",
         "betOption": "Head To Head",
         "start_time": "2026-01-23T10:15:00.000Z"
+    },
+    {
+        "contestant_names": "Dimitris Sakellaridis VERSES Keisuke Saitoh",
+        "start_time_aest": "2026-01-23T21:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Dimitris Sakellaridis",
+                "position": "HOME",
+                "short_name": "Sakellaridis D"
+            },
+            {
+                "full_name": "Keisuke Saitoh",
+                "position": "AWAY",
+                "short_name": "Saitoh K"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Dimitris Sakellaridis",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            },
+            {
+                "name": "Keisuke Saitoh",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Sakellaridis D v Saitoh K",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T10:30:00.000Z"
+    },
+    {
+        "contestant_names": "Gianluca Brunkow VERSES Egor Agafonov",
+        "start_time_aest": "2026-01-23T21:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Gianluca Brunkow",
+                "position": "HOME",
+                "short_name": "Brunkow"
+            },
+            {
+                "full_name": "Egor Agafonov",
+                "position": "AWAY",
+                "short_name": "Agafonov E"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Gianluca Brunkow",
+                "returnWin": 1.72,
+                "returnPlace": 0
+            },
+            {
+                "name": "Egor Agafonov",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Brunkow v Agafonov E",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T10:30:00.000Z"
     },
     {
         "contestant_names": "Sydney Blue Sox VERSES Adelaide Giants",
