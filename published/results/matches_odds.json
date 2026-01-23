@@ -1,137 +1,5 @@
 [
     {
-        "contestant_names": "Culiacan VERSES Jalisco",
-        "start_time_aest": "2026-01-23T13:05:00+11:00",
-        "sport_name": "Baseball",
-        "competition_name": "Mexico LMP",
-        "contestants": [
-            {
-                "full_name": "Culiacan",
-                "position": "HOME",
-                "short_name": "Culiacan"
-            },
-            {
-                "full_name": "Jalisco",
-                "position": "AWAY",
-                "short_name": "Jalisco"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Culiacan",
-                "returnWin": 1.72,
-                "returnPlace": 0
-            },
-            {
-                "name": "Jalisco",
-                "returnWin": 2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Culiacan v Jalisco",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T02:05:00.000Z"
-    },
-    {
-        "contestant_names": "Edmonton VERSES Pittsburgh",
-        "start_time_aest": "2026-01-23T13:10:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Edmonton",
-                "position": "HOME",
-                "short_name": "Edmonton"
-            },
-            {
-                "full_name": "Pittsburgh",
-                "position": "AWAY",
-                "short_name": "Pittsburgh"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Edmonton",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            },
-            {
-                "name": "Pittsburgh",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Edmonton v Pittsburgh",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T02:10:00.000Z"
-    },
-    {
-        "contestant_names": "Gonzalez/Molteni VERSES Nouza/Rikl",
-        "start_time_aest": "2026-01-23T13:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
-        "contestants": [
-            {
-                "full_name": "Gonzalez/Molteni",
-                "position": "HOME",
-                "short_name": "Gonzalez/Molteni"
-            },
-            {
-                "full_name": "Nouza/Rikl",
-                "position": "AWAY",
-                "short_name": "Nouza/Rikl"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Gonzalez/Molteni",
-                "returnWin": 1.46,
-                "returnPlace": 0
-            },
-            {
-                "name": "Nouza/Rikl",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Gonzalez/Molteni v Nouza/Rikl",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T02:15:00.000Z"
-    },
-    {
-        "contestant_names": "Zeynep Sonmez VERSES Yulia Putintseva",
-        "start_time_aest": "2026-01-23T13:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open",
-        "contestants": [
-            {
-                "full_name": "Zeynep Sonmez",
-                "position": "HOME",
-                "short_name": "Sonmez"
-            },
-            {
-                "full_name": "Yulia Putintseva",
-                "position": "AWAY",
-                "short_name": "Putintseva"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Zeynep Sonmez",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            },
-            {
-                "name": "Yulia Putintseva",
-                "returnWin": 1.75,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Sonmez v Putintseva",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T02:30:00.000Z"
-    },
-    {
         "contestant_names": "Minnesota VERSES Detroit",
         "start_time_aest": "2026-01-23T13:39:00+11:00",
         "sport_name": "Ice Hockey",
@@ -163,6 +31,72 @@
         "match_name": "Minnesota v Detroit",
         "betOption": "Head To Head",
         "start_time": "2026-01-23T02:39:00.000Z"
+    },
+    {
+        "contestant_names": "Zeynep Sonmez VERSES Yulia Putintseva",
+        "start_time_aest": "2026-01-23T13:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Zeynep Sonmez",
+                "position": "HOME",
+                "short_name": "Sonmez"
+            },
+            {
+                "full_name": "Yulia Putintseva",
+                "position": "AWAY",
+                "short_name": "Putintseva"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Zeynep Sonmez",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            },
+            {
+                "name": "Yulia Putintseva",
+                "returnWin": 1.75,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Sonmez v Putintseva",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T02:45:00.000Z"
+    },
+    {
+        "contestant_names": "Gonzalez/Molteni VERSES Nouza/Rikl",
+        "start_time_aest": "2026-01-23T13:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open Doubles",
+        "contestants": [
+            {
+                "full_name": "Gonzalez/Molteni",
+                "position": "HOME",
+                "short_name": "Gonzalez/Molteni"
+            },
+            {
+                "full_name": "Nouza/Rikl",
+                "position": "AWAY",
+                "short_name": "Nouza/Rikl"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Gonzalez/Molteni",
+                "returnWin": 1.46,
+                "returnPlace": 0
+            },
+            {
+                "name": "Nouza/Rikl",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Gonzalez/Molteni v Nouza/Rikl",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T02:45:00.000Z"
     },
     {
         "contestant_names": "CSU Fullerton VERSES Long Beach State",
@@ -262,5 +196,137 @@
         "match_name": "Michalski v Blanch Dw",
         "betOption": "Head To Head",
         "start_time": "2026-01-23T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "LA Clippers VERSES LA Lakers",
+        "start_time_aest": "2026-01-23T14:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "LA Clippers",
+                "position": "HOME",
+                "short_name": "LA Clippers"
+            },
+            {
+                "full_name": "LA Lakers",
+                "position": "AWAY",
+                "short_name": "LA Lakers"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "LA Clippers",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            },
+            {
+                "name": "LA Lakers",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "LA Clippers v LA Lakers",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T03:10:00.000Z"
+    },
+    {
+        "contestant_names": "Portland VERSES Miami",
+        "start_time_aest": "2026-01-23T14:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Portland",
+                "position": "HOME",
+                "short_name": "Portland"
+            },
+            {
+                "full_name": "Miami",
+                "position": "AWAY",
+                "short_name": "Miami"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Portland",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            },
+            {
+                "name": "Miami",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Portland v Miami",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T03:10:00.000Z"
+    },
+    {
+        "contestant_names": "Stack CC B VERSES Fakhr-E-Kashmir",
+        "start_time_aest": "2026-01-23T14:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Falcons Champions Trophy T20",
+        "contestants": [
+            {
+                "full_name": "Stack CC B",
+                "position": "HOME",
+                "short_name": "Stack CC B"
+            },
+            {
+                "full_name": "Fakhr-E-Kashmir",
+                "position": "AWAY",
+                "short_name": "Fakhr-E-Kashmir"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Stack CC B",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            },
+            {
+                "name": "Fakhr-E-Kashmir",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Stack CC B v Fakhr-E-Kashmir",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T03:30:00.000Z"
+    },
+    {
+        "contestant_names": "Ebden/Ram VERSES Griekspoor/van de Zandschulp",
+        "start_time_aest": "2026-01-23T15:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open Doubles",
+        "contestants": [
+            {
+                "full_name": "Ebden/Ram",
+                "position": "HOME",
+                "short_name": "Ebden/Ram"
+            },
+            {
+                "full_name": "Griekspoor/van de Zandschulp",
+                "position": "AWAY",
+                "short_name": "Griekspoor/van de Zandschulp"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ebden/Ram",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            },
+            {
+                "name": "Griekspoor/van de Zandschulp",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Ebden/Ram v Griekspoor/van de Zandschulp",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T04:00:00.000Z"
     }
 ]
