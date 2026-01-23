@@ -66,6 +66,39 @@
         "start_time": "2026-01-23T23:30:00.000Z"
     },
     {
+        "contestant_names": "Deportivo Viedma VERSES Quilmes",
+        "start_time_aest": "2026-01-24T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Deportivo Viedma",
+                "position": "HOME",
+                "short_name": "Deportivo Viedma"
+            },
+            {
+                "full_name": "Quilmes",
+                "position": "AWAY",
+                "short_name": "Quilmes"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Deportivo Viedma",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            },
+            {
+                "name": "Quilmes",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Deportivo Viedma v Quilmes",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T00:00:00.000Z"
+    },
+    {
         "contestant_names": "Sydney Blue Sox VERSES Adelaide Giants",
         "start_time_aest": "2026-02-02T20:00:00+11:00",
         "sport_name": "Baseball",
