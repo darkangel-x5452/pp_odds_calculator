@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Doumbia/Reboul VERSES Arribage/Olivetti",
-        "start_time_aest": "2026-01-24T10:30:00+11:00",
+        "start_time_aest": "2026-01-24T10:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Australian Open Doubles",
         "contestants": [
@@ -30,7 +30,7 @@
         ],
         "match_name": "Doumbia/Reboul v Arribage/Olivetti",
         "betOption": "Head To Head",
-        "start_time": "2026-01-23T23:30:00.000Z"
+        "start_time": "2026-01-23T23:45:00.000Z"
     },
     {
         "contestant_names": "Deportivo Viedma VERSES Quilmes",
@@ -128,6 +128,39 @@
             }
         ],
         "match_name": "Jacksonville St v Middle Tennessee",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Longwood VERSES CharlestonSthern",
+        "start_time_aest": "2026-01-24T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Longwood",
+                "position": "HOME",
+                "short_name": "Longwood"
+            },
+            {
+                "full_name": "CharlestonSthern",
+                "position": "AWAY",
+                "short_name": "CharlestonSthern"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Longwood",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            },
+            {
+                "name": "CharlestonSthern",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Longwood v CharlestonSthern",
         "betOption": "Head To Head",
         "start_time": "2026-01-24T00:00:00.000Z"
     },
