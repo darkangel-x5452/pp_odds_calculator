@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Barbora Palicova VERSES Mona Barthel",
-        "start_time_aest": "2026-01-24T01:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Barbora Palicova",
-                "position": "HOME",
-                "short_name": "Palicova B"
-            },
-            {
-                "full_name": "Mona Barthel",
-                "position": "AWAY",
-                "short_name": "Barthel"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Barbora Palicova",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Mona Barthel",
-                "returnWin": 1.46,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Palicova B v Barthel",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T14:00:00.000Z"
-    },
-    {
         "contestant_names": "Super Kings VERSES Freedom Fighters Cochin",
         "start_time_aest": "2026-01-24T01:30:00+11:00",
         "sport_name": "Cricket",
@@ -163,6 +130,105 @@
         "match_name": "Riedi v Piros",
         "betOption": "Head To Head",
         "start_time": "2026-01-23T15:00:00.000Z"
+    },
+    {
+        "contestant_names": "Katarina Zavatska VERSES Kajsa Rinaldo Persson",
+        "start_time_aest": "2026-01-24T02:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Katarina Zavatska",
+                "position": "HOME",
+                "short_name": "Zavatska"
+            },
+            {
+                "full_name": "Kajsa Rinaldo Persson",
+                "position": "AWAY",
+                "short_name": "Rinaldo Persson"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Katarina Zavatska",
+                "returnWin": 2.15,
+                "returnPlace": 0
+            },
+            {
+                "name": "Kajsa Rinaldo Persson",
+                "returnWin": 1.62,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Zavatska v Rinaldo Persson",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T15:00:00.000Z"
+    },
+    {
+        "contestant_names": "Eastern Cape VERSES Paarl Royals",
+        "start_time_aest": "2026-01-24T02:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "South Africa T20",
+        "contestants": [
+            {
+                "full_name": "Eastern Cape",
+                "position": "HOME",
+                "short_name": "Eastern Cape"
+            },
+            {
+                "full_name": "Paarl Royals",
+                "position": "AWAY",
+                "short_name": "Paarl Royals"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Eastern Cape",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            },
+            {
+                "name": "Paarl Royals",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Eastern Cape v Paarl Royals",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T15:30:00.000Z"
+    },
+    {
+        "contestant_names": "Emma Lene VERSES Jaeda Daniel",
+        "start_time_aest": "2026-01-24T02:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Emma Lene",
+                "position": "HOME",
+                "short_name": "Lene E"
+            },
+            {
+                "full_name": "Jaeda Daniel",
+                "position": "AWAY",
+                "short_name": "Daniel"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Emma Lene",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            },
+            {
+                "name": "Jaeda Daniel",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Lene E v Daniel",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T15:30:00.000Z"
     },
     {
         "contestant_names": "Sydney Blue Sox VERSES Adelaide Giants",
