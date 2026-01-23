@@ -1,73 +1,73 @@
 [
     {
-        "contestant_names": "South China VERSES Hong Kong Lions",
-        "start_time_aest": "2026-01-23T23:40:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Hong Kong Championship",
+        "contestant_names": "Daniil Glinka VERSES Francesco Passaro",
+        "start_time_aest": "2026-01-24T00:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
         "contestants": [
             {
-                "full_name": "South China",
+                "full_name": "Daniil Glinka",
                 "position": "HOME",
-                "short_name": "South China"
+                "short_name": "Glinka"
             },
             {
-                "full_name": "Hong Kong Lions",
+                "full_name": "Francesco Passaro",
                 "position": "AWAY",
-                "short_name": "Hong Kong Lions"
+                "short_name": "Passaro"
             }
         ],
         "propositions": [
             {
-                "name": "South China",
-                "returnWin": 2.4,
+                "name": "Daniil Glinka",
+                "returnWin": 2.05,
                 "returnPlace": 0
             },
             {
-                "name": "Hong Kong Lions",
-                "returnWin": 1.48,
+                "name": "Francesco Passaro",
+                "returnWin": 1.68,
                 "returnPlace": 0
             }
         ],
-        "match_name": "South China v Hong Kong Lions",
+        "match_name": "Glinka v Passaro",
         "betOption": "Head To Head",
-        "start_time": "2026-01-23T12:40:00.000Z"
+        "start_time": "2026-01-23T13:15:00.000Z"
     },
     {
-        "contestant_names": "Jack Lisowski VERSES Peifan Lei",
-        "start_time_aest": "2026-01-24T00:00:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "Championship League",
+        "contestant_names": "Jamaica (W) VERSES Windward Islands (W)",
+        "start_time_aest": "2026-01-24T00:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Womens WI Breakout League T20",
         "contestants": [
             {
-                "full_name": "Jack Lisowski",
+                "full_name": "Jamaica (W)",
                 "position": "HOME",
-                "short_name": "Lisowski"
+                "short_name": "Jamaica (W)"
             },
             {
-                "full_name": "Peifan Lei",
+                "full_name": "Windward Islands (W)",
                 "position": "AWAY",
-                "short_name": "Lei Peifan"
+                "short_name": "Windward Isl (W)"
             }
         ],
         "propositions": [
             {
-                "name": "Jack Lisowski",
-                "returnWin": 1.5,
+                "name": "Jamaica (W)",
+                "returnWin": 1.52,
                 "returnPlace": 0
             },
             {
-                "name": "Peifan Lei",
+                "name": "Windward Islands (W)",
                 "returnWin": 2.5,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Lisowski v Lei Peifan",
-        "betOption": "Result",
-        "start_time": "2026-01-23T13:00:00.000Z"
+        "match_name": "Jamaica (W) v Windward Isl (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T13:30:00.000Z"
     },
     {
         "contestant_names": "Zhang Anda VERSES Xu Si",
-        "start_time_aest": "2026-01-24T00:00:00+11:00",
+        "start_time_aest": "2026-01-24T00:30:00+11:00",
         "sport_name": "Snooker",
         "competition_name": "Championship League",
         "contestants": [
@@ -96,7 +96,139 @@
         ],
         "match_name": "ZhangA v Xu S",
         "betOption": "Result",
-        "start_time": "2026-01-23T13:00:00.000Z"
+        "start_time": "2026-01-23T13:30:00.000Z"
+    },
+    {
+        "contestant_names": "Barbora Palicova VERSES Mona Barthel",
+        "start_time_aest": "2026-01-24T01:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Barbora Palicova",
+                "position": "HOME",
+                "short_name": "Palicova B"
+            },
+            {
+                "full_name": "Mona Barthel",
+                "position": "AWAY",
+                "short_name": "Barthel"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Barbora Palicova",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Mona Barthel",
+                "returnWin": 1.46,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Palicova B v Barthel",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Super Kings VERSES Freedom Fighters Cochin",
+        "start_time_aest": "2026-01-24T01:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Falcons Champions Trophy T20",
+        "contestants": [
+            {
+                "full_name": "Super Kings",
+                "position": "HOME",
+                "short_name": "Super Kings"
+            },
+            {
+                "full_name": "Freedom Fighters Cochin",
+                "position": "AWAY",
+                "short_name": "Freedom Fighters"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Super Kings",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Freedom Fighters Cochin",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Super Kings v Freedom Fighters",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T14:30:00.000Z"
+    },
+    {
+        "contestant_names": "Targu Mures VERSES Timisoara",
+        "start_time_aest": "2026-01-24T02:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Romania Divizia A",
+        "contestants": [
+            {
+                "full_name": "Targu Mures",
+                "position": "HOME",
+                "short_name": "Targu Mures"
+            },
+            {
+                "full_name": "Timisoara",
+                "position": "AWAY",
+                "short_name": "Timisoara"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Targu Mures",
+                "returnWin": 1.73,
+                "returnPlace": 0
+            },
+            {
+                "name": "Timisoara",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Targu Mures v Timisoara",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T15:00:00.000Z"
+    },
+    {
+        "contestant_names": "Kocaeli VERSES Harem",
+        "start_time_aest": "2026-01-24T02:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Turkey TBL",
+        "contestants": [
+            {
+                "full_name": "Kocaeli",
+                "position": "HOME",
+                "short_name": "Kocaeli"
+            },
+            {
+                "full_name": "Harem",
+                "position": "AWAY",
+                "short_name": "Harem"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Kocaeli",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Harem",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Kocaeli v Harem",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T15:00:00.000Z"
     },
     {
         "contestant_names": "Sydney Blue Sox VERSES Adelaide Giants",
