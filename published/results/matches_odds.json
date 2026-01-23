@@ -1,102 +1,234 @@
 [
     {
-        "contestant_names": "Peifan Lei VERSES Xu Si",
-        "start_time_aest": "2026-01-24T05:50:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "Championship League",
+        "contestant_names": "Start Lublin VERSES Legia Warszawa",
+        "start_time_aest": "2026-01-24T06:15:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Poland Energa Basket Liga",
         "contestants": [
             {
-                "full_name": "Peifan Lei",
+                "full_name": "Start Lublin",
                 "position": "HOME",
-                "short_name": "Lei Peifan"
+                "short_name": "Start Lublin"
             },
             {
-                "full_name": "Xu Si",
+                "full_name": "Legia Warszawa",
                 "position": "AWAY",
-                "short_name": "Xu S"
+                "short_name": "Legia Warszawa"
             }
         ],
         "propositions": [
             {
-                "name": "Peifan Lei",
-                "returnWin": 1.8,
+                "name": "Start Lublin",
+                "returnWin": 2.2,
                 "returnPlace": 0
             },
             {
-                "name": "Xu Si",
+                "name": "Legia Warszawa",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Start Lublin v Legia Warszawa",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T19:15:00.000Z"
+    },
+    {
+        "contestant_names": "Kortrijk Spurs VERSES Okapi Aalstar",
+        "start_time_aest": "2026-01-24T06:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "BNXT League",
+        "contestants": [
+            {
+                "full_name": "Kortrijk Spurs",
+                "position": "HOME",
+                "short_name": "Kortrijk Spurs"
+            },
+            {
+                "full_name": "Okapi Aalstar",
+                "position": "AWAY",
+                "short_name": "Okapi Aalstar"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Kortrijk Spurs",
+                "returnWin": 1.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Okapi Aalstar",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Kortrijk Spurs v Okapi Aalstar",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T19:30:00.000Z"
+    },
+    {
+        "contestant_names": "Obiettivo Lavoro VERSES Crvena Zvezda",
+        "start_time_aest": "2026-01-24T06:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "EuroLeague",
+        "contestants": [
+            {
+                "full_name": "Obiettivo Lavoro",
+                "position": "HOME",
+                "short_name": "Obiettivo Lavoro"
+            },
+            {
+                "full_name": "Crvena Zvezda",
+                "position": "AWAY",
+                "short_name": "Crvena Zvezda"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Obiettivo Lavoro",
+                "returnWin": 1.75,
+                "returnPlace": 0
+            },
+            {
+                "name": "Crvena Zvezda",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Obiettivo Lavoro v Crvena Zvezda",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T19:30:00.000Z"
+    },
+    {
+        "contestant_names": "Limoges VERSES Strasbourg",
+        "start_time_aest": "2026-01-24T06:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "France LNB Pro A",
+        "contestants": [
+            {
+                "full_name": "Limoges",
+                "position": "HOME",
+                "short_name": "Limoges"
+            },
+            {
+                "full_name": "Strasbourg",
+                "position": "AWAY",
+                "short_name": "Strasbourg"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Limoges",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            },
+            {
+                "name": "Strasbourg",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Limoges v Strasbourg",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T19:30:00.000Z"
+    },
+    {
+        "contestant_names": "KR Reykjavik VERSES Grindavik",
+        "start_time_aest": "2026-01-24T06:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Iceland Premier League",
+        "contestants": [
+            {
+                "full_name": "KR Reykjavik",
+                "position": "HOME",
+                "short_name": "KR Reykjavik"
+            },
+            {
+                "full_name": "Grindavik",
+                "position": "AWAY",
+                "short_name": "Grindavik"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "KR Reykjavik",
+                "returnWin": 1.75,
+                "returnPlace": 0
+            },
+            {
+                "name": "Grindavik",
                 "returnWin": 1.95,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Lei Peifan v Xu S",
-        "betOption": "Result",
-        "start_time": "2026-01-23T18:50:00.000Z"
+        "match_name": "KR Reykjavik v Grindavik",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T19:30:00.000Z"
     },
     {
-        "contestant_names": "Telekom Baskets VERSES Rostock Seawolve",
-        "start_time_aest": "2026-01-24T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Germany Bundesliga",
+        "contestant_names": "Edinburgh VERSES Blue Bulls",
+        "start_time_aest": "2026-01-24T06:45:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "United Rugby Championship",
         "contestants": [
             {
-                "full_name": "Telekom Baskets",
+                "full_name": "Edinburgh",
                 "position": "HOME",
-                "short_name": "Telekom Baskets"
+                "short_name": "Edinburgh"
             },
             {
-                "full_name": "Rostock Seawolve",
+                "full_name": "Blue Bulls",
                 "position": "AWAY",
-                "short_name": "Rostock Seawolve"
+                "short_name": "Blue Bulls"
             }
         ],
         "propositions": [
             {
-                "name": "Telekom Baskets",
-                "returnWin": 1.46,
+                "name": "Edinburgh",
+                "returnWin": 1.6,
                 "returnPlace": 0
             },
             {
-                "name": "Rostock Seawolve",
+                "name": "Blue Bulls",
+                "returnWin": 2.15,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Edinburgh v Blue Bulls",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T19:45:00.000Z"
+    },
+    {
+        "contestant_names": "Ospreys VERSES Lions",
+        "start_time_aest": "2026-01-24T06:45:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "United Rugby Championship",
+        "contestants": [
+            {
+                "full_name": "Ospreys",
+                "position": "HOME",
+                "short_name": "Ospreys"
+            },
+            {
+                "full_name": "Lions",
+                "position": "AWAY",
+                "short_name": "Lions"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ospreys",
+                "returnWin": 1.45,
+                "returnPlace": 0
+            },
+            {
+                "name": "Lions",
                 "returnWin": 2.5,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Telekom Baskets  v Rostock Seawolve",
+        "match_name": "Ospreys v Lions",
         "betOption": "Head To Head",
-        "start_time": "2026-01-23T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Louisiana Tech VERSES Kennesaw State",
-        "start_time_aest": "2026-01-24T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Louisiana Tech",
-                "position": "HOME",
-                "short_name": "Louisiana Tech"
-            },
-            {
-                "full_name": "Kennesaw State",
-                "position": "AWAY",
-                "short_name": "Kennesaw State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Louisiana Tech",
-                "returnWin": 2,
-                "returnPlace": 0
-            },
-            {
-                "name": "Kennesaw State",
-                "returnWin": 1.8,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Louisiana Tech v Kennesaw State",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T19:00:00.000Z"
+        "start_time": "2026-01-23T19:45:00.000Z"
     },
     {
         "contestant_names": "Sydney Blue Sox VERSES Adelaide Giants",
