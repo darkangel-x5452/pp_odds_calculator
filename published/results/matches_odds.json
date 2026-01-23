@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Iva Jovic VERSES Jasmine Paolini",
-        "start_time_aest": "2026-01-23T17:00:00+11:00",
+        "start_time_aest": "2026-01-23T17:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Australian Open",
         "contestants": [
@@ -30,40 +30,7 @@
         ],
         "match_name": "Jovic I v Paolini",
         "betOption": "Head To Head",
-        "start_time": "2026-01-23T06:00:00.000Z"
-    },
-    {
-        "contestant_names": "Hunter/Nys VERSES Perez/Cabral",
-        "start_time_aest": "2026-01-23T17:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
-        "contestants": [
-            {
-                "full_name": "Hunter/Nys",
-                "position": "HOME",
-                "short_name": "Hunter/Nys"
-            },
-            {
-                "full_name": "Perez/Cabral",
-                "position": "AWAY",
-                "short_name": "Perez/Cabral"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Hunter/Nys",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            },
-            {
-                "name": "Perez/Cabral",
-                "returnWin": 1.68,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Hunter/Nys v Perez/Cabral",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T06:00:00.000Z"
+        "start_time": "2026-01-23T06:15:00.000Z"
     },
     {
         "contestant_names": "Francisco Cerundolo VERSES Andrey Rublev",
@@ -328,5 +295,38 @@
         "match_name": "Teh v Chi YJ",
         "betOption": "Head To Head",
         "start_time": "2026-01-23T07:10:00.000Z"
+    },
+    {
+        "contestant_names": "Sydney Sixers VERSES HobartHurricanes",
+        "start_time_aest": "2026-01-23T19:15:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Big Bash",
+        "contestants": [
+            {
+                "full_name": "Sydney Sixers",
+                "position": "HOME",
+                "short_name": "Sydney Sixers"
+            },
+            {
+                "full_name": "HobartHurricanes",
+                "position": "AWAY",
+                "short_name": "HobartHurricanes"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sydney Sixers",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            },
+            {
+                "name": "HobartHurricanes",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Sydney Sixers v HobartHurricanes",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T08:15:00.000Z"
     }
 ]
