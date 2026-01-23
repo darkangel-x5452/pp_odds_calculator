@@ -1,230 +1,135 @@
 [
     {
-        "contestant_names": "Lundgaard D/Vestergaard M VERSES Choi S G/Goh V S",
-        "start_time_aest": "2026-01-23T20:30:00+11:00",
+        "contestant_names": "Gutama S K/Isfahani M R P VERSES Man W C/Tee K W",
+        "start_time_aest": "2026-01-23T21:10:00+11:00",
         "sport_name": "Badminton",
         "competition_name": "Badminton World Tour Doubles",
         "contestants": [
             {
-                "full_name": "Lundgaard D/Vestergaard M"
-            },
-            {
-                "full_name": "Choi S G/Goh V S"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Lundgaard D/Vestergaard M",
-                "returnWin": 1.53,
-                "returnPlace": 0
-            },
-            {
-                "name": "Choi S G/Goh V S",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Lndgd/Vstrgard v Choi S G/Goh V S",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T09:30:00.000Z"
-    },
-    {
-        "contestant_names": "Liaoning VERSES Shandong Heroes",
-        "start_time_aest": "2026-01-23T22:35:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "China CBA",
-        "contestants": [
-            {
-                "full_name": "Liaoning",
+                "full_name": "Gutama S K/Isfahani M R P",
                 "position": "HOME",
-                "short_name": "Liaoning"
+                "short_name": "Gutama/Isfah"
             },
             {
-                "full_name": "Shandong Heroes",
+                "full_name": "Man W C/Tee K W",
                 "position": "AWAY",
-                "short_name": "Shandong Heroes"
+                "short_name": "Man W C/Tee KW"
             }
         ],
         "propositions": [
             {
-                "name": "Liaoning",
-                "returnWin": 2,
+                "name": "Gutama S K/Isfahani M R P",
+                "returnWin": 1.58,
                 "returnPlace": 0
             },
             {
-                "name": "Shandong Heroes",
-                "returnWin": 1.7,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Liaoning v Shandong Heroes",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T11:35:00.000Z"
-    },
-    {
-        "contestant_names": "Ningbo Rockets VERSES Qingdao",
-        "start_time_aest": "2026-01-23T22:35:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "China CBA",
-        "contestants": [
-            {
-                "full_name": "Ningbo Rockets",
-                "position": "HOME",
-                "short_name": "Ningbo Rockets"
-            },
-            {
-                "full_name": "Qingdao",
-                "position": "AWAY",
-                "short_name": "Qingdao"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ningbo Rockets",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Qingdao",
-                "returnWin": 1.45,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Ningbo Rockets v Qingdao",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T11:35:00.000Z"
-    },
-    {
-        "contestant_names": "Hangtuah VERSES Tangerang Hawks",
-        "start_time_aest": "2026-01-23T23:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Indonesian Basketball League",
-        "contestants": [
-            {
-                "full_name": "Hangtuah",
-                "position": "HOME",
-                "short_name": "Hangtuah"
-            },
-            {
-                "full_name": "Tangerang Hawks",
-                "position": "AWAY",
-                "short_name": "Tangerang Hawks"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Hangtuah",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            },
-            {
-                "name": "Tangerang Hawks",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Hangtuah v Tangerang Hawks",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T12:00:00.000Z"
-    },
-    {
-        "contestant_names": "Chattogram Royals VERSES Durbar Rajshahi",
-        "start_time_aest": "2026-01-23T23:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Bangladesh Premier League",
-        "contestants": [
-            {
-                "full_name": "Chattogram Royals",
-                "position": "HOME",
-                "short_name": "Chattogram Royal"
-            },
-            {
-                "full_name": "Durbar Rajshahi",
-                "position": "AWAY",
-                "short_name": "Durbar Rajshahi"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Chattogram Royals",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            },
-            {
-                "name": "Durbar Rajshahi",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Chattogram Royal v Durbar Rajshahi",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T12:00:00.000Z"
-    },
-    {
-        "contestant_names": "Jak Jones VERSES Ryan Day",
-        "start_time_aest": "2026-01-23T23:00:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "Championship League",
-        "contestants": [
-            {
-                "full_name": "Jak Jones",
-                "position": "HOME",
-                "short_name": "Jones"
-            },
-            {
-                "full_name": "Ryan Day",
-                "position": "AWAY",
-                "short_name": "Day R"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jak Jones",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            },
-            {
-                "name": "Ryan Day",
+                "name": "Man W C/Tee K W",
                 "returnWin": 2.25,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Jones v Day R",
-        "betOption": "Result",
-        "start_time": "2026-01-23T12:00:00.000Z"
+        "match_name": "Gutama/Isfah v Man W C/Tee KW",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T10:10:00.000Z"
     },
     {
-        "contestant_names": "Gavin Young VERSES Yaroslav Demin",
-        "start_time_aest": "2026-01-23T23:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
+        "contestant_names": "South China VERSES Hong Kong Lions",
+        "start_time_aest": "2026-01-23T23:40:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Hong Kong Championship",
         "contestants": [
             {
-                "full_name": "Gavin Young",
+                "full_name": "South China",
                 "position": "HOME",
-                "short_name": "Young G"
+                "short_name": "South China"
             },
             {
-                "full_name": "Yaroslav Demin",
+                "full_name": "Hong Kong Lions",
                 "position": "AWAY",
-                "short_name": "Demin"
+                "short_name": "Hong Kong Lions"
             }
         ],
         "propositions": [
             {
-                "name": "Gavin Young",
-                "returnWin": 2,
+                "name": "South China",
+                "returnWin": 2.4,
                 "returnPlace": 0
             },
             {
-                "name": "Yaroslav Demin",
-                "returnWin": 1.72,
+                "name": "Hong Kong Lions",
+                "returnWin": 1.48,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Young G v Demin",
+        "match_name": "South China v Hong Kong Lions",
         "betOption": "Head To Head",
-        "start_time": "2026-01-23T12:00:00.000Z"
+        "start_time": "2026-01-23T12:40:00.000Z"
+    },
+    {
+        "contestant_names": "Jack Lisowski VERSES Peifan Lei",
+        "start_time_aest": "2026-01-24T00:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "Championship League",
+        "contestants": [
+            {
+                "full_name": "Jack Lisowski",
+                "position": "HOME",
+                "short_name": "Lisowski"
+            },
+            {
+                "full_name": "Peifan Lei",
+                "position": "AWAY",
+                "short_name": "Lei Peifan"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jack Lisowski",
+                "returnWin": 1.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Peifan Lei",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Lisowski v Lei Peifan",
+        "betOption": "Result",
+        "start_time": "2026-01-23T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Zhang Anda VERSES Xu Si",
+        "start_time_aest": "2026-01-24T00:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "Championship League",
+        "contestants": [
+            {
+                "full_name": "Zhang Anda",
+                "position": "HOME",
+                "short_name": "ZhangA"
+            },
+            {
+                "full_name": "Xu Si",
+                "position": "AWAY",
+                "short_name": "Xu S"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Zhang Anda",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            },
+            {
+                "name": "Xu Si",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "ZhangA v Xu S",
+        "betOption": "Result",
+        "start_time": "2026-01-23T13:00:00.000Z"
     },
     {
         "contestant_names": "Sydney Blue Sox VERSES Adelaide Giants",
