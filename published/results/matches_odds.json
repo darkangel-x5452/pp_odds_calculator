@@ -1,201 +1,69 @@
 [
     {
-        "contestant_names": "Edinburgh VERSES Blue Bulls",
-        "start_time_aest": "2026-01-24T06:45:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "United Rugby Championship",
+        "contestant_names": "Leeward Islands (W) VERSES Barbados (W)",
+        "start_time_aest": "2026-01-24T10:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Womens WI Breakout League T20",
         "contestants": [
             {
-                "full_name": "Edinburgh",
+                "full_name": "Leeward Islands (W)",
                 "position": "HOME",
-                "short_name": "Edinburgh"
+                "short_name": "Leeward Isl (W)"
             },
             {
-                "full_name": "Blue Bulls",
+                "full_name": "Barbados (W)",
                 "position": "AWAY",
-                "short_name": "Blue Bulls"
+                "short_name": "Barbads (W)"
             }
         ],
         "propositions": [
             {
-                "name": "Edinburgh",
-                "returnWin": 1.6,
+                "name": "Leeward Islands (W)",
+                "returnWin": 2,
                 "returnPlace": 0
             },
             {
-                "name": "Blue Bulls",
-                "returnWin": 2.15,
+                "name": "Barbados (W)",
+                "returnWin": 1.8,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Edinburgh v Blue Bulls",
+        "match_name": "Leeward Isl (W) v Barbads (W)",
         "betOption": "Head To Head",
-        "start_time": "2026-01-23T19:45:00.000Z"
+        "start_time": "2026-01-23T23:00:00.000Z"
     },
     {
-        "contestant_names": "Ospreys VERSES Lions",
-        "start_time_aest": "2026-01-24T06:45:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "United Rugby Championship",
-        "contestants": [
-            {
-                "full_name": "Ospreys",
-                "position": "HOME",
-                "short_name": "Ospreys"
-            },
-            {
-                "full_name": "Lions",
-                "position": "AWAY",
-                "short_name": "Lions"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ospreys",
-                "returnWin": 1.45,
-                "returnPlace": 0
-            },
-            {
-                "name": "Lions",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Ospreys v Lions",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T19:45:00.000Z"
-    },
-    {
-        "contestant_names": "Igor Marcondes VERSES Thiago Wild",
-        "start_time_aest": "2026-01-24T06:45:00+11:00",
+        "contestant_names": "Doumbia/Reboul VERSES Arribage/Olivetti",
+        "start_time_aest": "2026-01-24T10:30:00+11:00",
         "sport_name": "Tennis",
-        "competition_name": "Challenger",
+        "competition_name": "Australian Open Doubles",
         "contestants": [
             {
-                "full_name": "Igor Marcondes",
+                "full_name": "Doumbia/Reboul",
                 "position": "HOME",
-                "short_name": "Marcondes I"
+                "short_name": "Doumbia/Reboul"
             },
             {
-                "full_name": "Thiago Wild",
+                "full_name": "Arribage/Olivetti",
                 "position": "AWAY",
-                "short_name": "Wild"
+                "short_name": "Arribage/Olivetti"
             }
         ],
         "propositions": [
             {
-                "name": "Igor Marcondes",
-                "returnWin": 2.35,
+                "name": "Doumbia/Reboul",
+                "returnWin": 1.72,
                 "returnPlace": 0
             },
             {
-                "name": "Thiago Wild",
-                "returnWin": 1.52,
+                "name": "Arribage/Olivetti",
+                "returnWin": 2,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Marcondes I v Wild",
+        "match_name": "Doumbia/Reboul v Arribage/Olivetti",
         "betOption": "Head To Head",
-        "start_time": "2026-01-23T19:45:00.000Z"
-    },
-    {
-        "contestant_names": "United Woluwe Ba VERSES Bbc Falco Gent",
-        "start_time_aest": "2026-01-24T07:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Belgium Basketball League",
-        "contestants": [
-            {
-                "full_name": "United Woluwe Ba",
-                "position": "HOME",
-                "short_name": "United Woluwe Ba"
-            },
-            {
-                "full_name": "Bbc Falco Gent",
-                "position": "AWAY",
-                "short_name": "Bbc Falco Gent"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "United Woluwe Ba",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            },
-            {
-                "name": "Bbc Falco Gent",
-                "returnWin": 1.48,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "United Woluwe Ba v Bbc Falco Gent",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T20:00:00.000Z"
-    },
-    {
-        "contestant_names": "UNC Greensboro VERSES Furman",
-        "start_time_aest": "2026-01-24T07:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "UNC Greensboro",
-                "position": "HOME",
-                "short_name": "UNC Greensboro"
-            },
-            {
-                "full_name": "Furman",
-                "position": "AWAY",
-                "short_name": "Furman"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "UNC Greensboro",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Furman",
-                "returnWin": 1.53,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "UNC Greensboro v Furman",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T20:00:00.000Z"
-    },
-    {
-        "contestant_names": "Grenoble VERSES Vannes",
-        "start_time_aest": "2026-01-24T07:00:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "France Pro D2",
-        "contestants": [
-            {
-                "full_name": "Grenoble",
-                "position": "HOME",
-                "short_name": "Grenoble"
-            },
-            {
-                "full_name": "Vannes",
-                "position": "AWAY",
-                "short_name": "Vannes"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Grenoble",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            },
-            {
-                "name": "Vannes",
-                "returnWin": 1.68,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Grenoble v Vannes",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T20:00:00.000Z"
+        "start_time": "2026-01-23T23:30:00.000Z"
     },
     {
         "contestant_names": "Sydney Blue Sox VERSES Adelaide Giants",
