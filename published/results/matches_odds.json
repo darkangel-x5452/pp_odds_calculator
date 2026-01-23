@@ -1,134 +1,101 @@
 [
     {
-        "contestant_names": "Boston VERSES Las Vegas",
-        "start_time_aest": "2026-01-23T11:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
+        "contestant_names": "Est Tucuman VERSES Comunicaciones",
+        "start_time_aest": "2026-01-23T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
         "contestants": [
             {
-                "full_name": "Boston",
+                "full_name": "Est Tucuman",
                 "position": "HOME",
-                "short_name": "Boston"
+                "short_name": "Est Tucuman"
             },
             {
-                "full_name": "Las Vegas",
+                "full_name": "Comunicaciones",
                 "position": "AWAY",
-                "short_name": "Las Vegas"
+                "short_name": "Comunicaciones"
             }
         ],
         "propositions": [
             {
-                "name": "Boston",
-                "returnWin": 2.25,
+                "name": "Est Tucuman",
+                "returnWin": 2.2,
                 "returnPlace": 0
             },
             {
-                "name": "Las Vegas",
-                "returnWin": 1.62,
+                "name": "Comunicaciones",
+                "returnWin": 1.57,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Boston v Las Vegas",
+        "match_name": "Est Tucuman v Comunicaciones",
         "betOption": "Head To Head",
-        "start_time": "2026-01-23T00:05:00.000Z"
+        "start_time": "2026-01-23T01:00:00.000Z"
     },
     {
-        "contestant_names": "Montreal VERSES Buffalo",
-        "start_time_aest": "2026-01-23T11:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
+        "contestant_names": "Oral Roberts VERSES North Dakota",
+        "start_time_aest": "2026-01-23T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Montreal",
+                "full_name": "Oral Roberts",
                 "position": "HOME",
-                "short_name": "Montreal"
+                "short_name": "Oral Roberts"
             },
             {
-                "full_name": "Buffalo",
+                "full_name": "North Dakota",
                 "position": "AWAY",
-                "short_name": "Buffalo"
+                "short_name": "North Dakota"
             }
         ],
         "propositions": [
             {
-                "name": "Montreal",
+                "name": "Oral Roberts",
                 "returnWin": 1.8,
                 "returnPlace": 0
             },
             {
-                "name": "Buffalo",
+                "name": "North Dakota",
                 "returnWin": 2,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Montreal v Buffalo",
+        "match_name": "Oral Roberts v North Dakota",
         "betOption": "Head To Head",
-        "start_time": "2026-01-23T00:05:00.000Z"
+        "start_time": "2026-01-23T01:00:00.000Z"
     },
     {
-        "contestant_names": "Philadelphia VERSES Houston",
-        "start_time_aest": "2026-01-23T11:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
+        "contestant_names": "Nashville VERSES Ottawa",
+        "start_time_aest": "2026-01-23T12:09:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "Philadelphia",
+                "full_name": "Nashville",
                 "position": "HOME",
-                "short_name": "Philadelphia"
+                "short_name": "Nashville"
             },
             {
-                "full_name": "Houston",
+                "full_name": "Ottawa",
                 "position": "AWAY",
-                "short_name": "Houston"
+                "short_name": "Ottawa"
             }
         ],
         "propositions": [
             {
-                "name": "Philadelphia",
-                "returnWin": 2.1,
+                "name": "Nashville",
+                "returnWin": 1.95,
                 "returnPlace": 0
             },
             {
-                "name": "Houston",
-                "returnWin": 1.77,
+                "name": "Ottawa",
+                "returnWin": 1.85,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Philadelphia v Houston",
+        "match_name": "Nashville v Ottawa",
         "betOption": "Head To Head",
-        "start_time": "2026-01-23T00:10:00.000Z"
-    },
-    {
-        "contestant_names": "Orlando VERSES Charlotte",
-        "start_time_aest": "2026-01-23T11:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Orlando",
-                "position": "HOME",
-                "short_name": "Orlando"
-            },
-            {
-                "full_name": "Charlotte",
-                "position": "AWAY",
-                "short_name": "Charlotte"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Orlando",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            },
-            {
-                "name": "Charlotte",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Orlando v Charlotte",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T00:10:00.000Z"
+        "start_time": "2026-01-23T01:09:00.000Z"
     }
 ]
