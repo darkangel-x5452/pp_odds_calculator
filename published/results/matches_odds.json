@@ -1,104 +1,5 @@
 [
     {
-        "contestant_names": "WBC Wels VERSES Graz UBSC",
-        "start_time_aest": "2026-01-24T05:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Austria Bundesliga",
-        "contestants": [
-            {
-                "full_name": "WBC Wels",
-                "position": "HOME",
-                "short_name": "WBC Wels"
-            },
-            {
-                "full_name": "Graz UBSC",
-                "position": "AWAY",
-                "short_name": "Graz UBSC"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "WBC Wels",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            },
-            {
-                "name": "Graz UBSC",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "WBC Wels v Graz UBSC",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T18:00:00.000Z"
-    },
-    {
-        "contestant_names": "Vejen VERSES Holbaek-stenhus",
-        "start_time_aest": "2026-01-24T05:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Denmark Basketligaen",
-        "contestants": [
-            {
-                "full_name": "Vejen",
-                "position": "HOME",
-                "short_name": "Vejen"
-            },
-            {
-                "full_name": "Holbaek-stenhus",
-                "position": "AWAY",
-                "short_name": "Holbaek-stenhus"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Vejen",
-                "returnWin": 1.68,
-                "returnPlace": 0
-            },
-            {
-                "name": "Holbaek-stenhus",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Vejen v Holbaek-stenhus",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T18:00:00.000Z"
-    },
-    {
-        "contestant_names": "Artech BlueStar CC VERSES Phoenix Cricketers",
-        "start_time_aest": "2026-01-24T05:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Falcons Champions Trophy T20",
-        "contestants": [
-            {
-                "full_name": "Artech BlueStar CC",
-                "position": "HOME",
-                "short_name": "Artech Bluestar"
-            },
-            {
-                "full_name": "Phoenix Cricketers",
-                "position": "AWAY",
-                "short_name": "Phoenix Crickete"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Artech BlueStar CC",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            },
-            {
-                "name": "Phoenix Cricketers",
-                "returnWin": 1.75,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Artech Bluestar  v Phoenix Crickete",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T18:00:00.000Z"
-    },
-    {
         "contestant_names": "Raiffeisen Furst VERSES BBC Nord",
         "start_time_aest": "2026-01-24T05:30:00+11:00",
         "sport_name": "Basketball",
@@ -196,6 +97,105 @@
         "match_name": "Angouleme v Oyonnax",
         "betOption": "Head To Head",
         "start_time": "2026-01-23T18:30:00.000Z"
+    },
+    {
+        "contestant_names": "Peifan Lei VERSES Xu Si",
+        "start_time_aest": "2026-01-24T05:30:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "Championship League",
+        "contestants": [
+            {
+                "full_name": "Peifan Lei",
+                "position": "HOME",
+                "short_name": "Lei Peifan"
+            },
+            {
+                "full_name": "Xu Si",
+                "position": "AWAY",
+                "short_name": "Xu S"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Peifan Lei",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            },
+            {
+                "name": "Xu Si",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Lei Peifan v Xu S",
+        "betOption": "Result",
+        "start_time": "2026-01-23T18:30:00.000Z"
+    },
+    {
+        "contestant_names": "Telekom Baskets VERSES Rostock Seawolve",
+        "start_time_aest": "2026-01-24T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Germany Bundesliga",
+        "contestants": [
+            {
+                "full_name": "Telekom Baskets",
+                "position": "HOME",
+                "short_name": "Telekom Baskets"
+            },
+            {
+                "full_name": "Rostock Seawolve",
+                "position": "AWAY",
+                "short_name": "Rostock Seawolve"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Telekom Baskets",
+                "returnWin": 1.46,
+                "returnPlace": 0
+            },
+            {
+                "name": "Rostock Seawolve",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Telekom Baskets  v Rostock Seawolve",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Louisiana Tech VERSES Kennesaw State",
+        "start_time_aest": "2026-01-24T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Louisiana Tech",
+                "position": "HOME",
+                "short_name": "Louisiana Tech"
+            },
+            {
+                "full_name": "Kennesaw State",
+                "position": "AWAY",
+                "short_name": "Kennesaw State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Louisiana Tech",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Kennesaw State",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Louisiana Tech v Kennesaw State",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T19:00:00.000Z"
     },
     {
         "contestant_names": "Sydney Blue Sox VERSES Adelaide Giants",
