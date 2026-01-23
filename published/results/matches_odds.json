@@ -1,299 +1,134 @@
 [
     {
-        "contestant_names": "UAB VERSES South Florida",
-        "start_time_aest": "2026-01-23T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "contestant_names": "Boston VERSES Las Vegas",
+        "start_time_aest": "2026-01-23T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "UAB",
+                "full_name": "Boston",
                 "position": "HOME",
-                "short_name": "UAB"
+                "short_name": "Boston"
             },
             {
-                "full_name": "South Florida",
+                "full_name": "Las Vegas",
                 "position": "AWAY",
-                "short_name": "South Florida"
+                "short_name": "Las Vegas"
             }
         ],
         "propositions": [
             {
-                "name": "UAB",
+                "name": "Boston",
                 "returnWin": 2.25,
                 "returnPlace": 0
             },
             {
-                "name": "South Florida",
-                "returnWin": 1.65,
+                "name": "Las Vegas",
+                "returnWin": 1.62,
                 "returnPlace": 0
             }
         ],
-        "match_name": "UAB v South Florida",
+        "match_name": "Boston v Las Vegas",
         "betOption": "Head To Head",
-        "start_time": "2026-01-23T00:00:00.000Z"
+        "start_time": "2026-01-23T00:05:00.000Z"
     },
     {
-        "contestant_names": "Georgia Southern VERSES Arkansas State",
-        "start_time_aest": "2026-01-23T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "contestant_names": "Montreal VERSES Buffalo",
+        "start_time_aest": "2026-01-23T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "Georgia Southern",
+                "full_name": "Montreal",
                 "position": "HOME",
-                "short_name": "Georgia Southern"
+                "short_name": "Montreal"
             },
             {
-                "full_name": "Arkansas State",
+                "full_name": "Buffalo",
                 "position": "AWAY",
-                "short_name": "Arkansas State"
+                "short_name": "Buffalo"
             }
         ],
         "propositions": [
             {
-                "name": "Georgia Southern",
-                "returnWin": 1.95,
+                "name": "Montreal",
+                "returnWin": 1.8,
                 "returnPlace": 0
             },
             {
-                "name": "Arkansas State",
-                "returnWin": 1.85,
+                "name": "Buffalo",
+                "returnWin": 2,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Georgia Southern v Arkansas State",
+        "match_name": "Montreal v Buffalo",
         "betOption": "Head To Head",
-        "start_time": "2026-01-23T00:00:00.000Z"
+        "start_time": "2026-01-23T00:05:00.000Z"
     },
     {
-        "contestant_names": "Charleston VERSES Campbell",
-        "start_time_aest": "2026-01-23T11:00:00+11:00",
+        "contestant_names": "Philadelphia VERSES Houston",
+        "start_time_aest": "2026-01-23T11:10:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "competition_name": "NBA",
         "contestants": [
             {
-                "full_name": "Charleston",
+                "full_name": "Philadelphia",
                 "position": "HOME",
-                "short_name": "Charleston"
+                "short_name": "Philadelphia"
             },
             {
-                "full_name": "Campbell",
+                "full_name": "Houston",
                 "position": "AWAY",
-                "short_name": "Campbell"
+                "short_name": "Houston"
             }
         ],
         "propositions": [
             {
-                "name": "Charleston",
-                "returnWin": 1.58,
+                "name": "Philadelphia",
+                "returnWin": 2.1,
                 "returnPlace": 0
             },
             {
-                "name": "Campbell",
+                "name": "Houston",
+                "returnWin": 1.77,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Philadelphia v Houston",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T00:10:00.000Z"
+    },
+    {
+        "contestant_names": "Orlando VERSES Charlotte",
+        "start_time_aest": "2026-01-23T11:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Orlando",
+                "position": "HOME",
+                "short_name": "Orlando"
+            },
+            {
+                "full_name": "Charlotte",
+                "position": "AWAY",
+                "short_name": "Charlotte"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Orlando",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            },
+            {
+                "name": "Charlotte",
                 "returnWin": 2.4,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Charleston v Campbell",
+        "match_name": "Orlando v Charlotte",
         "betOption": "Head To Head",
-        "start_time": "2026-01-23T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Coastal Carolina VERSES Texas State",
-        "start_time_aest": "2026-01-23T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Coastal Carolina",
-                "position": "HOME",
-                "short_name": "Coastal Carolina"
-            },
-            {
-                "full_name": "Texas State",
-                "position": "AWAY",
-                "short_name": "Texas State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Coastal Carolina",
-                "returnWin": 1.7,
-                "returnPlace": 0
-            },
-            {
-                "name": "Texas State",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Coastal Carolina v Texas State",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Elon VERSES Towson",
-        "start_time_aest": "2026-01-23T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Elon",
-                "position": "HOME",
-                "short_name": "Elon"
-            },
-            {
-                "full_name": "Towson",
-                "position": "AWAY",
-                "short_name": "Towson"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Elon",
-                "returnWin": 1.7,
-                "returnPlace": 0
-            },
-            {
-                "name": "Towson",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Elon v Towson",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Georgia State VERSES Southern Miss",
-        "start_time_aest": "2026-01-23T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Georgia State",
-                "position": "HOME",
-                "short_name": "Georgia State"
-            },
-            {
-                "full_name": "Southern Miss",
-                "position": "AWAY",
-                "short_name": "Southern Miss"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Georgia State",
-                "returnWin": 1.7,
-                "returnPlace": 0
-            },
-            {
-                "name": "Southern Miss",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Georgia State v Southern Miss",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Northeastern VERSES Stony Brook",
-        "start_time_aest": "2026-01-23T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Northeastern",
-                "position": "HOME",
-                "short_name": "Northeastern"
-            },
-            {
-                "full_name": "Stony Brook",
-                "position": "AWAY",
-                "short_name": "Stony Brook"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Northeastern",
-                "returnWin": 1.53,
-                "returnPlace": 0
-            },
-            {
-                "name": "Stony Brook",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Northeastern v Stony Brook",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "WilliamMary VERSES UNC Wilmington",
-        "start_time_aest": "2026-01-23T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "WilliamMary",
-                "position": "HOME",
-                "short_name": "WilliamMary"
-            },
-            {
-                "full_name": "UNC Wilmington",
-                "position": "AWAY",
-                "short_name": "UNC Wilmington"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "WilliamMary",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            },
-            {
-                "name": "UNC Wilmington",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "WilliamMary v UNC Wilmington",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Siena VERSES Marist",
-        "start_time_aest": "2026-01-23T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Siena",
-                "position": "HOME",
-                "short_name": "Siena"
-            },
-            {
-                "full_name": "Marist",
-                "position": "AWAY",
-                "short_name": "Marist"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Siena",
-                "returnWin": 1.85,
-                "returnPlace": 0
-            },
-            {
-                "name": "Marist",
-                "returnWin": 1.95,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Siena v Marist",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T00:00:00.000Z"
+        "start_time": "2026-01-23T00:10:00.000Z"
     }
 ]
