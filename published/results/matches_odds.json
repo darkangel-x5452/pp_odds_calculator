@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Super Kings VERSES Freedom Fighters Cochin",
-        "start_time_aest": "2026-01-24T01:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Falcons Champions Trophy T20",
-        "contestants": [
-            {
-                "full_name": "Super Kings",
-                "position": "HOME",
-                "short_name": "Super Kings"
-            },
-            {
-                "full_name": "Freedom Fighters Cochin",
-                "position": "AWAY",
-                "short_name": "Freedom Fighters"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Super Kings",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Freedom Fighters Cochin",
-                "returnWin": 1.52,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Super Kings v Freedom Fighters",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T14:30:00.000Z"
-    },
-    {
         "contestant_names": "Targu Mures VERSES Timisoara",
         "start_time_aest": "2026-01-24T02:00:00+11:00",
         "sport_name": "Basketball",
@@ -227,6 +194,72 @@
             }
         ],
         "match_name": "Lene E v Daniel",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T15:30:00.000Z"
+    },
+    {
+        "contestant_names": "Irene Burillo Escorihuela VERSES Hibah Shaikh",
+        "start_time_aest": "2026-01-24T02:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Irene Burillo Escorihuela",
+                "position": "HOME",
+                "short_name": "Escorihuela"
+            },
+            {
+                "full_name": "Hibah Shaikh",
+                "position": "AWAY",
+                "short_name": "Shaikh"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Irene Burillo Escorihuela",
+                "returnWin": 2.25,
+                "returnPlace": 0
+            },
+            {
+                "name": "Hibah Shaikh",
+                "returnWin": 1.58,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Escorihuela v Shaikh",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T15:30:00.000Z"
+    },
+    {
+        "contestant_names": "Kira Pavlova VERSES Mushika Mio",
+        "start_time_aest": "2026-01-24T02:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Kira Pavlova",
+                "position": "HOME",
+                "short_name": "Pavlova K"
+            },
+            {
+                "full_name": "Mushika Mio",
+                "position": "AWAY",
+                "short_name": "Mushika Mio"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Kira Pavlova",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            },
+            {
+                "name": "Mushika Mio",
+                "returnWin": 1.75,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Pavlova K v Mushika Mio",
         "betOption": "Head To Head",
         "start_time": "2026-01-23T15:30:00.000Z"
     },
