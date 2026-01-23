@@ -1,104 +1,5 @@
 [
     {
-        "contestant_names": "Winnipeg VERSES Florida",
-        "start_time_aest": "2026-01-23T12:08:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Winnipeg",
-                "position": "HOME",
-                "short_name": "Winnipeg"
-            },
-            {
-                "full_name": "Florida",
-                "position": "AWAY",
-                "short_name": "Florida"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Winnipeg",
-                "returnWin": 1.95,
-                "returnPlace": 0
-            },
-            {
-                "name": "Florida",
-                "returnWin": 1.85,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Winnipeg v Florida",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T01:08:00.000Z"
-    },
-    {
-        "contestant_names": "Nashville VERSES Ottawa",
-        "start_time_aest": "2026-01-23T12:09:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Nashville",
-                "position": "HOME",
-                "short_name": "Nashville"
-            },
-            {
-                "full_name": "Ottawa",
-                "position": "AWAY",
-                "short_name": "Ottawa"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Nashville",
-                "returnWin": 1.95,
-                "returnPlace": 0
-            },
-            {
-                "name": "Ottawa",
-                "returnWin": 1.85,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Nashville v Ottawa",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T01:09:00.000Z"
-    },
-    {
-        "contestant_names": "Canterbury Magicians (W) VERSES Wellington (W)",
-        "start_time_aest": "2026-01-23T12:10:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "NZ Womens Super Smash",
-        "contestants": [
-            {
-                "full_name": "Canterbury Magicians (W)",
-                "position": "HOME",
-                "short_name": "Canterbury (W)"
-            },
-            {
-                "full_name": "Wellington (W)",
-                "position": "AWAY",
-                "short_name": "Wellington (W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Canterbury Magicians (W)",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            },
-            {
-                "name": "Wellington (W)",
-                "returnWin": 1.68,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Canterbury (W) v Wellington (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T01:10:00.000Z"
-    },
-    {
         "contestant_names": "EastrnWashington VERSES Portland State",
         "start_time_aest": "2026-01-23T13:00:00+11:00",
         "sport_name": "Basketball",
@@ -262,5 +163,104 @@
         "match_name": "Gonzalez/Molteni v Nouza/Rikl",
         "betOption": "Head To Head",
         "start_time": "2026-01-23T02:00:00.000Z"
+    },
+    {
+        "contestant_names": "Perez/Schuurs VERSES N Kichenok/Ninomiya",
+        "start_time_aest": "2026-01-23T13:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open Doubles",
+        "contestants": [
+            {
+                "full_name": "Perez/Schuurs",
+                "position": "HOME",
+                "short_name": "Perez/Schuurs"
+            },
+            {
+                "full_name": "N Kichenok/Ninomiya",
+                "position": "AWAY",
+                "short_name": "N Kichenok/Ninomiya"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Perez/Schuurs",
+                "returnWin": 1.46,
+                "returnPlace": 0
+            },
+            {
+                "name": "N Kichenok/Ninomiya",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Perez/Schuurs v N Kichenok/Ninomiya",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T02:00:00.000Z"
+    },
+    {
+        "contestant_names": "Culiacan VERSES Jalisco",
+        "start_time_aest": "2026-01-23T13:05:00+11:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico LMP",
+        "contestants": [
+            {
+                "full_name": "Culiacan",
+                "position": "HOME",
+                "short_name": "Culiacan"
+            },
+            {
+                "full_name": "Jalisco",
+                "position": "AWAY",
+                "short_name": "Jalisco"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Culiacan",
+                "returnWin": 1.72,
+                "returnPlace": 0
+            },
+            {
+                "name": "Jalisco",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Culiacan v Jalisco",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T02:05:00.000Z"
+    },
+    {
+        "contestant_names": "Edmonton VERSES Pittsburgh",
+        "start_time_aest": "2026-01-23T13:10:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Edmonton",
+                "position": "HOME",
+                "short_name": "Edmonton"
+            },
+            {
+                "full_name": "Pittsburgh",
+                "position": "AWAY",
+                "short_name": "Pittsburgh"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Edmonton",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            },
+            {
+                "name": "Pittsburgh",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Edmonton v Pittsburgh",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-23T02:10:00.000Z"
     }
 ]
