@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Leeward Islands (W) VERSES Barbados (W)",
-        "start_time_aest": "2026-01-24T10:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Womens WI Breakout League T20",
-        "contestants": [
-            {
-                "full_name": "Leeward Islands (W)",
-                "position": "HOME",
-                "short_name": "Leeward Isl (W)"
-            },
-            {
-                "full_name": "Barbados (W)",
-                "position": "AWAY",
-                "short_name": "Barbads (W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Leeward Islands (W)",
-                "returnWin": 2,
-                "returnPlace": 0
-            },
-            {
-                "name": "Barbados (W)",
-                "returnWin": 1.8,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Leeward Isl (W) v Barbads (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T23:00:00.000Z"
-    },
-    {
         "contestant_names": "Doumbia/Reboul VERSES Arribage/Olivetti",
         "start_time_aest": "2026-01-24T10:30:00+11:00",
         "sport_name": "Tennis",
@@ -128,6 +95,39 @@
             }
         ],
         "match_name": "St Francis (PA) v Chicago State",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Jacksonville St VERSES Middle Tennessee",
+        "start_time_aest": "2026-01-24T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Jacksonville St",
+                "position": "HOME",
+                "short_name": "Jacksonville St"
+            },
+            {
+                "full_name": "Middle Tennessee",
+                "position": "AWAY",
+                "short_name": "Middle Tennessee"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jacksonville St",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            },
+            {
+                "name": "Middle Tennessee",
+                "returnWin": 1.77,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Jacksonville St v Middle Tennessee",
         "betOption": "Head To Head",
         "start_time": "2026-01-24T00:00:00.000Z"
     },
