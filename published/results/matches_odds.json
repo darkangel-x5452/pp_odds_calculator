@@ -1,137 +1,5 @@
 [
     {
-        "contestant_names": "Eastern Cape VERSES Paarl Royals",
-        "start_time_aest": "2026-01-24T02:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "South Africa T20",
-        "contestants": [
-            {
-                "full_name": "Eastern Cape",
-                "position": "HOME",
-                "short_name": "Eastern Cape"
-            },
-            {
-                "full_name": "Paarl Royals",
-                "position": "AWAY",
-                "short_name": "Paarl Royals"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Eastern Cape",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            },
-            {
-                "name": "Paarl Royals",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Eastern Cape v Paarl Royals",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T15:30:00.000Z"
-    },
-    {
-        "contestant_names": "Emma Lene VERSES Jaeda Daniel",
-        "start_time_aest": "2026-01-24T02:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Emma Lene",
-                "position": "HOME",
-                "short_name": "Lene E"
-            },
-            {
-                "full_name": "Jaeda Daniel",
-                "position": "AWAY",
-                "short_name": "Daniel"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Emma Lene",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            },
-            {
-                "name": "Jaeda Daniel",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Lene E v Daniel",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T15:30:00.000Z"
-    },
-    {
-        "contestant_names": "Irene Burillo Escorihuela VERSES Hibah Shaikh",
-        "start_time_aest": "2026-01-24T02:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Irene Burillo Escorihuela",
-                "position": "HOME",
-                "short_name": "Escorihuela"
-            },
-            {
-                "full_name": "Hibah Shaikh",
-                "position": "AWAY",
-                "short_name": "Shaikh"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Irene Burillo Escorihuela",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            },
-            {
-                "name": "Hibah Shaikh",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Escorihuela v Shaikh",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T15:30:00.000Z"
-    },
-    {
-        "contestant_names": "Kira Pavlova VERSES Mushika Mio",
-        "start_time_aest": "2026-01-24T02:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Kira Pavlova",
-                "position": "HOME",
-                "short_name": "Pavlova K"
-            },
-            {
-                "full_name": "Mushika Mio",
-                "position": "AWAY",
-                "short_name": "Mushika Mio"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Kira Pavlova",
-                "returnWin": 1.95,
-                "returnPlace": 0
-            },
-            {
-                "name": "Mushika Mio",
-                "returnWin": 1.75,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Pavlova K v Mushika Mio",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T15:30:00.000Z"
-    },
-    {
         "contestant_names": "Atlassib Sibiu VERSES SCM CSU Craiova",
         "start_time_aest": "2026-01-24T03:00:00+11:00",
         "sport_name": "Basketball",
@@ -194,6 +62,39 @@
             }
         ],
         "match_name": "Jones v Robertson J",
+        "betOption": "Result",
+        "start_time": "2026-01-23T16:30:00.000Z"
+    },
+    {
+        "contestant_names": "Peifan Lei VERSES Ryan Day",
+        "start_time_aest": "2026-01-24T03:30:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "Championship League",
+        "contestants": [
+            {
+                "full_name": "Peifan Lei",
+                "position": "HOME",
+                "short_name": "Lei Peifan"
+            },
+            {
+                "full_name": "Ryan Day",
+                "position": "AWAY",
+                "short_name": "Day R"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Peifan Lei",
+                "returnWin": 1.75,
+                "returnPlace": 0
+            },
+            {
+                "name": "Ryan Day",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Lei Peifan v Day R",
         "betOption": "Result",
         "start_time": "2026-01-23T16:30:00.000Z"
     },
