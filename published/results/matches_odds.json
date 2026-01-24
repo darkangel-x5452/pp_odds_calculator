@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Mihalikova/Nicholls VERSES Hunter/Joint",
-        "start_time_aest": "2026-01-24T12:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
-        "contestants": [
-            {
-                "full_name": "Mihalikova/Nicholls",
-                "position": "HOME",
-                "short_name": "Mihalikova/Nicholls"
-            },
-            {
-                "full_name": "Hunter/Joint",
-                "position": "AWAY",
-                "short_name": "Hunter/Joint"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Mihalikova/Nicholls",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            },
-            {
-                "name": "Hunter/Joint",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Mihalikova/Nicholls v Hunter/Joint",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T01:45:00.000Z"
-    },
-    {
         "contestant_names": "Calgary VERSES Washington",
         "start_time_aest": "2026-01-24T13:09:00+11:00",
         "sport_name": "Ice Hockey",
@@ -97,6 +64,204 @@
         "match_name": "Gonzalez/Pel v Bhambri/Goransson",
         "betOption": "Head To Head",
         "start_time": "2026-01-24T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Osaka VERSES Toyota Alvark",
+        "start_time_aest": "2026-01-24T14:05:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Japan B League",
+        "contestants": [
+            {
+                "full_name": "Osaka",
+                "position": "HOME",
+                "short_name": "Osaka"
+            },
+            {
+                "full_name": "Toyota Alvark",
+                "position": "AWAY",
+                "short_name": "Toyota Alvark"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Osaka",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Toyota Alvark",
+                "returnWin": 1.45,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Osaka v Toyota Alvark",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T03:05:00.000Z"
+    },
+    {
+        "contestant_names": "Vancouver VERSES New Jersey",
+        "start_time_aest": "2026-01-24T14:08:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Vancouver",
+                "position": "HOME",
+                "short_name": "Vancouver"
+            },
+            {
+                "full_name": "New Jersey",
+                "position": "AWAY",
+                "short_name": "New Jersey"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Vancouver",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            },
+            {
+                "name": "New Jersey",
+                "returnWin": 1.65,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Vancouver v New Jersey",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T03:08:00.000Z"
+    },
+    {
+        "contestant_names": "San Jose VERSES NY Rangers",
+        "start_time_aest": "2026-01-24T14:09:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "San Jose",
+                "position": "HOME",
+                "short_name": "San Jose"
+            },
+            {
+                "full_name": "NY Rangers",
+                "position": "AWAY",
+                "short_name": "NY Rangers"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "San Jose",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            },
+            {
+                "name": "NY Rangers",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "San Jose v NY Rangers",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T03:09:00.000Z"
+    },
+    {
+        "contestant_names": "Portland VERSES Toronto",
+        "start_time_aest": "2026-01-24T14:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Portland",
+                "position": "HOME",
+                "short_name": "Portland"
+            },
+            {
+                "full_name": "Toronto",
+                "position": "AWAY",
+                "short_name": "Toronto"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Portland",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Toronto",
+                "returnWin": 1.56,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Portland v Toronto",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T03:10:00.000Z"
+    },
+    {
+        "contestant_names": "Seattle VERSES Anaheim",
+        "start_time_aest": "2026-01-24T14:10:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Seattle",
+                "position": "HOME",
+                "short_name": "Seattle"
+            },
+            {
+                "full_name": "Anaheim",
+                "position": "AWAY",
+                "short_name": "Anaheim"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Seattle",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            },
+            {
+                "name": "Anaheim",
+                "returnWin": 2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Seattle v Anaheim",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T03:10:00.000Z"
+    },
+    {
+        "contestant_names": "Papua New Guinea (W) VERSES Namibia (W)",
+        "start_time_aest": "2026-01-24T14:15:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "ICC Womens T20 World Cup Qualifiers",
+        "contestants": [
+            {
+                "full_name": "Papua New Guinea (W)",
+                "position": "HOME",
+                "short_name": "PNG (W)"
+            },
+            {
+                "full_name": "Namibia (W)",
+                "position": "AWAY",
+                "short_name": "Namibia (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Papua New Guinea (W)",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            },
+            {
+                "name": "Namibia (W)",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "PNG (W) v Namibia (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T03:15:00.000Z"
     },
     {
         "contestant_names": "Sydney Blue Sox VERSES Adelaide Giants",
