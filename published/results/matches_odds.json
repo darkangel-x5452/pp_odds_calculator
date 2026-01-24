@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Kubler/Polmans VERSES Paul/Willis",
-        "start_time_aest": "2026-01-24T15:15:00+11:00",
+        "start_time_aest": "2026-01-24T15:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Australian Open Doubles",
         "contestants": [
@@ -30,7 +30,7 @@
         ],
         "match_name": "Kubler/Polmans v Paul/Willis",
         "betOption": "Head To Head",
-        "start_time": "2026-01-24T04:15:00.000Z"
+        "start_time": "2026-01-24T04:45:00.000Z"
     },
     {
         "contestant_names": "Toyama Grouses VERSES Shibuya Sun Rock",
@@ -196,6 +196,39 @@
         "match_name": "Singh K v Chopra K",
         "betOption": "Head To Head",
         "start_time": "2026-01-24T05:00:00.000Z"
+    },
+    {
+        "contestant_names": "Himeji Victorina (W) VERSES Ageo (W)",
+        "start_time_aest": "2026-01-24T16:05:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "Japan V Premier League (W)",
+        "contestants": [
+            {
+                "full_name": "Himeji Victorina (W)",
+                "position": "HOME",
+                "short_name": "Himeji Victo (W)"
+            },
+            {
+                "full_name": "Ageo (W)",
+                "position": "AWAY",
+                "short_name": "Ageo (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Himeji Victorina (W)",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            },
+            {
+                "name": "Ageo (W)",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Himeji Victo (W) v Ageo (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T05:05:00.000Z"
     },
     {
         "contestant_names": "Sydney Blue Sox VERSES Adelaide Giants",
