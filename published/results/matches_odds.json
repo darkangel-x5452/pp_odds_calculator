@@ -1,104 +1,5 @@
 [
     {
-        "contestant_names": "Willebroek VERSES Dukes Den Bosch",
-        "start_time_aest": "2026-01-25T06:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "BNXT League",
-        "contestants": [
-            {
-                "full_name": "Willebroek",
-                "position": "HOME",
-                "short_name": "Willebroek"
-            },
-            {
-                "full_name": "Dukes Den Bosch",
-                "position": "AWAY",
-                "short_name": "Dukes Den Bosch"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Willebroek",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            },
-            {
-                "name": "Dukes Den Bosch",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Willebroek v Dukes Den Bosch",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T19:30:00.000Z"
-    },
-    {
-        "contestant_names": "Leuven Bears VERSES Limburg",
-        "start_time_aest": "2026-01-25T06:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "BNXT League",
-        "contestants": [
-            {
-                "full_name": "Leuven Bears",
-                "position": "HOME",
-                "short_name": "Leuven Bears"
-            },
-            {
-                "full_name": "Limburg",
-                "position": "AWAY",
-                "short_name": "Limburg"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Leuven Bears",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            },
-            {
-                "name": "Limburg",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Leuven Bears v Limburg",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T19:30:00.000Z"
-    },
-    {
-        "contestant_names": "SE Louisiana VERSES Nicholls State",
-        "start_time_aest": "2026-01-25T06:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "SE Louisiana",
-                "position": "HOME",
-                "short_name": "SE Louisiana"
-            },
-            {
-                "full_name": "Nicholls State",
-                "position": "AWAY",
-                "short_name": "Nicholls State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "SE Louisiana",
-                "returnWin": 1.74,
-                "returnPlace": 0
-            },
-            {
-                "name": "Nicholls State",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "SE Louisiana v Nicholls State",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T19:30:00.000Z"
-    },
-    {
         "contestant_names": "Movistar VERSES Fnatic",
         "start_time_aest": "2026-01-25T06:55:00+11:00",
         "sport_name": "Esports",
@@ -130,6 +31,72 @@
         "match_name": "Movistar v Fnatic",
         "betOption": "Head To Head",
         "start_time": "2026-01-24T19:55:00.000Z"
+    },
+    {
+        "contestant_names": "Utah State VERSES Wyoming",
+        "start_time_aest": "2026-01-25T07:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Utah State",
+                "position": "HOME",
+                "short_name": "Utah State"
+            },
+            {
+                "full_name": "Wyoming",
+                "position": "AWAY",
+                "short_name": "Wyoming"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Utah State",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            },
+            {
+                "name": "Wyoming",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Utah State v Wyoming",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T20:00:00.000Z"
+    },
+    {
+        "contestant_names": "CB Granada VERSES Bilbao",
+        "start_time_aest": "2026-01-25T07:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Spain ACB Liga",
+        "contestants": [
+            {
+                "full_name": "CB Granada",
+                "position": "HOME",
+                "short_name": "CB Granada"
+            },
+            {
+                "full_name": "Bilbao",
+                "position": "AWAY",
+                "short_name": "Bilbao"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "CB Granada",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Bilbao",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "CB Granada v Bilbao",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T20:00:00.000Z"
     },
     {
         "contestant_names": "Sydney Blue Sox VERSES Adelaide Giants",
