@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Prairie View AM VERSES Alabama State",
-        "start_time_aest": "2026-01-25T09:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Prairie View AM",
-                "position": "HOME",
-                "short_name": "Prairie View AM"
-            },
-            {
-                "full_name": "Alabama State",
-                "position": "AWAY",
-                "short_name": "Alabama State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Prairie View AM",
-                "returnWin": 1.85,
-                "returnPlace": 0
-            },
-            {
-                "name": "Alabama State",
-                "returnWin": 1.95,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Prairie View AM v Alabama State",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T22:30:00.000Z"
-    },
-    {
         "contestant_names": "Baylor VERSES TCU",
         "start_time_aest": "2026-01-25T10:00:00+11:00",
         "sport_name": "Basketball",
@@ -64,6 +31,105 @@
         "match_name": "Baylor v TCU",
         "betOption": "Head To Head",
         "start_time": "2026-01-24T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Canterbury Magicians (W) VERSES Northern Brave (W)",
+        "start_time_aest": "2026-01-25T10:40:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "NZ Womens Super Smash",
+        "contestants": [
+            {
+                "full_name": "Canterbury Magicians (W)",
+                "position": "HOME",
+                "short_name": "Canterbury (W)"
+            },
+            {
+                "full_name": "Northern Brave (W)",
+                "position": "AWAY",
+                "short_name": "Nthn Brave (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Canterbury Magicians (W)",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            },
+            {
+                "name": "Northern Brave (W)",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Canterbury (W) v Nthn Brave (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T23:40:00.000Z"
+    },
+    {
+        "contestant_names": "Jalisco VERSES Culiacan",
+        "start_time_aest": "2026-01-25T11:00:00+11:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico LMP",
+        "contestants": [
+            {
+                "full_name": "Jalisco",
+                "position": "HOME",
+                "short_name": "Jalisco"
+            },
+            {
+                "full_name": "Culiacan",
+                "position": "AWAY",
+                "short_name": "Culiacan"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jalisco",
+                "returnWin": 1.68,
+                "returnPlace": 0
+            },
+            {
+                "name": "Culiacan",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Jalisco v Culiacan",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Pergamino Basket VERSES Racing Club",
+        "start_time_aest": "2026-01-25T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Pergamino Basket",
+                "position": "HOME",
+                "short_name": "Pergamino Basket"
+            },
+            {
+                "full_name": "Racing Club",
+                "position": "AWAY",
+                "short_name": "Racing Club"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Pergamino Basket",
+                "returnWin": 1.73,
+                "returnPlace": 0
+            },
+            {
+                "name": "Racing Club",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Pergamino Basket v Racing Club",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T00:00:00.000Z"
     },
     {
         "contestant_names": "Sydney Blue Sox VERSES Adelaide Giants",
