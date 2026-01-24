@@ -1,201 +1,234 @@
 [
     {
-        "contestant_names": "Naturtex-SZTE VERSES Budapesti Honved",
-        "start_time_aest": "2026-01-25T04:00:00+11:00",
+        "contestant_names": "Gravelines VERSES Dijon",
+        "start_time_aest": "2026-01-25T04:10:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Hungary NB IA",
+        "competition_name": "France LNB Pro A",
         "contestants": [
             {
-                "full_name": "Naturtex-SZTE",
+                "full_name": "Gravelines",
                 "position": "HOME",
-                "short_name": "Naturtex-SZTE"
+                "short_name": "Gravelines"
             },
             {
-                "full_name": "Budapesti Honved",
+                "full_name": "Dijon",
                 "position": "AWAY",
-                "short_name": "Budapesti Honved"
+                "short_name": "Dijon"
             }
         ],
         "propositions": [
             {
-                "name": "Naturtex-SZTE",
-                "returnWin": 2.3,
+                "name": "Gravelines",
+                "returnWin": 2.2,
                 "returnPlace": 0
             },
             {
-                "name": "Budapesti Honved",
+                "name": "Dijon",
+                "returnWin": 1.57,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Gravelines v Dijon",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T17:10:00.000Z"
+    },
+    {
+        "contestant_names": "Napoli VERSES Bertram Tortona",
+        "start_time_aest": "2026-01-25T04:15:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Italy Lega Serie A",
+        "contestants": [
+            {
+                "full_name": "Napoli",
+                "position": "HOME",
+                "short_name": "Napoli"
+            },
+            {
+                "full_name": "Bertram Tortona",
+                "position": "AWAY",
+                "short_name": "Bertram Tortona"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Napoli",
+                "returnWin": 1.66,
+                "returnPlace": 0
+            },
+            {
+                "name": "Bertram Tortona",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Napoli v Bertram Tortona",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T17:15:00.000Z"
+    },
+    {
+        "contestant_names": "Vitality VERSES Heretics",
+        "start_time_aest": "2026-01-25T04:15:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "contestants": [
+            {
+                "full_name": "Vitality",
+                "position": "HOME",
+                "short_name": "Vitality"
+            },
+            {
+                "full_name": "Heretics",
+                "position": "AWAY",
+                "short_name": "Heretics"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Vitality",
                 "returnWin": 1.52,
                 "returnPlace": 0
-            }
-        ],
-        "match_name": "Naturtex-SZTE v Budapesti Honved",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Ose Lions VERSES Nka Universitas",
-        "start_time_aest": "2026-01-25T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Hungary NB IA",
-        "contestants": [
-            {
-                "full_name": "Ose Lions",
-                "position": "HOME",
-                "short_name": "Ose Lions"
             },
             {
-                "full_name": "Nka Universitas",
+                "name": "Heretics",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Vitality v Heretics",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T17:15:00.000Z"
+    },
+    {
+        "contestant_names": "Elan Chalon VERSES Cholet",
+        "start_time_aest": "2026-01-25T04:20:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "France LNB Pro A",
+        "contestants": [
+            {
+                "full_name": "Elan Chalon",
+                "position": "HOME",
+                "short_name": "Elan Chalon"
+            },
+            {
+                "full_name": "Cholet",
                 "position": "AWAY",
-                "short_name": "Nka Universitas"
+                "short_name": "Cholet"
             }
         ],
         "propositions": [
             {
-                "name": "Ose Lions",
-                "returnWin": 2.5,
+                "name": "Elan Chalon",
+                "returnWin": 1.48,
                 "returnPlace": 0
             },
             {
-                "name": "Nka Universitas",
-                "returnWin": 1.45,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Ose Lions v Nka Universitas",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "WilliamMary VERSES Hofstra",
-        "start_time_aest": "2026-01-25T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "WilliamMary",
-                "position": "HOME",
-                "short_name": "WilliamMary"
-            },
-            {
-                "full_name": "Hofstra",
-                "position": "AWAY",
-                "short_name": "Hofstra"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "WilliamMary",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            },
-            {
-                "name": "Hofstra",
+                "name": "Cholet",
                 "returnWin": 2.4,
                 "returnPlace": 0
             }
         ],
-        "match_name": "WilliamMary v Hofstra",
+        "match_name": "Elan Chalon v Cholet",
         "betOption": "Head To Head",
-        "start_time": "2026-01-24T17:00:00.000Z"
+        "start_time": "2026-01-24T17:20:00.000Z"
     },
     {
-        "contestant_names": "Charleston VERSES Elon",
-        "start_time_aest": "2026-01-25T04:00:00+11:00",
+        "contestant_names": "Mitteldeutscher VERSES TBB Trier",
+        "start_time_aest": "2026-01-25T04:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Germany Bundesliga",
+        "contestants": [
+            {
+                "full_name": "Mitteldeutscher",
+                "position": "HOME",
+                "short_name": "Mitteldeutscher"
+            },
+            {
+                "full_name": "TBB Trier",
+                "position": "AWAY",
+                "short_name": "TBB Trier"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mitteldeutscher",
+                "returnWin": 1.75,
+                "returnPlace": 0
+            },
+            {
+                "name": "TBB Trier",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Mitteldeutscher v TBB Trier",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T17:30:00.000Z"
+    },
+    {
+        "contestant_names": "Morehead State VERSES Eastern Illinois",
+        "start_time_aest": "2026-01-25T04:30:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Charleston",
+                "full_name": "Morehead State",
                 "position": "HOME",
-                "short_name": "Charleston"
+                "short_name": "Morehead State"
             },
             {
-                "full_name": "Elon",
+                "full_name": "Eastern Illinois",
                 "position": "AWAY",
-                "short_name": "Elon"
+                "short_name": "Eastern Illinois"
             }
         ],
         "propositions": [
             {
-                "name": "Charleston",
-                "returnWin": 1.55,
+                "name": "Morehead State",
+                "returnWin": 1.53,
                 "returnPlace": 0
             },
             {
-                "name": "Elon",
-                "returnWin": 2.45,
+                "name": "Eastern Illinois",
+                "returnWin": 2.5,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Charleston v Elon",
+        "match_name": "Morehead State v Eastern Illinois",
         "betOption": "Head To Head",
-        "start_time": "2026-01-24T17:00:00.000Z"
+        "start_time": "2026-01-24T17:30:00.000Z"
     },
     {
-        "contestant_names": "Hampton VERSES UNC Wilmington",
-        "start_time_aest": "2026-01-25T04:00:00+11:00",
+        "contestant_names": "Tofas VERSES Galatasaray",
+        "start_time_aest": "2026-01-25T04:30:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "competition_name": "Turkey Super League",
         "contestants": [
             {
-                "full_name": "Hampton",
+                "full_name": "Tofas",
                 "position": "HOME",
-                "short_name": "Hampton"
+                "short_name": "Tofas"
             },
             {
-                "full_name": "UNC Wilmington",
+                "full_name": "Galatasaray",
                 "position": "AWAY",
-                "short_name": "UNC Wilmington"
+                "short_name": "Galatasaray"
             }
         ],
         "propositions": [
             {
-                "name": "Hampton",
-                "returnWin": 2.45,
+                "name": "Tofas",
+                "returnWin": 1.7,
                 "returnPlace": 0
             },
             {
-                "name": "UNC Wilmington",
-                "returnWin": 1.55,
+                "name": "Galatasaray",
+                "returnWin": 2,
                 "returnPlace": 0
             }
         ],
-        "match_name": "Hampton v UNC Wilmington",
+        "match_name": "Tofas v Galatasaray",
         "betOption": "Head To Head",
-        "start_time": "2026-01-24T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Gks Tychy VERSES Polpharma Starog",
-        "start_time_aest": "2026-01-25T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Poland First Division",
-        "contestants": [
-            {
-                "full_name": "Gks Tychy",
-                "position": "HOME",
-                "short_name": "Gks Tychy"
-            },
-            {
-                "full_name": "Polpharma Starog",
-                "position": "AWAY",
-                "short_name": "Polpharma Starog"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Gks Tychy",
-                "returnWin": 2.1,
-                "returnPlace": 0
-            },
-            {
-                "name": "Polpharma Starog",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Gks Tychy v Polpharma Starog",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T17:00:00.000Z"
+        "start_time": "2026-01-24T17:30:00.000Z"
     },
     {
         "contestant_names": "Sydney Blue Sox VERSES Adelaide Giants",
