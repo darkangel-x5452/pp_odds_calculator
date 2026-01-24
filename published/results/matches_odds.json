@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Kubler/Polmans VERSES Paul/Willis",
-        "start_time_aest": "2026-01-24T21:15:00+11:00",
+        "start_time_aest": "2026-01-24T21:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Australian Open Doubles",
         "contestants": [
@@ -30,7 +30,7 @@
         ],
         "match_name": "Kubler/Polmans v Paul/Willis",
         "betOption": "Head To Head",
-        "start_time": "2026-01-24T10:15:00.000Z"
+        "start_time": "2026-01-24T10:45:00.000Z"
     },
     {
         "contestant_names": "Yulon Luxgen VERSES Keelung Black Ki",
@@ -129,6 +129,72 @@
         ],
         "match_name": "ZhangA v Day R",
         "betOption": "Result",
+        "start_time": "2026-01-24T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Jack Pinnington Jones VERSES Borna Gojo",
+        "start_time_aest": "2026-01-24T22:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Jack Pinnington Jones",
+                "position": "HOME",
+                "short_name": "Pinnington Jones"
+            },
+            {
+                "full_name": "Borna Gojo",
+                "position": "AWAY",
+                "short_name": "Gojo"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jack Pinnington Jones",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Borna Gojo",
+                "returnWin": 1.72,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Pinnington Jones v Gojo",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Julia Avdeeva VERSES Kathinka Von Deichmann",
+        "start_time_aest": "2026-01-24T22:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Julia Avdeeva",
+                "position": "HOME",
+                "short_name": "Avdeeva"
+            },
+            {
+                "full_name": "Kathinka Von Deichmann",
+                "position": "AWAY",
+                "short_name": "Von Deichmann"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Julia Avdeeva",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            },
+            {
+                "name": "Kathinka Von Deichmann",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Avdeeva v Von Deichmann",
+        "betOption": "Head To Head",
         "start_time": "2026-01-24T11:00:00.000Z"
     },
     {
