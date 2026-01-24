@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Calgary VERSES Washington",
-        "start_time_aest": "2026-01-24T13:09:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Calgary",
-                "position": "HOME",
-                "short_name": "Calgary"
-            },
-            {
-                "full_name": "Washington",
-                "position": "AWAY",
-                "short_name": "Washington"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Calgary",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            },
-            {
-                "name": "Washington",
-                "returnWin": 1.75,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Calgary v Washington",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T02:09:00.000Z"
-    },
-    {
         "contestant_names": "Gonzalez/Pel VERSES Bhambri/Goransson",
         "start_time_aest": "2026-01-24T14:00:00+11:00",
         "sport_name": "Tennis",
@@ -262,6 +229,72 @@
         "match_name": "PNG (W) v Namibia (W)",
         "betOption": "Head To Head",
         "start_time": "2026-01-24T03:15:00.000Z"
+    },
+    {
+        "contestant_names": "Kubler/Polmans VERSES Paul/Willis",
+        "start_time_aest": "2026-01-24T14:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open Doubles",
+        "contestants": [
+            {
+                "full_name": "Kubler/Polmans",
+                "position": "HOME",
+                "short_name": "Kubler/Polmans"
+            },
+            {
+                "full_name": "Paul/Willis",
+                "position": "AWAY",
+                "short_name": "Paul/Willis"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Kubler/Polmans",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            },
+            {
+                "name": "Paul/Willis",
+                "returnWin": 1.68,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Kubler/Polmans v Paul/Willis",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T03:30:00.000Z"
+    },
+    {
+        "contestant_names": "Ilia Simakin VERSES Daniel Michalski",
+        "start_time_aest": "2026-01-24T14:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Ilia Simakin",
+                "position": "HOME",
+                "short_name": "Simakin"
+            },
+            {
+                "full_name": "Daniel Michalski",
+                "position": "AWAY",
+                "short_name": "Michalski"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ilia Simakin",
+                "returnWin": 1.46,
+                "returnPlace": 0
+            },
+            {
+                "name": "Daniel Michalski",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Simakin v Michalski",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T03:30:00.000Z"
     },
     {
         "contestant_names": "Sydney Blue Sox VERSES Adelaide Giants",
