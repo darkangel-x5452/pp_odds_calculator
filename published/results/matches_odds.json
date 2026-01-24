@@ -1,137 +1,5 @@
 [
     {
-        "contestant_names": "NY Islanders VERSES Buffalo",
-        "start_time_aest": "2026-01-25T05:09:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "NY Islanders",
-                "position": "HOME",
-                "short_name": "NY Islanders"
-            },
-            {
-                "full_name": "Buffalo",
-                "position": "AWAY",
-                "short_name": "Buffalo"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "NY Islanders",
-                "returnWin": 1.95,
-                "returnPlace": 0
-            },
-            {
-                "name": "Buffalo",
-                "returnWin": 1.85,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "NY Islanders v Buffalo",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T18:09:00.000Z"
-    },
-    {
-        "contestant_names": "Margaux Rouvroy VERSES Lina Glushko",
-        "start_time_aest": "2026-01-25T05:10:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Margaux Rouvroy",
-                "position": "HOME",
-                "short_name": "Rouvroy M"
-            },
-            {
-                "full_name": "Lina Glushko",
-                "position": "AWAY",
-                "short_name": "Glushko L"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Margaux Rouvroy",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            },
-            {
-                "name": "Lina Glushko",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Rouvroy M v Glushko L",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T18:10:00.000Z"
-    },
-    {
-        "contestant_names": "Groningen Gaster VERSES Brussels Basket",
-        "start_time_aest": "2026-01-25T05:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "BNXT League",
-        "contestants": [
-            {
-                "full_name": "Groningen Gaster",
-                "position": "HOME",
-                "short_name": "Groningen Gaster"
-            },
-            {
-                "full_name": "Brussels Basket",
-                "position": "AWAY",
-                "short_name": "Brussels Basket"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Groningen Gaster",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            },
-            {
-                "name": "Brussels Basket",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Groningen Gaster v Brussels Basket",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T18:30:00.000Z"
-    },
-    {
-        "contestant_names": "ASV Dachau VERSES TSV Unterhaching",
-        "start_time_aest": "2026-01-25T05:30:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "German Bundesliga Mens",
-        "contestants": [
-            {
-                "full_name": "ASV Dachau",
-                "position": "HOME",
-                "short_name": "Asv Dachau"
-            },
-            {
-                "full_name": "TSV Unterhaching",
-                "position": "AWAY",
-                "short_name": "TSV Unterhaching"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "ASV Dachau",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            },
-            {
-                "name": "TSV Unterhaching",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Asv Dachau v TSV Unterhaching",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T18:30:00.000Z"
-    },
-    {
         "contestant_names": "Nashville VERSES Utah",
         "start_time_aest": "2026-01-25T05:35:00+11:00",
         "sport_name": "Ice Hockey",
@@ -163,6 +31,39 @@
         "match_name": "Nashville v Utah",
         "betOption": "Head To Head",
         "start_time": "2026-01-24T18:35:00.000Z"
+    },
+    {
+        "contestant_names": "Nashville VERSES Utah",
+        "start_time_aest": "2026-01-25T05:39:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Nashville",
+                "position": "HOME",
+                "short_name": "Nashville"
+            },
+            {
+                "full_name": "Utah",
+                "position": "AWAY",
+                "short_name": "Utah"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nashville",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Utah",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Nashville v Utah",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T18:39:00.000Z"
     },
     {
         "contestant_names": "EWE Oldenburg VERSES Chemnitz",
@@ -227,6 +128,204 @@
             }
         ],
         "match_name": "Ironi Kiryat Ata v Hapoel Holon",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Syracuse VERSES Miami (FL)",
+        "start_time_aest": "2026-01-25T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Syracuse",
+                "position": "HOME",
+                "short_name": "Syracuse"
+            },
+            {
+                "full_name": "Miami (FL)",
+                "position": "AWAY",
+                "short_name": "Miami (FL)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Syracuse",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Miami (FL)",
+                "returnWin": 1.67,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Syracuse v Miami (FL)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Rhode Island VERSES George Mason",
+        "start_time_aest": "2026-01-25T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Rhode Island",
+                "position": "HOME",
+                "short_name": "Rhode Island"
+            },
+            {
+                "full_name": "George Mason",
+                "position": "AWAY",
+                "short_name": "George Mason"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Rhode Island",
+                "returnWin": 2,
+                "returnPlace": 0
+            },
+            {
+                "name": "George Mason",
+                "returnWin": 1.8,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Rhode Island v George Mason",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Dartmouth VERSES Columbia",
+        "start_time_aest": "2026-01-25T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Dartmouth",
+                "position": "HOME",
+                "short_name": "Dartmouth"
+            },
+            {
+                "full_name": "Columbia",
+                "position": "AWAY",
+                "short_name": "Columbia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Dartmouth",
+                "returnWin": 2.1,
+                "returnPlace": 0
+            },
+            {
+                "name": "Columbia",
+                "returnWin": 1.74,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Dartmouth v Columbia",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Harvard VERSES Cornell",
+        "start_time_aest": "2026-01-25T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Harvard",
+                "position": "HOME",
+                "short_name": "Harvard"
+            },
+            {
+                "full_name": "Cornell",
+                "position": "AWAY",
+                "short_name": "Cornell"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Harvard",
+                "returnWin": 1.77,
+                "returnPlace": 0
+            },
+            {
+                "name": "Cornell",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Harvard v Cornell",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Samford VERSES Chattanooga",
+        "start_time_aest": "2026-01-25T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Samford",
+                "position": "HOME",
+                "short_name": "Samford"
+            },
+            {
+                "full_name": "Chattanooga",
+                "position": "AWAY",
+                "short_name": "Chattanooga"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Samford",
+                "returnWin": 1.53,
+                "returnPlace": 0
+            },
+            {
+                "name": "Chattanooga",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Samford v Chattanooga",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Texas Tech VERSES Houston",
+        "start_time_aest": "2026-01-25T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Texas Tech",
+                "position": "HOME",
+                "short_name": "Texas Tech"
+            },
+            {
+                "full_name": "Houston",
+                "position": "AWAY",
+                "short_name": "Houston"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Texas Tech",
+                "returnWin": 1.95,
+                "returnPlace": 0
+            },
+            {
+                "name": "Houston",
+                "returnWin": 1.85,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Texas Tech v Houston",
         "betOption": "Head To Head",
         "start_time": "2026-01-24T19:00:00.000Z"
     },
