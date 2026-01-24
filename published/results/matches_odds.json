@@ -1,71 +1,5 @@
 [
     {
-        "contestant_names": "Atlanta VERSES Phoenix",
-        "start_time_aest": "2026-01-24T11:40:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Atlanta",
-                "position": "HOME",
-                "short_name": "Atlanta"
-            },
-            {
-                "full_name": "Phoenix",
-                "position": "AWAY",
-                "short_name": "Phoenix"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Atlanta",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            },
-            {
-                "name": "Phoenix",
-                "returnWin": 1.67,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Atlanta v Phoenix",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T00:40:00.000Z"
-    },
-    {
-        "contestant_names": "Mihalikova/Nicholls VERSES Hunter/Joint",
-        "start_time_aest": "2026-01-24T12:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
-        "contestants": [
-            {
-                "full_name": "Mihalikova/Nicholls",
-                "position": "HOME",
-                "short_name": "Mihalikova/Nicholls"
-            },
-            {
-                "full_name": "Hunter/Joint",
-                "position": "AWAY",
-                "short_name": "Hunter/Joint"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Mihalikova/Nicholls",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            },
-            {
-                "name": "Hunter/Joint",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Mihalikova/Nicholls v Hunter/Joint",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T01:00:00.000Z"
-    },
-    {
         "contestant_names": "Dallas VERSES St Louis",
         "start_time_aest": "2026-01-24T12:08:00+11:00",
         "sport_name": "Ice Hockey",
@@ -130,6 +64,39 @@
         "match_name": "Central Hinds(W) v Otago Sparks (W)",
         "betOption": "Head To Head",
         "start_time": "2026-01-24T01:10:00.000Z"
+    },
+    {
+        "contestant_names": "Mihalikova/Nicholls VERSES Hunter/Joint",
+        "start_time_aest": "2026-01-24T12:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open Doubles",
+        "contestants": [
+            {
+                "full_name": "Mihalikova/Nicholls",
+                "position": "HOME",
+                "short_name": "Mihalikova/Nicholls"
+            },
+            {
+                "full_name": "Hunter/Joint",
+                "position": "AWAY",
+                "short_name": "Hunter/Joint"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mihalikova/Nicholls",
+                "returnWin": 2.3,
+                "returnPlace": 0
+            },
+            {
+                "name": "Hunter/Joint",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Mihalikova/Nicholls v Hunter/Joint",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T01:15:00.000Z"
     },
     {
         "contestant_names": "Sydney Blue Sox VERSES Adelaide Giants",
