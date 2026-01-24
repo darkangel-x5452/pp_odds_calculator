@@ -1,104 +1,5 @@
 [
     {
-        "contestant_names": "Movistar VERSES Fnatic",
-        "start_time_aest": "2026-01-25T07:05:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "League of Legends",
-        "contestants": [
-            {
-                "full_name": "Movistar",
-                "position": "HOME",
-                "short_name": "Movistar"
-            },
-            {
-                "full_name": "Fnatic",
-                "position": "AWAY",
-                "short_name": "Fnatic"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Movistar",
-                "returnWin": 1.52,
-                "returnPlace": 0
-            },
-            {
-                "name": "Fnatic",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Movistar v Fnatic",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T20:05:00.000Z"
-    },
-    {
-        "contestant_names": "Philadelphia VERSES New York",
-        "start_time_aest": "2026-01-25T07:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Philadelphia",
-                "position": "HOME",
-                "short_name": "Philadelphia"
-            },
-            {
-                "full_name": "New York",
-                "position": "AWAY",
-                "short_name": "New York"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Philadelphia",
-                "returnWin": 1.85,
-                "returnPlace": 0
-            },
-            {
-                "name": "New York",
-                "returnWin": 2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Philadelphia v New York",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T20:10:00.000Z"
-    },
-    {
-        "contestant_names": "Eastern Michigan VERSES Kent State",
-        "start_time_aest": "2026-01-25T07:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Eastern Michigan",
-                "position": "HOME",
-                "short_name": "Eastern Michigan"
-            },
-            {
-                "full_name": "Kent State",
-                "position": "AWAY",
-                "short_name": "Kent State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Eastern Michigan",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Kent State",
-                "returnWin": 1.53,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Eastern Michigan v Kent State",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T20:30:00.000Z"
-    },
-    {
         "contestant_names": "UTEP VERSES Missouri State",
         "start_time_aest": "2026-01-25T08:00:00+11:00",
         "sport_name": "Basketball",
@@ -194,6 +95,105 @@
             }
         ],
         "match_name": "Northern Iowa v Murray State",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T21:00:00.000Z"
+    },
+    {
+        "contestant_names": "UNLV VERSES San Diego State",
+        "start_time_aest": "2026-01-25T08:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "UNLV",
+                "position": "HOME",
+                "short_name": "UNLV"
+            },
+            {
+                "full_name": "San Diego State",
+                "position": "AWAY",
+                "short_name": "San Diego State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "UNLV",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "San Diego State",
+                "returnWin": 1.53,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "UNLV v San Diego State",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T21:00:00.000Z"
+    },
+    {
+        "contestant_names": "Utah Valley VERSES Cal Baptist",
+        "start_time_aest": "2026-01-25T08:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Utah Valley",
+                "position": "HOME",
+                "short_name": "Utah Valley"
+            },
+            {
+                "full_name": "Cal Baptist",
+                "position": "AWAY",
+                "short_name": "Cal Baptist"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Utah Valley",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Cal Baptist",
+                "returnWin": 1.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Utah Valley v Cal Baptist",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T21:00:00.000Z"
+    },
+    {
+        "contestant_names": "Cloud9 VERSES Team Liquid",
+        "start_time_aest": "2026-01-25T08:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "contestants": [
+            {
+                "full_name": "Cloud9",
+                "position": "HOME",
+                "short_name": "Cloud9"
+            },
+            {
+                "full_name": "Team Liquid",
+                "position": "AWAY",
+                "short_name": "Team Liquid"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Cloud9",
+                "returnWin": 1.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Team Liquid",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Cloud9 v Team Liquid",
         "betOption": "Head To Head",
         "start_time": "2026-01-24T21:00:00.000Z"
     },
