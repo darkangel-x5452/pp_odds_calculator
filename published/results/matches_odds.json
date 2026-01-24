@@ -1,102 +1,102 @@
 [
     {
-        "contestant_names": "Harlequins VERSES Leicester",
-        "start_time_aest": "2026-01-25T02:05:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "Gallagher Premiership",
+        "contestant_names": "KK Borac Cacak VERSES Krka Novo Mesto",
+        "start_time_aest": "2026-01-25T03:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "ABA League",
         "contestants": [
             {
-                "full_name": "Harlequins",
+                "full_name": "KK Borac Cacak",
                 "position": "HOME",
-                "short_name": "Harlequins"
+                "short_name": "KK Borac Cacak"
             },
             {
-                "full_name": "Leicester",
+                "full_name": "Krka Novo Mesto",
                 "position": "AWAY",
-                "short_name": "Leicester"
+                "short_name": "Krka Novo Mesto"
             }
         ],
         "propositions": [
             {
-                "name": "Harlequins",
-                "returnWin": 1.95,
+                "name": "KK Borac Cacak",
+                "returnWin": 1.68,
                 "returnPlace": 0
             },
             {
-                "name": "Leicester",
+                "name": "Krka Novo Mesto",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "KK Borac Cacak v Krka Novo Mesto",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "Wofford VERSES Mercer",
+        "start_time_aest": "2026-01-25T03:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Wofford",
+                "position": "HOME",
+                "short_name": "Wofford"
+            },
+            {
+                "full_name": "Mercer",
+                "position": "AWAY",
+                "short_name": "Mercer"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Wofford",
+                "returnWin": 2.15,
+                "returnPlace": 0
+            },
+            {
+                "name": "Mercer",
+                "returnWin": 1.7,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Wofford v Mercer",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "Illiabum VERSES Madeira SAD",
+        "start_time_aest": "2026-01-25T03:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Portugal ProLiga",
+        "contestants": [
+            {
+                "full_name": "Illiabum",
+                "position": "HOME",
+                "short_name": "Illiabum"
+            },
+            {
+                "full_name": "Madeira SAD",
+                "position": "AWAY",
+                "short_name": "Madeira SAD"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Illiabum",
                 "returnWin": 1.73,
                 "returnPlace": 0
+            },
+            {
+                "name": "Madeira SAD",
+                "returnWin": 1.95,
+                "returnPlace": 0
             }
         ],
-        "match_name": "Harlequins v Leicester",
+        "match_name": "Illiabum v Madeira SAD",
         "betOption": "Head To Head",
-        "start_time": "2026-01-24T15:05:00.000Z"
-    },
-    {
-        "contestant_names": "Ormanspor VERSES Goztepe",
-        "start_time_aest": "2026-01-25T02:15:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Turkey TBL",
-        "contestants": [
-            {
-                "full_name": "Ormanspor",
-                "position": "HOME",
-                "short_name": "Ormanspor"
-            },
-            {
-                "full_name": "Goztepe",
-                "position": "AWAY",
-                "short_name": "Goztepe"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ormanspor",
-                "returnWin": 1.52,
-                "returnPlace": 0
-            },
-            {
-                "name": "Goztepe",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Ormanspor v Goztepe",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T15:15:00.000Z"
-    },
-    {
-        "contestant_names": "Thiago Wild VERSES Alex Barrena",
-        "start_time_aest": "2026-01-25T02:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Thiago Wild",
-                "position": "HOME",
-                "short_name": "Wild"
-            },
-            {
-                "full_name": "Alex Barrena",
-                "position": "AWAY",
-                "short_name": "Barrena A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Thiago Wild",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            },
-            {
-                "name": "Alex Barrena",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Wild v Barrena A",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T15:30:00.000Z"
+        "start_time": "2026-01-24T16:00:00.000Z"
     },
     {
         "contestant_names": "Sydney Blue Sox VERSES Adelaide Giants",
