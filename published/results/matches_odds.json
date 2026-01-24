@@ -1,73 +1,7 @@
 [
     {
-        "contestant_names": "Dallas VERSES St Louis",
-        "start_time_aest": "2026-01-24T12:08:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Dallas",
-                "position": "HOME",
-                "short_name": "Dallas"
-            },
-            {
-                "full_name": "St Louis",
-                "position": "AWAY",
-                "short_name": "St Louis"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Dallas",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            },
-            {
-                "name": "St Louis",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Dallas v St Louis",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T01:08:00.000Z"
-    },
-    {
-        "contestant_names": "Central Hinds (W) VERSES Otago Sparks (W)",
-        "start_time_aest": "2026-01-24T12:10:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "NZ Womens Super Smash",
-        "contestants": [
-            {
-                "full_name": "Central Hinds (W)",
-                "position": "HOME",
-                "short_name": "Central Hinds(W)"
-            },
-            {
-                "full_name": "Otago Sparks (W)",
-                "position": "AWAY",
-                "short_name": "Otago Sparks (W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Central Hinds (W)",
-                "returnWin": 1.8,
-                "returnPlace": 0
-            },
-            {
-                "name": "Otago Sparks (W)",
-                "returnWin": 2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Central Hinds(W) v Otago Sparks (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T01:10:00.000Z"
-    },
-    {
         "contestant_names": "Mihalikova/Nicholls VERSES Hunter/Joint",
-        "start_time_aest": "2026-01-24T12:15:00+11:00",
+        "start_time_aest": "2026-01-24T12:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Australian Open Doubles",
         "contestants": [
@@ -96,7 +30,73 @@
         ],
         "match_name": "Mihalikova/Nicholls v Hunter/Joint",
         "betOption": "Head To Head",
-        "start_time": "2026-01-24T01:15:00.000Z"
+        "start_time": "2026-01-24T01:45:00.000Z"
+    },
+    {
+        "contestant_names": "Calgary VERSES Washington",
+        "start_time_aest": "2026-01-24T13:09:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Calgary",
+                "position": "HOME",
+                "short_name": "Calgary"
+            },
+            {
+                "full_name": "Washington",
+                "position": "AWAY",
+                "short_name": "Washington"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Calgary",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            },
+            {
+                "name": "Washington",
+                "returnWin": 1.75,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Calgary v Washington",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T02:09:00.000Z"
+    },
+    {
+        "contestant_names": "Gonzalez/Pel VERSES Bhambri/Goransson",
+        "start_time_aest": "2026-01-24T14:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open Doubles",
+        "contestants": [
+            {
+                "full_name": "Gonzalez/Pel",
+                "position": "HOME",
+                "short_name": "Gonzalez/Pel"
+            },
+            {
+                "full_name": "Bhambri/Goransson",
+                "position": "AWAY",
+                "short_name": "Bhambri/Goransson"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Gonzalez/Pel",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "Bhambri/Goransson",
+                "returnWin": 1.46,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Gonzalez/Pel v Bhambri/Goransson",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T03:00:00.000Z"
     },
     {
         "contestant_names": "Sydney Blue Sox VERSES Adelaide Giants",
