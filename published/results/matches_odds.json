@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Gonzalez/Pel VERSES Bhambri/Goransson",
-        "start_time_aest": "2026-01-24T14:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
-        "contestants": [
-            {
-                "full_name": "Gonzalez/Pel",
-                "position": "HOME",
-                "short_name": "Gonzalez/Pel"
-            },
-            {
-                "full_name": "Bhambri/Goransson",
-                "position": "AWAY",
-                "short_name": "Bhambri/Goransson"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Gonzalez/Pel",
-                "returnWin": 2.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "Bhambri/Goransson",
-                "returnWin": 1.46,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Gonzalez/Pel v Bhambri/Goransson",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T03:00:00.000Z"
-    },
-    {
         "contestant_names": "Osaka VERSES Toyota Alvark",
         "start_time_aest": "2026-01-24T14:05:00+11:00",
         "sport_name": "Basketball",
@@ -295,6 +262,39 @@
         "match_name": "Simakin v Michalski",
         "betOption": "Head To Head",
         "start_time": "2026-01-24T03:30:00.000Z"
+    },
+    {
+        "contestant_names": "Honda Heat VERSES Urayasu D-rocks",
+        "start_time_aest": "2026-01-24T15:00:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "Japan League One",
+        "contestants": [
+            {
+                "full_name": "Honda Heat",
+                "position": "HOME",
+                "short_name": "Honda Heat"
+            },
+            {
+                "full_name": "Urayasu D-rocks",
+                "position": "AWAY",
+                "short_name": "Urayasu D-rocks"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Honda Heat",
+                "returnWin": 2.45,
+                "returnPlace": 0
+            },
+            {
+                "name": "Urayasu D-rocks",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Honda Heat v Urayasu D-rocks",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T04:00:00.000Z"
     },
     {
         "contestant_names": "Sydney Blue Sox VERSES Adelaide Giants",
