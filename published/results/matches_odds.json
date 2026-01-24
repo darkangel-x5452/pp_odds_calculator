@@ -1,168 +1,69 @@
 [
     {
-        "contestant_names": "Doumbia/Reboul VERSES Arribage/Olivetti",
-        "start_time_aest": "2026-01-24T10:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
+        "contestant_names": "Detroit VERSES Houston",
+        "start_time_aest": "2026-01-24T11:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
         "contestants": [
             {
-                "full_name": "Doumbia/Reboul",
+                "full_name": "Detroit",
                 "position": "HOME",
-                "short_name": "Doumbia/Reboul"
+                "short_name": "Detroit"
             },
             {
-                "full_name": "Arribage/Olivetti",
+                "full_name": "Houston",
                 "position": "AWAY",
-                "short_name": "Arribage/Olivetti"
+                "short_name": "Houston"
             }
         ],
         "propositions": [
             {
-                "name": "Doumbia/Reboul",
-                "returnWin": 1.72,
+                "name": "Detroit",
+                "returnWin": 1.58,
                 "returnPlace": 0
             },
             {
-                "name": "Arribage/Olivetti",
+                "name": "Houston",
+                "returnWin": 2.45,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Detroit v Houston",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-24T00:10:00.000Z"
+    },
+    {
+        "contestant_names": "Toronto VERSES Las Vegas",
+        "start_time_aest": "2026-01-24T11:11:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Toronto",
+                "position": "HOME",
+                "short_name": "Toronto"
+            },
+            {
+                "full_name": "Las Vegas",
+                "position": "AWAY",
+                "short_name": "Las Vegas"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Toronto",
                 "returnWin": 2,
                 "returnPlace": 0
-            }
-        ],
-        "match_name": "Doumbia/Reboul v Arribage/Olivetti",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-23T23:45:00.000Z"
-    },
-    {
-        "contestant_names": "Deportivo Viedma VERSES Quilmes",
-        "start_time_aest": "2026-01-24T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga A",
-        "contestants": [
-            {
-                "full_name": "Deportivo Viedma",
-                "position": "HOME",
-                "short_name": "Deportivo Viedma"
             },
             {
-                "full_name": "Quilmes",
-                "position": "AWAY",
-                "short_name": "Quilmes"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Deportivo Viedma",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            },
-            {
-                "name": "Quilmes",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Deportivo Viedma v Quilmes",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "St Francis (PA) VERSES Chicago State",
-        "start_time_aest": "2026-01-24T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "St Francis (PA)",
-                "position": "HOME",
-                "short_name": "St Francis (PA)"
-            },
-            {
-                "full_name": "Chicago State",
-                "position": "AWAY",
-                "short_name": "Chicago State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "St Francis (PA)",
-                "returnWin": 1.65,
-                "returnPlace": 0
-            },
-            {
-                "name": "Chicago State",
-                "returnWin": 2.25,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "St Francis (PA) v Chicago State",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Jacksonville St VERSES Middle Tennessee",
-        "start_time_aest": "2026-01-24T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Jacksonville St",
-                "position": "HOME",
-                "short_name": "Jacksonville St"
-            },
-            {
-                "full_name": "Middle Tennessee",
-                "position": "AWAY",
-                "short_name": "Middle Tennessee"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jacksonville St",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            },
-            {
-                "name": "Middle Tennessee",
-                "returnWin": 1.77,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Jacksonville St v Middle Tennessee",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-24T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Longwood VERSES CharlestonSthern",
-        "start_time_aest": "2026-01-24T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Longwood",
-                "position": "HOME",
-                "short_name": "Longwood"
-            },
-            {
-                "full_name": "CharlestonSthern",
-                "position": "AWAY",
-                "short_name": "CharlestonSthern"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Longwood",
+                "name": "Las Vegas",
                 "returnWin": 1.8,
                 "returnPlace": 0
-            },
-            {
-                "name": "CharlestonSthern",
-                "returnWin": 2,
-                "returnPlace": 0
             }
         ],
-        "match_name": "Longwood v CharlestonSthern",
+        "match_name": "Toronto v Las Vegas",
         "betOption": "Head To Head",
-        "start_time": "2026-01-24T00:00:00.000Z"
+        "start_time": "2026-01-24T00:11:00.000Z"
     },
     {
         "contestant_names": "Sydney Blue Sox VERSES Adelaide Giants",
