@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Le Mans, (1.95) VERSES ASVEL Lyon, (1.73)",
-        "start_time_aest": "2026-01-26T05:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "France LNB Pro A",
-        "contestants": [
-            {
-                "full_name": "Le Mans",
-                "position": "HOME",
-                "short_name": "Le Mans"
-            },
-            {
-                "full_name": "ASVEL Lyon",
-                "position": "AWAY",
-                "short_name": "ASVEL Lyon"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Le Mans",
-                "returnWin": 1.95
-            },
-            {
-                "name": "ASVEL Lyon",
-                "returnWin": 1.73
-            }
-        ],
-        "match_name": "Le Mans v ASVEL Lyon",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-25T18:10:00.000Z"
-    },
-    {
-        "contestant_names": "Esgueira, (1.52) VERSES Sporting Lisboa, (2.3)",
-        "start_time_aest": "2026-01-26T05:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Portugal LFB Women",
-        "contestants": [
-            {
-                "full_name": "Esgueira",
-                "position": "HOME",
-                "short_name": "Esgueira"
-            },
-            {
-                "full_name": "Sporting Lisboa",
-                "position": "AWAY",
-                "short_name": "Sporting Lisboa"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Esgueira",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Sporting Lisboa",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Esgueira v Sporting Lisboa",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-25T18:30:00.000Z"
-    },
-    {
         "contestant_names": "Toronto, (2.35) VERSES Colorado, (1.58)",
         "start_time_aest": "2026-01-26T05:35:00+11:00",
         "sport_name": "Ice Hockey",
@@ -91,5 +29,36 @@
         "match_name": "Toronto v Colorado",
         "betOption": "Head To Head",
         "start_time": "2026-01-25T18:35:00.000Z"
+    },
+    {
+        "contestant_names": "Toronto, (2.4) VERSES Colorado, (1.55)",
+        "start_time_aest": "2026-01-26T05:39:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Toronto",
+                "position": "HOME",
+                "short_name": "Toronto"
+            },
+            {
+                "full_name": "Colorado",
+                "position": "AWAY",
+                "short_name": "Colorado"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Toronto",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Colorado",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Toronto v Colorado",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T18:39:00.000Z"
     }
 ]
