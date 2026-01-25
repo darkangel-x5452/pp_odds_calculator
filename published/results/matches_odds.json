@@ -1,95 +1,64 @@
 [
     {
-        "contestant_names": "Seattle, (2.05) VERSES New Jersey, (1.75)",
-        "start_time_aest": "2026-01-26T07:09:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
+        "contestant_names": "Florida State, (1.6) VERSES Georgia Tech, (2.25)",
+        "start_time_aest": "2026-01-26T08:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
         "contestants": [
             {
-                "full_name": "Seattle",
+                "full_name": "Florida State",
                 "position": "HOME",
-                "short_name": "Seattle"
+                "short_name": "Florida State"
             },
             {
-                "full_name": "New Jersey",
+                "full_name": "Georgia Tech",
                 "position": "AWAY",
-                "short_name": "New Jersey"
+                "short_name": "Georgia Tech"
             }
         ],
         "propositions": [
             {
-                "name": "Seattle",
-                "returnWin": 2.05
-            },
-            {
-                "name": "New Jersey",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Seattle v New Jersey",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-25T20:09:00.000Z"
-    },
-    {
-        "contestant_names": "Karmine Corp, (2.05) VERSES G2, (1.68)",
-        "start_time_aest": "2026-01-26T07:10:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "League of Legends",
-        "contestants": [
-            {
-                "full_name": "Karmine Corp",
-                "position": "HOME",
-                "short_name": "Karmine Corp"
-            },
-            {
-                "full_name": "G2",
-                "position": "AWAY",
-                "short_name": "G2"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Karmine Corp",
-                "returnWin": 2.05
-            },
-            {
-                "name": "G2",
-                "returnWin": 1.68
-            }
-        ],
-        "match_name": "Karmine Corp v G2",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-25T20:10:00.000Z"
-    },
-    {
-        "contestant_names": "Los, (2.2) VERSES Furia Esports, (1.6)",
-        "start_time_aest": "2026-01-26T07:15:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "League of Legends",
-        "contestants": [
-            {
-                "full_name": "Los",
-                "position": "HOME",
-                "short_name": "Los"
-            },
-            {
-                "full_name": "Furia Esports",
-                "position": "AWAY",
-                "short_name": "Furia Esports"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Los",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Furia Esports",
+                "name": "Florida State",
                 "returnWin": 1.6
+            },
+            {
+                "name": "Georgia Tech",
+                "returnWin": 2.25
             }
         ],
-        "match_name": "Los v Furia Esports",
+        "match_name": "Florida State v Georgia Tech",
         "betOption": "Head To Head",
-        "start_time": "2026-01-25T20:15:00.000Z"
+        "start_time": "2026-01-25T21:00:00.000Z"
+    },
+    {
+        "contestant_names": "Flyquest, (2.1) VERSES ShopifyRebellion, (1.65)",
+        "start_time_aest": "2026-01-26T08:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "contestants": [
+            {
+                "full_name": "Flyquest",
+                "position": "HOME",
+                "short_name": "Flyquest"
+            },
+            {
+                "full_name": "ShopifyRebellion",
+                "position": "AWAY",
+                "short_name": "ShopifyRebellion"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Flyquest",
+                "returnWin": 2.1
+            },
+            {
+                "name": "ShopifyRebellion",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Flyquest v ShopifyRebellion",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T21:00:00.000Z"
     }
 ]
