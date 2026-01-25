@@ -1,97 +1,64 @@
 [
     {
-        "contestant_names": "KTP VERSES Korihait",
-        "start_time_aest": "2026-01-26T02:00:00+11:00",
+        "contestant_names": "Ariana Arseneault VERSES Ruby Cooling",
+        "start_time_aest": "2026-01-26T02:06:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Ariana Arseneault",
+                "position": "HOME",
+                "short_name": "Arseneault A"
+            },
+            {
+                "full_name": "Ruby Cooling",
+                "position": "AWAY",
+                "short_name": "Cooling"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ariana Arseneault",
+                "returnWin": 1.46
+            },
+            {
+                "name": "Ruby Cooling",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Arseneault A v Cooling",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T15:06:00.000Z"
+    },
+    {
+        "contestant_names": "Samsun Zorlu VERSES Kirklareli Fen B",
+        "start_time_aest": "2026-01-26T02:30:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Finland Korisliiga",
+        "competition_name": "Turkey Federation Cup Women",
         "contestants": [
             {
-                "full_name": "KTP",
+                "full_name": "Samsun Zorlu",
                 "position": "HOME",
-                "short_name": "KTP"
+                "short_name": "Samsun Zorlu"
             },
             {
-                "full_name": "Korihait",
+                "full_name": "Kirklareli Fen B",
                 "position": "AWAY",
-                "short_name": "Korihait"
+                "short_name": "Kirklareli Fen B"
             }
         ],
         "propositions": [
             {
-                "name": "KTP",
-                "returnWin": 1.55,
-                "returnPlace": 0
+                "name": "Samsun Zorlu",
+                "returnWin": 1.62
             },
             {
-                "name": "Korihait",
-                "returnWin": 2.25,
-                "returnPlace": 0
+                "name": "Kirklareli Fen B",
+                "returnWin": 2.1
             }
         ],
-        "match_name": "KTP v Korihait",
+        "match_name": "Samsun Zorlu v Kirklareli Fen B",
         "betOption": "Head To Head",
-        "start_time": "2026-01-25T15:00:00.000Z"
-    },
-    {
-        "contestant_names": "Falcons Esports VERSES PARIVISION",
-        "start_time_aest": "2026-01-26T02:00:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "Counter Strike 2",
-        "contestants": [
-            {
-                "full_name": "Falcons Esports",
-                "position": "HOME",
-                "short_name": "Falcons Esports"
-            },
-            {
-                "full_name": "PARIVISION",
-                "position": "AWAY",
-                "short_name": "PARIVISION"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Falcons Esports",
-                "returnWin": 1.5,
-                "returnPlace": 0
-            },
-            {
-                "name": "PARIVISION",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Falcons Esports v PARIVISION",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-25T15:00:00.000Z"
-    },
-    {
-        "contestant_names": "Sydney Blue Sox VERSES Adelaide Giants",
-        "start_time_aest": "2026-02-02T20:00:00+11:00",
-        "sport_name": "Baseball",
-        "competition_name": "Australian Baseball League Futures",
-        "contestants": [
-            {
-                "full_name": "Sydney Blue Sox"
-            },
-            {
-                "full_name": "Adelaide Giants"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sydney Blue Sox",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            },
-            {
-                "name": "Adelaide Giants",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "2025/25 ABL",
-        "betOption": "Winner",
-        "start_time": "2026-02-02T09:00:00.000Z"
+        "start_time": "2026-01-25T15:30:00.000Z"
     }
 ]
