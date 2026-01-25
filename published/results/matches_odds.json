@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Coquimbo, (2.05) VERSES Univers Catolica, (1.72)",
-        "start_time_aest": "2026-01-26T09:00:00+11:00",
-        "sport_name": "Soccer",
-        "competition_name": "Chile Super Cup",
-        "contestants": [
-            {
-                "full_name": "Coquimbo",
-                "position": "HOME",
-                "short_name": "Coquimbo"
-            },
-            {
-                "full_name": "Univers Catolica",
-                "position": "AWAY",
-                "short_name": "Univers Catolica"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Coquimbo",
-                "returnWin": 2.05
-            },
-            {
-                "name": "Univers Catolica",
-                "returnWin": 1.72
-            }
-        ],
-        "match_name": "Coquimbo v Univers Catolica",
-        "betOption": "Winner of Tie",
-        "start_time": "2026-01-25T22:00:00.000Z"
-    },
-    {
         "contestant_names": "Ottawa, (2.15) VERSES Las Vegas, (1.68)",
         "start_time_aest": "2026-01-26T09:05:00+11:00",
         "sport_name": "Ice Hockey",
@@ -60,6 +29,37 @@
         "match_name": "Ottawa v Las Vegas",
         "betOption": "Head To Head",
         "start_time": "2026-01-25T22:05:00.000Z"
+    },
+    {
+        "contestant_names": "Ottawa, (2.2) VERSES Las Vegas, (1.65)",
+        "start_time_aest": "2026-01-26T09:09:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Ottawa",
+                "position": "HOME",
+                "short_name": "Ottawa"
+            },
+            {
+                "full_name": "Las Vegas",
+                "position": "AWAY",
+                "short_name": "Las Vegas"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ottawa",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Las Vegas",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Ottawa v Las Vegas",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T22:09:00.000Z"
     },
     {
         "contestant_names": "California, (2.25) VERSES Stanford, (1.6)",
@@ -184,5 +184,67 @@
         "match_name": "Seattle v LA Rams",
         "betOption": "Head To Head",
         "start_time": "2026-01-25T23:40:00.000Z"
+    },
+    {
+        "contestant_names": "Auckland Hearts (W), (1.85) VERSES Central Hinds (W), (1.95)",
+        "start_time_aest": "2026-01-26T10:40:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "NZ Womens Super Smash",
+        "contestants": [
+            {
+                "full_name": "Auckland Hearts (W)",
+                "position": "HOME",
+                "short_name": "Auckland (W)"
+            },
+            {
+                "full_name": "Central Hinds (W)",
+                "position": "AWAY",
+                "short_name": "Central Hinds(W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Auckland Hearts (W)",
+                "returnWin": 1.85
+            },
+            {
+                "name": "Central Hinds (W)",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Auckland (W) v Central Hinds(W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T23:40:00.000Z"
+    },
+    {
+        "contestant_names": "Bochas Sport Clu, (1.66) VERSES Sportivo Suardi, (2.05)",
+        "start_time_aest": "2026-01-26T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Bochas Sport Clu",
+                "position": "HOME",
+                "short_name": "Bochas Sport Clu"
+            },
+            {
+                "full_name": "Sportivo Suardi",
+                "position": "AWAY",
+                "short_name": "Sportivo Suardi"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bochas Sport Clu",
+                "returnWin": 1.66
+            },
+            {
+                "name": "Sportivo Suardi",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Bochas Sport Clu v Sportivo Suardi",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T00:00:00.000Z"
     }
 ]
