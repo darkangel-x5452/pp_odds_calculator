@@ -1,38 +1,7 @@
 [
     {
-        "contestant_names": "Graz UBSC, (1.52) VERSES Kapfenburg, (2.35)",
-        "start_time_aest": "2026-01-26T03:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Austria Bundesliga",
-        "contestants": [
-            {
-                "full_name": "Graz UBSC",
-                "position": "HOME",
-                "short_name": "Graz UBSC"
-            },
-            {
-                "full_name": "Kapfenburg",
-                "position": "AWAY",
-                "short_name": "Kapfenburg"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Graz UBSC",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Kapfenburg",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Graz UBSC v Kapfenburg",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-25T16:30:00.000Z"
-    },
-    {
         "contestant_names": "SK Gaming, (2.35) VERSES Natus Vincere, (1.52)",
-        "start_time_aest": "2026-01-26T03:30:00+11:00",
+        "start_time_aest": "2026-01-26T03:45:00+11:00",
         "sport_name": "Esports",
         "competition_name": "League of Legends",
         "contestants": [
@@ -59,38 +28,7 @@
         ],
         "match_name": "SK Gaming v Natus Vincere",
         "betOption": "Head To Head",
-        "start_time": "2026-01-25T16:30:00.000Z"
-    },
-    {
-        "contestant_names": "AONS Milon, (1.65) VERSES PAOK, (2.1)",
-        "start_time_aest": "2026-01-26T03:30:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Greece A1",
-        "contestants": [
-            {
-                "full_name": "AONS Milon",
-                "position": "HOME",
-                "short_name": "Aons Milon"
-            },
-            {
-                "full_name": "PAOK",
-                "position": "AWAY",
-                "short_name": "PAOK"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "AONS Milon",
-                "returnWin": 1.65
-            },
-            {
-                "name": "PAOK",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Aons Milon v PAOK",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-25T16:30:00.000Z"
+        "start_time": "2026-01-25T16:45:00.000Z"
     },
     {
         "contestant_names": "Science Jena, (2.1) VERSES SC Rasta Vechta, (1.65)",
@@ -120,6 +58,99 @@
             }
         ],
         "match_name": "Science Jena v SC Rasta Vechta",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Purdue, (2.05) VERSES Indiana, (1.72)",
+        "start_time_aest": "2026-01-26T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Purdue",
+                "position": "HOME",
+                "short_name": "Purdue"
+            },
+            {
+                "full_name": "Indiana",
+                "position": "AWAY",
+                "short_name": "Indiana"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Purdue",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Indiana",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "Purdue v Indiana",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Palencia, (1.72) VERSES Estudiantes, (2)",
+        "start_time_aest": "2026-01-26T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Spain Cup",
+        "contestants": [
+            {
+                "full_name": "Palencia",
+                "position": "HOME",
+                "short_name": "Palencia"
+            },
+            {
+                "full_name": "Estudiantes",
+                "position": "AWAY",
+                "short_name": "Estudiantes"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Palencia",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Estudiantes",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Palencia v Estudiantes",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Fluxo W7m, (1.5) VERSES Leviatan Esports, (2.4)",
+        "start_time_aest": "2026-01-26T04:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "contestants": [
+            {
+                "full_name": "Fluxo W7m",
+                "position": "HOME",
+                "short_name": "Fluxo W7m"
+            },
+            {
+                "full_name": "Leviatan Esports",
+                "position": "AWAY",
+                "short_name": "Leviatan Esports"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Fluxo W7m",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Leviatan Esports",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Fluxo W7m v Leviatan Esports",
         "betOption": "Head To Head",
         "start_time": "2026-01-25T17:00:00.000Z"
     }
