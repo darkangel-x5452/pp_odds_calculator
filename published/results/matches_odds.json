@@ -153,5 +153,36 @@
         "match_name": "ProvncialRosario v Club Pico Foot",
         "betOption": "Head To Head",
         "start_time": "2026-01-25T23:30:00.000Z"
+    },
+    {
+        "contestant_names": "Seattle, (1.74) VERSES LA Rams, (2.1)",
+        "start_time_aest": "2026-01-26T10:40:00+11:00",
+        "sport_name": "American Football",
+        "competition_name": "NFL",
+        "contestants": [
+            {
+                "full_name": "Seattle",
+                "position": "HOME",
+                "short_name": "Seattle"
+            },
+            {
+                "full_name": "LA Rams",
+                "position": "AWAY",
+                "short_name": "LA Rams"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Seattle",
+                "returnWin": 1.74
+            },
+            {
+                "name": "LA Rams",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Seattle v LA Rams",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T23:40:00.000Z"
     }
 ]
