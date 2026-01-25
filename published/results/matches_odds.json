@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Vancouver, (2.25) VERSES Pittsburgh, (1.62)",
-        "start_time_aest": "2026-01-26T10:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Vancouver",
-                "position": "HOME",
-                "short_name": "Vancouver"
-            },
-            {
-                "full_name": "Pittsburgh",
-                "position": "AWAY",
-                "short_name": "Pittsburgh"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Vancouver",
-                "returnWin": 2.25
-            },
-            {
-                "name": "Pittsburgh",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Vancouver v Pittsburgh",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-25T23:05:00.000Z"
-    },
-    {
-        "contestant_names": "ProvncialRosario, (1.5) VERSES Club Pico Foot, (2.35)",
-        "start_time_aest": "2026-01-26T10:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga A",
-        "contestants": [
-            {
-                "full_name": "ProvncialRosario",
-                "position": "HOME",
-                "short_name": "ProvncialRosario"
-            },
-            {
-                "full_name": "Club Pico Foot",
-                "position": "AWAY",
-                "short_name": "Club Pico Foot"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "ProvncialRosario",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Club Pico Foot",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "ProvncialRosario v Club Pico Foot",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-25T23:30:00.000Z"
-    },
-    {
         "contestant_names": "Seattle, (1.74) VERSES LA Rams, (2.1)",
         "start_time_aest": "2026-01-26T10:40:00+11:00",
         "sport_name": "American Football",
@@ -215,5 +153,67 @@
         "match_name": "Chicago v Florida",
         "betOption": "Head To Head",
         "start_time": "2026-01-26T00:05:00.000Z"
+    },
+    {
+        "contestant_names": "Jessica Pegula, (1.53) VERSES Madison Keys, (2.45)",
+        "start_time_aest": "2026-01-26T11:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Jessica Pegula",
+                "position": "HOME",
+                "short_name": "Pegula"
+            },
+            {
+                "full_name": "Madison Keys",
+                "position": "AWAY",
+                "short_name": "Keys"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jessica Pegula",
+                "returnWin": 1.53
+            },
+            {
+                "name": "Madison Keys",
+                "returnWin": 2.45
+            }
+        ],
+        "match_name": "Pegula v Keys",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T00:30:00.000Z"
+    },
+    {
+        "contestant_names": "McCabe/Tu, (2.3) VERSES Kubler/Polmans, (1.55)",
+        "start_time_aest": "2026-01-26T11:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open Doubles",
+        "contestants": [
+            {
+                "full_name": "McCabe/Tu",
+                "position": "HOME",
+                "short_name": "McCabe/Tu"
+            },
+            {
+                "full_name": "Kubler/Polmans",
+                "position": "AWAY",
+                "short_name": "Kubler/Polmans"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "McCabe/Tu",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Kubler/Polmans",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "McCabe/Tu v Kubler/Polmans",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T00:30:00.000Z"
     }
 ]
