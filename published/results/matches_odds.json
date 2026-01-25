@@ -1,137 +1,5 @@
 [
     {
-        "contestant_names": "Perth VERSES Melbourne",
-        "start_time_aest": "2026-01-25T16:37:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBL",
-        "contestants": [
-            {
-                "full_name": "Perth",
-                "position": "HOME",
-                "short_name": "Perth"
-            },
-            {
-                "full_name": "Melbourne",
-                "position": "AWAY",
-                "short_name": "Melbourne"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Perth",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            },
-            {
-                "name": "Melbourne",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Perth v Melbourne",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-25T05:37:00.000Z"
-    },
-    {
-        "contestant_names": "Perth VERSES Melbourne",
-        "start_time_aest": "2026-01-25T16:40:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBL",
-        "contestants": [
-            {
-                "full_name": "Perth",
-                "position": "HOME",
-                "short_name": "Perth"
-            },
-            {
-                "full_name": "Melbourne",
-                "position": "AWAY",
-                "short_name": "Melbourne"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Perth",
-                "returnWin": 1.58,
-                "returnPlace": 0
-            },
-            {
-                "name": "Melbourne",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Perth v Melbourne",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-25T05:40:00.000Z"
-    },
-    {
-        "contestant_names": "Gibson/Ebden VERSES Krunic/Pavic",
-        "start_time_aest": "2026-01-25T16:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
-        "contestants": [
-            {
-                "full_name": "Gibson/Ebden",
-                "position": "HOME",
-                "short_name": "Gibson/Ebden"
-            },
-            {
-                "full_name": "Krunic/Pavic",
-                "position": "AWAY",
-                "short_name": "Krunic/Pavic"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Gibson/Ebden",
-                "returnWin": 2.4,
-                "returnPlace": 0
-            },
-            {
-                "name": "Krunic/Pavic",
-                "returnWin": 1.5,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Gibson/Ebden v Krunic/Pavic",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-25T05:45:00.000Z"
-    },
-    {
-        "contestant_names": "Nicholls/Patten VERSES Danilina/Tracy",
-        "start_time_aest": "2026-01-25T16:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
-        "contestants": [
-            {
-                "full_name": "Nicholls/Patten",
-                "position": "HOME",
-                "short_name": "Nicholls/Patten"
-            },
-            {
-                "full_name": "Danilina/Tracy",
-                "position": "AWAY",
-                "short_name": "Danilina/Tracy"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Nicholls/Patten",
-                "returnWin": 1.52,
-                "returnPlace": 0
-            },
-            {
-                "name": "Danilina/Tracy",
-                "returnWin": 2.35,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Nicholls/Patten v Danilina/Tracy",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-25T05:45:00.000Z"
-    },
-    {
         "contestant_names": "Altiri Chiba VERSES Saga Ballooners",
         "start_time_aest": "2026-01-25T17:05:00+11:00",
         "sport_name": "Basketball",
@@ -163,6 +31,105 @@
         "match_name": "Altiri Chiba v Saga Ballooners",
         "betOption": "Head To Head",
         "start_time": "2026-01-25T06:05:00.000Z"
+    },
+    {
+        "contestant_names": "Ibaraki Robots VERSES Koshigaya Alphas",
+        "start_time_aest": "2026-01-25T17:05:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Japan B League",
+        "contestants": [
+            {
+                "full_name": "Ibaraki Robots",
+                "position": "HOME",
+                "short_name": "Ibaraki Robots"
+            },
+            {
+                "full_name": "Koshigaya Alphas",
+                "position": "AWAY",
+                "short_name": "Koshigaya Alphas"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ibaraki Robots",
+                "returnWin": 1.45,
+                "returnPlace": 0
+            },
+            {
+                "name": "Koshigaya Alphas",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Ibaraki Robots v Koshigaya Alphas",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T06:05:00.000Z"
+    },
+    {
+        "contestant_names": "Gibson/Ebden VERSES Krunic/Pavic",
+        "start_time_aest": "2026-01-25T17:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open Doubles",
+        "contestants": [
+            {
+                "full_name": "Gibson/Ebden",
+                "position": "HOME",
+                "short_name": "Gibson/Ebden"
+            },
+            {
+                "full_name": "Krunic/Pavic",
+                "position": "AWAY",
+                "short_name": "Krunic/Pavic"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Gibson/Ebden",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            },
+            {
+                "name": "Krunic/Pavic",
+                "returnWin": 1.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Gibson/Ebden v Krunic/Pavic",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T06:15:00.000Z"
+    },
+    {
+        "contestant_names": "Nicholls/Patten VERSES Danilina/Tracy",
+        "start_time_aest": "2026-01-25T17:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open Doubles",
+        "contestants": [
+            {
+                "full_name": "Nicholls/Patten",
+                "position": "HOME",
+                "short_name": "Nicholls/Patten"
+            },
+            {
+                "full_name": "Danilina/Tracy",
+                "position": "AWAY",
+                "short_name": "Danilina/Tracy"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nicholls/Patten",
+                "returnWin": 1.52,
+                "returnPlace": 0
+            },
+            {
+                "name": "Danilina/Tracy",
+                "returnWin": 2.35,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Nicholls/Patten v Danilina/Tracy",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T06:15:00.000Z"
     },
     {
         "contestant_names": "Dabrowski/Johnson VERSES Joint/Romios",
@@ -326,6 +293,39 @@
             }
         ],
         "match_name": "Sydney v Adelaide",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "KEB Hana Bank VERSES KB Stars",
+        "start_time_aest": "2026-01-25T18:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "South Korea KBL Women",
+        "contestants": [
+            {
+                "full_name": "KEB Hana Bank",
+                "position": "HOME",
+                "short_name": "KEB Hana Bank"
+            },
+            {
+                "full_name": "KB Stars",
+                "position": "AWAY",
+                "short_name": "KB Stars"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "KEB Hana Bank",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            },
+            {
+                "name": "KB Stars",
+                "returnWin": 1.45,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "KEB Hana Bank v KB Stars",
         "betOption": "Head To Head",
         "start_time": "2026-01-25T07:00:00.000Z"
     },
