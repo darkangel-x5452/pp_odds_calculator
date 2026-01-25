@@ -1,71 +1,5 @@
 [
     {
-        "contestant_names": "Minnesota VERSES Florida",
-        "start_time_aest": "2026-01-25T13:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Minnesota",
-                "position": "HOME",
-                "short_name": "Minnesota"
-            },
-            {
-                "full_name": "Florida",
-                "position": "AWAY",
-                "short_name": "Florida"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Minnesota",
-                "returnWin": 1.75,
-                "returnPlace": 0
-            },
-            {
-                "name": "Florida",
-                "returnWin": 2.05,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Minnesota v Florida",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-25T02:05:00.000Z"
-    },
-    {
-        "contestant_names": "Routliffe/Goransson VERSES Mladenovic/Guinard",
-        "start_time_aest": "2026-01-25T13:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
-        "contestants": [
-            {
-                "full_name": "Routliffe/Goransson",
-                "position": "HOME",
-                "short_name": "Routliffe/Goransson"
-            },
-            {
-                "full_name": "Mladenovic/Guinard",
-                "position": "AWAY",
-                "short_name": "Mladenovic/Guinard"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Routliffe/Goransson",
-                "returnWin": 1.75,
-                "returnPlace": 0
-            },
-            {
-                "name": "Mladenovic/Guinard",
-                "returnWin": 1.95,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Routliffe/Goransson v Mladenovic/Guinard",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-25T02:15:00.000Z"
-    },
-    {
         "contestant_names": "Arizona State VERSES Cincinnati",
         "start_time_aest": "2026-01-25T14:00:00+11:00",
         "sport_name": "Basketball",
@@ -130,6 +64,72 @@
         "match_name": "UC San Diego v UC Irvine",
         "betOption": "Head To Head",
         "start_time": "2026-01-25T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Edmonton VERSES Washington",
+        "start_time_aest": "2026-01-25T14:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Edmonton",
+                "position": "HOME",
+                "short_name": "Edmonton"
+            },
+            {
+                "full_name": "Washington",
+                "position": "AWAY",
+                "short_name": "Washington"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Edmonton",
+                "returnWin": 1.55,
+                "returnPlace": 0
+            },
+            {
+                "name": "Washington",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Edmonton v Washington",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T03:05:00.000Z"
+    },
+    {
+        "contestant_names": "Canterbury Kings VERSES Northern Brave",
+        "start_time_aest": "2026-01-25T14:25:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "NZ Super Smash",
+        "contestants": [
+            {
+                "full_name": "Canterbury Kings",
+                "position": "HOME",
+                "short_name": "Canterbury"
+            },
+            {
+                "full_name": "Northern Brave",
+                "position": "AWAY",
+                "short_name": "Northern Brave"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Canterbury Kings",
+                "returnWin": 2.05,
+                "returnPlace": 0
+            },
+            {
+                "name": "Northern Brave",
+                "returnWin": 1.75,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Canterbury v Northern Brave",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T03:25:00.000Z"
     },
     {
         "contestant_names": "Sydney Blue Sox VERSES Adelaide Giants",
