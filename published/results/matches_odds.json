@@ -1,64 +1,95 @@
 [
     {
-        "contestant_names": "Ariana Arseneault VERSES Ruby Cooling",
-        "start_time_aest": "2026-01-26T02:06:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
+        "contestant_names": "Ae Panathlitikos, (1.6) VERSES Panseraicos, (2.15)",
+        "start_time_aest": "2026-01-26T03:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Greece A1 Women",
         "contestants": [
             {
-                "full_name": "Ariana Arseneault",
+                "full_name": "Ae Panathlitikos",
                 "position": "HOME",
-                "short_name": "Arseneault A"
+                "short_name": "Ae Panathlitikos"
             },
             {
-                "full_name": "Ruby Cooling",
+                "full_name": "Panseraicos",
                 "position": "AWAY",
-                "short_name": "Cooling"
+                "short_name": "Panseraicos"
             }
         ],
         "propositions": [
             {
-                "name": "Ariana Arseneault",
-                "returnWin": 1.46
+                "name": "Ae Panathlitikos",
+                "returnWin": 1.6
             },
             {
-                "name": "Ruby Cooling",
-                "returnWin": 2.5
+                "name": "Panseraicos",
+                "returnWin": 2.15
             }
         ],
-        "match_name": "Arseneault A v Cooling",
+        "match_name": "Ae Panathlitikos v Panseraicos",
         "betOption": "Head To Head",
-        "start_time": "2026-01-25T15:06:00.000Z"
+        "start_time": "2026-01-25T16:00:00.000Z"
     },
     {
-        "contestant_names": "Samsun Zorlu VERSES Kirklareli Fen B",
-        "start_time_aest": "2026-01-26T02:30:00+11:00",
+        "contestant_names": "Universo Treviso, (2.2) VERSES Aquila Trento, (1.57)",
+        "start_time_aest": "2026-01-26T03:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Turkey Federation Cup Women",
+        "competition_name": "Italy Lega Serie A",
         "contestants": [
             {
-                "full_name": "Samsun Zorlu",
+                "full_name": "Universo Treviso",
                 "position": "HOME",
-                "short_name": "Samsun Zorlu"
+                "short_name": "Universo Treviso"
             },
             {
-                "full_name": "Kirklareli Fen B",
+                "full_name": "Aquila Trento",
                 "position": "AWAY",
-                "short_name": "Kirklareli Fen B"
+                "short_name": "Aquila Trento"
             }
         ],
         "propositions": [
             {
-                "name": "Samsun Zorlu",
-                "returnWin": 1.62
+                "name": "Universo Treviso",
+                "returnWin": 2.2
             },
             {
-                "name": "Kirklareli Fen B",
-                "returnWin": 2.1
+                "name": "Aquila Trento",
+                "returnWin": 1.57
             }
         ],
-        "match_name": "Samsun Zorlu v Kirklareli Fen B",
+        "match_name": "Universo Treviso v Aquila Trento",
         "betOption": "Head To Head",
-        "start_time": "2026-01-25T15:30:00.000Z"
+        "start_time": "2026-01-25T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "Imortal BC U23, (2.1) VERSES Maia Basket, (1.62)",
+        "start_time_aest": "2026-01-26T03:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Portugal ProLiga",
+        "contestants": [
+            {
+                "full_name": "Imortal BC U23",
+                "position": "HOME",
+                "short_name": "Imortal BC U23"
+            },
+            {
+                "full_name": "Maia Basket",
+                "position": "AWAY",
+                "short_name": "Maia Basket"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Imortal BC U23",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Maia Basket",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Imortal BC U23 v Maia Basket",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T16:00:00.000Z"
     }
 ]
