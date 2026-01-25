@@ -1,137 +1,5 @@
 [
     {
-        "contestant_names": "Sizya Ernest Kivanda VERSES Harry Jordan",
-        "start_time_aest": "2026-01-25T23:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Sizya Ernest Kivanda",
-                "position": "HOME",
-                "short_name": "Ernest kivanda"
-            },
-            {
-                "full_name": "Harry Jordan",
-                "position": "AWAY",
-                "short_name": "Jordan"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sizya Ernest Kivanda",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            },
-            {
-                "name": "Harry Jordan",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Ernest kivanda v Jordan",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-25T12:15:00.000Z"
-    },
-    {
-        "contestant_names": "Top Esports VERSES Invictus Gaming",
-        "start_time_aest": "2026-01-25T23:30:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "League of Legends",
-        "contestants": [
-            {
-                "full_name": "Top Esports",
-                "position": "HOME",
-                "short_name": "Top Esports"
-            },
-            {
-                "full_name": "Invictus Gaming",
-                "position": "AWAY",
-                "short_name": "Invictus Gaming"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Top Esports",
-                "returnWin": 2.2,
-                "returnPlace": 0
-            },
-            {
-                "name": "Invictus Gaming",
-                "returnWin": 1.6,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Top Esports v Invictus Gaming",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-25T12:30:00.000Z"
-    },
-    {
-        "contestant_names": "Nicholas Ionel VERSES Andrey Chepelev",
-        "start_time_aest": "2026-01-25T23:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Nicholas Ionel",
-                "position": "HOME",
-                "short_name": "Ionel N"
-            },
-            {
-                "full_name": "Andrey Chepelev",
-                "position": "AWAY",
-                "short_name": "Chepelev A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Nicholas Ionel",
-                "returnWin": 2.15,
-                "returnPlace": 0
-            },
-            {
-                "name": "Andrey Chepelev",
-                "returnWin": 1.62,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Ionel N v Chepelev A",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-25T12:30:00.000Z"
-    },
-    {
-        "contestant_names": "Valentina Ivanov VERSES Clara Vlasselaer",
-        "start_time_aest": "2026-01-25T23:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Valentina Ivanov",
-                "position": "HOME",
-                "short_name": "Ivanov Vt"
-            },
-            {
-                "full_name": "Clara Vlasselaer",
-                "position": "AWAY",
-                "short_name": "Vlasselaer"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Valentina Ivanov",
-                "returnWin": 2.3,
-                "returnPlace": 0
-            },
-            {
-                "name": "Clara Vlasselaer",
-                "returnWin": 1.55,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Ivanov Vt v Vlasselaer",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-25T12:30:00.000Z"
-    },
-    {
         "contestant_names": "Alicia Dudeney VERSES Mara Guth",
         "start_time_aest": "2026-01-25T23:45:00+11:00",
         "sport_name": "Tennis",
@@ -163,6 +31,72 @@
         "match_name": "Dudeney v Guth",
         "betOption": "Head To Head",
         "start_time": "2026-01-25T12:45:00.000Z"
+    },
+    {
+        "contestant_names": "Top Esports VERSES Invictus Gaming",
+        "start_time_aest": "2026-01-25T23:45:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "contestants": [
+            {
+                "full_name": "Top Esports",
+                "position": "HOME",
+                "short_name": "Top Esports"
+            },
+            {
+                "full_name": "Invictus Gaming",
+                "position": "AWAY",
+                "short_name": "Invictus Gaming"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Top Esports",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            },
+            {
+                "name": "Invictus Gaming",
+                "returnWin": 1.6,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Top Esports v Invictus Gaming",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T12:45:00.000Z"
+    },
+    {
+        "contestant_names": "Malbas VERSES Djurgarden",
+        "start_time_aest": "2026-01-26T00:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Sweden Superettan",
+        "contestants": [
+            {
+                "full_name": "Malbas",
+                "position": "HOME",
+                "short_name": "Malbas"
+            },
+            {
+                "full_name": "Djurgarden",
+                "position": "AWAY",
+                "short_name": "Djurgarden"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Malbas",
+                "returnWin": 1.57,
+                "returnPlace": 0
+            },
+            {
+                "name": "Djurgarden",
+                "returnWin": 2.2,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Malbas v Djurgarden",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T13:00:00.000Z"
     },
     {
         "contestant_names": "Sydney Blue Sox VERSES Adelaide Giants",
