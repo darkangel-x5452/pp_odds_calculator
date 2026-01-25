@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names": "Kagoshima Rebnis VERSES Ehime Orange",
-        "start_time_aest": "2026-01-25T15:05:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Japan B League 2",
-        "contestants": [
-            {
-                "full_name": "Kagoshima Rebnis",
-                "position": "HOME",
-                "short_name": "Kagoshima Rebnis"
-            },
-            {
-                "full_name": "Ehime Orange",
-                "position": "AWAY",
-                "short_name": "Ehime Orange"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Kagoshima Rebnis",
-                "returnWin": 1.95,
-                "returnPlace": 0
-            },
-            {
-                "name": "Ehime Orange",
-                "returnWin": 1.73,
-                "returnPlace": 0
-            }
-        ],
-        "match_name": "Kagoshima Rebnis v Ehime Orange",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-25T04:05:00.000Z"
-    },
-    {
         "contestant_names": "Jeonju KCC Egis VERSES Seoul Knights",
         "start_time_aest": "2026-01-25T16:00:00+11:00",
         "sport_name": "Basketball",
@@ -293,6 +260,72 @@
             }
         ],
         "match_name": "Toyama Grouses v Shibuya Sun Rock",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T05:05:00.000Z"
+    },
+    {
+        "contestant_names": "Shimane VERSES Sendai 89ers",
+        "start_time_aest": "2026-01-25T16:05:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Japan B League",
+        "contestants": [
+            {
+                "full_name": "Shimane",
+                "position": "HOME",
+                "short_name": "Shimane"
+            },
+            {
+                "full_name": "Sendai 89ers",
+                "position": "AWAY",
+                "short_name": "Sendai 89ers"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Shimane",
+                "returnWin": 1.45,
+                "returnPlace": 0
+            },
+            {
+                "name": "Sendai 89ers",
+                "returnWin": 2.5,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Shimane v Sendai 89ers",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T05:05:00.000Z"
+    },
+    {
+        "contestant_names": "Yamagata Wyverns VERSES Iwate",
+        "start_time_aest": "2026-01-25T16:05:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Japan B League 2",
+        "contestants": [
+            {
+                "full_name": "Yamagata Wyverns",
+                "position": "HOME",
+                "short_name": "Yamagata Wyverns"
+            },
+            {
+                "full_name": "Iwate",
+                "position": "AWAY",
+                "short_name": "Iwate"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Yamagata Wyverns",
+                "returnWin": 1.48,
+                "returnPlace": 0
+            },
+            {
+                "name": "Iwate",
+                "returnWin": 2.4,
+                "returnPlace": 0
+            }
+        ],
+        "match_name": "Yamagata Wyverns v Iwate",
         "betOption": "Head To Head",
         "start_time": "2026-01-25T05:05:00.000Z"
     },
