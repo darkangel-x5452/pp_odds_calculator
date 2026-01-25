@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Fluxo W7m, (1.5) VERSES Leviatan Esports, (2.4)",
-        "start_time_aest": "2026-01-26T04:15:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "League of Legends",
-        "contestants": [
-            {
-                "full_name": "Fluxo W7m",
-                "position": "HOME",
-                "short_name": "Fluxo W7m"
-            },
-            {
-                "full_name": "Leviatan Esports",
-                "position": "AWAY",
-                "short_name": "Leviatan Esports"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Fluxo W7m",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Leviatan Esports",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Fluxo W7m v Leviatan Esports",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-25T17:15:00.000Z"
-    },
-    {
-        "contestant_names": "Heretics, (1.55) VERSES Los Ratones, (2.3)",
-        "start_time_aest": "2026-01-26T04:30:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "League of Legends",
-        "contestants": [
-            {
-                "full_name": "Heretics",
-                "position": "HOME",
-                "short_name": "Heretics"
-            },
-            {
-                "full_name": "Los Ratones",
-                "position": "AWAY",
-                "short_name": "Los Ratones"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Heretics",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Los Ratones",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Heretics v Los Ratones",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-25T17:30:00.000Z"
-    },
-    {
         "contestant_names": "Kansas, (1.75) VERSES Kansas State, (2)",
         "start_time_aest": "2026-01-26T05:00:00+11:00",
         "sport_name": "Basketball",
@@ -91,5 +29,98 @@
         "match_name": "Kansas v Kansas State",
         "betOption": "Head To Head",
         "start_time": "2026-01-25T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Le Mans, (1.95) VERSES ASVEL Lyon, (1.73)",
+        "start_time_aest": "2026-01-26T05:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "France LNB Pro A",
+        "contestants": [
+            {
+                "full_name": "Le Mans",
+                "position": "HOME",
+                "short_name": "Le Mans"
+            },
+            {
+                "full_name": "ASVEL Lyon",
+                "position": "AWAY",
+                "short_name": "ASVEL Lyon"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Le Mans",
+                "returnWin": 1.95
+            },
+            {
+                "name": "ASVEL Lyon",
+                "returnWin": 1.73
+            }
+        ],
+        "match_name": "Le Mans v ASVEL Lyon",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T18:10:00.000Z"
+    },
+    {
+        "contestant_names": "Esgueira, (1.52) VERSES Sporting Lisboa, (2.3)",
+        "start_time_aest": "2026-01-26T05:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Portugal LFB Women",
+        "contestants": [
+            {
+                "full_name": "Esgueira",
+                "position": "HOME",
+                "short_name": "Esgueira"
+            },
+            {
+                "full_name": "Sporting Lisboa",
+                "position": "AWAY",
+                "short_name": "Sporting Lisboa"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Esgueira",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Sporting Lisboa",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Esgueira v Sporting Lisboa",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T18:30:00.000Z"
+    },
+    {
+        "contestant_names": "Toronto, (2.35) VERSES Colorado, (1.58)",
+        "start_time_aest": "2026-01-26T05:35:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Toronto",
+                "position": "HOME",
+                "short_name": "Toronto"
+            },
+            {
+                "full_name": "Colorado",
+                "position": "AWAY",
+                "short_name": "Colorado"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Toronto",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Colorado",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Toronto v Colorado",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-25T18:35:00.000Z"
     }
 ]
