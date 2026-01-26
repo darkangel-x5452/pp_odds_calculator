@@ -1,69 +1,7 @@
 [
     {
-        "contestant_names": "Chicago, (2.1) VERSES Florida, (1.7)",
-        "start_time_aest": "2026-01-26T11:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Chicago",
-                "position": "HOME",
-                "short_name": "Chicago"
-            },
-            {
-                "full_name": "Florida",
-                "position": "AWAY",
-                "short_name": "Florida"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Chicago",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Florida",
-                "returnWin": 1.7
-            }
-        ],
-        "match_name": "Chicago v Florida",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T00:05:00.000Z"
-    },
-    {
-        "contestant_names": "Luz/Matos, (1.95) VERSES Bhambri/Goransson, (1.75)",
-        "start_time_aest": "2026-01-26T11:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
-        "contestants": [
-            {
-                "full_name": "Luz/Matos",
-                "position": "HOME",
-                "short_name": "Luz/Matos"
-            },
-            {
-                "full_name": "Bhambri/Goransson",
-                "position": "AWAY",
-                "short_name": "Bhambri/Goransson"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Luz/Matos",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Bhambri/Goransson",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Luz/Matos v Bhambri/Goransson",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T00:15:00.000Z"
-    },
-    {
-        "contestant_names": "Jessica Pegula, (1.53) VERSES Madison Keys, (2.45)",
-        "start_time_aest": "2026-01-26T11:30:00+11:00",
+        "contestant_names": "Jessica Pegula, (1.5) VERSES Madison Keys, (2.5)",
+        "start_time_aest": "2026-01-26T11:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Australian Open",
         "contestants": [
@@ -81,20 +19,20 @@
         "propositions": [
             {
                 "name": "Jessica Pegula",
-                "returnWin": 1.53
+                "returnWin": 1.5
             },
             {
                 "name": "Madison Keys",
-                "returnWin": 2.45
+                "returnWin": 2.5
             }
         ],
         "match_name": "Pegula v Keys",
         "betOption": "Head To Head",
-        "start_time": "2026-01-26T00:30:00.000Z"
+        "start_time": "2026-01-26T00:45:00.000Z"
     },
     {
         "contestant_names": "McCabe/Tu, (2.3) VERSES Kubler/Polmans, (1.55)",
-        "start_time_aest": "2026-01-26T11:30:00+11:00",
+        "start_time_aest": "2026-01-26T11:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Australian Open Doubles",
         "contestants": [
@@ -121,7 +59,7 @@
         ],
         "match_name": "McCabe/Tu v Kubler/Polmans",
         "betOption": "Head To Head",
-        "start_time": "2026-01-26T00:30:00.000Z"
+        "start_time": "2026-01-26T00:45:00.000Z"
     },
     {
         "contestant_names": "Calgary, (1.95) VERSES Anaheim, (1.85)",
@@ -153,5 +91,36 @@
         "match_name": "Calgary v Anaheim",
         "betOption": "Head To Head",
         "start_time": "2026-01-26T01:05:00.000Z"
+    },
+    {
+        "contestant_names": "Lorenzo Musetti, (2.1) VERSES Taylor Fritz, (1.7)",
+        "start_time_aest": "2026-01-26T14:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Lorenzo Musetti",
+                "position": "HOME",
+                "short_name": "Musetti"
+            },
+            {
+                "full_name": "Taylor Fritz",
+                "position": "AWAY",
+                "short_name": "Fritz T"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lorenzo Musetti",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Taylor Fritz",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "Musetti v Fritz T",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T03:00:00.000Z"
     }
 ]
