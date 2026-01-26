@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "GOES, (1.48) VERSES Cordon, (2.4)",
-        "start_time_aest": "2026-01-27T10:15:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Uruguay LUB",
-        "contestants": [
-            {
-                "full_name": "GOES",
-                "position": "HOME",
-                "short_name": "GOES"
-            },
-            {
-                "full_name": "Cordon",
-                "position": "AWAY",
-                "short_name": "Cordon"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "GOES",
-                "returnWin": 1.48
-            },
-            {
-                "name": "Cordon",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "GOES v Cordon",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T23:15:00.000Z"
-    },
-    {
-        "contestant_names": "Carril Oes Pic, (1.48) VERSES La Union, (2.4)",
-        "start_time_aest": "2026-01-27T10:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga Nacional de Basket",
-        "contestants": [
-            {
-                "full_name": "Carril Oes Pic",
-                "position": "HOME",
-                "short_name": "Carril Oes Pic"
-            },
-            {
-                "full_name": "La Union",
-                "position": "AWAY",
-                "short_name": "La Union"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Carril Oes Pic",
-                "returnWin": 1.48
-            },
-            {
-                "name": "La Union",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Carril Oes Pic v La Union",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T23:30:00.000Z"
-    },
-    {
         "contestant_names": "Boston Common, (1.8) VERSES The Bay, (1.95)",
         "start_time_aest": "2026-01-27T11:00:00+11:00",
         "sport_name": "Golf",
@@ -215,5 +153,36 @@
         "match_name": "Tampa Bay v Utah",
         "betOption": "Head To Head",
         "start_time": "2026-01-27T00:05:00.000Z"
+    },
+    {
+        "contestant_names": "Pergamino Basket, (1.66) VERSES Club Villa Mitre, (2.05)",
+        "start_time_aest": "2026-01-27T11:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Pergamino Basket",
+                "position": "HOME",
+                "short_name": "Pergamino Basket"
+            },
+            {
+                "full_name": "Club Villa Mitre",
+                "position": "AWAY",
+                "short_name": "Club Villa Mitre"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Pergamino Basket",
+                "returnWin": 1.66
+            },
+            {
+                "name": "Club Villa Mitre",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Pergamino Basket v Club Villa Mitre",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-27T00:30:00.000Z"
     }
 ]
