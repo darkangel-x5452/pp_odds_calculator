@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Maximus Jones, (2.5) VERSES Marat Sharipov, (1.46)",
-        "start_time_aest": "2026-01-26T18:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Maximus Jones",
-                "position": "HOME",
-                "short_name": "Jones"
-            },
-            {
-                "full_name": "Marat Sharipov",
-                "position": "AWAY",
-                "short_name": "Sharipov"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Maximus Jones",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Marat Sharipov",
-                "returnWin": 1.46
-            }
-        ],
-        "match_name": "Jones v Sharipov",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T07:00:00.000Z"
-    },
-    {
-        "contestant_names": "Ankita Raina, (2.15) VERSES Jenna Defalco, (1.62)",
-        "start_time_aest": "2026-01-26T18:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Ankita Raina",
-                "position": "HOME",
-                "short_name": "Raina A"
-            },
-            {
-                "full_name": "Jenna Defalco",
-                "position": "AWAY",
-                "short_name": "Defalco"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ankita Raina",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Jenna Defalco",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Raina A v Defalco",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T07:00:00.000Z"
-    },
-    {
         "contestant_names": "Gokberk Saritas, (2.1) VERSES Felix Mischker, (1.65)",
         "start_time_aest": "2026-01-26T18:15:00+11:00",
         "sport_name": "Tennis",
@@ -122,5 +60,67 @@
         "match_name": "Aggarwal v Suden",
         "betOption": "Head To Head",
         "start_time": "2026-01-26T07:15:00.000Z"
+    },
+    {
+        "contestant_names": "Mladenovic/Guinard, (2) VERSES Schuurs/Cash, (1.72)",
+        "start_time_aest": "2026-01-26T18:25:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open Doubles",
+        "contestants": [
+            {
+                "full_name": "Mladenovic/Guinard",
+                "position": "HOME",
+                "short_name": "Mladenovic/Guinard"
+            },
+            {
+                "full_name": "Schuurs/Cash",
+                "position": "AWAY",
+                "short_name": "Schuurs/Cash"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mladenovic/Guinard",
+                "returnWin": 2
+            },
+            {
+                "name": "Schuurs/Cash",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "Mladenovic/Guinard v Schuurs/Cash",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T07:25:00.000Z"
+    },
+    {
+        "contestant_names": "Ben Shelton, (1.53) VERSES Casper Ruud, (2.45)",
+        "start_time_aest": "2026-01-26T21:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Ben Shelton",
+                "position": "HOME",
+                "short_name": "Shelton B"
+            },
+            {
+                "full_name": "Casper Ruud",
+                "position": "AWAY",
+                "short_name": "Ruud C"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ben Shelton",
+                "returnWin": 1.53
+            },
+            {
+                "name": "Casper Ruud",
+                "returnWin": 2.45
+            }
+        ],
+        "match_name": "Shelton B v Ruud C",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T10:00:00.000Z"
     }
 ]
