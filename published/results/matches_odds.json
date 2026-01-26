@@ -1,129 +1,5 @@
 [
     {
-        "contestant_names": "Seattle, (1.74) VERSES LA Rams, (2.1)",
-        "start_time_aest": "2026-01-26T10:40:00+11:00",
-        "sport_name": "American Football",
-        "competition_name": "NFL",
-        "contestants": [
-            {
-                "full_name": "Seattle",
-                "position": "HOME",
-                "short_name": "Seattle"
-            },
-            {
-                "full_name": "LA Rams",
-                "position": "AWAY",
-                "short_name": "LA Rams"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Seattle",
-                "returnWin": 1.74
-            },
-            {
-                "name": "LA Rams",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Seattle v LA Rams",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-25T23:40:00.000Z"
-    },
-    {
-        "contestant_names": "Auckland Hearts (W), (1.85) VERSES Central Hinds (W), (1.95)",
-        "start_time_aest": "2026-01-26T10:40:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "NZ Womens Super Smash",
-        "contestants": [
-            {
-                "full_name": "Auckland Hearts (W)",
-                "position": "HOME",
-                "short_name": "Auckland (W)"
-            },
-            {
-                "full_name": "Central Hinds (W)",
-                "position": "AWAY",
-                "short_name": "Central Hinds(W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Auckland Hearts (W)",
-                "returnWin": 1.85
-            },
-            {
-                "name": "Central Hinds (W)",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Auckland (W) v Central Hinds(W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-25T23:40:00.000Z"
-    },
-    {
-        "contestant_names": "Bochas Sport Clu, (1.66) VERSES Sportivo Suardi, (2.05)",
-        "start_time_aest": "2026-01-26T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga A",
-        "contestants": [
-            {
-                "full_name": "Bochas Sport Clu",
-                "position": "HOME",
-                "short_name": "Bochas Sport Clu"
-            },
-            {
-                "full_name": "Sportivo Suardi",
-                "position": "AWAY",
-                "short_name": "Sportivo Suardi"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Bochas Sport Clu",
-                "returnWin": 1.66
-            },
-            {
-                "name": "Sportivo Suardi",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Bochas Sport Clu v Sportivo Suardi",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Luz/Matos, (2) VERSES Bhambri/Goransson, (1.72)",
-        "start_time_aest": "2026-01-26T11:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
-        "contestants": [
-            {
-                "full_name": "Luz/Matos",
-                "position": "HOME",
-                "short_name": "Luz/Matos"
-            },
-            {
-                "full_name": "Bhambri/Goransson",
-                "position": "AWAY",
-                "short_name": "Bhambri/Goransson"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Luz/Matos",
-                "returnWin": 2
-            },
-            {
-                "name": "Bhambri/Goransson",
-                "returnWin": 1.72
-            }
-        ],
-        "match_name": "Luz/Matos v Bhambri/Goransson",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T00:00:00.000Z"
-    },
-    {
         "contestant_names": "Chicago, (2.1) VERSES Florida, (1.7)",
         "start_time_aest": "2026-01-26T11:05:00+11:00",
         "sport_name": "Ice Hockey",
@@ -153,6 +29,37 @@
         "match_name": "Chicago v Florida",
         "betOption": "Head To Head",
         "start_time": "2026-01-26T00:05:00.000Z"
+    },
+    {
+        "contestant_names": "Luz/Matos, (1.95) VERSES Bhambri/Goransson, (1.75)",
+        "start_time_aest": "2026-01-26T11:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open Doubles",
+        "contestants": [
+            {
+                "full_name": "Luz/Matos",
+                "position": "HOME",
+                "short_name": "Luz/Matos"
+            },
+            {
+                "full_name": "Bhambri/Goransson",
+                "position": "AWAY",
+                "short_name": "Bhambri/Goransson"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Luz/Matos",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Bhambri/Goransson",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Luz/Matos v Bhambri/Goransson",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T00:15:00.000Z"
     },
     {
         "contestant_names": "Jessica Pegula, (1.53) VERSES Madison Keys, (2.45)",
@@ -215,5 +122,36 @@
         "match_name": "McCabe/Tu v Kubler/Polmans",
         "betOption": "Head To Head",
         "start_time": "2026-01-26T00:30:00.000Z"
+    },
+    {
+        "contestant_names": "Calgary, (1.95) VERSES Anaheim, (1.85)",
+        "start_time_aest": "2026-01-26T12:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Calgary",
+                "position": "HOME",
+                "short_name": "Calgary"
+            },
+            {
+                "full_name": "Anaheim",
+                "position": "AWAY",
+                "short_name": "Anaheim"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Calgary",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Anaheim",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Calgary v Anaheim",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T01:05:00.000Z"
     }
 ]
