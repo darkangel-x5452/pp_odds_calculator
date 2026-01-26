@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Bangalore (W), (1.75) VERSES Mumbai (W), (2.05)",
-        "start_time_aest": "2026-01-27T01:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Womens Premier League",
-        "contestants": [
-            {
-                "full_name": "Bangalore (W)",
-                "position": "HOME",
-                "short_name": "Bangalore (W)"
-            },
-            {
-                "full_name": "Mumbai (W)",
-                "position": "AWAY",
-                "short_name": "Mumbai (W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Bangalore (W)",
-                "returnWin": 1.75
-            },
-            {
-                "name": "Mumbai (W)",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Bangalore (W) v Mumbai (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T14:00:00.000Z"
-    },
-    {
         "contestant_names": "Peter Buldorini, (1.55) VERSES Vincent Dullinger, (2.3)",
         "start_time_aest": "2026-01-27T01:15:00+11:00",
         "sport_name": "Tennis",
@@ -184,5 +153,67 @@
         "match_name": "Larwig N v Visser",
         "betOption": "Head To Head",
         "start_time": "2026-01-26T15:15:00.000Z"
+    },
+    {
+        "contestant_names": "SK Gaming, (1.62) VERSES Karmine Blue, (2.15)",
+        "start_time_aest": "2026-01-27T02:45:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "contestants": [
+            {
+                "full_name": "SK Gaming",
+                "position": "HOME",
+                "short_name": "SK Gaming"
+            },
+            {
+                "full_name": "Karmine Blue",
+                "position": "AWAY",
+                "short_name": "Karmine Blue"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "SK Gaming",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Karmine Blue",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "SK Gaming v Karmine Blue",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T15:45:00.000Z"
+    },
+    {
+        "contestant_names": "Merkezefendi, (1.48) VERSES Pinar Karsiyaka, (2.4)",
+        "start_time_aest": "2026-01-27T03:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Turkey Super League",
+        "contestants": [
+            {
+                "full_name": "Merkezefendi",
+                "position": "HOME",
+                "short_name": "Merkezefendi"
+            },
+            {
+                "full_name": "Pinar Karsiyaka",
+                "position": "AWAY",
+                "short_name": "Pinar Karsiyaka"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Merkezefendi",
+                "returnWin": 1.48
+            },
+            {
+                "name": "Pinar Karsiyaka",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Merkezefendi v Pinar Karsiyaka",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T16:00:00.000Z"
     }
 ]
