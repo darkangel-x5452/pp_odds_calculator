@@ -1,33 +1,64 @@
 [
     {
-        "contestant_names": "Zero Tenacity, (1.95) VERSES Pipsqueak+4, (1.75)",
-        "start_time_aest": "2026-01-27T06:00:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "DOTA2",
+        "contestant_names": "Keflavik, (2.45) VERSES Tindastoll, (1.48)",
+        "start_time_aest": "2026-01-27T06:15:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Iceland Premier League",
         "contestants": [
             {
-                "full_name": "Zero Tenacity",
+                "full_name": "Keflavik",
                 "position": "HOME",
-                "short_name": "Zero Tenacity"
+                "short_name": "Keflavik"
             },
             {
-                "full_name": "Pipsqueak+4",
+                "full_name": "Tindastoll",
                 "position": "AWAY",
-                "short_name": "Pipsqueak+4"
+                "short_name": "Tindastoll"
             }
         ],
         "propositions": [
             {
-                "name": "Zero Tenacity",
-                "returnWin": 1.95
+                "name": "Keflavik",
+                "returnWin": 2.45
             },
             {
-                "name": "Pipsqueak+4",
-                "returnWin": 1.75
+                "name": "Tindastoll",
+                "returnWin": 1.48
             }
         ],
-        "match_name": "Zero Tenacity v Pipsqueak+4",
+        "match_name": "Keflavik v Tindastoll",
         "betOption": "Head To Head",
-        "start_time": "2026-01-26T19:00:00.000Z"
+        "start_time": "2026-01-26T19:15:00.000Z"
+    },
+    {
+        "contestant_names": "Charlotte, (1.8) VERSES Philadelphia, (2.05)",
+        "start_time_aest": "2026-01-27T07:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Charlotte",
+                "position": "HOME",
+                "short_name": "Charlotte"
+            },
+            {
+                "full_name": "Philadelphia",
+                "position": "AWAY",
+                "short_name": "Philadelphia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Charlotte",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Philadelphia",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Charlotte v Philadelphia",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T20:10:00.000Z"
     }
 ]
