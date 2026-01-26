@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Calgary, (1.95) VERSES Anaheim, (1.85)",
-        "start_time_aest": "2026-01-26T12:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Calgary",
-                "position": "HOME",
-                "short_name": "Calgary"
-            },
-            {
-                "full_name": "Anaheim",
-                "position": "AWAY",
-                "short_name": "Anaheim"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Calgary",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Anaheim",
-                "returnWin": 1.85
-            }
-        ],
-        "match_name": "Calgary v Anaheim",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T01:05:00.000Z"
-    },
-    {
-        "contestant_names": "Calgary, (1.95) VERSES Anaheim, (1.85)",
-        "start_time_aest": "2026-01-26T12:08:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Calgary",
-                "position": "HOME",
-                "short_name": "Calgary"
-            },
-            {
-                "full_name": "Anaheim",
-                "position": "AWAY",
-                "short_name": "Anaheim"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Calgary",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Anaheim",
-                "returnWin": 1.85
-            }
-        ],
-        "match_name": "Calgary v Anaheim",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T01:08:00.000Z"
-    },
-    {
-        "contestant_names": "Phoenix, (1.56) VERSES Miami, (2.5)",
-        "start_time_aest": "2026-01-26T12:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Phoenix",
-                "position": "HOME",
-                "short_name": "Phoenix"
-            },
-            {
-                "full_name": "Miami",
-                "position": "AWAY",
-                "short_name": "Miami"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Phoenix",
-                "returnWin": 1.56
-            },
-            {
-                "name": "Miami",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Phoenix v Miami",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T01:10:00.000Z"
-    },
-    {
         "contestant_names": "Lorenzo Musetti, (2.1) VERSES Taylor Fritz, (1.7)",
         "start_time_aest": "2026-01-26T14:00:00+11:00",
         "sport_name": "Tennis",
@@ -153,5 +60,67 @@
         "match_name": "Danilina/Tracy v Fernandez/Kyrgios",
         "betOption": "Head To Head",
         "start_time": "2026-01-26T04:30:00.000Z"
+    },
+    {
+        "contestant_names": "Mladenovic/Guinard, (2.05) VERSES Schuurs/Cash, (1.68)",
+        "start_time_aest": "2026-01-26T17:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open Doubles",
+        "contestants": [
+            {
+                "full_name": "Mladenovic/Guinard",
+                "position": "HOME",
+                "short_name": "Mladenovic/Guinard"
+            },
+            {
+                "full_name": "Schuurs/Cash",
+                "position": "AWAY",
+                "short_name": "Schuurs/Cash"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mladenovic/Guinard",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Schuurs/Cash",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Mladenovic/Guinard v Schuurs/Cash",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T06:00:00.000Z"
+    },
+    {
+        "contestant_names": "Simona Waltert, (2.25) VERSES Lanlana Tararudee, (1.58)",
+        "start_time_aest": "2026-01-26T17:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Tour",
+        "contestants": [
+            {
+                "full_name": "Simona Waltert",
+                "position": "HOME",
+                "short_name": "Waltert"
+            },
+            {
+                "full_name": "Lanlana Tararudee",
+                "position": "AWAY",
+                "short_name": "Tararudee"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Simona Waltert",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Lanlana Tararudee",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Waltert v Tararudee",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T06:00:00.000Z"
     }
 ]
