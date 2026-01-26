@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Noel Larwig, (1.55) VERSES Mac Visser, (2.3)",
-        "start_time_aest": "2026-01-27T02:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Noel Larwig",
-                "position": "HOME",
-                "short_name": "Larwig N"
-            },
-            {
-                "full_name": "Mac Visser",
-                "position": "AWAY",
-                "short_name": "Visser"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Noel Larwig",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Mac Visser",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Larwig N v Visser",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T15:15:00.000Z"
-    },
-    {
         "contestant_names": "SK Gaming, (1.62) VERSES Karmine Blue, (2.15)",
         "start_time_aest": "2026-01-27T02:45:00+11:00",
         "sport_name": "Esports",
@@ -306,6 +275,37 @@
             }
         ],
         "match_name": "Maccabi Ashdod v Elitzur Ramla",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Hampton, (2.5) VERSES Elon, (1.5)",
+        "start_time_aest": "2026-01-27T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Hampton",
+                "position": "HOME",
+                "short_name": "Hampton"
+            },
+            {
+                "full_name": "Elon",
+                "position": "AWAY",
+                "short_name": "Elon"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hampton",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Elon",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Hampton v Elon",
         "betOption": "Head To Head",
         "start_time": "2026-01-26T17:00:00.000Z"
     }
