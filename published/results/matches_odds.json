@@ -153,5 +153,98 @@
         "match_name": "Townsend/Mektic v Khromacheva/Harrison",
         "betOption": "Head To Head",
         "start_time": "2026-01-27T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Philadelphia, (1.8) VERSES NY Islanders, (2)",
+        "start_time_aest": "2026-01-27T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Philadelphia",
+                "position": "HOME",
+                "short_name": "Philadelphia"
+            },
+            {
+                "full_name": "NY Islanders",
+                "position": "AWAY",
+                "short_name": "NY Islanders"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Philadelphia",
+                "returnWin": 1.8
+            },
+            {
+                "name": "NY Islanders",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Philadelphia v NY Islanders",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-27T00:05:00.000Z"
+    },
+    {
+        "contestant_names": "NY Rangers, (2) VERSES Boston, (1.8)",
+        "start_time_aest": "2026-01-27T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "NY Rangers",
+                "position": "HOME",
+                "short_name": "NY Rangers"
+            },
+            {
+                "full_name": "Boston",
+                "position": "AWAY",
+                "short_name": "Boston"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "NY Rangers",
+                "returnWin": 2
+            },
+            {
+                "name": "Boston",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "NY Rangers v Boston",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-27T00:05:00.000Z"
+    },
+    {
+        "contestant_names": "Tampa Bay, (1.62) VERSES Utah, (2.25)",
+        "start_time_aest": "2026-01-27T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Tampa Bay",
+                "position": "HOME",
+                "short_name": "Tampa Bay"
+            },
+            {
+                "full_name": "Utah",
+                "position": "AWAY",
+                "short_name": "Utah"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tampa Bay",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Utah",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Tampa Bay v Utah",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-27T00:05:00.000Z"
     }
 ]
