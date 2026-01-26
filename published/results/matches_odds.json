@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Leyton Rivera, (1.6) VERSES Nicolas Rosenzweig, (2.2)",
-        "start_time_aest": "2026-01-26T23:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Leyton Rivera",
-                "position": "HOME",
-                "short_name": "Rivera L"
-            },
-            {
-                "full_name": "Nicolas Rosenzweig",
-                "position": "AWAY",
-                "short_name": "Rosenzweig"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Leyton Rivera",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Nicolas Rosenzweig",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Rivera L v Rosenzweig",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T12:45:00.000Z"
-    },
-    {
-        "contestant_names": "Marie Vogt, (1.52) VERSES Celia Cervino Ruiz, (2.35)",
-        "start_time_aest": "2026-01-26T23:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Marie Vogt",
-                "position": "HOME",
-                "short_name": "Vogt"
-            },
-            {
-                "full_name": "Celia Cervino Ruiz",
-                "position": "AWAY",
-                "short_name": "Cervino Ruiz"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Marie Vogt",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Celia Cervino Ruiz",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Vogt v Cervino Ruiz",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T12:45:00.000Z"
-    },
-    {
         "contestant_names": "Emirates Blues, (1.8) VERSES Sharjah, (2)",
         "start_time_aest": "2026-01-27T00:15:00+11:00",
         "sport_name": "Cricket",
@@ -153,5 +91,67 @@
         "match_name": "Tsygourova v Mair",
         "betOption": "Head To Head",
         "start_time": "2026-01-26T14:45:00.000Z"
+    },
+    {
+        "contestant_names": "Henrique Rocha, (1.75) VERSES Alejandro Moro Canas, (1.95)",
+        "start_time_aest": "2026-01-27T02:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Henrique Rocha",
+                "position": "HOME",
+                "short_name": "Rocha H"
+            },
+            {
+                "full_name": "Alejandro Moro Canas",
+                "position": "AWAY",
+                "short_name": "Moro Canas"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Henrique Rocha",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Alejandro Moro Canas",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Rocha H v Moro Canas",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T15:00:00.000Z"
+    },
+    {
+        "contestant_names": "Noel Larwig, (1.55) VERSES Mac Visser, (2.3)",
+        "start_time_aest": "2026-01-27T02:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Noel Larwig",
+                "position": "HOME",
+                "short_name": "Larwig N"
+            },
+            {
+                "full_name": "Mac Visser",
+                "position": "AWAY",
+                "short_name": "Visser"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Noel Larwig",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Mac Visser",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Larwig N v Visser",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T15:15:00.000Z"
     }
 ]
