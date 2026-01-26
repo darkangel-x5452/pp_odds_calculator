@@ -1,129 +1,5 @@
 [
     {
-        "contestant_names": "JiangsuYananSuke, (1.48) VERSES Hangzhou Jingwei, (2.4)",
-        "start_time_aest": "2026-01-26T22:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "China NBL",
-        "contestants": [
-            {
-                "full_name": "JiangsuYananSuke",
-                "position": "HOME",
-                "short_name": "JiangsuYananSuke"
-            },
-            {
-                "full_name": "Hangzhou Jingwei",
-                "position": "AWAY",
-                "short_name": "Hangzhou Jingwei"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "JiangsuYananSuke",
-                "returnWin": 1.48
-            },
-            {
-                "name": "Hangzhou Jingwei",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "JiangsuYananSuke v Hangzhou Jingwei",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T11:30:00.000Z"
-    },
-    {
-        "contestant_names": "Hubei Culture An, (2.5) VERSES Changsha Wantian, (1.45)",
-        "start_time_aest": "2026-01-26T22:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "China NBL",
-        "contestants": [
-            {
-                "full_name": "Hubei Culture An",
-                "position": "HOME",
-                "short_name": "Hubei Culture An"
-            },
-            {
-                "full_name": "Changsha Wantian",
-                "position": "AWAY",
-                "short_name": "Changsha Wantian"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Hubei Culture An",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Changsha Wantian",
-                "returnWin": 1.45
-            }
-        ],
-        "match_name": "Hubei Culture An v Changsha Wantian",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T11:30:00.000Z"
-    },
-    {
-        "contestant_names": "Shanghai Blackbi, (1.52) VERSES Jiangxi Ganchi, (2.3)",
-        "start_time_aest": "2026-01-26T22:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "China NBL",
-        "contestants": [
-            {
-                "full_name": "Shanghai Blackbi",
-                "position": "HOME",
-                "short_name": "Shanghai Blackbi"
-            },
-            {
-                "full_name": "Jiangxi Ganchi",
-                "position": "AWAY",
-                "short_name": "Jiangxi Ganchi"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Shanghai Blackbi",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Jiangxi Ganchi",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Shanghai Blackbi v Jiangxi Ganchi",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T11:30:00.000Z"
-    },
-    {
-        "contestant_names": "Leyton Rivera, (1.6) VERSES Nicolas Rosenzweig, (2.2)",
-        "start_time_aest": "2026-01-26T22:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Leyton Rivera",
-                "position": "HOME",
-                "short_name": "Rivera L"
-            },
-            {
-                "full_name": "Nicolas Rosenzweig",
-                "position": "AWAY",
-                "short_name": "Rosenzweig"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Leyton Rivera",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Nicolas Rosenzweig",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Rivera L v Rosenzweig",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T11:30:00.000Z"
-    },
-    {
         "contestant_names": "Madelief Hageman, (2.15) VERSES Clara Vlasselaer, (1.62)",
         "start_time_aest": "2026-01-26T23:15:00+11:00",
         "sport_name": "Tennis",
@@ -246,5 +122,36 @@
         "match_name": "Emirates Blues v Sharjah",
         "betOption": "Head To Head",
         "start_time": "2026-01-26T13:15:00.000Z"
+    },
+    {
+        "contestant_names": "Bangalore (W), (1.75) VERSES Mumbai (W), (2.05)",
+        "start_time_aest": "2026-01-27T01:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Womens Premier League",
+        "contestants": [
+            {
+                "full_name": "Bangalore (W)",
+                "position": "HOME",
+                "short_name": "Bangalore (W)"
+            },
+            {
+                "full_name": "Mumbai (W)",
+                "position": "AWAY",
+                "short_name": "Mumbai (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bangalore (W)",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Mumbai (W)",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Bangalore (W) v Mumbai (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T14:00:00.000Z"
     }
 ]
