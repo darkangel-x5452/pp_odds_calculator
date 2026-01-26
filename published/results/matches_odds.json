@@ -124,6 +124,37 @@
         "start_time": "2026-01-26T09:30:00.000Z"
     },
     {
+        "contestant_names": "Francoise Abanda, (2.3) VERSES Reina Goto, (1.55)",
+        "start_time_aest": "2026-01-26T20:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Francoise Abanda",
+                "position": "HOME",
+                "short_name": "Abanda"
+            },
+            {
+                "full_name": "Reina Goto",
+                "position": "AWAY",
+                "short_name": "Goto"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Francoise Abanda",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Reina Goto",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Abanda v Goto",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T09:30:00.000Z"
+    },
+    {
         "contestant_names": "Ben Shelton, (1.53) VERSES Casper Ruud, (2.45)",
         "start_time_aest": "2026-01-26T21:00:00+11:00",
         "sport_name": "Tennis",
@@ -151,6 +182,68 @@
             }
         ],
         "match_name": "Shelton B v Ruud C",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Korea Gas Corpr, (2.05) VERSES Busan Sonicboom, (1.66)",
+        "start_time_aest": "2026-01-26T21:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "South Korea KBL",
+        "contestants": [
+            {
+                "full_name": "Korea Gas Corpr",
+                "position": "HOME",
+                "short_name": "Korea Gas Corpr"
+            },
+            {
+                "full_name": "Busan Sonicboom",
+                "position": "AWAY",
+                "short_name": "Busan Sonicboom"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Korea Gas Corpr",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Busan Sonicboom",
+                "returnWin": 1.66
+            }
+        ],
+        "match_name": "Korea Gas Corpr v Busan Sonicboom",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Anastasia Kulikova, (1.65) VERSES Antonia Schmidt, (2.1)",
+        "start_time_aest": "2026-01-26T21:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Anastasia Kulikova",
+                "position": "HOME",
+                "short_name": "Kulikova A"
+            },
+            {
+                "full_name": "Antonia Schmidt",
+                "position": "AWAY",
+                "short_name": "Schmidt A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Anastasia Kulikova",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Antonia Schmidt",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Kulikova A v Schmidt A",
         "betOption": "Head To Head",
         "start_time": "2026-01-26T10:00:00.000Z"
     }
