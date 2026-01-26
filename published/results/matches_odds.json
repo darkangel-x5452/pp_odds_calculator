@@ -1,129 +1,5 @@
 [
     {
-        "contestant_names": "Vitality, (2.35) VERSES Fnatic, (1.52)",
-        "start_time_aest": "2026-01-27T04:35:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "League of Legends",
-        "contestants": [
-            {
-                "full_name": "Vitality",
-                "position": "HOME",
-                "short_name": "Vitality"
-            },
-            {
-                "full_name": "Fnatic",
-                "position": "AWAY",
-                "short_name": "Fnatic"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Vitality",
-                "returnWin": 2.35
-            },
-            {
-                "name": "Fnatic",
-                "returnWin": 1.52
-            }
-        ],
-        "match_name": "Vitality v Fnatic",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T17:35:00.000Z"
-    },
-    {
-        "contestant_names": "Emirates Blues, (1.65) VERSES Ajman, (2.2)",
-        "start_time_aest": "2026-01-27T04:45:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Emirates D10",
-        "contestants": [
-            {
-                "full_name": "Emirates Blues",
-                "position": "HOME",
-                "short_name": "Emirates Blues"
-            },
-            {
-                "full_name": "Ajman",
-                "position": "AWAY",
-                "short_name": "Ajman"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Emirates Blues",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Ajman",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Emirates Blues v Ajman",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T17:45:00.000Z"
-    },
-    {
-        "contestant_names": "Vitter Benjamin, (2.15) VERSES Tom Sickenberger, (1.62)",
-        "start_time_aest": "2026-01-27T05:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Vitter Benjamin",
-                "position": "HOME",
-                "short_name": "Benjamin"
-            },
-            {
-                "full_name": "Tom Sickenberger",
-                "position": "AWAY",
-                "short_name": "Sickenberger"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Vitter Benjamin",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Tom Sickenberger",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Benjamin v Sickenberger",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T18:00:00.000Z"
-    },
-    {
-        "contestant_names": "Ena Koike, (1.65) VERSES Kailey Evans, (2.1)",
-        "start_time_aest": "2026-01-27T05:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Ena Koike",
-                "position": "HOME",
-                "short_name": "Koike E"
-            },
-            {
-                "full_name": "Kailey Evans",
-                "position": "AWAY",
-                "short_name": "Evans K"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ena Koike",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Kailey Evans",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Koike E v Evans K",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T18:00:00.000Z"
-    },
-    {
         "contestant_names": "Zero Tenacity, (1.95) VERSES Pipsqueak+4, (1.75)",
         "start_time_aest": "2026-01-27T05:30:00+11:00",
         "sport_name": "Esports",
@@ -215,5 +91,36 @@
         "match_name": "Strakhova v Dang Y",
         "betOption": "Head To Head",
         "start_time": "2026-01-26T18:30:00.000Z"
+    },
+    {
+        "contestant_names": "Zero Tenacity, (1.95) VERSES Pipsqueak+4, (1.75)",
+        "start_time_aest": "2026-01-27T06:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "contestants": [
+            {
+                "full_name": "Zero Tenacity",
+                "position": "HOME",
+                "short_name": "Zero Tenacity"
+            },
+            {
+                "full_name": "Pipsqueak+4",
+                "position": "AWAY",
+                "short_name": "Pipsqueak+4"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Zero Tenacity",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Pipsqueak+4",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Zero Tenacity v Pipsqueak+4",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T19:00:00.000Z"
     }
 ]
