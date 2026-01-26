@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Jessica Pegula, (1.5) VERSES Madison Keys, (2.5)",
-        "start_time_aest": "2026-01-26T11:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open",
-        "contestants": [
-            {
-                "full_name": "Jessica Pegula",
-                "position": "HOME",
-                "short_name": "Pegula"
-            },
-            {
-                "full_name": "Madison Keys",
-                "position": "AWAY",
-                "short_name": "Keys"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jessica Pegula",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Madison Keys",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Pegula v Keys",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T00:45:00.000Z"
-    },
-    {
-        "contestant_names": "McCabe/Tu, (2.3) VERSES Kubler/Polmans, (1.55)",
-        "start_time_aest": "2026-01-26T11:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
-        "contestants": [
-            {
-                "full_name": "McCabe/Tu",
-                "position": "HOME",
-                "short_name": "McCabe/Tu"
-            },
-            {
-                "full_name": "Kubler/Polmans",
-                "position": "AWAY",
-                "short_name": "Kubler/Polmans"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "McCabe/Tu",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Kubler/Polmans",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "McCabe/Tu v Kubler/Polmans",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T00:45:00.000Z"
-    },
-    {
         "contestant_names": "Calgary, (1.95) VERSES Anaheim, (1.85)",
         "start_time_aest": "2026-01-26T12:05:00+11:00",
         "sport_name": "Ice Hockey",
@@ -93,6 +31,68 @@
         "start_time": "2026-01-26T01:05:00.000Z"
     },
     {
+        "contestant_names": "Calgary, (1.95) VERSES Anaheim, (1.85)",
+        "start_time_aest": "2026-01-26T12:08:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Calgary",
+                "position": "HOME",
+                "short_name": "Calgary"
+            },
+            {
+                "full_name": "Anaheim",
+                "position": "AWAY",
+                "short_name": "Anaheim"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Calgary",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Anaheim",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Calgary v Anaheim",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T01:08:00.000Z"
+    },
+    {
+        "contestant_names": "Phoenix, (1.56) VERSES Miami, (2.5)",
+        "start_time_aest": "2026-01-26T12:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Phoenix",
+                "position": "HOME",
+                "short_name": "Phoenix"
+            },
+            {
+                "full_name": "Miami",
+                "position": "AWAY",
+                "short_name": "Miami"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Phoenix",
+                "returnWin": 1.56
+            },
+            {
+                "name": "Miami",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Phoenix v Miami",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T01:10:00.000Z"
+    },
+    {
         "contestant_names": "Lorenzo Musetti, (2.1) VERSES Taylor Fritz, (1.7)",
         "start_time_aest": "2026-01-26T14:00:00+11:00",
         "sport_name": "Tennis",
@@ -122,5 +122,36 @@
         "match_name": "Musetti v Fritz T",
         "betOption": "Head To Head",
         "start_time": "2026-01-26T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Danilina/Tracy, (1.55) VERSES Fernandez/Kyrgios, (2.3)",
+        "start_time_aest": "2026-01-26T15:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open Doubles",
+        "contestants": [
+            {
+                "full_name": "Danilina/Tracy",
+                "position": "HOME",
+                "short_name": "Danilina/Tracy"
+            },
+            {
+                "full_name": "Fernandez/Kyrgios",
+                "position": "AWAY",
+                "short_name": "Fernandez/Kyrgios"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Danilina/Tracy",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Fernandez/Kyrgios",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Danilina/Tracy v Fernandez/Kyrgios",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T04:30:00.000Z"
     }
 ]
