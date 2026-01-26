@@ -1,7 +1,7 @@
 [
     {
-        "contestant_names": "Lorenzo Musetti, (2.1) VERSES Taylor Fritz, (1.7)",
-        "start_time_aest": "2026-01-26T14:00:00+11:00",
+        "contestant_names": "Lorenzo Musetti, (2.05) VERSES Taylor Fritz, (1.75)",
+        "start_time_aest": "2026-01-26T14:10:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Australian Open",
         "contestants": [
@@ -19,16 +19,16 @@
         "propositions": [
             {
                 "name": "Lorenzo Musetti",
-                "returnWin": 2.1
+                "returnWin": 2.05
             },
             {
                 "name": "Taylor Fritz",
-                "returnWin": 1.7
+                "returnWin": 1.75
             }
         ],
         "match_name": "Musetti v Fritz T",
         "betOption": "Head To Head",
-        "start_time": "2026-01-26T03:00:00.000Z"
+        "start_time": "2026-01-26T03:10:00.000Z"
     },
     {
         "contestant_names": "Danilina/Tracy, (1.55) VERSES Fernandez/Kyrgios, (2.3)",
@@ -120,6 +120,37 @@
             }
         ],
         "match_name": "Waltert v Tararudee",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T06:00:00.000Z"
+    },
+    {
+        "contestant_names": "Sierra/Zhu, (2.35) VERSES Cho/Cho, (1.52)",
+        "start_time_aest": "2026-01-26T17:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Doubles",
+        "contestants": [
+            {
+                "full_name": "Sierra/Zhu",
+                "position": "HOME",
+                "short_name": "Sierra/Zhu"
+            },
+            {
+                "full_name": "Cho/Cho",
+                "position": "AWAY",
+                "short_name": "Cho/Cho"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sierra/Zhu",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Cho/Cho",
+                "returnWin": 1.52
+            }
+        ],
+        "match_name": "Sierra/Zhu v Cho/Cho",
         "betOption": "Head To Head",
         "start_time": "2026-01-26T06:00:00.000Z"
     },
