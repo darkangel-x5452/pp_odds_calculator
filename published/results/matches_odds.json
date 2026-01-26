@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Peter Buldorini, (1.55) VERSES Vincent Dullinger, (2.3)",
-        "start_time_aest": "2026-01-27T01:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Peter Buldorini",
-                "position": "HOME",
-                "short_name": "Buldorini"
-            },
-            {
-                "full_name": "Vincent Dullinger",
-                "position": "AWAY",
-                "short_name": "Dullinger V"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Peter Buldorini",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Vincent Dullinger",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Buldorini v Dullinger V",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T14:15:00.000Z"
-    },
-    {
-        "contestant_names": "Jannik Opitz, (1.55) VERSES Kacper Knitter, (2.3)",
-        "start_time_aest": "2026-01-27T01:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Jannik Opitz",
-                "position": "HOME",
-                "short_name": "Opitz"
-            },
-            {
-                "full_name": "Kacper Knitter",
-                "position": "AWAY",
-                "short_name": "Knitter"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jannik Opitz",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Kacper Knitter",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Opitz v Knitter",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-26T14:30:00.000Z"
-    },
-    {
         "contestant_names": "Katerina Tsygourova, (1.58) VERSES Laura Mair, (2.25)",
         "start_time_aest": "2026-01-27T01:45:00+11:00",
         "sport_name": "Tennis",
@@ -215,5 +153,129 @@
         "match_name": "Merkezefendi v Pinar Karsiyaka",
         "betOption": "Head To Head",
         "start_time": "2026-01-26T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "Stefan Cooper, (1.72) VERSES Thomas Edwards, (2)",
+        "start_time_aest": "2026-01-27T03:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Stefan Cooper",
+                "position": "HOME",
+                "short_name": "Cooper S"
+            },
+            {
+                "full_name": "Thomas Edwards",
+                "position": "AWAY",
+                "short_name": "Edwards"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Stefan Cooper",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Thomas Edwards",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Cooper S v Edwards",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "Bella Payne, (2.35) VERSES Jiangxue Han, (1.52)",
+        "start_time_aest": "2026-01-27T03:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Bella Payne",
+                "position": "HOME",
+                "short_name": "Payne B"
+            },
+            {
+                "full_name": "Jiangxue Han",
+                "position": "AWAY",
+                "short_name": "HanJ"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bella Payne",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Jiangxue Han",
+                "returnWin": 1.52
+            }
+        ],
+        "match_name": "Payne B v HanJ",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "Maccabi Raanana, (2.45) VERSES Hapoel Haemek, (1.48)",
+        "start_time_aest": "2026-01-27T03:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Israel Super League",
+        "contestants": [
+            {
+                "full_name": "Maccabi Raanana",
+                "position": "HOME",
+                "short_name": "Maccabi Raanana"
+            },
+            {
+                "full_name": "Hapoel Haemek",
+                "position": "AWAY",
+                "short_name": "Hapoel Haemek"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Maccabi Raanana",
+                "returnWin": 2.45
+            },
+            {
+                "name": "Hapoel Haemek",
+                "returnWin": 1.48
+            }
+        ],
+        "match_name": "Maccabi Raanana v Hapoel Haemek",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T16:30:00.000Z"
+    },
+    {
+        "contestant_names": "Shifters, (1.46) VERSES Los Ratones, (2.5)",
+        "start_time_aest": "2026-01-27T03:30:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "contestants": [
+            {
+                "full_name": "Shifters",
+                "position": "HOME",
+                "short_name": "Shifters"
+            },
+            {
+                "full_name": "Los Ratones",
+                "position": "AWAY",
+                "short_name": "Los Ratones"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Shifters",
+                "returnWin": 1.46
+            },
+            {
+                "name": "Los Ratones",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Shifters v Los Ratones",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T16:30:00.000Z"
     }
 ]
