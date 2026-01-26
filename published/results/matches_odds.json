@@ -122,5 +122,36 @@
         "match_name": "Waltert v Tararudee",
         "betOption": "Head To Head",
         "start_time": "2026-01-26T06:00:00.000Z"
+    },
+    {
+        "contestant_names": "Maximus Jones, (2.5) VERSES Marat Sharipov, (1.46)",
+        "start_time_aest": "2026-01-26T18:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Maximus Jones",
+                "position": "HOME",
+                "short_name": "Jones"
+            },
+            {
+                "full_name": "Marat Sharipov",
+                "position": "AWAY",
+                "short_name": "Sharipov"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Maximus Jones",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Marat Sharipov",
+                "returnWin": 1.46
+            }
+        ],
+        "match_name": "Jones v Sharipov",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T07:00:00.000Z"
     }
 ]
