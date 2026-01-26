@@ -153,5 +153,36 @@
         "match_name": "Bangalore (W) v Mumbai (W)",
         "betOption": "Head To Head",
         "start_time": "2026-01-26T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Katerina Tsygourova, (1.58) VERSES Laura Mair, (2.25)",
+        "start_time_aest": "2026-01-27T01:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Katerina Tsygourova",
+                "position": "HOME",
+                "short_name": "Tsygourova"
+            },
+            {
+                "full_name": "Laura Mair",
+                "position": "AWAY",
+                "short_name": "Mair"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Katerina Tsygourova",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Laura Mair",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Tsygourova v Mair",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-26T14:45:00.000Z"
     }
 ]
