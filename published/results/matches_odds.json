@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Thiago Moura Monteiro, (2) VERSES Facundo Diaz Acosta, (1.72)",
-        "start_time_aest": "2026-01-28T07:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Thiago Moura Monteiro",
-                "position": "HOME",
-                "short_name": "Monteiro"
-            },
-            {
-                "full_name": "Facundo Diaz Acosta",
-                "position": "AWAY",
-                "short_name": "Diaz Acosta"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Thiago Moura Monteiro",
-                "returnWin": 2
-            },
-            {
-                "name": "Facundo Diaz Acosta",
-                "returnWin": 1.72
-            }
-        ],
-        "match_name": "Monteiro v Diaz Acosta",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-27T20:45:00.000Z"
-    },
-    {
         "contestant_names": "Nicholls State, (1.53) VERSES New Orleans, (2.5)",
         "start_time_aest": "2026-01-28T08:30:00+11:00",
         "sport_name": "Basketball",
@@ -213,6 +182,37 @@
             }
         ],
         "match_name": "Platense v Quimsa",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-27T23:30:00.000Z"
+    },
+    {
+        "contestant_names": "Tasmania (W), (2.1) VERSES Western Australia (W), (1.7)",
+        "start_time_aest": "2026-01-28T10:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Womens National Cricket League",
+        "contestants": [
+            {
+                "full_name": "Tasmania (W)",
+                "position": "HOME",
+                "short_name": "Tasmania (W)"
+            },
+            {
+                "full_name": "Western Australia (W)",
+                "position": "AWAY",
+                "short_name": "W Australia (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tasmania (W)",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Western Australia (W)",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "Tasmania (W) v W Australia (W)",
         "betOption": "Head To Head",
         "start_time": "2026-01-27T23:30:00.000Z"
     }
