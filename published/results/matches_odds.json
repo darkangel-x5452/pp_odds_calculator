@@ -1,129 +1,5 @@
 [
     {
-        "contestant_names": "Amarni Banks, (1.95) VERSES Hannah Klugman, (1.75)",
-        "start_time_aest": "2026-01-28T01:05:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Amarni Banks",
-                "position": "HOME",
-                "short_name": "Banks A"
-            },
-            {
-                "full_name": "Hannah Klugman",
-                "position": "AWAY",
-                "short_name": "Hannah Klugman"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Amarni Banks",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Hannah Klugman",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Banks A v Hannah Klugman",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-27T14:05:00.000Z"
-    },
-    {
-        "contestant_names": "Aurora, (1.46) VERSES 1win, (2.5)",
-        "start_time_aest": "2026-01-28T01:15:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "DOTA2",
-        "contestants": [
-            {
-                "full_name": "Aurora",
-                "position": "HOME",
-                "short_name": "Aurora"
-            },
-            {
-                "full_name": "1win",
-                "position": "AWAY",
-                "short_name": "1win"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Aurora",
-                "returnWin": 1.46
-            },
-            {
-                "name": "1win",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Aurora v 1win",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-27T14:15:00.000Z"
-    },
-    {
-        "contestant_names": "Ana Konjuh, (1.62) VERSES Alina Granwehr, (2.15)",
-        "start_time_aest": "2026-01-28T01:25:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Ana Konjuh",
-                "position": "HOME",
-                "short_name": "Konjuh"
-            },
-            {
-                "full_name": "Alina Granwehr",
-                "position": "AWAY",
-                "short_name": "Granwehr A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ana Konjuh",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Alina Granwehr",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Konjuh v Granwehr A",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-27T14:25:00.000Z"
-    },
-    {
-        "contestant_names": "Katy Dunne, (2.2) VERSES Anouck Vrancken Peeters, (1.6)",
-        "start_time_aest": "2026-01-28T01:25:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Katy Dunne",
-                "position": "HOME",
-                "short_name": "Dunne"
-            },
-            {
-                "full_name": "Anouck Vrancken Peeters",
-                "position": "AWAY",
-                "short_name": "Peeters"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Katy Dunne",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Anouck Vrancken Peeters",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Dunne v Peeters",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-27T14:25:00.000Z"
-    },
-    {
         "contestant_names": "Ana Konjuh, (1.6) VERSES Alina Granwehr, (2.2)",
         "start_time_aest": "2026-01-28T01:55:00+11:00",
         "sport_name": "Tennis",
@@ -339,5 +215,98 @@
         "match_name": "Segura v Mcleod",
         "betOption": "Head To Head",
         "start_time": "2026-01-27T15:00:00.000Z"
+    },
+    {
+        "contestant_names": "Katy Dunne, (2.2) VERSES Anouck Vrancken Peeters, (1.6)",
+        "start_time_aest": "2026-01-28T02:25:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Katy Dunne",
+                "position": "HOME",
+                "short_name": "Dunne"
+            },
+            {
+                "full_name": "Anouck Vrancken Peeters",
+                "position": "AWAY",
+                "short_name": "Peeters"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Katy Dunne",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Anouck Vrancken Peeters",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Dunne v Peeters",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-27T15:25:00.000Z"
+    },
+    {
+        "contestant_names": "Luca Van Assche, (1.62) VERSES Alexander Shevchenko, (2.15)",
+        "start_time_aest": "2026-01-28T02:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Luca Van Assche",
+                "position": "HOME",
+                "short_name": "Van Assche"
+            },
+            {
+                "full_name": "Alexander Shevchenko",
+                "position": "AWAY",
+                "short_name": "Shevchenko A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Luca Van Assche",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Alexander Shevchenko",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Van Assche v Shevchenko A",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-27T15:30:00.000Z"
+    },
+    {
+        "contestant_names": "Ana Konjuh, (1.62) VERSES Alina Granwehr, (2.15)",
+        "start_time_aest": "2026-01-28T02:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Ana Konjuh",
+                "position": "HOME",
+                "short_name": "Konjuh"
+            },
+            {
+                "full_name": "Alina Granwehr",
+                "position": "AWAY",
+                "short_name": "Granwehr A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ana Konjuh",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Alina Granwehr",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Konjuh v Granwehr A",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-27T15:30:00.000Z"
     }
 ]
