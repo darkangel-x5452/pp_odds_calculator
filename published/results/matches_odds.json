@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Boston Common, (1.8) VERSES The Bay, (1.95)",
-        "start_time_aest": "2026-01-27T11:00:00+11:00",
-        "sport_name": "Golf",
-        "competition_name": "TGL",
-        "contestants": [
-            {
-                "full_name": "Boston Common",
-                "position": "HOME",
-                "short_name": "Boston Common"
-            },
-            {
-                "full_name": "The Bay",
-                "position": "AWAY",
-                "short_name": "The Bay"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Boston Common",
-                "returnWin": 1.8
-            },
-            {
-                "name": "The Bay",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Boston Common v The Bay",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-27T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Townsend/Mektic, (1.6) VERSES Khromacheva/Harrison, (2.2)",
-        "start_time_aest": "2026-01-27T11:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
-        "contestants": [
-            {
-                "full_name": "Townsend/Mektic",
-                "position": "HOME",
-                "short_name": "Townsend/Mektic"
-            },
-            {
-                "full_name": "Khromacheva/Harrison",
-                "position": "AWAY",
-                "short_name": "Khromacheva/Harrison"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Townsend/Mektic",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Khromacheva/Harrison",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Townsend/Mektic v Khromacheva/Harrison",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-27T00:00:00.000Z"
-    },
-    {
         "contestant_names": "Philadelphia, (1.8) VERSES NY Islanders, (2)",
         "start_time_aest": "2026-01-27T11:05:00+11:00",
         "sport_name": "Ice Hockey",
@@ -155,6 +93,130 @@
         "start_time": "2026-01-27T00:05:00.000Z"
     },
     {
+        "contestant_names": "Philadelphia, (1.85) VERSES NY Islanders, (1.95)",
+        "start_time_aest": "2026-01-27T11:09:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Philadelphia",
+                "position": "HOME",
+                "short_name": "Philadelphia"
+            },
+            {
+                "full_name": "NY Islanders",
+                "position": "AWAY",
+                "short_name": "NY Islanders"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Philadelphia",
+                "returnWin": 1.85
+            },
+            {
+                "name": "NY Islanders",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Philadelphia v NY Islanders",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-27T00:09:00.000Z"
+    },
+    {
+        "contestant_names": "NY Rangers, (2) VERSES Boston, (1.8)",
+        "start_time_aest": "2026-01-27T11:09:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "NY Rangers",
+                "position": "HOME",
+                "short_name": "NY Rangers"
+            },
+            {
+                "full_name": "Boston",
+                "position": "AWAY",
+                "short_name": "Boston"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "NY Rangers",
+                "returnWin": 2
+            },
+            {
+                "name": "Boston",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "NY Rangers v Boston",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-27T00:09:00.000Z"
+    },
+    {
+        "contestant_names": "Tampa Bay, (1.62) VERSES Utah, (2.25)",
+        "start_time_aest": "2026-01-27T11:09:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Tampa Bay",
+                "position": "HOME",
+                "short_name": "Tampa Bay"
+            },
+            {
+                "full_name": "Utah",
+                "position": "AWAY",
+                "short_name": "Utah"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tampa Bay",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Utah",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Tampa Bay v Utah",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-27T00:09:00.000Z"
+    },
+    {
+        "contestant_names": "Townsend/Mektic, (1.65) VERSES Khromacheva/Harrison, (2.1)",
+        "start_time_aest": "2026-01-27T11:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open Doubles",
+        "contestants": [
+            {
+                "full_name": "Townsend/Mektic",
+                "position": "HOME",
+                "short_name": "Townsend/Mektic"
+            },
+            {
+                "full_name": "Khromacheva/Harrison",
+                "position": "AWAY",
+                "short_name": "Khromacheva/Harrison"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Townsend/Mektic",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Khromacheva/Harrison",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Townsend/Mektic v Khromacheva/Harrison",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-27T00:15:00.000Z"
+    },
+    {
         "contestant_names": "Pergamino Basket, (1.66) VERSES Club Villa Mitre, (2.05)",
         "start_time_aest": "2026-01-27T11:30:00+11:00",
         "sport_name": "Basketball",
@@ -184,5 +246,98 @@
         "match_name": "Pergamino Basket v Club Villa Mitre",
         "betOption": "Head To Head",
         "start_time": "2026-01-27T00:30:00.000Z"
+    },
+    {
+        "contestant_names": "Fusion Riojana, (2.1) VERSES La Riojo, (1.62)",
+        "start_time_aest": "2026-01-27T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Fusion Riojana",
+                "position": "HOME",
+                "short_name": "Fusion Riojana"
+            },
+            {
+                "full_name": "La Riojo",
+                "position": "AWAY",
+                "short_name": "La Riojo"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Fusion Riojana",
+                "returnWin": 2.1
+            },
+            {
+                "name": "La Riojo",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Fusion Riojana v La Riojo",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-27T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Texas AM-CC, (1.7) VERSES UTRGV, (2.15)",
+        "start_time_aest": "2026-01-27T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Texas AM-CC",
+                "position": "HOME",
+                "short_name": "Texas AM-CC"
+            },
+            {
+                "full_name": "UTRGV",
+                "position": "AWAY",
+                "short_name": "UTRGV"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Texas AM-CC",
+                "returnWin": 1.7
+            },
+            {
+                "name": "UTRGV",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Texas AM-CC v UTRGV",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-27T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Chicago, (2) VERSES LA Lakers, (1.85)",
+        "start_time_aest": "2026-01-27T12:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Chicago",
+                "position": "HOME",
+                "short_name": "Chicago"
+            },
+            {
+                "full_name": "LA Lakers",
+                "position": "AWAY",
+                "short_name": "LA Lakers"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Chicago",
+                "returnWin": 2
+            },
+            {
+                "name": "LA Lakers",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Chicago v LA Lakers",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-27T01:10:00.000Z"
     }
 ]
