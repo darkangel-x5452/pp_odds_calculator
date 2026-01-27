@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Kubler/Polmans, (2.3) VERSES Doumbia/Reboul, (1.55)",
-        "start_time_aest": "2026-01-27T16:45:00+11:00",
+        "start_time_aest": "2026-01-27T17:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Australian Open Doubles",
         "contestants": [
@@ -28,7 +28,7 @@
         ],
         "match_name": "Kubler/Polmans v Doumbia/Reboul",
         "betOption": "Head To Head",
-        "start_time": "2026-01-27T05:45:00.000Z"
+        "start_time": "2026-01-27T06:15:00.000Z"
     },
     {
         "contestant_names": "Florent Bax, (2.2) VERSES Fajing Sun, (1.6)",
@@ -246,5 +246,36 @@
         "match_name": "Cozma v Tsai",
         "betOption": "Head To Head",
         "start_time": "2026-01-27T07:15:00.000Z"
+    },
+    {
+        "contestant_names": "Yang Xiaoyin, (2.2) VERSES Filippo Mazzola, (1.6)",
+        "start_time_aest": "2026-01-27T18:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Yang Xiaoyin",
+                "position": "HOME",
+                "short_name": "Yang X"
+            },
+            {
+                "full_name": "Filippo Mazzola",
+                "position": "AWAY",
+                "short_name": "Mazzola"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Yang Xiaoyin",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Filippo Mazzola",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Yang X v Mazzola",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-27T07:45:00.000Z"
     }
 ]
