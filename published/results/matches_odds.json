@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Chicago, (2) VERSES LA Lakers, (1.85)",
-        "start_time_aest": "2026-01-27T12:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Chicago",
-                "position": "HOME",
-                "short_name": "Chicago"
-            },
-            {
-                "full_name": "LA Lakers",
-                "position": "AWAY",
-                "short_name": "LA Lakers"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Chicago",
-                "returnWin": 2
-            },
-            {
-                "name": "LA Lakers",
-                "returnWin": 1.85
-            }
-        ],
-        "match_name": "Chicago v LA Lakers",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-27T01:10:00.000Z"
-    },
-    {
         "contestant_names": "BYU, (1.95) VERSES Arizona, (1.85)",
         "start_time_aest": "2026-01-27T13:00:00+11:00",
         "sport_name": "Basketball",
@@ -244,6 +213,37 @@
             }
         ],
         "match_name": "Bertrand R v Hsiou Hsu Yu",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-27T05:00:00.000Z"
+    },
+    {
+        "contestant_names": "Ilia Simakin, (2.05) VERSES Federico Cina, (1.68)",
+        "start_time_aest": "2026-01-27T16:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Ilia Simakin",
+                "position": "HOME",
+                "short_name": "Simakin"
+            },
+            {
+                "full_name": "Federico Cina",
+                "position": "AWAY",
+                "short_name": "Cina"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ilia Simakin",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Federico Cina",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Simakin v Cina",
         "betOption": "Head To Head",
         "start_time": "2026-01-27T05:00:00.000Z"
     }
