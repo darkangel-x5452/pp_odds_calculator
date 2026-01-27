@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Aguada, (1.73) VERSES CA Penarol, (1.95)",
-        "start_time_aest": "2026-01-28T10:15:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Uruguay LUB",
-        "contestants": [
-            {
-                "full_name": "Aguada",
-                "position": "HOME",
-                "short_name": "Aguada"
-            },
-            {
-                "full_name": "CA Penarol",
-                "position": "AWAY",
-                "short_name": "CA Penarol"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Aguada",
-                "returnWin": 1.73
-            },
-            {
-                "name": "CA Penarol",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Aguada v CA Penarol",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-27T23:15:00.000Z"
-    },
-    {
-        "contestant_names": "Platense, (2.2) VERSES Quimsa, (1.57)",
-        "start_time_aest": "2026-01-28T10:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga Nacional de Basket",
-        "contestants": [
-            {
-                "full_name": "Platense",
-                "position": "HOME",
-                "short_name": "Platense"
-            },
-            {
-                "full_name": "Quimsa",
-                "position": "AWAY",
-                "short_name": "Quimsa"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Platense",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Quimsa",
-                "returnWin": 1.57
-            }
-        ],
-        "match_name": "Platense v Quimsa",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-27T23:30:00.000Z"
-    },
-    {
-        "contestant_names": "Tasmania (W), (2.1) VERSES Western Australia (W), (1.7)",
-        "start_time_aest": "2026-01-28T10:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Womens National Cricket League",
-        "contestants": [
-            {
-                "full_name": "Tasmania (W)",
-                "position": "HOME",
-                "short_name": "Tasmania (W)"
-            },
-            {
-                "full_name": "Western Australia (W)",
-                "position": "AWAY",
-                "short_name": "W Australia (W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Tasmania (W)",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Western Australia (W)",
-                "returnWin": 1.7
-            }
-        ],
-        "match_name": "Tasmania (W) v W Australia (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-27T23:30:00.000Z"
-    },
-    {
         "contestant_names": "Central Michigan, (2.4) VERSES Eastern Michigan, (1.58)",
         "start_time_aest": "2026-01-28T11:00:00+11:00",
         "sport_name": "Basketball",
@@ -153,5 +60,129 @@
         "match_name": "Oklahoma v Arkansas",
         "betOption": "Head To Head",
         "start_time": "2026-01-28T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Harrison/Skupski, (1.5) VERSES Nouza/Rikl, (2.4)",
+        "start_time_aest": "2026-01-28T11:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open Doubles",
+        "contestants": [
+            {
+                "full_name": "Harrison/Skupski",
+                "position": "HOME",
+                "short_name": "Harrison/Skupski"
+            },
+            {
+                "full_name": "Nouza/Rikl",
+                "position": "AWAY",
+                "short_name": "Nouza/Rikl"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Harrison/Skupski",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Nouza/Rikl",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Harrison/Skupski v Nouza/Rikl",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Murphy Cassone, (2) VERSES Liam Draxl, (1.72)",
+        "start_time_aest": "2026-01-28T11:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Murphy Cassone",
+                "position": "HOME",
+                "short_name": "Cassone"
+            },
+            {
+                "full_name": "Liam Draxl",
+                "position": "AWAY",
+                "short_name": "Draxl"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Murphy Cassone",
+                "returnWin": 2
+            },
+            {
+                "name": "Liam Draxl",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "Cassone v Draxl",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "New Jersey, (1.75) VERSES Winnipeg, (2.05)",
+        "start_time_aest": "2026-01-28T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "New Jersey",
+                "position": "HOME",
+                "short_name": "New Jersey"
+            },
+            {
+                "full_name": "Winnipeg",
+                "position": "AWAY",
+                "short_name": "Winnipeg"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "New Jersey",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Winnipeg",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "New Jersey v Winnipeg",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T00:05:00.000Z"
+    },
+    {
+        "contestant_names": "Detroit, (1.75) VERSES Los Angeles, (2.05)",
+        "start_time_aest": "2026-01-28T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Detroit",
+                "position": "HOME",
+                "short_name": "Detroit"
+            },
+            {
+                "full_name": "Los Angeles",
+                "position": "AWAY",
+                "short_name": "Los Angeles"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Detroit",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Los Angeles",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Detroit v Los Angeles",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T00:05:00.000Z"
     }
 ]
