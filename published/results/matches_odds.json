@@ -1,38 +1,131 @@
 [
     {
-        "contestant_names": "Thalita Ramadhani Wiryawan, (1.65) VERSES Tidapron Kleebyeesun, (2.1)",
-        "start_time_aest": "2026-01-28T20:40:00+11:00",
-        "sport_name": "Badminton",
-        "competition_name": "Badminton World Tour",
+        "contestant_names": "Saga Ballooners, (2.05) VERSES Shimane, (1.66)",
+        "start_time_aest": "2026-01-28T21:05:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Japan B League",
         "contestants": [
             {
-                "full_name": "Thalita Ramadhani Wiryawan",
+                "full_name": "Saga Ballooners",
                 "position": "HOME",
-                "short_name": "Wiryawan"
+                "short_name": "Saga Ballooners"
             },
             {
-                "full_name": "Tidapron Kleebyeesun",
+                "full_name": "Shimane",
                 "position": "AWAY",
-                "short_name": "Kleebyeesun"
+                "short_name": "Shimane"
             }
         ],
         "propositions": [
             {
-                "name": "Thalita Ramadhani Wiryawan",
-                "returnWin": 1.65
+                "name": "Saga Ballooners",
+                "returnWin": 2.05
             },
             {
-                "name": "Tidapron Kleebyeesun",
-                "returnWin": 2.1
+                "name": "Shimane",
+                "returnWin": 1.66
             }
         ],
-        "match_name": "Wiryawan v Kleebyeesun",
+        "match_name": "Saga Ballooners v Shimane",
         "betOption": "Head To Head",
-        "start_time": "2026-01-28T09:40:00.000Z"
+        "start_time": "2026-01-28T10:05:00.000Z"
+    },
+    {
+        "contestant_names": "Levanga Hokkaido, (1.66) VERSES Gunma, (2.05)",
+        "start_time_aest": "2026-01-28T21:05:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Japan B League",
+        "contestants": [
+            {
+                "full_name": "Levanga Hokkaido",
+                "position": "HOME",
+                "short_name": "Levanga Hokkaido"
+            },
+            {
+                "full_name": "Gunma",
+                "position": "AWAY",
+                "short_name": "Gunma"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Levanga Hokkaido",
+                "returnWin": 1.66
+            },
+            {
+                "name": "Gunma",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Levanga Hokkaido v Gunma",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T10:05:00.000Z"
+    },
+    {
+        "contestant_names": "Chiba Jets Funab, (2) VERSES Utsunomiya Brex, (1.7)",
+        "start_time_aest": "2026-01-28T21:05:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Japan B League",
+        "contestants": [
+            {
+                "full_name": "Chiba Jets Funab",
+                "position": "HOME",
+                "short_name": "Chiba Jets Funab"
+            },
+            {
+                "full_name": "Utsunomiya Brex",
+                "position": "AWAY",
+                "short_name": "Utsunomiya Brex"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Chiba Jets Funab",
+                "returnWin": 2
+            },
+            {
+                "name": "Utsunomiya Brex",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "Chiba Jets Funab v Utsunomiya Brex",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T10:05:00.000Z"
+    },
+    {
+        "contestant_names": "Maxim Mrva, (2.3) VERSES Edas Butvilas, (1.55)",
+        "start_time_aest": "2026-01-28T21:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Maxim Mrva",
+                "position": "HOME",
+                "short_name": "Mrva"
+            },
+            {
+                "full_name": "Edas Butvilas",
+                "position": "AWAY",
+                "short_name": "Butvilas E"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Maxim Mrva",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Edas Butvilas",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Mrva v Butvilas E",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T10:15:00.000Z"
     },
     {
         "contestant_names": "Himeno Sakatsume, (2.5) VERSES Alexandra Eala, (1.46)",
-        "start_time_aest": "2026-01-28T20:45:00+11:00",
+        "start_time_aest": "2026-01-28T21:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA 125 Tour",
         "contestants": [
@@ -59,130 +152,6 @@
         ],
         "match_name": "Sakatsume v Eala",
         "betOption": "Head To Head",
-        "start_time": "2026-01-28T09:45:00.000Z"
-    },
-    {
-        "contestant_names": "Aurora Gaming, (1.55) VERSES GamerLegion, (2.3)",
-        "start_time_aest": "2026-01-28T21:00:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "Counter Strike 2",
-        "contestants": [
-            {
-                "full_name": "Aurora Gaming",
-                "position": "HOME",
-                "short_name": "Aurora Gaming"
-            },
-            {
-                "full_name": "GamerLegion",
-                "position": "AWAY",
-                "short_name": "Gamerlegion"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Aurora Gaming",
-                "returnWin": 1.55
-            },
-            {
-                "name": "GamerLegion",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Aurora Gaming v Gamerlegion",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T10:00:00.000Z"
-    },
-    {
-        "contestant_names": "Maxim Mrva, (2.25) VERSES Edas Butvilas, (1.58)",
-        "start_time_aest": "2026-01-28T21:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Maxim Mrva",
-                "position": "HOME",
-                "short_name": "Mrva"
-            },
-            {
-                "full_name": "Edas Butvilas",
-                "position": "AWAY",
-                "short_name": "Butvilas E"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Maxim Mrva",
-                "returnWin": 2.25
-            },
-            {
-                "name": "Edas Butvilas",
-                "returnWin": 1.58
-            }
-        ],
-        "match_name": "Mrva v Butvilas E",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T10:00:00.000Z"
-    },
-    {
-        "contestant_names": "Luke Hooper, (1.6) VERSES Shion Yamada, (2.2)",
-        "start_time_aest": "2026-01-28T21:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Luke Hooper",
-                "position": "HOME",
-                "short_name": "Hooper"
-            },
-            {
-                "full_name": "Shion Yamada",
-                "position": "AWAY",
-                "short_name": "Yamada S"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Luke Hooper",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Shion Yamada",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Hooper v Yamada S",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T10:00:00.000Z"
-    },
-    {
-        "contestant_names": "Federica Urgesi, (2.5) VERSES Elena Malygina, (1.46)",
-        "start_time_aest": "2026-01-28T21:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Federica Urgesi",
-                "position": "HOME",
-                "short_name": "Urgesi"
-            },
-            {
-                "full_name": "Elena Malygina",
-                "position": "AWAY",
-                "short_name": "Malygina E"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Federica Urgesi",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Elena Malygina",
-                "returnWin": 1.46
-            }
-        ],
-        "match_name": "Urgesi v Malygina E",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T10:00:00.000Z"
+        "start_time": "2026-01-28T10:15:00.000Z"
     }
 ]
