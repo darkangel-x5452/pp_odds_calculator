@@ -1,96 +1,34 @@
 [
     {
-        "contestant_names": "Alina Granwehr, (2.1) VERSES Emily Appleton, (1.65)",
-        "start_time_aest": "2026-01-28T23:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
+        "contestant_names": "NRG, (2.4) VERSES B8, (1.5)",
+        "start_time_aest": "2026-01-29T00:05:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
         "contestants": [
             {
-                "full_name": "Alina Granwehr",
+                "full_name": "NRG",
                 "position": "HOME",
-                "short_name": "Granwehr A"
+                "short_name": "Nrg"
             },
             {
-                "full_name": "Emily Appleton",
+                "full_name": "B8",
                 "position": "AWAY",
-                "short_name": "Appleton E"
+                "short_name": "B8"
             }
         ],
         "propositions": [
             {
-                "name": "Alina Granwehr",
-                "returnWin": 2.1
+                "name": "NRG",
+                "returnWin": 2.4
             },
             {
-                "name": "Emily Appleton",
-                "returnWin": 1.65
+                "name": "B8",
+                "returnWin": 1.5
             }
         ],
-        "match_name": "Granwehr A v Appleton E",
+        "match_name": "Nrg v B8",
         "betOption": "Head To Head",
-        "start_time": "2026-01-28T12:45:00.000Z"
-    },
-    {
-        "contestant_names": "Daniil Glinka, (1.95) VERSES Mikhail Kukushkin, (1.75)",
-        "start_time_aest": "2026-01-29T00:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Daniil Glinka",
-                "position": "HOME",
-                "short_name": "Glinka"
-            },
-            {
-                "full_name": "Mikhail Kukushkin",
-                "position": "AWAY",
-                "short_name": "Kukushkin"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Daniil Glinka",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Mikhail Kukushkin",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Glinka v Kukushkin",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T13:00:00.000Z"
-    },
-    {
-        "contestant_names": "Seydina Andre, (2.2) VERSES Marko Miladinovic, (1.6)",
-        "start_time_aest": "2026-01-29T00:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Seydina Andre",
-                "position": "HOME",
-                "short_name": "Andre"
-            },
-            {
-                "full_name": "Marko Miladinovic",
-                "position": "AWAY",
-                "short_name": "Miladinovic"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Seydina Andre",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Marko Miladinovic",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Andre v Miladinovic",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T13:00:00.000Z"
+        "start_time": "2026-01-28T13:05:00.000Z"
     },
     {
         "contestant_names": "Fujairah, (2.4) VERSES Abu Dhabi, (1.55)",
@@ -122,5 +60,191 @@
         "match_name": "Fujairah v Abu Dhabi",
         "betOption": "Head To Head",
         "start_time": "2026-01-28T13:15:00.000Z"
+    },
+    {
+        "contestant_names": "Rasheeda McAdoo, (1.52) VERSES Marie Vogt, (2.35)",
+        "start_time_aest": "2026-01-29T00:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Rasheeda McAdoo",
+                "position": "HOME",
+                "short_name": "McAdoo"
+            },
+            {
+                "full_name": "Marie Vogt",
+                "position": "AWAY",
+                "short_name": "Vogt"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Rasheeda McAdoo",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Marie Vogt",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "McAdoo v Vogt",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T13:15:00.000Z"
+    },
+    {
+        "contestant_names": "Si Jiahui, (1.58) VERSES David Gilbert, (2.3)",
+        "start_time_aest": "2026-01-29T01:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "German Masters",
+        "contestants": [
+            {
+                "full_name": "Si Jiahui",
+                "position": "HOME",
+                "short_name": "Jiahui Si"
+            },
+            {
+                "full_name": "David Gilbert",
+                "position": "AWAY",
+                "short_name": "GilbertD"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Si Jiahui",
+                "returnWin": 1.58
+            },
+            {
+                "name": "David Gilbert",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Jiahui Si v GilbertD",
+        "betOption": "Result",
+        "start_time": "2026-01-28T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Zhou Yuelong, (2.4) VERSES John Higgins, (1.52)",
+        "start_time_aest": "2026-01-29T01:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "German Masters",
+        "contestants": [
+            {
+                "full_name": "Zhou Yuelong",
+                "position": "HOME",
+                "short_name": "Yuelong"
+            },
+            {
+                "full_name": "John Higgins",
+                "position": "AWAY",
+                "short_name": "Higgins J"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Zhou Yuelong",
+                "returnWin": 2.4
+            },
+            {
+                "name": "John Higgins",
+                "returnWin": 1.52
+            }
+        ],
+        "match_name": "Yuelong v Higgins J",
+        "betOption": "Result",
+        "start_time": "2026-01-28T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Matheus Pucinelli De Almeida, (2.1) VERSES Alex Barrena, (1.65)",
+        "start_time_aest": "2026-01-29T01:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Matheus Pucinelli De Almeida",
+                "position": "HOME",
+                "short_name": "Pucinelli"
+            },
+            {
+                "full_name": "Alex Barrena",
+                "position": "AWAY",
+                "short_name": "Barrena A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Matheus Pucinelli De Almeida",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Alex Barrena",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Pucinelli v Barrena A",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Marco Cecchinato, (1.95) VERSES Igor Marcondes, (1.75)",
+        "start_time_aest": "2026-01-29T01:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Marco Cecchinato",
+                "position": "HOME",
+                "short_name": "Cecchinato"
+            },
+            {
+                "full_name": "Igor Marcondes",
+                "position": "AWAY",
+                "short_name": "Marcondes I"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Marco Cecchinato",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Igor Marcondes",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Cecchinato v Marcondes I",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "TFL Altekma, (1.52) VERSES Benfica, (2.35)",
+        "start_time_aest": "2026-01-29T01:00:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "CEV Challenge Cup",
+        "contestants": [
+            {
+                "full_name": "TFL Altekma",
+                "position": "HOME",
+                "short_name": "Tfl Altekma"
+            },
+            {
+                "full_name": "Benfica",
+                "position": "AWAY",
+                "short_name": "Benfica"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "TFL Altekma",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Benfica",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Tfl Altekma v Benfica",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T14:00:00.000Z"
     }
 ]
