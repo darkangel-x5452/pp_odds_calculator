@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Kristina Liutova, (1.95) VERSES Julieta Pareja, (1.75)",
-        "start_time_aest": "2026-01-29T08:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Kristina Liutova",
-                "position": "HOME",
-                "short_name": "Liutova K"
-            },
-            {
-                "full_name": "Julieta Pareja",
-                "position": "AWAY",
-                "short_name": "Pareja"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Kristina Liutova",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Julieta Pareja",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Liutova K v Pareja",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T21:00:00.000Z"
-    },
-    {
-        "contestant_names": "Lina Glushko, (2.3) VERSES Kayla Cross, (1.55)",
-        "start_time_aest": "2026-01-29T08:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Lina Glushko",
-                "position": "HOME",
-                "short_name": "Glushko L"
-            },
-            {
-                "full_name": "Kayla Cross",
-                "position": "AWAY",
-                "short_name": "Cross K"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Lina Glushko",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Kayla Cross",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Glushko L v Cross K",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T21:00:00.000Z"
-    },
-    {
         "contestant_names": "Karl Poling, (2.5) VERSES Garrett Johns, (1.46)",
         "start_time_aest": "2026-01-29T09:00:00+11:00",
         "sport_name": "Tennis",
@@ -91,5 +29,98 @@
         "match_name": "Poling v Johns G",
         "betOption": "Head To Head",
         "start_time": "2026-01-28T22:00:00.000Z"
+    },
+    {
+        "contestant_names": "Madison Brengle, (2.05) VERSES Maria Carle, (1.68)",
+        "start_time_aest": "2026-01-29T09:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Madison Brengle",
+                "position": "HOME",
+                "short_name": "Brengle"
+            },
+            {
+                "full_name": "Maria Carle",
+                "position": "AWAY",
+                "short_name": "Carle"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Madison Brengle",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Maria Carle",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Brengle v Carle",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T22:30:00.000Z"
+    },
+    {
+        "contestant_names": "Army, (2.05) VERSES Lehigh, (1.77)",
+        "start_time_aest": "2026-01-29T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Army",
+                "position": "HOME",
+                "short_name": "Army"
+            },
+            {
+                "full_name": "Lehigh",
+                "position": "AWAY",
+                "short_name": "Lehigh"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Army",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Lehigh",
+                "returnWin": 1.77
+            }
+        ],
+        "match_name": "Army v Lehigh",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "George Wshington, (1.65) VERSES Saint Louis, (2.15)",
+        "start_time_aest": "2026-01-29T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "George Wshington",
+                "position": "HOME",
+                "short_name": "George Wshington"
+            },
+            {
+                "full_name": "Saint Louis",
+                "position": "AWAY",
+                "short_name": "Saint Louis"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "George Wshington",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Saint Louis",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "George Wshington v Saint Louis",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T23:00:00.000Z"
     }
 ]
