@@ -1,250 +1,95 @@
 [
     {
-        "contestant_names": "New Jersey, (1.75) VERSES Winnipeg, (2.05)",
-        "start_time_aest": "2026-01-28T11:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "New Jersey",
-                "position": "HOME",
-                "short_name": "New Jersey"
-            },
-            {
-                "full_name": "Winnipeg",
-                "position": "AWAY",
-                "short_name": "Winnipeg"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "New Jersey",
-                "returnWin": 1.75
-            },
-            {
-                "name": "Winnipeg",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "New Jersey v Winnipeg",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T00:05:00.000Z"
-    },
-    {
-        "contestant_names": "Detroit, (1.75) VERSES Los Angeles, (2.05)",
-        "start_time_aest": "2026-01-28T11:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Detroit",
-                "position": "HOME",
-                "short_name": "Detroit"
-            },
-            {
-                "full_name": "Los Angeles",
-                "position": "AWAY",
-                "short_name": "Los Angeles"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Detroit",
-                "returnWin": 1.75
-            },
-            {
-                "name": "Los Angeles",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Detroit v Los Angeles",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T00:05:00.000Z"
-    },
-    {
-        "contestant_names": "Montreal, (2) VERSES Las Vegas, (1.8)",
-        "start_time_aest": "2026-01-28T11:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Montreal",
-                "position": "HOME",
-                "short_name": "Montreal"
-            },
-            {
-                "full_name": "Las Vegas",
-                "position": "AWAY",
-                "short_name": "Las Vegas"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Montreal",
-                "returnWin": 2
-            },
-            {
-                "name": "Las Vegas",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "Montreal v Las Vegas",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T00:05:00.000Z"
-    },
-    {
-        "contestant_names": "Toronto, (1.85) VERSES Buffalo, (1.95)",
-        "start_time_aest": "2026-01-28T11:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Toronto",
-                "position": "HOME",
-                "short_name": "Toronto"
-            },
-            {
-                "full_name": "Buffalo",
-                "position": "AWAY",
-                "short_name": "Buffalo"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Toronto",
-                "returnWin": 1.85
-            },
-            {
-                "name": "Buffalo",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Toronto v Buffalo",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T00:05:00.000Z"
-    },
-    {
-        "contestant_names": "Florida, (1.6) VERSES Utah, (2.3)",
-        "start_time_aest": "2026-01-28T11:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Florida",
-                "position": "HOME",
-                "short_name": "Florida"
-            },
-            {
-                "full_name": "Utah",
-                "position": "AWAY",
-                "short_name": "Utah"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Florida",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Utah",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Florida v Utah",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T00:05:00.000Z"
-    },
-    {
-        "contestant_names": "New Jersey, (1.75) VERSES Winnipeg, (2.05)",
-        "start_time_aest": "2026-01-28T11:08:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "New Jersey",
-                "position": "HOME",
-                "short_name": "New Jersey"
-            },
-            {
-                "full_name": "Winnipeg",
-                "position": "AWAY",
-                "short_name": "Winnipeg"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "New Jersey",
-                "returnWin": 1.75
-            },
-            {
-                "name": "Winnipeg",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "New Jersey v Winnipeg",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T00:08:00.000Z"
-    },
-    {
-        "contestant_names": "Detroit, (1.8) VERSES Los Angeles, (2)",
-        "start_time_aest": "2026-01-28T11:09:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Detroit",
-                "position": "HOME",
-                "short_name": "Detroit"
-            },
-            {
-                "full_name": "Los Angeles",
-                "position": "AWAY",
-                "short_name": "Los Angeles"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Detroit",
-                "returnWin": 1.8
-            },
-            {
-                "name": "Los Angeles",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Detroit v Los Angeles",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T00:09:00.000Z"
-    },
-    {
-        "contestant_names": "Harrison/Skupski, (1.5) VERSES Nouza/Rikl, (2.4)",
-        "start_time_aest": "2026-01-28T11:15:00+11:00",
+        "contestant_names": "Elena Rybakina, (1.7) VERSES Iga Swiatek, (2.15)",
+        "start_time_aest": "2026-01-28T11:45:00+11:00",
         "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
+        "competition_name": "Australian Open",
         "contestants": [
             {
-                "full_name": "Harrison/Skupski",
+                "full_name": "Elena Rybakina",
                 "position": "HOME",
-                "short_name": "Harrison/Skupski"
+                "short_name": "Rybakina E"
             },
             {
-                "full_name": "Nouza/Rikl",
+                "full_name": "Iga Swiatek",
                 "position": "AWAY",
-                "short_name": "Nouza/Rikl"
+                "short_name": "Swiatek I"
             }
         ],
         "propositions": [
             {
-                "name": "Harrison/Skupski",
-                "returnWin": 1.5
+                "name": "Elena Rybakina",
+                "returnWin": 1.7
             },
             {
-                "name": "Nouza/Rikl",
-                "returnWin": 2.4
+                "name": "Iga Swiatek",
+                "returnWin": 2.15
             }
         ],
-        "match_name": "Harrison/Skupski v Nouza/Rikl",
+        "match_name": "Rybakina E v Swiatek I",
         "betOption": "Head To Head",
-        "start_time": "2026-01-28T00:15:00.000Z"
+        "start_time": "2026-01-28T00:45:00.000Z"
+    },
+    {
+        "contestant_names": "Murphy Cassone, (2) VERSES Liam Draxl, (1.72)",
+        "start_time_aest": "2026-01-28T11:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Murphy Cassone",
+                "position": "HOME",
+                "short_name": "Cassone"
+            },
+            {
+                "full_name": "Liam Draxl",
+                "position": "AWAY",
+                "short_name": "Draxl"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Murphy Cassone",
+                "returnWin": 2
+            },
+            {
+                "name": "Liam Draxl",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "Cassone v Draxl",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T00:45:00.000Z"
+    },
+    {
+        "contestant_names": "St Louis, (2.3) VERSES Dallas, (1.6)",
+        "start_time_aest": "2026-01-28T12:09:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "St Louis",
+                "position": "HOME",
+                "short_name": "St Louis"
+            },
+            {
+                "full_name": "Dallas",
+                "position": "AWAY",
+                "short_name": "Dallas"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "St Louis",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Dallas",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "St Louis v Dallas",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T01:09:00.000Z"
     }
 ]
