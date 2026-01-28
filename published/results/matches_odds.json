@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Cincinnati, (1.53) VERSES Baylor, (2.5)",
-        "start_time_aest": "2026-01-29T10:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Cincinnati",
-                "position": "HOME",
-                "short_name": "Cincinnati"
-            },
-            {
-                "full_name": "Baylor",
-                "position": "AWAY",
-                "short_name": "Baylor"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Cincinnati",
-                "returnWin": 1.53
-            },
-            {
-                "name": "Baylor",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Cincinnati v Baylor",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T23:30:00.000Z"
-    },
-    {
         "contestant_names": "Hindu Cordoba, (1.57) VERSES Santiago Del Est, (2.2)",
         "start_time_aest": "2026-01-29T11:00:00+11:00",
         "sport_name": "Basketball",
@@ -368,6 +337,99 @@
             }
         ],
         "match_name": "Purdue Ft Wayne v Oakland",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "FIU, (1.53) VERSES Jacksonville St, (2.5)",
+        "start_time_aest": "2026-01-29T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "FIU",
+                "position": "HOME",
+                "short_name": "FIU"
+            },
+            {
+                "full_name": "Jacksonville St",
+                "position": "AWAY",
+                "short_name": "Jacksonville St"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "FIU",
+                "returnWin": 1.53
+            },
+            {
+                "name": "Jacksonville St",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "FIU v Jacksonville St",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Georgia, (1.95) VERSES Tennessee, (1.85)",
+        "start_time_aest": "2026-01-29T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Georgia",
+                "position": "HOME",
+                "short_name": "Georgia"
+            },
+            {
+                "full_name": "Tennessee",
+                "position": "AWAY",
+                "short_name": "Tennessee"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Georgia",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Tennessee",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Georgia v Tennessee",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "East Carolina, (1.67) VERSES Rice, (2.2)",
+        "start_time_aest": "2026-01-29T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "East Carolina",
+                "position": "HOME",
+                "short_name": "East Carolina"
+            },
+            {
+                "full_name": "Rice",
+                "position": "AWAY",
+                "short_name": "Rice"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "East Carolina",
+                "returnWin": 1.67
+            },
+            {
+                "name": "Rice",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "East Carolina v Rice",
         "betOption": "Head To Head",
         "start_time": "2026-01-29T00:00:00.000Z"
     }
