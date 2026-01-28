@@ -1,100 +1,69 @@
 [
     {
-        "contestant_names": "Stuart Bingham, (1.52) VERSES Scott Donaldson, (2.4)",
-        "start_time_aest": "2026-01-29T06:00:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "German Masters",
-        "contestants": [
-            {
-                "full_name": "Stuart Bingham",
-                "position": "HOME",
-                "short_name": "Bingham"
-            },
-            {
-                "full_name": "Scott Donaldson",
-                "position": "AWAY",
-                "short_name": "Donaldson"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Stuart Bingham",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Scott Donaldson",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Bingham v Donaldson",
-        "betOption": "Result",
-        "start_time": "2026-01-28T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Reyer Venezia, (1.45) VERSES Cedevita, (2.5)",
-        "start_time_aest": "2026-01-29T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "EuroCup",
-        "contestants": [
-            {
-                "full_name": "Reyer Venezia",
-                "position": "HOME",
-                "short_name": "Reyer Venezia"
-            },
-            {
-                "full_name": "Cedevita",
-                "position": "AWAY",
-                "short_name": "Cedevita"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Reyer Venezia",
-                "returnWin": 1.45
-            },
-            {
-                "name": "Cedevita",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Reyer Venezia v Cedevita",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Nikolas Sanchez Izquierdo, (1.6) VERSES Joao Lucas Silva, (2.2)",
-        "start_time_aest": "2026-01-29T06:00:00+11:00",
+        "contestant_names": "Katie Swan, (1.95) VERSES Kayla Day, (1.75)",
+        "start_time_aest": "2026-01-29T06:30:00+11:00",
         "sport_name": "Tennis",
-        "competition_name": "Challenger",
+        "competition_name": "ITF Womens",
         "contestants": [
             {
-                "full_name": "Nikolas Sanchez Izquierdo",
+                "full_name": "Katie Swan",
                 "position": "HOME",
-                "short_name": "Isquierdo"
+                "short_name": "SwanK"
             },
             {
-                "full_name": "Joao Lucas Silva",
+                "full_name": "Kayla Day",
                 "position": "AWAY",
-                "short_name": "Silva J"
+                "short_name": "Day"
             }
         ],
         "propositions": [
             {
-                "name": "Nikolas Sanchez Izquierdo",
-                "returnWin": 1.6
+                "name": "Katie Swan",
+                "returnWin": 1.95
             },
             {
-                "name": "Joao Lucas Silva",
-                "returnWin": 2.2
+                "name": "Kayla Day",
+                "returnWin": 1.75
             }
         ],
-        "match_name": "Isquierdo v Silva J",
+        "match_name": "SwanK v Day",
         "betOption": "Head To Head",
-        "start_time": "2026-01-28T19:00:00.000Z"
+        "start_time": "2026-01-28T19:30:00.000Z"
+    },
+    {
+        "contestant_names": "Jo-Yee Chan, (2.5) VERSES Ema Burgic Bucko, (1.46)",
+        "start_time_aest": "2026-01-29T06:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Jo-Yee Chan",
+                "position": "HOME",
+                "short_name": "Chan"
+            },
+            {
+                "full_name": "Ema Burgic Bucko",
+                "position": "AWAY",
+                "short_name": "Burgic Bucko"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jo-Yee Chan",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Ema Burgic Bucko",
+                "returnWin": 1.46
+            }
+        ],
+        "match_name": "Chan v Burgic Bucko",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T19:30:00.000Z"
     },
     {
         "contestant_names": "Madison Sieg, (1.72) VERSES Alana Smith, (2)",
-        "start_time_aest": "2026-01-29T06:00:00+11:00",
+        "start_time_aest": "2026-01-29T06:35:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ITF Womens",
         "contestants": [
@@ -121,37 +90,6 @@
         ],
         "match_name": "Sieg v SmitA",
         "betOption": "Head To Head",
-        "start_time": "2026-01-28T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Levallois (W), (1.95) VERSES Schweriner SC (W), (1.75)",
-        "start_time_aest": "2026-01-29T06:00:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Champions League Women",
-        "contestants": [
-            {
-                "full_name": "Levallois (W)",
-                "position": "HOME",
-                "short_name": "Levallois (W)"
-            },
-            {
-                "full_name": "Schweriner SC (W)",
-                "position": "AWAY",
-                "short_name": "Schweriner (W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Levallois (W)",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Schweriner SC (W)",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Levallois (W) v Schweriner (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T19:00:00.000Z"
+        "start_time": "2026-01-28T19:35:00.000Z"
     }
 ]
