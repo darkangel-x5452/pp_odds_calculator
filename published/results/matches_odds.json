@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Astralis, (2) VERSES paiN, (1.7)",
-        "start_time_aest": "2026-01-28T23:30:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "Counter Strike 2",
-        "contestants": [
-            {
-                "full_name": "Astralis",
-                "position": "HOME",
-                "short_name": "Astralis"
-            },
-            {
-                "full_name": "paiN",
-                "position": "AWAY",
-                "short_name": "Pain"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Astralis",
-                "returnWin": 2
-            },
-            {
-                "name": "paiN",
-                "returnWin": 1.7
-            }
-        ],
-        "match_name": "Astralis v Pain",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T12:30:00.000Z"
-    },
-    {
         "contestant_names": "Alina Granwehr, (2.1) VERSES Emily Appleton, (1.65)",
         "start_time_aest": "2026-01-28T23:45:00+11:00",
         "sport_name": "Tennis",
@@ -122,5 +91,36 @@
         "match_name": "Andre v Miladinovic",
         "betOption": "Head To Head",
         "start_time": "2026-01-28T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Fujairah, (2.4) VERSES Abu Dhabi, (1.55)",
+        "start_time_aest": "2026-01-29T00:15:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Emirates D10",
+        "contestants": [
+            {
+                "full_name": "Fujairah",
+                "position": "HOME",
+                "short_name": "Fujairah"
+            },
+            {
+                "full_name": "Abu Dhabi",
+                "position": "AWAY",
+                "short_name": "Abu Dhabi"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Fujairah",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Abu Dhabi",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Fujairah v Abu Dhabi",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T13:15:00.000Z"
     }
 ]
