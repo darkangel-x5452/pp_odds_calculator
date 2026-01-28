@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Elena Rybakina, (1.7) VERSES Iga Swiatek, (2.15)",
-        "start_time_aest": "2026-01-28T11:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open",
-        "contestants": [
-            {
-                "full_name": "Elena Rybakina",
-                "position": "HOME",
-                "short_name": "Rybakina E"
-            },
-            {
-                "full_name": "Iga Swiatek",
-                "position": "AWAY",
-                "short_name": "Swiatek I"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Elena Rybakina",
-                "returnWin": 1.7
-            },
-            {
-                "name": "Iga Swiatek",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Rybakina E v Swiatek I",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T00:45:00.000Z"
-    },
-    {
-        "contestant_names": "Murphy Cassone, (2) VERSES Liam Draxl, (1.72)",
-        "start_time_aest": "2026-01-28T11:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Murphy Cassone",
-                "position": "HOME",
-                "short_name": "Cassone"
-            },
-            {
-                "full_name": "Liam Draxl",
-                "position": "AWAY",
-                "short_name": "Draxl"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Murphy Cassone",
-                "returnWin": 2
-            },
-            {
-                "name": "Liam Draxl",
-                "returnWin": 1.72
-            }
-        ],
-        "match_name": "Cassone v Draxl",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T00:45:00.000Z"
-    },
-    {
         "contestant_names": "St Louis, (2.3) VERSES Dallas, (1.6)",
         "start_time_aest": "2026-01-28T12:09:00+11:00",
         "sport_name": "Ice Hockey",
@@ -91,5 +29,67 @@
         "match_name": "St Louis v Dallas",
         "betOption": "Head To Head",
         "start_time": "2026-01-28T01:09:00.000Z"
+    },
+    {
+        "contestant_names": "Loyola (IL), (2.15) VERSES St Josephs, (1.7)",
+        "start_time_aest": "2026-01-28T13:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Loyola (IL)",
+                "position": "HOME",
+                "short_name": "Loyola (IL)"
+            },
+            {
+                "full_name": "St Josephs",
+                "position": "AWAY",
+                "short_name": "St Josephs"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Loyola (IL)",
+                "returnWin": 2.15
+            },
+            {
+                "name": "St Josephs",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "Loyola (IL) v St Josephs",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T02:00:00.000Z"
+    },
+    {
+        "contestant_names": "Jessica Pegula, (2.1) VERSES Amanda Anisimova, (1.75)",
+        "start_time_aest": "2026-01-28T13:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Jessica Pegula",
+                "position": "HOME",
+                "short_name": "Pegula"
+            },
+            {
+                "full_name": "Amanda Anisimova",
+                "position": "AWAY",
+                "short_name": "Anisimova"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jessica Pegula",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Amanda Anisimova",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Pegula v Anisimova",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T02:30:00.000Z"
     }
 ]
