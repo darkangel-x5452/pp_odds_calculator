@@ -1,64 +1,95 @@
 [
     {
-        "contestant_names": "Madison Sieg, (1.72) VERSES Alana Smith, (2)",
-        "start_time_aest": "2026-01-29T06:35:00+11:00",
+        "contestant_names": "Kristina Liutova, (1.95) VERSES Julieta Pareja, (1.75)",
+        "start_time_aest": "2026-01-29T08:00:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ITF Womens",
         "contestants": [
             {
-                "full_name": "Madison Sieg",
+                "full_name": "Kristina Liutova",
                 "position": "HOME",
-                "short_name": "Sieg"
+                "short_name": "Liutova K"
             },
             {
-                "full_name": "Alana Smith",
+                "full_name": "Julieta Pareja",
                 "position": "AWAY",
-                "short_name": "SmitA"
+                "short_name": "Pareja"
             }
         ],
         "propositions": [
             {
-                "name": "Madison Sieg",
-                "returnWin": 1.72
+                "name": "Kristina Liutova",
+                "returnWin": 1.95
             },
             {
-                "name": "Alana Smith",
-                "returnWin": 2
+                "name": "Julieta Pareja",
+                "returnWin": 1.75
             }
         ],
-        "match_name": "Sieg v SmitA",
+        "match_name": "Liutova K v Pareja",
         "betOption": "Head To Head",
-        "start_time": "2026-01-28T19:35:00.000Z"
+        "start_time": "2026-01-28T21:00:00.000Z"
     },
     {
-        "contestant_names": "Ricoh Manresa, (1.48) VERSES U-bt Cluj-napoca, (2.4)",
-        "start_time_aest": "2026-01-29T06:45:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "EuroCup",
+        "contestant_names": "Lina Glushko, (2.3) VERSES Kayla Cross, (1.55)",
+        "start_time_aest": "2026-01-29T08:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
         "contestants": [
             {
-                "full_name": "Ricoh Manresa",
+                "full_name": "Lina Glushko",
                 "position": "HOME",
-                "short_name": "Ricoh Manresa"
+                "short_name": "Glushko L"
             },
             {
-                "full_name": "U-bt Cluj-napoca",
+                "full_name": "Kayla Cross",
                 "position": "AWAY",
-                "short_name": "U-bt Cluj-napoca"
+                "short_name": "Cross K"
             }
         ],
         "propositions": [
             {
-                "name": "Ricoh Manresa",
-                "returnWin": 1.48
+                "name": "Lina Glushko",
+                "returnWin": 2.3
             },
             {
-                "name": "U-bt Cluj-napoca",
-                "returnWin": 2.4
+                "name": "Kayla Cross",
+                "returnWin": 1.55
             }
         ],
-        "match_name": "Ricoh Manresa v U-bt Cluj-napoca",
+        "match_name": "Glushko L v Cross K",
         "betOption": "Head To Head",
-        "start_time": "2026-01-28T19:45:00.000Z"
+        "start_time": "2026-01-28T21:00:00.000Z"
+    },
+    {
+        "contestant_names": "Karl Poling, (2.5) VERSES Garrett Johns, (1.46)",
+        "start_time_aest": "2026-01-29T09:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Karl Poling",
+                "position": "HOME",
+                "short_name": "Poling"
+            },
+            {
+                "full_name": "Garrett Johns",
+                "position": "AWAY",
+                "short_name": "Johns G"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Karl Poling",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Garrett Johns",
+                "returnWin": 1.46
+            }
+        ],
+        "match_name": "Poling v Johns G",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T22:00:00.000Z"
     }
 ]
