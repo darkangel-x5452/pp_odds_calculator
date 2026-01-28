@@ -153,5 +153,36 @@
         "match_name": "Gadecki/Peers v Townsend/Mektic",
         "betOption": "Head To Head",
         "start_time": "2026-01-28T06:00:00.000Z"
+    },
+    {
+        "contestant_names": "Sin Yan Happy Lo, (1.6) VERSES Anmol Kharb, (2.2)",
+        "start_time_aest": "2026-01-28T17:30:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour",
+        "contestants": [
+            {
+                "full_name": "Sin Yan Happy Lo",
+                "position": "HOME",
+                "short_name": "HappyLo"
+            },
+            {
+                "full_name": "Anmol Kharb",
+                "position": "AWAY",
+                "short_name": "Kharb"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sin Yan Happy Lo",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Anmol Kharb",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "HappyLo v Kharb",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T06:30:00.000Z"
     }
 ]
