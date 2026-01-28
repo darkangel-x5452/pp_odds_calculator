@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Mananchaya Sawangkaew, (2.05) VERSES Lin Zhu, (1.68)",
-        "start_time_aest": "2026-01-28T16:45:00+11:00",
+        "start_time_aest": "2026-01-28T17:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA 125 Tour",
         "contestants": [
@@ -28,38 +28,7 @@
         ],
         "match_name": "Sawangkaew v Zhu L",
         "betOption": "Head To Head",
-        "start_time": "2026-01-28T05:45:00.000Z"
-    },
-    {
-        "contestant_names": "Gadecki/Peers, (2) VERSES Townsend/Mektic, (1.72)",
-        "start_time_aest": "2026-01-28T17:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
-        "contestants": [
-            {
-                "full_name": "Gadecki/Peers",
-                "position": "HOME",
-                "short_name": "Gadecki/Peers"
-            },
-            {
-                "full_name": "Townsend/Mektic",
-                "position": "AWAY",
-                "short_name": "Townsend/Mektic"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Gadecki/Peers",
-                "returnWin": 2
-            },
-            {
-                "name": "Townsend/Mektic",
-                "returnWin": 1.72
-            }
-        ],
-        "match_name": "Gadecki/Peers v Townsend/Mektic",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T06:00:00.000Z"
+        "start_time": "2026-01-28T06:15:00.000Z"
     },
     {
         "contestant_names": "Sin Yan Happy Lo, (1.6) VERSES Anmol Kharb, (2.2)",
@@ -246,5 +215,67 @@
         "match_name": "Starodubtseva v Sierra",
         "betOption": "Head To Head",
         "start_time": "2026-01-28T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Dinko Dinev, (1.46) VERSES Kerem Yilmaz, (2.5)",
+        "start_time_aest": "2026-01-28T18:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Dinko Dinev",
+                "position": "HOME",
+                "short_name": "Dinev D"
+            },
+            {
+                "full_name": "Kerem Yilmaz",
+                "position": "AWAY",
+                "short_name": "Yilmaz K"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Dinko Dinev",
+                "returnWin": 1.46
+            },
+            {
+                "name": "Kerem Yilmaz",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Dinev D v Yilmaz K",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Kiran George, (1.65) VERSES Sholeh Aidil, (2.1)",
+        "start_time_aest": "2026-01-28T18:15:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour",
+        "contestants": [
+            {
+                "full_name": "Kiran George",
+                "position": "HOME",
+                "short_name": "George"
+            },
+            {
+                "full_name": "Sholeh Aidil",
+                "position": "AWAY",
+                "short_name": "S Aidil"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Kiran George",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Sholeh Aidil",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "George v S Aidil",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T07:15:00.000Z"
     }
 ]
