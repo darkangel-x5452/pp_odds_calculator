@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Katie Swan, (1.95) VERSES Kayla Day, (1.75)",
-        "start_time_aest": "2026-01-29T06:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Katie Swan",
-                "position": "HOME",
-                "short_name": "SwanK"
-            },
-            {
-                "full_name": "Kayla Day",
-                "position": "AWAY",
-                "short_name": "Day"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Katie Swan",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Kayla Day",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "SwanK v Day",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T19:30:00.000Z"
-    },
-    {
-        "contestant_names": "Jo-Yee Chan, (2.5) VERSES Ema Burgic Bucko, (1.46)",
-        "start_time_aest": "2026-01-29T06:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Jo-Yee Chan",
-                "position": "HOME",
-                "short_name": "Chan"
-            },
-            {
-                "full_name": "Ema Burgic Bucko",
-                "position": "AWAY",
-                "short_name": "Burgic Bucko"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jo-Yee Chan",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Ema Burgic Bucko",
-                "returnWin": 1.46
-            }
-        ],
-        "match_name": "Chan v Burgic Bucko",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T19:30:00.000Z"
-    },
-    {
         "contestant_names": "Madison Sieg, (1.72) VERSES Alana Smith, (2)",
         "start_time_aest": "2026-01-29T06:35:00+11:00",
         "sport_name": "Tennis",
@@ -91,5 +29,36 @@
         "match_name": "Sieg v SmitA",
         "betOption": "Head To Head",
         "start_time": "2026-01-28T19:35:00.000Z"
+    },
+    {
+        "contestant_names": "Ricoh Manresa, (1.48) VERSES U-bt Cluj-napoca, (2.4)",
+        "start_time_aest": "2026-01-29T06:45:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "EuroCup",
+        "contestants": [
+            {
+                "full_name": "Ricoh Manresa",
+                "position": "HOME",
+                "short_name": "Ricoh Manresa"
+            },
+            {
+                "full_name": "U-bt Cluj-napoca",
+                "position": "AWAY",
+                "short_name": "U-bt Cluj-napoca"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ricoh Manresa",
+                "returnWin": 1.48
+            },
+            {
+                "name": "U-bt Cluj-napoca",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Ricoh Manresa v U-bt Cluj-napoca",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T19:45:00.000Z"
     }
 ]
