@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "NRG, (2.4) VERSES B8, (1.5)",
-        "start_time_aest": "2026-01-29T00:05:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "Counter Strike 2",
-        "contestants": [
-            {
-                "full_name": "NRG",
-                "position": "HOME",
-                "short_name": "Nrg"
-            },
-            {
-                "full_name": "B8",
-                "position": "AWAY",
-                "short_name": "B8"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "NRG",
-                "returnWin": 2.4
-            },
-            {
-                "name": "B8",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Nrg v B8",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T13:05:00.000Z"
-    },
-    {
-        "contestant_names": "Fujairah, (2.4) VERSES Abu Dhabi, (1.55)",
-        "start_time_aest": "2026-01-29T00:15:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Emirates D10",
-        "contestants": [
-            {
-                "full_name": "Fujairah",
-                "position": "HOME",
-                "short_name": "Fujairah"
-            },
-            {
-                "full_name": "Abu Dhabi",
-                "position": "AWAY",
-                "short_name": "Abu Dhabi"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Fujairah",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Abu Dhabi",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Fujairah v Abu Dhabi",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T13:15:00.000Z"
-    },
-    {
-        "contestant_names": "Rasheeda McAdoo, (1.52) VERSES Marie Vogt, (2.35)",
-        "start_time_aest": "2026-01-29T00:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Rasheeda McAdoo",
-                "position": "HOME",
-                "short_name": "McAdoo"
-            },
-            {
-                "full_name": "Marie Vogt",
-                "position": "AWAY",
-                "short_name": "Vogt"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Rasheeda McAdoo",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Marie Vogt",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "McAdoo v Vogt",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T13:15:00.000Z"
-    },
-    {
         "contestant_names": "Si Jiahui, (1.58) VERSES David Gilbert, (2.3)",
         "start_time_aest": "2026-01-29T01:00:00+11:00",
         "sport_name": "Snooker",
@@ -246,5 +153,36 @@
         "match_name": "Tfl Altekma v Benfica",
         "betOption": "Head To Head",
         "start_time": "2026-01-28T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "FUT Esports, (1.65) VERSES 3DMAX, (2.1)",
+        "start_time_aest": "2026-01-29T02:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "contestants": [
+            {
+                "full_name": "FUT Esports",
+                "position": "HOME",
+                "short_name": "FUT Esports"
+            },
+            {
+                "full_name": "3DMAX",
+                "position": "AWAY",
+                "short_name": "3dmax"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "FUT Esports",
+                "returnWin": 1.65
+            },
+            {
+                "name": "3DMAX",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "FUT Esports v 3dmax",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T15:00:00.000Z"
     }
 ]
