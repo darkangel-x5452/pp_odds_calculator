@@ -1,38 +1,7 @@
 [
     {
-        "contestant_names": "Barry Hawkins, (1.65) VERSES Anda Zhang, (2.15)",
-        "start_time_aest": "2026-01-28T20:00:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "German Masters",
-        "contestants": [
-            {
-                "full_name": "Barry Hawkins",
-                "position": "HOME",
-                "short_name": "Hawkins"
-            },
-            {
-                "full_name": "Anda Zhang",
-                "position": "AWAY",
-                "short_name": "ZhangA"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Barry Hawkins",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Anda Zhang",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Hawkins v ZhangA",
-        "betOption": "Result",
-        "start_time": "2026-01-28T09:00:00.000Z"
-    },
-    {
         "contestant_names": "Himeno Sakatsume, (2.5) VERSES Alexandra Eala, (1.46)",
-        "start_time_aest": "2026-01-28T20:00:00+11:00",
+        "start_time_aest": "2026-01-28T20:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA 125 Tour",
         "contestants": [
@@ -59,6 +28,161 @@
         ],
         "match_name": "Sakatsume v Eala",
         "betOption": "Head To Head",
-        "start_time": "2026-01-28T09:00:00.000Z"
+        "start_time": "2026-01-28T09:15:00.000Z"
+    },
+    {
+        "contestant_names": "Lucas Gerch, (2.5) VERSES Carl Emil Overbeck, (1.46)",
+        "start_time_aest": "2026-01-28T20:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Lucas Gerch",
+                "position": "HOME",
+                "short_name": "Gerch"
+            },
+            {
+                "full_name": "Carl Emil Overbeck",
+                "position": "AWAY",
+                "short_name": "Overbeck"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lucas Gerch",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Carl Emil Overbeck",
+                "returnWin": 1.46
+            }
+        ],
+        "match_name": "Gerch v Overbeck",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T09:30:00.000Z"
+    },
+    {
+        "contestant_names": "Niklas Schell, (2.4) VERSES Denis Petak, (1.5)",
+        "start_time_aest": "2026-01-28T20:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Niklas Schell",
+                "position": "HOME",
+                "short_name": "Schell"
+            },
+            {
+                "full_name": "Denis Petak",
+                "position": "AWAY",
+                "short_name": "Petak D"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Niklas Schell",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Denis Petak",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Schell v Petak D",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T09:30:00.000Z"
+    },
+    {
+        "contestant_names": "Lisa Claeys, (2.4) VERSES Mavie Osterreicher, (1.5)",
+        "start_time_aest": "2026-01-28T20:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Lisa Claeys",
+                "position": "HOME",
+                "short_name": "Claeys"
+            },
+            {
+                "full_name": "Mavie Osterreicher",
+                "position": "AWAY",
+                "short_name": "Osterreicher"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lisa Claeys",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Mavie Osterreicher",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Claeys v Osterreicher",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T09:30:00.000Z"
+    },
+    {
+        "contestant_names": "Thalita Ramadhani Wiryawan, (1.65) VERSES Tidapron Kleebyeesun, (2.1)",
+        "start_time_aest": "2026-01-28T20:40:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour",
+        "contestants": [
+            {
+                "full_name": "Thalita Ramadhani Wiryawan",
+                "position": "HOME",
+                "short_name": "Wiryawan"
+            },
+            {
+                "full_name": "Tidapron Kleebyeesun",
+                "position": "AWAY",
+                "short_name": "Kleebyeesun"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Thalita Ramadhani Wiryawan",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Tidapron Kleebyeesun",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Wiryawan v Kleebyeesun",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T09:40:00.000Z"
+    },
+    {
+        "contestant_names": "Aurora Gaming, (1.55) VERSES GamerLegion, (2.3)",
+        "start_time_aest": "2026-01-28T21:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "contestants": [
+            {
+                "full_name": "Aurora Gaming",
+                "position": "HOME",
+                "short_name": "Aurora Gaming"
+            },
+            {
+                "full_name": "GamerLegion",
+                "position": "AWAY",
+                "short_name": "Gamerlegion"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Aurora Gaming",
+                "returnWin": 1.55
+            },
+            {
+                "name": "GamerLegion",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Aurora Gaming v Gamerlegion",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T10:00:00.000Z"
     }
 ]
