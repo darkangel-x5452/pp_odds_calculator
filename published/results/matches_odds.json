@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Karl Poling, (2.5) VERSES Garrett Johns, (1.46)",
-        "start_time_aest": "2026-01-29T09:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Karl Poling",
-                "position": "HOME",
-                "short_name": "Poling"
-            },
-            {
-                "full_name": "Garrett Johns",
-                "position": "AWAY",
-                "short_name": "Johns G"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Karl Poling",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Garrett Johns",
-                "returnWin": 1.46
-            }
-        ],
-        "match_name": "Poling v Johns G",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T22:00:00.000Z"
-    },
-    {
         "contestant_names": "Madison Brengle, (2.05) VERSES Maria Carle, (1.68)",
         "start_time_aest": "2026-01-29T09:30:00+11:00",
         "sport_name": "Tennis",
@@ -60,6 +29,68 @@
         "match_name": "Brengle v Carle",
         "betOption": "Head To Head",
         "start_time": "2026-01-28T22:30:00.000Z"
+    },
+    {
+        "contestant_names": "Karl Poling, (2.5) VERSES Garrett Johns, (1.46)",
+        "start_time_aest": "2026-01-29T09:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Karl Poling",
+                "position": "HOME",
+                "short_name": "Poling"
+            },
+            {
+                "full_name": "Garrett Johns",
+                "position": "AWAY",
+                "short_name": "Johns G"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Karl Poling",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Garrett Johns",
+                "returnWin": 1.46
+            }
+        ],
+        "match_name": "Poling v Johns G",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T22:30:00.000Z"
+    },
+    {
+        "contestant_names": "Madison Brengle, (2.05) VERSES Maria Carle, (1.68)",
+        "start_time_aest": "2026-01-29T09:40:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Madison Brengle",
+                "position": "HOME",
+                "short_name": "Brengle"
+            },
+            {
+                "full_name": "Maria Carle",
+                "position": "AWAY",
+                "short_name": "Carle"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Madison Brengle",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Maria Carle",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Brengle v Carle",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T22:40:00.000Z"
     },
     {
         "contestant_names": "Army, (2.05) VERSES Lehigh, (1.77)",
