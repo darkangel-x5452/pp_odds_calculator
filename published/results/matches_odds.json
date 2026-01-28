@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Loyola (IL), (2.15) VERSES St Josephs, (1.7)",
-        "start_time_aest": "2026-01-28T13:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Loyola (IL)",
-                "position": "HOME",
-                "short_name": "Loyola (IL)"
-            },
-            {
-                "full_name": "St Josephs",
-                "position": "AWAY",
-                "short_name": "St Josephs"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Loyola (IL)",
-                "returnWin": 2.15
-            },
-            {
-                "name": "St Josephs",
-                "returnWin": 1.7
-            }
-        ],
-        "match_name": "Loyola (IL) v St Josephs",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T02:00:00.000Z"
-    },
-    {
         "contestant_names": "Jessica Pegula, (2.1) VERSES Amanda Anisimova, (1.75)",
         "start_time_aest": "2026-01-28T13:30:00+11:00",
         "sport_name": "Tennis",
@@ -91,5 +60,129 @@
         "match_name": "Marquette v Creighton",
         "betOption": "Head To Head",
         "start_time": "2026-01-28T02:30:00.000Z"
+    },
+    {
+        "contestant_names": "Maximus Jones, (2.2) VERSES Pol Martin Tiffon, (1.6)",
+        "start_time_aest": "2026-01-28T14:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Maximus Jones",
+                "position": "HOME",
+                "short_name": "Jones"
+            },
+            {
+                "full_name": "Pol Martin Tiffon",
+                "position": "AWAY",
+                "short_name": "Martin Tiffon"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Maximus Jones",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Pol Martin Tiffon",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Jones v Martin Tiffon",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Gilles Bailly, (1.55) VERSES Stefanos Sakellaridis, (2.3)",
+        "start_time_aest": "2026-01-28T14:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Gilles Bailly",
+                "position": "HOME",
+                "short_name": "Bailly G"
+            },
+            {
+                "full_name": "Stefanos Sakellaridis",
+                "position": "AWAY",
+                "short_name": "Sakellaridis S"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Gilles Bailly",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Stefanos Sakellaridis",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Bailly G v Sakellaridis S",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Lanlana Tararudee, (1.6) VERSES Polina Kudermetova, (2.2)",
+        "start_time_aest": "2026-01-28T14:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Tour",
+        "contestants": [
+            {
+                "full_name": "Lanlana Tararudee",
+                "position": "HOME",
+                "short_name": "Tararudee"
+            },
+            {
+                "full_name": "Polina Kudermetova",
+                "position": "AWAY",
+                "short_name": "Kudermetova P"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lanlana Tararudee",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Polina Kudermetova",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Tararudee v Kudermetova P",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Vancouver, (2.05) VERSES San Jose, (1.75)",
+        "start_time_aest": "2026-01-28T14:09:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Vancouver",
+                "position": "HOME",
+                "short_name": "Vancouver"
+            },
+            {
+                "full_name": "San Jose",
+                "position": "AWAY",
+                "short_name": "San Jose"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Vancouver",
+                "returnWin": 2.05
+            },
+            {
+                "name": "San Jose",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Vancouver v San Jose",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T03:09:00.000Z"
     }
 ]
