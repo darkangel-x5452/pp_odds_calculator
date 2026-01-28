@@ -1,69 +1,7 @@
 [
     {
-        "contestant_names": "Si Jiahui, (1.58) VERSES David Gilbert, (2.3)",
-        "start_time_aest": "2026-01-29T01:00:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "German Masters",
-        "contestants": [
-            {
-                "full_name": "Si Jiahui",
-                "position": "HOME",
-                "short_name": "Jiahui Si"
-            },
-            {
-                "full_name": "David Gilbert",
-                "position": "AWAY",
-                "short_name": "GilbertD"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Si Jiahui",
-                "returnWin": 1.58
-            },
-            {
-                "name": "David Gilbert",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Jiahui Si v GilbertD",
-        "betOption": "Result",
-        "start_time": "2026-01-28T14:00:00.000Z"
-    },
-    {
-        "contestant_names": "Zhou Yuelong, (2.4) VERSES John Higgins, (1.52)",
-        "start_time_aest": "2026-01-29T01:00:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "German Masters",
-        "contestants": [
-            {
-                "full_name": "Zhou Yuelong",
-                "position": "HOME",
-                "short_name": "Yuelong"
-            },
-            {
-                "full_name": "John Higgins",
-                "position": "AWAY",
-                "short_name": "Higgins J"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Zhou Yuelong",
-                "returnWin": 2.4
-            },
-            {
-                "name": "John Higgins",
-                "returnWin": 1.52
-            }
-        ],
-        "match_name": "Yuelong v Higgins J",
-        "betOption": "Result",
-        "start_time": "2026-01-28T14:00:00.000Z"
-    },
-    {
         "contestant_names": "Matheus Pucinelli De Almeida, (2.1) VERSES Alex Barrena, (1.65)",
-        "start_time_aest": "2026-01-29T01:00:00+11:00",
+        "start_time_aest": "2026-01-29T01:30:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -90,11 +28,11 @@
         ],
         "match_name": "Pucinelli v Barrena A",
         "betOption": "Head To Head",
-        "start_time": "2026-01-28T14:00:00.000Z"
+        "start_time": "2026-01-28T14:30:00.000Z"
     },
     {
-        "contestant_names": "Marco Cecchinato, (1.95) VERSES Igor Marcondes, (1.75)",
-        "start_time_aest": "2026-01-29T01:00:00+11:00",
+        "contestant_names": "Marco Cecchinato, (2) VERSES Igor Marcondes, (1.72)",
+        "start_time_aest": "2026-01-29T01:30:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -112,47 +50,16 @@
         "propositions": [
             {
                 "name": "Marco Cecchinato",
-                "returnWin": 1.95
+                "returnWin": 2
             },
             {
                 "name": "Igor Marcondes",
-                "returnWin": 1.75
+                "returnWin": 1.72
             }
         ],
         "match_name": "Cecchinato v Marcondes I",
         "betOption": "Head To Head",
-        "start_time": "2026-01-28T14:00:00.000Z"
-    },
-    {
-        "contestant_names": "TFL Altekma, (1.52) VERSES Benfica, (2.35)",
-        "start_time_aest": "2026-01-29T01:00:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "CEV Challenge Cup",
-        "contestants": [
-            {
-                "full_name": "TFL Altekma",
-                "position": "HOME",
-                "short_name": "Tfl Altekma"
-            },
-            {
-                "full_name": "Benfica",
-                "position": "AWAY",
-                "short_name": "Benfica"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "TFL Altekma",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Benfica",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Tfl Altekma v Benfica",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T14:00:00.000Z"
+        "start_time": "2026-01-28T14:30:00.000Z"
     },
     {
         "contestant_names": "FUT Esports, (1.65) VERSES 3DMAX, (2.1)",
@@ -182,6 +89,99 @@
             }
         ],
         "match_name": "FUT Esports v 3dmax",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T15:00:00.000Z"
+    },
+    {
+        "contestant_names": "Sascha Gueymard Wayenburg, (1.52) VERSES Laurent Lokoli, (2.35)",
+        "start_time_aest": "2026-01-29T02:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Sascha Gueymard Wayenburg",
+                "position": "HOME",
+                "short_name": "Gueymard"
+            },
+            {
+                "full_name": "Laurent Lokoli",
+                "position": "AWAY",
+                "short_name": "Lokoli"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sascha Gueymard Wayenburg",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Laurent Lokoli",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Gueymard v Lokoli",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T15:00:00.000Z"
+    },
+    {
+        "contestant_names": "Ignacio Monzon, (1.6) VERSES Matthew Segura, (2.2)",
+        "start_time_aest": "2026-01-29T02:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Ignacio Monzon",
+                "position": "HOME",
+                "short_name": "Monzon I"
+            },
+            {
+                "full_name": "Matthew Segura",
+                "position": "AWAY",
+                "short_name": "Segura"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ignacio Monzon",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Matthew Segura",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Monzon I v Segura",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T15:00:00.000Z"
+    },
+    {
+        "contestant_names": "Dragos Nicolae Cazacu, (2.5) VERSES Darian King, (1.46)",
+        "start_time_aest": "2026-01-29T02:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Dragos Nicolae Cazacu",
+                "position": "HOME",
+                "short_name": "Cazacu"
+            },
+            {
+                "full_name": "Darian King",
+                "position": "AWAY",
+                "short_name": "King D"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Dragos Nicolae Cazacu",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Darian King",
+                "returnWin": 1.46
+            }
+        ],
+        "match_name": "Cazacu v King D",
         "betOption": "Head To Head",
         "start_time": "2026-01-28T15:00:00.000Z"
     }
