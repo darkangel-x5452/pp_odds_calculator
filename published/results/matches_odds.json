@@ -1,250 +1,64 @@
 [
     {
-        "contestant_names": "Mladenovic/Guinard, (2.2) VERSES Stefani/Arevalo, (1.6)",
-        "start_time_aest": "2026-01-28T19:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
+        "contestant_names": "Barry Hawkins, (1.65) VERSES Anda Zhang, (2.15)",
+        "start_time_aest": "2026-01-28T20:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "German Masters",
         "contestants": [
             {
-                "full_name": "Mladenovic/Guinard",
+                "full_name": "Barry Hawkins",
                 "position": "HOME",
-                "short_name": "Mladenovic/Guinard"
+                "short_name": "Hawkins"
             },
             {
-                "full_name": "Stefani/Arevalo",
+                "full_name": "Anda Zhang",
                 "position": "AWAY",
-                "short_name": "Stefani/Arevalo"
+                "short_name": "ZhangA"
             }
         ],
         "propositions": [
             {
-                "name": "Mladenovic/Guinard",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Stefani/Arevalo",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Mladenovic/Guinard v Stefani/Arevalo",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T08:15:00.000Z"
-    },
-    {
-        "contestant_names": "Stefano Travaglia, (2.1) VERSES Shintaro Mochizuki, (1.65)",
-        "start_time_aest": "2026-01-28T19:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Stefano Travaglia",
-                "position": "HOME",
-                "short_name": "Travaglia"
-            },
-            {
-                "full_name": "Shintaro Mochizuki",
-                "position": "AWAY",
-                "short_name": "Mochizuki S"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Stefano Travaglia",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Shintaro Mochizuki",
+                "name": "Barry Hawkins",
                 "returnWin": 1.65
+            },
+            {
+                "name": "Anda Zhang",
+                "returnWin": 2.15
             }
         ],
-        "match_name": "Travaglia v Mochizuki S",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T08:15:00.000Z"
+        "match_name": "Hawkins v ZhangA",
+        "betOption": "Result",
+        "start_time": "2026-01-28T09:00:00.000Z"
     },
     {
-        "contestant_names": "Yuliia Starodubtseva, (1.58) VERSES Solana Sierra, (2.25)",
-        "start_time_aest": "2026-01-28T19:15:00+11:00",
+        "contestant_names": "Himeno Sakatsume, (2.5) VERSES Alexandra Eala, (1.46)",
+        "start_time_aest": "2026-01-28T20:00:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA 125 Tour",
         "contestants": [
             {
-                "full_name": "Yuliia Starodubtseva",
+                "full_name": "Himeno Sakatsume",
                 "position": "HOME",
-                "short_name": "Starodubtseva"
+                "short_name": "Sakatsume"
             },
             {
-                "full_name": "Solana Sierra",
+                "full_name": "Alexandra Eala",
                 "position": "AWAY",
-                "short_name": "Sierra"
+                "short_name": "Eala"
             }
         ],
         "propositions": [
             {
-                "name": "Yuliia Starodubtseva",
-                "returnWin": 1.58
+                "name": "Himeno Sakatsume",
+                "returnWin": 2.5
             },
             {
-                "name": "Solana Sierra",
-                "returnWin": 2.25
+                "name": "Alexandra Eala",
+                "returnWin": 1.46
             }
         ],
-        "match_name": "Starodubtseva v Sierra",
+        "match_name": "Sakatsume v Eala",
         "betOption": "Head To Head",
-        "start_time": "2026-01-28T08:15:00.000Z"
-    },
-    {
-        "contestant_names": "Chen C K/Hsu Y, (1.55) VERSES Liu K H/Jheng Y C, (2.3)",
-        "start_time_aest": "2026-01-28T19:20:00+11:00",
-        "sport_name": "Badminton",
-        "competition_name": "Badminton World Tour Doubles",
-        "contestants": [
-            {
-                "full_name": "Chen C K/Hsu Y",
-                "position": "HOME",
-                "short_name": "Chen C K/Hsu Y"
-            },
-            {
-                "full_name": "Liu K H/Jheng Y C",
-                "position": "AWAY",
-                "short_name": "Liu/Jheng"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Chen C K/Hsu Y",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Liu K H/Jheng Y C",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Chen C K/Hsu Y v Liu/Jheng",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T08:20:00.000Z"
-    },
-    {
-        "contestant_names": "Rocco Piatti, (2.2) VERSES Daniil Sarksian, (1.6)",
-        "start_time_aest": "2026-01-28T19:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Rocco Piatti",
-                "position": "HOME",
-                "short_name": "Piatti R"
-            },
-            {
-                "full_name": "Daniil Sarksian",
-                "position": "AWAY",
-                "short_name": "Sarksian D"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Rocco Piatti",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Daniil Sarksian",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Piatti R v Sarksian D",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T08:30:00.000Z"
-    },
-    {
-        "contestant_names": "Melih Anavatan, (2.1) VERSES Mikail Alimli, (1.65)",
-        "start_time_aest": "2026-01-28T19:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Melih Anavatan",
-                "position": "HOME",
-                "short_name": "Anavatan"
-            },
-            {
-                "full_name": "Mikail Alimli",
-                "position": "AWAY",
-                "short_name": "Alimli"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Melih Anavatan",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Mikail Alimli",
-                "returnWin": 1.65
-            }
-        ],
-        "match_name": "Anavatan v Alimli",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T08:30:00.000Z"
-    },
-    {
-        "contestant_names": "Barney Fitzpatrick, (1.62) VERSES Bader Alabdullah, (2.15)",
-        "start_time_aest": "2026-01-28T19:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Barney Fitzpatrick",
-                "position": "HOME",
-                "short_name": "Fitzpatrick B"
-            },
-            {
-                "full_name": "Bader Alabdullah",
-                "position": "AWAY",
-                "short_name": "Alabdullah B"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Barney Fitzpatrick",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Bader Alabdullah",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Fitzpatrick B v Alabdullah B",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T08:30:00.000Z"
-    },
-    {
-        "contestant_names": "Sinha Nitin Kumar, (1.95) VERSES Rohan Mehra, (1.75)",
-        "start_time_aest": "2026-01-28T19:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Sinha Nitin Kumar",
-                "position": "HOME",
-                "short_name": "Kumar"
-            },
-            {
-                "full_name": "Rohan Mehra",
-                "position": "AWAY",
-                "short_name": "R. Mehra"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sinha Nitin Kumar",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Rohan Mehra",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Kumar v R. Mehra",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T08:30:00.000Z"
+        "start_time": "2026-01-28T09:00:00.000Z"
     }
 ]
