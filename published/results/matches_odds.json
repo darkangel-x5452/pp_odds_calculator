@@ -1,7 +1,7 @@
 [
     {
-        "contestant_names": "Mananchaya Sawangkaew, (2.05) VERSES Lin Zhu, (1.68)",
-        "start_time_aest": "2026-01-28T17:15:00+11:00",
+        "contestant_names": "Mananchaya Sawangkaew, (2.25) VERSES Lin Zhu, (1.58)",
+        "start_time_aest": "2026-01-28T17:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA 125 Tour",
         "contestants": [
@@ -19,47 +19,16 @@
         "propositions": [
             {
                 "name": "Mananchaya Sawangkaew",
-                "returnWin": 2.05
+                "returnWin": 2.25
             },
             {
                 "name": "Lin Zhu",
-                "returnWin": 1.68
+                "returnWin": 1.58
             }
         ],
         "match_name": "Sawangkaew v Zhu L",
         "betOption": "Head To Head",
-        "start_time": "2026-01-28T06:15:00.000Z"
-    },
-    {
-        "contestant_names": "Sin Yan Happy Lo, (1.6) VERSES Anmol Kharb, (2.2)",
-        "start_time_aest": "2026-01-28T17:30:00+11:00",
-        "sport_name": "Badminton",
-        "competition_name": "Badminton World Tour",
-        "contestants": [
-            {
-                "full_name": "Sin Yan Happy Lo",
-                "position": "HOME",
-                "short_name": "HappyLo"
-            },
-            {
-                "full_name": "Anmol Kharb",
-                "position": "AWAY",
-                "short_name": "Kharb"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sin Yan Happy Lo",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Anmol Kharb",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "HappyLo v Kharb",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T06:30:00.000Z"
+        "start_time": "2026-01-28T06:45:00.000Z"
     },
     {
         "contestant_names": "Justin Hoh, (1.53) VERSES Li Yang Su, (2.35)",
@@ -275,6 +244,37 @@
             }
         ],
         "match_name": "George v S Aidil",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T07:15:00.000Z"
+    },
+    {
+        "contestant_names": "Victor Kirov, (1.55) VERSES Bastian Berenz, (2.3)",
+        "start_time_aest": "2026-01-28T18:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Victor Kirov",
+                "position": "HOME",
+                "short_name": "Kirov"
+            },
+            {
+                "full_name": "Bastian Berenz",
+                "position": "AWAY",
+                "short_name": "Berenz"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Victor Kirov",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Bastian Berenz",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Kirov v Berenz",
         "betOption": "Head To Head",
         "start_time": "2026-01-28T07:15:00.000Z"
     }
