@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Darwin Blanch, (1.5) VERSES Yu Hsiou Hsu, (2.4)",
-        "start_time_aest": "2026-01-28T16:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Darwin Blanch",
-                "position": "HOME",
-                "short_name": "Blanch Dw"
-            },
-            {
-                "full_name": "Yu Hsiou Hsu",
-                "position": "AWAY",
-                "short_name": "Hsiou Hsu Yu"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Darwin Blanch",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Yu Hsiou Hsu",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Blanch Dw v Hsiou Hsu Yu",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-28T05:00:00.000Z"
-    },
-    {
         "contestant_names": "Tharun Mannepalli, (1.72) VERSES Kantaphon Wangcharoen, (2)",
         "start_time_aest": "2026-01-28T16:10:00+11:00",
         "sport_name": "Badminton",
@@ -184,5 +153,98 @@
         "match_name": "HappyLo v Kharb",
         "betOption": "Head To Head",
         "start_time": "2026-01-28T06:30:00.000Z"
+    },
+    {
+        "contestant_names": "Justin Hoh, (1.53) VERSES Li Yang Su, (2.35)",
+        "start_time_aest": "2026-01-28T17:50:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour",
+        "contestants": [
+            {
+                "full_name": "Justin Hoh",
+                "position": "HOME",
+                "short_name": "Hoh"
+            },
+            {
+                "full_name": "Li Yang Su",
+                "position": "AWAY",
+                "short_name": "Li Yang Su"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Justin Hoh",
+                "returnWin": 1.53
+            },
+            {
+                "name": "Li Yang Su",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Hoh v Li Yang Su",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T06:50:00.000Z"
+    },
+    {
+        "contestant_names": "Ciou-Tong Tung, (1.6) VERSES Chen Su Yu, (2.2)",
+        "start_time_aest": "2026-01-28T17:50:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour",
+        "contestants": [
+            {
+                "full_name": "Ciou-Tong Tung",
+                "position": "HOME",
+                "short_name": "Tung"
+            },
+            {
+                "full_name": "Chen Su Yu",
+                "position": "AWAY",
+                "short_name": "Yu CS"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ciou-Tong Tung",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Chen Su Yu",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Tung v Yu CS",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T06:50:00.000Z"
+    },
+    {
+        "contestant_names": "Robert Guna, (1.65) VERSES Samir Hamza Reguig, (2.1)",
+        "start_time_aest": "2026-01-28T18:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Robert Guna",
+                "position": "HOME",
+                "short_name": "Guna"
+            },
+            {
+                "full_name": "Samir Hamza Reguig",
+                "position": "AWAY",
+                "short_name": "Hamza Reguig"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Robert Guna",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Samir Hamza Reguig",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Guna v Hamza Reguig",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-28T07:00:00.000Z"
     }
 ]
