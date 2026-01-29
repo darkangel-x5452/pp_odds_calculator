@@ -1,126 +1,312 @@
 [
     {
-        "contestant_names": "NY Islanders, (1.65) VERSES NY Rangers, (2.2)",
-        "start_time_aest": "2026-01-29T11:05:00+11:00",
+        "contestant_names": "Columbus, (1.8) VERSES Philadelphia, (2)",
+        "start_time_aest": "2026-01-29T11:35:00+11:00",
         "sport_name": "Ice Hockey",
         "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "NY Islanders",
+                "full_name": "Columbus",
                 "position": "HOME",
-                "short_name": "NY Islanders"
+                "short_name": "Columbus"
             },
             {
-                "full_name": "NY Rangers",
+                "full_name": "Philadelphia",
                 "position": "AWAY",
-                "short_name": "NY Rangers"
+                "short_name": "Philadelphia"
             }
         ],
         "propositions": [
             {
-                "name": "NY Islanders",
-                "returnWin": 1.65
-            },
-            {
-                "name": "NY Rangers",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "NY Islanders v NY Rangers",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-29T00:05:00.000Z"
-    },
-    {
-        "contestant_names": "Cleveland, (1.62) VERSES LA Lakers, (2.35)",
-        "start_time_aest": "2026-01-29T11:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Cleveland",
-                "position": "HOME",
-                "short_name": "Cleveland"
-            },
-            {
-                "full_name": "LA Lakers",
-                "position": "AWAY",
-                "short_name": "LA Lakers"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Cleveland",
-                "returnWin": 1.62
-            },
-            {
-                "name": "LA Lakers",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Cleveland v LA Lakers",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-29T00:10:00.000Z"
-    },
-    {
-        "contestant_names": "Indiana, (2.05) VERSES Chicago, (1.8)",
-        "start_time_aest": "2026-01-29T11:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Indiana",
-                "position": "HOME",
-                "short_name": "Indiana"
-            },
-            {
-                "full_name": "Chicago",
-                "position": "AWAY",
-                "short_name": "Chicago"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Indiana",
-                "returnWin": 2.05
-            },
-            {
-                "name": "Chicago",
+                "name": "Columbus",
                 "returnWin": 1.8
-            }
-        ],
-        "match_name": "Indiana v Chicago",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-29T00:10:00.000Z"
-    },
-    {
-        "contestant_names": "Club Pico Foot, (1.5) VERSES Lanus, (2.35)",
-        "start_time_aest": "2026-01-29T11:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga A",
-        "contestants": [
-            {
-                "full_name": "Club Pico Foot",
-                "position": "HOME",
-                "short_name": "Club Pico Foot"
             },
             {
-                "full_name": "Lanus",
+                "name": "Philadelphia",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Columbus v Philadelphia",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T00:35:00.000Z"
+    },
+    {
+        "contestant_names": "Ottawa, (2.2) VERSES Colorado, (1.65)",
+        "start_time_aest": "2026-01-29T11:35:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Ottawa",
+                "position": "HOME",
+                "short_name": "Ottawa"
+            },
+            {
+                "full_name": "Colorado",
                 "position": "AWAY",
-                "short_name": "Lanus"
+                "short_name": "Colorado"
             }
         ],
         "propositions": [
             {
-                "name": "Club Pico Foot",
-                "returnWin": 1.5
+                "name": "Ottawa",
+                "returnWin": 2.2
             },
             {
-                "name": "Lanus",
+                "name": "Colorado",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Ottawa v Colorado",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T00:35:00.000Z"
+    },
+    {
+        "contestant_names": "Miami, (1.67) VERSES Orlando, (2.25)",
+        "start_time_aest": "2026-01-29T11:40:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Miami",
+                "position": "HOME",
+                "short_name": "Miami"
+            },
+            {
+                "full_name": "Orlando",
+                "position": "AWAY",
+                "short_name": "Orlando"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Miami",
+                "returnWin": 1.67
+            },
+            {
+                "name": "Orlando",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Miami v Orlando",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T00:40:00.000Z"
+    },
+    {
+        "contestant_names": "Toronto, (1.77) VERSES New York, (2.1)",
+        "start_time_aest": "2026-01-29T11:40:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Toronto",
+                "position": "HOME",
+                "short_name": "Toronto"
+            },
+            {
+                "full_name": "New York",
+                "position": "AWAY",
+                "short_name": "New York"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Toronto",
+                "returnWin": 1.77
+            },
+            {
+                "name": "New York",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Toronto v New York",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T00:40:00.000Z"
+    },
+    {
+        "contestant_names": "UMKC, (2.4) VERSES Denver, (1.58)",
+        "start_time_aest": "2026-01-29T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "UMKC",
+                "position": "HOME",
+                "short_name": "UMKC"
+            },
+            {
+                "full_name": "Denver",
+                "position": "AWAY",
+                "short_name": "Denver"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "UMKC",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Denver",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "UMKC v Denver",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Missouri State, (1.8) VERSES Sam Houston St, (2)",
+        "start_time_aest": "2026-01-29T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Missouri State",
+                "position": "HOME",
+                "short_name": "Missouri State"
+            },
+            {
+                "full_name": "Sam Houston St",
+                "position": "AWAY",
+                "short_name": "Sam Houston St"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Missouri State",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Sam Houston St",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Missouri State v Sam Houston St",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Nebraska Omaha, (2.1) VERSES South Dakota St, (1.74)",
+        "start_time_aest": "2026-01-29T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Nebraska Omaha",
+                "position": "HOME",
+                "short_name": "Nebraska Omaha"
+            },
+            {
+                "full_name": "South Dakota St",
+                "position": "AWAY",
+                "short_name": "South Dakota St"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nebraska Omaha",
+                "returnWin": 2.1
+            },
+            {
+                "name": "South Dakota St",
+                "returnWin": 1.74
+            }
+        ],
+        "match_name": "Nebraska Omaha v South Dakota St",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Texas State, (2.5) VERSES Marshall, (1.53)",
+        "start_time_aest": "2026-01-29T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Texas State",
+                "position": "HOME",
+                "short_name": "Texas State"
+            },
+            {
+                "full_name": "Marshall",
+                "position": "AWAY",
+                "short_name": "Marshall"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Texas State",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Marshall",
+                "returnWin": 1.53
+            }
+        ],
+        "match_name": "Texas State v Marshall",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Memphis, (2.1) VERSES Charlotte, (1.77)",
+        "start_time_aest": "2026-01-29T12:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Memphis",
+                "position": "HOME",
+                "short_name": "Memphis"
+            },
+            {
+                "full_name": "Charlotte",
+                "position": "AWAY",
+                "short_name": "Charlotte"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Memphis",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Charlotte",
+                "returnWin": 1.77
+            }
+        ],
+        "match_name": "Memphis v Charlotte",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T01:10:00.000Z"
+    },
+    {
+        "contestant_names": "Georgetown, (1.6) VERSES DePaul, (2.35)",
+        "start_time_aest": "2026-01-29T12:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Georgetown",
+                "position": "HOME",
+                "short_name": "Georgetown"
+            },
+            {
+                "full_name": "DePaul",
+                "position": "AWAY",
+                "short_name": "DePaul"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Georgetown",
+                "returnWin": 1.6
+            },
+            {
+                "name": "DePaul",
                 "returnWin": 2.35
             }
         ],
-        "match_name": "Club Pico Foot v Lanus",
+        "match_name": "Georgetown v DePaul",
         "betOption": "Head To Head",
-        "start_time": "2026-01-29T00:30:00.000Z"
+        "start_time": "2026-01-29T01:30:00.000Z"
     }
 ]
