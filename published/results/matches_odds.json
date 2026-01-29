@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Binghamton, (2.05) VERSES Bryant, (1.77)",
-        "start_time_aest": "2026-01-30T10:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Binghamton",
-                "position": "HOME",
-                "short_name": "Binghamton"
-            },
-            {
-                "full_name": "Bryant",
-                "position": "AWAY",
-                "short_name": "Bryant"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Binghamton",
-                "returnWin": 2.05
-            },
-            {
-                "name": "Bryant",
-                "returnWin": 1.77
-            }
-        ],
-        "match_name": "Binghamton v Bryant",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-29T23:00:00.000Z"
-    },
-    {
-        "contestant_names": "New Hampshire, (1.67) VERSES UMass-Lowell, (2.2)",
-        "start_time_aest": "2026-01-30T10:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "New Hampshire",
-                "position": "HOME",
-                "short_name": "New Hampshire"
-            },
-            {
-                "full_name": "UMass-Lowell",
-                "position": "AWAY",
-                "short_name": "UMass-Lowell"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "New Hampshire",
-                "returnWin": 1.67
-            },
-            {
-                "name": "UMass-Lowell",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "New Hampshire v UMass-Lowell",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-29T23:00:00.000Z"
-    },
-    {
-        "contestant_names": "Chattanooga, (1.74) VERSES Wofford, (2.1)",
-        "start_time_aest": "2026-01-30T10:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Chattanooga",
-                "position": "HOME",
-                "short_name": "Chattanooga"
-            },
-            {
-                "full_name": "Wofford",
-                "position": "AWAY",
-                "short_name": "Wofford"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Chattanooga",
-                "returnWin": 1.74
-            },
-            {
-                "name": "Wofford",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Chattanooga v Wofford",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-29T23:00:00.000Z"
-    },
-    {
         "contestant_names": "Union Atletica, (1.5) VERSES Bigua, (2.35)",
         "start_time_aest": "2026-01-30T10:15:00+11:00",
         "sport_name": "Basketball",
@@ -153,5 +60,191 @@
         "match_name": "Tasmania (W) v W Australia (W)",
         "betOption": "Head To Head",
         "start_time": "2026-01-29T23:30:00.000Z"
+    },
+    {
+        "contestant_names": "Georgia, (1.95) VERSES Alabama, (1.8)",
+        "start_time_aest": "2026-01-30T10:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Georgia",
+                "position": "HOME",
+                "short_name": "Georgia"
+            },
+            {
+                "full_name": "Alabama",
+                "position": "AWAY",
+                "short_name": "Alabama"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Georgia",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Alabama",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Georgia v Alabama",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T23:30:00.000Z"
+    },
+    {
+        "contestant_names": "Middle Tennessee, (2) VERSES Liberty, (1.8)",
+        "start_time_aest": "2026-01-30T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Middle Tennessee",
+                "position": "HOME",
+                "short_name": "Middle Tennessee"
+            },
+            {
+                "full_name": "Liberty",
+                "position": "AWAY",
+                "short_name": "Liberty"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Middle Tennessee",
+                "returnWin": 2
+            },
+            {
+                "name": "Liberty",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Middle Tennessee v Liberty",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "CharlestonSthern, (1.74) VERSES Radford, (2.1)",
+        "start_time_aest": "2026-01-30T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "CharlestonSthern",
+                "position": "HOME",
+                "short_name": "CharlestonSthern"
+            },
+            {
+                "full_name": "Radford",
+                "position": "AWAY",
+                "short_name": "Radford"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "CharlestonSthern",
+                "returnWin": 1.74
+            },
+            {
+                "name": "Radford",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "CharlestonSthern v Radford",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "USC Upstate, (1.95) VERSES Longwood, (1.85)",
+        "start_time_aest": "2026-01-30T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "USC Upstate",
+                "position": "HOME",
+                "short_name": "USC Upstate"
+            },
+            {
+                "full_name": "Longwood",
+                "position": "AWAY",
+                "short_name": "Longwood"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "USC Upstate",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Longwood",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "USC Upstate v Longwood",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Elon, (2.05) VERSES WilliamMary, (1.77)",
+        "start_time_aest": "2026-01-30T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Elon",
+                "position": "HOME",
+                "short_name": "Elon"
+            },
+            {
+                "full_name": "WilliamMary",
+                "position": "AWAY",
+                "short_name": "WilliamMary"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Elon",
+                "returnWin": 2.05
+            },
+            {
+                "name": "WilliamMary",
+                "returnWin": 1.77
+            }
+        ],
+        "match_name": "Elon v WilliamMary",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Citadel, (1.67) VERSES VMI, (2.2)",
+        "start_time_aest": "2026-01-30T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Citadel",
+                "position": "HOME",
+                "short_name": "Citadel"
+            },
+            {
+                "full_name": "VMI",
+                "position": "AWAY",
+                "short_name": "VMI"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Citadel",
+                "returnWin": 1.67
+            },
+            {
+                "name": "VMI",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Citadel v VMI",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T00:00:00.000Z"
     }
 ]
