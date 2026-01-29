@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Nikolai Barsukov, (1.68) VERSES Sanhui Shin, (2.05)",
-        "start_time_aest": "2026-01-29T14:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Nikolai Barsukov",
-                "position": "HOME",
-                "short_name": "Barsukov"
-            },
-            {
-                "full_name": "Sanhui Shin",
-                "position": "AWAY",
-                "short_name": "Shin S"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Nikolai Barsukov",
-                "returnWin": 1.68
-            },
-            {
-                "name": "Sanhui Shin",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Barsukov v Shin S",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-29T03:30:00.000Z"
-    },
-    {
         "contestant_names": "Granollers/Zeballos, (1.58) VERSES Harrison/Skupski, (2.25)",
         "start_time_aest": "2026-01-29T15:00:00+11:00",
         "sport_name": "Tennis",
@@ -58,6 +27,37 @@
             }
         ],
         "match_name": "Granollers/Zeballos v Harrison/Skupski",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T04:00:00.000Z"
+    },
+    {
+        "contestant_names": "Nikolai Barsukov, (1.68) VERSES Sanhui Shin, (2.05)",
+        "start_time_aest": "2026-01-29T15:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Nikolai Barsukov",
+                "position": "HOME",
+                "short_name": "Barsukov"
+            },
+            {
+                "full_name": "Sanhui Shin",
+                "position": "AWAY",
+                "short_name": "Shin S"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nikolai Barsukov",
+                "returnWin": 1.68
+            },
+            {
+                "name": "Sanhui Shin",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Barsukov v Shin S",
         "betOption": "Head To Head",
         "start_time": "2026-01-29T04:00:00.000Z"
     },
@@ -153,5 +153,67 @@
         "match_name": "Bao L J/Li Y J v Kim Y J/Lee Y L",
         "betOption": "Head To Head",
         "start_time": "2026-01-29T05:10:00.000Z"
+    },
+    {
+        "contestant_names": "Wang Po-Wei, (2.35) VERSES Brian Yang, (1.53)",
+        "start_time_aest": "2026-01-29T16:30:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour",
+        "contestants": [
+            {
+                "full_name": "Wang Po-Wei",
+                "position": "HOME",
+                "short_name": "Po-Wei"
+            },
+            {
+                "full_name": "Brian Yang",
+                "position": "AWAY",
+                "short_name": "Yang B"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Wang Po-Wei",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Brian Yang",
+                "returnWin": 1.53
+            }
+        ],
+        "match_name": "Po-Wei v Yang B",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T05:30:00.000Z"
+    },
+    {
+        "contestant_names": "Justin Hoh, (1.48) VERSES Xuan Chen Zhu, (2.5)",
+        "start_time_aest": "2026-01-29T16:45:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour",
+        "contestants": [
+            {
+                "full_name": "Justin Hoh",
+                "position": "HOME",
+                "short_name": "Hoh"
+            },
+            {
+                "full_name": "Xuan Chen Zhu",
+                "position": "AWAY",
+                "short_name": "Zhu XC"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Justin Hoh",
+                "returnWin": 1.48
+            },
+            {
+                "name": "Xuan Chen Zhu",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Hoh v Zhu XC",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T05:45:00.000Z"
     }
 ]
