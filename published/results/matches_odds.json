@@ -1,129 +1,5 @@
 [
     {
-        "contestant_names": "Max Wiskandt, (1.75) VERSES Karlis Ozolins, (1.95)",
-        "start_time_aest": "2026-01-29T23:10:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Max Wiskandt",
-                "position": "HOME",
-                "short_name": "Wiskandt"
-            },
-            {
-                "full_name": "Karlis Ozolins",
-                "position": "AWAY",
-                "short_name": "Ozolins K"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Max Wiskandt",
-                "returnWin": 1.75
-            },
-            {
-                "name": "Karlis Ozolins",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Wiskandt v Ozolins K",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-29T12:10:00.000Z"
-    },
-    {
-        "contestant_names": "Ugo Blanchet, (1.65) VERSES Hugo Grenier, (2.1)",
-        "start_time_aest": "2026-01-29T23:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Ugo Blanchet",
-                "position": "HOME",
-                "short_name": "Blanchet"
-            },
-            {
-                "full_name": "Hugo Grenier",
-                "position": "AWAY",
-                "short_name": "Grenier"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ugo Blanchet",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Hugo Grenier",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Blanchet v Grenier",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-29T12:30:00.000Z"
-    },
-    {
-        "contestant_names": "Nicolai Budkov Kjaer, (1.75) VERSES Luca Nardi, (1.95)",
-        "start_time_aest": "2026-01-29T23:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Nicolai Budkov Kjaer",
-                "position": "HOME",
-                "short_name": "Budkov Kjaer"
-            },
-            {
-                "full_name": "Luca Nardi",
-                "position": "AWAY",
-                "short_name": "Nardi L"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Nicolai Budkov Kjaer",
-                "returnWin": 1.75
-            },
-            {
-                "name": "Luca Nardi",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Budkov Kjaer v Nardi L",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-29T12:30:00.000Z"
-    },
-    {
-        "contestant_names": "Maria Camila Osorio Serrano, (2.4) VERSES Alexandra Eala, (1.5)",
-        "start_time_aest": "2026-01-29T23:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA 125 Tour",
-        "contestants": [
-            {
-                "full_name": "Maria Camila Osorio Serrano",
-                "position": "HOME",
-                "short_name": "Osorio Serrano"
-            },
-            {
-                "full_name": "Alexandra Eala",
-                "position": "AWAY",
-                "short_name": "Eala"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Maria Camila Osorio Serrano",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Alexandra Eala",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Osorio Serrano v Eala",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-29T12:30:00.000Z"
-    },
-    {
         "contestant_names": "Aurora Gaming, (2.2) VERSES PARIVISION, (1.6)",
         "start_time_aest": "2026-01-30T00:00:00+11:00",
         "sport_name": "Esports",
@@ -217,6 +93,68 @@
         "start_time": "2026-01-29T13:00:00.000Z"
     },
     {
+        "contestant_names": "Nicolai Budkov Kjaer, (1.72) VERSES Luca Nardi, (2)",
+        "start_time_aest": "2026-01-30T00:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Nicolai Budkov Kjaer",
+                "position": "HOME",
+                "short_name": "Budkov Kjaer"
+            },
+            {
+                "full_name": "Luca Nardi",
+                "position": "AWAY",
+                "short_name": "Nardi L"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nicolai Budkov Kjaer",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Luca Nardi",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Budkov Kjaer v Nardi L",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Maria Camila Osorio Serrano, (2.4) VERSES Alexandra Eala, (1.5)",
+        "start_time_aest": "2026-01-30T00:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Tour",
+        "contestants": [
+            {
+                "full_name": "Maria Camila Osorio Serrano",
+                "position": "HOME",
+                "short_name": "Osorio Serrano"
+            },
+            {
+                "full_name": "Alexandra Eala",
+                "position": "AWAY",
+                "short_name": "Eala"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Maria Camila Osorio Serrano",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Alexandra Eala",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Osorio Serrano v Eala",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T13:00:00.000Z"
+    },
+    {
         "contestant_names": "Ajman, (2.2) VERSES Dubai, (1.65)",
         "start_time_aest": "2026-01-30T00:15:00+11:00",
         "sport_name": "Cricket",
@@ -246,6 +184,37 @@
         "match_name": "Ajman v Dubai",
         "betOption": "Head To Head",
         "start_time": "2026-01-29T13:15:00.000Z"
+    },
+    {
+        "contestant_names": "Angelina Voloshchuk, (2) VERSES Cagla Buyukakcay, (1.72)",
+        "start_time_aest": "2026-01-30T00:20:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Angelina Voloshchuk",
+                "position": "HOME",
+                "short_name": "Voloshchuk A"
+            },
+            {
+                "full_name": "Cagla Buyukakcay",
+                "position": "AWAY",
+                "short_name": "Buyukakcay"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Angelina Voloshchuk",
+                "returnWin": 2
+            },
+            {
+                "name": "Cagla Buyukakcay",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "Voloshchuk A v Buyukakcay",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T13:20:00.000Z"
     },
     {
         "contestant_names": "Guyana (W), (1.95) VERSES Trinidad & Tobago (W), (1.85)",
@@ -339,5 +308,129 @@
         "match_name": "Windward Isl (W) v Leeward Isl (W)",
         "betOption": "Head To Head",
         "start_time": "2026-01-29T13:30:00.000Z"
+    },
+    {
+        "contestant_names": "Warriorz (W), (2.4) VERSES Bangalore (W), (1.55)",
+        "start_time_aest": "2026-01-30T01:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Womens Premier League",
+        "contestants": [
+            {
+                "full_name": "Warriorz (W)",
+                "position": "HOME",
+                "short_name": "Warriorz (W)"
+            },
+            {
+                "full_name": "Bangalore (W)",
+                "position": "AWAY",
+                "short_name": "Bangalore (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Warriorz (W)",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Bangalore (W)",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Warriorz (W) v Bangalore (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Mark Allen, (2.3) VERSES Shaun Murphy, (1.58)",
+        "start_time_aest": "2026-01-30T01:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "German Masters",
+        "contestants": [
+            {
+                "full_name": "Mark Allen",
+                "position": "HOME",
+                "short_name": "Allen M"
+            },
+            {
+                "full_name": "Shaun Murphy",
+                "position": "AWAY",
+                "short_name": "Murphy"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mark Allen",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Shaun Murphy",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Allen M v Murphy",
+        "betOption": "Result",
+        "start_time": "2026-01-29T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Xu Si, (2.5) VERSES Allister Carter, (1.48)",
+        "start_time_aest": "2026-01-30T01:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "German Masters",
+        "contestants": [
+            {
+                "full_name": "Xu Si",
+                "position": "HOME",
+                "short_name": "Xu S"
+            },
+            {
+                "full_name": "Allister Carter",
+                "position": "AWAY",
+                "short_name": "Carter"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Xu Si",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Allister Carter",
+                "returnWin": 1.48
+            }
+        ],
+        "match_name": "Xu S v Carter",
+        "betOption": "Result",
+        "start_time": "2026-01-29T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Marco Cecchinato, (2.4) VERSES Alvaro Guillen Meza, (1.5)",
+        "start_time_aest": "2026-01-30T01:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Marco Cecchinato",
+                "position": "HOME",
+                "short_name": "Cecchinato"
+            },
+            {
+                "full_name": "Alvaro Guillen Meza",
+                "position": "AWAY",
+                "short_name": "Guillen Meza"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Marco Cecchinato",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Alvaro Guillen Meza",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Cecchinato v Guillen Meza",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T14:00:00.000Z"
     }
 ]
