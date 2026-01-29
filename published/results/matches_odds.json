@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Northern Arizona, (1.8) VERSES EastrnWashington, (1.95)",
-        "start_time_aest": "2026-01-30T09:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Northern Arizona",
-                "position": "HOME",
-                "short_name": "Northern Arizona"
-            },
-            {
-                "full_name": "EastrnWashington",
-                "position": "AWAY",
-                "short_name": "EastrnWashington"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Northern Arizona",
-                "returnWin": 1.8
-            },
-            {
-                "name": "EastrnWashington",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Northern Arizona v EastrnWashington",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-29T22:00:00.000Z"
-    },
-    {
         "contestant_names": "Julia Riera, (1.46) VERSES Kajsa Rinaldo Persson, (2.5)",
         "start_time_aest": "2026-01-30T09:30:00+11:00",
         "sport_name": "Tennis",
@@ -153,5 +122,36 @@
         "match_name": "Chattanooga v Wofford",
         "betOption": "Head To Head",
         "start_time": "2026-01-29T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Union Atletica, (1.5) VERSES Bigua, (2.35)",
+        "start_time_aest": "2026-01-30T10:15:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Uruguay LUB",
+        "contestants": [
+            {
+                "full_name": "Union Atletica",
+                "position": "HOME",
+                "short_name": "Union Atletica"
+            },
+            {
+                "full_name": "Bigua",
+                "position": "AWAY",
+                "short_name": "Bigua"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Union Atletica",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Bigua",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Union Atletica v Bigua",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T23:15:00.000Z"
     }
 ]
