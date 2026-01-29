@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Union Atletica, (1.5) VERSES Bigua, (2.35)",
-        "start_time_aest": "2026-01-30T10:15:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Uruguay LUB",
-        "contestants": [
-            {
-                "full_name": "Union Atletica",
-                "position": "HOME",
-                "short_name": "Union Atletica"
-            },
-            {
-                "full_name": "Bigua",
-                "position": "AWAY",
-                "short_name": "Bigua"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Union Atletica",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Bigua",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Union Atletica v Bigua",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-29T23:15:00.000Z"
-    },
-    {
-        "contestant_names": "Tasmania (W), (2.4) VERSES Western Australia (W), (1.55)",
-        "start_time_aest": "2026-01-30T10:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Womens National Cricket League",
-        "contestants": [
-            {
-                "full_name": "Tasmania (W)",
-                "position": "HOME",
-                "short_name": "Tasmania (W)"
-            },
-            {
-                "full_name": "Western Australia (W)",
-                "position": "AWAY",
-                "short_name": "W Australia (W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Tasmania (W)",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Western Australia (W)",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Tasmania (W) v W Australia (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-29T23:30:00.000Z"
-    },
-    {
-        "contestant_names": "Georgia, (1.95) VERSES Alabama, (1.8)",
-        "start_time_aest": "2026-01-30T10:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Georgia",
-                "position": "HOME",
-                "short_name": "Georgia"
-            },
-            {
-                "full_name": "Alabama",
-                "position": "AWAY",
-                "short_name": "Alabama"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Georgia",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Alabama",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "Georgia v Alabama",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-29T23:30:00.000Z"
-    },
-    {
         "contestant_names": "Middle Tennessee, (2) VERSES Liberty, (1.8)",
         "start_time_aest": "2026-01-30T11:00:00+11:00",
         "sport_name": "Basketball",
@@ -244,6 +151,99 @@
             }
         ],
         "match_name": "Citadel v VMI",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "North Florida, (1.95) VERSES Stetson, (1.85)",
+        "start_time_aest": "2026-01-30T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "North Florida",
+                "position": "HOME",
+                "short_name": "North Florida"
+            },
+            {
+                "full_name": "Stetson",
+                "position": "AWAY",
+                "short_name": "Stetson"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "North Florida",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Stetson",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "North Florida v Stetson",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Drexel, (1.62) VERSES Hampton, (2.3)",
+        "start_time_aest": "2026-01-30T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Drexel",
+                "position": "HOME",
+                "short_name": "Drexel"
+            },
+            {
+                "full_name": "Hampton",
+                "position": "AWAY",
+                "short_name": "Hampton"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Drexel",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Hampton",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Drexel v Hampton",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Hofstra, (1.62) VERSES Charleston, (2.3)",
+        "start_time_aest": "2026-01-30T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Hofstra",
+                "position": "HOME",
+                "short_name": "Hofstra"
+            },
+            {
+                "full_name": "Charleston",
+                "position": "AWAY",
+                "short_name": "Charleston"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hofstra",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Charleston",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Hofstra v Charleston",
         "betOption": "Head To Head",
         "start_time": "2026-01-30T00:00:00.000Z"
     }
