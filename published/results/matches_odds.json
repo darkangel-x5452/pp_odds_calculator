@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Julia Riera, (1.46) VERSES Kajsa Rinaldo Persson, (2.5)",
-        "start_time_aest": "2026-01-30T09:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Julia Riera",
-                "position": "HOME",
-                "short_name": "Riera"
-            },
-            {
-                "full_name": "Kajsa Rinaldo Persson",
-                "position": "AWAY",
-                "short_name": "Rinaldo Persson"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Julia Riera",
-                "returnWin": 1.46
-            },
-            {
-                "name": "Kajsa Rinaldo Persson",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Riera v Rinaldo Persson",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-29T22:30:00.000Z"
-    },
-    {
         "contestant_names": "Binghamton, (2.05) VERSES Bryant, (1.77)",
         "start_time_aest": "2026-01-30T10:00:00+11:00",
         "sport_name": "Basketball",
@@ -153,5 +122,36 @@
         "match_name": "Union Atletica v Bigua",
         "betOption": "Head To Head",
         "start_time": "2026-01-29T23:15:00.000Z"
+    },
+    {
+        "contestant_names": "Tasmania (W), (2.4) VERSES Western Australia (W), (1.55)",
+        "start_time_aest": "2026-01-30T10:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Womens National Cricket League",
+        "contestants": [
+            {
+                "full_name": "Tasmania (W)",
+                "position": "HOME",
+                "short_name": "Tasmania (W)"
+            },
+            {
+                "full_name": "Western Australia (W)",
+                "position": "AWAY",
+                "short_name": "W Australia (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tasmania (W)",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Western Australia (W)",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Tasmania (W) v W Australia (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T23:30:00.000Z"
     }
 ]
