@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Toby Samuel, (1.68) VERSES Mitchell Krueger, (2.05)",
-        "start_time_aest": "2026-01-30T05:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Toby Samuel",
-                "position": "HOME",
-                "short_name": "Samuel T"
-            },
-            {
-                "full_name": "Mitchell Krueger",
-                "position": "AWAY",
-                "short_name": "Krueger M"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Toby Samuel",
-                "returnWin": 1.68
-            },
-            {
-                "name": "Mitchell Krueger",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Samuel T v Krueger M",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-29T18:15:00.000Z"
-    },
-    {
-        "contestant_names": "Trevor Svajda, (1.95) VERSES Liam Draxl, (1.75)",
-        "start_time_aest": "2026-01-30T05:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Trevor Svajda",
-                "position": "HOME",
-                "short_name": "Svajda"
-            },
-            {
-                "full_name": "Liam Draxl",
-                "position": "AWAY",
-                "short_name": "Draxl"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Trevor Svajda",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Liam Draxl",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Svajda v Draxl",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-29T18:15:00.000Z"
-    },
-    {
-        "contestant_names": "Legacy, (2.05) VERSES FUT Esports, (1.7)",
-        "start_time_aest": "2026-01-30T05:30:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "Counter Strike 2",
-        "contestants": [
-            {
-                "full_name": "Legacy",
-                "position": "HOME",
-                "short_name": "Legacy"
-            },
-            {
-                "full_name": "FUT Esports",
-                "position": "AWAY",
-                "short_name": "FUT Esports"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Legacy",
-                "returnWin": 2.05
-            },
-            {
-                "name": "FUT Esports",
-                "returnWin": 1.7
-            }
-        ],
-        "match_name": "Legacy v FUT Esports",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-29T18:30:00.000Z"
-    },
-    {
         "contestant_names": "Bourges, (2.3) VERSES Galatasaray, (1.52)",
         "start_time_aest": "2026-01-30T06:00:00+11:00",
         "sport_name": "Basketball",
@@ -215,5 +122,129 @@
         "match_name": "Armann Reykjavik v IR Reykjavik",
         "betOption": "Head To Head",
         "start_time": "2026-01-29T19:15:00.000Z"
+    },
+    {
+        "contestant_names": "Grindavik, (1.46) VERSES Valur, (2.5)",
+        "start_time_aest": "2026-01-30T06:15:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Iceland Premier League",
+        "contestants": [
+            {
+                "full_name": "Grindavik",
+                "position": "HOME",
+                "short_name": "Grindavik"
+            },
+            {
+                "full_name": "Valur",
+                "position": "AWAY",
+                "short_name": "Valur"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Grindavik",
+                "returnWin": 1.46
+            },
+            {
+                "name": "Valur",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Grindavik v Valur",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T19:15:00.000Z"
+    },
+    {
+        "contestant_names": "Njarovik, (1.65) VERSES Alftanes, (2.1)",
+        "start_time_aest": "2026-01-30T06:15:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Iceland Premier League",
+        "contestants": [
+            {
+                "full_name": "Njarovik",
+                "position": "HOME",
+                "short_name": "Njarovik"
+            },
+            {
+                "full_name": "Alftanes",
+                "position": "AWAY",
+                "short_name": "Alftanes"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Njarovik",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Alftanes",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Njarovik v Alftanes",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T19:15:00.000Z"
+    },
+    {
+        "contestant_names": "Chris Dobey, (1.8) VERSES Jermaine Wattimena, (2)",
+        "start_time_aest": "2026-01-30T06:15:00+11:00",
+        "sport_name": "Darts",
+        "competition_name": "Darts Masters",
+        "contestants": [
+            {
+                "full_name": "Chris Dobey",
+                "position": "HOME",
+                "short_name": "Dobey C"
+            },
+            {
+                "full_name": "Jermaine Wattimena",
+                "position": "AWAY",
+                "short_name": "Wattimena"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Chris Dobey",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Jermaine Wattimena",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Dobey C  v Wattimena",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T19:15:00.000Z"
+    },
+    {
+        "contestant_names": "Hallmann Vienna, (2.5) VERSES KK Bosna, (1.46)",
+        "start_time_aest": "2026-01-30T06:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "ABA League",
+        "contestants": [
+            {
+                "full_name": "Hallmann Vienna",
+                "position": "HOME",
+                "short_name": "Hallmann Vienna"
+            },
+            {
+                "full_name": "KK Bosna",
+                "position": "AWAY",
+                "short_name": "KK Bosna"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hallmann Vienna",
+                "returnWin": 2.5
+            },
+            {
+                "name": "KK Bosna",
+                "returnWin": 1.46
+            }
+        ],
+        "match_name": "Hallmann Vienna v KK Bosna",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T19:30:00.000Z"
     }
 ]
