@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Granollers/Zeballos, (1.58) VERSES Harrison/Skupski, (2.25)",
-        "start_time_aest": "2026-01-29T15:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
-        "contestants": [
-            {
-                "full_name": "Granollers/Zeballos",
-                "position": "HOME",
-                "short_name": "Granollers/Zeballos"
-            },
-            {
-                "full_name": "Harrison/Skupski",
-                "position": "AWAY",
-                "short_name": "Harrison/Skupski"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Granollers/Zeballos",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Harrison/Skupski",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Granollers/Zeballos v Harrison/Skupski",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-29T04:00:00.000Z"
-    },
-    {
-        "contestant_names": "Nikolai Barsukov, (1.68) VERSES Sanhui Shin, (2.05)",
-        "start_time_aest": "2026-01-29T15:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Nikolai Barsukov",
-                "position": "HOME",
-                "short_name": "Barsukov"
-            },
-            {
-                "full_name": "Sanhui Shin",
-                "position": "AWAY",
-                "short_name": "Shin S"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Nikolai Barsukov",
-                "returnWin": 1.68
-            },
-            {
-                "name": "Sanhui Shin",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Barsukov v Shin S",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-29T04:00:00.000Z"
-    },
-    {
         "contestant_names": "Danilina/Krunic, (2.25) VERSES Dabrowski/Stefani, (1.58)",
         "start_time_aest": "2026-01-29T15:30:00+11:00",
         "sport_name": "Tennis",
@@ -215,5 +153,98 @@
         "match_name": "Hoh v Zhu XC",
         "betOption": "Head To Head",
         "start_time": "2026-01-29T05:45:00.000Z"
+    },
+    {
+        "contestant_names": "Kusuma F D/Puspitasari M T, (1.72) VERSES Mayasari L T/Rahayu A, (2)",
+        "start_time_aest": "2026-01-29T16:55:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour Doubles",
+        "contestants": [
+            {
+                "full_name": "Kusuma F D/Puspitasari M T",
+                "position": "HOME",
+                "short_name": "KsumaFPspitasari"
+            },
+            {
+                "full_name": "Mayasari L T/Rahayu A",
+                "position": "AWAY",
+                "short_name": "Mayasari/Rahayu"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Kusuma F D/Puspitasari M T",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Mayasari L T/Rahayu A",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "KsumaFPspitasari v Mayasari/Rahayu",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T05:55:00.000Z"
+    },
+    {
+        "contestant_names": "Ma/Sawangkaew, (2.5) VERSES Cho/Cho, (1.46)",
+        "start_time_aest": "2026-01-29T17:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Doubles",
+        "contestants": [
+            {
+                "full_name": "Ma/Sawangkaew",
+                "position": "HOME",
+                "short_name": "Ma/Sawangkaew"
+            },
+            {
+                "full_name": "Cho/Cho",
+                "position": "AWAY",
+                "short_name": "Cho/Cho"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ma/Sawangkaew",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Cho/Cho",
+                "returnWin": 1.46
+            }
+        ],
+        "match_name": "Ma/Sawangkaew v Cho/Cho",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T06:00:00.000Z"
+    },
+    {
+        "contestant_names": "Tatiana Prozorova, (1.46) VERSES Sofia Costoulas, (2.5)",
+        "start_time_aest": "2026-01-29T17:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Tour",
+        "contestants": [
+            {
+                "full_name": "Tatiana Prozorova",
+                "position": "HOME",
+                "short_name": "Prozorova T"
+            },
+            {
+                "full_name": "Sofia Costoulas",
+                "position": "AWAY",
+                "short_name": "Costoulas"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tatiana Prozorova",
+                "returnWin": 1.46
+            },
+            {
+                "name": "Sofia Costoulas",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Prozorova T v Costoulas",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T06:00:00.000Z"
     }
 ]
