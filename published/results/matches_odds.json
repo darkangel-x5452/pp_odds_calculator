@@ -1,34 +1,34 @@
 [
     {
-        "contestant_names": "Houston, (1.67) VERSES San Antonio, (2.25)",
-        "start_time_aest": "2026-01-29T13:40:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
+        "contestant_names": "Nikolai Barsukov, (1.68) VERSES Sanhui Shin, (2.05)",
+        "start_time_aest": "2026-01-29T14:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
         "contestants": [
             {
-                "full_name": "Houston",
+                "full_name": "Nikolai Barsukov",
                 "position": "HOME",
-                "short_name": "Houston"
+                "short_name": "Barsukov"
             },
             {
-                "full_name": "San Antonio",
+                "full_name": "Sanhui Shin",
                 "position": "AWAY",
-                "short_name": "San Antonio"
+                "short_name": "Shin S"
             }
         ],
         "propositions": [
             {
-                "name": "Houston",
-                "returnWin": 1.67
+                "name": "Nikolai Barsukov",
+                "returnWin": 1.68
             },
             {
-                "name": "San Antonio",
-                "returnWin": 2.25
+                "name": "Sanhui Shin",
+                "returnWin": 2.05
             }
         ],
-        "match_name": "Houston v San Antonio",
+        "match_name": "Barsukov v Shin S",
         "betOption": "Head To Head",
-        "start_time": "2026-01-29T02:40:00.000Z"
+        "start_time": "2026-01-29T03:30:00.000Z"
     },
     {
         "contestant_names": "Granollers/Zeballos, (1.58) VERSES Harrison/Skupski, (2.25)",
@@ -91,5 +91,67 @@
         "match_name": "Danilina/Krunic v Dabrowski/Stefani",
         "betOption": "Head To Head",
         "start_time": "2026-01-29T04:30:00.000Z"
+    },
+    {
+        "contestant_names": "Hsu Y/Lin J Y, (2.2) VERSES Hiramoto/Ishikawa, (1.6)",
+        "start_time_aest": "2026-01-29T16:10:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour Doubles",
+        "contestants": [
+            {
+                "full_name": "Hsu Y/Lin J Y",
+                "position": "HOME",
+                "short_name": "Hsu Y/Lin J Y"
+            },
+            {
+                "full_name": "Hiramoto/Ishikawa",
+                "position": "AWAY",
+                "short_name": "Hramoto/Ishikawa"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hsu Y/Lin J Y",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Hiramoto/Ishikawa",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Hsu Y/Lin J Y v Hramoto/Ishikawa",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T05:10:00.000Z"
+    },
+    {
+        "contestant_names": "Bao L J/Li Y J, (1.48) VERSES Kim Y J/Lee Y L, (2.5)",
+        "start_time_aest": "2026-01-29T16:10:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour Doubles",
+        "contestants": [
+            {
+                "full_name": "Bao L J/Li Y J",
+                "position": "HOME",
+                "short_name": "Bao L J/Li Y J"
+            },
+            {
+                "full_name": "Kim Y J/Lee Y L",
+                "position": "AWAY",
+                "short_name": "Kim Y J/Lee Y L"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bao L J/Li Y J",
+                "returnWin": 1.48
+            },
+            {
+                "name": "Kim Y J/Lee Y L",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Bao L J/Li Y J v Kim Y J/Lee Y L",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-29T05:10:00.000Z"
     }
 ]
