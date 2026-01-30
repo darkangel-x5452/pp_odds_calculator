@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Kyrian Jacquet, (1.72) VERSES Jacob Fearnley, (2)",
-        "start_time_aest": "2026-01-30T23:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Kyrian Jacquet",
-                "position": "HOME",
-                "short_name": "Jacquet"
-            },
-            {
-                "full_name": "Jacob Fearnley",
-                "position": "AWAY",
-                "short_name": "Fearnley"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Kyrian Jacquet",
-                "returnWin": 1.72
-            },
-            {
-                "name": "Jacob Fearnley",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Jacquet v Fearnley",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-30T12:15:00.000Z"
-    },
-    {
         "contestant_names": "GamerLegion, (2.05) VERSES Heroic, (1.68)",
         "start_time_aest": "2026-01-31T00:00:00+11:00",
         "sport_name": "Esports",
@@ -152,6 +121,68 @@
         ],
         "match_name": "Carter v Bingham",
         "betOption": "Result",
+        "start_time": "2026-01-30T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Ivan Gakhov, (2.25) VERSES Federico Ferreira Silva, (1.58)",
+        "start_time_aest": "2026-01-31T00:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Ivan Gakhov",
+                "position": "HOME",
+                "short_name": "Gakhov"
+            },
+            {
+                "full_name": "Federico Ferreira Silva",
+                "position": "AWAY",
+                "short_name": "Ferreira Slva Fe"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ivan Gakhov",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Federico Ferreira Silva",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Gakhov v Ferreira Slva Fe",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Aya Aksu, (2.05) VERSES Fiona Crawley, (1.68)",
+        "start_time_aest": "2026-01-31T00:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Aya Aksu",
+                "position": "HOME",
+                "short_name": "Aksu A"
+            },
+            {
+                "full_name": "Fiona Crawley",
+                "position": "AWAY",
+                "short_name": "Crawley"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Aya Aksu",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Fiona Crawley",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Aksu A v Crawley",
+        "betOption": "Head To Head",
         "start_time": "2026-01-30T13:00:00.000Z"
     },
     {
