@@ -1,38 +1,7 @@
 [
     {
-        "contestant_names": "Ross Smith, (1.58) VERSES Jimmy van Schie, (2.4)",
-        "start_time_aest": "2026-01-31T06:45:00+11:00",
-        "sport_name": "Darts",
-        "competition_name": "Darts Masters",
-        "contestants": [
-            {
-                "full_name": "Ross Smith",
-                "position": "HOME",
-                "short_name": "Smith R"
-            },
-            {
-                "full_name": "Jimmy van Schie",
-                "position": "AWAY",
-                "short_name": "Van Schie Jimmy"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ross Smith",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Jimmy van Schie",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Smith R v Van Schie Jimmy",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-30T19:45:00.000Z"
-    },
-    {
         "contestant_names": "Patrick Kypson, (1.65) VERSES Colton Smith, (2.1)",
-        "start_time_aest": "2026-01-31T07:00:00+11:00",
+        "start_time_aest": "2026-01-31T07:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -59,7 +28,38 @@
         ],
         "match_name": "Kypson v Smith C",
         "betOption": "Head To Head",
-        "start_time": "2026-01-30T20:00:00.000Z"
+        "start_time": "2026-01-30T20:15:00.000Z"
+    },
+    {
+        "contestant_names": "Ryan Searle, (1.75) VERSES Rob Cross, (2.05)",
+        "start_time_aest": "2026-01-31T07:50:00+11:00",
+        "sport_name": "Darts",
+        "competition_name": "Darts Masters",
+        "contestants": [
+            {
+                "full_name": "Ryan Searle",
+                "position": "HOME",
+                "short_name": "Searle"
+            },
+            {
+                "full_name": "Rob Cross",
+                "position": "AWAY",
+                "short_name": "Cross"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ryan Searle",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Rob Cross",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Searle v Cross",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T20:50:00.000Z"
     },
     {
         "contestant_names": "Club Tucuman de Gimnasia, (1.55) VERSES Defensores de Banfield, (2.3)",
@@ -91,6 +91,37 @@
         "match_name": "Club Tucuman De v Banfield",
         "betOption": "Head To Head",
         "start_time": "2026-01-30T21:00:00.000Z"
+    },
+    {
+        "contestant_names": "Sho Shimabukuro, (2.4) VERSES Rinky Hijikata, (1.5)",
+        "start_time_aest": "2026-01-31T09:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Sho Shimabukuro",
+                "position": "HOME",
+                "short_name": "Shimabukuro"
+            },
+            {
+                "full_name": "Rinky Hijikata",
+                "position": "AWAY",
+                "short_name": "Hijikata"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sho Shimabukuro",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Rinky Hijikata",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Shimabukuro v Hijikata",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T22:00:00.000Z"
     },
     {
         "contestant_names": "Princeton, (1.5) VERSES Columbia, (2.5)",
