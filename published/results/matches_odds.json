@@ -1,38 +1,7 @@
 [
     {
-        "contestant_names": "Team Liquid, (2.4) VERSES Team Spirit, (1.5)",
-        "start_time_aest": "2026-01-31T03:00:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "DOTA2",
-        "contestants": [
-            {
-                "full_name": "Team Liquid",
-                "position": "HOME",
-                "short_name": "Team Liquid"
-            },
-            {
-                "full_name": "Team Spirit",
-                "position": "AWAY",
-                "short_name": "Team Spirit"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Team Liquid",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Team Spirit",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Team Liquid v Team Spirit",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-30T16:00:00.000Z"
-    },
-    {
         "contestant_names": "paiN, (2.4) VERSES Aurora Gaming, (1.5)",
-        "start_time_aest": "2026-01-31T03:00:00+11:00",
+        "start_time_aest": "2026-01-31T03:10:00+11:00",
         "sport_name": "Esports",
         "competition_name": "Counter Strike 2",
         "contestants": [
@@ -59,38 +28,7 @@
         ],
         "match_name": "Pain v Aurora Gaming",
         "betOption": "Head To Head",
-        "start_time": "2026-01-30T16:00:00.000Z"
-    },
-    {
-        "contestant_names": "Gage Brymer, (1.62) VERSES Benjamin George, (2.15)",
-        "start_time_aest": "2026-01-31T03:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Gage Brymer",
-                "position": "HOME",
-                "short_name": "Brymer"
-            },
-            {
-                "full_name": "Benjamin George",
-                "position": "AWAY",
-                "short_name": "George B"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Gage Brymer",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Benjamin George",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Brymer v George B",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-30T16:00:00.000Z"
+        "start_time": "2026-01-30T16:10:00.000Z"
     },
     {
         "contestant_names": "Kouvot Kouvola, (1.72) VERSES Lahti Basketball, (1.97)",
@@ -122,5 +60,67 @@
         "match_name": "Kouvot Kouvola v Lahti Basketball",
         "betOption": "Head To Head",
         "start_time": "2026-01-30T16:30:00.000Z"
+    },
+    {
+        "contestant_names": "Thor Thorl, (2.35) VERSES Keflavik, (1.52)",
+        "start_time_aest": "2026-01-31T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Iceland Premier League",
+        "contestants": [
+            {
+                "full_name": "Thor Thorl",
+                "position": "HOME",
+                "short_name": "Thor Thorl"
+            },
+            {
+                "full_name": "Keflavik",
+                "position": "AWAY",
+                "short_name": "Keflavik"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Thor Thorl",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Keflavik",
+                "returnWin": 1.52
+            }
+        ],
+        "match_name": "Thor Thorl v Keflavik",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Z Sports, (1.95) VERSES Pharma Solutions, (1.85)",
+        "start_time_aest": "2026-01-31T04:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "ICCA Arabian Cricket League",
+        "contestants": [
+            {
+                "full_name": "Z Sports",
+                "position": "HOME",
+                "short_name": "Z Sports"
+            },
+            {
+                "full_name": "Pharma Solutions",
+                "position": "AWAY",
+                "short_name": "Pharma Solutions"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Z Sports",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Pharma Solutions",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Z Sports v Pharma Solutions",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T17:00:00.000Z"
     }
 ]
