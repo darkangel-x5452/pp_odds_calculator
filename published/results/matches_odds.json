@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Xuan Chen Zhu, (1.5) VERSES Tharun Mannepalli, (2.4)",
-        "start_time_aest": "2026-01-30T17:30:00+11:00",
-        "sport_name": "Badminton",
-        "competition_name": "Badminton World Tour",
-        "contestants": [
-            {
-                "full_name": "Xuan Chen Zhu",
-                "position": "HOME",
-                "short_name": "Zhu XC"
-            },
-            {
-                "full_name": "Tharun Mannepalli",
-                "position": "AWAY",
-                "short_name": "Mannepalli"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Xuan Chen Zhu",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Tharun Mannepalli",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Zhu XC v Mannepalli",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-30T06:30:00.000Z"
-    },
-    {
-        "contestant_names": "Pratiwi A C/Ramadhanti S F S, (1.5) VERSES Hsu Y C/Sung Y, (2.4)",
-        "start_time_aest": "2026-01-30T17:30:00+11:00",
-        "sport_name": "Badminton",
-        "competition_name": "Badminton World Tour Doubles",
-        "contestants": [
-            {
-                "full_name": "Pratiwi A C/Ramadhanti S F S",
-                "position": "HOME",
-                "short_name": "Prtiwi/Rmadhanti"
-            },
-            {
-                "full_name": "Hsu Y C/Sung Y",
-                "position": "AWAY",
-                "short_name": "Hsu Y C/Sung Y"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Pratiwi A C/Ramadhanti S F S",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Hsu Y C/Sung Y",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Prtiwi/Rmadhanti v Hsu Y C/Sung Y",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-30T06:30:00.000Z"
-    },
-    {
         "contestant_names": "Ryan Nijboer, (1.55) VERSES Karim Bennani, (2.3)",
         "start_time_aest": "2026-01-30T18:00:00+11:00",
         "sport_name": "Tennis",
@@ -122,5 +60,36 @@
         "match_name": "Milic v Vargova N",
         "betOption": "Head To Head",
         "start_time": "2026-01-30T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Thailand (W), (1.75) VERSES USA (W), (2)",
+        "start_time_aest": "2026-01-30T18:15:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "ICC Womens T20 World Cup Qualifiers",
+        "contestants": [
+            {
+                "full_name": "Thailand (W)",
+                "position": "HOME",
+                "short_name": "Thailand (W)"
+            },
+            {
+                "full_name": "USA (W)",
+                "position": "AWAY",
+                "short_name": "USA (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Thailand (W)",
+                "returnWin": 1.75
+            },
+            {
+                "name": "USA (W)",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Thailand (W) v USA (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T07:15:00.000Z"
     }
 ]
