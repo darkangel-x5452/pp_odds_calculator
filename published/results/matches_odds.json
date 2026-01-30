@@ -1,38 +1,7 @@
 [
     {
-        "contestant_names": "Beijing RF, (1.55) VERSES Qingdao, (2.25)",
-        "start_time_aest": "2026-01-30T22:35:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "China CBA",
-        "contestants": [
-            {
-                "full_name": "Beijing RF",
-                "position": "HOME",
-                "short_name": "Beijing RF"
-            },
-            {
-                "full_name": "Qingdao",
-                "position": "AWAY",
-                "short_name": "Qingdao"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Beijing RF",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Qingdao",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Beijing RF v Qingdao",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-30T11:35:00.000Z"
-    },
-    {
-        "contestant_names": "Kyrian Jacquet, (1.75) VERSES Jacob Fearnley, (1.95)",
-        "start_time_aest": "2026-01-30T23:00:00+11:00",
+        "contestant_names": "Kyrian Jacquet, (1.72) VERSES Jacob Fearnley, (2)",
+        "start_time_aest": "2026-01-30T23:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -50,16 +19,16 @@
         "propositions": [
             {
                 "name": "Kyrian Jacquet",
-                "returnWin": 1.75
+                "returnWin": 1.72
             },
             {
                 "name": "Jacob Fearnley",
-                "returnWin": 1.95
+                "returnWin": 2
             }
         ],
         "match_name": "Jacquet v Fearnley",
         "betOption": "Head To Head",
-        "start_time": "2026-01-30T12:00:00.000Z"
+        "start_time": "2026-01-30T12:15:00.000Z"
     },
     {
         "contestant_names": "GamerLegion, (2.05) VERSES Heroic, (1.68)",
@@ -121,6 +90,68 @@
         ],
         "match_name": "Astralis v Nrg",
         "betOption": "Head To Head",
+        "start_time": "2026-01-30T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Kyren Wilson, (1.68) VERSES Shaun Murphy, (2.1)",
+        "start_time_aest": "2026-01-31T00:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "German Masters",
+        "contestants": [
+            {
+                "full_name": "Kyren Wilson",
+                "position": "HOME",
+                "short_name": "Wilson K"
+            },
+            {
+                "full_name": "Shaun Murphy",
+                "position": "AWAY",
+                "short_name": "Murphy"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Kyren Wilson",
+                "returnWin": 1.68
+            },
+            {
+                "name": "Shaun Murphy",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Wilson K v Murphy",
+        "betOption": "Result",
+        "start_time": "2026-01-30T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Allister Carter, (1.65) VERSES Stuart Bingham, (2.15)",
+        "start_time_aest": "2026-01-31T00:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "German Masters",
+        "contestants": [
+            {
+                "full_name": "Allister Carter",
+                "position": "HOME",
+                "short_name": "Carter"
+            },
+            {
+                "full_name": "Stuart Bingham",
+                "position": "AWAY",
+                "short_name": "Bingham"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Allister Carter",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Stuart Bingham",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Carter v Bingham",
+        "betOption": "Result",
         "start_time": "2026-01-30T13:00:00.000Z"
     },
     {
