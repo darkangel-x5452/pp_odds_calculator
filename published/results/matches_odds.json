@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Ugo Blanchet, (2.2) VERSES Luca Nardi, (1.6)",
-        "start_time_aest": "2026-01-31T01:15:00+11:00",
+        "start_time_aest": "2026-01-31T01:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -28,42 +28,11 @@
         ],
         "match_name": "Blanchet v Nardi L",
         "betOption": "Head To Head",
-        "start_time": "2026-01-30T14:15:00.000Z"
-    },
-    {
-        "contestant_names": "Otto Virtanen, (1.52) VERSES Stefano Travaglia, (2.35)",
-        "start_time_aest": "2026-01-31T01:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Otto Virtanen",
-                "position": "HOME",
-                "short_name": "Virtanen O"
-            },
-            {
-                "full_name": "Stefano Travaglia",
-                "position": "AWAY",
-                "short_name": "Travaglia"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Otto Virtanen",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Stefano Travaglia",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Virtanen O v Travaglia",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-30T14:15:00.000Z"
+        "start_time": "2026-01-30T14:45:00.000Z"
     },
     {
         "contestant_names": "Titouan Droguet, (2.05) VERSES Luca Van Assche, (1.68)",
-        "start_time_aest": "2026-01-31T01:15:00+11:00",
+        "start_time_aest": "2026-01-31T01:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -90,38 +59,7 @@
         ],
         "match_name": "Droguet v Van Assche",
         "betOption": "Head To Head",
-        "start_time": "2026-01-30T14:15:00.000Z"
-    },
-    {
-        "contestant_names": "BC Astana, (1.95) VERSES Shahrdari Gorgan, (1.75)",
-        "start_time_aest": "2026-01-31T01:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "West Asia Super League",
-        "contestants": [
-            {
-                "full_name": "BC Astana",
-                "position": "HOME",
-                "short_name": "BC Astana"
-            },
-            {
-                "full_name": "Shahrdari Gorgan",
-                "position": "AWAY",
-                "short_name": "Shahrdari Gorgan"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "BC Astana",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Shahrdari Gorgan",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "BC Astana v Shahrdari Gorgan",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-30T14:30:00.000Z"
+        "start_time": "2026-01-30T14:45:00.000Z"
     },
     {
         "contestant_names": "Basket Ostrava, (2) VERSES Slovanka MB, (1.7)",
@@ -370,5 +308,36 @@
         "match_name": "Pain v Aurora Gaming",
         "betOption": "Head To Head",
         "start_time": "2026-01-30T15:30:00.000Z"
+    },
+    {
+        "contestant_names": "Team Liquid, (2.4) VERSES Team Spirit, (1.5)",
+        "start_time_aest": "2026-01-31T03:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "contestants": [
+            {
+                "full_name": "Team Liquid",
+                "position": "HOME",
+                "short_name": "Team Liquid"
+            },
+            {
+                "full_name": "Team Spirit",
+                "position": "AWAY",
+                "short_name": "Team Spirit"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Team Liquid",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Team Spirit",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Team Liquid v Team Spirit",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T16:00:00.000Z"
     }
 ]
