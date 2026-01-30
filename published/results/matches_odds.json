@@ -91,5 +91,36 @@
         "match_name": "Nijboer v Bennani K",
         "betOption": "Head To Head",
         "start_time": "2026-01-30T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Ela Nala Milic, (2.25) VERSES Nina Vargova, (1.58)",
+        "start_time_aest": "2026-01-30T18:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Ela Nala Milic",
+                "position": "HOME",
+                "short_name": "Milic"
+            },
+            {
+                "full_name": "Nina Vargova",
+                "position": "AWAY",
+                "short_name": "Vargova N"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ela Nala Milic",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Nina Vargova",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Milic v Vargova N",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T07:00:00.000Z"
     }
 ]
