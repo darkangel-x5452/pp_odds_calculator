@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Gleason/Santamaria, (2.15) VERSES Chong/Liang, (1.62)",
-        "start_time_aest": "2026-01-30T22:05:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA 125 Doubles",
-        "contestants": [
-            {
-                "full_name": "Gleason/Santamaria",
-                "position": "HOME",
-                "short_name": "Gleason/Santamaria"
-            },
-            {
-                "full_name": "Chong/Liang",
-                "position": "AWAY",
-                "short_name": "Chong/Liang"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Gleason/Santamaria",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Chong/Liang",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Gleason/Santamaria v Chong/Liang",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-30T11:05:00.000Z"
-    },
-    {
-        "contestant_names": "TnT TropangTxtrs, (2.5) VERSES San Mig Beermen, (1.45)",
-        "start_time_aest": "2026-01-30T22:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Philippines PBA Cup",
-        "contestants": [
-            {
-                "full_name": "TnT TropangTxtrs",
-                "position": "HOME",
-                "short_name": "TnT TropangTxtrs"
-            },
-            {
-                "full_name": "San Mig Beermen",
-                "position": "AWAY",
-                "short_name": "San Mig Beermen"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "TnT TropangTxtrs",
-                "returnWin": 2.5
-            },
-            {
-                "name": "San Mig Beermen",
-                "returnWin": 1.45
-            }
-        ],
-        "match_name": "TnT TropangTxtrs v San Mig Beermen",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-30T11:30:00.000Z"
-    },
-    {
         "contestant_names": "Beijing RF, (1.55) VERSES Qingdao, (2.25)",
         "start_time_aest": "2026-01-30T22:35:00+11:00",
         "sport_name": "Basketball",
@@ -91,6 +29,99 @@
         "match_name": "Beijing RF v Qingdao",
         "betOption": "Head To Head",
         "start_time": "2026-01-30T11:35:00.000Z"
+    },
+    {
+        "contestant_names": "Kyrian Jacquet, (1.75) VERSES Jacob Fearnley, (1.95)",
+        "start_time_aest": "2026-01-30T23:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Kyrian Jacquet",
+                "position": "HOME",
+                "short_name": "Jacquet"
+            },
+            {
+                "full_name": "Jacob Fearnley",
+                "position": "AWAY",
+                "short_name": "Fearnley"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Kyrian Jacquet",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Jacob Fearnley",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Jacquet v Fearnley",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T12:00:00.000Z"
+    },
+    {
+        "contestant_names": "GamerLegion, (2.05) VERSES Heroic, (1.68)",
+        "start_time_aest": "2026-01-31T00:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "contestants": [
+            {
+                "full_name": "GamerLegion",
+                "position": "HOME",
+                "short_name": "Gamerlegion"
+            },
+            {
+                "full_name": "Heroic",
+                "position": "AWAY",
+                "short_name": "Heroic"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "GamerLegion",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Heroic",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Gamerlegion v Heroic",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Astralis, (1.5) VERSES NRG, (2.4)",
+        "start_time_aest": "2026-01-31T00:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "contestants": [
+            {
+                "full_name": "Astralis",
+                "position": "HOME",
+                "short_name": "Astralis"
+            },
+            {
+                "full_name": "NRG",
+                "position": "AWAY",
+                "short_name": "Nrg"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Astralis",
+                "returnWin": 1.5
+            },
+            {
+                "name": "NRG",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Astralis v Nrg",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T13:00:00.000Z"
     },
     {
         "contestant_names": "Sri Lanka, (2.5) VERSES England, (1.52)",
