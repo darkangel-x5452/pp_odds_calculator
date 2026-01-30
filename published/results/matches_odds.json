@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Sho Shimabukuro, (2.4) VERSES Rinky Hijikata, (1.5)",
-        "start_time_aest": "2026-01-31T09:00:00+11:00",
+        "start_time_aest": "2026-01-31T09:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -28,7 +28,7 @@
         ],
         "match_name": "Shimabukuro v Hijikata",
         "betOption": "Head To Head",
-        "start_time": "2026-01-30T22:00:00.000Z"
+        "start_time": "2026-01-30T22:15:00.000Z"
     },
     {
         "contestant_names": "Princeton, (1.5) VERSES Columbia, (2.5)",
@@ -91,5 +91,67 @@
         "match_name": "Fluminense (W) v Volei Bauru (W)",
         "betOption": "Head To Head",
         "start_time": "2026-01-30T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Racing Club, (1.6) VERSES Cnt Entrerriano, (2.15)",
+        "start_time_aest": "2026-01-31T10:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Racing Club",
+                "position": "HOME",
+                "short_name": "Racing Club"
+            },
+            {
+                "full_name": "Cnt Entrerriano",
+                "position": "AWAY",
+                "short_name": "Cnt Entrerriano"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Racing Club",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Cnt Entrerriano",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Racing Club v Cnt Entrerriano",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T23:30:00.000Z"
+    },
+    {
+        "contestant_names": "Racing De Chivil, (1.45) VERSES Olimpico, (2.5)",
+        "start_time_aest": "2026-01-31T10:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga Nacional de Basket",
+        "contestants": [
+            {
+                "full_name": "Racing De Chivil",
+                "position": "HOME",
+                "short_name": "Racing De Chivil"
+            },
+            {
+                "full_name": "Olimpico",
+                "position": "AWAY",
+                "short_name": "Olimpico"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Racing De Chivil",
+                "returnWin": 1.45
+            },
+            {
+                "name": "Olimpico",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Racing De Chivil v Olimpico",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T23:30:00.000Z"
     }
 ]
