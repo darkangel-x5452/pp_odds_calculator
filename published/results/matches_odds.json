@@ -1,281 +1,374 @@
 [
     {
-        "contestant_names": "New Jersey, (1.7) VERSES Nashville, (2.1)",
-        "start_time_aest": "2026-01-30T11:08:00+11:00",
+        "contestant_names": "Detroit, (1.75) VERSES Washington, (2.05)",
+        "start_time_aest": "2026-01-30T11:38:00+11:00",
         "sport_name": "Ice Hockey",
         "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "New Jersey",
+                "full_name": "Detroit",
                 "position": "HOME",
-                "short_name": "New Jersey"
+                "short_name": "Detroit"
             },
             {
-                "full_name": "Nashville",
+                "full_name": "Washington",
                 "position": "AWAY",
-                "short_name": "Nashville"
+                "short_name": "Washington"
             }
         ],
         "propositions": [
             {
-                "name": "New Jersey",
-                "returnWin": 1.7
+                "name": "Detroit",
+                "returnWin": 1.75
             },
             {
-                "name": "Nashville",
-                "returnWin": 2.1
+                "name": "Washington",
+                "returnWin": 2.05
             }
         ],
-        "match_name": "New Jersey v Nashville",
+        "match_name": "Detroit v Washington",
         "betOption": "Head To Head",
-        "start_time": "2026-01-30T00:08:00.000Z"
+        "start_time": "2026-01-30T00:38:00.000Z"
     },
     {
-        "contestant_names": "Pittsburgh, (1.55) VERSES Chicago, (2.4)",
-        "start_time_aest": "2026-01-30T11:08:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
+        "contestant_names": "South Alabama, (1.55) VERSES Coastal Carolina, (2.45)",
+        "start_time_aest": "2026-01-30T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Pittsburgh",
+                "full_name": "South Alabama",
                 "position": "HOME",
-                "short_name": "Pittsburgh"
+                "short_name": "South Alabama"
             },
             {
-                "full_name": "Chicago",
+                "full_name": "Coastal Carolina",
                 "position": "AWAY",
-                "short_name": "Chicago"
+                "short_name": "Coastal Carolina"
             }
         ],
         "propositions": [
             {
-                "name": "Pittsburgh",
+                "name": "South Alabama",
                 "returnWin": 1.55
             },
             {
-                "name": "Chicago",
-                "returnWin": 2.4
+                "name": "Coastal Carolina",
+                "returnWin": 2.45
             }
         ],
-        "match_name": "Pittsburgh v Chicago",
+        "match_name": "South Alabama v Coastal Carolina",
         "betOption": "Head To Head",
-        "start_time": "2026-01-30T00:08:00.000Z"
+        "start_time": "2026-01-30T01:00:00.000Z"
     },
     {
-        "contestant_names": "Carolina, (1.52) VERSES Utah, (2.5)",
-        "start_time_aest": "2026-01-30T11:08:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
+        "contestant_names": "UL Lafayette, (2) VERSES Georgia State, (1.8)",
+        "start_time_aest": "2026-01-30T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Carolina",
+                "full_name": "UL Lafayette",
                 "position": "HOME",
-                "short_name": "Carolina"
+                "short_name": "UL Lafayette"
             },
             {
-                "full_name": "Utah",
+                "full_name": "Georgia State",
                 "position": "AWAY",
-                "short_name": "Utah"
+                "short_name": "Georgia State"
             }
         ],
         "propositions": [
             {
-                "name": "Carolina",
-                "returnWin": 1.52
+                "name": "UL Lafayette",
+                "returnWin": 2
             },
             {
-                "name": "Utah",
-                "returnWin": 2.5
+                "name": "Georgia State",
+                "returnWin": 1.8
             }
         ],
-        "match_name": "Carolina v Utah",
+        "match_name": "UL Lafayette v Georgia State",
         "betOption": "Head To Head",
-        "start_time": "2026-01-30T00:08:00.000Z"
+        "start_time": "2026-01-30T01:00:00.000Z"
     },
     {
-        "contestant_names": "NY Rangers, (2.15) VERSES NY Islanders, (1.68)",
-        "start_time_aest": "2026-01-30T11:08:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
+        "contestant_names": "Southern Miss, (2) VERSES Appalachian St, (1.8)",
+        "start_time_aest": "2026-01-30T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "NY Rangers",
+                "full_name": "Southern Miss",
                 "position": "HOME",
-                "short_name": "NY Rangers"
+                "short_name": "Southern Miss"
             },
             {
-                "full_name": "NY Islanders",
+                "full_name": "Appalachian St",
                 "position": "AWAY",
-                "short_name": "NY Islanders"
+                "short_name": "Appalachian St"
             }
         ],
         "propositions": [
             {
-                "name": "NY Rangers",
+                "name": "Southern Miss",
+                "returnWin": 2
+            },
+            {
+                "name": "Appalachian St",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Southern Miss v Appalachian St",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Northern Arizona, (2.15) VERSES EastrnWashington, (1.7)",
+        "start_time_aest": "2026-01-30T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Northern Arizona",
+                "position": "HOME",
+                "short_name": "Northern Arizona"
+            },
+            {
+                "full_name": "EastrnWashington",
+                "position": "AWAY",
+                "short_name": "EastrnWashington"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Northern Arizona",
                 "returnWin": 2.15
             },
             {
-                "name": "NY Islanders",
-                "returnWin": 1.68
+                "name": "EastrnWashington",
+                "returnWin": 1.7
             }
         ],
-        "match_name": "NY Rangers v NY Islanders",
+        "match_name": "Northern Arizona v EastrnWashington",
         "betOption": "Head To Head",
-        "start_time": "2026-01-30T00:08:00.000Z"
+        "start_time": "2026-01-30T01:00:00.000Z"
     },
     {
-        "contestant_names": "Buffalo, (1.75) VERSES Los Angeles, (2.05)",
-        "start_time_aest": "2026-01-30T11:09:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
+        "contestant_names": "South Dakota, (1.6) VERSES Oral Roberts, (2.35)",
+        "start_time_aest": "2026-01-30T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Buffalo",
+                "full_name": "South Dakota",
                 "position": "HOME",
-                "short_name": "Buffalo"
+                "short_name": "South Dakota"
             },
             {
-                "full_name": "Los Angeles",
+                "full_name": "Oral Roberts",
                 "position": "AWAY",
-                "short_name": "Los Angeles"
+                "short_name": "Oral Roberts"
             }
         ],
         "propositions": [
             {
-                "name": "Buffalo",
-                "returnWin": 1.75
+                "name": "South Dakota",
+                "returnWin": 1.6
             },
             {
-                "name": "Los Angeles",
-                "returnWin": 2.05
+                "name": "Oral Roberts",
+                "returnWin": 2.35
             }
         ],
-        "match_name": "Buffalo v Los Angeles",
+        "match_name": "South Dakota v Oral Roberts",
         "betOption": "Head To Head",
-        "start_time": "2026-01-30T00:09:00.000Z"
+        "start_time": "2026-01-30T01:00:00.000Z"
     },
     {
-        "contestant_names": "Tampa Bay, (1.52) VERSES Winnipeg, (2.5)",
-        "start_time_aest": "2026-01-30T11:09:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
+        "contestant_names": "Memphis, (1.65) VERSES Florida Atlantic, (2.25)",
+        "start_time_aest": "2026-01-30T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Tampa Bay",
+                "full_name": "Memphis",
                 "position": "HOME",
-                "short_name": "Tampa Bay"
+                "short_name": "Memphis"
             },
             {
-                "full_name": "Winnipeg",
+                "full_name": "Florida Atlantic",
                 "position": "AWAY",
-                "short_name": "Winnipeg"
+                "short_name": "Florida Atlantic"
             }
         ],
         "propositions": [
             {
-                "name": "Tampa Bay",
+                "name": "Memphis",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Florida Atlantic",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Memphis v Florida Atlantic",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Minnesota, (1.52) VERSES Calgary, (2.5)",
+        "start_time_aest": "2026-01-30T12:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Minnesota",
+                "position": "HOME",
+                "short_name": "Minnesota"
+            },
+            {
+                "full_name": "Calgary",
+                "position": "AWAY",
+                "short_name": "Calgary"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Minnesota",
                 "returnWin": 1.52
             },
             {
-                "name": "Winnipeg",
+                "name": "Calgary",
                 "returnWin": 2.5
             }
         ],
-        "match_name": "Tampa Bay v Winnipeg",
+        "match_name": "Minnesota v Calgary",
         "betOption": "Head To Head",
-        "start_time": "2026-01-30T00:09:00.000Z"
+        "start_time": "2026-01-30T01:05:00.000Z"
     },
     {
-        "contestant_names": "Montreal, (2.05) VERSES Colorado, (1.75)",
-        "start_time_aest": "2026-01-30T11:09:00+11:00",
+        "contestant_names": "St Louis, (2.3) VERSES Florida, (1.6)",
+        "start_time_aest": "2026-01-30T12:09:00+11:00",
         "sport_name": "Ice Hockey",
         "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "Montreal",
+                "full_name": "St Louis",
                 "position": "HOME",
-                "short_name": "Montreal"
+                "short_name": "St Louis"
             },
             {
-                "full_name": "Colorado",
+                "full_name": "Florida",
                 "position": "AWAY",
-                "short_name": "Colorado"
+                "short_name": "Florida"
             }
         ],
         "propositions": [
             {
-                "name": "Montreal",
-                "returnWin": 2.05
+                "name": "St Louis",
+                "returnWin": 2.3
             },
             {
-                "name": "Colorado",
-                "returnWin": 1.75
+                "name": "Florida",
+                "returnWin": 1.6
             }
         ],
-        "match_name": "Montreal v Colorado",
+        "match_name": "St Louis v Florida",
         "betOption": "Head To Head",
-        "start_time": "2026-01-30T00:09:00.000Z"
+        "start_time": "2026-01-30T01:09:00.000Z"
     },
     {
-        "contestant_names": "Washington, (2.1) VERSES Milwaukee, (1.77)",
-        "start_time_aest": "2026-01-30T11:10:00+11:00",
+        "contestant_names": "Chicago, (2.15) VERSES Miami, (1.73)",
+        "start_time_aest": "2026-01-30T12:10:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NBA",
         "contestants": [
             {
-                "full_name": "Washington",
+                "full_name": "Chicago",
                 "position": "HOME",
-                "short_name": "Washington"
+                "short_name": "Chicago"
             },
             {
-                "full_name": "Milwaukee",
+                "full_name": "Miami",
                 "position": "AWAY",
-                "short_name": "Milwaukee"
+                "short_name": "Miami"
             }
         ],
         "propositions": [
             {
-                "name": "Washington",
-                "returnWin": 2.1
+                "name": "Chicago",
+                "returnWin": 2.15
             },
             {
-                "name": "Milwaukee",
-                "returnWin": 1.77
+                "name": "Miami",
+                "returnWin": 1.73
             }
         ],
-        "match_name": "Washington v Milwaukee",
+        "match_name": "Chicago v Miami",
         "betOption": "Head To Head",
-        "start_time": "2026-01-30T00:10:00.000Z"
+        "start_time": "2026-01-30T01:10:00.000Z"
     },
     {
-        "contestant_names": "Boston, (1.6) VERSES Philadelphia, (2.3)",
-        "start_time_aest": "2026-01-30T11:10:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
+        "contestant_names": "Northern Brave (W), (2.15) VERSES Auckland Hearts (W), (1.68)",
+        "start_time_aest": "2026-01-30T12:10:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "NZ Womens Super Smash",
         "contestants": [
             {
-                "full_name": "Boston",
+                "full_name": "Northern Brave (W)",
                 "position": "HOME",
-                "short_name": "Boston"
+                "short_name": "Nthn Brave (W)"
             },
             {
-                "full_name": "Philadelphia",
+                "full_name": "Auckland Hearts (W)",
                 "position": "AWAY",
-                "short_name": "Philadelphia"
+                "short_name": "Auckland (W)"
             }
         ],
         "propositions": [
             {
-                "name": "Boston",
-                "returnWin": 1.6
+                "name": "Northern Brave (W)",
+                "returnWin": 2.15
             },
             {
-                "name": "Philadelphia",
-                "returnWin": 2.3
+                "name": "Auckland Hearts (W)",
+                "returnWin": 1.68
             }
         ],
-        "match_name": "Boston v Philadelphia",
+        "match_name": "Nthn Brave (W) v Auckland (W)",
         "betOption": "Head To Head",
-        "start_time": "2026-01-30T00:10:00.000Z"
+        "start_time": "2026-01-30T01:10:00.000Z"
+    },
+    {
+        "contestant_names": "Eastern Illinois, (2.45) VERSES Tennessee-Martin, (1.55)",
+        "start_time_aest": "2026-01-30T12:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Eastern Illinois",
+                "position": "HOME",
+                "short_name": "Eastern Illinois"
+            },
+            {
+                "full_name": "Tennessee-Martin",
+                "position": "AWAY",
+                "short_name": "Tennessee-Martin"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Eastern Illinois",
+                "returnWin": 2.45
+            },
+            {
+                "name": "Tennessee-Martin",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Eastern Illinois v Tennessee-Martin",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T01:30:00.000Z"
     }
 ]
