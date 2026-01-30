@@ -153,5 +153,98 @@
         "match_name": "Gamerlegion v Astralis",
         "betOption": "Head To Head",
         "start_time": "2026-01-30T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Daniel Masur, (2.1) VERSES Dominic Stricker, (1.65)",
+        "start_time_aest": "2026-01-31T05:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Daniel Masur",
+                "position": "HOME",
+                "short_name": "Masur D"
+            },
+            {
+                "full_name": "Dominic Stricker",
+                "position": "AWAY",
+                "short_name": "Stricker D"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Daniel Masur",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Dominic Stricker",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Masur D v Stricker D",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Louisa Chirico, (2.25) VERSES Elvina Kalieva, (1.58)",
+        "start_time_aest": "2026-01-31T05:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Louisa Chirico",
+                "position": "HOME",
+                "short_name": "Chirico"
+            },
+            {
+                "full_name": "Elvina Kalieva",
+                "position": "AWAY",
+                "short_name": "Kalieva E"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Louisa Chirico",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Elvina Kalieva",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Chirico v Kalieva E",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Xiaodi You, (1.68) VERSES Shilin Xu, (2.05)",
+        "start_time_aest": "2026-01-31T05:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Xiaodi You",
+                "position": "HOME",
+                "short_name": "You X"
+            },
+            {
+                "full_name": "Shilin Xu",
+                "position": "AWAY",
+                "short_name": "Xu S"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Xiaodi You",
+                "returnWin": 1.68
+            },
+            {
+                "name": "Shilin Xu",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "You X v Xu S",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T18:00:00.000Z"
     }
 ]
