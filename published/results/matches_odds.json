@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Zhou Yi, (1.55) VERSES Yu Hsiou Hsu, (2.3)",
-        "start_time_aest": "2026-01-30T16:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Zhou Yi",
-                "position": "HOME",
-                "short_name": "Zhou Y"
-            },
-            {
-                "full_name": "Yu Hsiou Hsu",
-                "position": "AWAY",
-                "short_name": "Hsiou Hsu Yu"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Zhou Yi",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Yu Hsiou Hsu",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Zhou Y v Hsiou Hsu Yu",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-30T05:30:00.000Z"
-    },
-    {
-        "contestant_names": "Daniel Michalski, (1.46) VERSES Florent Bax, (2.5)",
-        "start_time_aest": "2026-01-30T16:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Daniel Michalski",
-                "position": "HOME",
-                "short_name": "Michalski"
-            },
-            {
-                "full_name": "Florent Bax",
-                "position": "AWAY",
-                "short_name": "Bax"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Daniel Michalski",
-                "returnWin": 1.46
-            },
-            {
-                "name": "Florent Bax",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Michalski v Bax",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-30T05:30:00.000Z"
-    },
-    {
         "contestant_names": "Xuan Chen Zhu, (1.5) VERSES Tharun Mannepalli, (2.4)",
         "start_time_aest": "2026-01-30T17:30:00+11:00",
         "sport_name": "Badminton",
@@ -122,5 +60,36 @@
         "match_name": "Prtiwi/Rmadhanti v Hsu Y C/Sung Y",
         "betOption": "Head To Head",
         "start_time": "2026-01-30T06:30:00.000Z"
+    },
+    {
+        "contestant_names": "Ryan Nijboer, (1.55) VERSES Karim Bennani, (2.3)",
+        "start_time_aest": "2026-01-30T18:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Ryan Nijboer",
+                "position": "HOME",
+                "short_name": "Nijboer"
+            },
+            {
+                "full_name": "Karim Bennani",
+                "position": "AWAY",
+                "short_name": "Bennani K"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ryan Nijboer",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Karim Bennani",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Nijboer v Bennani K",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T07:00:00.000Z"
     }
 ]
