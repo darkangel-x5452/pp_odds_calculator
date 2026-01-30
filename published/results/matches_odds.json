@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "UC San Diego, (1.58) VERSES UC Santa Barbara, (2.4)",
-        "start_time_aest": "2026-01-30T14:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "UC San Diego",
-                "position": "HOME",
-                "short_name": "UC San Diego"
-            },
-            {
-                "full_name": "UC Santa Barbara",
-                "position": "AWAY",
-                "short_name": "UC Santa Barbara"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "UC San Diego",
-                "returnWin": 1.58
-            },
-            {
-                "name": "UC Santa Barbara",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "UC San Diego v UC Santa Barbara",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-30T03:00:00.000Z"
-    },
-    {
-        "contestant_names": "UC Riverside, (2.15) VERSES Long Beach State, (1.7)",
-        "start_time_aest": "2026-01-30T14:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "UC Riverside",
-                "position": "HOME",
-                "short_name": "UC Riverside"
-            },
-            {
-                "full_name": "Long Beach State",
-                "position": "AWAY",
-                "short_name": "Long Beach State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "UC Riverside",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Long Beach State",
-                "returnWin": 1.7
-            }
-        ],
-        "match_name": "UC Riverside v Long Beach State",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-30T03:00:00.000Z"
-    },
-    {
-        "contestant_names": "CSU Northridge, (1.62) VERSES UC Davis, (2.3)",
-        "start_time_aest": "2026-01-30T14:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "CSU Northridge",
-                "position": "HOME",
-                "short_name": "CSU Northridge"
-            },
-            {
-                "full_name": "UC Davis",
-                "position": "AWAY",
-                "short_name": "UC Davis"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "CSU Northridge",
-                "returnWin": 1.62
-            },
-            {
-                "name": "UC Davis",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "CSU Northridge v UC Davis",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-30T03:00:00.000Z"
-    },
-    {
         "contestant_names": "Vancouver, (2.15) VERSES Anaheim, (1.68)",
         "start_time_aest": "2026-01-30T14:05:00+11:00",
         "sport_name": "Ice Hockey",
@@ -337,6 +244,37 @@
             }
         ],
         "match_name": "Zhou Y v Hsiou Hsu Yu",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T05:30:00.000Z"
+    },
+    {
+        "contestant_names": "Daniel Michalski, (1.46) VERSES Florent Bax, (2.5)",
+        "start_time_aest": "2026-01-30T16:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Daniel Michalski",
+                "position": "HOME",
+                "short_name": "Michalski"
+            },
+            {
+                "full_name": "Florent Bax",
+                "position": "AWAY",
+                "short_name": "Bax"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Daniel Michalski",
+                "returnWin": 1.46
+            },
+            {
+                "name": "Florent Bax",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Michalski v Bax",
         "betOption": "Head To Head",
         "start_time": "2026-01-30T05:30:00.000Z"
     }
