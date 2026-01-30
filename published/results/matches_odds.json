@@ -1,64 +1,157 @@
 [
     {
-        "contestant_names": "Thor Thorl, (2.35) VERSES Keflavik, (1.52)",
-        "start_time_aest": "2026-01-31T04:00:00+11:00",
+        "contestant_names": "Herlev, (1.75) VERSES Vejen, (1.95)",
+        "start_time_aest": "2026-01-31T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Denmark Basketligaen",
+        "contestants": [
+            {
+                "full_name": "Herlev",
+                "position": "HOME",
+                "short_name": "Herlev"
+            },
+            {
+                "full_name": "Vejen",
+                "position": "AWAY",
+                "short_name": "Vejen"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Herlev",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Vejen",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Herlev v Vejen",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Stjarnan, (1.62) VERSES Tindastoll, (2.15)",
+        "start_time_aest": "2026-01-31T05:00:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "Iceland Premier League",
         "contestants": [
             {
-                "full_name": "Thor Thorl",
+                "full_name": "Stjarnan",
                 "position": "HOME",
-                "short_name": "Thor Thorl"
+                "short_name": "Stjarnan"
             },
             {
-                "full_name": "Keflavik",
+                "full_name": "Tindastoll",
                 "position": "AWAY",
-                "short_name": "Keflavik"
+                "short_name": "Tindastoll"
             }
         ],
         "propositions": [
             {
-                "name": "Thor Thorl",
-                "returnWin": 2.35
+                "name": "Stjarnan",
+                "returnWin": 1.62
             },
             {
-                "name": "Keflavik",
-                "returnWin": 1.52
+                "name": "Tindastoll",
+                "returnWin": 2.15
             }
         ],
-        "match_name": "Thor Thorl v Keflavik",
+        "match_name": "Stjarnan v Tindastoll",
         "betOption": "Head To Head",
-        "start_time": "2026-01-30T17:00:00.000Z"
+        "start_time": "2026-01-30T18:00:00.000Z"
     },
     {
-        "contestant_names": "Z Sports, (1.95) VERSES Pharma Solutions, (1.85)",
-        "start_time_aest": "2026-01-31T04:00:00+11:00",
+        "contestant_names": "Karavali United, (2.3) VERSES Phoenix Cricketers, (1.58)",
+        "start_time_aest": "2026-01-31T05:00:00+11:00",
         "sport_name": "Cricket",
-        "competition_name": "ICCA Arabian Cricket League",
+        "competition_name": "Falcons Champions Trophy T20",
         "contestants": [
             {
-                "full_name": "Z Sports",
+                "full_name": "Karavali United",
                 "position": "HOME",
-                "short_name": "Z Sports"
+                "short_name": "Karavali United"
             },
             {
-                "full_name": "Pharma Solutions",
+                "full_name": "Phoenix Cricketers",
                 "position": "AWAY",
-                "short_name": "Pharma Solutions"
+                "short_name": "Phoenix Crickete"
             }
         ],
         "propositions": [
             {
-                "name": "Z Sports",
-                "returnWin": 1.95
+                "name": "Karavali United",
+                "returnWin": 2.3
             },
             {
-                "name": "Pharma Solutions",
-                "returnWin": 1.85
+                "name": "Phoenix Cricketers",
+                "returnWin": 1.58
             }
         ],
-        "match_name": "Z Sports v Pharma Solutions",
+        "match_name": "Karavali United v Phoenix Crickete",
         "betOption": "Head To Head",
-        "start_time": "2026-01-30T17:00:00.000Z"
+        "start_time": "2026-01-30T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Liquid, (1.75) VERSES FUT Esports, (1.95)",
+        "start_time_aest": "2026-01-31T05:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "contestants": [
+            {
+                "full_name": "Liquid",
+                "position": "HOME",
+                "short_name": "Liquid"
+            },
+            {
+                "full_name": "FUT Esports",
+                "position": "AWAY",
+                "short_name": "FUT Esports"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Liquid",
+                "returnWin": 1.75
+            },
+            {
+                "name": "FUT Esports",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Liquid v FUT Esports",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "GamerLegion, (1.65) VERSES Astralis, (2.1)",
+        "start_time_aest": "2026-01-31T05:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "contestants": [
+            {
+                "full_name": "GamerLegion",
+                "position": "HOME",
+                "short_name": "Gamerlegion"
+            },
+            {
+                "full_name": "Astralis",
+                "position": "AWAY",
+                "short_name": "Astralis"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "GamerLegion",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Astralis",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Gamerlegion v Astralis",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-30T18:00:00.000Z"
     }
 ]
