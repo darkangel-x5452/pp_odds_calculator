@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Fusion Riojana, (2.5) VERSES San Isidro, (1.45)",
-        "start_time_aest": "2026-01-31T11:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga A",
-        "contestants": [
-            {
-                "full_name": "Fusion Riojana",
-                "position": "HOME",
-                "short_name": "Fusion Riojana"
-            },
-            {
-                "full_name": "San Isidro",
-                "position": "AWAY",
-                "short_name": "San Isidro"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Fusion Riojana",
-                "returnWin": 2.5
-            },
-            {
-                "name": "San Isidro",
-                "returnWin": 1.45
-            }
-        ],
-        "match_name": "Fusion Riojana v San Isidro",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T00:30:00.000Z"
-    },
-    {
-        "contestant_names": "Regatas, (1.73) VERSES Boca Juniors, (1.95)",
-        "start_time_aest": "2026-01-31T11:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga Nacional de Basket",
-        "contestants": [
-            {
-                "full_name": "Regatas",
-                "position": "HOME",
-                "short_name": "Regatas"
-            },
-            {
-                "full_name": "Boca Juniors",
-                "position": "AWAY",
-                "short_name": "Boca Juniors"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Regatas",
-                "returnWin": 1.73
-            },
-            {
-                "name": "Boca Juniors",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Regatas v Boca Juniors",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T00:30:00.000Z"
-    },
-    {
         "contestant_names": "Orlando, (1.73) VERSES Toronto, (2.15)",
         "start_time_aest": "2026-01-31T11:40:00+11:00",
         "sport_name": "Basketball",
@@ -153,5 +91,160 @@
         "match_name": "Michigan State v Michigan",
         "betOption": "Head To Head",
         "start_time": "2026-01-31T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Milwaukee, (2.2) VERSES Wright State, (1.67)",
+        "start_time_aest": "2026-01-31T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Milwaukee",
+                "position": "HOME",
+                "short_name": "Milwaukee"
+            },
+            {
+                "full_name": "Wright State",
+                "position": "AWAY",
+                "short_name": "Wright State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Milwaukee",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Wright State",
+                "returnWin": 1.67
+            }
+        ],
+        "match_name": "Milwaukee v Wright State",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Danilina/Krunic, (2.2) VERSES Mertens/Zhang, (1.6)",
+        "start_time_aest": "2026-01-31T12:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open Doubles",
+        "contestants": [
+            {
+                "full_name": "Danilina/Krunic",
+                "position": "HOME",
+                "short_name": "Danilina/Krunic"
+            },
+            {
+                "full_name": "Mertens/Zhang",
+                "position": "AWAY",
+                "short_name": "Mertens/Zhang"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Danilina/Krunic",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Mertens/Zhang",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Danilina/Krunic v Mertens/Zhang",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Wellington (W), (1.7) VERSES Auckland Hearts (W), (2.1)",
+        "start_time_aest": "2026-01-31T12:10:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "NZ Womens Super Smash",
+        "contestants": [
+            {
+                "full_name": "Wellington (W)",
+                "position": "HOME",
+                "short_name": "Wellington (W)"
+            },
+            {
+                "full_name": "Auckland Hearts (W)",
+                "position": "AWAY",
+                "short_name": "Auckland (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Wellington (W)",
+                "returnWin": 1.7
+            },
+            {
+                "name": "Auckland Hearts (W)",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Wellington (W) v Auckland (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T01:10:00.000Z"
+    },
+    {
+        "contestant_names": "Chicago, (2.3) VERSES Columbus, (1.6)",
+        "start_time_aest": "2026-01-31T12:35:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Chicago",
+                "position": "HOME",
+                "short_name": "Chicago"
+            },
+            {
+                "full_name": "Columbus",
+                "position": "AWAY",
+                "short_name": "Columbus"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Chicago",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Columbus",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Chicago v Columbus",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T01:35:00.000Z"
+    },
+    {
+        "contestant_names": "Grand Canyon, (1.85) VERSES Boise State, (1.95)",
+        "start_time_aest": "2026-01-31T13:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Grand Canyon",
+                "position": "HOME",
+                "short_name": "Grand Canyon"
+            },
+            {
+                "full_name": "Boise State",
+                "position": "AWAY",
+                "short_name": "Boise State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Grand Canyon",
+                "returnWin": 1.85
+            },
+            {
+                "name": "Boise State",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Grand Canyon v Boise State",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T02:00:00.000Z"
     }
 ]
