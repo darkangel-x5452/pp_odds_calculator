@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "France, (1.58) VERSES Australia, (2.3)",
-        "start_time_aest": "2026-01-31T18:14:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "HSBC Sevens",
-        "contestants": [
-            {
-                "full_name": "France",
-                "position": "HOME",
-                "short_name": "France"
-            },
-            {
-                "full_name": "Australia",
-                "position": "AWAY",
-                "short_name": "Australia"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "France",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Australia",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "France v Australia",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T07:14:00.000Z"
-    },
-    {
         "contestant_names": "Argentina, (1.58) VERSES New Zealand, (2.3)",
         "start_time_aest": "2026-01-31T18:36:00+11:00",
         "sport_name": "Rugby Union",
@@ -91,5 +60,129 @@
         "match_name": "Vekic v Osorio Serrano",
         "betOption": "Head To Head",
         "start_time": "2026-01-31T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Aryna Sabalenka, (1.6) VERSES Elena Rybakina, (2.35)",
+        "start_time_aest": "2026-01-31T19:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open",
+        "contestants": [
+            {
+                "full_name": "Aryna Sabalenka",
+                "position": "HOME",
+                "short_name": "Sabalenka A"
+            },
+            {
+                "full_name": "Elena Rybakina",
+                "position": "AWAY",
+                "short_name": "Rybakina E"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Aryna Sabalenka",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Elena Rybakina",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Sabalenka A v Rybakina E",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T08:30:00.000Z"
+    },
+    {
+        "contestant_names": "Maulana A/Jamil I C S, (1.53) VERSES Koga A/Saito N, (2.35)",
+        "start_time_aest": "2026-01-31T19:50:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour Doubles",
+        "contestants": [
+            {
+                "full_name": "Maulana A/Jamil I C S",
+                "position": "HOME",
+                "short_name": "Maulana/Jamil"
+            },
+            {
+                "full_name": "Koga A/Saito N",
+                "position": "AWAY",
+                "short_name": "Koga A/Saito N"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Maulana A/Jamil I C S",
+                "returnWin": 1.53
+            },
+            {
+                "name": "Koga A/Saito N",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Maulana/Jamil v Koga A/Saito N",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T08:50:00.000Z"
+    },
+    {
+        "contestant_names": "Illawarra, (2) VERSES Perth, (1.8)",
+        "start_time_aest": "2026-01-31T20:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBL",
+        "contestants": [
+            {
+                "full_name": "Illawarra",
+                "position": "HOME",
+                "short_name": "Illawarra"
+            },
+            {
+                "full_name": "Perth",
+                "position": "AWAY",
+                "short_name": "Perth"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Illawarra",
+                "returnWin": 2
+            },
+            {
+                "name": "Perth",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Illawarra v Perth",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Yulon Luxgen, (1.57) VERSES Changhua Bll, (2.2)",
+        "start_time_aest": "2026-01-31T20:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Taiwan Super Basketball Challenge",
+        "contestants": [
+            {
+                "full_name": "Yulon Luxgen",
+                "position": "HOME",
+                "short_name": "Yulon Luxgen"
+            },
+            {
+                "full_name": "Changhua Bll",
+                "position": "AWAY",
+                "short_name": "Changhua Bll"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Yulon Luxgen",
+                "returnWin": 1.57
+            },
+            {
+                "name": "Changhua Bll",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Yulon Luxgen v Changhua Bll",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T09:00:00.000Z"
     }
 ]
