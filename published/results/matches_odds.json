@@ -1,95 +1,95 @@
 [
     {
-        "contestant_names": "Kyrian Jacquet, (1.95) VERSES Mattia Bellucci, (1.75)",
-        "start_time_aest": "2026-01-31T23:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
+        "contestant_names": "Karkkila, (1.57) VERSES Jyvaskyla, (2.2)",
+        "start_time_aest": "2026-02-01T00:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Finland Division 1A",
         "contestants": [
             {
-                "full_name": "Kyrian Jacquet",
+                "full_name": "Karkkila",
                 "position": "HOME",
-                "short_name": "Jacquet"
+                "short_name": "Karkkila"
             },
             {
-                "full_name": "Mattia Bellucci",
+                "full_name": "Jyvaskyla",
                 "position": "AWAY",
-                "short_name": "Bellucci M"
+                "short_name": "Jyvaskyla"
             }
         ],
         "propositions": [
             {
-                "name": "Kyrian Jacquet",
-                "returnWin": 1.95
+                "name": "Karkkila",
+                "returnWin": 1.57
             },
             {
-                "name": "Mattia Bellucci",
-                "returnWin": 1.75
+                "name": "Jyvaskyla",
+                "returnWin": 2.2
             }
         ],
-        "match_name": "Jacquet v Bellucci M",
+        "match_name": "Karkkila v Jyvaskyla",
         "betOption": "Head To Head",
-        "start_time": "2026-01-31T12:15:00.000Z"
+        "start_time": "2026-01-31T13:00:00.000Z"
     },
     {
-        "contestant_names": "Team Liquid, (1.95) VERSES BetBoom Team, (1.75)",
-        "start_time_aest": "2026-01-31T23:30:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "DOTA2",
+        "contestant_names": "Damon Heta, (2.5) VERSES Chris Dobey, (1.5)",
+        "start_time_aest": "2026-02-01T00:00:00+11:00",
+        "sport_name": "Darts",
+        "competition_name": "Darts Masters",
         "contestants": [
             {
-                "full_name": "Team Liquid",
+                "full_name": "Damon Heta",
                 "position": "HOME",
-                "short_name": "Team Liquid"
+                "short_name": "Heta"
             },
             {
-                "full_name": "BetBoom Team",
+                "full_name": "Chris Dobey",
                 "position": "AWAY",
-                "short_name": "Betboom Team"
+                "short_name": "Dobey C"
             }
         ],
         "propositions": [
             {
-                "name": "Team Liquid",
-                "returnWin": 1.95
-            },
-            {
-                "name": "BetBoom Team",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Team Liquid v Betboom Team",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T12:30:00.000Z"
-    },
-    {
-        "contestant_names": "Lions, (2.5) VERSES Blue Bulls, (1.45)",
-        "start_time_aest": "2026-01-31T23:30:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "United Rugby Championship",
-        "contestants": [
-            {
-                "full_name": "Lions",
-                "position": "HOME",
-                "short_name": "Lions"
-            },
-            {
-                "full_name": "Blue Bulls",
-                "position": "AWAY",
-                "short_name": "Blue Bulls"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Lions",
+                "name": "Damon Heta",
                 "returnWin": 2.5
             },
             {
-                "name": "Blue Bulls",
-                "returnWin": 1.45
+                "name": "Chris Dobey",
+                "returnWin": 1.5
             }
         ],
-        "match_name": "Lions v Blue Bulls",
+        "match_name": "Heta v Dobey C",
         "betOption": "Head To Head",
-        "start_time": "2026-01-31T12:30:00.000Z"
+        "start_time": "2026-01-31T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "G2, (1.6) VERSES TheMongolz, (2.2)",
+        "start_time_aest": "2026-02-01T00:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "contestants": [
+            {
+                "full_name": "G2",
+                "position": "HOME",
+                "short_name": "G2"
+            },
+            {
+                "full_name": "TheMongolz",
+                "position": "AWAY",
+                "short_name": "TheMongolz"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "G2",
+                "returnWin": 1.6
+            },
+            {
+                "name": "TheMongolz",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "G2 v TheMongolz",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T13:00:00.000Z"
     }
 ]
