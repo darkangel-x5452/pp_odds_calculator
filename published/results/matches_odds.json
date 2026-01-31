@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Alabama State, (2.2) VERSES Bethune-Cookman, (1.67)",
-        "start_time_aest": "2026-02-01T07:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Alabama State",
-                "position": "HOME",
-                "short_name": "Alabama State"
-            },
-            {
-                "full_name": "Bethune-Cookman",
-                "position": "AWAY",
-                "short_name": "Bethune-Cookman"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Alabama State",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Bethune-Cookman",
-                "returnWin": 1.67
-            }
-        ],
-        "match_name": "Alabama State v Bethune-Cookman",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T20:30:00.000Z"
-    },
-    {
         "contestant_names": "Jackson State, (2.25) VERSES Grambling State, (1.65)",
         "start_time_aest": "2026-02-01T08:00:00+11:00",
         "sport_name": "Basketball",
@@ -120,6 +89,130 @@
             }
         ],
         "match_name": "West Virginia v Baylor",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T21:00:00.000Z"
+    },
+    {
+        "contestant_names": "Denver, (1.74) VERSES Nebraska Omaha, (2.1)",
+        "start_time_aest": "2026-02-01T08:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Denver",
+                "position": "HOME",
+                "short_name": "Denver"
+            },
+            {
+                "full_name": "Nebraska Omaha",
+                "position": "AWAY",
+                "short_name": "Nebraska Omaha"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Denver",
+                "returnWin": 1.74
+            },
+            {
+                "name": "Nebraska Omaha",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Denver v Nebraska Omaha",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T21:00:00.000Z"
+    },
+    {
+        "contestant_names": "UL Lafayette, (2.35) VERSES Georgia Southern, (1.6)",
+        "start_time_aest": "2026-02-01T08:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "UL Lafayette",
+                "position": "HOME",
+                "short_name": "UL Lafayette"
+            },
+            {
+                "full_name": "Georgia Southern",
+                "position": "AWAY",
+                "short_name": "Georgia Southern"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "UL Lafayette",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Georgia Southern",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "UL Lafayette v Georgia Southern",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T21:00:00.000Z"
+    },
+    {
+        "contestant_names": "BANK Jacob, (2) VERSES SCULL William, (1.7)",
+        "start_time_aest": "2026-02-01T08:00:00+11:00",
+        "sport_name": "Boxing",
+        "competition_name": "Bank vs Scull",
+        "contestants": [
+            {
+                "full_name": "BANK Jacob",
+                "position": "HOME",
+                "short_name": "Bank"
+            },
+            {
+                "full_name": "SCULL William",
+                "position": "AWAY",
+                "short_name": "Scull"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "BANK Jacob",
+                "returnWin": 2
+            },
+            {
+                "name": "SCULL William",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "Bank v Scull",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T21:00:00.000Z"
+    },
+    {
+        "contestant_names": "Cloud9, (1.46) VERSES Lyon, (2.5)",
+        "start_time_aest": "2026-02-01T08:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "contestants": [
+            {
+                "full_name": "Cloud9",
+                "position": "HOME",
+                "short_name": "Cloud9"
+            },
+            {
+                "full_name": "Lyon",
+                "position": "AWAY",
+                "short_name": "Lyon"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Cloud9",
+                "returnWin": 1.46
+            },
+            {
+                "name": "Lyon",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Cloud9 v Lyon",
         "betOption": "Head To Head",
         "start_time": "2026-01-31T21:00:00.000Z"
     }
