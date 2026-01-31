@@ -1,38 +1,7 @@
 [
     {
-        "contestant_names": "Donna Vekic, (1.46) VERSES Maria Camila Osorio Serrano, (2.5)",
-        "start_time_aest": "2026-01-31T19:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA 125 Tour",
-        "contestants": [
-            {
-                "full_name": "Donna Vekic",
-                "position": "HOME",
-                "short_name": "Vekic"
-            },
-            {
-                "full_name": "Maria Camila Osorio Serrano",
-                "position": "AWAY",
-                "short_name": "Osorio Serrano"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Donna Vekic",
-                "returnWin": 1.46
-            },
-            {
-                "name": "Maria Camila Osorio Serrano",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Vekic v Osorio Serrano",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T08:15:00.000Z"
-    },
-    {
         "contestant_names": "Aryna Sabalenka, (1.6) VERSES Elena Rybakina, (2.35)",
-        "start_time_aest": "2026-01-31T19:30:00+11:00",
+        "start_time_aest": "2026-01-31T19:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Australian Open",
         "contestants": [
@@ -59,7 +28,7 @@
         ],
         "match_name": "Sabalenka A v Rybakina E",
         "betOption": "Head To Head",
-        "start_time": "2026-01-31T08:30:00.000Z"
+        "start_time": "2026-01-31T08:45:00.000Z"
     },
     {
         "contestant_names": "Maulana A/Jamil I C S, (1.53) VERSES Koga A/Saito N, (2.35)",
@@ -277,5 +246,36 @@
         "match_name": "Friedsam A v Sebov",
         "betOption": "Head To Head",
         "start_time": "2026-01-31T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Lev Chomutov, (1.45) VERSES SoklHradecKralve, (2.5)",
+        "start_time_aest": "2026-01-31T20:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Czech Cup Women",
+        "contestants": [
+            {
+                "full_name": "Lev Chomutov",
+                "position": "HOME",
+                "short_name": "Lev Chomutov"
+            },
+            {
+                "full_name": "SoklHradecKralve",
+                "position": "AWAY",
+                "short_name": "SoklHradecKralve"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lev Chomutov",
+                "returnWin": 1.45
+            },
+            {
+                "name": "SoklHradecKralve",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Lev Chomutov v SoklHradecKralve",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T09:30:00.000Z"
     }
 ]
