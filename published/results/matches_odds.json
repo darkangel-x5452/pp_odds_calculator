@@ -1,126 +1,95 @@
 [
     {
-        "contestant_names": "Natus Vincere, (2.1) VERSES Giantx, (1.65)",
-        "start_time_aest": "2026-02-01T03:45:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "League of Legends",
+        "contestant_names": "Charlotte, (2.4) VERSES San Antonio, (1.6)",
+        "start_time_aest": "2026-02-01T04:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
         "contestants": [
             {
-                "full_name": "Natus Vincere",
+                "full_name": "Charlotte",
                 "position": "HOME",
-                "short_name": "Natus Vincere"
+                "short_name": "Charlotte"
             },
             {
-                "full_name": "Giantx",
+                "full_name": "San Antonio",
                 "position": "AWAY",
-                "short_name": "Giantx"
+                "short_name": "San Antonio"
             }
         ],
         "propositions": [
             {
-                "name": "Natus Vincere",
+                "name": "Charlotte",
+                "returnWin": 2.4
+            },
+            {
+                "name": "San Antonio",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Charlotte v San Antonio",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T17:10:00.000Z"
+    },
+    {
+        "contestant_names": "Rostock Seawolve, (1.65) VERSES Telekom Baskets, (2.1)",
+        "start_time_aest": "2026-02-01T04:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Germany Bundesliga",
+        "contestants": [
+            {
+                "full_name": "Rostock Seawolve",
+                "position": "HOME",
+                "short_name": "Rostock Seawolve"
+            },
+            {
+                "full_name": "Telekom Baskets",
+                "position": "AWAY",
+                "short_name": "Telekom Baskets"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Rostock Seawolve",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Telekom Baskets",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Rostock Seawolve v Telekom Baskets",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T17:30:00.000Z"
+    },
+    {
+        "contestant_names": "Science Jena, (2.1) VERSES Ludwigsburg, (1.65)",
+        "start_time_aest": "2026-02-01T04:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Germany Bundesliga",
+        "contestants": [
+            {
+                "full_name": "Science Jena",
+                "position": "HOME",
+                "short_name": "Science Jena"
+            },
+            {
+                "full_name": "Ludwigsburg",
+                "position": "AWAY",
+                "short_name": "Ludwigsburg"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Science Jena",
                 "returnWin": 2.1
             },
             {
-                "name": "Giantx",
+                "name": "Ludwigsburg",
                 "returnWin": 1.65
             }
         ],
-        "match_name": "Natus Vincere v Giantx",
+        "match_name": "Science Jena v Ludwigsburg",
         "betOption": "Head To Head",
-        "start_time": "2026-01-31T16:45:00.000Z"
-    },
-    {
-        "contestant_names": "Adolfo Daniel Vallejo, (1.55) VERSES Marcelo Tomas Barrios Vera, (2.3)",
-        "start_time_aest": "2026-02-01T03:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Adolfo Daniel Vallejo",
-                "position": "HOME",
-                "short_name": "Vallejo"
-            },
-            {
-                "full_name": "Marcelo Tomas Barrios Vera",
-                "position": "AWAY",
-                "short_name": "Barrios Vera"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Adolfo Daniel Vallejo",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Marcelo Tomas Barrios Vera",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Vallejo v Barrios Vera",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T16:45:00.000Z"
-    },
-    {
-        "contestant_names": "BC Brno, (1.66) VERSES BK Decin, (2.05)",
-        "start_time_aest": "2026-02-01T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Czech Republic NBL",
-        "contestants": [
-            {
-                "full_name": "BC Brno",
-                "position": "HOME",
-                "short_name": "BC Brno"
-            },
-            {
-                "full_name": "BK Decin",
-                "position": "AWAY",
-                "short_name": "BK Decin"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "BC Brno",
-                "returnWin": 1.66
-            },
-            {
-                "name": "BK Decin",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "BC Brno v BK Decin",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Kralovsti Sokoli, (1.55) VERSES Blk Slavia Praha, (2.25)",
-        "start_time_aest": "2026-02-01T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Czech Republic NBL",
-        "contestants": [
-            {
-                "full_name": "Kralovsti Sokoli",
-                "position": "HOME",
-                "short_name": "Kralovsti Sokoli"
-            },
-            {
-                "full_name": "Blk Slavia Praha",
-                "position": "AWAY",
-                "short_name": "Blk Slavia Praha"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Kralovsti Sokoli",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Blk Slavia Praha",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Kralovsti Sokoli v Blk Slavia Praha",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T17:00:00.000Z"
+        "start_time": "2026-01-31T17:30:00.000Z"
     }
 ]
