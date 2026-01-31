@@ -1,129 +1,5 @@
 [
     {
-        "contestant_names": "Kubler/Polmans, (2.3) VERSES Harrison/Skupski, (1.55)",
-        "start_time_aest": "2026-01-31T14:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
-        "contestants": [
-            {
-                "full_name": "Kubler/Polmans",
-                "position": "HOME",
-                "short_name": "Kubler/Polmans"
-            },
-            {
-                "full_name": "Harrison/Skupski",
-                "position": "AWAY",
-                "short_name": "Harrison/Skupski"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Kubler/Polmans",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Harrison/Skupski",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Kubler/Polmans v Harrison/Skupski",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T03:45:00.000Z"
-    },
-    {
-        "contestant_names": "Ilia Simakin, (2.4) VERSES Stefanos Sakellaridis, (1.5)",
-        "start_time_aest": "2026-01-31T14:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Ilia Simakin",
-                "position": "HOME",
-                "short_name": "Simakin"
-            },
-            {
-                "full_name": "Stefanos Sakellaridis",
-                "position": "AWAY",
-                "short_name": "Sakellaridis S"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ilia Simakin",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Stefanos Sakellaridis",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Simakin v Sakellaridis S",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T03:45:00.000Z"
-    },
-    {
-        "contestant_names": "France, (2) VERSES New Zealand, (1.72)",
-        "start_time_aest": "2026-01-31T14:48:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "HSBC Sevens",
-        "contestants": [
-            {
-                "full_name": "France",
-                "position": "HOME",
-                "short_name": "France"
-            },
-            {
-                "full_name": "New Zealand",
-                "position": "AWAY",
-                "short_name": "New Zealand"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "France",
-                "returnWin": 2
-            },
-            {
-                "name": "New Zealand",
-                "returnWin": 1.72
-            }
-        ],
-        "match_name": "France v New Zealand",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T03:48:00.000Z"
-    },
-    {
-        "contestant_names": "Southside, (1.52) VERSES Adelaide, (2.5)",
-        "start_time_aest": "2026-01-31T15:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "WNBL",
-        "contestants": [
-            {
-                "full_name": "Southside",
-                "position": "HOME",
-                "short_name": "Southside"
-            },
-            {
-                "full_name": "Adelaide",
-                "position": "AWAY",
-                "short_name": "Adelaide"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Southside",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Adelaide",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Southside v Adelaide",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T04:00:00.000Z"
-    },
-    {
         "contestant_names": "Northern Brave, (2) VERSES Canterbury Kings, (1.8)",
         "start_time_aest": "2026-01-31T15:55:00+11:00",
         "sport_name": "Cricket",
@@ -184,5 +60,67 @@
         "match_name": "Jeonju KCC Egis v Seoul Thunders",
         "betOption": "Head To Head",
         "start_time": "2026-01-31T05:00:00.000Z"
+    },
+    {
+        "contestant_names": "Taiwan Power, (2.05) VERSES Chungwa Tel, (1.66)",
+        "start_time_aest": "2026-01-31T16:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Taiwan WSBL Women",
+        "contestants": [
+            {
+                "full_name": "Taiwan Power",
+                "position": "HOME",
+                "short_name": "Taiwan Power"
+            },
+            {
+                "full_name": "Chungwa Tel",
+                "position": "AWAY",
+                "short_name": "Chungwa Tel"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Taiwan Power",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Chungwa Tel",
+                "returnWin": 1.66
+            }
+        ],
+        "match_name": "Taiwan Power v Chungwa Tel",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T05:00:00.000Z"
+    },
+    {
+        "contestant_names": "Saga Ballooners, (2.4) VERSES Chiba Jets Funab, (1.48)",
+        "start_time_aest": "2026-01-31T16:05:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Japan B League",
+        "contestants": [
+            {
+                "full_name": "Saga Ballooners",
+                "position": "HOME",
+                "short_name": "Saga Ballooners"
+            },
+            {
+                "full_name": "Chiba Jets Funab",
+                "position": "AWAY",
+                "short_name": "Chiba Jets Funab"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Saga Ballooners",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Chiba Jets Funab",
+                "returnWin": 1.48
+            }
+        ],
+        "match_name": "Saga Ballooners v Chiba Jets Funab",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T05:05:00.000Z"
     }
 ]
