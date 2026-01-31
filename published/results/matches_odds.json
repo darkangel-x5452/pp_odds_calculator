@@ -1,38 +1,7 @@
 [
     {
-        "contestant_names": "Argentina, (1.58) VERSES New Zealand, (2.3)",
-        "start_time_aest": "2026-01-31T18:36:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "HSBC Sevens",
-        "contestants": [
-            {
-                "full_name": "Argentina",
-                "position": "HOME",
-                "short_name": "Argentina"
-            },
-            {
-                "full_name": "New Zealand",
-                "position": "AWAY",
-                "short_name": "New Zealand"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Argentina",
-                "returnWin": 1.58
-            },
-            {
-                "name": "New Zealand",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Argentina v New Zealand",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T07:36:00.000Z"
-    },
-    {
         "contestant_names": "Donna Vekic, (1.46) VERSES Maria Camila Osorio Serrano, (2.5)",
-        "start_time_aest": "2026-01-31T19:00:00+11:00",
+        "start_time_aest": "2026-01-31T19:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA 125 Tour",
         "contestants": [
@@ -59,7 +28,7 @@
         ],
         "match_name": "Vekic v Osorio Serrano",
         "betOption": "Head To Head",
-        "start_time": "2026-01-31T08:00:00.000Z"
+        "start_time": "2026-01-31T08:15:00.000Z"
     },
     {
         "contestant_names": "Aryna Sabalenka, (1.6) VERSES Elena Rybakina, (2.35)",
@@ -182,6 +151,130 @@
             }
         ],
         "match_name": "Yulon Luxgen v Changhua Bll",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "MOUZ, (2.1) VERSES Team Yandex, (1.65)",
+        "start_time_aest": "2026-01-31T20:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "contestants": [
+            {
+                "full_name": "MOUZ",
+                "position": "HOME",
+                "short_name": "MOUZ"
+            },
+            {
+                "full_name": "Team Yandex",
+                "position": "AWAY",
+                "short_name": "Team Yandex"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "MOUZ",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Team Yandex",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "MOUZ v Team Yandex",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Jd Gaming, (2.05) VERSES Anyones Legend, (1.68)",
+        "start_time_aest": "2026-01-31T20:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "contestants": [
+            {
+                "full_name": "Jd Gaming",
+                "position": "HOME",
+                "short_name": "Jd Gaming"
+            },
+            {
+                "full_name": "Anyones Legend",
+                "position": "AWAY",
+                "short_name": "Anyones Legend"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jd Gaming",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Anyones Legend",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Jd Gaming v Anyones Legend",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Ekaterine Gorgodze, (2.5) VERSES Tamara Zidansek, (1.46)",
+        "start_time_aest": "2026-01-31T20:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Ekaterine Gorgodze",
+                "position": "HOME",
+                "short_name": "Gorgodze E"
+            },
+            {
+                "full_name": "Tamara Zidansek",
+                "position": "AWAY",
+                "short_name": "Zidansek"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ekaterine Gorgodze",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Tamara Zidansek",
+                "returnWin": 1.46
+            }
+        ],
+        "match_name": "Gorgodze E v Zidansek",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Anna-Lena Friedsam, (1.52) VERSES Katherine Sebov, (2.35)",
+        "start_time_aest": "2026-01-31T20:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Anna-Lena Friedsam",
+                "position": "HOME",
+                "short_name": "Friedsam A"
+            },
+            {
+                "full_name": "Katherine Sebov",
+                "position": "AWAY",
+                "short_name": "Sebov"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Anna-Lena Friedsam",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Katherine Sebov",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Friedsam A v Sebov",
         "betOption": "Head To Head",
         "start_time": "2026-01-31T09:00:00.000Z"
     }
