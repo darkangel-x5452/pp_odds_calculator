@@ -184,5 +184,67 @@
         "match_name": "Teeraratsakul v XuanChen",
         "betOption": "Head To Head",
         "start_time": "2026-01-31T06:50:00.000Z"
+    },
+    {
+        "contestant_names": "Samsung Blue Min, (1.7) VERSES Woori Bank Won, (2)",
+        "start_time_aest": "2026-01-31T18:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "South Korea KBL Women",
+        "contestants": [
+            {
+                "full_name": "Samsung Blue Min",
+                "position": "HOME",
+                "short_name": "Samsung Blue Min"
+            },
+            {
+                "full_name": "Woori Bank Won",
+                "position": "AWAY",
+                "short_name": "Woori Bank Won"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Samsung Blue Min",
+                "returnWin": 1.7
+            },
+            {
+                "name": "Woori Bank Won",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Samsung Blue Min v Woori Bank Won",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "France, (1.58) VERSES Australia, (2.3)",
+        "start_time_aest": "2026-01-31T18:14:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "HSBC Sevens",
+        "contestants": [
+            {
+                "full_name": "France",
+                "position": "HOME",
+                "short_name": "France"
+            },
+            {
+                "full_name": "Australia",
+                "position": "AWAY",
+                "short_name": "Australia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "France",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Australia",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "France v Australia",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T07:14:00.000Z"
     }
 ]
