@@ -91,5 +91,67 @@
         "match_name": "Zarazua v Zvonareva V",
         "betOption": "Head To Head",
         "start_time": "2026-01-31T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "VALDMANNOVA Vendula, (1.62) VERSES Laura Samson, (2.15)",
+        "start_time_aest": "2026-01-31T22:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "VALDMANNOVA Vendula",
+                "position": "HOME",
+                "short_name": "Valdmannova Vend"
+            },
+            {
+                "full_name": "Laura Samson",
+                "position": "AWAY",
+                "short_name": "Samson L"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "VALDMANNOVA Vendula",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Laura Samson",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Valdmannova Vend v Samson L",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Great Britain, (2.37) VERSES Spain, (1.52)",
+        "start_time_aest": "2026-01-31T22:24:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "HSBC Sevens",
+        "contestants": [
+            {
+                "full_name": "Great Britain",
+                "position": "HOME",
+                "short_name": "Great Britain"
+            },
+            {
+                "full_name": "Spain",
+                "position": "AWAY",
+                "short_name": "Spain"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Great Britain",
+                "returnWin": 2.37
+            },
+            {
+                "name": "Spain",
+                "returnWin": 1.52
+            }
+        ],
+        "match_name": "Great Britain v Spain",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T11:24:00.000Z"
     }
 ]
