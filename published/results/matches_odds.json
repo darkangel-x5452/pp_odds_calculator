@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Florida State, (1.6) VERSES Stanford, (2.35)",
-        "start_time_aest": "2026-02-01T10:05:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Florida State",
-                "position": "HOME",
-                "short_name": "Florida State"
-            },
-            {
-                "full_name": "Stanford",
-                "position": "AWAY",
-                "short_name": "Stanford"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Florida State",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Stanford",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Florida State v Stanford",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T23:05:00.000Z"
-    },
-    {
-        "contestant_names": "St Bonaventure, (1.85) VERSES George Mason, (1.95)",
-        "start_time_aest": "2026-02-01T10:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "St Bonaventure",
-                "position": "HOME",
-                "short_name": "St Bonaventure"
-            },
-            {
-                "full_name": "George Mason",
-                "position": "AWAY",
-                "short_name": "George Mason"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "St Bonaventure",
-                "returnWin": 1.85
-            },
-            {
-                "name": "George Mason",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "St Bonaventure v George Mason",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T23:30:00.000Z"
-    },
-    {
         "contestant_names": "Albany, (2.15) VERSES UMBC, (1.7)",
         "start_time_aest": "2026-02-01T11:00:00+11:00",
         "sport_name": "Basketball",
@@ -184,6 +122,285 @@
         "match_name": "Sentinels v Dignitas",
         "betOption": "Head To Head",
         "start_time": "2026-02-01T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "MICALLEF Jonathan, (1.77) VERSES ELLIOT Oban, (2.05)",
+        "start_time_aest": "2026-02-01T11:00:00+11:00",
+        "sport_name": "UFC",
+        "competition_name": "UFC",
+        "contestants": [
+            {
+                "full_name": "MICALLEF Jonathan",
+                "position": "HOME",
+                "short_name": "Jonathan"
+            },
+            {
+                "full_name": "ELLIOT Oban",
+                "position": "AWAY",
+                "short_name": "ElliotO"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "MICALLEF Jonathan",
+                "returnWin": 1.77
+            },
+            {
+                "name": "ELLIOT Oban",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Jonathan v ElliotO",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "NY Islanders, (1.75) VERSES Nashville, (2.05)",
+        "start_time_aest": "2026-02-01T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "NY Islanders",
+                "position": "HOME",
+                "short_name": "NY Islanders"
+            },
+            {
+                "full_name": "Nashville",
+                "position": "AWAY",
+                "short_name": "Nashville"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "NY Islanders",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Nashville",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "NY Islanders v Nashville",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T00:05:00.000Z"
+    },
+    {
+        "contestant_names": "Ottawa, (1.58) VERSES New Jersey, (2.35)",
+        "start_time_aest": "2026-02-01T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Ottawa",
+                "position": "HOME",
+                "short_name": "Ottawa"
+            },
+            {
+                "full_name": "New Jersey",
+                "position": "AWAY",
+                "short_name": "New Jersey"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ottawa",
+                "returnWin": 1.58
+            },
+            {
+                "name": "New Jersey",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Ottawa v New Jersey",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T00:05:00.000Z"
+    },
+    {
+        "contestant_names": "Buffalo, (1.75) VERSES Montreal, (2.05)",
+        "start_time_aest": "2026-02-01T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Buffalo",
+                "position": "HOME",
+                "short_name": "Buffalo"
+            },
+            {
+                "full_name": "Montreal",
+                "position": "AWAY",
+                "short_name": "Montreal"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Buffalo",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Montreal",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Buffalo v Montreal",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T00:05:00.000Z"
+    },
+    {
+        "contestant_names": "Vancouver, (2.25) VERSES Toronto, (1.62)",
+        "start_time_aest": "2026-02-01T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Vancouver",
+                "position": "HOME",
+                "short_name": "Vancouver"
+            },
+            {
+                "full_name": "Toronto",
+                "position": "AWAY",
+                "short_name": "Toronto"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Vancouver",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Toronto",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Vancouver v Toronto",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T00:05:00.000Z"
+    },
+    {
+        "contestant_names": "Indiana, (2.05) VERSES Atlanta, (1.8)",
+        "start_time_aest": "2026-02-01T11:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Indiana",
+                "position": "HOME",
+                "short_name": "Indiana"
+            },
+            {
+                "full_name": "Atlanta",
+                "position": "AWAY",
+                "short_name": "Atlanta"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Indiana",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Atlanta",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Indiana v Atlanta",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T00:10:00.000Z"
+    },
+    {
+        "contestant_names": "Rivadavia De Men, (1.45) VERSES Bochas Sport Clu, (2.5)",
+        "start_time_aest": "2026-02-01T11:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Rivadavia De Men",
+                "position": "HOME",
+                "short_name": "Rivadavia De Men"
+            },
+            {
+                "full_name": "Bochas Sport Clu",
+                "position": "AWAY",
+                "short_name": "Bochas Sport Clu"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Rivadavia De Men",
+                "returnWin": 1.45
+            },
+            {
+                "name": "Bochas Sport Clu",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Rivadavia De Men v Bochas Sport Clu",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T00:30:00.000Z"
+    },
+    {
+        "contestant_names": "Tulane, (1.75) VERSES Temple, (2)",
+        "start_time_aest": "2026-02-01T11:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Tulane",
+                "position": "HOME",
+                "short_name": "Tulane"
+            },
+            {
+                "full_name": "Temple",
+                "position": "AWAY",
+                "short_name": "Temple"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tulane",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Temple",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Tulane v Temple",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T00:30:00.000Z"
+    },
+    {
+        "contestant_names": "MALKOUN Jacob, (1.7) VERSES FINNEY Torrez, (2.15)",
+        "start_time_aest": "2026-02-01T11:30:00+11:00",
+        "sport_name": "UFC",
+        "competition_name": "UFC",
+        "contestants": [
+            {
+                "full_name": "MALKOUN Jacob",
+                "position": "HOME",
+                "short_name": "Malkoun"
+            },
+            {
+                "full_name": "FINNEY Torrez",
+                "position": "AWAY",
+                "short_name": "Finney"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "MALKOUN Jacob",
+                "returnWin": 1.7
+            },
+            {
+                "name": "FINNEY Torrez",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Malkoun v Finney",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T00:30:00.000Z"
     },
     {
         "contestant_names": "Sacramento State, (2.5) VERSES Montana, (1.53)",
