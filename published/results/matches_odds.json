@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Japan, (1.65) VERSES Fiji, (2.1)",
-        "start_time_aest": "2026-01-31T20:56:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "HSBC 7s Womens",
-        "contestants": [
-            {
-                "full_name": "Japan",
-                "position": "HOME",
-                "short_name": "Japan"
-            },
-            {
-                "full_name": "Fiji",
-                "position": "AWAY",
-                "short_name": "Fiji"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Japan",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Fiji",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Japan v Fiji",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T09:56:00.000Z"
-    },
-    {
-        "contestant_names": "Borneo Hornbills, (1.52) VERSES Rans Pik, (2.3)",
-        "start_time_aest": "2026-01-31T21:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Indonesian Basketball League",
-        "contestants": [
-            {
-                "full_name": "Borneo Hornbills",
-                "position": "HOME",
-                "short_name": "Borneo Hornbills"
-            },
-            {
-                "full_name": "Rans Pik",
-                "position": "AWAY",
-                "short_name": "Rans Pik"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Borneo Hornbills",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Rans Pik",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Borneo Hornbills v Rans Pik",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T10:00:00.000Z"
-    },
-    {
         "contestant_names": "Pakistan, (2.35) VERSES Australia, (1.58)",
         "start_time_aest": "2026-01-31T22:00:00+11:00",
         "sport_name": "Cricket",
@@ -120,6 +58,37 @@
             }
         ],
         "match_name": "Emirates Blues v Dubai",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Renata Zarazua, (1.52) VERSES Vera Zvonareva, (2.35)",
+        "start_time_aest": "2026-01-31T22:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Renata Zarazua",
+                "position": "HOME",
+                "short_name": "Zarazua"
+            },
+            {
+                "full_name": "Vera Zvonareva",
+                "position": "AWAY",
+                "short_name": "Zvonareva V"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Renata Zarazua",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Vera Zvonareva",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Zarazua v Zvonareva V",
         "betOption": "Head To Head",
         "start_time": "2026-01-31T11:00:00.000Z"
     }
