@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Washington, (2.4) VERSES Carolina, (1.55)",
-        "start_time_aest": "2026-02-01T09:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Washington",
-                "position": "HOME",
-                "short_name": "Washington"
-            },
-            {
-                "full_name": "Carolina",
-                "position": "AWAY",
-                "short_name": "Carolina"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Washington",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Carolina",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Washington v Carolina",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T22:05:00.000Z"
-    },
-    {
-        "contestant_names": "Washington, (2.5) VERSES Carolina, (1.52)",
-        "start_time_aest": "2026-02-01T09:09:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Washington",
-                "position": "HOME",
-                "short_name": "Washington"
-            },
-            {
-                "full_name": "Carolina",
-                "position": "AWAY",
-                "short_name": "Carolina"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Washington",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Carolina",
-                "returnWin": 1.52
-            }
-        ],
-        "match_name": "Washington v Carolina",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T22:09:00.000Z"
-    },
-    {
-        "contestant_names": "Prairie View AM, (2) VERSES Texas Southern, (1.8)",
-        "start_time_aest": "2026-02-01T09:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Prairie View AM",
-                "position": "HOME",
-                "short_name": "Prairie View AM"
-            },
-            {
-                "full_name": "Texas Southern",
-                "position": "AWAY",
-                "short_name": "Texas Southern"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Prairie View AM",
-                "returnWin": 2
-            },
-            {
-                "name": "Texas Southern",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "Prairie View AM v Texas Southern",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T22:30:00.000Z"
-    },
-    {
         "contestant_names": "NAKAMURA Keiichiro, (2.15) VERSES SZALAY Sebastian, (1.72)",
         "start_time_aest": "2026-02-01T09:40:00+11:00",
         "sport_name": "UFC",
@@ -213,6 +120,68 @@
             }
         ],
         "match_name": "Brown v Dartmouth",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Utah, (1.85) VERSES Oklahoma State, (1.95)",
+        "start_time_aest": "2026-02-01T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Utah",
+                "position": "HOME",
+                "short_name": "Utah"
+            },
+            {
+                "full_name": "Oklahoma State",
+                "position": "AWAY",
+                "short_name": "Oklahoma State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Utah",
+                "returnWin": 1.85
+            },
+            {
+                "name": "Oklahoma State",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Utah v Oklahoma State",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "KIM Sang Wook, (2.35) VERSES MAR FAN Dom, (1.6)",
+        "start_time_aest": "2026-02-01T10:00:00+11:00",
+        "sport_name": "UFC",
+        "competition_name": "UFC",
+        "contestants": [
+            {
+                "full_name": "KIM Sang Wook",
+                "position": "HOME",
+                "short_name": "Kim"
+            },
+            {
+                "full_name": "MAR FAN Dom",
+                "position": "AWAY",
+                "short_name": "Mar Fan"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "KIM Sang Wook",
+                "returnWin": 2.35
+            },
+            {
+                "name": "MAR FAN Dom",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Kim v Mar Fan",
         "betOption": "Head To Head",
         "start_time": "2026-01-31T23:00:00.000Z"
     },
