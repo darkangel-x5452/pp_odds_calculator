@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Chicago, (2.3) VERSES Columbus, (1.6)",
-        "start_time_aest": "2026-01-31T12:35:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Chicago",
-                "position": "HOME",
-                "short_name": "Chicago"
-            },
-            {
-                "full_name": "Columbus",
-                "position": "AWAY",
-                "short_name": "Columbus"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Chicago",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Columbus",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Chicago v Columbus",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T01:35:00.000Z"
-    },
-    {
-        "contestant_names": "Grand Canyon, (1.85) VERSES Boise State, (1.95)",
-        "start_time_aest": "2026-01-31T13:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Grand Canyon",
-                "position": "HOME",
-                "short_name": "Grand Canyon"
-            },
-            {
-                "full_name": "Boise State",
-                "position": "AWAY",
-                "short_name": "Boise State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Grand Canyon",
-                "returnWin": 1.85
-            },
-            {
-                "name": "Boise State",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Grand Canyon v Boise State",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T02:00:00.000Z"
-    },
-    {
         "contestant_names": "Phoenix, (2.05) VERSES Cleveland, (1.8)",
         "start_time_aest": "2026-01-31T13:10:00+11:00",
         "sport_name": "Basketball",
@@ -215,5 +153,36 @@
         "match_name": "USA v Japan",
         "betOption": "Head To Head",
         "start_time": "2026-01-31T03:04:00.000Z"
+    },
+    {
+        "contestant_names": "Golden State, (1.73) VERSES Detroit, (2.15)",
+        "start_time_aest": "2026-01-31T14:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Golden State",
+                "position": "HOME",
+                "short_name": "Golden State"
+            },
+            {
+                "full_name": "Detroit",
+                "position": "AWAY",
+                "short_name": "Detroit"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Golden State",
+                "returnWin": 1.73
+            },
+            {
+                "name": "Detroit",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Golden State v Detroit",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T03:10:00.000Z"
     }
 ]
