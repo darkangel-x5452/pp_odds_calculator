@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Wellington (W), (1.7) VERSES Auckland Hearts (W), (2.1)",
-        "start_time_aest": "2026-01-31T12:10:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "NZ Womens Super Smash",
-        "contestants": [
-            {
-                "full_name": "Wellington (W)",
-                "position": "HOME",
-                "short_name": "Wellington (W)"
-            },
-            {
-                "full_name": "Auckland Hearts (W)",
-                "position": "AWAY",
-                "short_name": "Auckland (W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Wellington (W)",
-                "returnWin": 1.7
-            },
-            {
-                "name": "Auckland Hearts (W)",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Wellington (W) v Auckland (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T01:10:00.000Z"
-    },
-    {
-        "contestant_names": "Danilina/Krunic, (2.2) VERSES Mertens/Zhang, (1.6)",
-        "start_time_aest": "2026-01-31T12:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
-        "contestants": [
-            {
-                "full_name": "Danilina/Krunic",
-                "position": "HOME",
-                "short_name": "Danilina/Krunic"
-            },
-            {
-                "full_name": "Mertens/Zhang",
-                "position": "AWAY",
-                "short_name": "Mertens/Zhang"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Danilina/Krunic",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Mertens/Zhang",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Danilina/Krunic v Mertens/Zhang",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T01:15:00.000Z"
-    },
-    {
         "contestant_names": "Chicago, (2.3) VERSES Columbus, (1.6)",
         "start_time_aest": "2026-01-31T12:35:00+11:00",
         "sport_name": "Ice Hockey",
@@ -246,5 +184,36 @@
         "match_name": "Utah v Brooklyn",
         "betOption": "Head To Head",
         "start_time": "2026-01-31T02:40:00.000Z"
+    },
+    {
+        "contestant_names": "USA, (1.53) VERSES Japan, (2.37)",
+        "start_time_aest": "2026-01-31T14:04:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "HSBC 7s Womens",
+        "contestants": [
+            {
+                "full_name": "USA",
+                "position": "HOME",
+                "short_name": "USA"
+            },
+            {
+                "full_name": "Japan",
+                "position": "AWAY",
+                "short_name": "Japan"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "USA",
+                "returnWin": 1.53
+            },
+            {
+                "name": "Japan",
+                "returnWin": 2.37
+            }
+        ],
+        "match_name": "USA v Japan",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T03:04:00.000Z"
     }
 ]
