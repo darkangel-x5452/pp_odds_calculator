@@ -1,69 +1,7 @@
 [
     {
-        "contestant_names": "USA, (1.53) VERSES Japan, (2.37)",
-        "start_time_aest": "2026-01-31T14:04:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "HSBC 7s Womens",
-        "contestants": [
-            {
-                "full_name": "USA",
-                "position": "HOME",
-                "short_name": "USA"
-            },
-            {
-                "full_name": "Japan",
-                "position": "AWAY",
-                "short_name": "Japan"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "USA",
-                "returnWin": 1.53
-            },
-            {
-                "name": "Japan",
-                "returnWin": 2.37
-            }
-        ],
-        "match_name": "USA v Japan",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T03:04:00.000Z"
-    },
-    {
-        "contestant_names": "Golden State, (1.73) VERSES Detroit, (2.15)",
-        "start_time_aest": "2026-01-31T14:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Golden State",
-                "position": "HOME",
-                "short_name": "Golden State"
-            },
-            {
-                "full_name": "Detroit",
-                "position": "AWAY",
-                "short_name": "Detroit"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Golden State",
-                "returnWin": 1.73
-            },
-            {
-                "name": "Detroit",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Golden State v Detroit",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T03:10:00.000Z"
-    },
-    {
         "contestant_names": "Kubler/Polmans, (2.3) VERSES Harrison/Skupski, (1.55)",
-        "start_time_aest": "2026-01-31T14:30:00+11:00",
+        "start_time_aest": "2026-01-31T14:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Australian Open Doubles",
         "contestants": [
@@ -90,11 +28,11 @@
         ],
         "match_name": "Kubler/Polmans v Harrison/Skupski",
         "betOption": "Head To Head",
-        "start_time": "2026-01-31T03:30:00.000Z"
+        "start_time": "2026-01-31T03:45:00.000Z"
     },
     {
         "contestant_names": "Ilia Simakin, (2.4) VERSES Stefanos Sakellaridis, (1.5)",
-        "start_time_aest": "2026-01-31T14:30:00+11:00",
+        "start_time_aest": "2026-01-31T14:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -121,7 +59,7 @@
         ],
         "match_name": "Simakin v Sakellaridis S",
         "betOption": "Head To Head",
-        "start_time": "2026-01-31T03:30:00.000Z"
+        "start_time": "2026-01-31T03:45:00.000Z"
     },
     {
         "contestant_names": "France, (2) VERSES New Zealand, (1.72)",
@@ -215,5 +153,36 @@
         "match_name": "Northern Brave v Canterbury",
         "betOption": "Head To Head",
         "start_time": "2026-01-31T04:55:00.000Z"
+    },
+    {
+        "contestant_names": "Jeonju KCC Egis, (1.45) VERSES Seoul Thunders, (2.5)",
+        "start_time_aest": "2026-01-31T16:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "South Korea KBL",
+        "contestants": [
+            {
+                "full_name": "Jeonju KCC Egis",
+                "position": "HOME",
+                "short_name": "Jeonju KCC Egis"
+            },
+            {
+                "full_name": "Seoul Thunders",
+                "position": "AWAY",
+                "short_name": "Seoul Thunders"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jeonju KCC Egis",
+                "returnWin": 1.45
+            },
+            {
+                "name": "Seoul Thunders",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Jeonju KCC Egis v Seoul Thunders",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T05:00:00.000Z"
     }
 ]
