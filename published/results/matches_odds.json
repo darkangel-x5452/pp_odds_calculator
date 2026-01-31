@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Alabama AM, (1.55) VERSES Florida AM, (2.45)",
-        "start_time_aest": "2026-02-01T09:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Alabama AM",
-                "position": "HOME",
-                "short_name": "Alabama AM"
-            },
-            {
-                "full_name": "Florida AM",
-                "position": "AWAY",
-                "short_name": "Florida AM"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Alabama AM",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Florida AM",
-                "returnWin": 2.45
-            }
-        ],
-        "match_name": "Alabama AM v Florida AM",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T22:00:00.000Z"
-    },
-    {
-        "contestant_names": "Kennesaw State, (1.77) VERSES New Mexico State, (2.05)",
-        "start_time_aest": "2026-02-01T09:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Kennesaw State",
-                "position": "HOME",
-                "short_name": "Kennesaw State"
-            },
-            {
-                "full_name": "New Mexico State",
-                "position": "AWAY",
-                "short_name": "New Mexico State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Kennesaw State",
-                "returnWin": 1.77
-            },
-            {
-                "name": "New Mexico State",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Kennesaw State v New Mexico State",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T22:00:00.000Z"
-    },
-    {
-        "contestant_names": "Incarnate Word, (2.1) VERSES UTRGV, (1.74)",
-        "start_time_aest": "2026-02-01T09:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Incarnate Word",
-                "position": "HOME",
-                "short_name": "Incarnate Word"
-            },
-            {
-                "full_name": "UTRGV",
-                "position": "AWAY",
-                "short_name": "UTRGV"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Incarnate Word",
-                "returnWin": 2.1
-            },
-            {
-                "name": "UTRGV",
-                "returnWin": 1.74
-            }
-        ],
-        "match_name": "Incarnate Word v UTRGV",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T22:00:00.000Z"
-    },
-    {
         "contestant_names": "Washington, (2.4) VERSES Carolina, (1.55)",
         "start_time_aest": "2026-02-01T09:05:00+11:00",
         "sport_name": "Ice Hockey",
@@ -124,6 +31,68 @@
         "start_time": "2026-01-31T22:05:00.000Z"
     },
     {
+        "contestant_names": "Washington, (2.5) VERSES Carolina, (1.52)",
+        "start_time_aest": "2026-02-01T09:09:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Washington",
+                "position": "HOME",
+                "short_name": "Washington"
+            },
+            {
+                "full_name": "Carolina",
+                "position": "AWAY",
+                "short_name": "Carolina"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Washington",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Carolina",
+                "returnWin": 1.52
+            }
+        ],
+        "match_name": "Washington v Carolina",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T22:09:00.000Z"
+    },
+    {
+        "contestant_names": "Prairie View AM, (2) VERSES Texas Southern, (1.8)",
+        "start_time_aest": "2026-02-01T09:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Prairie View AM",
+                "position": "HOME",
+                "short_name": "Prairie View AM"
+            },
+            {
+                "full_name": "Texas Southern",
+                "position": "AWAY",
+                "short_name": "Texas Southern"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Prairie View AM",
+                "returnWin": 2
+            },
+            {
+                "name": "Texas Southern",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Prairie View AM v Texas Southern",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T22:30:00.000Z"
+    },
+    {
         "contestant_names": "NAKAMURA Keiichiro, (2.15) VERSES SZALAY Sebastian, (1.72)",
         "start_time_aest": "2026-02-01T09:40:00+11:00",
         "sport_name": "UFC",
@@ -153,6 +122,99 @@
         "match_name": "Nakamura v Szalay",
         "betOption": "Head To Head",
         "start_time": "2026-01-31T22:40:00.000Z"
+    },
+    {
+        "contestant_names": "San Diego, (1.65) VERSES Oregon State, (2.25)",
+        "start_time_aest": "2026-02-01T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "San Diego",
+                "position": "HOME",
+                "short_name": "San Diego"
+            },
+            {
+                "full_name": "Oregon State",
+                "position": "AWAY",
+                "short_name": "Oregon State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "San Diego",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Oregon State",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "San Diego v Oregon State",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Florida State, (1.6) VERSES Stanford, (2.35)",
+        "start_time_aest": "2026-02-01T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Florida State",
+                "position": "HOME",
+                "short_name": "Florida State"
+            },
+            {
+                "full_name": "Stanford",
+                "position": "AWAY",
+                "short_name": "Stanford"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Florida State",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Stanford",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Florida State v Stanford",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Brown, (1.77) VERSES Dartmouth, (2.05)",
+        "start_time_aest": "2026-02-01T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Brown",
+                "position": "HOME",
+                "short_name": "Brown"
+            },
+            {
+                "full_name": "Dartmouth",
+                "position": "AWAY",
+                "short_name": "Dartmouth"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Brown",
+                "returnWin": 1.77
+            },
+            {
+                "name": "Dartmouth",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Brown v Dartmouth",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T23:00:00.000Z"
     },
     {
         "contestant_names": "Albany, (2.15) VERSES UMBC, (1.7)",
