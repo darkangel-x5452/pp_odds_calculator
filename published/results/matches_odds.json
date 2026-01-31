@@ -1,34 +1,158 @@
 [
     {
-        "contestant_names": "Maia Basket, (2.25) VERSES Illiabum, (1.55)",
-        "start_time_aest": "2026-02-01T08:30:00+11:00",
+        "contestant_names": "Alabama AM, (1.55) VERSES Florida AM, (2.45)",
+        "start_time_aest": "2026-02-01T09:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Portugal ProLiga",
+        "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Maia Basket",
+                "full_name": "Alabama AM",
                 "position": "HOME",
-                "short_name": "Maia Basket"
+                "short_name": "Alabama AM"
             },
             {
-                "full_name": "Illiabum",
+                "full_name": "Florida AM",
                 "position": "AWAY",
-                "short_name": "Illiabum"
+                "short_name": "Florida AM"
             }
         ],
         "propositions": [
             {
-                "name": "Maia Basket",
-                "returnWin": 2.25
+                "name": "Alabama AM",
+                "returnWin": 1.55
             },
             {
-                "name": "Illiabum",
+                "name": "Florida AM",
+                "returnWin": 2.45
+            }
+        ],
+        "match_name": "Alabama AM v Florida AM",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T22:00:00.000Z"
+    },
+    {
+        "contestant_names": "Kennesaw State, (1.77) VERSES New Mexico State, (2.05)",
+        "start_time_aest": "2026-02-01T09:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Kennesaw State",
+                "position": "HOME",
+                "short_name": "Kennesaw State"
+            },
+            {
+                "full_name": "New Mexico State",
+                "position": "AWAY",
+                "short_name": "New Mexico State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Kennesaw State",
+                "returnWin": 1.77
+            },
+            {
+                "name": "New Mexico State",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Kennesaw State v New Mexico State",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T22:00:00.000Z"
+    },
+    {
+        "contestant_names": "Incarnate Word, (2.1) VERSES UTRGV, (1.74)",
+        "start_time_aest": "2026-02-01T09:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Incarnate Word",
+                "position": "HOME",
+                "short_name": "Incarnate Word"
+            },
+            {
+                "full_name": "UTRGV",
+                "position": "AWAY",
+                "short_name": "UTRGV"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Incarnate Word",
+                "returnWin": 2.1
+            },
+            {
+                "name": "UTRGV",
+                "returnWin": 1.74
+            }
+        ],
+        "match_name": "Incarnate Word v UTRGV",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T22:00:00.000Z"
+    },
+    {
+        "contestant_names": "Washington, (2.4) VERSES Carolina, (1.55)",
+        "start_time_aest": "2026-02-01T09:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Washington",
+                "position": "HOME",
+                "short_name": "Washington"
+            },
+            {
+                "full_name": "Carolina",
+                "position": "AWAY",
+                "short_name": "Carolina"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Washington",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Carolina",
                 "returnWin": 1.55
             }
         ],
-        "match_name": "Maia Basket v Illiabum",
+        "match_name": "Washington v Carolina",
         "betOption": "Head To Head",
-        "start_time": "2026-01-31T21:30:00.000Z"
+        "start_time": "2026-01-31T22:05:00.000Z"
+    },
+    {
+        "contestant_names": "NAKAMURA Keiichiro, (2.15) VERSES SZALAY Sebastian, (1.72)",
+        "start_time_aest": "2026-02-01T09:40:00+11:00",
+        "sport_name": "UFC",
+        "competition_name": "UFC",
+        "contestants": [
+            {
+                "full_name": "NAKAMURA Keiichiro",
+                "position": "HOME",
+                "short_name": "Nakamura"
+            },
+            {
+                "full_name": "SZALAY Sebastian",
+                "position": "AWAY",
+                "short_name": "Szalay"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "NAKAMURA Keiichiro",
+                "returnWin": 2.15
+            },
+            {
+                "name": "SZALAY Sebastian",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "Nakamura v Szalay",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T22:40:00.000Z"
     },
     {
         "contestant_names": "Albany, (2.15) VERSES UMBC, (1.7)",
