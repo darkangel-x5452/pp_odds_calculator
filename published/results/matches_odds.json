@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Utah, (1.62) VERSES Brooklyn, (2.35)",
-        "start_time_aest": "2026-01-31T13:40:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Utah",
-                "position": "HOME",
-                "short_name": "Utah"
-            },
-            {
-                "full_name": "Brooklyn",
-                "position": "AWAY",
-                "short_name": "Brooklyn"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Utah",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Brooklyn",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Utah v Brooklyn",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T02:40:00.000Z"
-    },
-    {
         "contestant_names": "USA, (1.53) VERSES Japan, (2.37)",
         "start_time_aest": "2026-01-31T14:04:00+11:00",
         "sport_name": "Rugby Union",
@@ -184,5 +153,67 @@
         "match_name": "France v New Zealand",
         "betOption": "Head To Head",
         "start_time": "2026-01-31T03:48:00.000Z"
+    },
+    {
+        "contestant_names": "Southside, (1.52) VERSES Adelaide, (2.5)",
+        "start_time_aest": "2026-01-31T15:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "WNBL",
+        "contestants": [
+            {
+                "full_name": "Southside",
+                "position": "HOME",
+                "short_name": "Southside"
+            },
+            {
+                "full_name": "Adelaide",
+                "position": "AWAY",
+                "short_name": "Adelaide"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Southside",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Adelaide",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Southside v Adelaide",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T04:00:00.000Z"
+    },
+    {
+        "contestant_names": "Northern Brave, (2) VERSES Canterbury Kings, (1.8)",
+        "start_time_aest": "2026-01-31T15:55:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "NZ Super Smash",
+        "contestants": [
+            {
+                "full_name": "Northern Brave",
+                "position": "HOME",
+                "short_name": "Northern Brave"
+            },
+            {
+                "full_name": "Canterbury Kings",
+                "position": "AWAY",
+                "short_name": "Canterbury"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Northern Brave",
+                "returnWin": 2
+            },
+            {
+                "name": "Canterbury Kings",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Northern Brave v Canterbury",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T04:55:00.000Z"
     }
 ]
