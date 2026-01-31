@@ -1,219 +1,126 @@
 [
     {
-        "contestant_names": "Jackson State, (2.25) VERSES Grambling State, (1.65)",
-        "start_time_aest": "2026-02-01T08:00:00+11:00",
+        "contestant_names": "Maia Basket, (2.25) VERSES Illiabum, (1.55)",
+        "start_time_aest": "2026-02-01T08:30:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "competition_name": "Portugal ProLiga",
         "contestants": [
             {
-                "full_name": "Jackson State",
+                "full_name": "Maia Basket",
                 "position": "HOME",
-                "short_name": "Jackson State"
+                "short_name": "Maia Basket"
             },
             {
-                "full_name": "Grambling State",
+                "full_name": "Illiabum",
                 "position": "AWAY",
-                "short_name": "Grambling State"
+                "short_name": "Illiabum"
             }
         ],
         "propositions": [
             {
-                "name": "Jackson State",
+                "name": "Maia Basket",
                 "returnWin": 2.25
             },
             {
-                "name": "Grambling State",
-                "returnWin": 1.65
+                "name": "Illiabum",
+                "returnWin": 1.55
             }
         ],
-        "match_name": "Jackson State v Grambling State",
+        "match_name": "Maia Basket v Illiabum",
         "betOption": "Head To Head",
-        "start_time": "2026-01-31T21:00:00.000Z"
+        "start_time": "2026-01-31T21:30:00.000Z"
     },
     {
-        "contestant_names": "Tennessee Tech, (2.2) VERSES ArknssLittleRock, (1.67)",
-        "start_time_aest": "2026-02-01T08:00:00+11:00",
+        "contestant_names": "Albany, (2.15) VERSES UMBC, (1.7)",
+        "start_time_aest": "2026-02-01T11:00:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Tennessee Tech",
+                "full_name": "Albany",
                 "position": "HOME",
-                "short_name": "Tennessee Tech"
+                "short_name": "Albany"
             },
             {
-                "full_name": "ArknssLittleRock",
+                "full_name": "UMBC",
                 "position": "AWAY",
-                "short_name": "ArknssLittleRock"
+                "short_name": "UMBC"
             }
         ],
         "propositions": [
             {
-                "name": "Tennessee Tech",
-                "returnWin": 2.2
+                "name": "Albany",
+                "returnWin": 2.15
             },
             {
-                "name": "ArknssLittleRock",
-                "returnWin": 1.67
-            }
-        ],
-        "match_name": "Tennessee Tech v ArknssLittleRock",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T21:00:00.000Z"
-    },
-    {
-        "contestant_names": "West Virginia, (1.67) VERSES Baylor, (2.2)",
-        "start_time_aest": "2026-02-01T08:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "West Virginia",
-                "position": "HOME",
-                "short_name": "West Virginia"
-            },
-            {
-                "full_name": "Baylor",
-                "position": "AWAY",
-                "short_name": "Baylor"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "West Virginia",
-                "returnWin": 1.67
-            },
-            {
-                "name": "Baylor",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "West Virginia v Baylor",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T21:00:00.000Z"
-    },
-    {
-        "contestant_names": "Denver, (1.74) VERSES Nebraska Omaha, (2.1)",
-        "start_time_aest": "2026-02-01T08:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Denver",
-                "position": "HOME",
-                "short_name": "Denver"
-            },
-            {
-                "full_name": "Nebraska Omaha",
-                "position": "AWAY",
-                "short_name": "Nebraska Omaha"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Denver",
-                "returnWin": 1.74
-            },
-            {
-                "name": "Nebraska Omaha",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Denver v Nebraska Omaha",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T21:00:00.000Z"
-    },
-    {
-        "contestant_names": "UL Lafayette, (2.35) VERSES Georgia Southern, (1.6)",
-        "start_time_aest": "2026-02-01T08:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "UL Lafayette",
-                "position": "HOME",
-                "short_name": "UL Lafayette"
-            },
-            {
-                "full_name": "Georgia Southern",
-                "position": "AWAY",
-                "short_name": "Georgia Southern"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "UL Lafayette",
-                "returnWin": 2.35
-            },
-            {
-                "name": "Georgia Southern",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "UL Lafayette v Georgia Southern",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T21:00:00.000Z"
-    },
-    {
-        "contestant_names": "BANK Jacob, (2) VERSES SCULL William, (1.7)",
-        "start_time_aest": "2026-02-01T08:00:00+11:00",
-        "sport_name": "Boxing",
-        "competition_name": "Bank vs Scull",
-        "contestants": [
-            {
-                "full_name": "BANK Jacob",
-                "position": "HOME",
-                "short_name": "Bank"
-            },
-            {
-                "full_name": "SCULL William",
-                "position": "AWAY",
-                "short_name": "Scull"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "BANK Jacob",
-                "returnWin": 2
-            },
-            {
-                "name": "SCULL William",
+                "name": "UMBC",
                 "returnWin": 1.7
             }
         ],
-        "match_name": "Bank v Scull",
+        "match_name": "Albany v UMBC",
         "betOption": "Head To Head",
-        "start_time": "2026-01-31T21:00:00.000Z"
+        "start_time": "2026-02-01T00:00:00.000Z"
     },
     {
-        "contestant_names": "Cloud9, (1.46) VERSES Lyon, (2.5)",
-        "start_time_aest": "2026-02-01T08:00:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "League of Legends",
+        "contestant_names": "Zachary Svajda, (1.5) VERSES Sho Shimabukuro, (2.4)",
+        "start_time_aest": "2026-02-01T11:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
         "contestants": [
             {
-                "full_name": "Cloud9",
+                "full_name": "Zachary Svajda",
                 "position": "HOME",
-                "short_name": "Cloud9"
+                "short_name": "Svajda Z"
             },
             {
-                "full_name": "Lyon",
+                "full_name": "Sho Shimabukuro",
                 "position": "AWAY",
-                "short_name": "Lyon"
+                "short_name": "Shimabukuro"
             }
         ],
         "propositions": [
             {
-                "name": "Cloud9",
-                "returnWin": 1.46
+                "name": "Zachary Svajda",
+                "returnWin": 1.5
             },
             {
-                "name": "Lyon",
-                "returnWin": 2.5
+                "name": "Sho Shimabukuro",
+                "returnWin": 2.4
             }
         ],
-        "match_name": "Cloud9 v Lyon",
+        "match_name": "Svajda Z v Shimabukuro",
         "betOption": "Head To Head",
-        "start_time": "2026-01-31T21:00:00.000Z"
+        "start_time": "2026-02-01T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Sacramento State, (2.5) VERSES Montana, (1.53)",
+        "start_time_aest": "2026-02-01T14:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Sacramento State",
+                "position": "HOME",
+                "short_name": "Sacramento State"
+            },
+            {
+                "full_name": "Montana",
+                "position": "AWAY",
+                "short_name": "Montana"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sacramento State",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Montana",
+                "returnWin": 1.53
+            }
+        ],
+        "match_name": "Sacramento State v Montana",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T03:00:00.000Z"
     }
 ]
