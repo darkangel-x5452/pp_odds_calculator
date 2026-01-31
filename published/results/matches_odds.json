@@ -1,160 +1,5 @@
 [
     {
-        "contestant_names": "Orlando, (1.73) VERSES Toronto, (2.15)",
-        "start_time_aest": "2026-01-31T11:40:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Orlando",
-                "position": "HOME",
-                "short_name": "Orlando"
-            },
-            {
-                "full_name": "Toronto",
-                "position": "AWAY",
-                "short_name": "Toronto"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Orlando",
-                "returnWin": 1.73
-            },
-            {
-                "name": "Toronto",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Orlando v Toronto",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T00:40:00.000Z"
-    },
-    {
-        "contestant_names": "New Orleans, (1.65) VERSES Memphis, (2.3)",
-        "start_time_aest": "2026-01-31T11:40:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "New Orleans",
-                "position": "HOME",
-                "short_name": "New Orleans"
-            },
-            {
-                "full_name": "Memphis",
-                "position": "AWAY",
-                "short_name": "Memphis"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "New Orleans",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Memphis",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "New Orleans v Memphis",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T00:40:00.000Z"
-    },
-    {
-        "contestant_names": "Michigan State, (2.15) VERSES Michigan, (1.7)",
-        "start_time_aest": "2026-01-31T12:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Michigan State",
-                "position": "HOME",
-                "short_name": "Michigan State"
-            },
-            {
-                "full_name": "Michigan",
-                "position": "AWAY",
-                "short_name": "Michigan"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Michigan State",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Michigan",
-                "returnWin": 1.7
-            }
-        ],
-        "match_name": "Michigan State v Michigan",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T01:00:00.000Z"
-    },
-    {
-        "contestant_names": "Milwaukee, (2.2) VERSES Wright State, (1.67)",
-        "start_time_aest": "2026-01-31T12:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Milwaukee",
-                "position": "HOME",
-                "short_name": "Milwaukee"
-            },
-            {
-                "full_name": "Wright State",
-                "position": "AWAY",
-                "short_name": "Wright State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Milwaukee",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Wright State",
-                "returnWin": 1.67
-            }
-        ],
-        "match_name": "Milwaukee v Wright State",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T01:00:00.000Z"
-    },
-    {
-        "contestant_names": "Danilina/Krunic, (2.2) VERSES Mertens/Zhang, (1.6)",
-        "start_time_aest": "2026-01-31T12:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Australian Open Doubles",
-        "contestants": [
-            {
-                "full_name": "Danilina/Krunic",
-                "position": "HOME",
-                "short_name": "Danilina/Krunic"
-            },
-            {
-                "full_name": "Mertens/Zhang",
-                "position": "AWAY",
-                "short_name": "Mertens/Zhang"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Danilina/Krunic",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Mertens/Zhang",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Danilina/Krunic v Mertens/Zhang",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T01:00:00.000Z"
-    },
-    {
         "contestant_names": "Wellington (W), (1.7) VERSES Auckland Hearts (W), (2.1)",
         "start_time_aest": "2026-01-31T12:10:00+11:00",
         "sport_name": "Cricket",
@@ -184,6 +29,37 @@
         "match_name": "Wellington (W) v Auckland (W)",
         "betOption": "Head To Head",
         "start_time": "2026-01-31T01:10:00.000Z"
+    },
+    {
+        "contestant_names": "Danilina/Krunic, (2.2) VERSES Mertens/Zhang, (1.6)",
+        "start_time_aest": "2026-01-31T12:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Australian Open Doubles",
+        "contestants": [
+            {
+                "full_name": "Danilina/Krunic",
+                "position": "HOME",
+                "short_name": "Danilina/Krunic"
+            },
+            {
+                "full_name": "Mertens/Zhang",
+                "position": "AWAY",
+                "short_name": "Mertens/Zhang"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Danilina/Krunic",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Mertens/Zhang",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Danilina/Krunic v Mertens/Zhang",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T01:15:00.000Z"
     },
     {
         "contestant_names": "Chicago, (2.3) VERSES Columbus, (1.6)",
@@ -246,5 +122,129 @@
         "match_name": "Grand Canyon v Boise State",
         "betOption": "Head To Head",
         "start_time": "2026-01-31T02:00:00.000Z"
+    },
+    {
+        "contestant_names": "Phoenix, (2.05) VERSES Cleveland, (1.8)",
+        "start_time_aest": "2026-01-31T13:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Phoenix",
+                "position": "HOME",
+                "short_name": "Phoenix"
+            },
+            {
+                "full_name": "Cleveland",
+                "position": "AWAY",
+                "short_name": "Cleveland"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Phoenix",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Cleveland",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Phoenix v Cleveland",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T02:10:00.000Z"
+    },
+    {
+        "contestant_names": "Denver, (2.2) VERSES LA Clippers, (1.7)",
+        "start_time_aest": "2026-01-31T13:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Denver",
+                "position": "HOME",
+                "short_name": "Denver"
+            },
+            {
+                "full_name": "LA Clippers",
+                "position": "AWAY",
+                "short_name": "LA Clippers"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Denver",
+                "returnWin": 2.2
+            },
+            {
+                "name": "LA Clippers",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "Denver v LA Clippers",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T02:10:00.000Z"
+    },
+    {
+        "contestant_names": "France, (2.4) VERSES Canada, (1.5)",
+        "start_time_aest": "2026-01-31T13:20:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "HSBC 7s Womens",
+        "contestants": [
+            {
+                "full_name": "France",
+                "position": "HOME",
+                "short_name": "France"
+            },
+            {
+                "full_name": "Canada",
+                "position": "AWAY",
+                "short_name": "Canada"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "France",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Canada",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "France v Canada",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T02:20:00.000Z"
+    },
+    {
+        "contestant_names": "Utah, (1.62) VERSES Brooklyn, (2.35)",
+        "start_time_aest": "2026-01-31T13:40:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Utah",
+                "position": "HOME",
+                "short_name": "Utah"
+            },
+            {
+                "full_name": "Brooklyn",
+                "position": "AWAY",
+                "short_name": "Brooklyn"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Utah",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Brooklyn",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Utah v Brooklyn",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T02:40:00.000Z"
     }
 ]
