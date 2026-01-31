@@ -1,69 +1,38 @@
 [
     {
-        "contestant_names": "Pakistan, (2.35) VERSES Australia, (1.58)",
-        "start_time_aest": "2026-01-31T22:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Twenty20 Internationals",
+        "contestant_names": "Argentina, (2) VERSES France, (1.75)",
+        "start_time_aest": "2026-01-31T22:02:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "HSBC Sevens",
         "contestants": [
             {
-                "full_name": "Pakistan",
+                "full_name": "Argentina",
                 "position": "HOME",
-                "short_name": "Pakistan"
+                "short_name": "Argentina"
             },
             {
-                "full_name": "Australia",
+                "full_name": "France",
                 "position": "AWAY",
-                "short_name": "Australia"
+                "short_name": "France"
             }
         ],
         "propositions": [
             {
-                "name": "Pakistan",
-                "returnWin": 2.35
+                "name": "Argentina",
+                "returnWin": 2
             },
             {
-                "name": "Australia",
-                "returnWin": 1.58
+                "name": "France",
+                "returnWin": 1.75
             }
         ],
-        "match_name": "Pakistan v Australia",
+        "match_name": "Argentina v France",
         "betOption": "Head To Head",
-        "start_time": "2026-01-31T11:00:00.000Z"
-    },
-    {
-        "contestant_names": "Emirates Blues, (2.1) VERSES Dubai, (1.7)",
-        "start_time_aest": "2026-01-31T22:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Emirates D10",
-        "contestants": [
-            {
-                "full_name": "Emirates Blues",
-                "position": "HOME",
-                "short_name": "Emirates Blues"
-            },
-            {
-                "full_name": "Dubai",
-                "position": "AWAY",
-                "short_name": "Dubai"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Emirates Blues",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Dubai",
-                "returnWin": 1.7
-            }
-        ],
-        "match_name": "Emirates Blues v Dubai",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T11:00:00.000Z"
+        "start_time": "2026-01-31T11:02:00.000Z"
     },
     {
         "contestant_names": "Renata Zarazua, (1.52) VERSES Vera Zvonareva, (2.35)",
-        "start_time_aest": "2026-01-31T22:00:00+11:00",
+        "start_time_aest": "2026-01-31T22:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA",
         "contestants": [
@@ -90,38 +59,7 @@
         ],
         "match_name": "Zarazua v Zvonareva V",
         "betOption": "Head To Head",
-        "start_time": "2026-01-31T11:00:00.000Z"
-    },
-    {
-        "contestant_names": "VALDMANNOVA Vendula, (1.62) VERSES Laura Samson, (2.15)",
-        "start_time_aest": "2026-01-31T22:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestants": [
-            {
-                "full_name": "VALDMANNOVA Vendula",
-                "position": "HOME",
-                "short_name": "Valdmannova Vend"
-            },
-            {
-                "full_name": "Laura Samson",
-                "position": "AWAY",
-                "short_name": "Samson L"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "VALDMANNOVA Vendula",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Laura Samson",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Valdmannova Vend v Samson L",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T11:00:00.000Z"
+        "start_time": "2026-01-31T11:15:00.000Z"
     },
     {
         "contestant_names": "Great Britain, (2.37) VERSES Spain, (1.52)",
@@ -153,5 +91,67 @@
         "match_name": "Great Britain v Spain",
         "betOption": "Head To Head",
         "start_time": "2026-01-31T11:24:00.000Z"
+    },
+    {
+        "contestant_names": "Final Genclik, (2.4) VERSES Ormanspor, (1.48)",
+        "start_time_aest": "2026-01-31T22:45:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Turkey TBL",
+        "contestants": [
+            {
+                "full_name": "Final Genclik",
+                "position": "HOME",
+                "short_name": "Final Genclik"
+            },
+            {
+                "full_name": "Ormanspor",
+                "position": "AWAY",
+                "short_name": "Ormanspor"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Final Genclik",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Ormanspor",
+                "returnWin": 1.48
+            }
+        ],
+        "match_name": "Final Genclik v Ormanspor",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T11:45:00.000Z"
+    },
+    {
+        "contestant_names": "South Africa, (2) VERSES Fiji, (1.75)",
+        "start_time_aest": "2026-01-31T22:46:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "HSBC Sevens",
+        "contestants": [
+            {
+                "full_name": "South Africa",
+                "position": "HOME",
+                "short_name": "South Africa"
+            },
+            {
+                "full_name": "Fiji",
+                "position": "AWAY",
+                "short_name": "Fiji"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "South Africa",
+                "returnWin": 2
+            },
+            {
+                "name": "Fiji",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "South Africa v Fiji",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T11:46:00.000Z"
     }
 ]
