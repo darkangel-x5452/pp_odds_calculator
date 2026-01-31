@@ -1,374 +1,157 @@
 [
     {
-        "contestant_names": "Hamburg, (1.95) VERSES Chemnitz, (1.75)",
-        "start_time_aest": "2026-02-01T06:00:00+11:00",
+        "contestant_names": "Horticult Kontic, (1.62) VERSES Bbc Falco Gent, (2.1)",
+        "start_time_aest": "2026-02-01T06:30:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Germany Bundesliga",
+        "competition_name": "Belgium Basketball League",
         "contestants": [
             {
-                "full_name": "Hamburg",
+                "full_name": "Horticult Kontic",
                 "position": "HOME",
-                "short_name": "Hamburg"
+                "short_name": "Horticult Kontic"
             },
             {
-                "full_name": "Chemnitz",
+                "full_name": "Bbc Falco Gent",
                 "position": "AWAY",
-                "short_name": "Chemnitz"
+                "short_name": "Bbc Falco Gent"
             }
         ],
         "propositions": [
             {
-                "name": "Hamburg",
+                "name": "Horticult Kontic",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Bbc Falco Gent",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Horticult Kontic v Bbc Falco Gent",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T19:30:00.000Z"
+    },
+    {
+        "contestant_names": "Willebroek, (1.95) VERSES Neufchateau, (1.73)",
+        "start_time_aest": "2026-02-01T06:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Belgium Basketball League",
+        "contestants": [
+            {
+                "full_name": "Willebroek",
+                "position": "HOME",
+                "short_name": "Willebroek"
+            },
+            {
+                "full_name": "Neufchateau",
+                "position": "AWAY",
+                "short_name": "Neufchateau"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Willebroek",
                 "returnWin": 1.95
             },
             {
-                "name": "Chemnitz",
-                "returnWin": 1.75
+                "name": "Neufchateau",
+                "returnWin": 1.73
             }
         ],
-        "match_name": "Hamburg v Chemnitz",
+        "match_name": "Willebroek v Neufchateau",
         "betOption": "Head To Head",
-        "start_time": "2026-01-31T19:00:00.000Z"
+        "start_time": "2026-01-31T19:30:00.000Z"
     },
     {
-        "contestant_names": "SC Rasta Vechta, (1.55) VERSES Frankfurt, (2.3)",
-        "start_time_aest": "2026-02-01T06:00:00+11:00",
+        "contestant_names": "Strasbourg, (1.73) VERSES Le Mans, (1.95)",
+        "start_time_aest": "2026-02-01T06:30:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Germany Bundesliga",
+        "competition_name": "France LNB Pro A",
         "contestants": [
             {
-                "full_name": "SC Rasta Vechta",
+                "full_name": "Strasbourg",
                 "position": "HOME",
-                "short_name": "SC Rasta Vechta"
+                "short_name": "Strasbourg"
             },
             {
-                "full_name": "Frankfurt",
+                "full_name": "Le Mans",
                 "position": "AWAY",
-                "short_name": "Frankfurt"
+                "short_name": "Le Mans"
             }
         ],
         "propositions": [
             {
-                "name": "SC Rasta Vechta",
-                "returnWin": 1.55
+                "name": "Strasbourg",
+                "returnWin": 1.73
             },
             {
-                "name": "Frankfurt",
-                "returnWin": 2.3
+                "name": "Le Mans",
+                "returnWin": 1.95
             }
         ],
-        "match_name": "SC Rasta Vechta v Frankfurt",
+        "match_name": "Strasbourg v Le Mans",
         "betOption": "Head To Head",
-        "start_time": "2026-01-31T19:00:00.000Z"
+        "start_time": "2026-01-31T19:30:00.000Z"
     },
     {
-        "contestant_names": "Cantu, (2.15) VERSES Reyer Venezia, (1.6)",
-        "start_time_aest": "2026-02-01T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Italy Lega Serie A",
-        "contestants": [
-            {
-                "full_name": "Cantu",
-                "position": "HOME",
-                "short_name": "Cantu"
-            },
-            {
-                "full_name": "Reyer Venezia",
-                "position": "AWAY",
-                "short_name": "Reyer Venezia"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Cantu",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Reyer Venezia",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Cantu v Reyer Venezia",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Buffalo, (1.65) VERSES Ohio, (2.25)",
-        "start_time_aest": "2026-02-01T06:00:00+11:00",
+        "contestant_names": "La Salle, (2.1) VERSES St Josephs, (1.74)",
+        "start_time_aest": "2026-02-01T06:30:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Buffalo",
+                "full_name": "La Salle",
                 "position": "HOME",
-                "short_name": "Buffalo"
+                "short_name": "La Salle"
             },
             {
-                "full_name": "Ohio",
+                "full_name": "St Josephs",
                 "position": "AWAY",
-                "short_name": "Ohio"
+                "short_name": "St Josephs"
             }
         ],
         "propositions": [
             {
-                "name": "Buffalo",
+                "name": "La Salle",
+                "returnWin": 2.1
+            },
+            {
+                "name": "St Josephs",
+                "returnWin": 1.74
+            }
+        ],
+        "match_name": "La Salle v St Josephs",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T19:30:00.000Z"
+    },
+    {
+        "contestant_names": "Team Yandex, (1.65) VERSES Team Liquid, (2.1)",
+        "start_time_aest": "2026-02-01T06:30:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "contestants": [
+            {
+                "full_name": "Team Yandex",
+                "position": "HOME",
+                "short_name": "Team Yandex"
+            },
+            {
+                "full_name": "Team Liquid",
+                "position": "AWAY",
+                "short_name": "Team Liquid"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Team Yandex",
                 "returnWin": 1.65
             },
             {
-                "name": "Ohio",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Buffalo v Ohio",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Northeastern, (2.45) VERSES Charleston, (1.55)",
-        "start_time_aest": "2026-02-01T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Northeastern",
-                "position": "HOME",
-                "short_name": "Northeastern"
-            },
-            {
-                "full_name": "Charleston",
-                "position": "AWAY",
-                "short_name": "Charleston"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Northeastern",
-                "returnWin": 2.45
-            },
-            {
-                "name": "Charleston",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Northeastern v Charleston",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Texas State, (1.85) VERSES Old Dominion, (1.95)",
-        "start_time_aest": "2026-02-01T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Texas State",
-                "position": "HOME",
-                "short_name": "Texas State"
-            },
-            {
-                "full_name": "Old Dominion",
-                "position": "AWAY",
-                "short_name": "Old Dominion"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Texas State",
-                "returnWin": 1.85
-            },
-            {
-                "name": "Old Dominion",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Texas State v Old Dominion",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Oklahoma, (2.1) VERSES Texas, (1.74)",
-        "start_time_aest": "2026-02-01T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Oklahoma",
-                "position": "HOME",
-                "short_name": "Oklahoma"
-            },
-            {
-                "full_name": "Texas",
-                "position": "AWAY",
-                "short_name": "Texas"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Oklahoma",
+                "name": "Team Liquid",
                 "returnWin": 2.1
-            },
-            {
-                "name": "Texas",
-                "returnWin": 1.74
             }
         ],
-        "match_name": "Oklahoma v Texas",
+        "match_name": "Team Yandex v Team Liquid",
         "betOption": "Head To Head",
-        "start_time": "2026-01-31T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Monmouth, (2.1) VERSES Hofstra, (1.74)",
-        "start_time_aest": "2026-02-01T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Monmouth",
-                "position": "HOME",
-                "short_name": "Monmouth"
-            },
-            {
-                "full_name": "Hofstra",
-                "position": "AWAY",
-                "short_name": "Hofstra"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Monmouth",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Hofstra",
-                "returnWin": 1.74
-            }
-        ],
-        "match_name": "Monmouth v Hofstra",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Central CT State, (2.15) VERSES Long Island, (1.7)",
-        "start_time_aest": "2026-02-01T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Central CT State",
-                "position": "HOME",
-                "short_name": "Central CT State"
-            },
-            {
-                "full_name": "Long Island",
-                "position": "AWAY",
-                "short_name": "Long Island"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Central CT State",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Long Island",
-                "returnWin": 1.7
-            }
-        ],
-        "match_name": "Central CT State v Long Island",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Lehigh, (2.45) VERSES Colgate, (1.55)",
-        "start_time_aest": "2026-02-01T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Lehigh",
-                "position": "HOME",
-                "short_name": "Lehigh"
-            },
-            {
-                "full_name": "Colgate",
-                "position": "AWAY",
-                "short_name": "Colgate"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Lehigh",
-                "returnWin": 2.45
-            },
-            {
-                "name": "Colgate",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Lehigh v Colgate",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Presbyterian, (1.85) VERSES Radford, (1.95)",
-        "start_time_aest": "2026-02-01T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Presbyterian",
-                "position": "HOME",
-                "short_name": "Presbyterian"
-            },
-            {
-                "full_name": "Radford",
-                "position": "AWAY",
-                "short_name": "Radford"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Presbyterian",
-                "returnWin": 1.85
-            },
-            {
-                "name": "Radford",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Presbyterian v Radford",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Stetson, (1.85) VERSES North Alabama, (1.95)",
-        "start_time_aest": "2026-02-01T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Stetson",
-                "position": "HOME",
-                "short_name": "Stetson"
-            },
-            {
-                "full_name": "North Alabama",
-                "position": "AWAY",
-                "short_name": "North Alabama"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Stetson",
-                "returnWin": 1.85
-            },
-            {
-                "name": "North Alabama",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Stetson v North Alabama",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T19:00:00.000Z"
+        "start_time": "2026-01-31T19:30:00.000Z"
     }
 ]
