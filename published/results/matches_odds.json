@@ -1,69 +1,7 @@
 [
     {
-        "contestant_names": "Final Genclik, (2.4) VERSES Ormanspor, (1.48)",
-        "start_time_aest": "2026-01-31T22:45:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Turkey TBL",
-        "contestants": [
-            {
-                "full_name": "Final Genclik",
-                "position": "HOME",
-                "short_name": "Final Genclik"
-            },
-            {
-                "full_name": "Ormanspor",
-                "position": "AWAY",
-                "short_name": "Ormanspor"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Final Genclik",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Ormanspor",
-                "returnWin": 1.48
-            }
-        ],
-        "match_name": "Final Genclik v Ormanspor",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T11:45:00.000Z"
-    },
-    {
-        "contestant_names": "South Africa, (2) VERSES Fiji, (1.75)",
-        "start_time_aest": "2026-01-31T22:46:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "HSBC Sevens",
-        "contestants": [
-            {
-                "full_name": "South Africa",
-                "position": "HOME",
-                "short_name": "South Africa"
-            },
-            {
-                "full_name": "Fiji",
-                "position": "AWAY",
-                "short_name": "Fiji"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "South Africa",
-                "returnWin": 2
-            },
-            {
-                "name": "Fiji",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "South Africa v Fiji",
-        "betOption": "Head To Head",
-        "start_time": "2026-01-31T11:46:00.000Z"
-    },
-    {
         "contestant_names": "Kyrian Jacquet, (1.95) VERSES Mattia Bellucci, (1.75)",
-        "start_time_aest": "2026-01-31T23:00:00+11:00",
+        "start_time_aest": "2026-01-31T23:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -90,6 +28,68 @@
         ],
         "match_name": "Jacquet v Bellucci M",
         "betOption": "Head To Head",
-        "start_time": "2026-01-31T12:00:00.000Z"
+        "start_time": "2026-01-31T12:15:00.000Z"
+    },
+    {
+        "contestant_names": "Team Liquid, (1.95) VERSES BetBoom Team, (1.75)",
+        "start_time_aest": "2026-01-31T23:30:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "contestants": [
+            {
+                "full_name": "Team Liquid",
+                "position": "HOME",
+                "short_name": "Team Liquid"
+            },
+            {
+                "full_name": "BetBoom Team",
+                "position": "AWAY",
+                "short_name": "Betboom Team"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Team Liquid",
+                "returnWin": 1.95
+            },
+            {
+                "name": "BetBoom Team",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Team Liquid v Betboom Team",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T12:30:00.000Z"
+    },
+    {
+        "contestant_names": "Lions, (2.5) VERSES Blue Bulls, (1.45)",
+        "start_time_aest": "2026-01-31T23:30:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "United Rugby Championship",
+        "contestants": [
+            {
+                "full_name": "Lions",
+                "position": "HOME",
+                "short_name": "Lions"
+            },
+            {
+                "full_name": "Blue Bulls",
+                "position": "AWAY",
+                "short_name": "Blue Bulls"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lions",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Blue Bulls",
+                "returnWin": 1.45
+            }
+        ],
+        "match_name": "Lions v Blue Bulls",
+        "betOption": "Head To Head",
+        "start_time": "2026-01-31T12:30:00.000Z"
     }
 ]
