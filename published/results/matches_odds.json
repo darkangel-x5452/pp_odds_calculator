@@ -1,37 +1,6 @@
 [
     {
-        "contestant_names": "Tasmania, (2) VERSES New Zealand, (1.8)",
-        "start_time_aest": "2026-02-01T14:37:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBL",
-        "contestants": [
-            {
-                "full_name": "Tasmania",
-                "position": "HOME",
-                "short_name": "Tasmania"
-            },
-            {
-                "full_name": "New Zealand",
-                "position": "AWAY",
-                "short_name": "New Zealand"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Tasmania",
-                "returnWin": 2
-            },
-            {
-                "name": "New Zealand",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "Tasmania v New Zealand",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-01T03:37:00.000Z"
-    },
-    {
-        "contestant_names": "VOLKANOVSKI Alex, (1.68) VERSES LOPES Diego, (2.25)",
+        "contestant_names": "VOLKANOVSKI Alex, (1.64) VERSES LOPES Diego, (2.3)",
         "start_time_aest": "2026-02-01T15:00:00+11:00",
         "sport_name": "UFC",
         "competition_name": "UFC",
@@ -50,11 +19,11 @@
         "propositions": [
             {
                 "name": "VOLKANOVSKI Alex",
-                "returnWin": 1.68
+                "returnWin": 1.64
             },
             {
                 "name": "LOPES Diego",
-                "returnWin": 2.25
+                "returnWin": 2.3
             }
         ],
         "match_name": "Volkanovski v Lopes",
@@ -184,5 +153,98 @@
         "match_name": "Saga Ballooners v Chiba Jets Funab",
         "betOption": "Head To Head",
         "start_time": "2026-02-01T05:05:00.000Z"
+    },
+    {
+        "contestant_names": "Nara, (1.55) VERSES Veltex Shizuoka, (2.25)",
+        "start_time_aest": "2026-02-01T16:05:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Japan B League 2",
+        "contestants": [
+            {
+                "full_name": "Nara",
+                "position": "HOME",
+                "short_name": "Nara"
+            },
+            {
+                "full_name": "Veltex Shizuoka",
+                "position": "AWAY",
+                "short_name": "Veltex Shizuoka"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nara",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Veltex Shizuoka",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Nara v Veltex Shizuoka",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T05:05:00.000Z"
+    },
+    {
+        "contestant_names": "Fukui Blowinds, (1.62) VERSES Kagoshima Rebnis, (2.1)",
+        "start_time_aest": "2026-02-01T16:05:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Japan B League 2",
+        "contestants": [
+            {
+                "full_name": "Fukui Blowinds",
+                "position": "HOME",
+                "short_name": "Fukui Blowinds"
+            },
+            {
+                "full_name": "Kagoshima Rebnis",
+                "position": "AWAY",
+                "short_name": "Kagoshima Rebnis"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Fukui Blowinds",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Kagoshima Rebnis",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Fukui Blowinds v Kagoshima Rebnis",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T05:05:00.000Z"
+    },
+    {
+        "contestant_names": "Shinshu Brave Wa, (1.62) VERSES Yokohama Exc, (2.1)",
+        "start_time_aest": "2026-02-01T16:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Japan B League 2",
+        "contestants": [
+            {
+                "full_name": "Shinshu Brave Wa",
+                "position": "HOME",
+                "short_name": "Shinshu Brave Wa"
+            },
+            {
+                "full_name": "Yokohama Exc",
+                "position": "AWAY",
+                "short_name": "Yokohama Exc"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Shinshu Brave Wa",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Yokohama Exc",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Shinshu Brave Wa v Yokohama Exc",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T05:30:00.000Z"
     }
 ]
