@@ -1,38 +1,7 @@
 [
     {
-        "contestant_names": "Lucrezia Stefanini, (1.95) VERSES Tamara Zidansek, (1.72)",
-        "start_time_aest": "2026-02-01T20:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestants": [
-            {
-                "full_name": "Lucrezia Stefanini",
-                "position": "HOME",
-                "short_name": "Stefanini L"
-            },
-            {
-                "full_name": "Tamara Zidansek",
-                "position": "AWAY",
-                "short_name": "Zidansek"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Lucrezia Stefanini",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Tamara Zidansek",
-                "returnWin": 1.72
-            }
-        ],
-        "match_name": "Stefanini L v Zidansek",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-01T09:15:00.000Z"
-    },
-    {
-        "contestant_names": "Gabriela Knutson, (2.05) VERSES Vendula Valdmannova, (1.68)",
-        "start_time_aest": "2026-02-01T20:30:00+11:00",
+        "contestant_names": "Gabriela Knutson, (2) VERSES Vendula Valdmannova, (1.72)",
+        "start_time_aest": "2026-02-01T20:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA",
         "contestants": [
@@ -50,16 +19,16 @@
         "propositions": [
             {
                 "name": "Gabriela Knutson",
-                "returnWin": 2.05
+                "returnWin": 2
             },
             {
                 "name": "Vendula Valdmannova",
-                "returnWin": 1.68
+                "returnWin": 1.72
             }
         ],
         "match_name": "Knutson v Valdmannova",
         "betOption": "Head To Head",
-        "start_time": "2026-02-01T09:30:00.000Z"
+        "start_time": "2026-02-01T09:45:00.000Z"
     },
     {
         "contestant_names": "Pakistan, (2.2) VERSES Australia, (1.65)",
@@ -89,6 +58,37 @@
             }
         ],
         "match_name": "Pakistan v Australia",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Maroussi, (1.55) VERSES Panionios, (2.3)",
+        "start_time_aest": "2026-02-01T22:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Greece A1",
+        "contestants": [
+            {
+                "full_name": "Maroussi",
+                "position": "HOME",
+                "short_name": "Maroussi"
+            },
+            {
+                "full_name": "Panionios",
+                "position": "AWAY",
+                "short_name": "Panionios"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Maroussi",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Panionios",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Maroussi v Panionios",
         "betOption": "Head To Head",
         "start_time": "2026-02-01T11:00:00.000Z"
     },
