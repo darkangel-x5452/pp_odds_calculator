@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Luke Littler, (1.6) VERSES Luke Humphries, (2.3)",
-        "start_time_aest": "2026-02-02T08:10:00+11:00",
-        "sport_name": "Darts",
-        "competition_name": "Darts Masters",
-        "contestants": [
-            {
-                "full_name": "Luke Littler",
-                "position": "HOME",
-                "short_name": "Littler Luke"
-            },
-            {
-                "full_name": "Luke Humphries",
-                "position": "AWAY",
-                "short_name": "Humphries Luke"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Luke Littler",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Luke Humphries",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Littler Luke  v Humphries Luke",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-01T21:10:00.000Z"
-    },
-    {
         "contestant_names": "Georgetown, (1.75) VERSES Marquette, (2)",
         "start_time_aest": "2026-02-02T09:00:00+11:00",
         "sport_name": "Basketball",
@@ -91,6 +60,68 @@
         "match_name": "Ohio State v Nebraska",
         "betOption": "Head To Head",
         "start_time": "2026-02-01T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Penarol, (2) VERSES Nacional (Uru), (1.75)",
+        "start_time_aest": "2026-02-02T10:00:00+11:00",
+        "sport_name": "Soccer",
+        "competition_name": "Uruguay Super Cup",
+        "contestants": [
+            {
+                "full_name": "Penarol",
+                "position": "HOME",
+                "short_name": "Penarol"
+            },
+            {
+                "full_name": "Nacional (Uru)",
+                "position": "AWAY",
+                "short_name": "Nacional (Uru)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Penarol",
+                "returnWin": 2
+            },
+            {
+                "name": "Nacional (Uru)",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Penarol v Nacional (Uru)",
+        "betOption": "Winner of Tie",
+        "start_time": "2026-02-01T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Washington, (2.1) VERSES Sacramento, (1.77)",
+        "start_time_aest": "2026-02-02T10:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Washington",
+                "position": "HOME",
+                "short_name": "Washington"
+            },
+            {
+                "full_name": "Sacramento",
+                "position": "AWAY",
+                "short_name": "Sacramento"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Washington",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Sacramento",
+                "returnWin": 1.77
+            }
+        ],
+        "match_name": "Washington v Sacramento",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T23:10:00.000Z"
     },
     {
         "contestant_names": "San Antonio, (1.73) VERSES Orlando, (2.15)",
