@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Sacramento State, (2.5) VERSES Montana, (1.53)",
-        "start_time_aest": "2026-02-01T14:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Sacramento State",
-                "position": "HOME",
-                "short_name": "Sacramento State"
-            },
-            {
-                "full_name": "Montana",
-                "position": "AWAY",
-                "short_name": "Montana"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sacramento State",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Montana",
-                "returnWin": 1.53
-            }
-        ],
-        "match_name": "Sacramento State v Montana",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-01T03:00:00.000Z"
-    },
-    {
         "contestant_names": "FIZIEV Rafael, (1.78) VERSES RUFFY Mauricio, (2.05)",
         "start_time_aest": "2026-02-01T14:00:00+11:00",
         "sport_name": "UFC",
@@ -124,6 +93,37 @@
         "start_time": "2026-02-01T03:37:00.000Z"
     },
     {
+        "contestant_names": "VOLKANOVSKI Alex, (1.68) VERSES LOPES Diego, (2.25)",
+        "start_time_aest": "2026-02-01T15:00:00+11:00",
+        "sport_name": "UFC",
+        "competition_name": "UFC",
+        "contestants": [
+            {
+                "full_name": "VOLKANOVSKI Alex",
+                "position": "HOME",
+                "short_name": "Volkanovski"
+            },
+            {
+                "full_name": "LOPES Diego",
+                "position": "AWAY",
+                "short_name": "Lopes"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "VOLKANOVSKI Alex",
+                "returnWin": 1.68
+            },
+            {
+                "name": "LOPES Diego",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Volkanovski v Lopes",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T04:00:00.000Z"
+    },
+    {
         "contestant_names": "France, (1.5) VERSES Japan, (2.5)",
         "start_time_aest": "2026-02-01T15:22:00+11:00",
         "sport_name": "Rugby Union",
@@ -153,5 +153,67 @@
         "match_name": "France v Japan",
         "betOption": "Head To Head",
         "start_time": "2026-02-01T04:22:00.000Z"
+    },
+    {
+        "contestant_names": "Busan Sonicboom, (1.7) VERSES Wonju, (2)",
+        "start_time_aest": "2026-02-01T16:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "South Korea KBL",
+        "contestants": [
+            {
+                "full_name": "Busan Sonicboom",
+                "position": "HOME",
+                "short_name": "Busan Sonicboom"
+            },
+            {
+                "full_name": "Wonju",
+                "position": "AWAY",
+                "short_name": "Wonju"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Busan Sonicboom",
+                "returnWin": 1.7
+            },
+            {
+                "name": "Wonju",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Busan Sonicboom v Wonju",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T05:00:00.000Z"
+    },
+    {
+        "contestant_names": "Taiyuan, (1.72) VERSES Chungwa Tel, (1.97)",
+        "start_time_aest": "2026-02-01T16:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Taiwan WSBL Women",
+        "contestants": [
+            {
+                "full_name": "Taiyuan",
+                "position": "HOME",
+                "short_name": "Taiyuan"
+            },
+            {
+                "full_name": "Chungwa Tel",
+                "position": "AWAY",
+                "short_name": "Chungwa Tel"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Taiyuan",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Chungwa Tel",
+                "returnWin": 1.97
+            }
+        ],
+        "match_name": "Taiyuan v Chungwa Tel",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T05:00:00.000Z"
     }
 ]
