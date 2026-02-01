@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Mayar Sherif, (2.35) VERSES Oleksandra Oliynykova, (1.55)",
-        "start_time_aest": "2026-02-02T05:45:00+11:00",
+        "start_time_aest": "2026-02-02T06:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA",
         "contestants": [
@@ -28,38 +28,7 @@
         ],
         "match_name": "Sherif M v Oliynykova",
         "betOption": "Head To Head",
-        "start_time": "2026-02-01T18:45:00.000Z"
-    },
-    {
-        "contestant_names": "Loud, (1.46) VERSES Fluxo W7m, (2.5)",
-        "start_time_aest": "2026-02-02T06:00:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "League of Legends",
-        "contestants": [
-            {
-                "full_name": "Loud",
-                "position": "HOME",
-                "short_name": "Loud"
-            },
-            {
-                "full_name": "Fluxo W7m",
-                "position": "AWAY",
-                "short_name": "Fluxo W7m"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Loud",
-                "returnWin": 1.46
-            },
-            {
-                "name": "Fluxo W7m",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Loud v Fluxo W7m",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-01T19:00:00.000Z"
+        "start_time": "2026-02-01T19:15:00.000Z"
     },
     {
         "contestant_names": "Karmine Corp, (1.55) VERSES Fnatic, (2.3)",
@@ -91,5 +60,36 @@
         "match_name": "Karmine Corp v Fnatic",
         "betOption": "Head To Head",
         "start_time": "2026-02-01T19:30:00.000Z"
+    },
+    {
+        "contestant_names": "Carolina, (1.55) VERSES Los Angeles, (2.4)",
+        "start_time_aest": "2026-02-02T07:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Carolina",
+                "position": "HOME",
+                "short_name": "Carolina"
+            },
+            {
+                "full_name": "Los Angeles",
+                "position": "AWAY",
+                "short_name": "Los Angeles"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Carolina",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Los Angeles",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Carolina v Los Angeles",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T20:05:00.000Z"
     }
 ]
