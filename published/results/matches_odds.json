@@ -31,6 +31,37 @@
         "start_time": "2026-02-01T17:35:00.000Z"
     },
     {
+        "contestant_names": "Vitality, (2.35) VERSES Giantx, (1.52)",
+        "start_time_aest": "2026-02-02T04:45:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "contestants": [
+            {
+                "full_name": "Vitality",
+                "position": "HOME",
+                "short_name": "Vitality"
+            },
+            {
+                "full_name": "Giantx",
+                "position": "AWAY",
+                "short_name": "Giantx"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Vitality",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Giantx",
+                "returnWin": 1.52
+            }
+        ],
+        "match_name": "Vitality v Giantx",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T17:45:00.000Z"
+    },
+    {
         "contestant_names": "West Virginia, (1.55) VERSES Baylor, (2.35)",
         "start_time_aest": "2026-02-02T05:00:00+11:00",
         "sport_name": "Basketball",
@@ -153,5 +184,98 @@
         "match_name": "Pain Gaming v Leviatan Esports",
         "betOption": "Head To Head",
         "start_time": "2026-02-01T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Mayar Sherif, (2.35) VERSES Oleksandra Oliynykova, (1.55)",
+        "start_time_aest": "2026-02-02T05:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Mayar Sherif",
+                "position": "HOME",
+                "short_name": "Sherif M"
+            },
+            {
+                "full_name": "Oleksandra Oliynykova",
+                "position": "AWAY",
+                "short_name": "Oliynykova"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mayar Sherif",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Oleksandra Oliynykova",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Sherif M v Oliynykova",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "CMC Ravenna, (1.65) VERSES Sigma Aversa, (2.1)",
+        "start_time_aest": "2026-02-02T05:00:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "Italy Serie A2 Men",
+        "contestants": [
+            {
+                "full_name": "CMC Ravenna",
+                "position": "HOME",
+                "short_name": "CMC Ravenna"
+            },
+            {
+                "full_name": "Sigma Aversa",
+                "position": "AWAY",
+                "short_name": "Sigma Aversa"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "CMC Ravenna",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Sigma Aversa",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "CMC Ravenna v Sigma Aversa",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Natus Vincere, (2.4) VERSES Spirit, (1.5)",
+        "start_time_aest": "2026-02-02T05:30:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "contestants": [
+            {
+                "full_name": "Natus Vincere",
+                "position": "HOME",
+                "short_name": "Natus Vincere"
+            },
+            {
+                "full_name": "Spirit",
+                "position": "AWAY",
+                "short_name": "Spirit"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Natus Vincere",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Spirit",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Natus Vincere v Spirit",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T18:30:00.000Z"
     }
 ]
