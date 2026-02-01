@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Devika Sihag, (1.95) VERSES Goh Jin Wei, (1.75)",
-        "start_time_aest": "2026-02-01T16:45:00+11:00",
-        "sport_name": "Badminton",
-        "competition_name": "Badminton World Tour",
-        "contestants": [
-            {
-                "full_name": "Devika Sihag",
-                "position": "HOME",
-                "short_name": "Sihag"
-            },
-            {
-                "full_name": "Goh Jin Wei",
-                "position": "AWAY",
-                "short_name": "JinWei"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Devika Sihag",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Goh Jin Wei",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Sihag v JinWei",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-01T05:45:00.000Z"
-    },
-    {
-        "contestant_names": "Zuzanna Pawlikowska, (2) VERSES Anastasia Kulikova, (1.7)",
-        "start_time_aest": "2026-02-01T16:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA 125 Tour",
-        "contestants": [
-            {
-                "full_name": "Zuzanna Pawlikowska",
-                "position": "HOME",
-                "short_name": "Pawlikowska"
-            },
-            {
-                "full_name": "Anastasia Kulikova",
-                "position": "AWAY",
-                "short_name": "Kulikova A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Zuzanna Pawlikowska",
-                "returnWin": 2
-            },
-            {
-                "name": "Anastasia Kulikova",
-                "returnWin": 1.7
-            }
-        ],
-        "match_name": "Pawlikowska v Kulikova A",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-01T05:45:00.000Z"
-    },
-    {
         "contestant_names": "Utsunomiya Brex, (1.45) VERSES Gunma, (2.5)",
         "start_time_aest": "2026-02-01T17:05:00+11:00",
         "sport_name": "Basketball",
@@ -153,5 +91,67 @@
         "match_name": "Teeraratsakul v Ubaidillah",
         "betOption": "Head To Head",
         "start_time": "2026-02-01T06:50:00.000Z"
+    },
+    {
+        "contestant_names": "Goyang, (1.45) VERSES Korea Gas Corpr, (2.5)",
+        "start_time_aest": "2026-02-01T18:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "South Korea KBL",
+        "contestants": [
+            {
+                "full_name": "Goyang",
+                "position": "HOME",
+                "short_name": "Goyang"
+            },
+            {
+                "full_name": "Korea Gas Corpr",
+                "position": "AWAY",
+                "short_name": "Korea Gas Corpr"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Goyang",
+                "returnWin": 1.45
+            },
+            {
+                "name": "Korea Gas Corpr",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Goyang v Korea Gas Corpr",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T07:30:00.000Z"
+    },
+    {
+        "contestant_names": "Yasmine Kabbaj, (2.1) VERSES Kristiana Sidorova, (1.63)",
+        "start_time_aest": "2026-02-01T18:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Tour",
+        "contestants": [
+            {
+                "full_name": "Yasmine Kabbaj",
+                "position": "HOME",
+                "short_name": "Kabbaj"
+            },
+            {
+                "full_name": "Kristiana Sidorova",
+                "position": "AWAY",
+                "short_name": "Sidorova"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Yasmine Kabbaj",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Kristiana Sidorova",
+                "returnWin": 1.63
+            }
+        ],
+        "match_name": "Kabbaj v Sidorova",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T07:30:00.000Z"
     }
 ]
