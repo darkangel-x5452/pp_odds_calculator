@@ -1,65 +1,65 @@
 [
     {
-        "contestant_names": "Australia, (2.2) VERSES New Zealand, (1.6)",
-        "start_time_aest": "2026-02-01T21:05:00+11:00",
+        "contestant_names": "Fiji, (1.58) VERSES France, (2.3)",
+        "start_time_aest": "2026-02-01T21:33:00+11:00",
         "sport_name": "Rugby Union",
-        "competition_name": "HSBC 7s Womens",
+        "competition_name": "HSBC Sevens",
         "contestants": [
             {
-                "full_name": "Australia",
+                "full_name": "Fiji",
                 "position": "HOME",
-                "short_name": "Australia"
+                "short_name": "Fiji"
             },
             {
-                "full_name": "New Zealand",
+                "full_name": "France",
                 "position": "AWAY",
-                "short_name": "New Zealand"
+                "short_name": "France"
             }
         ],
         "propositions": [
             {
-                "name": "Australia",
-                "returnWin": 2.2
+                "name": "Fiji",
+                "returnWin": 1.58
             },
             {
-                "name": "New Zealand",
-                "returnWin": 1.6
+                "name": "France",
+                "returnWin": 2.3
             }
         ],
-        "match_name": "Australia v New Zealand",
+        "match_name": "Fiji v France",
         "betOption": "Head To Head",
-        "start_time": "2026-02-01T10:05:00.000Z"
+        "start_time": "2026-02-01T10:33:00.000Z"
     },
     {
-        "contestant_names": "Susan Bandecchi, (2.05) VERSES Anna Siskova, (1.68)",
-        "start_time_aest": "2026-02-01T22:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
+        "contestant_names": "Fujian Sturgeons, (1.66) VERSES Beijing RF, (2.05)",
+        "start_time_aest": "2026-02-01T22:35:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "China CBA",
         "contestants": [
             {
-                "full_name": "Susan Bandecchi",
+                "full_name": "Fujian Sturgeons",
                 "position": "HOME",
-                "short_name": "Bandecchi"
+                "short_name": "Fujian Sturgeons"
             },
             {
-                "full_name": "Anna Siskova",
+                "full_name": "Beijing RF",
                 "position": "AWAY",
-                "short_name": "Siskova"
+                "short_name": "Beijing RF"
             }
         ],
         "propositions": [
             {
-                "name": "Susan Bandecchi",
-                "returnWin": 2.05
+                "name": "Fujian Sturgeons",
+                "returnWin": 1.66
             },
             {
-                "name": "Anna Siskova",
-                "returnWin": 1.68
+                "name": "Beijing RF",
+                "returnWin": 2.05
             }
         ],
-        "match_name": "Bandecchi v Siskova",
+        "match_name": "Fujian Sturgeons v Beijing RF",
         "betOption": "Head To Head",
-        "start_time": "2026-02-01T11:15:00.000Z"
+        "start_time": "2026-02-01T11:35:00.000Z"
     },
     {
         "contestant_names": "New Zealand, (2.2) VERSES South Africa, (1.6)",
@@ -91,5 +91,98 @@
         "match_name": "New Zealand v South Africa",
         "betOption": "Head To Head",
         "start_time": "2026-02-01T11:41:00.000Z"
+    },
+    {
+        "contestant_names": "Susan Bandecchi, (2.05) VERSES Anna Siskova, (1.68)",
+        "start_time_aest": "2026-02-01T22:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Susan Bandecchi",
+                "position": "HOME",
+                "short_name": "Bandecchi"
+            },
+            {
+                "full_name": "Anna Siskova",
+                "position": "AWAY",
+                "short_name": "Siskova"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Susan Bandecchi",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Anna Siskova",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Bandecchi v Siskova",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T11:45:00.000Z"
+    },
+    {
+        "contestant_names": "Xinjiang, (2.3) VERSES ShanghBaoshanDhu, (1.52)",
+        "start_time_aest": "2026-02-01T23:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "China CBA Women",
+        "contestants": [
+            {
+                "full_name": "Xinjiang",
+                "position": "HOME",
+                "short_name": "Xinjiang"
+            },
+            {
+                "full_name": "ShanghBaoshanDhu",
+                "position": "AWAY",
+                "short_name": "ShanghBaoshanDhu"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Xinjiang",
+                "returnWin": 2.3
+            },
+            {
+                "name": "ShanghBaoshanDhu",
+                "returnWin": 1.52
+            }
+        ],
+        "match_name": "Xinjiang v ShanghBaoshanDhu",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T12:00:00.000Z"
+    },
+    {
+        "contestant_names": "SL Benfica II, (1.5) VERSES Sampaense, (2.35)",
+        "start_time_aest": "2026-02-01T23:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Portugal ProLiga",
+        "contestants": [
+            {
+                "full_name": "SL Benfica II",
+                "position": "HOME",
+                "short_name": "SL Benfica II"
+            },
+            {
+                "full_name": "Sampaense",
+                "position": "AWAY",
+                "short_name": "Sampaense"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "SL Benfica II",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Sampaense",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "SL Benfica II v Sampaense",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T12:00:00.000Z"
     }
 ]
