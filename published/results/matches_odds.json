@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Sydney, (1.95) VERSES Geelong, (1.85)",
-        "start_time_aest": "2026-02-01T12:37:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "WNBL",
-        "contestants": [
-            {
-                "full_name": "Sydney",
-                "position": "HOME",
-                "short_name": "Sydney"
-            },
-            {
-                "full_name": "Geelong",
-                "position": "AWAY",
-                "short_name": "Geelong"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sydney",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Geelong",
-                "returnWin": 1.85
-            }
-        ],
-        "match_name": "Sydney v Geelong",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-01T01:37:00.000Z"
-    },
-    {
         "contestant_names": "Utah, (1.85) VERSES Dallas, (1.95)",
         "start_time_aest": "2026-02-01T13:05:00+11:00",
         "sport_name": "Ice Hockey",
@@ -122,5 +91,36 @@
         "match_name": "Sacramento State v Montana",
         "betOption": "Head To Head",
         "start_time": "2026-02-01T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Edmonton, (1.75) VERSES Minnesota, (2.05)",
+        "start_time_aest": "2026-02-01T14:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Edmonton",
+                "position": "HOME",
+                "short_name": "Edmonton"
+            },
+            {
+                "full_name": "Minnesota",
+                "position": "AWAY",
+                "short_name": "Minnesota"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Edmonton",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Minnesota",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Edmonton v Minnesota",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T03:05:00.000Z"
     }
 ]
