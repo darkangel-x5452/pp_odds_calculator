@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Fiji, (2.5) VERSES France, (1.5)",
-        "start_time_aest": "2026-02-01T18:36:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "HSBC 7s Womens",
-        "contestants": [
-            {
-                "full_name": "Fiji",
-                "position": "HOME",
-                "short_name": "Fiji"
-            },
-            {
-                "full_name": "France",
-                "position": "AWAY",
-                "short_name": "France"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Fiji",
-                "returnWin": 2.5
-            },
-            {
-                "name": "France",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Fiji v France",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-01T07:36:00.000Z"
-    },
-    {
         "contestant_names": "Spain, (2.4) VERSES Australia, (1.5)",
         "start_time_aest": "2026-02-01T18:58:00+11:00",
         "sport_name": "Rugby Union",
@@ -62,8 +31,39 @@
         "start_time": "2026-02-01T07:58:00.000Z"
     },
     {
+        "contestant_names": "Renata Zarazua, (2.25) VERSES Oksana Selekhmeteva, (1.55)",
+        "start_time_aest": "2026-02-01T19:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Renata Zarazua",
+                "position": "HOME",
+                "short_name": "Zarazua"
+            },
+            {
+                "full_name": "Oksana Selekhmeteva",
+                "position": "AWAY",
+                "short_name": "Selekhmeteva"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Renata Zarazua",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Oksana Selekhmeteva",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Zarazua v Selekhmeteva",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T08:45:00.000Z"
+    },
+    {
         "contestant_names": "Yasmine Kabbaj, (2.2) VERSES Kristiana Sidorova, (1.57)",
-        "start_time_aest": "2026-02-01T19:15:00+11:00",
+        "start_time_aest": "2026-02-01T19:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA 125 Tour",
         "contestants": [
@@ -90,38 +90,7 @@
         ],
         "match_name": "Kabbaj v Sidorova",
         "betOption": "Head To Head",
-        "start_time": "2026-02-01T08:15:00.000Z"
-    },
-    {
-        "contestant_names": "Renata Zarazua, (2.15) VERSES Oksana Selekhmeteva, (1.6)",
-        "start_time_aest": "2026-02-01T19:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestants": [
-            {
-                "full_name": "Renata Zarazua",
-                "position": "HOME",
-                "short_name": "Zarazua"
-            },
-            {
-                "full_name": "Oksana Selekhmeteva",
-                "position": "AWAY",
-                "short_name": "Selekhmeteva"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Renata Zarazua",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Oksana Selekhmeteva",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Zarazua v Selekhmeteva",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-01T08:30:00.000Z"
+        "start_time": "2026-02-01T08:45:00.000Z"
     },
     {
         "contestant_names": "Bank Of Taiwan, (1.45) VERSES Yulon Luxgen, (2.5)",
