@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "FIZIEV Rafael, (1.78) VERSES RUFFY Mauricio, (2.05)",
-        "start_time_aest": "2026-02-01T14:00:00+11:00",
-        "sport_name": "UFC",
-        "competition_name": "UFC",
-        "contestants": [
-            {
-                "full_name": "FIZIEV Rafael",
-                "position": "HOME",
-                "short_name": "Fiziev"
-            },
-            {
-                "full_name": "RUFFY Mauricio",
-                "position": "AWAY",
-                "short_name": "Ruffy"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "FIZIEV Rafael",
-                "returnWin": 1.78
-            },
-            {
-                "name": "RUFFY Mauricio",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Fiziev v Ruffy",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-01T03:00:00.000Z"
-    },
-    {
-        "contestant_names": "Edmonton, (1.75) VERSES Minnesota, (2.05)",
-        "start_time_aest": "2026-02-01T14:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Edmonton",
-                "position": "HOME",
-                "short_name": "Edmonton"
-            },
-            {
-                "full_name": "Minnesota",
-                "position": "AWAY",
-                "short_name": "Minnesota"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Edmonton",
-                "returnWin": 1.75
-            },
-            {
-                "name": "Minnesota",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Edmonton v Minnesota",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-01T03:05:00.000Z"
-    },
-    {
         "contestant_names": "Tasmania, (2) VERSES New Zealand, (1.8)",
         "start_time_aest": "2026-02-01T14:37:00+11:00",
         "sport_name": "Basketball",
@@ -215,5 +153,36 @@
         "match_name": "Taiyuan v Chungwa Tel",
         "betOption": "Head To Head",
         "start_time": "2026-02-01T05:00:00.000Z"
+    },
+    {
+        "contestant_names": "Saga Ballooners, (2.5) VERSES Chiba Jets Funab, (1.45)",
+        "start_time_aest": "2026-02-01T16:05:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Japan B League",
+        "contestants": [
+            {
+                "full_name": "Saga Ballooners",
+                "position": "HOME",
+                "short_name": "Saga Ballooners"
+            },
+            {
+                "full_name": "Chiba Jets Funab",
+                "position": "AWAY",
+                "short_name": "Chiba Jets Funab"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Saga Ballooners",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Chiba Jets Funab",
+                "returnWin": 1.45
+            }
+        ],
+        "match_name": "Saga Ballooners v Chiba Jets Funab",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T05:05:00.000Z"
     }
 ]
