@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Panitchaphon Teeraratsakul, (1.55) VERSES Moh. Zaki Ubaidillah, (2.3)",
-        "start_time_aest": "2026-02-01T17:50:00+11:00",
-        "sport_name": "Badminton",
-        "competition_name": "Badminton World Tour",
-        "contestants": [
-            {
-                "full_name": "Panitchaphon Teeraratsakul",
-                "position": "HOME",
-                "short_name": "Teeraratsakul"
-            },
-            {
-                "full_name": "Moh. Zaki Ubaidillah",
-                "position": "AWAY",
-                "short_name": "Ubaidillah"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Panitchaphon Teeraratsakul",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Moh. Zaki Ubaidillah",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Teeraratsakul v Ubaidillah",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-01T06:50:00.000Z"
-    },
-    {
-        "contestant_names": "Fiji, (1.52) VERSES New Zealand, (2.37)",
-        "start_time_aest": "2026-02-01T17:52:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "HSBC Sevens",
-        "contestants": [
-            {
-                "full_name": "Fiji",
-                "position": "HOME",
-                "short_name": "Fiji"
-            },
-            {
-                "full_name": "New Zealand",
-                "position": "AWAY",
-                "short_name": "New Zealand"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Fiji",
-                "returnWin": 1.52
-            },
-            {
-                "name": "New Zealand",
-                "returnWin": 2.37
-            }
-        ],
-        "match_name": "Fiji v New Zealand",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-01T06:52:00.000Z"
-    },
-    {
         "contestant_names": "France, (2) VERSES South Africa, (1.7)",
         "start_time_aest": "2026-02-01T18:14:00+11:00",
         "sport_name": "Rugby Union",
@@ -184,5 +122,98 @@
         "match_name": "Bendigo v Perth",
         "betOption": "Head To Head",
         "start_time": "2026-02-01T07:37:00.000Z"
+    },
+    {
+        "contestant_names": "Spain, (2.3) VERSES Australia, (1.58)",
+        "start_time_aest": "2026-02-01T18:58:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "HSBC Sevens",
+        "contestants": [
+            {
+                "full_name": "Spain",
+                "position": "HOME",
+                "short_name": "Spain"
+            },
+            {
+                "full_name": "Australia",
+                "position": "AWAY",
+                "short_name": "Australia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Spain",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Australia",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Spain v Australia",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T07:58:00.000Z"
+    },
+    {
+        "contestant_names": "Renata Zarazua, (2.15) VERSES Oksana Selekhmeteva, (1.6)",
+        "start_time_aest": "2026-02-01T19:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Renata Zarazua",
+                "position": "HOME",
+                "short_name": "Zarazua"
+            },
+            {
+                "full_name": "Oksana Selekhmeteva",
+                "position": "AWAY",
+                "short_name": "Selekhmeteva"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Renata Zarazua",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Oksana Selekhmeteva",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Zarazua v Selekhmeteva",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T08:30:00.000Z"
+    },
+    {
+        "contestant_names": "Bank Of Taiwan, (1.45) VERSES Yulon Luxgen, (2.5)",
+        "start_time_aest": "2026-02-01T20:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Taiwan Super Basketball Challenge",
+        "contestants": [
+            {
+                "full_name": "Bank Of Taiwan",
+                "position": "HOME",
+                "short_name": "Bank Of Taiwan"
+            },
+            {
+                "full_name": "Yulon Luxgen",
+                "position": "AWAY",
+                "short_name": "Yulon Luxgen"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bank Of Taiwan",
+                "returnWin": 1.45
+            },
+            {
+                "name": "Yulon Luxgen",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Bank Of Taiwan v Yulon Luxgen",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T09:00:00.000Z"
     }
 ]
