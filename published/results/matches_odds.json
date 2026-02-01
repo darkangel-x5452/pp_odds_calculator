@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Karmine Corp, (1.55) VERSES Fnatic, (2.3)",
-        "start_time_aest": "2026-02-02T06:45:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "League of Legends",
-        "contestants": [
-            {
-                "full_name": "Karmine Corp",
-                "position": "HOME",
-                "short_name": "Karmine Corp"
-            },
-            {
-                "full_name": "Fnatic",
-                "position": "AWAY",
-                "short_name": "Fnatic"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Karmine Corp",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Fnatic",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Karmine Corp v Fnatic",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-01T19:45:00.000Z"
-    },
-    {
         "contestant_names": "Carolina, (1.55) VERSES Los Angeles, (2.4)",
         "start_time_aest": "2026-02-02T07:05:00+11:00",
         "sport_name": "Ice Hockey",
@@ -62,6 +31,37 @@
         "start_time": "2026-02-01T20:05:00.000Z"
     },
     {
+        "contestant_names": "Carolina, (1.55) VERSES Los Angeles, (2.4)",
+        "start_time_aest": "2026-02-02T07:09:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Carolina",
+                "position": "HOME",
+                "short_name": "Carolina"
+            },
+            {
+                "full_name": "Los Angeles",
+                "position": "AWAY",
+                "short_name": "Los Angeles"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Carolina",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Los Angeles",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Carolina v Los Angeles",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T20:09:00.000Z"
+    },
+    {
         "contestant_names": "Gian van Veen, (2) VERSES Luke Humphries, (1.8)",
         "start_time_aest": "2026-02-02T07:25:00+11:00",
         "sport_name": "Darts",
@@ -91,5 +91,67 @@
         "match_name": "Van Veen Gian  v Humphries Luke",
         "betOption": "Head To Head",
         "start_time": "2026-02-01T20:25:00.000Z"
+    },
+    {
+        "contestant_names": "Stanford, (2.1) VERSES Notre Dame, (1.68)",
+        "start_time_aest": "2026-02-02T08:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Stanford",
+                "position": "HOME",
+                "short_name": "Stanford"
+            },
+            {
+                "full_name": "Notre Dame",
+                "position": "AWAY",
+                "short_name": "Notre Dame"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Stanford",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Notre Dame",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Stanford v Notre Dame",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T21:00:00.000Z"
+    },
+    {
+        "contestant_names": "Arizona State, (1.58) VERSES Kansas State, (2.3)",
+        "start_time_aest": "2026-02-02T08:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Arizona State",
+                "position": "HOME",
+                "short_name": "Arizona State"
+            },
+            {
+                "full_name": "Kansas State",
+                "position": "AWAY",
+                "short_name": "Kansas State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Arizona State",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Kansas State",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Arizona State v Kansas State",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T21:00:00.000Z"
     }
 ]
