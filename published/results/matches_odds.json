@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "VOLKANOVSKI Alex, (1.64) VERSES LOPES Diego, (2.3)",
-        "start_time_aest": "2026-02-01T15:00:00+11:00",
-        "sport_name": "UFC",
-        "competition_name": "UFC",
-        "contestants": [
-            {
-                "full_name": "VOLKANOVSKI Alex",
-                "position": "HOME",
-                "short_name": "Volkanovski"
-            },
-            {
-                "full_name": "LOPES Diego",
-                "position": "AWAY",
-                "short_name": "Lopes"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "VOLKANOVSKI Alex",
-                "returnWin": 1.64
-            },
-            {
-                "name": "LOPES Diego",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Volkanovski v Lopes",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-01T04:00:00.000Z"
-    },
-    {
-        "contestant_names": "France, (1.5) VERSES Japan, (2.5)",
-        "start_time_aest": "2026-02-01T15:22:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "HSBC 7s Womens",
-        "contestants": [
-            {
-                "full_name": "France",
-                "position": "HOME",
-                "short_name": "France"
-            },
-            {
-                "full_name": "Japan",
-                "position": "AWAY",
-                "short_name": "Japan"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "France",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Japan",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "France v Japan",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-01T04:22:00.000Z"
-    },
-    {
         "contestant_names": "Busan Sonicboom, (1.7) VERSES Wonju, (2)",
         "start_time_aest": "2026-02-01T16:00:00+11:00",
         "sport_name": "Basketball",
@@ -246,5 +184,67 @@
         "match_name": "Shinshu Brave Wa v Yokohama Exc",
         "betOption": "Head To Head",
         "start_time": "2026-02-01T05:30:00.000Z"
+    },
+    {
+        "contestant_names": "Zuzanna Pawlikowska, (2) VERSES Anastasia Kulikova, (1.7)",
+        "start_time_aest": "2026-02-01T16:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Tour",
+        "contestants": [
+            {
+                "full_name": "Zuzanna Pawlikowska",
+                "position": "HOME",
+                "short_name": "Pawlikowska"
+            },
+            {
+                "full_name": "Anastasia Kulikova",
+                "position": "AWAY",
+                "short_name": "Kulikova A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Zuzanna Pawlikowska",
+                "returnWin": 2
+            },
+            {
+                "name": "Anastasia Kulikova",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "Pawlikowska v Kulikova A",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T05:30:00.000Z"
+    },
+    {
+        "contestant_names": "Devika Sihag, (1.95) VERSES Goh Jin Wei, (1.75)",
+        "start_time_aest": "2026-02-01T16:45:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour",
+        "contestants": [
+            {
+                "full_name": "Devika Sihag",
+                "position": "HOME",
+                "short_name": "Sihag"
+            },
+            {
+                "full_name": "Goh Jin Wei",
+                "position": "AWAY",
+                "short_name": "JinWei"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Devika Sihag",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Goh Jin Wei",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Sihag v JinWei",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-01T05:45:00.000Z"
     }
 ]
