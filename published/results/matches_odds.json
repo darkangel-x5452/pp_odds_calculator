@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Facundo Mena, (2.4) VERSES Thiago Moura Monteiro, (1.5)",
-        "start_time_aest": "2026-02-03T10:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Facundo Mena",
-                "position": "HOME",
-                "short_name": "Mena"
-            },
-            {
-                "full_name": "Thiago Moura Monteiro",
-                "position": "AWAY",
-                "short_name": "Monteiro"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Facundo Mena",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Thiago Moura Monteiro",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Mena v Monteiro",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-02T23:15:00.000Z"
-    },
-    {
-        "contestant_names": "South Australia (W), (1.55) VERSES Victoria (W), (2.4)",
-        "start_time_aest": "2026-02-03T10:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Womens National Cricket League",
-        "contestants": [
-            {
-                "full_name": "South Australia (W)",
-                "position": "HOME",
-                "short_name": "SthAustralia (W)"
-            },
-            {
-                "full_name": "Victoria (W)",
-                "position": "AWAY",
-                "short_name": "Victoria (W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "South Australia (W)",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Victoria (W)",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "SthAustralia (W) v Victoria (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-02T23:30:00.000Z"
-    },
-    {
         "contestant_names": "Rocamora, (2.1) VERSES Gimnasia LaPlata, (1.62)",
         "start_time_aest": "2026-02-03T11:00:00+11:00",
         "sport_name": "Basketball",
@@ -246,5 +184,98 @@
         "match_name": "Suzano Volei v Sesi-SP",
         "betOption": "Head To Head",
         "start_time": "2026-02-03T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Florida, (1.85) VERSES Buffalo, (1.95)",
+        "start_time_aest": "2026-02-03T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Florida",
+                "position": "HOME",
+                "short_name": "Florida"
+            },
+            {
+                "full_name": "Buffalo",
+                "position": "AWAY",
+                "short_name": "Buffalo"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Florida",
+                "returnWin": 1.85
+            },
+            {
+                "name": "Buffalo",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Florida v Buffalo",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-03T00:05:00.000Z"
+    },
+    {
+        "contestant_names": "Pittsburgh, (2) VERSES Ottawa, (1.8)",
+        "start_time_aest": "2026-02-03T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Pittsburgh",
+                "position": "HOME",
+                "short_name": "Pittsburgh"
+            },
+            {
+                "full_name": "Ottawa",
+                "position": "AWAY",
+                "short_name": "Ottawa"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Pittsburgh",
+                "returnWin": 2
+            },
+            {
+                "name": "Ottawa",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Pittsburgh v Ottawa",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-03T00:05:00.000Z"
+    },
+    {
+        "contestant_names": "Washington, (1.75) VERSES NY Islanders, (2.05)",
+        "start_time_aest": "2026-02-03T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Washington",
+                "position": "HOME",
+                "short_name": "Washington"
+            },
+            {
+                "full_name": "NY Islanders",
+                "position": "AWAY",
+                "short_name": "NY Islanders"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Washington",
+                "returnWin": 1.75
+            },
+            {
+                "name": "NY Islanders",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Washington v NY Islanders",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-03T00:05:00.000Z"
     }
 ]
