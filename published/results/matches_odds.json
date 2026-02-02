@@ -1,38 +1,7 @@
 [
     {
-        "contestant_names": "Lgd Gaming, (1.75) VERSES Oh My God, (1.95)",
-        "start_time_aest": "2026-02-02T20:00:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "League of Legends",
-        "contestants": [
-            {
-                "full_name": "Lgd Gaming",
-                "position": "HOME",
-                "short_name": "Lgd Gaming"
-            },
-            {
-                "full_name": "Oh My God",
-                "position": "AWAY",
-                "short_name": "Oh My God"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Lgd Gaming",
-                "returnWin": 1.75
-            },
-            {
-                "name": "Oh My God",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Lgd Gaming v Oh My God",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-02T09:00:00.000Z"
-    },
-    {
-        "contestant_names": "Janice Tjen, (1.85) VERSES Maya Joint, (1.95)",
-        "start_time_aest": "2026-02-02T20:00:00+11:00",
+        "contestant_names": "Janice Tjen, (1.8) VERSES Maya Joint, (2)",
+        "start_time_aest": "2026-02-02T20:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA",
         "contestants": [
@@ -50,51 +19,20 @@
         "propositions": [
             {
                 "name": "Janice Tjen",
-                "returnWin": 1.85
+                "returnWin": 1.8
             },
             {
                 "name": "Maya Joint",
-                "returnWin": 1.95
+                "returnWin": 2
             }
         ],
         "match_name": "Tjen v Joint",
         "betOption": "Head To Head",
-        "start_time": "2026-02-02T09:00:00.000Z"
-    },
-    {
-        "contestant_names": "Daria Kasatkina, (1.62) VERSES Simona Waltert, (2.2)",
-        "start_time_aest": "2026-02-02T20:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestants": [
-            {
-                "full_name": "Daria Kasatkina",
-                "position": "HOME",
-                "short_name": "Kasatkina"
-            },
-            {
-                "full_name": "Simona Waltert",
-                "position": "AWAY",
-                "short_name": "Waltert"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Daria Kasatkina",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Simona Waltert",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Kasatkina v Waltert",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-02T09:00:00.000Z"
+        "start_time": "2026-02-02T09:15:00.000Z"
     },
     {
         "contestant_names": "Karolina Pliskova, (1.5) VERSES Anastasia Zakharova, (2.5)",
-        "start_time_aest": "2026-02-02T20:00:00+11:00",
+        "start_time_aest": "2026-02-02T20:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA",
         "contestants": [
@@ -121,7 +59,7 @@
         ],
         "match_name": "Pliskova Ka v Zakharova A",
         "betOption": "Head To Head",
-        "start_time": "2026-02-02T09:00:00.000Z"
+        "start_time": "2026-02-02T09:15:00.000Z"
     },
     {
         "contestant_names": "Diane Parry, (2) VERSES Oceane Dodin, (1.8)",
@@ -399,6 +337,68 @@
             }
         ],
         "match_name": "Yastremska D v Haddad Maia",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-02T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Veronika Erjavec, (2.25) VERSES Tamara Zidansek, (1.6)",
+        "start_time_aest": "2026-02-02T22:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Veronika Erjavec",
+                "position": "HOME",
+                "short_name": "Erjavec"
+            },
+            {
+                "full_name": "Tamara Zidansek",
+                "position": "AWAY",
+                "short_name": "Zidansek"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Veronika Erjavec",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Tamara Zidansek",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Erjavec v Zidansek",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-02T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Friedsam/Golubic, (2.4) VERSES Haverlag/Lumsden, (1.52)",
+        "start_time_aest": "2026-02-02T22:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA Doubles",
+        "contestants": [
+            {
+                "full_name": "Friedsam/Golubic",
+                "position": "HOME",
+                "short_name": "Friedsam/Golubic"
+            },
+            {
+                "full_name": "Haverlag/Lumsden",
+                "position": "AWAY",
+                "short_name": "Haverlag/Lumsden"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Friedsam/Golubic",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Haverlag/Lumsden",
+                "returnWin": 1.52
+            }
+        ],
+        "match_name": "Friedsam/Golubic v Haverlag/Lumsden",
         "betOption": "Head To Head",
         "start_time": "2026-02-02T11:00:00.000Z"
     },
