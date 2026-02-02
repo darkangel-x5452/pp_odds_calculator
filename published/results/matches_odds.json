@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Phoenix, (1.7) VERSES LA Clippers, (2.2)",
-        "start_time_aest": "2026-02-02T12:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Phoenix",
-                "position": "HOME",
-                "short_name": "Phoenix"
-            },
-            {
-                "full_name": "LA Clippers",
-                "position": "AWAY",
-                "short_name": "LA Clippers"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Phoenix",
-                "returnWin": 1.7
-            },
-            {
-                "name": "LA Clippers",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Phoenix v LA Clippers",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-02T01:10:00.000Z"
-    },
-    {
-        "contestant_names": "Kokoro Isomura, (1.65) VERSES Chase Ferguson, (2.1)",
-        "start_time_aest": "2026-02-02T12:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Kokoro Isomura",
-                "position": "HOME",
-                "short_name": "Isomura"
-            },
-            {
-                "full_name": "Chase Ferguson",
-                "position": "AWAY",
-                "short_name": "Ferguson C"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Kokoro Isomura",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Chase Ferguson",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Isomura v Ferguson C",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-02T01:15:00.000Z"
-    },
-    {
         "contestant_names": "San Antonio, (1.73) VERSES Orlando, (2.15)",
         "start_time_aest": "2026-02-02T13:10:00+11:00",
         "sport_name": "Basketball",
@@ -184,5 +122,36 @@
         "match_name": "Shimizu Y v Tokuda",
         "betOption": "Head To Head",
         "start_time": "2026-02-02T04:00:00.000Z"
+    },
+    {
+        "contestant_names": "Ashlyn Krueger, (1.75) VERSES Sara Bejlek, (2.05)",
+        "start_time_aest": "2026-02-02T18:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Ashlyn Krueger",
+                "position": "HOME",
+                "short_name": "Krueger A"
+            },
+            {
+                "full_name": "Sara Bejlek",
+                "position": "AWAY",
+                "short_name": "Bejlek"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ashlyn Krueger",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Sara Bejlek",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Krueger A v Bejlek",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-02T07:00:00.000Z"
     }
 ]
