@@ -1,7 +1,7 @@
 [
     {
-        "contestant_names": "Alex Barrena, (1.62) VERSES Juan Bautista Torres, (2.15)",
-        "start_time_aest": "2026-02-03T09:15:00+11:00",
+        "contestant_names": "Alex Barrena, (1.5) VERSES Juan Bautista Torres, (2.4)",
+        "start_time_aest": "2026-02-03T09:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -19,20 +19,20 @@
         "propositions": [
             {
                 "name": "Alex Barrena",
-                "returnWin": 1.62
+                "returnWin": 1.5
             },
             {
                 "name": "Juan Bautista Torres",
-                "returnWin": 2.15
+                "returnWin": 2.4
             }
         ],
         "match_name": "Barrena A v Bautista Torres",
         "betOption": "Head To Head",
-        "start_time": "2026-02-02T22:15:00.000Z"
+        "start_time": "2026-02-02T22:45:00.000Z"
     },
     {
         "contestant_names": "Facundo Mena, (2.4) VERSES Thiago Moura Monteiro, (1.5)",
-        "start_time_aest": "2026-02-03T09:15:00+11:00",
+        "start_time_aest": "2026-02-03T09:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -59,38 +59,7 @@
         ],
         "match_name": "Mena v Monteiro",
         "betOption": "Head To Head",
-        "start_time": "2026-02-02T22:15:00.000Z"
-    },
-    {
-        "contestant_names": "Pato, (1.48) VERSES Vasco, (2.4)",
-        "start_time_aest": "2026-02-03T09:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Brazil NBB",
-        "contestants": [
-            {
-                "full_name": "Pato",
-                "position": "HOME",
-                "short_name": "Pato"
-            },
-            {
-                "full_name": "Vasco",
-                "position": "AWAY",
-                "short_name": "Vasco"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Pato",
-                "returnWin": 1.48
-            },
-            {
-                "name": "Vasco",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Pato v Vasco",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-02T22:30:00.000Z"
+        "start_time": "2026-02-02T22:45:00.000Z"
     },
     {
         "contestant_names": "Nth Carolina St, (1.58) VERSES North Carolina, (2.3)",
@@ -244,6 +213,68 @@
             }
         ],
         "match_name": "Atenas Cordoba v San Martan",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-03T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Alabama State, (1.55) VERSES Florida AM, (2.45)",
+        "start_time_aest": "2026-02-03T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Alabama State",
+                "position": "HOME",
+                "short_name": "Alabama State"
+            },
+            {
+                "full_name": "Florida AM",
+                "position": "AWAY",
+                "short_name": "Florida AM"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alabama State",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Florida AM",
+                "returnWin": 2.45
+            }
+        ],
+        "match_name": "Alabama State v Florida AM",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-03T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Holy Cross, (2.1) VERSES Boston Uni, (1.74)",
+        "start_time_aest": "2026-02-03T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Holy Cross",
+                "position": "HOME",
+                "short_name": "Holy Cross"
+            },
+            {
+                "full_name": "Boston Uni",
+                "position": "AWAY",
+                "short_name": "Boston Uni"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Holy Cross",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Boston Uni",
+                "returnWin": 1.74
+            }
+        ],
+        "match_name": "Holy Cross v Boston Uni",
         "betOption": "Head To Head",
         "start_time": "2026-02-03T00:00:00.000Z"
     }
