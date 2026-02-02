@@ -1,160 +1,5 @@
 [
     {
-        "contestant_names": "Pedro Martinez Portero, (2.3) VERSES Adrian Mannarino, (1.55)",
-        "start_time_aest": "2026-02-03T03:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "contestants": [
-            {
-                "full_name": "Pedro Martinez Portero",
-                "position": "HOME",
-                "short_name": "Martinez P"
-            },
-            {
-                "full_name": "Adrian Mannarino",
-                "position": "AWAY",
-                "short_name": "Mannarino"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Pedro Martinez Portero",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Adrian Mannarino",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Martinez P v Mannarino",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-02T16:45:00.000Z"
-    },
-    {
-        "contestant_names": "Alexandra Eala, (2.1) VERSES Zeynep Sonmez, (1.7)",
-        "start_time_aest": "2026-02-03T03:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestants": [
-            {
-                "full_name": "Alexandra Eala",
-                "position": "HOME",
-                "short_name": "Eala"
-            },
-            {
-                "full_name": "Zeynep Sonmez",
-                "position": "AWAY",
-                "short_name": "Sonmez"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Alexandra Eala",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Zeynep Sonmez",
-                "returnWin": 1.7
-            }
-        ],
-        "match_name": "Eala v Sonmez",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-02T16:45:00.000Z"
-    },
-    {
-        "contestant_names": "Atlassib Sibiu, (1.66) VERSES Targu Mures, (2.05)",
-        "start_time_aest": "2026-02-03T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Romania Divizia A",
-        "contestants": [
-            {
-                "full_name": "Atlassib Sibiu",
-                "position": "HOME",
-                "short_name": "Atlassib Sibiu"
-            },
-            {
-                "full_name": "Targu Mures",
-                "position": "AWAY",
-                "short_name": "Targu Mures"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Atlassib Sibiu",
-                "returnWin": 1.66
-            },
-            {
-                "name": "Targu Mures",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Atlassib Sibiu v Targu Mures",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-02T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Laurent Lokoli, (1.68) VERSES Carlo Alberto Caniato, (2.05)",
-        "start_time_aest": "2026-02-03T04:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Laurent Lokoli",
-                "position": "HOME",
-                "short_name": "Lokoli"
-            },
-            {
-                "full_name": "Carlo Alberto Caniato",
-                "position": "AWAY",
-                "short_name": "Caniato"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Laurent Lokoli",
-                "returnWin": 1.68
-            },
-            {
-                "name": "Carlo Alberto Caniato",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Lokoli v Caniato",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-02T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Michael Geerts, (1.65) VERSES Christoph Negritu, (2.1)",
-        "start_time_aest": "2026-02-03T04:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Michael Geerts",
-                "position": "HOME",
-                "short_name": "Geerts"
-            },
-            {
-                "full_name": "Christoph Negritu",
-                "position": "AWAY",
-                "short_name": "Negritu C"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Michael Geerts",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Christoph Negritu",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Geerts v Negritu C",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-02T17:00:00.000Z"
-    },
-    {
         "contestant_names": "Natus Vincere, (1.5) VERSES Los Ratones, (2.4)",
         "start_time_aest": "2026-02-03T04:15:00+11:00",
         "sport_name": "Esports",
@@ -182,6 +27,68 @@
             }
         ],
         "match_name": "Natus Vincere v Los Ratones",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-02T17:15:00.000Z"
+    },
+    {
+        "contestant_names": "Laurent Lokoli, (1.68) VERSES Carlo Alberto Caniato, (2.05)",
+        "start_time_aest": "2026-02-03T04:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Laurent Lokoli",
+                "position": "HOME",
+                "short_name": "Lokoli"
+            },
+            {
+                "full_name": "Carlo Alberto Caniato",
+                "position": "AWAY",
+                "short_name": "Caniato"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Laurent Lokoli",
+                "returnWin": 1.68
+            },
+            {
+                "name": "Carlo Alberto Caniato",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Lokoli v Caniato",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-02T17:15:00.000Z"
+    },
+    {
+        "contestant_names": "Michael Geerts, (1.68) VERSES Christoph Negritu, (2.05)",
+        "start_time_aest": "2026-02-03T04:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Michael Geerts",
+                "position": "HOME",
+                "short_name": "Geerts"
+            },
+            {
+                "full_name": "Christoph Negritu",
+                "position": "AWAY",
+                "short_name": "Negritu C"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Michael Geerts",
+                "returnWin": 1.68
+            },
+            {
+                "name": "Christoph Negritu",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Geerts v Negritu C",
         "betOption": "Head To Head",
         "start_time": "2026-02-02T17:15:00.000Z"
     },
@@ -277,6 +184,192 @@
         "match_name": "Bartunkova N v Blinkova",
         "betOption": "Head To Head",
         "start_time": "2026-02-02T17:30:00.000Z"
+    },
+    {
+        "contestant_names": "HapLev Jerusalem, (1.45) VERSES Maccabi Haifa, (2.5)",
+        "start_time_aest": "2026-02-03T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Israel Premier League Women",
+        "contestants": [
+            {
+                "full_name": "HapLev Jerusalem",
+                "position": "HOME",
+                "short_name": "HapLev Jerusalem"
+            },
+            {
+                "full_name": "Maccabi Haifa",
+                "position": "AWAY",
+                "short_name": "Maccabi Haifa"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "HapLev Jerusalem",
+                "returnWin": 1.45
+            },
+            {
+                "name": "Maccabi Haifa",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "HapLev Jerusalem v Maccabi Haifa",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-02T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "FURIA, (1.65) VERSES Natus Vincere, (2.1)",
+        "start_time_aest": "2026-02-03T05:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "contestants": [
+            {
+                "full_name": "FURIA",
+                "position": "HOME",
+                "short_name": "Furia"
+            },
+            {
+                "full_name": "Natus Vincere",
+                "position": "AWAY",
+                "short_name": "Natus Vincere"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "FURIA",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Natus Vincere",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Furia v Natus Vincere",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-02T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Sandro Kopp, (1.52) VERSES Pietro Orlando Fellin, (2.35)",
+        "start_time_aest": "2026-02-03T05:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Sandro Kopp",
+                "position": "HOME",
+                "short_name": "Kopp"
+            },
+            {
+                "full_name": "Pietro Orlando Fellin",
+                "position": "AWAY",
+                "short_name": "Fellin P"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sandro Kopp",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Pietro Orlando Fellin",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Kopp v Fellin P",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-02T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Hapoel BeerSheva, (2.5) VERSES Bnei Herzeliya, (1.45)",
+        "start_time_aest": "2026-02-03T05:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Israel Cup",
+        "contestants": [
+            {
+                "full_name": "Hapoel BeerSheva",
+                "position": "HOME",
+                "short_name": "Hapoel BeerSheva"
+            },
+            {
+                "full_name": "Bnei Herzeliya",
+                "position": "AWAY",
+                "short_name": "Bnei Herzeliya"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hapoel BeerSheva",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Bnei Herzeliya",
+                "returnWin": 1.45
+            }
+        ],
+        "match_name": "Hapoel BeerSheva v Bnei Herzeliya",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-02T18:10:00.000Z"
+    },
+    {
+        "contestant_names": "Vitality, (2.35) VERSES G2, (1.52)",
+        "start_time_aest": "2026-02-03T05:15:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "contestants": [
+            {
+                "full_name": "Vitality",
+                "position": "HOME",
+                "short_name": "Vitality"
+            },
+            {
+                "full_name": "G2",
+                "position": "AWAY",
+                "short_name": "G2"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Vitality",
+                "returnWin": 2.35
+            },
+            {
+                "name": "G2",
+                "returnWin": 1.52
+            }
+        ],
+        "match_name": "Vitality v G2",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-02T18:15:00.000Z"
+    },
+    {
+        "contestant_names": "TBB Trier, (2.3) VERSES Alba Berlin, (1.55)",
+        "start_time_aest": "2026-02-03T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Germany Bundesliga",
+        "contestants": [
+            {
+                "full_name": "TBB Trier",
+                "position": "HOME",
+                "short_name": "TBB Trier"
+            },
+            {
+                "full_name": "Alba Berlin",
+                "position": "AWAY",
+                "short_name": "Alba Berlin"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "TBB Trier",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Alba Berlin",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "TBB Trier v Alba Berlin",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-02T19:00:00.000Z"
     },
     {
         "contestant_names": "Radu Albot, (1.63) VERSES Cyril Vandermeersch, (2.1)",
