@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Tianjin, (2.4) VERSES Shandong Heroes, (1.48)",
-        "start_time_aest": "2026-02-02T22:35:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "China CBA",
-        "contestants": [
-            {
-                "full_name": "Tianjin",
-                "position": "HOME",
-                "short_name": "Tianjin"
-            },
-            {
-                "full_name": "Shandong Heroes",
-                "position": "AWAY",
-                "short_name": "Shandong Heroes"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Tianjin",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Shandong Heroes",
-                "returnWin": 1.48
-            }
-        ],
-        "match_name": "Tianjin v Shandong Heroes",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-02T11:35:00.000Z"
-    },
-    {
-        "contestant_names": "Dayana Yastremska, (1.62) VERSES Beatriz Haddad Maia, (2.2)",
-        "start_time_aest": "2026-02-02T22:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestants": [
-            {
-                "full_name": "Dayana Yastremska",
-                "position": "HOME",
-                "short_name": "Yastremska D"
-            },
-            {
-                "full_name": "Beatriz Haddad Maia",
-                "position": "AWAY",
-                "short_name": "Haddad Maia"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Dayana Yastremska",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Beatriz Haddad Maia",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Yastremska D v Haddad Maia",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-02T11:45:00.000Z"
-    },
-    {
         "contestant_names": "Andrea Vavassori, (1.58) VERSES Hugo Grenier, (2.3)",
         "start_time_aest": "2026-02-03T00:00:00+11:00",
         "sport_name": "Tennis",
@@ -246,6 +184,68 @@
         "match_name": "Berrettini J v Shelbayh A",
         "betOption": "Head To Head",
         "start_time": "2026-02-02T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Detiuc/Santamaria, (1.65) VERSES Pigossi/Vidmanova, (2.15)",
+        "start_time_aest": "2026-02-03T01:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA Doubles",
+        "contestants": [
+            {
+                "full_name": "Detiuc/Santamaria",
+                "position": "HOME",
+                "short_name": "Detiuc/Santamaria"
+            },
+            {
+                "full_name": "Pigossi/Vidmanova",
+                "position": "AWAY",
+                "short_name": "Pigossi/Vidmanova"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Detiuc/Santamaria",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Pigossi/Vidmanova",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Detiuc/Santamaria v Pigossi/Vidmanova",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-02T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Mae Malige, (2.2) VERSES Tibo Colson, (1.6)",
+        "start_time_aest": "2026-02-03T02:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Mae Malige",
+                "position": "HOME",
+                "short_name": "Malige M"
+            },
+            {
+                "full_name": "Tibo Colson",
+                "position": "AWAY",
+                "short_name": "Colson"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mae Malige",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Tibo Colson",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Malige M v Colson",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-02T15:00:00.000Z"
     },
     {
         "contestant_names": "Radu Albot, (1.63) VERSES Cyril Vandermeersch, (2.1)",
