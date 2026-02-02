@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "NC Central, (1.62) VERSES MarylandEstnShre, (2.3)",
-        "start_time_aest": "2026-02-03T08:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "NC Central",
-                "position": "HOME",
-                "short_name": "NC Central"
-            },
-            {
-                "full_name": "MarylandEstnShre",
-                "position": "AWAY",
-                "short_name": "MarylandEstnShre"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "NC Central",
-                "returnWin": 1.62
-            },
-            {
-                "name": "MarylandEstnShre",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "NC Central v MarylandEstnShre",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-02T21:30:00.000Z"
-    },
-    {
         "contestant_names": "Atlanta Drive, (1.57) VERSES Jupiter Links, (2.25)",
         "start_time_aest": "2026-02-03T09:00:00+11:00",
         "sport_name": "Golf",
@@ -277,6 +246,37 @@
         "match_name": "NSW (W) v Queensland (W)",
         "betOption": "Head To Head",
         "start_time": "2026-02-02T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Rocamora, (2.1) VERSES Gimnasia LaPlata, (1.62)",
+        "start_time_aest": "2026-02-03T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Rocamora",
+                "position": "HOME",
+                "short_name": "Rocamora"
+            },
+            {
+                "full_name": "Gimnasia LaPlata",
+                "position": "AWAY",
+                "short_name": "Gimnasia LaPlata"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Rocamora",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Gimnasia LaPlata",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Rocamora v Gimnasia LaPlata",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-03T00:00:00.000Z"
     },
     {
         "contestant_names": "Radu Albot, (1.63) VERSES Cyril Vandermeersch, (2.1)",
