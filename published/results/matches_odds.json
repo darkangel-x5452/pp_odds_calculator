@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Daniel Milavsky, (1.46) VERSES Kaylan Bigun, (2.5)",
-        "start_time_aest": "2026-02-03T08:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Daniel Milavsky",
-                "position": "HOME",
-                "short_name": "Milavsky D"
-            },
-            {
-                "full_name": "Kaylan Bigun",
-                "position": "AWAY",
-                "short_name": "Bigun K"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Daniel Milavsky",
-                "returnWin": 1.46
-            },
-            {
-                "name": "Kaylan Bigun",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Milavsky D v Bigun K",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-02T21:00:00.000Z"
-    },
-    {
         "contestant_names": "NC Central, (1.62) VERSES MarylandEstnShre, (2.3)",
         "start_time_aest": "2026-02-03T08:30:00+11:00",
         "sport_name": "Basketball",
@@ -244,6 +213,68 @@
             }
         ],
         "match_name": "Nth Carolina St v North Carolina",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-02T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Victoria, (2.25) VERSES Queensland, (1.62)",
+        "start_time_aest": "2026-02-03T10:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "One Day Cup",
+        "contestants": [
+            {
+                "full_name": "Victoria",
+                "position": "HOME",
+                "short_name": "Victoria"
+            },
+            {
+                "full_name": "Queensland",
+                "position": "AWAY",
+                "short_name": "Queensland"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Victoria",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Queensland",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Victoria v Queensland",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-02T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "New South Wales (W), (1.55) VERSES Queensland (W), (2.4)",
+        "start_time_aest": "2026-02-03T10:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Womens National Cricket League",
+        "contestants": [
+            {
+                "full_name": "New South Wales (W)",
+                "position": "HOME",
+                "short_name": "NSW (W)"
+            },
+            {
+                "full_name": "Queensland (W)",
+                "position": "AWAY",
+                "short_name": "Queensland (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "New South Wales (W)",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Queensland (W)",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "NSW (W) v Queensland (W)",
         "betOption": "Head To Head",
         "start_time": "2026-02-02T23:00:00.000Z"
     },
