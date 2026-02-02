@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Anaheim, (1.85) VERSES Las Vegas, (1.95)",
-        "start_time_aest": "2026-02-02T13:35:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Anaheim",
-                "position": "HOME",
-                "short_name": "Anaheim"
-            },
-            {
-                "full_name": "Las Vegas",
-                "position": "AWAY",
-                "short_name": "Las Vegas"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Anaheim",
-                "returnWin": 1.85
-            },
-            {
-                "name": "Las Vegas",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Anaheim v Las Vegas",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-02T02:35:00.000Z"
-    },
-    {
-        "contestant_names": "Anaheim, (1.85) VERSES Las Vegas, (1.95)",
-        "start_time_aest": "2026-02-02T13:41:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Anaheim",
-                "position": "HOME",
-                "short_name": "Anaheim"
-            },
-            {
-                "full_name": "Las Vegas",
-                "position": "AWAY",
-                "short_name": "Las Vegas"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Anaheim",
-                "returnWin": 1.85
-            },
-            {
-                "name": "Las Vegas",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Anaheim v Las Vegas",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-02T02:41:00.000Z"
-    },
-    {
         "contestant_names": "Yuta Shimizu, (1.55) VERSES Renta Tokuda, (2.3)",
         "start_time_aest": "2026-02-02T15:00:00+11:00",
         "sport_name": "Tennis",
@@ -153,5 +91,129 @@
         "match_name": "Krueger A v Bejlek",
         "betOption": "Head To Head",
         "start_time": "2026-02-02T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Lgd Gaming, (1.75) VERSES Oh My God, (1.95)",
+        "start_time_aest": "2026-02-02T20:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "contestants": [
+            {
+                "full_name": "Lgd Gaming",
+                "position": "HOME",
+                "short_name": "Lgd Gaming"
+            },
+            {
+                "full_name": "Oh My God",
+                "position": "AWAY",
+                "short_name": "Oh My God"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lgd Gaming",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Oh My God",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Lgd Gaming v Oh My God",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-02T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Janice Tjen, (1.85) VERSES Maya Joint, (1.95)",
+        "start_time_aest": "2026-02-02T20:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Janice Tjen",
+                "position": "HOME",
+                "short_name": "Tjen"
+            },
+            {
+                "full_name": "Maya Joint",
+                "position": "AWAY",
+                "short_name": "Joint"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Janice Tjen",
+                "returnWin": 1.85
+            },
+            {
+                "name": "Maya Joint",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Tjen v Joint",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-02T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Daria Kasatkina, (1.62) VERSES Simona Waltert, (2.2)",
+        "start_time_aest": "2026-02-02T20:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Daria Kasatkina",
+                "position": "HOME",
+                "short_name": "Kasatkina"
+            },
+            {
+                "full_name": "Simona Waltert",
+                "position": "AWAY",
+                "short_name": "Waltert"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Daria Kasatkina",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Simona Waltert",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Kasatkina v Waltert",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-02T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Karolina Pliskova, (1.5) VERSES Anastasia Zakharova, (2.5)",
+        "start_time_aest": "2026-02-02T20:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Karolina Pliskova",
+                "position": "HOME",
+                "short_name": "Pliskova Ka"
+            },
+            {
+                "full_name": "Anastasia Zakharova",
+                "position": "AWAY",
+                "short_name": "Zakharova A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Karolina Pliskova",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Anastasia Zakharova",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Pliskova Ka v Zakharova A",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-02T09:00:00.000Z"
     }
 ]
