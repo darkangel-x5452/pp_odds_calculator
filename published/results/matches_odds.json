@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Toby Samuel, (1.58) VERSES Daniel Merida Aguilar, (2.25)",
-        "start_time_aest": "2026-02-04T03:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Toby Samuel",
-                "position": "HOME",
-                "short_name": "Samuel T"
-            },
-            {
-                "full_name": "Daniel Merida Aguilar",
-                "position": "AWAY",
-                "short_name": "Aguilar D"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Toby Samuel",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Daniel Merida Aguilar",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Samuel T v Aguilar D",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-03T16:00:00.000Z"
-    },
-    {
-        "contestant_names": "Chwalinska/Juvan, (2.2) VERSES Bondar/Minnen, (1.62)",
-        "start_time_aest": "2026-02-04T03:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA Doubles",
-        "contestants": [
-            {
-                "full_name": "Chwalinska/Juvan",
-                "position": "HOME",
-                "short_name": "Chwalinska/Juvan"
-            },
-            {
-                "full_name": "Bondar/Minnen",
-                "position": "AWAY",
-                "short_name": "Bondar/Minnen"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Chwalinska/Juvan",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Bondar/Minnen",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Chwalinska/Juvan v Bondar/Minnen",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-03T16:00:00.000Z"
-    },
-    {
         "contestant_names": "REKONIX, (2.4) VERSES Natus Vincere, (1.5)",
         "start_time_aest": "2026-02-04T03:20:00+11:00",
         "sport_name": "Esports",
@@ -93,6 +31,37 @@
         "start_time": "2026-02-03T16:20:00.000Z"
     },
     {
+        "contestant_names": "Savo Volley, (2.5) VERSES Akaa Volley, (1.46)",
+        "start_time_aest": "2026-02-04T03:30:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "Finland Mestaruusliiga Men",
+        "contestants": [
+            {
+                "full_name": "Savo Volley",
+                "position": "HOME",
+                "short_name": "Savo Volley"
+            },
+            {
+                "full_name": "Akaa Volley",
+                "position": "AWAY",
+                "short_name": "Akaa Volley"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Savo Volley",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Akaa Volley",
+                "returnWin": 1.46
+            }
+        ],
+        "match_name": "Savo Volley v Akaa Volley",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-03T16:30:00.000Z"
+    },
+    {
         "contestant_names": "Tundra Esports, (1.62) VERSES Team Liquid, (2.15)",
         "start_time_aest": "2026-02-04T03:40:00+11:00",
         "sport_name": "Esports",
@@ -122,5 +91,191 @@
         "match_name": "Tundra Esports v Team Liquid",
         "betOption": "Head To Head",
         "start_time": "2026-02-03T16:40:00.000Z"
+    },
+    {
+        "contestant_names": "Tofas, (1.6) VERSES AEK Athens, (2.15)",
+        "start_time_aest": "2026-02-04T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Basketball Champions League",
+        "contestants": [
+            {
+                "full_name": "Tofas",
+                "position": "HOME",
+                "short_name": "Tofas"
+            },
+            {
+                "full_name": "AEK Athens",
+                "position": "AWAY",
+                "short_name": "AEK Athens"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tofas",
+                "returnWin": 1.6
+            },
+            {
+                "name": "AEK Athens",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Tofas v AEK Athens",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-03T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Maccabi Ashdod, (1.72) VERSES Maccabi Rehovot, (2)",
+        "start_time_aest": "2026-02-04T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Israel National League",
+        "contestants": [
+            {
+                "full_name": "Maccabi Ashdod",
+                "position": "HOME",
+                "short_name": "Maccabi Ashdod"
+            },
+            {
+                "full_name": "Maccabi Rehovot",
+                "position": "AWAY",
+                "short_name": "Maccabi Rehovot"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Maccabi Ashdod",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Maccabi Rehovot",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Maccabi Ashdod v Maccabi Rehovot",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-03T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Spisska Nova Ves, (1.55) VERSES MBK Lucenec, (2.25)",
+        "start_time_aest": "2026-02-04T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Slovakia Extraliga",
+        "contestants": [
+            {
+                "full_name": "Spisska Nova Ves",
+                "position": "HOME",
+                "short_name": "Spisska Nova Ves"
+            },
+            {
+                "full_name": "MBK Lucenec",
+                "position": "AWAY",
+                "short_name": "MBK Lucenec"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Spisska Nova Ves",
+                "returnWin": 1.55
+            },
+            {
+                "name": "MBK Lucenec",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Spisska Nova Ves v MBK Lucenec",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-03T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Lorenzo Angelini, (2) VERSES Lorenzo Rottoli, (1.72)",
+        "start_time_aest": "2026-02-04T04:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Lorenzo Angelini",
+                "position": "HOME",
+                "short_name": "Angelini"
+            },
+            {
+                "full_name": "Lorenzo Rottoli",
+                "position": "AWAY",
+                "short_name": "Rottoli"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lorenzo Angelini",
+                "returnWin": 2
+            },
+            {
+                "name": "Lorenzo Rottoli",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "Angelini v Rottoli",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-03T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Tom Gentzsch, (1.75) VERSES Diego Dedura-Palomero, (1.95)",
+        "start_time_aest": "2026-02-04T04:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Tom Gentzsch",
+                "position": "HOME",
+                "short_name": "Gentzsch"
+            },
+            {
+                "full_name": "Diego Dedura-Palomero",
+                "position": "AWAY",
+                "short_name": "Ddura-Palomero D"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tom Gentzsch",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Diego Dedura-Palomero",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Gentzsch v Ddura-Palomero D",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-03T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "H Migdal Haemek, (1.58) VERSES Macc Petah Tikva, (2.25)",
+        "start_time_aest": "2026-02-04T04:15:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Israel National League",
+        "contestants": [
+            {
+                "full_name": "H Migdal Haemek",
+                "position": "HOME",
+                "short_name": "H Migdal Haemek"
+            },
+            {
+                "full_name": "Macc Petah Tikva",
+                "position": "AWAY",
+                "short_name": "Macc Petah Tikva"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "H Migdal Haemek",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Macc Petah Tikva",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "H Migdal Haemek v Macc Petah Tikva",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-03T17:15:00.000Z"
     }
 ]
