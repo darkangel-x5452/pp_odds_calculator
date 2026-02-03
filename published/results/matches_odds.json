@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Andrea Vavassori, (1.55) VERSES Ugo Blanchet, (2.35)",
-        "start_time_aest": "2026-02-04T07:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "contestants": [
-            {
-                "full_name": "Andrea Vavassori",
-                "position": "HOME",
-                "short_name": "Vavassori A"
-            },
-            {
-                "full_name": "Ugo Blanchet",
-                "position": "AWAY",
-                "short_name": "Blanchet"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Andrea Vavassori",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Ugo Blanchet",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Vavassori A v Blanchet",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-03T20:45:00.000Z"
-    },
-    {
-        "contestant_names": "Oleg Prihodko, (1.55) VERSES Federico Bondioli, (2.3)",
-        "start_time_aest": "2026-02-04T07:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Oleg Prihodko",
-                "position": "HOME",
-                "short_name": "Prihodko"
-            },
-            {
-                "full_name": "Federico Bondioli",
-                "position": "AWAY",
-                "short_name": "Bondioli"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Oleg Prihodko",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Federico Bondioli",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Prihodko v Bondioli",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-03T20:45:00.000Z"
-    },
-    {
-        "contestant_names": "Taverna, (2) VERSES Luciano Emanuel Ambrogi, (1.72)",
-        "start_time_aest": "2026-02-04T08:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Taverna",
-                "position": "HOME",
-                "short_name": "Taverna"
-            },
-            {
-                "full_name": "Luciano Emanuel Ambrogi",
-                "position": "AWAY",
-                "short_name": "Ambrogi"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Taverna",
-                "returnWin": 2
-            },
-            {
-                "name": "Luciano Emanuel Ambrogi",
-                "returnWin": 1.72
-            }
-        ],
-        "match_name": "Taverna v Ambrogi",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-03T21:00:00.000Z"
-    },
-    {
         "contestant_names": "Wellington Firebirds, (2.25) VERSES Central Stags, (1.62)",
         "start_time_aest": "2026-02-04T08:30:00+11:00",
         "sport_name": "Cricket",
@@ -246,5 +153,36 @@
         "match_name": "Rio Claro v Caxias Do Sul",
         "betOption": "Head To Head",
         "start_time": "2026-02-03T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Niagara, (1.74) VERSES Canisius, (2.1)",
+        "start_time_aest": "2026-02-04T10:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Niagara",
+                "position": "HOME",
+                "short_name": "Niagara"
+            },
+            {
+                "full_name": "Canisius",
+                "position": "AWAY",
+                "short_name": "Canisius"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Niagara",
+                "returnWin": 1.74
+            },
+            {
+                "name": "Canisius",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Niagara v Canisius",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-03T23:30:00.000Z"
     }
 ]
