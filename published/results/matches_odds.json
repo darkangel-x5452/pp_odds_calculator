@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Matthew Dellavedova, (1.6) VERSES Shinji Hazawa, (2.2)",
-        "start_time_aest": "2026-02-03T17:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Matthew Dellavedova",
-                "position": "HOME",
-                "short_name": "Dellavedova"
-            },
-            {
-                "full_name": "Shinji Hazawa",
-                "position": "AWAY",
-                "short_name": "Hazawa"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Matthew Dellavedova",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Shinji Hazawa",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Dellavedova v Hazawa",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-03T06:00:00.000Z"
-    },
-    {
         "contestant_names": "Muhammad/Routliffe, (1.5) VERSES Kenin/Krawczyk, (2.5)",
         "start_time_aest": "2026-02-03T18:00:00+11:00",
         "sport_name": "Tennis",
@@ -153,6 +122,37 @@
         "match_name": "UC Capitals v Southside",
         "betOption": "Head To Head",
         "start_time": "2026-02-03T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "UC Capitals, (1.6) VERSES Southside, (2.3)",
+        "start_time_aest": "2026-02-03T19:07:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "WNBL",
+        "contestants": [
+            {
+                "full_name": "UC Capitals",
+                "position": "HOME",
+                "short_name": "UC Capitals"
+            },
+            {
+                "full_name": "Southside",
+                "position": "AWAY",
+                "short_name": "Southside"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "UC Capitals",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Southside",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "UC Capitals v Southside",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-03T08:07:00.000Z"
     },
     {
         "contestant_names": "Raul Brancaccio, (2.4) VERSES Calvin Hemery, (1.5)",
@@ -308,5 +308,160 @@
         "match_name": "Oliynykova v Bondar A",
         "betOption": "Head To Head",
         "start_time": "2026-02-03T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Netherlands, (2.3) VERSES Zimbabwe, (1.6)",
+        "start_time_aest": "2026-02-03T20:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "ICC Twenty20 World Cup Warmups",
+        "contestants": [
+            {
+                "full_name": "Netherlands",
+                "position": "HOME",
+                "short_name": "Netherlands"
+            },
+            {
+                "full_name": "Zimbabwe",
+                "position": "AWAY",
+                "short_name": "Zimbabwe"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Netherlands",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Zimbabwe",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Netherlands v Zimbabwe",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-03T09:30:00.000Z"
+    },
+    {
+        "contestant_names": "Rebecca Sramkova, (1.58) VERSES Vendula Valdmannova, (2.3)",
+        "start_time_aest": "2026-02-03T20:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Rebecca Sramkova",
+                "position": "HOME",
+                "short_name": "Sramkova"
+            },
+            {
+                "full_name": "Vendula Valdmannova",
+                "position": "AWAY",
+                "short_name": "Valdmannova"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Rebecca Sramkova",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Vendula Valdmannova",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Sramkova v Valdmannova",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-03T09:30:00.000Z"
+    },
+    {
+        "contestant_names": "Shrivalli Bhamidipaty, (2.25) VERSES Kristiana Sidorova, (1.58)",
+        "start_time_aest": "2026-02-03T20:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Tour",
+        "contestants": [
+            {
+                "full_name": "Shrivalli Bhamidipaty",
+                "position": "HOME",
+                "short_name": "Bhamidipaty"
+            },
+            {
+                "full_name": "Kristiana Sidorova",
+                "position": "AWAY",
+                "short_name": "Sidorova"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Shrivalli Bhamidipaty",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Kristiana Sidorova",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Bhamidipaty v Sidorova",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-03T09:30:00.000Z"
+    },
+    {
+        "contestant_names": "Changwon Sakers, (1.45) VERSES Busan Sonicboom, (2.5)",
+        "start_time_aest": "2026-02-03T21:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "South Korea KBL",
+        "contestants": [
+            {
+                "full_name": "Changwon Sakers",
+                "position": "HOME",
+                "short_name": "Changwon Sakers"
+            },
+            {
+                "full_name": "Busan Sonicboom",
+                "position": "AWAY",
+                "short_name": "Busan Sonicboom"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Changwon Sakers",
+                "returnWin": 1.45
+            },
+            {
+                "name": "Busan Sonicboom",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Changwon Sakers v Busan Sonicboom",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-03T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Team Spirit, (1.5) VERSES Natus Vincere, (2.4)",
+        "start_time_aest": "2026-02-03T21:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "contestants": [
+            {
+                "full_name": "Team Spirit",
+                "position": "HOME",
+                "short_name": "Team Spirit"
+            },
+            {
+                "full_name": "Natus Vincere",
+                "position": "AWAY",
+                "short_name": "Natus Vincere"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Team Spirit",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Natus Vincere",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Team Spirit v Natus Vincere",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-03T10:00:00.000Z"
     }
 ]
