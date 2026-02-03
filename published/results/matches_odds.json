@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Elliot Slessor, (1.95) VERSES Stuart Bingham, (1.8)",
-        "start_time_aest": "2026-02-03T16:01:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "World Grand Prix",
-        "contestants": [
-            {
-                "full_name": "Elliot Slessor",
-                "position": "HOME",
-                "short_name": "Slessor"
-            },
-            {
-                "full_name": "Stuart Bingham",
-                "position": "AWAY",
-                "short_name": "Bingham"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Elliot Slessor",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Stuart Bingham",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "Slessor v Bingham",
-        "betOption": "Result",
-        "start_time": "2026-02-03T05:01:00.000Z"
-    },
-    {
-        "contestant_names": "Zhou Yuelong, (1.65) VERSES Stephen Maguire, (2.15)",
-        "start_time_aest": "2026-02-03T16:01:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "World Grand Prix",
-        "contestants": [
-            {
-                "full_name": "Zhou Yuelong",
-                "position": "HOME",
-                "short_name": "Yuelong"
-            },
-            {
-                "full_name": "Stephen Maguire",
-                "position": "AWAY",
-                "short_name": "Maguire"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Zhou Yuelong",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Stephen Maguire",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Yuelong v Maguire",
-        "betOption": "Result",
-        "start_time": "2026-02-03T05:01:00.000Z"
-    },
-    {
         "contestant_names": "Matthew Dellavedova, (1.6) VERSES Shinji Hazawa, (2.2)",
         "start_time_aest": "2026-02-03T17:00:00+11:00",
         "sport_name": "Tennis",
@@ -337,6 +275,37 @@
             }
         ],
         "match_name": "Samsonova v Tjen",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-03T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Oleksandra Oliynykova, (2.35) VERSES Anna Bondar, (1.55)",
+        "start_time_aest": "2026-02-03T20:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Oleksandra Oliynykova",
+                "position": "HOME",
+                "short_name": "Oliynykova"
+            },
+            {
+                "full_name": "Anna Bondar",
+                "position": "AWAY",
+                "short_name": "Bondar A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Oleksandra Oliynykova",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Anna Bondar",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Oliynykova v Bondar A",
         "betOption": "Head To Head",
         "start_time": "2026-02-03T09:00:00.000Z"
     }
