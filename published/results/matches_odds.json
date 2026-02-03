@@ -1,38 +1,7 @@
 [
     {
-        "contestant_names": "Fujairah, (2.4) VERSES Ajman, (1.55)",
-        "start_time_aest": "2026-02-03T22:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Emirates D10",
-        "contestants": [
-            {
-                "full_name": "Fujairah",
-                "position": "HOME",
-                "short_name": "Fujairah"
-            },
-            {
-                "full_name": "Ajman",
-                "position": "AWAY",
-                "short_name": "Ajman"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Fujairah",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Ajman",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Fujairah v Ajman",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-03T11:00:00.000Z"
-    },
-    {
         "contestant_names": "OG, (2.15) VERSES Team Liquid, (1.62)",
-        "start_time_aest": "2026-02-03T22:00:00+11:00",
+        "start_time_aest": "2026-02-03T22:20:00+11:00",
         "sport_name": "Esports",
         "competition_name": "DOTA2",
         "contestants": [
@@ -59,100 +28,7 @@
         ],
         "match_name": "Og v Team Liquid",
         "betOption": "Head To Head",
-        "start_time": "2026-02-03T11:00:00.000Z"
-    },
-    {
-        "contestant_names": "Andrea Guerrieri, (1.58) VERSES Niels Visker, (2.25)",
-        "start_time_aest": "2026-02-03T22:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Andrea Guerrieri",
-                "position": "HOME",
-                "short_name": "Guerrieri A"
-            },
-            {
-                "full_name": "Niels Visker",
-                "position": "AWAY",
-                "short_name": "Visker"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Andrea Guerrieri",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Niels Visker",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Guerrieri A v Visker",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-03T11:00:00.000Z"
-    },
-    {
-        "contestant_names": "Mats Rosenkranz, (1.46) VERSES Patrick Zahraj, (2.5)",
-        "start_time_aest": "2026-02-03T22:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Mats Rosenkranz",
-                "position": "HOME",
-                "short_name": "Rosenkranz"
-            },
-            {
-                "full_name": "Patrick Zahraj",
-                "position": "AWAY",
-                "short_name": "Zahraj"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Mats Rosenkranz",
-                "returnWin": 1.46
-            },
-            {
-                "name": "Patrick Zahraj",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Rosenkranz v Zahraj",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-03T11:00:00.000Z"
-    },
-    {
-        "contestant_names": "McCartney Kessler, (2.1) VERSES Leylah Annie Fernandez, (1.7)",
-        "start_time_aest": "2026-02-03T22:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestants": [
-            {
-                "full_name": "McCartney Kessler",
-                "position": "HOME",
-                "short_name": "Kessler"
-            },
-            {
-                "full_name": "Leylah Annie Fernandez",
-                "position": "AWAY",
-                "short_name": "Fernandez L"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "McCartney Kessler",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Leylah Annie Fernandez",
-                "returnWin": 1.7
-            }
-        ],
-        "match_name": "Kessler v Fernandez L",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-03T11:00:00.000Z"
+        "start_time": "2026-02-03T11:20:00.000Z"
     },
     {
         "contestant_names": "Nepal, (2.1) VERSES United Arab Emirates, (1.7)",
@@ -339,5 +215,36 @@
         "match_name": "Williams v ZhangA",
         "betOption": "Result",
         "start_time": "2026-02-03T11:31:00.000Z"
+    },
+    {
+        "contestant_names": "Xinjiang Tiansha, (1.55) VERSES Zhejiang Chouzho, (2.25)",
+        "start_time_aest": "2026-02-03T23:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "China CBA",
+        "contestants": [
+            {
+                "full_name": "Xinjiang Tiansha",
+                "position": "HOME",
+                "short_name": "Xinjiang Tiansha"
+            },
+            {
+                "full_name": "Zhejiang Chouzho",
+                "position": "AWAY",
+                "short_name": "Zhejiang Chouzho"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Xinjiang Tiansha",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Zhejiang Chouzho",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Xinjiang Tiansha v Zhejiang Chouzho",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-03T12:00:00.000Z"
     }
 ]
