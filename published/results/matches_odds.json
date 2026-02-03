@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Aryan Shah, (1.62) VERSES Ben Jones, (2.15)",
-        "start_time_aest": "2026-02-04T10:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Aryan Shah",
-                "position": "HOME",
-                "short_name": "Shah A"
-            },
-            {
-                "full_name": "Ben Jones",
-                "position": "AWAY",
-                "short_name": "Jones B"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Aryan Shah",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Ben Jones",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Shah A v Jones B",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-03T23:00:00.000Z"
-    },
-    {
-        "contestant_names": "Rio Claro, (2.1) VERSES Caxias Do Sul, (1.62)",
-        "start_time_aest": "2026-02-04T10:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Brazil NBB",
-        "contestants": [
-            {
-                "full_name": "Rio Claro",
-                "position": "HOME",
-                "short_name": "Rio Claro"
-            },
-            {
-                "full_name": "Caxias Do Sul",
-                "position": "AWAY",
-                "short_name": "Caxias Do Sul"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Rio Claro",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Caxias Do Sul",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Rio Claro v Caxias Do Sul",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-03T23:00:00.000Z"
-    },
-    {
         "contestant_names": "Niagara, (1.74) VERSES Canisius, (2.1)",
         "start_time_aest": "2026-02-04T10:30:00+11:00",
         "sport_name": "Basketball",
@@ -120,6 +58,37 @@
             }
         ],
         "match_name": "Toledo v Kent State",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-04T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Franco Agamenone, (2.15) VERSES Hugo Dellien, (1.62)",
+        "start_time_aest": "2026-02-04T11:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Franco Agamenone",
+                "position": "HOME",
+                "short_name": "Agamenone"
+            },
+            {
+                "full_name": "Hugo Dellien",
+                "position": "AWAY",
+                "short_name": "Dellien H"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Franco Agamenone",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Hugo Dellien",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Agamenone v Dellien H",
         "betOption": "Head To Head",
         "start_time": "2026-02-04T00:00:00.000Z"
     }
