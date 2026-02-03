@@ -1,38 +1,7 @@
 [
     {
-        "contestant_names": "Blinkova/Maleckova, (2) VERSES Gleason/Siskova, (1.75)",
-        "start_time_aest": "2026-02-03T23:10:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA Doubles",
-        "contestants": [
-            {
-                "full_name": "Blinkova/Maleckova",
-                "position": "HOME",
-                "short_name": "Blinkova/Maleckova"
-            },
-            {
-                "full_name": "Gleason/Siskova",
-                "position": "AWAY",
-                "short_name": "Gleason/Siskova"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Blinkova/Maleckova",
-                "returnWin": 2
-            },
-            {
-                "name": "Gleason/Siskova",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Blinkova/Maleckova v Gleason/Siskova",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-03T12:10:00.000Z"
-    },
-    {
-        "contestant_names": "GamerLegion, (2.1) VERSES Heroic, (1.65)",
-        "start_time_aest": "2026-02-03T23:30:00+11:00",
+        "contestant_names": "GamerLegion, (2.15) VERSES Heroic, (1.62)",
+        "start_time_aest": "2026-02-03T23:50:00+11:00",
         "sport_name": "Esports",
         "competition_name": "DOTA2",
         "contestants": [
@@ -50,16 +19,16 @@
         "propositions": [
             {
                 "name": "GamerLegion",
-                "returnWin": 2.1
+                "returnWin": 2.15
             },
             {
                 "name": "Heroic",
-                "returnWin": 1.65
+                "returnWin": 1.62
             }
         ],
         "match_name": "Gamerlegion v Heroic",
         "betOption": "Head To Head",
-        "start_time": "2026-02-03T12:30:00.000Z"
+        "start_time": "2026-02-03T12:50:00.000Z"
     },
     {
         "contestant_names": "Alex Martinez, (1.52) VERSES Filippo Romano, (2.35)",
@@ -246,5 +215,36 @@
         "match_name": "Team Yandex v Xtreme Gaming",
         "betOption": "Head To Head",
         "start_time": "2026-02-03T13:30:00.000Z"
+    },
+    {
+        "contestant_names": "Pastikova/Valdmannova, (2.3) VERSES Brooks/Feng, (1.58)",
+        "start_time_aest": "2026-02-04T00:40:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA Doubles",
+        "contestants": [
+            {
+                "full_name": "Pastikova/Valdmannova",
+                "position": "HOME",
+                "short_name": "Pastikova/Valdmannova"
+            },
+            {
+                "full_name": "Brooks/Feng",
+                "position": "AWAY",
+                "short_name": "Brooks/Feng"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Pastikova/Valdmannova",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Brooks/Feng",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Pastikova/Valdmannova v Brooks/Feng",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-03T13:40:00.000Z"
     }
 ]
