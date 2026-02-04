@@ -339,5 +339,36 @@
         "match_name": "Natus Vincere v Team Liquid",
         "betOption": "Head To Head",
         "start_time": "2026-02-04T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Team Falcons, (1.55) VERSES Xtreme Gaming, (2.3)",
+        "start_time_aest": "2026-02-04T21:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "contestants": [
+            {
+                "full_name": "Team Falcons",
+                "position": "HOME",
+                "short_name": "Team Falcons"
+            },
+            {
+                "full_name": "Xtreme Gaming",
+                "position": "AWAY",
+                "short_name": "Xtreme Gaming"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Team Falcons",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Xtreme Gaming",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Team Falcons v Xtreme Gaming",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-04T10:00:00.000Z"
     }
 ]
