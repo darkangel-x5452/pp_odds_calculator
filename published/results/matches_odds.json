@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Scotland, (1.7) VERSES Namibia, (2.1)",
-        "start_time_aest": "2026-02-04T18:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "ICC Twenty20 World Cup Warmups",
-        "contestants": [
-            {
-                "full_name": "Scotland",
-                "position": "HOME",
-                "short_name": "Scotland"
-            },
-            {
-                "full_name": "Namibia",
-                "position": "AWAY",
-                "short_name": "Namibia"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Scotland",
-                "returnWin": 1.7
-            },
-            {
-                "name": "Namibia",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Scotland v Namibia",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-04T07:30:00.000Z"
-    },
-    {
         "contestant_names": "Tundra Esports, (1.55) VERSES MOUZ, (2.3)",
         "start_time_aest": "2026-02-04T20:00:00+11:00",
         "sport_name": "Esports",
@@ -337,6 +306,37 @@
             }
         ],
         "match_name": "Team Falcons v Xtreme Gaming",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-04T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "MECARELLI Michele, (2.15) VERSES Federico Iannaccone, (1.62)",
+        "start_time_aest": "2026-02-04T21:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "MECARELLI Michele",
+                "position": "HOME",
+                "short_name": "Mecarelli Michel"
+            },
+            {
+                "full_name": "Federico Iannaccone",
+                "position": "AWAY",
+                "short_name": "Iannaccone"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "MECARELLI Michele",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Federico Iannaccone",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Mecarelli Michel v Iannaccone",
         "betOption": "Head To Head",
         "start_time": "2026-02-04T10:00:00.000Z"
     }
