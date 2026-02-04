@@ -122,5 +122,67 @@
         "match_name": "Portland v Phoenix",
         "betOption": "Head To Head",
         "start_time": "2026-02-04T04:10:00.000Z"
+    },
+    {
+        "contestant_names": "Chris Wakelin, (1.65) VERSES Thepchaiya Un-Nooh, (2.15)",
+        "start_time_aest": "2026-02-04T16:01:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "World Grand Prix",
+        "contestants": [
+            {
+                "full_name": "Chris Wakelin",
+                "position": "HOME",
+                "short_name": "Wakelin"
+            },
+            {
+                "full_name": "Thepchaiya Un-Nooh",
+                "position": "AWAY",
+                "short_name": "Un-Nooh"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Chris Wakelin",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Thepchaiya Un-Nooh",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Wakelin v Un-Nooh",
+        "betOption": "Result",
+        "start_time": "2026-02-04T05:01:00.000Z"
+    },
+    {
+        "contestant_names": "Gary Wilson, (2.15) VERSES Si Jiahui, (1.65)",
+        "start_time_aest": "2026-02-04T16:01:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "World Grand Prix",
+        "contestants": [
+            {
+                "full_name": "Gary Wilson",
+                "position": "HOME",
+                "short_name": "Wilson"
+            },
+            {
+                "full_name": "Si Jiahui",
+                "position": "AWAY",
+                "short_name": "Jiahui Si"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Gary Wilson",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Si Jiahui",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Wilson v Jiahui Si",
+        "betOption": "Result",
+        "start_time": "2026-02-04T05:01:00.000Z"
     }
 ]
