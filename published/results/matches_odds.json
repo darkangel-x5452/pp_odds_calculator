@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Toledo, (1.95) VERSES Kent State, (1.85)",
-        "start_time_aest": "2026-02-04T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Toledo",
-                "position": "HOME",
-                "short_name": "Toledo"
-            },
-            {
-                "full_name": "Kent State",
-                "position": "AWAY",
-                "short_name": "Kent State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Toledo",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Kent State",
-                "returnWin": 1.85
-            }
-        ],
-        "match_name": "Toledo v Kent State",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-04T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Franco Agamenone, (2.15) VERSES Hugo Dellien, (1.62)",
-        "start_time_aest": "2026-02-04T11:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Franco Agamenone",
-                "position": "HOME",
-                "short_name": "Agamenone"
-            },
-            {
-                "full_name": "Hugo Dellien",
-                "position": "AWAY",
-                "short_name": "Dellien H"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Franco Agamenone",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Hugo Dellien",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Agamenone v Dellien H",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-04T00:00:00.000Z"
-    },
-    {
         "contestant_names": "Carolina, (1.55) VERSES Ottawa, (2.4)",
         "start_time_aest": "2026-02-04T11:05:00+11:00",
         "sport_name": "Ice Hockey",
@@ -122,5 +60,36 @@
         "match_name": "Philadelphia v Washington",
         "betOption": "Head To Head",
         "start_time": "2026-02-04T00:05:00.000Z"
+    },
+    {
+        "contestant_names": "Indiana, (2.2) VERSES Utah, (1.7)",
+        "start_time_aest": "2026-02-04T11:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Indiana",
+                "position": "HOME",
+                "short_name": "Indiana"
+            },
+            {
+                "full_name": "Utah",
+                "position": "AWAY",
+                "short_name": "Utah"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Indiana",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Utah",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "Indiana v Utah",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-04T00:10:00.000Z"
     }
 ]
