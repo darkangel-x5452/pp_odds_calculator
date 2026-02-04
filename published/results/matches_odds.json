@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Luciano Emanuel Ambrogi, (2.35) VERSES Andrea Pellegrino, (1.52)",
-        "start_time_aest": "2026-02-05T09:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Luciano Emanuel Ambrogi",
-                "position": "HOME",
-                "short_name": "Ambrogi"
-            },
-            {
-                "full_name": "Andrea Pellegrino",
-                "position": "AWAY",
-                "short_name": "Pellegrino"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Luciano Emanuel Ambrogi",
-                "returnWin": 2.35
-            },
-            {
-                "name": "Andrea Pellegrino",
-                "returnWin": 1.52
-            }
-        ],
-        "match_name": "Ambrogi v Pellegrino",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-04T22:15:00.000Z"
-    },
-    {
         "contestant_names": "UNC Greensboro, (2) VERSES Western Carolina, (1.8)",
         "start_time_aest": "2026-02-05T10:00:00+11:00",
         "sport_name": "Basketball",
@@ -122,6 +91,37 @@
         "match_name": "Def Sporting v CA Penarol",
         "betOption": "Head To Head",
         "start_time": "2026-02-04T23:15:00.000Z"
+    },
+    {
+        "contestant_names": "Cnt Entrerriano, (1.45) VERSES Gimnasia LaPlata, (2.5)",
+        "start_time_aest": "2026-02-05T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Cnt Entrerriano",
+                "position": "HOME",
+                "short_name": "Cnt Entrerriano"
+            },
+            {
+                "full_name": "Gimnasia LaPlata",
+                "position": "AWAY",
+                "short_name": "Gimnasia LaPlata"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Cnt Entrerriano",
+                "returnWin": 1.45
+            },
+            {
+                "name": "Gimnasia LaPlata",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Cnt Entrerriano v Gimnasia LaPlata",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T00:00:00.000Z"
     },
     {
         "contestant_names": "Winnipeg, (1.85) VERSES Montreal, (1.95)",
