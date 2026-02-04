@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Chris Wakelin, (1.65) VERSES Thepchaiya Un-Nooh, (2.15)",
-        "start_time_aest": "2026-02-04T16:01:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "World Grand Prix",
-        "contestants": [
-            {
-                "full_name": "Chris Wakelin",
-                "position": "HOME",
-                "short_name": "Wakelin"
-            },
-            {
-                "full_name": "Thepchaiya Un-Nooh",
-                "position": "AWAY",
-                "short_name": "Un-Nooh"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Chris Wakelin",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Thepchaiya Un-Nooh",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Wakelin v Un-Nooh",
-        "betOption": "Result",
-        "start_time": "2026-02-04T05:01:00.000Z"
-    },
-    {
-        "contestant_names": "Gary Wilson, (2.15) VERSES Si Jiahui, (1.65)",
-        "start_time_aest": "2026-02-04T16:01:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "World Grand Prix",
-        "contestants": [
-            {
-                "full_name": "Gary Wilson",
-                "position": "HOME",
-                "short_name": "Wilson"
-            },
-            {
-                "full_name": "Si Jiahui",
-                "position": "AWAY",
-                "short_name": "Jiahui Si"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Gary Wilson",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Si Jiahui",
-                "returnWin": 1.65
-            }
-        ],
-        "match_name": "Wilson v Jiahui Si",
-        "betOption": "Result",
-        "start_time": "2026-02-04T05:01:00.000Z"
-    },
-    {
         "contestant_names": "L Kichenok/N Kichenok, (2.5) VERSES Bucsa/Zhang, (1.5)",
         "start_time_aest": "2026-02-04T18:00:00+11:00",
         "sport_name": "Tennis",
@@ -277,5 +215,98 @@
         "match_name": "Erjavec/Rajaonah v Jakupovic/Radisic.",
         "betOption": "Head To Head",
         "start_time": "2026-02-04T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Afghanistan, (1.8) VERSES West Indies, (2)",
+        "start_time_aest": "2026-02-04T20:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "ICC Twenty20 World Cup Warmups",
+        "contestants": [
+            {
+                "full_name": "Afghanistan",
+                "position": "HOME",
+                "short_name": "Afghanistan"
+            },
+            {
+                "full_name": "West Indies",
+                "position": "AWAY",
+                "short_name": "West Indies"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Afghanistan",
+                "returnWin": 1.8
+            },
+            {
+                "name": "West Indies",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Afghanistan v West Indies",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-04T09:30:00.000Z"
+    },
+    {
+        "contestant_names": "Mai Hontama, (2.5) VERSES Darja Semenistaja, (1.46)",
+        "start_time_aest": "2026-02-04T20:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Tour",
+        "contestants": [
+            {
+                "full_name": "Mai Hontama",
+                "position": "HOME",
+                "short_name": "Hontama"
+            },
+            {
+                "full_name": "Darja Semenistaja",
+                "position": "AWAY",
+                "short_name": "Semenistaja D"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mai Hontama",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Darja Semenistaja",
+                "returnWin": 1.46
+            }
+        ],
+        "match_name": "Hontama v Semenistaja D",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-04T09:30:00.000Z"
+    },
+    {
+        "contestant_names": "Goyang, (2) VERSES Jeonju KCC Egis, (1.7)",
+        "start_time_aest": "2026-02-04T21:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "South Korea KBL",
+        "contestants": [
+            {
+                "full_name": "Goyang",
+                "position": "HOME",
+                "short_name": "Goyang"
+            },
+            {
+                "full_name": "Jeonju KCC Egis",
+                "position": "AWAY",
+                "short_name": "Jeonju KCC Egis"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Goyang",
+                "returnWin": 2
+            },
+            {
+                "name": "Jeonju KCC Egis",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "Goyang v Jeonju KCC Egis",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-04T10:00:00.000Z"
     }
 ]
