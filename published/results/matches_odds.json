@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Anaheim, (1.7) VERSES Seattle, (2.1)",
-        "start_time_aest": "2026-02-04T14:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Anaheim",
-                "position": "HOME",
-                "short_name": "Anaheim"
-            },
-            {
-                "full_name": "Seattle",
-                "position": "AWAY",
-                "short_name": "Seattle"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Anaheim",
-                "returnWin": 1.7
-            },
-            {
-                "name": "Seattle",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Anaheim v Seattle",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-04T03:05:00.000Z"
-    },
-    {
         "contestant_names": "Portland, (2.3) VERSES Phoenix, (1.65)",
         "start_time_aest": "2026-02-04T15:10:00+11:00",
         "sport_name": "Basketball",
@@ -213,6 +182,37 @@
             }
         ],
         "match_name": "Tundra Esports v MOUZ",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-04T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "EDward Gaming, (1.68) VERSES Team WE, (2.05)",
+        "start_time_aest": "2026-02-04T20:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "contestants": [
+            {
+                "full_name": "EDward Gaming",
+                "position": "HOME",
+                "short_name": "EDward Gaming"
+            },
+            {
+                "full_name": "Team WE",
+                "position": "AWAY",
+                "short_name": "Team WE"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "EDward Gaming",
+                "returnWin": 1.68
+            },
+            {
+                "name": "Team WE",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "EDward Gaming v Team WE",
         "betOption": "Head To Head",
         "start_time": "2026-02-04T09:00:00.000Z"
     }
