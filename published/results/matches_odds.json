@@ -215,5 +215,98 @@
         "match_name": "EDward Gaming v Team WE",
         "betOption": "Head To Head",
         "start_time": "2026-02-04T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Dayana Yastremska, (2.4) VERSES Ekaterina Alexandrova, (1.52)",
+        "start_time_aest": "2026-02-04T20:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Dayana Yastremska",
+                "position": "HOME",
+                "short_name": "Yastremska D"
+            },
+            {
+                "full_name": "Ekaterina Alexandrova",
+                "position": "AWAY",
+                "short_name": "Alexandrova E"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Dayana Yastremska",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Ekaterina Alexandrova",
+                "returnWin": 1.52
+            }
+        ],
+        "match_name": "Yastremska D v Alexandrova E",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-04T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Khromacheva/Klepac, (2) VERSES Mihalikova/Nicholls, (1.75)",
+        "start_time_aest": "2026-02-04T20:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA Doubles",
+        "contestants": [
+            {
+                "full_name": "Khromacheva/Klepac",
+                "position": "HOME",
+                "short_name": "Khromacheva/Klepac"
+            },
+            {
+                "full_name": "Mihalikova/Nicholls",
+                "position": "AWAY",
+                "short_name": "Mihalikova/Nicholls"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Khromacheva/Klepac",
+                "returnWin": 2
+            },
+            {
+                "name": "Mihalikova/Nicholls",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Khromacheva/Klepac v Mihalikova/Nicholls",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-04T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Erjavec/Rajaonah, (1.8) VERSES Jakupovic/Radisic, (1.95)",
+        "start_time_aest": "2026-02-04T20:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA Doubles",
+        "contestants": [
+            {
+                "full_name": "Erjavec/Rajaonah",
+                "position": "HOME",
+                "short_name": "Erjavec/Rajaonah"
+            },
+            {
+                "full_name": "Jakupovic/Radisic",
+                "position": "AWAY",
+                "short_name": "Jakupovic/Radisic."
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Erjavec/Rajaonah",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Jakupovic/Radisic",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Erjavec/Rajaonah v Jakupovic/Radisic.",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-04T09:00:00.000Z"
     }
 ]
