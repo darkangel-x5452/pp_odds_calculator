@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Chun Hsin Tseng, (1.6) VERSES Facundo Mena, (2.2)",
-        "start_time_aest": "2026-02-05T07:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Chun Hsin Tseng",
-                "position": "HOME",
-                "short_name": "Hsin Tseng"
-            },
-            {
-                "full_name": "Facundo Mena",
-                "position": "AWAY",
-                "short_name": "Mena"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Chun Hsin Tseng",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Facundo Mena",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Hsin Tseng v Mena",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-04T20:15:00.000Z"
-    },
-    {
         "contestant_names": "OG, (1.65) VERSES Natus Vincere, (2.1)",
         "start_time_aest": "2026-02-05T07:45:00+11:00",
         "sport_name": "Esports",
@@ -91,6 +60,37 @@
         "match_name": "Ambrogi v Pellegrino",
         "betOption": "Head To Head",
         "start_time": "2026-02-04T22:00:00.000Z"
+    },
+    {
+        "contestant_names": "UNC Greensboro, (2) VERSES Western Carolina, (1.8)",
+        "start_time_aest": "2026-02-05T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "UNC Greensboro",
+                "position": "HOME",
+                "short_name": "UNC Greensboro"
+            },
+            {
+                "full_name": "Western Carolina",
+                "position": "AWAY",
+                "short_name": "Western Carolina"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "UNC Greensboro",
+                "returnWin": 2
+            },
+            {
+                "name": "Western Carolina",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "UNC Greensboro v Western Carolina",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-04T23:00:00.000Z"
     },
     {
         "contestant_names": "Winnipeg, (1.85) VERSES Montreal, (1.95)",
