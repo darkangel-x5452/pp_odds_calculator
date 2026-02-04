@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "USC, (2) VERSES Indiana, (1.8)",
-        "start_time_aest": "2026-02-04T14:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "USC",
-                "position": "HOME",
-                "short_name": "USC"
-            },
-            {
-                "full_name": "Indiana",
-                "position": "AWAY",
-                "short_name": "Indiana"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "USC",
-                "returnWin": 2
-            },
-            {
-                "name": "Indiana",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "USC v Indiana",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-04T03:00:00.000Z"
-    },
-    {
-        "contestant_names": "Bolt/Uchiyama, (1.6) VERSES Isomura/Tokuda, (2.2)",
-        "start_time_aest": "2026-02-04T14:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger Doubles",
-        "contestants": [
-            {
-                "full_name": "Bolt/Uchiyama",
-                "position": "HOME",
-                "short_name": "Bolt/Uchiyama"
-            },
-            {
-                "full_name": "Isomura/Tokuda",
-                "position": "AWAY",
-                "short_name": "Isomura/Tokuda"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Bolt/Uchiyama",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Isomura/Tokuda",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Bolt/Uchiyama v Isomura/Tokuda",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-04T03:00:00.000Z"
-    },
-    {
         "contestant_names": "Anaheim, (1.7) VERSES Seattle, (2.1)",
         "start_time_aest": "2026-02-04T14:05:00+11:00",
         "sport_name": "Ice Hockey",
@@ -184,5 +122,98 @@
         "match_name": "Wilson v Jiahui Si",
         "betOption": "Result",
         "start_time": "2026-02-04T05:01:00.000Z"
+    },
+    {
+        "contestant_names": "L Kichenok/N Kichenok, (2.5) VERSES Bucsa/Zhang, (1.5)",
+        "start_time_aest": "2026-02-04T18:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA Doubles",
+        "contestants": [
+            {
+                "full_name": "L Kichenok/N Kichenok",
+                "position": "HOME",
+                "short_name": "L Kichenok/N Kichenok"
+            },
+            {
+                "full_name": "Bucsa/Zhang",
+                "position": "AWAY",
+                "short_name": "Bucsa/Zhang"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "L Kichenok/N Kichenok",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Bucsa/Zhang",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "L Kichenok/N Kichenok v Bucsa/Zhang",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-04T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Scotland, (1.7) VERSES Namibia, (2.1)",
+        "start_time_aest": "2026-02-04T18:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "ICC Twenty20 World Cup Warmups",
+        "contestants": [
+            {
+                "full_name": "Scotland",
+                "position": "HOME",
+                "short_name": "Scotland"
+            },
+            {
+                "full_name": "Namibia",
+                "position": "AWAY",
+                "short_name": "Namibia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Scotland",
+                "returnWin": 1.7
+            },
+            {
+                "name": "Namibia",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Scotland v Namibia",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-04T07:30:00.000Z"
+    },
+    {
+        "contestant_names": "Tundra Esports, (1.55) VERSES MOUZ, (2.3)",
+        "start_time_aest": "2026-02-04T20:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "contestants": [
+            {
+                "full_name": "Tundra Esports",
+                "position": "HOME",
+                "short_name": "Tundra Esports"
+            },
+            {
+                "full_name": "MOUZ",
+                "position": "AWAY",
+                "short_name": "MOUZ"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tundra Esports",
+                "returnWin": 1.55
+            },
+            {
+                "name": "MOUZ",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Tundra Esports v MOUZ",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-04T09:00:00.000Z"
     }
 ]
