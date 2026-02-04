@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "UNC Greensboro, (2) VERSES Western Carolina, (1.8)",
-        "start_time_aest": "2026-02-05T10:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "UNC Greensboro",
-                "position": "HOME",
-                "short_name": "UNC Greensboro"
-            },
-            {
-                "full_name": "Western Carolina",
-                "position": "AWAY",
-                "short_name": "Western Carolina"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "UNC Greensboro",
-                "returnWin": 2
-            },
-            {
-                "name": "Western Carolina",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "UNC Greensboro v Western Carolina",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-04T23:00:00.000Z"
-    },
-    {
         "contestant_names": "Urunday, (2) VERSES Union Atletica, (1.7)",
         "start_time_aest": "2026-02-05T10:15:00+11:00",
         "sport_name": "Basketball",
@@ -120,6 +89,37 @@
             }
         ],
         "match_name": "Cnt Entrerriano v Gimnasia LaPlata",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Robert Morris, (1.95) VERSES Wright State, (1.85)",
+        "start_time_aest": "2026-02-05T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Robert Morris",
+                "position": "HOME",
+                "short_name": "Robert Morris"
+            },
+            {
+                "full_name": "Wright State",
+                "position": "AWAY",
+                "short_name": "Wright State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Robert Morris",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Wright State",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Robert Morris v Wright State",
         "betOption": "Head To Head",
         "start_time": "2026-02-05T00:00:00.000Z"
     },
