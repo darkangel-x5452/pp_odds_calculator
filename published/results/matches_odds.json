@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Luciano Emanuel Ambrogi, (2.35) VERSES Andrea Pellegrino, (1.52)",
-        "start_time_aest": "2026-02-05T09:00:00+11:00",
+        "start_time_aest": "2026-02-05T09:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -28,7 +28,7 @@
         ],
         "match_name": "Ambrogi v Pellegrino",
         "betOption": "Head To Head",
-        "start_time": "2026-02-04T22:00:00.000Z"
+        "start_time": "2026-02-04T22:15:00.000Z"
     },
     {
         "contestant_names": "UNC Greensboro, (2) VERSES Western Carolina, (1.8)",
@@ -89,6 +89,37 @@
             }
         ],
         "match_name": "Urunday v Union Atletica",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-04T23:15:00.000Z"
+    },
+    {
+        "contestant_names": "Def Sporting, (2.4) VERSES CA Penarol, (1.48)",
+        "start_time_aest": "2026-02-05T10:15:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Uruguay LUB",
+        "contestants": [
+            {
+                "full_name": "Def Sporting",
+                "position": "HOME",
+                "short_name": "Def Sporting"
+            },
+            {
+                "full_name": "CA Penarol",
+                "position": "AWAY",
+                "short_name": "CA Penarol"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Def Sporting",
+                "returnWin": 2.4
+            },
+            {
+                "name": "CA Penarol",
+                "returnWin": 1.48
+            }
+        ],
+        "match_name": "Def Sporting v CA Penarol",
         "betOption": "Head To Head",
         "start_time": "2026-02-04T23:15:00.000Z"
     },
