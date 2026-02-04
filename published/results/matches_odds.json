@@ -339,5 +339,36 @@
         "match_name": "Mecarelli Michel v Iannaccone",
         "betOption": "Head To Head",
         "start_time": "2026-02-04T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Yidi Yang, (2.15) VERSES Deborah Chiesa, (1.63)",
+        "start_time_aest": "2026-02-04T21:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Yidi Yang",
+                "position": "HOME",
+                "short_name": "Yang Y"
+            },
+            {
+                "full_name": "Deborah Chiesa",
+                "position": "AWAY",
+                "short_name": "Chiesa D"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Yidi Yang",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Deborah Chiesa",
+                "returnWin": 1.63
+            }
+        ],
+        "match_name": "Yang Y v Chiesa D",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-04T10:00:00.000Z"
     }
 ]
