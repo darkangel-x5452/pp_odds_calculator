@@ -308,5 +308,36 @@
         "match_name": "Goyang v Jeonju KCC Egis",
         "betOption": "Head To Head",
         "start_time": "2026-02-04T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Natus Vincere, (2) VERSES Team Liquid, (1.72)",
+        "start_time_aest": "2026-02-04T21:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "contestants": [
+            {
+                "full_name": "Natus Vincere",
+                "position": "HOME",
+                "short_name": "Natus Vincere"
+            },
+            {
+                "full_name": "Team Liquid",
+                "position": "AWAY",
+                "short_name": "Team Liquid"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Natus Vincere",
+                "returnWin": 2
+            },
+            {
+                "name": "Team Liquid",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "Natus Vincere v Team Liquid",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-04T10:00:00.000Z"
     }
 ]
