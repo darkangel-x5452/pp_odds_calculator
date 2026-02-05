@@ -1,38 +1,7 @@
 [
     {
-        "contestant_names": "Bangalore (W), (1.75) VERSES Delhi (W), (2.05)",
-        "start_time_aest": "2026-02-06T01:05:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Womens Premier League",
-        "contestants": [
-            {
-                "full_name": "Bangalore (W)",
-                "position": "HOME",
-                "short_name": "Bangalore (W)"
-            },
-            {
-                "full_name": "Delhi (W)",
-                "position": "AWAY",
-                "short_name": "Delhi (W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Bangalore (W)",
-                "returnWin": 1.75
-            },
-            {
-                "name": "Delhi (W)",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Bangalore (W) v Delhi (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T14:05:00.000Z"
-    },
-    {
         "contestant_names": "Natus Vincere, (1.72) VERSES Heroic, (2)",
-        "start_time_aest": "2026-02-06T01:30:00+11:00",
+        "start_time_aest": "2026-02-06T01:40:00+11:00",
         "sport_name": "Esports",
         "competition_name": "DOTA2",
         "contestants": [
@@ -59,7 +28,7 @@
         ],
         "match_name": "Natus Vincere v Heroic",
         "betOption": "Head To Head",
-        "start_time": "2026-02-05T14:30:00.000Z"
+        "start_time": "2026-02-05T14:40:00.000Z"
     },
     {
         "contestant_names": "Team Spirit, (2.05) VERSES Tundra Esports, (1.68)",
@@ -215,5 +184,129 @@
         "match_name": "Fenerbahce v Maliye Milli",
         "betOption": "Head To Head",
         "start_time": "2026-02-05T15:00:00.000Z"
+    },
+    {
+        "contestant_names": "Luca Nardi, (2.1) VERSES Flavio Cobolli, (1.7)",
+        "start_time_aest": "2026-02-06T02:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "contestants": [
+            {
+                "full_name": "Luca Nardi",
+                "position": "HOME",
+                "short_name": "Nardi L"
+            },
+            {
+                "full_name": "Flavio Cobolli",
+                "position": "AWAY",
+                "short_name": "Cobolli"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Luca Nardi",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Flavio Cobolli",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "Nardi L v Cobolli",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T15:30:00.000Z"
+    },
+    {
+        "contestant_names": "Dubai Basketball, (2.15) VERSES Real Madrid, (1.65)",
+        "start_time_aest": "2026-02-06T03:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "EuroLeague",
+        "contestants": [
+            {
+                "full_name": "Dubai Basketball",
+                "position": "HOME",
+                "short_name": "Dubai Basketball"
+            },
+            {
+                "full_name": "Real Madrid",
+                "position": "AWAY",
+                "short_name": "Real Madrid"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Dubai Basketball",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Real Madrid",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Dubai Basketball v Real Madrid",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "Kocaeli, (2.25) VERSES Goztepe, (1.55)",
+        "start_time_aest": "2026-02-06T03:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Turkey TBL",
+        "contestants": [
+            {
+                "full_name": "Kocaeli",
+                "position": "HOME",
+                "short_name": "Kocaeli"
+            },
+            {
+                "full_name": "Goztepe",
+                "position": "AWAY",
+                "short_name": "Goztepe"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Kocaeli",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Goztepe",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Kocaeli v Goztepe",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "MOUZ, (1.46) VERSES GamerLegion, (2.5)",
+        "start_time_aest": "2026-02-06T03:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "contestants": [
+            {
+                "full_name": "MOUZ",
+                "position": "HOME",
+                "short_name": "MOUZ"
+            },
+            {
+                "full_name": "GamerLegion",
+                "position": "AWAY",
+                "short_name": "Gamerlegion"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "MOUZ",
+                "returnWin": 1.46
+            },
+            {
+                "name": "GamerLegion",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "MOUZ v Gamerlegion",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T16:00:00.000Z"
     }
 ]
