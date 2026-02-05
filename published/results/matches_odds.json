@@ -1,129 +1,5 @@
 [
     {
-        "contestant_names": "LA Clippers, (2.25) VERSES Cleveland, (1.67)",
-        "start_time_aest": "2026-02-05T14:40:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "LA Clippers",
-                "position": "HOME",
-                "short_name": "LA Clippers"
-            },
-            {
-                "full_name": "Cleveland",
-                "position": "AWAY",
-                "short_name": "Cleveland"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "LA Clippers",
-                "returnWin": 2.25
-            },
-            {
-                "name": "Cleveland",
-                "returnWin": 1.67
-            }
-        ],
-        "match_name": "LA Clippers v Cleveland",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T03:40:00.000Z"
-    },
-    {
-        "contestant_names": "New Mexico, (1.8) VERSES Utah State, (2)",
-        "start_time_aest": "2026-02-05T15:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "New Mexico",
-                "position": "HOME",
-                "short_name": "New Mexico"
-            },
-            {
-                "full_name": "Utah State",
-                "position": "AWAY",
-                "short_name": "Utah State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "New Mexico",
-                "returnWin": 1.8
-            },
-            {
-                "name": "Utah State",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "New Mexico v Utah State",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T04:00:00.000Z"
-    },
-    {
-        "contestant_names": "Washington, (2.1) VERSES Iowa, (1.74)",
-        "start_time_aest": "2026-02-05T15:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Washington",
-                "position": "HOME",
-                "short_name": "Washington"
-            },
-            {
-                "full_name": "Iowa",
-                "position": "AWAY",
-                "short_name": "Iowa"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Washington",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Iowa",
-                "returnWin": 1.74
-            }
-        ],
-        "match_name": "Washington v Iowa",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T04:00:00.000Z"
-    },
-    {
-        "contestant_names": "Oregon State, (2.1) VERSES Washington State, (1.74)",
-        "start_time_aest": "2026-02-05T15:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Oregon State",
-                "position": "HOME",
-                "short_name": "Oregon State"
-            },
-            {
-                "full_name": "Washington State",
-                "position": "AWAY",
-                "short_name": "Washington State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Oregon State",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Washington State",
-                "returnWin": 1.74
-            }
-        ],
-        "match_name": "Oregon State v Washington State",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T04:00:00.000Z"
-    },
-    {
         "contestant_names": "Xiao Guodong, (2.3) VERSES Ronnie OSullivan, (1.58)",
         "start_time_aest": "2026-02-05T16:00:00+11:00",
         "sport_name": "Snooker",
@@ -370,5 +246,36 @@
         "match_name": "Tian F v Vandewinkel",
         "betOption": "Head To Head",
         "start_time": "2026-02-05T08:30:00.000Z"
+    },
+    {
+        "contestant_names": "Team Falcons, (1.46) VERSES MOUZ, (2.5)",
+        "start_time_aest": "2026-02-05T20:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "contestants": [
+            {
+                "full_name": "Team Falcons",
+                "position": "HOME",
+                "short_name": "Team Falcons"
+            },
+            {
+                "full_name": "MOUZ",
+                "position": "AWAY",
+                "short_name": "MOUZ"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Team Falcons",
+                "returnWin": 1.46
+            },
+            {
+                "name": "MOUZ",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Team Falcons v MOUZ",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T09:00:00.000Z"
     }
 ]
