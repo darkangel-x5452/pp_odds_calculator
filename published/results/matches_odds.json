@@ -1,129 +1,5 @@
 [
     {
-        "contestant_names": "Illawarra, (2.2) VERSES Adelaide, (1.67)",
-        "start_time_aest": "2026-02-05T19:37:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBL",
-        "contestants": [
-            {
-                "full_name": "Illawarra",
-                "position": "HOME",
-                "short_name": "Illawarra"
-            },
-            {
-                "full_name": "Adelaide",
-                "position": "AWAY",
-                "short_name": "Adelaide"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Illawarra",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Adelaide",
-                "returnWin": 1.67
-            }
-        ],
-        "match_name": "Illawarra v Adelaide",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T08:37:00.000Z"
-    },
-    {
-        "contestant_names": "Fangran Tian, (2.3) VERSES Hanne Vandewinkel, (1.55)",
-        "start_time_aest": "2026-02-05T19:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA 125 Tour",
-        "contestants": [
-            {
-                "full_name": "Fangran Tian",
-                "position": "HOME",
-                "short_name": "Tian F"
-            },
-            {
-                "full_name": "Hanne Vandewinkel",
-                "position": "AWAY",
-                "short_name": "Vandewinkel"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Fangran Tian",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Hanne Vandewinkel",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Tian F v Vandewinkel",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T08:45:00.000Z"
-    },
-    {
-        "contestant_names": "Team Falcons, (1.46) VERSES MOUZ, (2.5)",
-        "start_time_aest": "2026-02-05T20:00:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "DOTA2",
-        "contestants": [
-            {
-                "full_name": "Team Falcons",
-                "position": "HOME",
-                "short_name": "Team Falcons"
-            },
-            {
-                "full_name": "MOUZ",
-                "position": "AWAY",
-                "short_name": "MOUZ"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Team Falcons",
-                "returnWin": 1.46
-            },
-            {
-                "name": "MOUZ",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Team Falcons v MOUZ",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T09:00:00.000Z"
-    },
-    {
-        "contestant_names": "Clara Tauson, (1.6) VERSES McCartney Kessler, (2.25)",
-        "start_time_aest": "2026-02-05T20:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestants": [
-            {
-                "full_name": "Clara Tauson",
-                "position": "HOME",
-                "short_name": "Tauson C"
-            },
-            {
-                "full_name": "McCartney Kessler",
-                "position": "AWAY",
-                "short_name": "Kessler"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Clara Tauson",
-                "returnWin": 1.6
-            },
-            {
-                "name": "McCartney Kessler",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Tauson C v Kessler",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T09:00:00.000Z"
-    },
-    {
         "contestant_names": "Norway, (2.3) VERSES United States, (1.55)",
         "start_time_aest": "2026-02-05T20:05:00+11:00",
         "sport_name": "Winter Olympics",
@@ -153,6 +29,37 @@
         "match_name": "Norway v USA",
         "betOption": "Head To Head",
         "start_time": "2026-02-05T09:05:00.000Z"
+    },
+    {
+        "contestant_names": "Clara Tauson, (1.52) VERSES McCartney Kessler, (2.4)",
+        "start_time_aest": "2026-02-05T20:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Clara Tauson",
+                "position": "HOME",
+                "short_name": "Tauson C"
+            },
+            {
+                "full_name": "McCartney Kessler",
+                "position": "AWAY",
+                "short_name": "Kessler"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Clara Tauson",
+                "returnWin": 1.52
+            },
+            {
+                "name": "McCartney Kessler",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Tauson C v Kessler",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T09:15:00.000Z"
     },
     {
         "contestant_names": "Team Liquid, (2.05) VERSES Team Yandex, (1.68)",
@@ -215,5 +122,36 @@
         "match_name": "Xtreme Gaming v Tundra Esports",
         "betOption": "Head To Head",
         "start_time": "2026-02-05T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Natus Vincere, (1.46) VERSES GamerLegion, (2.5)",
+        "start_time_aest": "2026-02-05T22:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "contestants": [
+            {
+                "full_name": "Natus Vincere",
+                "position": "HOME",
+                "short_name": "Natus Vincere"
+            },
+            {
+                "full_name": "GamerLegion",
+                "position": "AWAY",
+                "short_name": "Gamerlegion"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Natus Vincere",
+                "returnWin": 1.46
+            },
+            {
+                "name": "GamerLegion",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Natus Vincere v Gamerlegion",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T11:00:00.000Z"
     }
 ]
