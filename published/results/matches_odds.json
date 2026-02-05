@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Stanford, (2.45) VERSES Clemson, (1.55)",
-        "start_time_aest": "2026-02-05T14:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Stanford",
-                "position": "HOME",
-                "short_name": "Stanford"
-            },
-            {
-                "full_name": "Clemson",
-                "position": "AWAY",
-                "short_name": "Clemson"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Stanford",
-                "returnWin": 2.45
-            },
-            {
-                "name": "Clemson",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Stanford v Clemson",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T03:00:00.000Z"
-    },
-    {
         "contestant_names": "Los Angeles, (1.55) VERSES Seattle, (2.4)",
         "start_time_aest": "2026-02-05T14:05:00+11:00",
         "sport_name": "Ice Hockey",
@@ -184,5 +153,191 @@
         "match_name": "New Mexico v Utah State",
         "betOption": "Head To Head",
         "start_time": "2026-02-05T04:00:00.000Z"
+    },
+    {
+        "contestant_names": "Washington, (2.1) VERSES Iowa, (1.74)",
+        "start_time_aest": "2026-02-05T15:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Washington",
+                "position": "HOME",
+                "short_name": "Washington"
+            },
+            {
+                "full_name": "Iowa",
+                "position": "AWAY",
+                "short_name": "Iowa"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Washington",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Iowa",
+                "returnWin": 1.74
+            }
+        ],
+        "match_name": "Washington v Iowa",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T04:00:00.000Z"
+    },
+    {
+        "contestant_names": "Oregon State, (2.1) VERSES Washington State, (1.74)",
+        "start_time_aest": "2026-02-05T15:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Oregon State",
+                "position": "HOME",
+                "short_name": "Oregon State"
+            },
+            {
+                "full_name": "Washington State",
+                "position": "AWAY",
+                "short_name": "Washington State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Oregon State",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Washington State",
+                "returnWin": 1.74
+            }
+        ],
+        "match_name": "Oregon State v Washington State",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T04:00:00.000Z"
+    },
+    {
+        "contestant_names": "Xiao Guodong, (2.3) VERSES Ronnie OSullivan, (1.58)",
+        "start_time_aest": "2026-02-05T16:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "World Grand Prix",
+        "contestants": [
+            {
+                "full_name": "Xiao Guodong",
+                "position": "HOME",
+                "short_name": "Guodong"
+            },
+            {
+                "full_name": "Ronnie OSullivan",
+                "position": "AWAY",
+                "short_name": "OSullivan"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Xiao Guodong",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Ronnie OSullivan",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Guodong v OSullivan",
+        "betOption": "Result",
+        "start_time": "2026-02-05T05:00:00.000Z"
+    },
+    {
+        "contestant_names": "Barry Hawkins, (1.8) VERSES Anda Zhang, (1.95)",
+        "start_time_aest": "2026-02-05T16:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "World Grand Prix",
+        "contestants": [
+            {
+                "full_name": "Barry Hawkins",
+                "position": "HOME",
+                "short_name": "Hawkins"
+            },
+            {
+                "full_name": "Anda Zhang",
+                "position": "AWAY",
+                "short_name": "ZhangA"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Barry Hawkins",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Anda Zhang",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Hawkins v ZhangA",
+        "betOption": "Result",
+        "start_time": "2026-02-05T05:00:00.000Z"
+    },
+    {
+        "contestant_names": "Pang Junxu, (2.4) VERSES Si Jiahui, (1.52)",
+        "start_time_aest": "2026-02-05T16:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "World Grand Prix",
+        "contestants": [
+            {
+                "full_name": "Pang Junxu",
+                "position": "HOME",
+                "short_name": "Junxu Pang"
+            },
+            {
+                "full_name": "Si Jiahui",
+                "position": "AWAY",
+                "short_name": "Jiahui Si"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Pang Junxu",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Si Jiahui",
+                "returnWin": 1.52
+            }
+        ],
+        "match_name": "Junxu Pang v Jiahui Si",
+        "betOption": "Result",
+        "start_time": "2026-02-05T05:00:00.000Z"
+    },
+    {
+        "contestant_names": "Chris Wakelin, (1.7) VERSES Elliot Slessor, (2.1)",
+        "start_time_aest": "2026-02-05T16:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "World Grand Prix",
+        "contestants": [
+            {
+                "full_name": "Chris Wakelin",
+                "position": "HOME",
+                "short_name": "Wakelin"
+            },
+            {
+                "full_name": "Elliot Slessor",
+                "position": "AWAY",
+                "short_name": "Slessor"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Chris Wakelin",
+                "returnWin": 1.7
+            },
+            {
+                "name": "Elliot Slessor",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Wakelin v Slessor",
+        "betOption": "Result",
+        "start_time": "2026-02-05T05:00:00.000Z"
     }
 ]
