@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Utah, (1.95) VERSES Arizona State, (1.85)",
-        "start_time_aest": "2026-02-05T13:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Utah",
-                "position": "HOME",
-                "short_name": "Utah"
-            },
-            {
-                "full_name": "Arizona State",
-                "position": "AWAY",
-                "short_name": "Arizona State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Utah",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Arizona State",
-                "returnWin": 1.85
-            }
-        ],
-        "match_name": "Utah v Arizona State",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T02:00:00.000Z"
-    },
-    {
         "contestant_names": "Utah, (1.7) VERSES Detroit, (2.1)",
         "start_time_aest": "2026-02-05T13:05:00+11:00",
         "sport_name": "Ice Hockey",
@@ -91,5 +60,98 @@
         "match_name": "Stanford v Clemson",
         "betOption": "Head To Head",
         "start_time": "2026-02-05T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Los Angeles, (1.55) VERSES Seattle, (2.4)",
+        "start_time_aest": "2026-02-05T14:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Los Angeles",
+                "position": "HOME",
+                "short_name": "Los Angeles"
+            },
+            {
+                "full_name": "Seattle",
+                "position": "AWAY",
+                "short_name": "Seattle"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Los Angeles",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Seattle",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Los Angeles v Seattle",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T03:05:00.000Z"
+    },
+    {
+        "contestant_names": "Calgary, (2.15) VERSES Edmonton, (1.68)",
+        "start_time_aest": "2026-02-05T14:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Calgary",
+                "position": "HOME",
+                "short_name": "Calgary"
+            },
+            {
+                "full_name": "Edmonton",
+                "position": "AWAY",
+                "short_name": "Edmonton"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Calgary",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Edmonton",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Calgary v Edmonton",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T03:05:00.000Z"
+    },
+    {
+        "contestant_names": "Sacramento, (1.85) VERSES Memphis, (2)",
+        "start_time_aest": "2026-02-05T14:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Sacramento",
+                "position": "HOME",
+                "short_name": "Sacramento"
+            },
+            {
+                "full_name": "Memphis",
+                "position": "AWAY",
+                "short_name": "Memphis"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sacramento",
+                "returnWin": 1.85
+            },
+            {
+                "name": "Memphis",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Sacramento v Memphis",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T03:10:00.000Z"
     }
 ]
