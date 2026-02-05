@@ -93,6 +93,37 @@
         "start_time": "2026-02-05T19:00:00.000Z"
     },
     {
+        "contestant_names": "Hapoel Tel Aviv, (1.5) VERSES Valencia, (2.5)",
+        "start_time_aest": "2026-02-06T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "EuroLeague",
+        "contestants": [
+            {
+                "full_name": "Hapoel Tel Aviv",
+                "position": "HOME",
+                "short_name": "Hapoel Tel Aviv"
+            },
+            {
+                "full_name": "Valencia",
+                "position": "AWAY",
+                "short_name": "Valencia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hapoel Tel Aviv",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Valencia",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Hapoel Tel Aviv v Valencia",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T19:00:00.000Z"
+    },
+    {
         "contestant_names": "Josh Rock, (1.68) VERSES Jonny Clayton, (2.15)",
         "start_time_aest": "2026-02-06T06:10:00+11:00",
         "sport_name": "Darts",
@@ -153,6 +184,37 @@
         "match_name": "Arka Gdynia v Zielona Gora",
         "betOption": "Head To Head",
         "start_time": "2026-02-05T19:15:00.000Z"
+    },
+    {
+        "contestant_names": "Josh Rock, (1.68) VERSES Jonny Clayton, (2.15)",
+        "start_time_aest": "2026-02-06T06:20:00+11:00",
+        "sport_name": "Darts",
+        "competition_name": "PDC Premier League Matches",
+        "contestants": [
+            {
+                "full_name": "Josh Rock",
+                "position": "HOME",
+                "short_name": "Rock Josh"
+            },
+            {
+                "full_name": "Jonny Clayton",
+                "position": "AWAY",
+                "short_name": "Clayton J"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Josh Rock",
+                "returnWin": 1.68
+            },
+            {
+                "name": "Jonny Clayton",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Rock Josh  v Clayton J",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T19:20:00.000Z"
     },
     {
         "contestant_names": "Bayern Munich, (2.25) VERSES Monaco, (1.6)",
