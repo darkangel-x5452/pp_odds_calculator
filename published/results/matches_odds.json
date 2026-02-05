@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Titouan Droguet, (1.8) VERSES Aleksandar Kovacevic, (2)",
-        "start_time_aest": "2026-02-05T23:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "contestants": [
-            {
-                "full_name": "Titouan Droguet",
-                "position": "HOME",
-                "short_name": "Droguet"
-            },
-            {
-                "full_name": "Aleksandar Kovacevic",
-                "position": "AWAY",
-                "short_name": "Kovacevic A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Titouan Droguet",
-                "returnWin": 1.8
-            },
-            {
-                "name": "Aleksandar Kovacevic",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Droguet v Kovacevic A",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T12:15:00.000Z"
-    },
-    {
-        "contestant_names": "Cyril Vandermeersch, (2.05) VERSES Enrico Dalla Valle, (1.68)",
-        "start_time_aest": "2026-02-05T23:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Cyril Vandermeersch",
-                "position": "HOME",
-                "short_name": "Vandermeersch"
-            },
-            {
-                "full_name": "Enrico Dalla Valle",
-                "position": "AWAY",
-                "short_name": "Dalla Valle"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Cyril Vandermeersch",
-                "returnWin": 2.05
-            },
-            {
-                "name": "Enrico Dalla Valle",
-                "returnWin": 1.68
-            }
-        ],
-        "match_name": "Vandermeersch v Dalla Valle",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T12:15:00.000Z"
-    },
-    {
-        "contestant_names": "Team Falcons, (1.65) VERSES Team Spirit, (2.1)",
-        "start_time_aest": "2026-02-05T23:20:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "DOTA2",
-        "contestants": [
-            {
-                "full_name": "Team Falcons",
-                "position": "HOME",
-                "short_name": "Team Falcons"
-            },
-            {
-                "full_name": "Team Spirit",
-                "position": "AWAY",
-                "short_name": "Team Spirit"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Team Falcons",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Team Spirit",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Team Falcons v Team Spirit",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T12:20:00.000Z"
-    },
-    {
         "contestant_names": "OG, (2.1) VERSES Tundra Esports, (1.65)",
         "start_time_aest": "2026-02-06T00:00:00+11:00",
         "sport_name": "Esports",
@@ -215,5 +122,129 @@
         "match_name": "Volynets v Parks",
         "betOption": "Head To Head",
         "start_time": "2026-02-05T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Tallon Griekspoor, (1.62) VERSES Pablo Carreno Busta, (2.2)",
+        "start_time_aest": "2026-02-06T00:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "contestants": [
+            {
+                "full_name": "Tallon Griekspoor",
+                "position": "HOME",
+                "short_name": "Griekspoor T"
+            },
+            {
+                "full_name": "Pablo Carreno Busta",
+                "position": "AWAY",
+                "short_name": "Carreno Busta"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tallon Griekspoor",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Pablo Carreno Busta",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Griekspoor T v Carreno Busta",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T13:30:00.000Z"
+    },
+    {
+        "contestant_names": "Jeanjean/Karamoko, (1.52) VERSES Bhamidipaty/Raina, (2.35)",
+        "start_time_aest": "2026-02-06T00:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Doubles",
+        "contestants": [
+            {
+                "full_name": "Jeanjean/Karamoko",
+                "position": "HOME",
+                "short_name": "Jeanjean/Karamoko"
+            },
+            {
+                "full_name": "Bhamidipaty/Raina",
+                "position": "AWAY",
+                "short_name": "Bhamidipaty/Raina"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jeanjean/Karamoko",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Bhamidipaty/Raina",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Jeanjean/Karamoko v Bhamidipaty/Raina",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T13:30:00.000Z"
+    },
+    {
+        "contestant_names": "United States, (1.55) VERSES Switzerland, (2.3)",
+        "start_time_aest": "2026-02-06T00:35:00+11:00",
+        "sport_name": "Winter Olympics",
+        "competition_name": "Curling - Mixed",
+        "contestants": [
+            {
+                "full_name": "United States",
+                "position": "HOME",
+                "short_name": "USA"
+            },
+            {
+                "full_name": "Switzerland",
+                "position": "AWAY",
+                "short_name": "Switzerland"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "United States",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Switzerland",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "USA v Switzerland",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T13:35:00.000Z"
+    },
+    {
+        "contestant_names": "Norway, (2.5) VERSES Canada, (1.5)",
+        "start_time_aest": "2026-02-06T00:35:00+11:00",
+        "sport_name": "Winter Olympics",
+        "competition_name": "Curling - Mixed",
+        "contestants": [
+            {
+                "full_name": "Norway",
+                "position": "HOME",
+                "short_name": "Norway"
+            },
+            {
+                "full_name": "Canada",
+                "position": "AWAY",
+                "short_name": "Canada"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Norway",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Canada",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Norway v Canada",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T13:35:00.000Z"
     }
 ]
