@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Team Liquid, (1.52) VERSES Heroic, (2.35)",
-        "start_time_aest": "2026-02-06T04:30:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "DOTA2",
-        "contestants": [
-            {
-                "full_name": "Team Liquid",
-                "position": "HOME",
-                "short_name": "Team Liquid"
-            },
-            {
-                "full_name": "Heroic",
-                "position": "AWAY",
-                "short_name": "Heroic"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Team Liquid",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Heroic",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Team Liquid v Heroic",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T17:30:00.000Z"
-    },
-    {
-        "contestant_names": "Diane Parry, (2.5) VERSES Nikola Bartunkova, (1.5)",
-        "start_time_aest": "2026-02-06T04:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestants": [
-            {
-                "full_name": "Diane Parry",
-                "position": "HOME",
-                "short_name": "Parry"
-            },
-            {
-                "full_name": "Nikola Bartunkova",
-                "position": "AWAY",
-                "short_name": "Bartunkova N"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Diane Parry",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Nikola Bartunkova",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Parry v Bartunkova N",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T17:30:00.000Z"
-    },
-    {
         "contestant_names": "Trutnov, (1.7) VERSES Lev Chomutov, (2)",
         "start_time_aest": "2026-02-06T05:00:00+11:00",
         "sport_name": "Basketball",
@@ -89,6 +27,68 @@
             }
         ],
         "match_name": "Trutnov v Lev Chomutov",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Holbaek-stenhus, (1.72) VERSES Herlev, (2)",
+        "start_time_aest": "2026-02-06T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Denmark Basketligaen",
+        "contestants": [
+            {
+                "full_name": "Holbaek-stenhus",
+                "position": "HOME",
+                "short_name": "Holbaek-stenhus"
+            },
+            {
+                "full_name": "Herlev",
+                "position": "AWAY",
+                "short_name": "Herlev"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Holbaek-stenhus",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Herlev",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Holbaek-stenhus v Herlev",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Xtreme Gaming, (1.75) VERSES Natus Vincere, (1.95)",
+        "start_time_aest": "2026-02-06T05:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "contestants": [
+            {
+                "full_name": "Xtreme Gaming",
+                "position": "HOME",
+                "short_name": "Xtreme Gaming"
+            },
+            {
+                "full_name": "Natus Vincere",
+                "position": "AWAY",
+                "short_name": "Natus Vincere"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Xtreme Gaming",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Natus Vincere",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Xtreme Gaming v Natus Vincere",
         "betOption": "Head To Head",
         "start_time": "2026-02-05T18:00:00.000Z"
     },
@@ -153,5 +153,36 @@
         "match_name": "Yuan Y v Snigur",
         "betOption": "Head To Head",
         "start_time": "2026-02-05T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Est Movistar, (2.4) VERSES Villeneuve dAscq, (1.5)",
+        "start_time_aest": "2026-02-06T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "EuroCup Women",
+        "contestants": [
+            {
+                "full_name": "Est Movistar",
+                "position": "HOME",
+                "short_name": "Est Movistar"
+            },
+            {
+                "full_name": "Villeneuve dAscq",
+                "position": "AWAY",
+                "short_name": "Villeneuve dAscq"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Est Movistar",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Villeneuve dAscq",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Est Movistar v Villeneuve dAscq",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T19:00:00.000Z"
     }
 ]
