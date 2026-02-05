@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Rio Claro, (2.4) VERSES UniaoCorinthians, (1.48)",
-        "start_time_aest": "2026-02-06T10:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Brazil NBB",
-        "contestants": [
-            {
-                "full_name": "Rio Claro",
-                "position": "HOME",
-                "short_name": "Rio Claro"
-            },
-            {
-                "full_name": "UniaoCorinthians",
-                "position": "AWAY",
-                "short_name": "UniaoCorinthians"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Rio Claro",
-                "returnWin": 2.4
-            },
-            {
-                "name": "UniaoCorinthians",
-                "returnWin": 1.48
-            }
-        ],
-        "match_name": "Rio Claro v UniaoCorinthians",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T23:00:00.000Z"
-    },
-    {
         "contestant_names": "San Lorenzo, (1.48) VERSES Atenas Cordoba, (2.4)",
         "start_time_aest": "2026-02-06T10:30:00+11:00",
         "sport_name": "Basketball",
@@ -120,6 +89,68 @@
             }
         ],
         "match_name": "Eastern Kentucky v Florida Gulf Cst",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Sacred Heart, (1.8) VERSES Fairfield, (2)",
+        "start_time_aest": "2026-02-06T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Sacred Heart",
+                "position": "HOME",
+                "short_name": "Sacred Heart"
+            },
+            {
+                "full_name": "Fairfield",
+                "position": "AWAY",
+                "short_name": "Fairfield"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sacred Heart",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Fairfield",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Sacred Heart v Fairfield",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Hampton, (2.05) VERSES Elon, (1.77)",
+        "start_time_aest": "2026-02-06T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Hampton",
+                "position": "HOME",
+                "short_name": "Hampton"
+            },
+            {
+                "full_name": "Elon",
+                "position": "AWAY",
+                "short_name": "Elon"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hampton",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Elon",
+                "returnWin": 1.77
+            }
+        ],
+        "match_name": "Hampton v Elon",
         "betOption": "Head To Head",
         "start_time": "2026-02-06T00:00:00.000Z"
     }
