@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Luke Humphries, (1.55) VERSES Michael van Gerwen, (2.4)",
-        "start_time_aest": "2026-02-06T08:45:00+11:00",
-        "sport_name": "Darts",
-        "competition_name": "PDC Premier League Matches",
-        "contestants": [
-            {
-                "full_name": "Luke Humphries",
-                "position": "HOME",
-                "short_name": "Humphries Luke"
-            },
-            {
-                "full_name": "Michael van Gerwen",
-                "position": "AWAY",
-                "short_name": "Van Gerwen"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Luke Humphries",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Michael van Gerwen",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Humphries Luke  v Van Gerwen",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T21:45:00.000Z"
-    },
-    {
-        "contestant_names": "Batavo Mackenzie (W), (1.65) VERSES Barueri Volei (W), (2.1)",
-        "start_time_aest": "2026-02-06T09:00:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Brazil Superliga Women",
-        "contestants": [
-            {
-                "full_name": "Batavo Mackenzie (W)",
-                "position": "HOME",
-                "short_name": "B Mackenzie (W)"
-            },
-            {
-                "full_name": "Barueri Volei (W)",
-                "position": "AWAY",
-                "short_name": "Barueri (W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Batavo Mackenzie (W)",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Barueri Volei (W)",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "B Mackenzie (W) v Barueri (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T22:00:00.000Z"
-    },
-    {
         "contestant_names": "Rio Claro, (2.4) VERSES UniaoCorinthians, (1.48)",
         "start_time_aest": "2026-02-06T10:00:00+11:00",
         "sport_name": "Basketball",
@@ -122,5 +60,67 @@
         "match_name": "San Lorenzo v Atenas Cordoba",
         "betOption": "Head To Head",
         "start_time": "2026-02-05T23:30:00.000Z"
+    },
+    {
+        "contestant_names": "Stony Brook, (1.67) VERSES Monmouth, (2.2)",
+        "start_time_aest": "2026-02-06T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Stony Brook",
+                "position": "HOME",
+                "short_name": "Stony Brook"
+            },
+            {
+                "full_name": "Monmouth",
+                "position": "AWAY",
+                "short_name": "Monmouth"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Stony Brook",
+                "returnWin": 1.67
+            },
+            {
+                "name": "Monmouth",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Stony Brook v Monmouth",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Eastern Kentucky, (1.74) VERSES Florida Gulf Cst, (2.1)",
+        "start_time_aest": "2026-02-06T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Eastern Kentucky",
+                "position": "HOME",
+                "short_name": "Eastern Kentucky"
+            },
+            {
+                "full_name": "Florida Gulf Cst",
+                "position": "AWAY",
+                "short_name": "Florida Gulf Cst"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Eastern Kentucky",
+                "returnWin": 1.74
+            },
+            {
+                "name": "Florida Gulf Cst",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Eastern Kentucky v Florida Gulf Cst",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T00:00:00.000Z"
     }
 ]
