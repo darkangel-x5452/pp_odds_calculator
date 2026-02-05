@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "San Lorenzo, (1.48) VERSES Atenas Cordoba, (2.4)",
-        "start_time_aest": "2026-02-06T10:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga Nacional de Basket",
-        "contestants": [
-            {
-                "full_name": "San Lorenzo",
-                "position": "HOME",
-                "short_name": "San Lorenzo"
-            },
-            {
-                "full_name": "Atenas Cordoba",
-                "position": "AWAY",
-                "short_name": "Atenas Cordoba"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "San Lorenzo",
-                "returnWin": 1.48
-            },
-            {
-                "name": "Atenas Cordoba",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "San Lorenzo v Atenas Cordoba",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T23:30:00.000Z"
-    },
-    {
         "contestant_names": "Stony Brook, (1.67) VERSES Monmouth, (2.2)",
         "start_time_aest": "2026-02-06T11:00:00+11:00",
         "sport_name": "Basketball",
@@ -153,5 +122,160 @@
         "match_name": "Hampton v Elon",
         "betOption": "Head To Head",
         "start_time": "2026-02-06T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Campbell, (1.53) VERSES Drexel, (2.5)",
+        "start_time_aest": "2026-02-06T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Campbell",
+                "position": "HOME",
+                "short_name": "Campbell"
+            },
+            {
+                "full_name": "Drexel",
+                "position": "AWAY",
+                "short_name": "Drexel"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Campbell",
+                "returnWin": 1.53
+            },
+            {
+                "name": "Drexel",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Campbell v Drexel",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Iowa, (1.52) VERSES Minnesota, (2.45)",
+        "start_time_aest": "2026-02-06T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Iowa",
+                "position": "HOME",
+                "short_name": "Iowa"
+            },
+            {
+                "full_name": "Minnesota",
+                "position": "AWAY",
+                "short_name": "Minnesota"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Iowa",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Minnesota",
+                "returnWin": 2.45
+            }
+        ],
+        "match_name": "Iowa v Minnesota",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Kentucky, (2.05) VERSES Vanderbilt, (1.72)",
+        "start_time_aest": "2026-02-06T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Kentucky",
+                "position": "HOME",
+                "short_name": "Kentucky"
+            },
+            {
+                "full_name": "Vanderbilt",
+                "position": "AWAY",
+                "short_name": "Vanderbilt"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Kentucky",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Vanderbilt",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "Kentucky v Vanderbilt",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Louisville, (1.6) VERSES Duke, (2.25)",
+        "start_time_aest": "2026-02-06T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Louisville",
+                "position": "HOME",
+                "short_name": "Louisville"
+            },
+            {
+                "full_name": "Duke",
+                "position": "AWAY",
+                "short_name": "Duke"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Louisville",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Duke",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Louisville v Duke",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Buffalo, (1.8) VERSES Pittsburgh, (2)",
+        "start_time_aest": "2026-02-06T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Buffalo",
+                "position": "HOME",
+                "short_name": "Buffalo"
+            },
+            {
+                "full_name": "Pittsburgh",
+                "position": "AWAY",
+                "short_name": "Pittsburgh"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Buffalo",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Pittsburgh",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Buffalo v Pittsburgh",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T00:05:00.000Z"
     }
 ]
