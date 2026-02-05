@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Norway, (2.3) VERSES United States, (1.55)",
-        "start_time_aest": "2026-02-05T20:05:00+11:00",
-        "sport_name": "Winter Olympics",
-        "competition_name": "Curling - Mixed",
-        "contestants": [
-            {
-                "full_name": "Norway",
-                "position": "HOME",
-                "short_name": "Norway"
-            },
-            {
-                "full_name": "United States",
-                "position": "AWAY",
-                "short_name": "USA"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Norway",
-                "returnWin": 2.3
-            },
-            {
-                "name": "United States",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Norway v USA",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T09:05:00.000Z"
-    },
-    {
-        "contestant_names": "Clara Tauson, (1.52) VERSES McCartney Kessler, (2.4)",
-        "start_time_aest": "2026-02-05T20:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestants": [
-            {
-                "full_name": "Clara Tauson",
-                "position": "HOME",
-                "short_name": "Tauson C"
-            },
-            {
-                "full_name": "McCartney Kessler",
-                "position": "AWAY",
-                "short_name": "Kessler"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Clara Tauson",
-                "returnWin": 1.52
-            },
-            {
-                "name": "McCartney Kessler",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Tauson C v Kessler",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T09:15:00.000Z"
-    },
-    {
         "contestant_names": "Team Liquid, (2.05) VERSES Team Yandex, (1.68)",
         "start_time_aest": "2026-02-05T21:00:00+11:00",
         "sport_name": "Esports",
@@ -151,6 +89,161 @@
             }
         ],
         "match_name": "Natus Vincere v Gamerlegion",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Allister Carter, (1.58) VERSES Yuan Sijun, (2.3)",
+        "start_time_aest": "2026-02-05T22:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "World Grand Prix",
+        "contestants": [
+            {
+                "full_name": "Allister Carter",
+                "position": "HOME",
+                "short_name": "Carter"
+            },
+            {
+                "full_name": "Yuan Sijun",
+                "position": "AWAY",
+                "short_name": "Sijun"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Allister Carter",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Yuan Sijun",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Carter v Sijun",
+        "betOption": "Result",
+        "start_time": "2026-02-05T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Jak Jones, (2.1) VERSES Zhou Yuelong, (1.7)",
+        "start_time_aest": "2026-02-05T22:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "World Grand Prix",
+        "contestants": [
+            {
+                "full_name": "Jak Jones",
+                "position": "HOME",
+                "short_name": "Jones"
+            },
+            {
+                "full_name": "Zhou Yuelong",
+                "position": "AWAY",
+                "short_name": "Yuelong"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jak Jones",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Zhou Yuelong",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "Jones v Yuelong",
+        "betOption": "Result",
+        "start_time": "2026-02-05T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Zhao Xintong, (2.15) VERSES Mark Selby, (1.65)",
+        "start_time_aest": "2026-02-05T22:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "World Grand Prix",
+        "contestants": [
+            {
+                "full_name": "Zhao Xintong",
+                "position": "HOME",
+                "short_name": "Xintong"
+            },
+            {
+                "full_name": "Mark Selby",
+                "position": "AWAY",
+                "short_name": "Selby"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Zhao Xintong",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Mark Selby",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Xintong v Selby",
+        "betOption": "Result",
+        "start_time": "2026-02-05T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Wu Yize, (1.48) VERSES Chang Bingyu, (2.5)",
+        "start_time_aest": "2026-02-05T22:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "World Grand Prix",
+        "contestants": [
+            {
+                "full_name": "Wu Yize",
+                "position": "HOME",
+                "short_name": "Yize"
+            },
+            {
+                "full_name": "Chang Bingyu",
+                "position": "AWAY",
+                "short_name": "Bingyu"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Wu Yize",
+                "returnWin": 1.48
+            },
+            {
+                "name": "Chang Bingyu",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Yize v Bingyu",
+        "betOption": "Result",
+        "start_time": "2026-02-05T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Tom Gentzsch, (1.72) VERSES Martin Krumich, (2)",
+        "start_time_aest": "2026-02-05T22:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Tom Gentzsch",
+                "position": "HOME",
+                "short_name": "Gentzsch"
+            },
+            {
+                "full_name": "Martin Krumich",
+                "position": "AWAY",
+                "short_name": "Krumich"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tom Gentzsch",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Martin Krumich",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Gentzsch v Krumich",
         "betOption": "Head To Head",
         "start_time": "2026-02-05T11:00:00.000Z"
     }
