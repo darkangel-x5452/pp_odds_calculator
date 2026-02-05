@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Los Angeles, (1.55) VERSES Seattle, (2.4)",
-        "start_time_aest": "2026-02-05T14:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Los Angeles",
-                "position": "HOME",
-                "short_name": "Los Angeles"
-            },
-            {
-                "full_name": "Seattle",
-                "position": "AWAY",
-                "short_name": "Seattle"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Los Angeles",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Seattle",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Los Angeles v Seattle",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T03:05:00.000Z"
-    },
-    {
-        "contestant_names": "Calgary, (2.15) VERSES Edmonton, (1.68)",
-        "start_time_aest": "2026-02-05T14:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Calgary",
-                "position": "HOME",
-                "short_name": "Calgary"
-            },
-            {
-                "full_name": "Edmonton",
-                "position": "AWAY",
-                "short_name": "Edmonton"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Calgary",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Edmonton",
-                "returnWin": 1.68
-            }
-        ],
-        "match_name": "Calgary v Edmonton",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T03:05:00.000Z"
-    },
-    {
-        "contestant_names": "Sacramento, (1.85) VERSES Memphis, (2)",
-        "start_time_aest": "2026-02-05T14:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Sacramento",
-                "position": "HOME",
-                "short_name": "Sacramento"
-            },
-            {
-                "full_name": "Memphis",
-                "position": "AWAY",
-                "short_name": "Memphis"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sacramento",
-                "returnWin": 1.85
-            },
-            {
-                "name": "Memphis",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Sacramento v Memphis",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T03:10:00.000Z"
-    },
-    {
         "contestant_names": "LA Clippers, (2.25) VERSES Cleveland, (1.67)",
         "start_time_aest": "2026-02-05T14:40:00+11:00",
         "sport_name": "Basketball",
@@ -339,5 +246,129 @@
         "match_name": "Wakelin v Slessor",
         "betOption": "Result",
         "start_time": "2026-02-05T05:00:00.000Z"
+    },
+    {
+        "contestant_names": "Fajing Sun, (2) VERSES Blake Ellis, (1.72)",
+        "start_time_aest": "2026-02-05T17:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Fajing Sun",
+                "position": "HOME",
+                "short_name": "Sun F"
+            },
+            {
+                "full_name": "Blake Ellis",
+                "position": "AWAY",
+                "short_name": "Ellis B"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Fajing Sun",
+                "returnWin": 2
+            },
+            {
+                "name": "Blake Ellis",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "Sun F v Ellis B",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T06:00:00.000Z"
+    },
+    {
+        "contestant_names": "Karuma Rapids, (2.15) VERSES Bujjagali Rafters, (1.68)",
+        "start_time_aest": "2026-02-05T18:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Waterfalls Elite League T20",
+        "contestants": [
+            {
+                "full_name": "Karuma Rapids",
+                "position": "HOME",
+                "short_name": "Karuma Rapids"
+            },
+            {
+                "full_name": "Bujjagali Rafters",
+                "position": "AWAY",
+                "short_name": "Bujjagali Rafter"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Karuma Rapids",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Bujjagali Rafters",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Karuma Rapids v Bujjagali Rafter",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Illawarra, (2.2) VERSES Adelaide, (1.67)",
+        "start_time_aest": "2026-02-05T19:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBL",
+        "contestants": [
+            {
+                "full_name": "Illawarra",
+                "position": "HOME",
+                "short_name": "Illawarra"
+            },
+            {
+                "full_name": "Adelaide",
+                "position": "AWAY",
+                "short_name": "Adelaide"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Illawarra",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Adelaide",
+                "returnWin": 1.67
+            }
+        ],
+        "match_name": "Illawarra v Adelaide",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T08:30:00.000Z"
+    },
+    {
+        "contestant_names": "Fangran Tian, (2.35) VERSES Hanne Vandewinkel, (1.52)",
+        "start_time_aest": "2026-02-05T19:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Tour",
+        "contestants": [
+            {
+                "full_name": "Fangran Tian",
+                "position": "HOME",
+                "short_name": "Tian F"
+            },
+            {
+                "full_name": "Hanne Vandewinkel",
+                "position": "AWAY",
+                "short_name": "Vandewinkel"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Fangran Tian",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Hanne Vandewinkel",
+                "returnWin": 1.52
+            }
+        ],
+        "match_name": "Tian F v Vandewinkel",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T08:30:00.000Z"
     }
 ]
