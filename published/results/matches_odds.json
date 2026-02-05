@@ -248,6 +248,37 @@
         "start_time": "2026-02-05T08:30:00.000Z"
     },
     {
+        "contestant_names": "Illawarra, (2.2) VERSES Adelaide, (1.67)",
+        "start_time_aest": "2026-02-05T19:37:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBL",
+        "contestants": [
+            {
+                "full_name": "Illawarra",
+                "position": "HOME",
+                "short_name": "Illawarra"
+            },
+            {
+                "full_name": "Adelaide",
+                "position": "AWAY",
+                "short_name": "Adelaide"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Illawarra",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Adelaide",
+                "returnWin": 1.67
+            }
+        ],
+        "match_name": "Illawarra v Adelaide",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T08:37:00.000Z"
+    },
+    {
         "contestant_names": "Team Falcons, (1.46) VERSES MOUZ, (2.5)",
         "start_time_aest": "2026-02-05T20:00:00+11:00",
         "sport_name": "Esports",
@@ -275,6 +306,37 @@
             }
         ],
         "match_name": "Team Falcons v MOUZ",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Clara Tauson, (1.6) VERSES McCartney Kessler, (2.25)",
+        "start_time_aest": "2026-02-05T20:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Clara Tauson",
+                "position": "HOME",
+                "short_name": "Tauson C"
+            },
+            {
+                "full_name": "McCartney Kessler",
+                "position": "AWAY",
+                "short_name": "Kessler"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Clara Tauson",
+                "returnWin": 1.6
+            },
+            {
+                "name": "McCartney Kessler",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Tauson C v Kessler",
         "betOption": "Head To Head",
         "start_time": "2026-02-05T09:00:00.000Z"
     }
