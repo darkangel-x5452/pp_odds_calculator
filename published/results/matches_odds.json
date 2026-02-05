@@ -1,129 +1,5 @@
 [
     {
-        "contestant_names": "Super Kings, (1.8) VERSES Rammbros CC, (2)",
-        "start_time_aest": "2026-02-06T06:45:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Falcons Champions Trophy T20",
-        "contestants": [
-            {
-                "full_name": "Super Kings",
-                "position": "HOME",
-                "short_name": "Super Kings"
-            },
-            {
-                "full_name": "Rammbros CC",
-                "position": "AWAY",
-                "short_name": "Rammbros Cc"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Super Kings",
-                "returnWin": 1.8
-            },
-            {
-                "name": "Rammbros CC",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Super Kings v Rammbros Cc",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T19:45:00.000Z"
-    },
-    {
-        "contestant_names": "Strasbourg, (1.75) VERSES AS Monaco, (2)",
-        "start_time_aest": "2026-02-06T07:00:00+11:00",
-        "sport_name": "Soccer",
-        "competition_name": "France Cup",
-        "contestants": [
-            {
-                "full_name": "Strasbourg",
-                "position": "HOME",
-                "short_name": "Strasbourg"
-            },
-            {
-                "full_name": "AS Monaco",
-                "position": "AWAY",
-                "short_name": "AS Monaco"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Strasbourg",
-                "returnWin": 1.75
-            },
-            {
-                "name": "AS Monaco",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Strasbourg v AS Monaco",
-        "betOption": "Winner of Tie",
-        "start_time": "2026-02-05T20:00:00.000Z"
-    },
-    {
-        "contestant_names": "Atalanta, (2.05) VERSES Juventus, (1.72)",
-        "start_time_aest": "2026-02-06T07:00:00+11:00",
-        "sport_name": "Soccer",
-        "competition_name": "Italy Cup",
-        "contestants": [
-            {
-                "full_name": "Atalanta",
-                "position": "HOME",
-                "short_name": "Atalanta"
-            },
-            {
-                "full_name": "Juventus",
-                "position": "AWAY",
-                "short_name": "Juventus"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Atalanta",
-                "returnWin": 2.05
-            },
-            {
-                "name": "Juventus",
-                "returnWin": 1.72
-            }
-        ],
-        "match_name": "Atalanta v Juventus",
-        "betOption": "Winner of Tie",
-        "start_time": "2026-02-05T20:00:00.000Z"
-    },
-    {
-        "contestant_names": "Real Betis, (2.3) VERSES Atletico Madrid, (1.58)",
-        "start_time_aest": "2026-02-06T07:00:00+11:00",
-        "sport_name": "Soccer",
-        "competition_name": "Spain Cup",
-        "contestants": [
-            {
-                "full_name": "Real Betis",
-                "position": "HOME",
-                "short_name": "Real Betis"
-            },
-            {
-                "full_name": "Atletico Madrid",
-                "position": "AWAY",
-                "short_name": "Atletico Madrid"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Real Betis",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Atletico Madrid",
-                "returnWin": 1.58
-            }
-        ],
-        "match_name": "Real Betis v Atletico Madrid",
-        "betOption": "Winner of Tie",
-        "start_time": "2026-02-05T20:00:00.000Z"
-    },
-    {
         "contestant_names": "Luke Humphries, (1.6) VERSES Gerwyn Price, (2.3)",
         "start_time_aest": "2026-02-06T07:20:00+11:00",
         "sport_name": "Darts",
@@ -184,5 +60,67 @@
         "match_name": "Bunting v Van Gerwen",
         "betOption": "Head To Head",
         "start_time": "2026-02-05T20:50:00.000Z"
+    },
+    {
+        "contestant_names": "Batavo Mackenzie (W), (1.65) VERSES Barueri Volei (W), (2.1)",
+        "start_time_aest": "2026-02-06T09:00:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "Brazil Superliga Women",
+        "contestants": [
+            {
+                "full_name": "Batavo Mackenzie (W)",
+                "position": "HOME",
+                "short_name": "B Mackenzie (W)"
+            },
+            {
+                "full_name": "Barueri Volei (W)",
+                "position": "AWAY",
+                "short_name": "Barueri (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Batavo Mackenzie (W)",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Barueri Volei (W)",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "B Mackenzie (W) v Barueri (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T22:00:00.000Z"
+    },
+    {
+        "contestant_names": "Rio Claro, (2.4) VERSES UniaoCorinthians, (1.48)",
+        "start_time_aest": "2026-02-06T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Brazil NBB",
+        "contestants": [
+            {
+                "full_name": "Rio Claro",
+                "position": "HOME",
+                "short_name": "Rio Claro"
+            },
+            {
+                "full_name": "UniaoCorinthians",
+                "position": "AWAY",
+                "short_name": "UniaoCorinthians"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Rio Claro",
+                "returnWin": 2.4
+            },
+            {
+                "name": "UniaoCorinthians",
+                "returnWin": 1.48
+            }
+        ],
+        "match_name": "Rio Claro v UniaoCorinthians",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T23:00:00.000Z"
     }
 ]
