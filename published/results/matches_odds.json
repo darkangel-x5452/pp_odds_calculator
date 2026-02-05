@@ -1,129 +1,5 @@
 [
     {
-        "contestant_names": "Xtreme Gaming, (1.75) VERSES Natus Vincere, (1.95)",
-        "start_time_aest": "2026-02-06T05:40:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "DOTA2",
-        "contestants": [
-            {
-                "full_name": "Xtreme Gaming",
-                "position": "HOME",
-                "short_name": "Xtreme Gaming"
-            },
-            {
-                "full_name": "Natus Vincere",
-                "position": "AWAY",
-                "short_name": "Natus Vincere"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Xtreme Gaming",
-                "returnWin": 1.75
-            },
-            {
-                "name": "Natus Vincere",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Xtreme Gaming v Natus Vincere",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T18:40:00.000Z"
-    },
-    {
-        "contestant_names": "Est Movistar, (2.4) VERSES Villeneuve dAscq, (1.5)",
-        "start_time_aest": "2026-02-06T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "EuroCup Women",
-        "contestants": [
-            {
-                "full_name": "Est Movistar",
-                "position": "HOME",
-                "short_name": "Est Movistar"
-            },
-            {
-                "full_name": "Villeneuve dAscq",
-                "position": "AWAY",
-                "short_name": "Villeneuve dAscq"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Est Movistar",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Villeneuve dAscq",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Est Movistar v Villeneuve dAscq",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Zaragoza, (1.55) VERSES Socar Petkim Spo, (2.25)",
-        "start_time_aest": "2026-02-06T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "FIBA Europe Cup",
-        "contestants": [
-            {
-                "full_name": "Zaragoza",
-                "position": "HOME",
-                "short_name": "Zaragoza"
-            },
-            {
-                "full_name": "Socar Petkim Spo",
-                "position": "AWAY",
-                "short_name": "Socar Petkim Spo"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Zaragoza",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Socar Petkim Spo",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Zaragoza v Socar Petkim Spo",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Hapoel Tel Aviv, (1.5) VERSES Valencia, (2.5)",
-        "start_time_aest": "2026-02-06T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "EuroLeague",
-        "contestants": [
-            {
-                "full_name": "Hapoel Tel Aviv",
-                "position": "HOME",
-                "short_name": "Hapoel Tel Aviv"
-            },
-            {
-                "full_name": "Valencia",
-                "position": "AWAY",
-                "short_name": "Valencia"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Hapoel Tel Aviv",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Valencia",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Hapoel Tel Aviv v Valencia",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T19:00:00.000Z"
-    },
-    {
         "contestant_names": "Josh Rock, (1.68) VERSES Jonny Clayton, (2.15)",
         "start_time_aest": "2026-02-06T06:10:00+11:00",
         "sport_name": "Darts",
@@ -246,5 +122,98 @@
         "match_name": "Bayern Munich v Monaco",
         "betOption": "Head To Head",
         "start_time": "2026-02-05T19:30:00.000Z"
+    },
+    {
+        "contestant_names": "Strasbourg, (1.75) VERSES AS Monaco, (2)",
+        "start_time_aest": "2026-02-06T07:00:00+11:00",
+        "sport_name": "Soccer",
+        "competition_name": "France Cup",
+        "contestants": [
+            {
+                "full_name": "Strasbourg",
+                "position": "HOME",
+                "short_name": "Strasbourg"
+            },
+            {
+                "full_name": "AS Monaco",
+                "position": "AWAY",
+                "short_name": "AS Monaco"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Strasbourg",
+                "returnWin": 1.75
+            },
+            {
+                "name": "AS Monaco",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Strasbourg v AS Monaco",
+        "betOption": "Winner of Tie",
+        "start_time": "2026-02-05T20:00:00.000Z"
+    },
+    {
+        "contestant_names": "Atalanta, (2.05) VERSES Juventus, (1.72)",
+        "start_time_aest": "2026-02-06T07:00:00+11:00",
+        "sport_name": "Soccer",
+        "competition_name": "Italy Cup",
+        "contestants": [
+            {
+                "full_name": "Atalanta",
+                "position": "HOME",
+                "short_name": "Atalanta"
+            },
+            {
+                "full_name": "Juventus",
+                "position": "AWAY",
+                "short_name": "Juventus"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Atalanta",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Juventus",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "Atalanta v Juventus",
+        "betOption": "Winner of Tie",
+        "start_time": "2026-02-05T20:00:00.000Z"
+    },
+    {
+        "contestant_names": "Real Betis, (2.3) VERSES Atletico Madrid, (1.58)",
+        "start_time_aest": "2026-02-06T07:00:00+11:00",
+        "sport_name": "Soccer",
+        "competition_name": "Spain Cup",
+        "contestants": [
+            {
+                "full_name": "Real Betis",
+                "position": "HOME",
+                "short_name": "Real Betis"
+            },
+            {
+                "full_name": "Atletico Madrid",
+                "position": "AWAY",
+                "short_name": "Atletico Madrid"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Real Betis",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Atletico Madrid",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Real Betis v Atletico Madrid",
+        "betOption": "Winner of Tie",
+        "start_time": "2026-02-05T20:00:00.000Z"
     }
 ]
