@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Utah, (1.7) VERSES Detroit, (2.1)",
-        "start_time_aest": "2026-02-05T13:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Utah",
-                "position": "HOME",
-                "short_name": "Utah"
-            },
-            {
-                "full_name": "Detroit",
-                "position": "AWAY",
-                "short_name": "Detroit"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Utah",
-                "returnWin": 1.7
-            },
-            {
-                "name": "Detroit",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Utah v Detroit",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T02:05:00.000Z"
-    },
-    {
         "contestant_names": "Stanford, (2.45) VERSES Clemson, (1.55)",
         "start_time_aest": "2026-02-05T14:00:00+11:00",
         "sport_name": "Basketball",
@@ -153,5 +122,67 @@
         "match_name": "Sacramento v Memphis",
         "betOption": "Head To Head",
         "start_time": "2026-02-05T03:10:00.000Z"
+    },
+    {
+        "contestant_names": "LA Clippers, (2.25) VERSES Cleveland, (1.67)",
+        "start_time_aest": "2026-02-05T14:40:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "LA Clippers",
+                "position": "HOME",
+                "short_name": "LA Clippers"
+            },
+            {
+                "full_name": "Cleveland",
+                "position": "AWAY",
+                "short_name": "Cleveland"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "LA Clippers",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Cleveland",
+                "returnWin": 1.67
+            }
+        ],
+        "match_name": "LA Clippers v Cleveland",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T03:40:00.000Z"
+    },
+    {
+        "contestant_names": "New Mexico, (1.8) VERSES Utah State, (2)",
+        "start_time_aest": "2026-02-05T15:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "New Mexico",
+                "position": "HOME",
+                "short_name": "New Mexico"
+            },
+            {
+                "full_name": "Utah State",
+                "position": "AWAY",
+                "short_name": "Utah State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "New Mexico",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Utah State",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "New Mexico v Utah State",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T04:00:00.000Z"
     }
 ]
