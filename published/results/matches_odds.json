@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Karuma Rapids, (2.15) VERSES Bujjagali Rafters, (1.68)",
-        "start_time_aest": "2026-02-05T18:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Waterfalls Elite League T20",
-        "contestants": [
-            {
-                "full_name": "Karuma Rapids",
-                "position": "HOME",
-                "short_name": "Karuma Rapids"
-            },
-            {
-                "full_name": "Bujjagali Rafters",
-                "position": "AWAY",
-                "short_name": "Bujjagali Rafter"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Karuma Rapids",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Bujjagali Rafters",
-                "returnWin": 1.68
-            }
-        ],
-        "match_name": "Karuma Rapids v Bujjagali Rafter",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-05T07:00:00.000Z"
-    },
-    {
         "contestant_names": "Illawarra, (2.2) VERSES Adelaide, (1.67)",
         "start_time_aest": "2026-02-05T19:30:00+11:00",
         "sport_name": "Basketball",
@@ -184,6 +153,37 @@
         "match_name": "Tauson C v Kessler",
         "betOption": "Head To Head",
         "start_time": "2026-02-05T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Norway, (2.3) VERSES United States, (1.55)",
+        "start_time_aest": "2026-02-05T20:05:00+11:00",
+        "sport_name": "Winter Olympics",
+        "competition_name": "Curling - Mixed",
+        "contestants": [
+            {
+                "full_name": "Norway",
+                "position": "HOME",
+                "short_name": "Norway"
+            },
+            {
+                "full_name": "United States",
+                "position": "AWAY",
+                "short_name": "USA"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Norway",
+                "returnWin": 2.3
+            },
+            {
+                "name": "United States",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Norway v USA",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T09:05:00.000Z"
     },
     {
         "contestant_names": "Team Liquid, (2.05) VERSES Team Yandex, (1.68)",
