@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Xiao Guodong, (2.3) VERSES Ronnie OSullivan, (1.58)",
-        "start_time_aest": "2026-02-05T16:00:00+11:00",
+        "start_time_aest": "2026-02-05T16:03:00+11:00",
         "sport_name": "Snooker",
         "competition_name": "World Grand Prix",
         "contestants": [
@@ -28,100 +28,7 @@
         ],
         "match_name": "Guodong v OSullivan",
         "betOption": "Result",
-        "start_time": "2026-02-05T05:00:00.000Z"
-    },
-    {
-        "contestant_names": "Barry Hawkins, (1.8) VERSES Anda Zhang, (1.95)",
-        "start_time_aest": "2026-02-05T16:00:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "World Grand Prix",
-        "contestants": [
-            {
-                "full_name": "Barry Hawkins",
-                "position": "HOME",
-                "short_name": "Hawkins"
-            },
-            {
-                "full_name": "Anda Zhang",
-                "position": "AWAY",
-                "short_name": "ZhangA"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Barry Hawkins",
-                "returnWin": 1.8
-            },
-            {
-                "name": "Anda Zhang",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Hawkins v ZhangA",
-        "betOption": "Result",
-        "start_time": "2026-02-05T05:00:00.000Z"
-    },
-    {
-        "contestant_names": "Pang Junxu, (2.4) VERSES Si Jiahui, (1.52)",
-        "start_time_aest": "2026-02-05T16:00:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "World Grand Prix",
-        "contestants": [
-            {
-                "full_name": "Pang Junxu",
-                "position": "HOME",
-                "short_name": "Junxu Pang"
-            },
-            {
-                "full_name": "Si Jiahui",
-                "position": "AWAY",
-                "short_name": "Jiahui Si"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Pang Junxu",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Si Jiahui",
-                "returnWin": 1.52
-            }
-        ],
-        "match_name": "Junxu Pang v Jiahui Si",
-        "betOption": "Result",
-        "start_time": "2026-02-05T05:00:00.000Z"
-    },
-    {
-        "contestant_names": "Chris Wakelin, (1.7) VERSES Elliot Slessor, (2.1)",
-        "start_time_aest": "2026-02-05T16:00:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "World Grand Prix",
-        "contestants": [
-            {
-                "full_name": "Chris Wakelin",
-                "position": "HOME",
-                "short_name": "Wakelin"
-            },
-            {
-                "full_name": "Elliot Slessor",
-                "position": "AWAY",
-                "short_name": "Slessor"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Chris Wakelin",
-                "returnWin": 1.7
-            },
-            {
-                "name": "Elliot Slessor",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Wakelin v Slessor",
-        "betOption": "Result",
-        "start_time": "2026-02-05T05:00:00.000Z"
+        "start_time": "2026-02-05T05:03:00.000Z"
     },
     {
         "contestant_names": "Fajing Sun, (2) VERSES Blake Ellis, (1.72)",
@@ -339,5 +246,67 @@
         "match_name": "Tauson C v Kessler",
         "betOption": "Head To Head",
         "start_time": "2026-02-05T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Team Liquid, (2.05) VERSES Team Yandex, (1.68)",
+        "start_time_aest": "2026-02-05T21:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "contestants": [
+            {
+                "full_name": "Team Liquid",
+                "position": "HOME",
+                "short_name": "Team Liquid"
+            },
+            {
+                "full_name": "Team Yandex",
+                "position": "AWAY",
+                "short_name": "Team Yandex"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Team Liquid",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Team Yandex",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Team Liquid v Team Yandex",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Xtreme Gaming, (2.1) VERSES Tundra Esports, (1.65)",
+        "start_time_aest": "2026-02-05T21:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "contestants": [
+            {
+                "full_name": "Xtreme Gaming",
+                "position": "HOME",
+                "short_name": "Xtreme Gaming"
+            },
+            {
+                "full_name": "Tundra Esports",
+                "position": "AWAY",
+                "short_name": "Tundra Esports"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Xtreme Gaming",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Tundra Esports",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Xtreme Gaming v Tundra Esports",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-05T10:00:00.000Z"
     }
 ]
