@@ -1,7 +1,7 @@
 [
     {
-        "contestant_names": "Stefan Dostanic, (2.15) VERSES Colton Smith, (1.62)",
-        "start_time_aest": "2026-02-07T07:00:00+11:00",
+        "contestant_names": "Stefan Dostanic, (2.1) VERSES Colton Smith, (1.65)",
+        "start_time_aest": "2026-02-07T07:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -19,15 +19,170 @@
         "propositions": [
             {
                 "name": "Stefan Dostanic",
-                "returnWin": 2.15
+                "returnWin": 2.1
             },
             {
                 "name": "Colton Smith",
-                "returnWin": 1.62
+                "returnWin": 1.65
             }
         ],
         "match_name": "Dostanic v Smith C",
         "betOption": "Head To Head",
-        "start_time": "2026-02-06T20:00:00.000Z"
+        "start_time": "2026-02-06T20:15:00.000Z"
+    },
+    {
+        "contestant_names": "Marcelo Tomas Barrios Vera, (1.75) VERSES Dusan Lajovic, (2)",
+        "start_time_aest": "2026-02-07T08:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Davis Cup",
+        "contestants": [
+            {
+                "full_name": "Marcelo Tomas Barrios Vera",
+                "position": "HOME",
+                "short_name": "Barrios Vera"
+            },
+            {
+                "full_name": "Dusan Lajovic",
+                "position": "AWAY",
+                "short_name": "Lajovic"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Marcelo Tomas Barrios Vera",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Dusan Lajovic",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Barrios Vera v Lajovic",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T21:00:00.000Z"
+    },
+    {
+        "contestant_names": "Canterbury, (1.52) VERSES Northern Districts, (2.4)",
+        "start_time_aest": "2026-02-07T08:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "NZ Ford Trophy",
+        "contestants": [
+            {
+                "full_name": "Canterbury",
+                "position": "HOME",
+                "short_name": "Canterbury"
+            },
+            {
+                "full_name": "Northern Districts",
+                "position": "AWAY",
+                "short_name": "Nthn Districts"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Canterbury",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Northern Districts",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Canterbury v Nthn Districts",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T21:30:00.000Z"
+    },
+    {
+        "contestant_names": "Central Stags, (1.65) VERSES Auckland Aces, (2.2)",
+        "start_time_aest": "2026-02-07T08:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "NZ Ford Trophy",
+        "contestants": [
+            {
+                "full_name": "Central Stags",
+                "position": "HOME",
+                "short_name": "Central Stags"
+            },
+            {
+                "full_name": "Auckland Aces",
+                "position": "AWAY",
+                "short_name": "Auckland"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Central Stags",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Auckland Aces",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Central Stags v Auckland",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T21:30:00.000Z"
+    },
+    {
+        "contestant_names": "Otago Volts, (2.5) VERSES Wellington Firebirds, (1.5)",
+        "start_time_aest": "2026-02-07T08:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "NZ Ford Trophy",
+        "contestants": [
+            {
+                "full_name": "Otago Volts",
+                "position": "HOME",
+                "short_name": "Otago"
+            },
+            {
+                "full_name": "Wellington Firebirds",
+                "position": "AWAY",
+                "short_name": "Wellington"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Otago Volts",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Wellington Firebirds",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Otago v Wellington",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T21:30:00.000Z"
+    },
+    {
+        "contestant_names": "Sao Jose Dos Cam, (1.62) VERSES Unifacisa, (2.1)",
+        "start_time_aest": "2026-02-07T09:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Brazil NBB",
+        "contestants": [
+            {
+                "full_name": "Sao Jose Dos Cam",
+                "position": "HOME",
+                "short_name": "Sao Jose Dos Cam"
+            },
+            {
+                "full_name": "Unifacisa",
+                "position": "AWAY",
+                "short_name": "Unifacisa"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sao Jose Dos Cam",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Unifacisa",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Sao Jose Dos Cam v Unifacisa",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T22:30:00.000Z"
     }
 ]
