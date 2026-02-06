@@ -1,160 +1,5 @@
 [
     {
-        "contestant_names": "Canterbury, (1.52) VERSES Northern Districts, (2.4)",
-        "start_time_aest": "2026-02-07T08:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "NZ Ford Trophy",
-        "contestants": [
-            {
-                "full_name": "Canterbury",
-                "position": "HOME",
-                "short_name": "Canterbury"
-            },
-            {
-                "full_name": "Northern Districts",
-                "position": "AWAY",
-                "short_name": "Nthn Districts"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Canterbury",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Northern Districts",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Canterbury v Nthn Districts",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-06T21:30:00.000Z"
-    },
-    {
-        "contestant_names": "Central Stags, (1.65) VERSES Auckland Aces, (2.2)",
-        "start_time_aest": "2026-02-07T08:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "NZ Ford Trophy",
-        "contestants": [
-            {
-                "full_name": "Central Stags",
-                "position": "HOME",
-                "short_name": "Central Stags"
-            },
-            {
-                "full_name": "Auckland Aces",
-                "position": "AWAY",
-                "short_name": "Auckland"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Central Stags",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Auckland Aces",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Central Stags v Auckland",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-06T21:30:00.000Z"
-    },
-    {
-        "contestant_names": "Otago Volts, (2.5) VERSES Wellington Firebirds, (1.5)",
-        "start_time_aest": "2026-02-07T08:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "NZ Ford Trophy",
-        "contestants": [
-            {
-                "full_name": "Otago Volts",
-                "position": "HOME",
-                "short_name": "Otago"
-            },
-            {
-                "full_name": "Wellington Firebirds",
-                "position": "AWAY",
-                "short_name": "Wellington"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Otago Volts",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Wellington Firebirds",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Otago v Wellington",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-06T21:30:00.000Z"
-    },
-    {
-        "contestant_names": "Stefan Dostanic, (2.05) VERSES Colton Smith, (1.68)",
-        "start_time_aest": "2026-02-07T08:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Stefan Dostanic",
-                "position": "HOME",
-                "short_name": "Dostanic"
-            },
-            {
-                "full_name": "Colton Smith",
-                "position": "AWAY",
-                "short_name": "Smith C"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Stefan Dostanic",
-                "returnWin": 2.05
-            },
-            {
-                "name": "Colton Smith",
-                "returnWin": 1.68
-            }
-        ],
-        "match_name": "Dostanic v Smith C",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-06T21:30:00.000Z"
-    },
-    {
-        "contestant_names": "Marcelo Tomas Barrios Vera, (1.72) VERSES Dusan Lajovic, (2.05)",
-        "start_time_aest": "2026-02-07T08:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Davis Cup",
-        "contestants": [
-            {
-                "full_name": "Marcelo Tomas Barrios Vera",
-                "position": "HOME",
-                "short_name": "Barrios Vera"
-            },
-            {
-                "full_name": "Dusan Lajovic",
-                "position": "AWAY",
-                "short_name": "Lajovic"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Marcelo Tomas Barrios Vera",
-                "returnWin": 1.72
-            },
-            {
-                "name": "Dusan Lajovic",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Barrios Vera v Lajovic",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-06T21:30:00.000Z"
-    },
-    {
         "contestant_names": "Sao Jose Dos Cam, (1.62) VERSES Unifacisa, (2.1)",
         "start_time_aest": "2026-02-07T09:30:00+11:00",
         "sport_name": "Basketball",
@@ -184,5 +29,36 @@
         "match_name": "Sao Jose Dos Cam v Unifacisa",
         "betOption": "Head To Head",
         "start_time": "2026-02-06T22:30:00.000Z"
+    },
+    {
+        "contestant_names": "Wihan Van Der Merwe, (2.15) VERSES Tomislav Papac, (1.62)",
+        "start_time_aest": "2026-02-07T10:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "UTR Pro Series",
+        "contestants": [
+            {
+                "full_name": "Wihan Van Der Merwe",
+                "position": "HOME",
+                "short_name": "Wihan Van Der Me"
+            },
+            {
+                "full_name": "Tomislav Papac",
+                "position": "AWAY",
+                "short_name": "Papac T"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Wihan Van Der Merwe",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Tomislav Papac",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Wihan Van Der Me v Papac T",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T23:00:00.000Z"
     }
 ]
