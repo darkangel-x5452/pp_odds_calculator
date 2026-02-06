@@ -1,69 +1,7 @@
 [
     {
-        "contestant_names": "Horsens, (1.65) VERSES Randers, (2.1)",
-        "start_time_aest": "2026-02-07T04:45:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Denmark Basketligaen",
-        "contestants": [
-            {
-                "full_name": "Horsens",
-                "position": "HOME",
-                "short_name": "Horsens"
-            },
-            {
-                "full_name": "Randers",
-                "position": "AWAY",
-                "short_name": "Randers"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Horsens",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Randers",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Horsens v Randers",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-06T17:45:00.000Z"
-    },
-    {
-        "contestant_names": "G2, (2.3) VERSES mousesports, (1.55)",
-        "start_time_aest": "2026-02-07T05:00:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "Counter Strike 2",
-        "contestants": [
-            {
-                "full_name": "G2",
-                "position": "HOME",
-                "short_name": "G2"
-            },
-            {
-                "full_name": "mousesports",
-                "position": "AWAY",
-                "short_name": "Mousesports"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "G2",
-                "returnWin": 2.3
-            },
-            {
-                "name": "mousesports",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "G2 v Mousesports",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-06T18:00:00.000Z"
-    },
-    {
         "contestant_names": "Felix Auger Aliassime, (1.5) VERSES Arthur Fils, (2.5)",
-        "start_time_aest": "2026-02-07T05:00:00+11:00",
+        "start_time_aest": "2026-02-07T05:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP",
         "contestants": [
@@ -90,11 +28,11 @@
         ],
         "match_name": "Auger Aliassime v Fils",
         "betOption": "Head To Head",
-        "start_time": "2026-02-06T18:00:00.000Z"
+        "start_time": "2026-02-06T18:15:00.000Z"
     },
     {
         "contestant_names": "Daniel Milavsky, (1.5) VERSES Josh Sheehy, (2.4)",
-        "start_time_aest": "2026-02-07T05:00:00+11:00",
+        "start_time_aest": "2026-02-07T05:30:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -121,37 +59,68 @@
         ],
         "match_name": "Milavsky D v Sheehy",
         "betOption": "Head To Head",
-        "start_time": "2026-02-06T18:00:00.000Z"
+        "start_time": "2026-02-06T18:30:00.000Z"
     },
     {
-        "contestant_names": "Veronika Podrez, (1.52) VERSES Manon Leonard, (2.35)",
-        "start_time_aest": "2026-02-07T05:00:00+11:00",
+        "contestant_names": "Havlickova/Salkova, (2.05) VERSES Gleason/Siskova, (1.72)",
+        "start_time_aest": "2026-02-07T05:30:00+11:00",
         "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
+        "competition_name": "WTA Doubles",
         "contestants": [
             {
-                "full_name": "Veronika Podrez",
+                "full_name": "Havlickova/Salkova",
                 "position": "HOME",
-                "short_name": "Podrez"
+                "short_name": "Havlickova/Salkova"
             },
             {
-                "full_name": "Manon Leonard",
+                "full_name": "Gleason/Siskova",
                 "position": "AWAY",
-                "short_name": "Leonard"
+                "short_name": "Gleason/Siskova"
             }
         ],
         "propositions": [
             {
-                "name": "Veronika Podrez",
-                "returnWin": 1.52
+                "name": "Havlickova/Salkova",
+                "returnWin": 2.05
             },
             {
-                "name": "Manon Leonard",
-                "returnWin": 2.35
+                "name": "Gleason/Siskova",
+                "returnWin": 1.72
             }
         ],
-        "match_name": "Podrez v Leonard",
+        "match_name": "Havlickova/Salkova v Gleason/Siskova",
         "betOption": "Head To Head",
-        "start_time": "2026-02-06T18:00:00.000Z"
+        "start_time": "2026-02-06T18:30:00.000Z"
+    },
+    {
+        "contestant_names": "ASVEL Lyon, (2.1) VERSES Olimpia Milano, (1.68)",
+        "start_time_aest": "2026-02-07T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "EuroLeague",
+        "contestants": [
+            {
+                "full_name": "ASVEL Lyon",
+                "position": "HOME",
+                "short_name": "ASVEL Lyon"
+            },
+            {
+                "full_name": "Olimpia Milano",
+                "position": "AWAY",
+                "short_name": "Olimpia Milano"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "ASVEL Lyon",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Olimpia Milano",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "ASVEL Lyon v Olimpia Milano",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T19:00:00.000Z"
     }
 ]
