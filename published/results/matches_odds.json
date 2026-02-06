@@ -1,7 +1,7 @@
 [
     {
-        "contestant_names": "Rei Sakamoto, (1.6) VERSES Tristan Schoolkate, (2.2)",
-        "start_time_aest": "2026-02-06T15:00:00+11:00",
+        "contestant_names": "Rei Sakamoto, (1.52) VERSES Tristan Schoolkate, (2.35)",
+        "start_time_aest": "2026-02-06T15:30:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -19,16 +19,16 @@
         "propositions": [
             {
                 "name": "Rei Sakamoto",
-                "returnWin": 1.6
+                "returnWin": 1.52
             },
             {
                 "name": "Tristan Schoolkate",
-                "returnWin": 2.2
+                "returnWin": 2.35
             }
         ],
         "match_name": "Sakamoto R v Schoolkate",
         "betOption": "Head To Head",
-        "start_time": "2026-02-06T04:00:00.000Z"
+        "start_time": "2026-02-06T04:30:00.000Z"
     },
     {
         "contestant_names": "Taiyuan, (1.57) VERSES Taiwan Power, (2.2)",
@@ -217,6 +217,37 @@
         "start_time": "2026-02-06T07:00:00.000Z"
     },
     {
+        "contestant_names": "Shintaro Mochizuki, (1.95) VERSES Jurij Rodionov, (1.8)",
+        "start_time_aest": "2026-02-06T18:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Davis Cup",
+        "contestants": [
+            {
+                "full_name": "Shintaro Mochizuki",
+                "position": "HOME",
+                "short_name": "Mochizuki S"
+            },
+            {
+                "full_name": "Jurij Rodionov",
+                "position": "AWAY",
+                "short_name": "Rodionov"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Shintaro Mochizuki",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Jurij Rodionov",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Mochizuki S v Rodionov",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T07:00:00.000Z"
+    },
+    {
         "contestant_names": "Egor Pleshivtsev, (2.1) VERSES Dong Ju Kim, (1.65)",
         "start_time_aest": "2026-02-06T18:30:00+11:00",
         "sport_name": "Tennis",
@@ -246,5 +277,67 @@
         "match_name": "Pleshivtsev v Kim DJ",
         "betOption": "Head To Head",
         "start_time": "2026-02-06T07:30:00.000Z"
+    },
+    {
+        "contestant_names": "Zhejiang Chouzho, (2.1) VERSES Shandong Heroes, (1.62)",
+        "start_time_aest": "2026-02-06T19:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "China CBA Club Cup",
+        "contestants": [
+            {
+                "full_name": "Zhejiang Chouzho",
+                "position": "HOME",
+                "short_name": "Zhejiang Chouzho"
+            },
+            {
+                "full_name": "Shandong Heroes",
+                "position": "AWAY",
+                "short_name": "Shandong Heroes"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Zhejiang Chouzho",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Shandong Heroes",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Zhejiang Chouzho v Shandong Heroes",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Drx, (1.65) VERSES Fredit Brion, (2.1)",
+        "start_time_aest": "2026-02-06T19:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "contestants": [
+            {
+                "full_name": "Drx",
+                "position": "HOME",
+                "short_name": "Drx"
+            },
+            {
+                "full_name": "Fredit Brion",
+                "position": "AWAY",
+                "short_name": "Fredit Brion"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Drx",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Fredit Brion",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Drx v Fredit Brion",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T08:00:00.000Z"
     }
 ]
