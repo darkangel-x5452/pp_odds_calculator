@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Rei Sakamoto, (1.46) VERSES Tristan Schoolkate, (2.5)",
-        "start_time_aest": "2026-02-06T16:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Rei Sakamoto",
-                "position": "HOME",
-                "short_name": "Sakamoto R"
-            },
-            {
-                "full_name": "Tristan Schoolkate",
-                "position": "AWAY",
-                "short_name": "Schoolkate"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Rei Sakamoto",
-                "returnWin": 1.46
-            },
-            {
-                "name": "Tristan Schoolkate",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Sakamoto R v Schoolkate",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-06T05:30:00.000Z"
-    },
-    {
-        "contestant_names": "Yosuke Watanuki, (1.8) VERSES Sebastian Ofner, (1.95)",
-        "start_time_aest": "2026-02-06T16:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Davis Cup",
-        "contestants": [
-            {
-                "full_name": "Yosuke Watanuki",
-                "position": "HOME",
-                "short_name": "Watanuki Y"
-            },
-            {
-                "full_name": "Sebastian Ofner",
-                "position": "AWAY",
-                "short_name": "Ofner S"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Yosuke Watanuki",
-                "returnWin": 1.8
-            },
-            {
-                "name": "Sebastian Ofner",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Watanuki Y v Ofner S",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-06T05:30:00.000Z"
-    },
-    {
         "contestant_names": "Bujjagali Rafters, (1.75) VERSES Itanda Kayakers, (2.05)",
         "start_time_aest": "2026-02-06T18:00:00+11:00",
         "sport_name": "Cricket",
@@ -337,6 +275,68 @@
             }
         ],
         "match_name": "Ruzic v Starodubtseva",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Aliaksandra Sasnovich, (1.46) VERSES Varvara Gracheva, (2.5)",
+        "start_time_aest": "2026-02-06T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Aliaksandra Sasnovich",
+                "position": "HOME",
+                "short_name": "Sasnovich"
+            },
+            {
+                "full_name": "Varvara Gracheva",
+                "position": "AWAY",
+                "short_name": "Gracheva"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Aliaksandra Sasnovich",
+                "returnWin": 1.46
+            },
+            {
+                "name": "Varvara Gracheva",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Sasnovich v Gracheva",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Anastasia Zakharova, (1.46) VERSES Julia Grabher, (2.5)",
+        "start_time_aest": "2026-02-06T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Anastasia Zakharova",
+                "position": "HOME",
+                "short_name": "Zakharova A"
+            },
+            {
+                "full_name": "Julia Grabher",
+                "position": "AWAY",
+                "short_name": "Grabher"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Anastasia Zakharova",
+                "returnWin": 1.46
+            },
+            {
+                "name": "Julia Grabher",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Zakharova A v Grabher",
         "betOption": "Head To Head",
         "start_time": "2026-02-06T08:00:00.000Z"
     }
