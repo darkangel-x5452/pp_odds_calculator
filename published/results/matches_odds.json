@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Wihan Van Der Merwe, (2.15) VERSES Tomislav Papac, (1.62)",
-        "start_time_aest": "2026-02-07T10:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "UTR Pro Series",
-        "contestants": [
-            {
-                "full_name": "Wihan Van Der Merwe",
-                "position": "HOME",
-                "short_name": "Wihan Van Der Me"
-            },
-            {
-                "full_name": "Tomislav Papac",
-                "position": "AWAY",
-                "short_name": "Papac T"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Wihan Van Der Merwe",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Tomislav Papac",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Wihan Van Der Me v Papac T",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-06T23:00:00.000Z"
-    },
-    {
         "contestant_names": "Ciclista Juninen, (2.25) VERSES ProvncialRosario, (1.55)",
         "start_time_aest": "2026-02-07T11:00:00+11:00",
         "sport_name": "Basketball",
@@ -58,6 +27,37 @@
             }
         ],
         "match_name": "Ciclista Juninen v ProvncialRosario",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Towson, (1.8) VERSES WilliamMary, (1.95)",
+        "start_time_aest": "2026-02-07T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Towson",
+                "position": "HOME",
+                "short_name": "Towson"
+            },
+            {
+                "full_name": "WilliamMary",
+                "position": "AWAY",
+                "short_name": "WilliamMary"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Towson",
+                "returnWin": 1.8
+            },
+            {
+                "name": "WilliamMary",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Towson v WilliamMary",
         "betOption": "Head To Head",
         "start_time": "2026-02-07T00:00:00.000Z"
     }
