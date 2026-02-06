@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Havlickova/Salkova, (2.05) VERSES Gleason/Siskova, (1.72)",
-        "start_time_aest": "2026-02-07T05:50:00+11:00",
+        "start_time_aest": "2026-02-07T06:10:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA Doubles",
         "contestants": [
@@ -28,37 +28,130 @@
         ],
         "match_name": "Havlickova/Salkova v Gleason/Siskova",
         "betOption": "Head To Head",
-        "start_time": "2026-02-06T18:50:00.000Z"
+        "start_time": "2026-02-06T19:10:00.000Z"
     },
     {
-        "contestant_names": "ASVEL Lyon, (2.1) VERSES Olimpia Milano, (1.68)",
-        "start_time_aest": "2026-02-07T06:00:00+11:00",
+        "contestant_names": "Hallmann Vienna, (1.58) VERSES Zadar, (2.25)",
+        "start_time_aest": "2026-02-07T06:30:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "EuroLeague",
+        "competition_name": "ABA League",
         "contestants": [
             {
-                "full_name": "ASVEL Lyon",
+                "full_name": "Hallmann Vienna",
                 "position": "HOME",
-                "short_name": "ASVEL Lyon"
+                "short_name": "Hallmann Vienna"
             },
             {
-                "full_name": "Olimpia Milano",
+                "full_name": "Zadar",
                 "position": "AWAY",
-                "short_name": "Olimpia Milano"
+                "short_name": "Zadar"
             }
         ],
         "propositions": [
             {
-                "name": "ASVEL Lyon",
-                "returnWin": 2.1
+                "name": "Hallmann Vienna",
+                "returnWin": 1.58
             },
             {
-                "name": "Olimpia Milano",
-                "returnWin": 1.68
+                "name": "Zadar",
+                "returnWin": 2.25
             }
         ],
-        "match_name": "ASVEL Lyon v Olimpia Milano",
+        "match_name": "Hallmann Vienna v Zadar",
         "betOption": "Head To Head",
-        "start_time": "2026-02-06T19:00:00.000Z"
+        "start_time": "2026-02-06T19:30:00.000Z"
+    },
+    {
+        "contestant_names": "Bristol Flyers, (1.75) VERSES Sheffield, (1.95)",
+        "start_time_aest": "2026-02-07T06:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "British Basketball League",
+        "contestants": [
+            {
+                "full_name": "Bristol Flyers",
+                "position": "HOME",
+                "short_name": "Bristol Flyers"
+            },
+            {
+                "full_name": "Sheffield",
+                "position": "AWAY",
+                "short_name": "Sheffield"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bristol Flyers",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Sheffield",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Bristol Flyers v Sheffield",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T19:30:00.000Z"
+    },
+    {
+        "contestant_names": "Cheshire, (1.52) VERSES Manchester, (2.35)",
+        "start_time_aest": "2026-02-07T06:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "British Basketball League",
+        "contestants": [
+            {
+                "full_name": "Cheshire",
+                "position": "HOME",
+                "short_name": "Cheshire"
+            },
+            {
+                "full_name": "Manchester",
+                "position": "AWAY",
+                "short_name": "Manchester"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Cheshire",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Manchester",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Cheshire v Manchester",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T19:30:00.000Z"
+    },
+    {
+        "contestant_names": "Saski Baskonia, (2.35) VERSES Barcelona, (1.55)",
+        "start_time_aest": "2026-02-07T06:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "EuroLeague",
+        "contestants": [
+            {
+                "full_name": "Saski Baskonia",
+                "position": "HOME",
+                "short_name": "Saski Baskonia"
+            },
+            {
+                "full_name": "Barcelona",
+                "position": "AWAY",
+                "short_name": "Barcelona"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Saski Baskonia",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Barcelona",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Saski Baskonia v Barcelona",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T19:30:00.000Z"
     }
 ]
