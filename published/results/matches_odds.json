@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Sao Jose Dos Cam, (1.62) VERSES Unifacisa, (2.1)",
-        "start_time_aest": "2026-02-07T09:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Brazil NBB",
-        "contestants": [
-            {
-                "full_name": "Sao Jose Dos Cam",
-                "position": "HOME",
-                "short_name": "Sao Jose Dos Cam"
-            },
-            {
-                "full_name": "Unifacisa",
-                "position": "AWAY",
-                "short_name": "Unifacisa"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sao Jose Dos Cam",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Unifacisa",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Sao Jose Dos Cam v Unifacisa",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-06T22:30:00.000Z"
-    },
-    {
         "contestant_names": "Wihan Van Der Merwe, (2.15) VERSES Tomislav Papac, (1.62)",
         "start_time_aest": "2026-02-07T10:00:00+11:00",
         "sport_name": "Tennis",
@@ -60,5 +29,36 @@
         "match_name": "Wihan Van Der Me v Papac T",
         "betOption": "Head To Head",
         "start_time": "2026-02-06T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Ciclista Juninen, (2.25) VERSES ProvncialRosario, (1.55)",
+        "start_time_aest": "2026-02-07T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Ciclista Juninen",
+                "position": "HOME",
+                "short_name": "Ciclista Juninen"
+            },
+            {
+                "full_name": "ProvncialRosario",
+                "position": "AWAY",
+                "short_name": "ProvncialRosario"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ciclista Juninen",
+                "returnWin": 2.25
+            },
+            {
+                "name": "ProvncialRosario",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Ciclista Juninen v ProvncialRosario",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T00:00:00.000Z"
     }
 ]
