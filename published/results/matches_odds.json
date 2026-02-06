@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Cal Poly, (2.1) VERSES CSU Northridge, (1.74)",
-        "start_time_aest": "2026-02-06T14:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Cal Poly",
-                "position": "HOME",
-                "short_name": "Cal Poly"
-            },
-            {
-                "full_name": "CSU Northridge",
-                "position": "AWAY",
-                "short_name": "CSU Northridge"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Cal Poly",
-                "returnWin": 2.1
-            },
-            {
-                "name": "CSU Northridge",
-                "returnWin": 1.74
-            }
-        ],
-        "match_name": "Cal Poly v CSU Northridge",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-06T03:00:00.000Z"
-    },
-    {
-        "contestant_names": "Tasmania (W), (1.6) VERSES ACT (W), (2.3)",
-        "start_time_aest": "2026-02-06T14:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Womens National Cricket League",
-        "contestants": [
-            {
-                "full_name": "Tasmania (W)",
-                "position": "HOME",
-                "short_name": "Tasmania (W)"
-            },
-            {
-                "full_name": "ACT (W)",
-                "position": "AWAY",
-                "short_name": "ACT (W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Tasmania (W)",
-                "returnWin": 1.6
-            },
-            {
-                "name": "ACT (W)",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Tasmania (W) v ACT (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-06T03:00:00.000Z"
-    },
-    {
         "contestant_names": "Las Vegas, (1.7) VERSES Los Angeles, (2.1)",
         "start_time_aest": "2026-02-06T14:05:00+11:00",
         "sport_name": "Ice Hockey",
@@ -246,5 +184,98 @@
         "match_name": "Yize v ZhangA",
         "betOption": "Result",
         "start_time": "2026-02-06T05:00:00.000Z"
+    },
+    {
+        "contestant_names": "Yosuke Watanuki, (1.8) VERSES Sebastian Ofner, (1.95)",
+        "start_time_aest": "2026-02-06T16:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Davis Cup",
+        "contestants": [
+            {
+                "full_name": "Yosuke Watanuki",
+                "position": "HOME",
+                "short_name": "Watanuki Y"
+            },
+            {
+                "full_name": "Sebastian Ofner",
+                "position": "AWAY",
+                "short_name": "Ofner S"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Yosuke Watanuki",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Sebastian Ofner",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Watanuki Y v Ofner S",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T05:00:00.000Z"
+    },
+    {
+        "contestant_names": "Bujjagali Rafters, (1.75) VERSES Itanda Kayakers, (2.05)",
+        "start_time_aest": "2026-02-06T18:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Waterfalls Elite League T20",
+        "contestants": [
+            {
+                "full_name": "Bujjagali Rafters",
+                "position": "HOME",
+                "short_name": "Bujjagali Rafter"
+            },
+            {
+                "full_name": "Itanda Kayakers",
+                "position": "AWAY",
+                "short_name": "Itanda Kayakers"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bujjagali Rafters",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Itanda Kayakers",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Bujjagali Rafter v Itanda Kayakers",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Invictus Gaming, (2.4) VERSES Weibo, (1.5)",
+        "start_time_aest": "2026-02-06T18:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "contestants": [
+            {
+                "full_name": "Invictus Gaming",
+                "position": "HOME",
+                "short_name": "Invictus Gaming"
+            },
+            {
+                "full_name": "Weibo",
+                "position": "AWAY",
+                "short_name": "Weibo"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Invictus Gaming",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Weibo",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Invictus Gaming v Weibo",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T07:00:00.000Z"
     }
 ]
