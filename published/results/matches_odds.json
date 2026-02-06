@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Marcelo Tomas Barrios Vera, (1.75) VERSES Dusan Lajovic, (2)",
-        "start_time_aest": "2026-02-07T08:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Davis Cup",
-        "contestants": [
-            {
-                "full_name": "Marcelo Tomas Barrios Vera",
-                "position": "HOME",
-                "short_name": "Barrios Vera"
-            },
-            {
-                "full_name": "Dusan Lajovic",
-                "position": "AWAY",
-                "short_name": "Lajovic"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Marcelo Tomas Barrios Vera",
-                "returnWin": 1.75
-            },
-            {
-                "name": "Dusan Lajovic",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Barrios Vera v Lajovic",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-06T21:00:00.000Z"
-    },
-    {
-        "contestant_names": "Stefan Dostanic, (2.05) VERSES Colton Smith, (1.68)",
-        "start_time_aest": "2026-02-07T08:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Stefan Dostanic",
-                "position": "HOME",
-                "short_name": "Dostanic"
-            },
-            {
-                "full_name": "Colton Smith",
-                "position": "AWAY",
-                "short_name": "Smith C"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Stefan Dostanic",
-                "returnWin": 2.05
-            },
-            {
-                "name": "Colton Smith",
-                "returnWin": 1.68
-            }
-        ],
-        "match_name": "Dostanic v Smith C",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-06T21:00:00.000Z"
-    },
-    {
         "contestant_names": "Canterbury, (1.52) VERSES Northern Districts, (2.4)",
         "start_time_aest": "2026-02-07T08:30:00+11:00",
         "sport_name": "Cricket",
@@ -151,6 +89,68 @@
             }
         ],
         "match_name": "Otago v Wellington",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T21:30:00.000Z"
+    },
+    {
+        "contestant_names": "Stefan Dostanic, (2.05) VERSES Colton Smith, (1.68)",
+        "start_time_aest": "2026-02-07T08:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Stefan Dostanic",
+                "position": "HOME",
+                "short_name": "Dostanic"
+            },
+            {
+                "full_name": "Colton Smith",
+                "position": "AWAY",
+                "short_name": "Smith C"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Stefan Dostanic",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Colton Smith",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Dostanic v Smith C",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T21:30:00.000Z"
+    },
+    {
+        "contestant_names": "Marcelo Tomas Barrios Vera, (1.72) VERSES Dusan Lajovic, (2.05)",
+        "start_time_aest": "2026-02-07T08:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Davis Cup",
+        "contestants": [
+            {
+                "full_name": "Marcelo Tomas Barrios Vera",
+                "position": "HOME",
+                "short_name": "Barrios Vera"
+            },
+            {
+                "full_name": "Dusan Lajovic",
+                "position": "AWAY",
+                "short_name": "Lajovic"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Marcelo Tomas Barrios Vera",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Dusan Lajovic",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Barrios Vera v Lajovic",
         "betOption": "Head To Head",
         "start_time": "2026-02-06T21:30:00.000Z"
     },
