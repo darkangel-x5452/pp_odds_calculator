@@ -1,129 +1,5 @@
 [
     {
-        "contestant_names": "Stefan Kozlov, (1.46) VERSES Keegan Smith, (2.5)",
-        "start_time_aest": "2026-02-07T03:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Stefan Kozlov",
-                "position": "HOME",
-                "short_name": "Kozlov S"
-            },
-            {
-                "full_name": "Keegan Smith",
-                "position": "AWAY",
-                "short_name": "Smith K"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Stefan Kozlov",
-                "returnWin": 1.46
-            },
-            {
-                "name": "Keegan Smith",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Kozlov S v Smith K",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-06T16:00:00.000Z"
-    },
-    {
-        "contestant_names": "Nathan Ponwith, (2.05) VERSES Natan Rodrigues, (1.68)",
-        "start_time_aest": "2026-02-07T03:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Nathan Ponwith",
-                "position": "HOME",
-                "short_name": "Ponwith"
-            },
-            {
-                "full_name": "Natan Rodrigues",
-                "position": "AWAY",
-                "short_name": "Rodrigues"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Nathan Ponwith",
-                "returnWin": 2.05
-            },
-            {
-                "name": "Natan Rodrigues",
-                "returnWin": 1.68
-            }
-        ],
-        "match_name": "Ponwith v Rodrigues",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-06T16:00:00.000Z"
-    },
-    {
-        "contestant_names": "J Gaines Jr, (1.6) VERSES Fermin Tenti, (2.2)",
-        "start_time_aest": "2026-02-07T03:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "J Gaines Jr",
-                "position": "HOME",
-                "short_name": "Gaines Jr J"
-            },
-            {
-                "full_name": "Fermin Tenti",
-                "position": "AWAY",
-                "short_name": "Tenti"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "J Gaines Jr",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Fermin Tenti",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Gaines Jr J v Tenti",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-06T16:00:00.000Z"
-    },
-    {
-        "contestant_names": "Martin Damm Jr, (1.8) VERSES Luca Nardi, (2)",
-        "start_time_aest": "2026-02-07T03:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "contestants": [
-            {
-                "full_name": "Martin Damm Jr",
-                "position": "HOME",
-                "short_name": "Damm"
-            },
-            {
-                "full_name": "Luca Nardi",
-                "position": "AWAY",
-                "short_name": "Nardi L"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Martin Damm Jr",
-                "returnWin": 1.8
-            },
-            {
-                "name": "Luca Nardi",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Damm v Nardi L",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-06T16:00:00.000Z"
-    },
-    {
         "contestant_names": "Polski Cukier, (1.6) VERSES Start Lublin, (2.2)",
         "start_time_aest": "2026-02-07T03:30:00+11:00",
         "sport_name": "Basketball",
@@ -184,5 +60,160 @@
         "match_name": "Bc Goverla v BC Kyiv",
         "betOption": "Head To Head",
         "start_time": "2026-02-06T16:30:00.000Z"
+    },
+    {
+        "contestant_names": "Lahti Basketball, (1.45) VERSES Tampereen Pyrint, (2.5)",
+        "start_time_aest": "2026-02-07T03:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Finland Korisliiga",
+        "contestants": [
+            {
+                "full_name": "Lahti Basketball",
+                "position": "HOME",
+                "short_name": "Lahti Basketball"
+            },
+            {
+                "full_name": "Tampereen Pyrint",
+                "position": "AWAY",
+                "short_name": "Tampereen Pyrint"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lahti Basketball",
+                "returnWin": 1.45
+            },
+            {
+                "name": "Tampereen Pyrint",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Lahti Basketball v Tampereen Pyrint",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T16:30:00.000Z"
+    },
+    {
+        "contestant_names": "Martin Damm Jr, (1.8) VERSES Luca Nardi, (2)",
+        "start_time_aest": "2026-02-07T03:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "contestants": [
+            {
+                "full_name": "Martin Damm Jr",
+                "position": "HOME",
+                "short_name": "Damm"
+            },
+            {
+                "full_name": "Luca Nardi",
+                "position": "AWAY",
+                "short_name": "Nardi L"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Martin Damm Jr",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Luca Nardi",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Damm v Nardi L",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T16:30:00.000Z"
+    },
+    {
+        "contestant_names": "Stefan Kozlov, (1.46) VERSES Keegan Smith, (2.5)",
+        "start_time_aest": "2026-02-07T03:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Stefan Kozlov",
+                "position": "HOME",
+                "short_name": "Kozlov S"
+            },
+            {
+                "full_name": "Keegan Smith",
+                "position": "AWAY",
+                "short_name": "Smith K"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Stefan Kozlov",
+                "returnWin": 1.46
+            },
+            {
+                "name": "Keegan Smith",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Kozlov S v Smith K",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T16:30:00.000Z"
+    },
+    {
+        "contestant_names": "Kenin/Krawczyk, (1.8) VERSES Alexandrova/Joint, (1.95)",
+        "start_time_aest": "2026-02-07T03:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA Doubles",
+        "contestants": [
+            {
+                "full_name": "Kenin/Krawczyk",
+                "position": "HOME",
+                "short_name": "Kenin/Krawczyk"
+            },
+            {
+                "full_name": "Alexandrova/Joint",
+                "position": "AWAY",
+                "short_name": "Alexandrova/Joint"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Kenin/Krawczyk",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Alexandrova/Joint",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Kenin/Krawczyk v Alexandrova/Joint",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T16:30:00.000Z"
+    },
+    {
+        "contestant_names": "Naturtex-SZTE, (1.95) VERSES EGIS Kormend, (1.73)",
+        "start_time_aest": "2026-02-07T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Hungary NB IA",
+        "contestants": [
+            {
+                "full_name": "Naturtex-SZTE",
+                "position": "HOME",
+                "short_name": "Naturtex-SZTE"
+            },
+            {
+                "full_name": "EGIS Kormend",
+                "position": "AWAY",
+                "short_name": "EGIS Kormend"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Naturtex-SZTE",
+                "returnWin": 1.95
+            },
+            {
+                "name": "EGIS Kormend",
+                "returnWin": 1.73
+            }
+        ],
+        "match_name": "Naturtex-SZTE v EGIS Kormend",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T17:00:00.000Z"
     }
 ]
