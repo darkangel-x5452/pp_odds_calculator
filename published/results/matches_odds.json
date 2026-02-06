@@ -153,5 +153,98 @@
         "match_name": "Sakamoto R v Schoolkate",
         "betOption": "Head To Head",
         "start_time": "2026-02-06T03:30:00.000Z"
+    },
+    {
+        "contestant_names": "Taiyuan, (1.57) VERSES Taiwan Power, (2.2)",
+        "start_time_aest": "2026-02-06T16:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Taiwan WSBL Women",
+        "contestants": [
+            {
+                "full_name": "Taiyuan",
+                "position": "HOME",
+                "short_name": "Taiyuan"
+            },
+            {
+                "full_name": "Taiwan Power",
+                "position": "AWAY",
+                "short_name": "Taiwan Power"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Taiyuan",
+                "returnWin": 1.57
+            },
+            {
+                "name": "Taiwan Power",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Taiyuan v Taiwan Power",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T05:00:00.000Z"
+    },
+    {
+        "contestant_names": "Si Jiahui, (2.3) VERSES Xiao Guodong, (1.58)",
+        "start_time_aest": "2026-02-06T16:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "World Grand Prix",
+        "contestants": [
+            {
+                "full_name": "Si Jiahui",
+                "position": "HOME",
+                "short_name": "Jiahui Si"
+            },
+            {
+                "full_name": "Xiao Guodong",
+                "position": "AWAY",
+                "short_name": "Guodong"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Si Jiahui",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Xiao Guodong",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Jiahui Si v Guodong",
+        "betOption": "Result",
+        "start_time": "2026-02-06T05:00:00.000Z"
+    },
+    {
+        "contestant_names": "Wu Yize, (1.5) VERSES Anda Zhang, (2.5)",
+        "start_time_aest": "2026-02-06T16:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "World Grand Prix",
+        "contestants": [
+            {
+                "full_name": "Wu Yize",
+                "position": "HOME",
+                "short_name": "Yize"
+            },
+            {
+                "full_name": "Anda Zhang",
+                "position": "AWAY",
+                "short_name": "ZhangA"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Wu Yize",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Anda Zhang",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Yize v ZhangA",
+        "betOption": "Result",
+        "start_time": "2026-02-06T05:00:00.000Z"
     }
 ]
