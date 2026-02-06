@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "North Dakota, (1.77) VERSES Nebraska Omaha, (2.05)",
-        "start_time_aest": "2026-02-06T12:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "North Dakota",
-                "position": "HOME",
-                "short_name": "North Dakota"
-            },
-            {
-                "full_name": "Nebraska Omaha",
-                "position": "AWAY",
-                "short_name": "Nebraska Omaha"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "North Dakota",
-                "returnWin": 1.77
-            },
-            {
-                "name": "Nebraska Omaha",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "North Dakota v Nebraska Omaha",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-06T01:00:00.000Z"
-    },
-    {
-        "contestant_names": "Alex Bolt, (1.46) VERSES Yasutaka Uchiyama, (2.5)",
-        "start_time_aest": "2026-02-06T12:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Alex Bolt",
-                "position": "HOME",
-                "short_name": "Bolt"
-            },
-            {
-                "full_name": "Yasutaka Uchiyama",
-                "position": "AWAY",
-                "short_name": "Uchiyama Y"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Alex Bolt",
-                "returnWin": 1.46
-            },
-            {
-                "name": "Yasutaka Uchiyama",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Bolt v Uchiyama Y",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-06T01:00:00.000Z"
-    },
-    {
-        "contestant_names": "Camilo Ugo Carabelli, (1.75) VERSES Facundo Diaz Acosta, (1.95)",
-        "start_time_aest": "2026-02-06T12:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Camilo Ugo Carabelli",
-                "position": "HOME",
-                "short_name": "Ugo Carabelli"
-            },
-            {
-                "full_name": "Facundo Diaz Acosta",
-                "position": "AWAY",
-                "short_name": "Diaz Acosta"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Camilo Ugo Carabelli",
-                "returnWin": 1.75
-            },
-            {
-                "name": "Facundo Diaz Acosta",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Ugo Carabelli v Diaz Acosta",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-06T01:00:00.000Z"
-    },
-    {
         "contestant_names": "Houston, (1.58) VERSES Charlotte, (2.45)",
         "start_time_aest": "2026-02-06T12:10:00+11:00",
         "sport_name": "Basketball",
@@ -122,6 +29,37 @@
         "match_name": "Houston v Charlotte",
         "betOption": "Head To Head",
         "start_time": "2026-02-06T01:10:00.000Z"
+    },
+    {
+        "contestant_names": "Alex Bolt, (1.46) VERSES Yasutaka Uchiyama, (2.5)",
+        "start_time_aest": "2026-02-06T12:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Alex Bolt",
+                "position": "HOME",
+                "short_name": "Bolt"
+            },
+            {
+                "full_name": "Yasutaka Uchiyama",
+                "position": "AWAY",
+                "short_name": "Uchiyama Y"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alex Bolt",
+                "returnWin": 1.46
+            },
+            {
+                "name": "Yasutaka Uchiyama",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Bolt v Uchiyama Y",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T01:30:00.000Z"
     },
     {
         "contestant_names": "Weber State, (2) VERSES NorthernColorado, (1.8)",
@@ -213,6 +151,99 @@
             }
         ],
         "match_name": "Montana State v Idaho",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T02:00:00.000Z"
+    },
+    {
+        "contestant_names": "UAB, (1.8) VERSES Memphis, (2)",
+        "start_time_aest": "2026-02-06T13:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "UAB",
+                "position": "HOME",
+                "short_name": "UAB"
+            },
+            {
+                "full_name": "Memphis",
+                "position": "AWAY",
+                "short_name": "Memphis"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "UAB",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Memphis",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "UAB v Memphis",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T02:00:00.000Z"
+    },
+    {
+        "contestant_names": "Washington, (2.1) VERSES Ohio State, (1.68)",
+        "start_time_aest": "2026-02-06T13:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Washington",
+                "position": "HOME",
+                "short_name": "Washington"
+            },
+            {
+                "full_name": "Ohio State",
+                "position": "AWAY",
+                "short_name": "Ohio State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Washington",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Ohio State",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Washington v Ohio State",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-06T02:00:00.000Z"
+    },
+    {
+        "contestant_names": "Alabama, (1.8) VERSES Mississippi, (1.95)",
+        "start_time_aest": "2026-02-06T13:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Alabama",
+                "position": "HOME",
+                "short_name": "Alabama"
+            },
+            {
+                "full_name": "Mississippi",
+                "position": "AWAY",
+                "short_name": "Mississippi"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alabama",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Mississippi",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Alabama v Mississippi",
         "betOption": "Head To Head",
         "start_time": "2026-02-06T02:00:00.000Z"
     }
