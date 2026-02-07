@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Itanda Kayakers, (2.05) VERSES Karuma Rapids, (1.75)",
-        "start_time_aest": "2026-02-07T18:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Waterfalls Elite League T20",
-        "contestants": [
-            {
-                "full_name": "Itanda Kayakers",
-                "position": "HOME",
-                "short_name": "Itanda Kayakers"
-            },
-            {
-                "full_name": "Karuma Rapids",
-                "position": "AWAY",
-                "short_name": "Karuma Rapids"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Itanda Kayakers",
-                "returnWin": 2.05
-            },
-            {
-                "name": "Karuma Rapids",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Itanda Kayakers v Karuma Rapids",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-07T07:00:00.000Z"
-    },
-    {
-        "contestant_names": "Shintaro Mochizuki, (1.68) VERSES Sebastian Ofner, (2.1)",
-        "start_time_aest": "2026-02-07T18:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Davis Cup",
-        "contestants": [
-            {
-                "full_name": "Shintaro Mochizuki",
-                "position": "HOME",
-                "short_name": "Mochizuki S"
-            },
-            {
-                "full_name": "Sebastian Ofner",
-                "position": "AWAY",
-                "short_name": "Ofner S"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Shintaro Mochizuki",
-                "returnWin": 1.68
-            },
-            {
-                "name": "Sebastian Ofner",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Mochizuki S v Ofner S",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-07T07:00:00.000Z"
-    },
-    {
         "contestant_names": "Georgii Kravchenko, (1.62) VERSES Alessandro Pecci, (2.15)",
         "start_time_aest": "2026-02-07T18:30:00+11:00",
         "sport_name": "Tennis",
@@ -93,6 +31,37 @@
         "start_time": "2026-02-07T07:30:00.000Z"
     },
     {
+        "contestant_names": "Shintaro Mochizuki, (1.68) VERSES Sebastian Ofner, (2.1)",
+        "start_time_aest": "2026-02-07T18:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Davis Cup",
+        "contestants": [
+            {
+                "full_name": "Shintaro Mochizuki",
+                "position": "HOME",
+                "short_name": "Mochizuki S"
+            },
+            {
+                "full_name": "Sebastian Ofner",
+                "position": "AWAY",
+                "short_name": "Ofner S"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Shintaro Mochizuki",
+                "returnWin": 1.68
+            },
+            {
+                "name": "Sebastian Ofner",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Mochizuki S v Ofner S",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T07:30:00.000Z"
+    },
+    {
         "contestant_names": "Titans (W), (1.55) VERSES North West (W), (2.4)",
         "start_time_aest": "2026-02-07T19:00:00+11:00",
         "sport_name": "Cricket",
@@ -120,6 +89,68 @@
             }
         ],
         "match_name": "Titans (W) v North West (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Yosuke Watanuki, (1.72) VERSES Jurij Rodionov, (2.05)",
+        "start_time_aest": "2026-02-07T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Davis Cup",
+        "contestants": [
+            {
+                "full_name": "Yosuke Watanuki",
+                "position": "HOME",
+                "short_name": "Watanuki Y"
+            },
+            {
+                "full_name": "Jurij Rodionov",
+                "position": "AWAY",
+                "short_name": "Rodionov"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Yosuke Watanuki",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Jurij Rodionov",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Watanuki Y v Rodionov",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Beatriz Haddad Maia, (1.52) VERSES Anastasia Zakharova, (2.35)",
+        "start_time_aest": "2026-02-07T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Beatriz Haddad Maia",
+                "position": "HOME",
+                "short_name": "Haddad Maia"
+            },
+            {
+                "full_name": "Anastasia Zakharova",
+                "position": "AWAY",
+                "short_name": "Zakharova A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Beatriz Haddad Maia",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Anastasia Zakharova",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Haddad Maia v Zakharova A",
         "betOption": "Head To Head",
         "start_time": "2026-02-07T08:00:00.000Z"
     }
