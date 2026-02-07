@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Milwaukee, (2) VERSES Indiana, (1.85)",
-        "start_time_aest": "2026-02-07T12:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Milwaukee",
-                "position": "HOME",
-                "short_name": "Milwaukee"
-            },
-            {
-                "full_name": "Indiana",
-                "position": "AWAY",
-                "short_name": "Indiana"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Milwaukee",
-                "returnWin": 2
-            },
-            {
-                "name": "Indiana",
-                "returnWin": 1.85
-            }
-        ],
-        "match_name": "Milwaukee v Indiana",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-07T01:10:00.000Z"
-    },
-    {
         "contestant_names": "Illinois-Chicago, (2.1) VERSES Belmont, (1.74)",
         "start_time_aest": "2026-02-07T13:00:00+11:00",
         "sport_name": "Basketball",
@@ -122,5 +91,36 @@
         "match_name": "Gibson T v Zhu L",
         "betOption": "Head To Head",
         "start_time": "2026-02-07T02:30:00.000Z"
+    },
+    {
+        "contestant_names": "Sacramento, (2.4) VERSES LA Clippers, (1.6)",
+        "start_time_aest": "2026-02-07T14:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Sacramento",
+                "position": "HOME",
+                "short_name": "Sacramento"
+            },
+            {
+                "full_name": "LA Clippers",
+                "position": "AWAY",
+                "short_name": "LA Clippers"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sacramento",
+                "returnWin": 2.4
+            },
+            {
+                "name": "LA Clippers",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Sacramento v LA Clippers",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T03:10:00.000Z"
     }
 ]
