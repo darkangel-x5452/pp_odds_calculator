@@ -1,33 +1,64 @@
 [
     {
-        "contestant_names": "Sacramento, (2.4) VERSES LA Clippers, (1.6)",
-        "start_time_aest": "2026-02-07T14:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
+        "contestant_names": "Denso Airybees (W), (2.5) VERSES Himeji Victorina (W), (1.46)",
+        "start_time_aest": "2026-02-07T15:05:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "Japan V Premier League (W)",
         "contestants": [
             {
-                "full_name": "Sacramento",
+                "full_name": "Denso Airybees (W)",
                 "position": "HOME",
-                "short_name": "Sacramento"
+                "short_name": "Denso (W)"
             },
             {
-                "full_name": "LA Clippers",
+                "full_name": "Himeji Victorina (W)",
                 "position": "AWAY",
-                "short_name": "LA Clippers"
+                "short_name": "Himeji Victo (W)"
             }
         ],
         "propositions": [
             {
-                "name": "Sacramento",
-                "returnWin": 2.4
+                "name": "Denso Airybees (W)",
+                "returnWin": 2.5
             },
             {
-                "name": "LA Clippers",
-                "returnWin": 1.6
+                "name": "Himeji Victorina (W)",
+                "returnWin": 1.46
             }
         ],
-        "match_name": "Sacramento v LA Clippers",
+        "match_name": "Denso (W) v Himeji Victo (W)",
         "betOption": "Head To Head",
-        "start_time": "2026-02-07T03:10:00.000Z"
+        "start_time": "2026-02-07T04:05:00.000Z"
+    },
+    {
+        "contestant_names": "UC Capitals, (1.68) VERSES Geelong, (2.15)",
+        "start_time_aest": "2026-02-07T15:07:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "WNBL",
+        "contestants": [
+            {
+                "full_name": "UC Capitals",
+                "position": "HOME",
+                "short_name": "UC Capitals"
+            },
+            {
+                "full_name": "Geelong",
+                "position": "AWAY",
+                "short_name": "Geelong"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "UC Capitals",
+                "returnWin": 1.68
+            },
+            {
+                "name": "Geelong",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "UC Capitals v Geelong",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T04:07:00.000Z"
     }
 ]
