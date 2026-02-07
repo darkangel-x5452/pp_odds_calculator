@@ -60,5 +60,98 @@
         "match_name": "Sthn Illinois v Murray State",
         "betOption": "Head To Head",
         "start_time": "2026-02-07T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Northern Iowa, (1.6) VERSES Bradley, (2.35)",
+        "start_time_aest": "2026-02-07T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Northern Iowa",
+                "position": "HOME",
+                "short_name": "Northern Iowa"
+            },
+            {
+                "full_name": "Bradley",
+                "position": "AWAY",
+                "short_name": "Bradley"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Northern Iowa",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Bradley",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Northern Iowa v Bradley",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Nao Hibino, (1.55) VERSES Yexin Ma, (2.3)",
+        "start_time_aest": "2026-02-07T12:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens Australia",
+        "contestants": [
+            {
+                "full_name": "Nao Hibino",
+                "position": "HOME",
+                "short_name": "Hibino"
+            },
+            {
+                "full_name": "Yexin Ma",
+                "position": "AWAY",
+                "short_name": "Ma Y"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nao Hibino",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Yexin Ma",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Hibino v Ma Y",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Milwaukee, (2) VERSES Indiana, (1.85)",
+        "start_time_aest": "2026-02-07T12:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Milwaukee",
+                "position": "HOME",
+                "short_name": "Milwaukee"
+            },
+            {
+                "full_name": "Indiana",
+                "position": "AWAY",
+                "short_name": "Indiana"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Milwaukee",
+                "returnWin": 2
+            },
+            {
+                "name": "Indiana",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Milwaukee v Indiana",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T01:10:00.000Z"
     }
 ]
