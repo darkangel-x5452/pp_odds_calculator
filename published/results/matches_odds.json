@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Emirates Blues, (1.75) VERSES Sharjah, (2.05)",
-        "start_time_aest": "2026-02-08T00:15:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Emirates D10",
-        "contestants": [
-            {
-                "full_name": "Emirates Blues",
-                "position": "HOME",
-                "short_name": "Emirates Blues"
-            },
-            {
-                "full_name": "Sharjah",
-                "position": "AWAY",
-                "short_name": "Sharjah"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Emirates Blues",
-                "returnWin": 1.75
-            },
-            {
-                "name": "Sharjah",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Emirates Blues v Sharjah",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-07T13:15:00.000Z"
-    },
-    {
-        "contestant_names": "Dhakshineswar Suresh, (2.5) VERSES Jesper De Jong, (1.5)",
-        "start_time_aest": "2026-02-08T00:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Davis Cup",
-        "contestants": [
-            {
-                "full_name": "Dhakshineswar Suresh",
-                "position": "HOME",
-                "short_name": "Suresh D"
-            },
-            {
-                "full_name": "Jesper De Jong",
-                "position": "AWAY",
-                "short_name": "De Jong"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Dhakshineswar Suresh",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Jesper De Jong",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Suresh D v De Jong",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-07T13:30:00.000Z"
-    },
-    {
         "contestant_names": "Estonia, (2) VERSES Norway, (1.72)",
         "start_time_aest": "2026-02-08T00:35:00+11:00",
         "sport_name": "Winter Olympics",
@@ -122,5 +60,98 @@
         "match_name": "Czechia v South Korea",
         "betOption": "Head To Head",
         "start_time": "2026-02-07T13:35:00.000Z"
+    },
+    {
+        "contestant_names": "WKK Wroclaw, (1.72) VERSES Inea Azs Poznan, (1.97)",
+        "start_time_aest": "2026-02-08T01:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Poland First Division",
+        "contestants": [
+            {
+                "full_name": "WKK Wroclaw",
+                "position": "HOME",
+                "short_name": "WKK Wroclaw"
+            },
+            {
+                "full_name": "Inea Azs Poznan",
+                "position": "AWAY",
+                "short_name": "Inea Azs Poznan"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "WKK Wroclaw",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Inea Azs Poznan",
+                "returnWin": 1.97
+            }
+        ],
+        "match_name": "WKK Wroclaw v Inea Azs Poznan",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Team Yandex, (1.75) VERSES Team Spirit, (1.95)",
+        "start_time_aest": "2026-02-08T01:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "contestants": [
+            {
+                "full_name": "Team Yandex",
+                "position": "HOME",
+                "short_name": "Team Yandex"
+            },
+            {
+                "full_name": "Team Spirit",
+                "position": "AWAY",
+                "short_name": "Team Spirit"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Team Yandex",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Team Spirit",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Team Yandex v Team Spirit",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Bristol, (1.6) VERSES Exeter, (2.25)",
+        "start_time_aest": "2026-02-08T01:00:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "Premiership Rugby Cup",
+        "contestants": [
+            {
+                "full_name": "Bristol",
+                "position": "HOME",
+                "short_name": "Bristol"
+            },
+            {
+                "full_name": "Exeter",
+                "position": "AWAY",
+                "short_name": "Exeter"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bristol",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Exeter",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Bristol v Exeter",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T14:00:00.000Z"
     }
 ]
