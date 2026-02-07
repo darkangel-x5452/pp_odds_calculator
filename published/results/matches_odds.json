@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Vitaliy Sachko, (2.35) VERSES Christopher OConnell, (1.52)",
-        "start_time_aest": "2026-02-07T21:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "contestants": [
-            {
-                "full_name": "Vitaliy Sachko",
-                "position": "HOME",
-                "short_name": "Sachko"
-            },
-            {
-                "full_name": "Christopher OConnell",
-                "position": "AWAY",
-                "short_name": "OConnell"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Vitaliy Sachko",
-                "returnWin": 2.35
-            },
-            {
-                "name": "Christopher OConnell",
-                "returnWin": 1.52
-            }
-        ],
-        "match_name": "Sachko v OConnell",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-07T10:30:00.000Z"
-    },
-    {
-        "contestant_names": "Hugo Grenier, (1.6) VERSES Jan Choinski, (2.2)",
-        "start_time_aest": "2026-02-07T21:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "contestants": [
-            {
-                "full_name": "Hugo Grenier",
-                "position": "HOME",
-                "short_name": "Grenier"
-            },
-            {
-                "full_name": "Jan Choinski",
-                "position": "AWAY",
-                "short_name": "Choinski J"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Hugo Grenier",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Jan Choinski",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Grenier v Choinski J",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-07T10:30:00.000Z"
-    },
-    {
-        "contestant_names": "Solana Sierra, (1.95) VERSES Alycia Parks, (1.75)",
-        "start_time_aest": "2026-02-07T21:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestants": [
-            {
-                "full_name": "Solana Sierra",
-                "position": "HOME",
-                "short_name": "Sierra"
-            },
-            {
-                "full_name": "Alycia Parks",
-                "position": "AWAY",
-                "short_name": "Parks"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Solana Sierra",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Alycia Parks",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Sierra v Parks",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-07T10:30:00.000Z"
-    },
-    {
         "contestant_names": "Fiji, (1.53) VERSES South Africa, (2.37)",
         "start_time_aest": "2026-02-07T21:52:00+11:00",
         "sport_name": "Rugby Union",
@@ -215,5 +122,98 @@
         "match_name": "Guodong v Xintong",
         "betOption": "Result",
         "start_time": "2026-02-07T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Vimpelin Veto, (1.73) VERSES Pyrinto, (1.95)",
+        "start_time_aest": "2026-02-07T22:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Finland Korisliiga Women",
+        "contestants": [
+            {
+                "full_name": "Vimpelin Veto",
+                "position": "HOME",
+                "short_name": "Vimpelin Veto"
+            },
+            {
+                "full_name": "Pyrinto",
+                "position": "AWAY",
+                "short_name": "Pyrinto"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Vimpelin Veto",
+                "returnWin": 1.73
+            },
+            {
+                "name": "Pyrinto",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Vimpelin Veto v Pyrinto",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "NinjasInPyjamas, (1.75) VERSES Team WE, (1.95)",
+        "start_time_aest": "2026-02-07T22:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "contestants": [
+            {
+                "full_name": "NinjasInPyjamas",
+                "position": "HOME",
+                "short_name": "NinjasInPyjamas"
+            },
+            {
+                "full_name": "Team WE",
+                "position": "AWAY",
+                "short_name": "Team WE"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "NinjasInPyjamas",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Team WE",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "NinjasInPyjamas v Team WE",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "France, (1.72) VERSES New Zealand, (2)",
+        "start_time_aest": "2026-02-07T22:14:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "HSBC Sevens",
+        "contestants": [
+            {
+                "full_name": "France",
+                "position": "HOME",
+                "short_name": "France"
+            },
+            {
+                "full_name": "New Zealand",
+                "position": "AWAY",
+                "short_name": "New Zealand"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "France",
+                "returnWin": 1.72
+            },
+            {
+                "name": "New Zealand",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "France v New Zealand",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T11:14:00.000Z"
     }
 ]
