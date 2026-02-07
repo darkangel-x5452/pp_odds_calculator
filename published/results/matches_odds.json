@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Shintaro Mochizuki, (1.72) VERSES Sebastian Ofner, (2.05)",
-        "start_time_aest": "2026-02-07T17:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Davis Cup",
-        "contestants": [
-            {
-                "full_name": "Shintaro Mochizuki",
-                "position": "HOME",
-                "short_name": "Mochizuki S"
-            },
-            {
-                "full_name": "Sebastian Ofner",
-                "position": "AWAY",
-                "short_name": "Ofner S"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Shintaro Mochizuki",
-                "returnWin": 1.72
-            },
-            {
-                "name": "Sebastian Ofner",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Mochizuki S v Ofner S",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-07T06:00:00.000Z"
-    },
-    {
         "contestant_names": "Toyama Grouses, (2.5) VERSES Saga Ballooners, (1.45)",
         "start_time_aest": "2026-02-07T17:05:00+11:00",
         "sport_name": "Basketball",
@@ -91,5 +60,67 @@
         "match_name": "Kagoshima Rebnis v Kumamoto Volters",
         "betOption": "Head To Head",
         "start_time": "2026-02-07T06:05:00.000Z"
+    },
+    {
+        "contestant_names": "Shintaro Mochizuki, (1.68) VERSES Sebastian Ofner, (2.1)",
+        "start_time_aest": "2026-02-07T17:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Davis Cup",
+        "contestants": [
+            {
+                "full_name": "Shintaro Mochizuki",
+                "position": "HOME",
+                "short_name": "Mochizuki S"
+            },
+            {
+                "full_name": "Sebastian Ofner",
+                "position": "AWAY",
+                "short_name": "Ofner S"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Shintaro Mochizuki",
+                "returnWin": 1.68
+            },
+            {
+                "name": "Sebastian Ofner",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Mochizuki S v Ofner S",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T06:30:00.000Z"
+    },
+    {
+        "contestant_names": "Itanda Kayakers, (2.05) VERSES Karuma Rapids, (1.75)",
+        "start_time_aest": "2026-02-07T18:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Waterfalls Elite League T20",
+        "contestants": [
+            {
+                "full_name": "Itanda Kayakers",
+                "position": "HOME",
+                "short_name": "Itanda Kayakers"
+            },
+            {
+                "full_name": "Karuma Rapids",
+                "position": "AWAY",
+                "short_name": "Karuma Rapids"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Itanda Kayakers",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Karuma Rapids",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Itanda Kayakers v Karuma Rapids",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T07:00:00.000Z"
     }
 ]
