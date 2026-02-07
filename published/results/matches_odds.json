@@ -1,33 +1,188 @@
 [
     {
-        "contestant_names": "Tureberg Basket, (2.05) VERSES Wetterbygden Sta, (1.66)",
-        "start_time_aest": "2026-02-08T03:00:00+11:00",
+        "contestant_names": "Peristeri, (1.55) VERSES Iraklis, (2.3)",
+        "start_time_aest": "2026-02-08T03:15:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Sweden Superettan",
+        "competition_name": "Greece A1",
         "contestants": [
             {
-                "full_name": "Tureberg Basket",
+                "full_name": "Peristeri",
                 "position": "HOME",
-                "short_name": "Tureberg Basket"
+                "short_name": "Peristeri"
             },
             {
-                "full_name": "Wetterbygden Sta",
+                "full_name": "Iraklis",
                 "position": "AWAY",
-                "short_name": "Wetterbygden Sta"
+                "short_name": "Iraklis"
             }
         ],
         "propositions": [
             {
-                "name": "Tureberg Basket",
-                "returnWin": 2.05
+                "name": "Peristeri",
+                "returnWin": 1.55
             },
             {
-                "name": "Wetterbygden Sta",
-                "returnWin": 1.66
+                "name": "Iraklis",
+                "returnWin": 2.3
             }
         ],
-        "match_name": "Tureberg Basket v Wetterbygden Sta",
+        "match_name": "Peristeri v Iraklis",
         "betOption": "Head To Head",
-        "start_time": "2026-02-07T16:00:00.000Z"
+        "start_time": "2026-02-07T16:15:00.000Z"
+    },
+    {
+        "contestant_names": "NH Ostrava, (1.6) VERSES Pisek Srsni, (2.15)",
+        "start_time_aest": "2026-02-08T03:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Czech Republic NBL",
+        "contestants": [
+            {
+                "full_name": "NH Ostrava",
+                "position": "HOME",
+                "short_name": "NH Ostrava"
+            },
+            {
+                "full_name": "Pisek Srsni",
+                "position": "AWAY",
+                "short_name": "Pisek Srsni"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "NH Ostrava",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Pisek Srsni",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "NH Ostrava v Pisek Srsni",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T16:30:00.000Z"
+    },
+    {
+        "contestant_names": "Ginasio, (2.5) VERSES Maia Basket, (1.45)",
+        "start_time_aest": "2026-02-08T03:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Portugal ProLiga",
+        "contestants": [
+            {
+                "full_name": "Ginasio",
+                "position": "HOME",
+                "short_name": "Ginasio"
+            },
+            {
+                "full_name": "Maia Basket",
+                "position": "AWAY",
+                "short_name": "Maia Basket"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ginasio",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Maia Basket",
+                "returnWin": 1.45
+            }
+        ],
+        "match_name": "Ginasio v Maia Basket",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T16:30:00.000Z"
+    },
+    {
+        "contestant_names": "Daniel Elahi Galan, (2.25) VERSES Juan Bautista Torres, (1.58)",
+        "start_time_aest": "2026-02-08T03:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "contestants": [
+            {
+                "full_name": "Daniel Elahi Galan",
+                "position": "HOME",
+                "short_name": "Elahi Galan"
+            },
+            {
+                "full_name": "Juan Bautista Torres",
+                "position": "AWAY",
+                "short_name": "Bautista Torres"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Daniel Elahi Galan",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Juan Bautista Torres",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Elahi Galan v Bautista Torres",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T16:30:00.000Z"
+    },
+    {
+        "contestant_names": "Pablo Carreno Busta, (1.52) VERSES Roberto Carballes Baena, (2.35)",
+        "start_time_aest": "2026-02-08T03:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "contestants": [
+            {
+                "full_name": "Pablo Carreno Busta",
+                "position": "HOME",
+                "short_name": "Carreno Busta"
+            },
+            {
+                "full_name": "Roberto Carballes Baena",
+                "position": "AWAY",
+                "short_name": "Carballes Baena"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Pablo Carreno Busta",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Roberto Carballes Baena",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Carreno Busta v Carballes Baena",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T16:30:00.000Z"
+    },
+    {
+        "contestant_names": "Francesco Maestrelli, (1.46) VERSES Pol Martin Tiffon, (2.5)",
+        "start_time_aest": "2026-02-08T03:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Francesco Maestrelli",
+                "position": "HOME",
+                "short_name": "Maestrelli"
+            },
+            {
+                "full_name": "Pol Martin Tiffon",
+                "position": "AWAY",
+                "short_name": "Martin Tiffon"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Francesco Maestrelli",
+                "returnWin": 1.46
+            },
+            {
+                "name": "Pol Martin Tiffon",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Maestrelli v Martin Tiffon",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T16:30:00.000Z"
     }
 ]
