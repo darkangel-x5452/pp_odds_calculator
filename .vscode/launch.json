@@ -5,10 +5,17 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "main_app",
+            "name": "main_app_odds",
             "type": "debugpy",
             "request": "launch",
-            "module": "main_app",
+            "module": "main_app_odds",
+            "envFile": "${workspaceFolder}/.env",
+        },
+        {
+            "name": "main_app_compare",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "main_app_compare",
             "envFile": "${workspaceFolder}/.env",
         }
     ]

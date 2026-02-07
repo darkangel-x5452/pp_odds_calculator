@@ -110,6 +110,7 @@ class GetMatchesOdds():
         keep_keys = [
             "name",
             "returnWin",
+            "returnPlace",
         ]
         for _proposition in propositions:
             cleaned_proposition = {}
@@ -194,7 +195,7 @@ class GetMatchesOdds():
                         value = new_copy.pop(key)
                         cleaned_contestants_new.append({key: value, **new_copy})
                 cleaned_contestants = cleaned_contestants_new.copy()
-                proposition_names = [f"{p['name']}, ({p['returnWin']})" for p in clean_propositions]
+                proposition_names = [p['name'] for p in clean_propositions]
                 contestant_full_names = " VERSES ".join(proposition_names)
                 if two_dollar_flag is True:
                     start_time_aest = datetime.fromisoformat(start_time.replace("Z", "+00:00"))
