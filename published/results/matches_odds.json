@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Georgii Kravchenko, (1.62) VERSES Alessandro Pecci, (2.15)",
-        "start_time_aest": "2026-02-07T18:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Georgii Kravchenko",
-                "position": "HOME",
-                "short_name": "Kravchenko G"
-            },
-            {
-                "full_name": "Alessandro Pecci",
-                "position": "AWAY",
-                "short_name": "Pecci A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Georgii Kravchenko",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Alessandro Pecci",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Kravchenko G v Pecci A",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-07T07:30:00.000Z"
-    },
-    {
-        "contestant_names": "Shintaro Mochizuki, (1.68) VERSES Sebastian Ofner, (2.1)",
-        "start_time_aest": "2026-02-07T18:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Davis Cup",
-        "contestants": [
-            {
-                "full_name": "Shintaro Mochizuki",
-                "position": "HOME",
-                "short_name": "Mochizuki S"
-            },
-            {
-                "full_name": "Sebastian Ofner",
-                "position": "AWAY",
-                "short_name": "Ofner S"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Shintaro Mochizuki",
-                "returnWin": 1.68
-            },
-            {
-                "name": "Sebastian Ofner",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Mochizuki S v Ofner S",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-07T07:30:00.000Z"
-    },
-    {
         "contestant_names": "Titans (W), (1.55) VERSES North West (W), (2.4)",
         "start_time_aest": "2026-02-07T19:00:00+11:00",
         "sport_name": "Cricket",
@@ -153,5 +91,98 @@
         "match_name": "Haddad Maia v Zakharova A",
         "betOption": "Head To Head",
         "start_time": "2026-02-07T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Yuliia Starodubtseva, (1.62) VERSES Moyuka Uchijima, (2.15)",
+        "start_time_aest": "2026-02-07T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Yuliia Starodubtseva",
+                "position": "HOME",
+                "short_name": "Starodubtseva"
+            },
+            {
+                "full_name": "Moyuka Uchijima",
+                "position": "AWAY",
+                "short_name": "Uchijima"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Yuliia Starodubtseva",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Moyuka Uchijima",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Starodubtseva v Uchijima",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Utsunomiya Brex, (2) VERSES Nagasaki Velca, (1.7)",
+        "start_time_aest": "2026-02-07T19:05:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Japan B League",
+        "contestants": [
+            {
+                "full_name": "Utsunomiya Brex",
+                "position": "HOME",
+                "short_name": "Utsunomiya Brex"
+            },
+            {
+                "full_name": "Nagasaki Velca",
+                "position": "AWAY",
+                "short_name": "Nagasaki Velca"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Utsunomiya Brex",
+                "returnWin": 2
+            },
+            {
+                "name": "Nagasaki Velca",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "Utsunomiya Brex v Nagasaki Velca",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T08:05:00.000Z"
+    },
+    {
+        "contestant_names": "France, (1.55) VERSES Australia, (2.3)",
+        "start_time_aest": "2026-02-07T19:20:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "HSBC Sevens",
+        "contestants": [
+            {
+                "full_name": "France",
+                "position": "HOME",
+                "short_name": "France"
+            },
+            {
+                "full_name": "Australia",
+                "position": "AWAY",
+                "short_name": "Australia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "France",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Australia",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "France v Australia",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-07T08:20:00.000Z"
     }
 ]
