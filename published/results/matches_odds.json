@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "BRASIL Bruna, (2.3) VERSES SOUZA Ketlen, (1.62)",
-        "start_time_aest": "2026-02-08T11:04:00+11:00",
-        "sport_name": "UFC",
-        "competition_name": "UFC",
-        "contestants": [
-            {
-                "full_name": "BRASIL Bruna",
-                "position": "HOME",
-                "short_name": "Brasil"
-            },
-            {
-                "full_name": "SOUZA Ketlen",
-                "position": "AWAY",
-                "short_name": "SouzaK"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "BRASIL Bruna",
-                "returnWin": 2.3
-            },
-            {
-                "name": "SOUZA Ketlen",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Brasil v SouzaK",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T00:04:00.000Z"
-    },
-    {
-        "contestant_names": "Oliver Anderson, (1.67) VERSES Aoran Wang, (2.05)",
-        "start_time_aest": "2026-02-08T11:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Oliver Anderson",
-                "position": "HOME",
-                "short_name": "Anderson O"
-            },
-            {
-                "full_name": "Aoran Wang",
-                "position": "AWAY",
-                "short_name": "WangA"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Oliver Anderson",
-                "returnWin": 1.67
-            },
-            {
-                "name": "Aoran Wang",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Anderson O v WangA",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T00:30:00.000Z"
-    },
-    {
         "contestant_names": "Atlanta, (2.05) VERSES Charlotte, (1.8)",
         "start_time_aest": "2026-02-08T11:40:00+11:00",
         "sport_name": "Basketball",
@@ -184,5 +122,67 @@
         "match_name": "Jacksonville St v Kennesaw State",
         "betOption": "Head To Head",
         "start_time": "2026-02-08T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Liam Draxl, (1.52) VERSES Gustavo Heide, (2.4)",
+        "start_time_aest": "2026-02-08T12:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Davis Cup",
+        "contestants": [
+            {
+                "full_name": "Liam Draxl",
+                "position": "HOME",
+                "short_name": "Draxl"
+            },
+            {
+                "full_name": "Gustavo Heide",
+                "position": "AWAY",
+                "short_name": "Heide"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Liam Draxl",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Gustavo Heide",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Draxl v Heide",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Cordoba, (2.15) VERSES Franca, (1.6)",
+        "start_time_aest": "2026-02-08T12:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Champions League Americas",
+        "contestants": [
+            {
+                "full_name": "Cordoba",
+                "position": "HOME",
+                "short_name": "Cordoba"
+            },
+            {
+                "full_name": "Franca",
+                "position": "AWAY",
+                "short_name": "Franca"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Cordoba",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Franca",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Cordoba v Franca",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T01:10:00.000Z"
     }
 ]
