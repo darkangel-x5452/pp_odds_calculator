@@ -1,69 +1,7 @@
 [
     {
-        "contestant_names": "Natus Vincere, (2.1) VERSES Movistar, (1.65)",
-        "start_time_aest": "2026-02-09T05:15:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "League of Legends",
-        "contestants": [
-            {
-                "full_name": "Natus Vincere",
-                "position": "HOME",
-                "short_name": "Natus Vincere"
-            },
-            {
-                "full_name": "Movistar",
-                "position": "AWAY",
-                "short_name": "Movistar"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Natus Vincere",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Movistar",
-                "returnWin": 1.65
-            }
-        ],
-        "match_name": "Natus Vincere v Movistar",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T18:15:00.000Z"
-    },
-    {
-        "contestant_names": "Studentski Centa, (1.48) VERSES Fmp, (2.45)",
-        "start_time_aest": "2026-02-09T05:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "ABA League",
-        "contestants": [
-            {
-                "full_name": "Studentski Centa",
-                "position": "HOME",
-                "short_name": "Studentski Centa"
-            },
-            {
-                "full_name": "Fmp",
-                "position": "AWAY",
-                "short_name": "Fmp"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Studentski Centa",
-                "returnWin": 1.48
-            },
-            {
-                "name": "Fmp",
-                "returnWin": 2.45
-            }
-        ],
-        "match_name": "Studentski Centa v Fmp",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T18:30:00.000Z"
-    },
-    {
         "contestant_names": "Hugo Dellien, (2.1) VERSES Thiago Moura Monteiro, (1.65)",
-        "start_time_aest": "2026-02-09T05:30:00+11:00",
+        "start_time_aest": "2026-02-09T05:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP",
         "contestants": [
@@ -90,69 +28,7 @@
         ],
         "match_name": "Dellien H v Monteiro",
         "betOption": "Head To Head",
-        "start_time": "2026-02-08T18:30:00.000Z"
-    },
-    {
-        "contestant_names": "Patrick Kypson, (1.52) VERSES Jack Pinnington Jones, (2.35)",
-        "start_time_aest": "2026-02-09T05:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "contestants": [
-            {
-                "full_name": "Patrick Kypson",
-                "position": "HOME",
-                "short_name": "Kypson"
-            },
-            {
-                "full_name": "Jack Pinnington Jones",
-                "position": "AWAY",
-                "short_name": "Pinnington Jones"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Patrick Kypson",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Jack Pinnington Jones",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Kypson v Pinnington Jones",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T18:30:00.000Z"
-    },
-    {
-        "contestant_names": "Andres Andrade, (2.5) VERSES Jordan Thompson, (1.5)",
-        "start_time_aest": "2026-02-09T05:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Davis Cup",
-        "contestants": [
-            {
-                "full_name": "Andres Andrade",
-                "position": "HOME",
-                "short_name": "Andrade A"
-            },
-            {
-                "full_name": "Jordan Thompson",
-                "position": "AWAY",
-                "short_name": "Thompson J"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Andres Andrade",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Jordan Thompson",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Andrade A v Thompson J",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T18:30:00.000Z"
+        "start_time": "2026-02-08T18:45:00.000Z"
     },
     {
         "contestant_names": "Hapoel Jerusalem, (1.95) VERSES Hapoel Tel Aviv, (1.75)",
@@ -213,6 +89,37 @@
             }
         ],
         "match_name": "Virginia v Notre Dame",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Geoffrey Blancaneaux, (1.5) VERSES Cyril Vandermeersch, (2.35)",
+        "start_time_aest": "2026-02-09T06:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Geoffrey Blancaneaux",
+                "position": "HOME",
+                "short_name": "Blancaneaux"
+            },
+            {
+                "full_name": "Cyril Vandermeersch",
+                "position": "AWAY",
+                "short_name": "Vandermeersch"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Geoffrey Blancaneaux",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Cyril Vandermeersch",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Blancaneaux v Vandermeersch",
         "betOption": "Head To Head",
         "start_time": "2026-02-08T19:00:00.000Z"
     }
