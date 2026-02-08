@@ -29,5 +29,36 @@
         "match_name": "Nacional Fray v Flamengo",
         "betOption": "Head To Head",
         "start_time": "2026-02-08T22:10:00.000Z"
+    },
+    {
+        "contestant_names": "Ciclista Juninen, (1.57) VERSES Deportivo Viedma, (2.2)",
+        "start_time_aest": "2026-02-09T10:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Ciclista Juninen",
+                "position": "HOME",
+                "short_name": "Ciclista Juninen"
+            },
+            {
+                "full_name": "Deportivo Viedma",
+                "position": "AWAY",
+                "short_name": "Deportivo Viedma"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ciclista Juninen",
+                "returnWin": 1.57
+            },
+            {
+                "name": "Deportivo Viedma",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Ciclista Juninen v Deportivo Viedma",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T23:30:00.000Z"
     }
 ]
