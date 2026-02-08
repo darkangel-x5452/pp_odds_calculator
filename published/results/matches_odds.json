@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Solana Sierra, (2) VERSES Karolina Pliskova, (1.8)",
-        "start_time_aest": "2026-02-09T01:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestants": [
-            {
-                "full_name": "Solana Sierra",
-                "position": "HOME",
-                "short_name": "Sierra"
-            },
-            {
-                "full_name": "Karolina Pliskova",
-                "position": "AWAY",
-                "short_name": "Pliskova Ka"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Solana Sierra",
-                "returnWin": 2
-            },
-            {
-                "name": "Karolina Pliskova",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "Sierra v Pliskova Ka",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T14:30:00.000Z"
-    },
-    {
-        "contestant_names": "Naiktha Bains, (1.63) VERSES Isabella Shinikova, (2.1)",
-        "start_time_aest": "2026-02-09T01:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA 125 Tour",
-        "contestants": [
-            {
-                "full_name": "Naiktha Bains",
-                "position": "HOME",
-                "short_name": "Bains"
-            },
-            {
-                "full_name": "Isabella Shinikova",
-                "position": "AWAY",
-                "short_name": "Shinikova"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Naiktha Bains",
-                "returnWin": 1.63
-            },
-            {
-                "name": "Isabella Shinikova",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Bains v Shinikova",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T14:30:00.000Z"
-    },
-    {
         "contestant_names": "Leicester, (1.55) VERSES Newcastle, (2.3)",
         "start_time_aest": "2026-02-09T02:00:00+11:00",
         "sport_name": "Basketball",
@@ -182,6 +120,37 @@
             }
         ],
         "match_name": "Napoli v Reyer Venezia",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T15:00:00.000Z"
+    },
+    {
+        "contestant_names": "Slovan Bratislav, (1.72) VERSES Levicki Patrioti, (1.97)",
+        "start_time_aest": "2026-02-09T02:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Slovakia Extraliga",
+        "contestants": [
+            {
+                "full_name": "Slovan Bratislav",
+                "position": "HOME",
+                "short_name": "Slovan Bratislav"
+            },
+            {
+                "full_name": "Levicki Patrioti",
+                "position": "AWAY",
+                "short_name": "Levicki Patrioti"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Slovan Bratislav",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Levicki Patrioti",
+                "returnWin": 1.97
+            }
+        ],
+        "match_name": "Slovan Bratislav v Levicki Patrioti",
         "betOption": "Head To Head",
         "start_time": "2026-02-08T15:00:00.000Z"
     }
