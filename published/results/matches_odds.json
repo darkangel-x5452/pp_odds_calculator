@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Manisa, (1.52) VERSES Bursaspor, (2.3)",
-        "start_time_aest": "2026-02-09T04:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Turkey Super League",
-        "contestants": [
-            {
-                "full_name": "Manisa",
-                "position": "HOME",
-                "short_name": "Manisa"
-            },
-            {
-                "full_name": "Bursaspor",
-                "position": "AWAY",
-                "short_name": "Bursaspor"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Manisa",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Bursaspor",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Manisa v Bursaspor",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T17:30:00.000Z"
-    },
-    {
         "contestant_names": "Boston, (1.6) VERSES New York, (2.4)",
         "start_time_aest": "2026-02-09T04:40:00+11:00",
         "sport_name": "Basketball",
@@ -60,5 +29,129 @@
         "match_name": "Boston v New York",
         "betOption": "Head To Head",
         "start_time": "2026-02-08T17:40:00.000Z"
+    },
+    {
+        "contestant_names": "Elan Chalon, (2.3) VERSES Monaco, (1.52)",
+        "start_time_aest": "2026-02-09T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "France LNB Pro A",
+        "contestants": [
+            {
+                "full_name": "Elan Chalon",
+                "position": "HOME",
+                "short_name": "Elan Chalon"
+            },
+            {
+                "full_name": "Monaco",
+                "position": "AWAY",
+                "short_name": "Monaco"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Elan Chalon",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Monaco",
+                "returnWin": 1.52
+            }
+        ],
+        "match_name": "Elan Chalon v Monaco",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Creighton, (2) VERSES Marquette, (1.75)",
+        "start_time_aest": "2026-02-09T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Creighton",
+                "position": "HOME",
+                "short_name": "Creighton"
+            },
+            {
+                "full_name": "Marquette",
+                "position": "AWAY",
+                "short_name": "Marquette"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Creighton",
+                "returnWin": 2
+            },
+            {
+                "name": "Marquette",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Creighton v Marquette",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Illinois, (2.25) VERSES USC, (1.6)",
+        "start_time_aest": "2026-02-09T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Illinois",
+                "position": "HOME",
+                "short_name": "Illinois"
+            },
+            {
+                "full_name": "USC",
+                "position": "AWAY",
+                "short_name": "USC"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Illinois",
+                "returnWin": 2.25
+            },
+            {
+                "name": "USC",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Illinois v USC",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Hugo Dellien, (2.1) VERSES Thiago Moura Monteiro, (1.65)",
+        "start_time_aest": "2026-02-09T05:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "contestants": [
+            {
+                "full_name": "Hugo Dellien",
+                "position": "HOME",
+                "short_name": "Dellien H"
+            },
+            {
+                "full_name": "Thiago Moura Monteiro",
+                "position": "AWAY",
+                "short_name": "Monteiro"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hugo Dellien",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Thiago Moura Monteiro",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Dellien H v Monteiro",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T18:00:00.000Z"
     }
 ]
