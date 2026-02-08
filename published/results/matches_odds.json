@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Spain, (1.53) VERSES Great Britain, (2.37)",
-        "start_time_aest": "2026-02-08T14:14:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "HSBC Sevens",
-        "contestants": [
-            {
-                "full_name": "Spain",
-                "position": "HOME",
-                "short_name": "Spain"
-            },
-            {
-                "full_name": "Great Britain",
-                "position": "AWAY",
-                "short_name": "Great Britain"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Spain",
-                "returnWin": 1.53
-            },
-            {
-                "name": "Great Britain",
-                "returnWin": 2.37
-            }
-        ],
-        "match_name": "Spain v Great Britain",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T03:14:00.000Z"
-    },
-    {
-        "contestant_names": "Dane Sweeny, (1.95) VERSES Tristan Schoolkate, (1.75)",
-        "start_time_aest": "2026-02-08T14:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Dane Sweeny",
-                "position": "HOME",
-                "short_name": "Sweeny"
-            },
-            {
-                "full_name": "Tristan Schoolkate",
-                "position": "AWAY",
-                "short_name": "Schoolkate"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Dane Sweeny",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Tristan Schoolkate",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Sweeny v Schoolkate",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T03:30:00.000Z"
-    },
-    {
-        "contestant_names": "Liam Draxl, (1.62) VERSES Gustavo Heide, (2.2)",
-        "start_time_aest": "2026-02-08T14:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Davis Cup",
-        "contestants": [
-            {
-                "full_name": "Liam Draxl",
-                "position": "HOME",
-                "short_name": "Draxl"
-            },
-            {
-                "full_name": "Gustavo Heide",
-                "position": "AWAY",
-                "short_name": "Heide"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Liam Draxl",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Gustavo Heide",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Draxl v Heide",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T03:30:00.000Z"
-    },
-    {
         "contestant_names": "France, (1.62) VERSES Argentina, (2.2)",
         "start_time_aest": "2026-02-08T14:36:00+11:00",
         "sport_name": "Rugby Union",
@@ -217,6 +124,37 @@
         "start_time": "2026-02-08T04:00:00.000Z"
     },
     {
+        "contestant_names": "Dane Sweeny, (1.95) VERSES Tristan Schoolkate, (1.75)",
+        "start_time_aest": "2026-02-08T15:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Dane Sweeny",
+                "position": "HOME",
+                "short_name": "Sweeny"
+            },
+            {
+                "full_name": "Tristan Schoolkate",
+                "position": "AWAY",
+                "short_name": "Schoolkate"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Dane Sweeny",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Tristan Schoolkate",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Sweeny v Schoolkate",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T04:00:00.000Z"
+    },
+    {
         "contestant_names": "Levanga Hokkaido, (1.95) VERSES Aisin Seahorses, (1.73)",
         "start_time_aest": "2026-02-08T15:05:00+11:00",
         "sport_name": "Basketball",
@@ -246,5 +184,36 @@
         "match_name": "Levanga Hokkaido v Aisin Seahorses",
         "betOption": "Head To Head",
         "start_time": "2026-02-08T04:05:00.000Z"
+    },
+    {
+        "contestant_names": "BAUTISTA Mario, (1.76) VERSES DE OLIVEIRA Vinicius, (2.1)",
+        "start_time_aest": "2026-02-08T15:15:00+11:00",
+        "sport_name": "UFC",
+        "competition_name": "UFC",
+        "contestants": [
+            {
+                "full_name": "BAUTISTA Mario",
+                "position": "HOME",
+                "short_name": "Bautista"
+            },
+            {
+                "full_name": "DE OLIVEIRA Vinicius",
+                "position": "AWAY",
+                "short_name": "De Oliveira"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "BAUTISTA Mario",
+                "returnWin": 1.76
+            },
+            {
+                "name": "DE OLIVEIRA Vinicius",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Bautista v De Oliveira",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T04:15:00.000Z"
     }
 ]
