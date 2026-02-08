@@ -1,6 +1,6 @@
 [
     {
-        "contestant_names": "New Zealand, (1.5) VERSES Australia, (2.4)",
+        "contestant_names": "New Zealand, (1.5) VERSES Australia, (2.5)",
         "start_time_aest": "2026-02-08T18:35:00+11:00",
         "sport_name": "Rugby Union",
         "competition_name": "HSBC 7s Womens",
@@ -23,74 +23,12 @@
             },
             {
                 "name": "Australia",
-                "returnWin": 2.4
+                "returnWin": 2.5
             }
         ],
         "match_name": "New Zealand v Australia",
         "betOption": "Head To Head",
         "start_time": "2026-02-08T07:35:00.000Z"
-    },
-    {
-        "contestant_names": "France, (2.37) VERSES USA, (1.53)",
-        "start_time_aest": "2026-02-08T19:28:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "HSBC 7s Womens",
-        "contestants": [
-            {
-                "full_name": "France",
-                "position": "HOME",
-                "short_name": "France"
-            },
-            {
-                "full_name": "USA",
-                "position": "AWAY",
-                "short_name": "USA"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "France",
-                "returnWin": 2.37
-            },
-            {
-                "name": "USA",
-                "returnWin": 1.53
-            }
-        ],
-        "match_name": "France v USA",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T08:28:00.000Z"
-    },
-    {
-        "contestant_names": "Hyeon Chung, (2.15) VERSES Marco Trungelliti, (1.65)",
-        "start_time_aest": "2026-02-08T19:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Davis Cup",
-        "contestants": [
-            {
-                "full_name": "Hyeon Chung",
-                "position": "HOME",
-                "short_name": "Chung H"
-            },
-            {
-                "full_name": "Marco Trungelliti",
-                "position": "AWAY",
-                "short_name": "Trungelliti"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Hyeon Chung",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Marco Trungelliti",
-                "returnWin": 1.65
-            }
-        ],
-        "match_name": "Chung H v Trungelliti",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T08:30:00.000Z"
     },
     {
         "contestant_names": "Keelung Black Ki, (1.6) VERSES Changhua Bll, (2.15)",
@@ -186,6 +124,68 @@
         "start_time": "2026-02-08T09:00:00.000Z"
     },
     {
+        "contestant_names": "Titans (W), (1.8) VERSES North West (W), (2)",
+        "start_time_aest": "2026-02-08T20:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "CSA Women Pro20 Series",
+        "contestants": [
+            {
+                "full_name": "Titans (W)",
+                "position": "HOME",
+                "short_name": "Titans (W)"
+            },
+            {
+                "full_name": "North West (W)",
+                "position": "AWAY",
+                "short_name": "North West (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Titans (W)",
+                "returnWin": 1.8
+            },
+            {
+                "name": "North West (W)",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Titans (W) v North West (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Hyeon Chung, (2.15) VERSES Marco Trungelliti, (1.65)",
+        "start_time_aest": "2026-02-08T20:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Davis Cup",
+        "contestants": [
+            {
+                "full_name": "Hyeon Chung",
+                "position": "HOME",
+                "short_name": "Chung H"
+            },
+            {
+                "full_name": "Marco Trungelliti",
+                "position": "AWAY",
+                "short_name": "Trungelliti"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hyeon Chung",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Marco Trungelliti",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Chung H v Trungelliti",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T09:00:00.000Z"
+    },
+    {
         "contestant_names": "New Zealand, (1.5) VERSES Australia, (2.5)",
         "start_time_aest": "2026-02-08T20:04:00+11:00",
         "sport_name": "Rugby Union",
@@ -246,5 +246,67 @@
         "match_name": "Zoldakova v Zeltina",
         "betOption": "Head To Head",
         "start_time": "2026-02-08T09:15:00.000Z"
+    },
+    {
+        "contestant_names": "Gabriele Maria Noce, (2.5) VERSES Carles Cordoba, (1.46)",
+        "start_time_aest": "2026-02-08T20:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Gabriele Maria Noce",
+                "position": "HOME",
+                "short_name": "Noce"
+            },
+            {
+                "full_name": "Carles Cordoba",
+                "position": "AWAY",
+                "short_name": "Cordoba C"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Gabriele Maria Noce",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Carles Cordoba",
+                "returnWin": 1.46
+            }
+        ],
+        "match_name": "Noce v Cordoba C",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T09:45:00.000Z"
+    },
+    {
+        "contestant_names": "Pizza Bulls, (2.05) VERSES Ormanspor, (1.66)",
+        "start_time_aest": "2026-02-08T21:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Turkey TBL",
+        "contestants": [
+            {
+                "full_name": "Pizza Bulls",
+                "position": "HOME",
+                "short_name": "Pizza Bulls"
+            },
+            {
+                "full_name": "Ormanspor",
+                "position": "AWAY",
+                "short_name": "Ormanspor"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Pizza Bulls",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Ormanspor",
+                "returnWin": 1.66
+            }
+        ],
+        "match_name": "Pizza Bulls v Ormanspor",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T10:00:00.000Z"
     }
 ]
