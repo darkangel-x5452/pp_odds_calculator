@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "JACOBY Dustin, (1.52) VERSES WALKER Julius, (2.5)",
-        "start_time_aest": "2026-02-08T09:30:00+11:00",
-        "sport_name": "UFC",
-        "competition_name": "UFC",
-        "contestants": [
-            {
-                "full_name": "JACOBY Dustin",
-                "position": "HOME",
-                "short_name": "Jacoby"
-            },
-            {
-                "full_name": "WALKER Julius",
-                "position": "AWAY",
-                "short_name": "Ju Walker"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "JACOBY Dustin",
-                "returnWin": 1.52
-            },
-            {
-                "name": "WALKER Julius",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Jacoby v Ju Walker",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-07T22:30:00.000Z"
-    },
-    {
-        "contestant_names": "Cordoba, (2.15) VERSES Franca, (1.6)",
-        "start_time_aest": "2026-02-08T12:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Champions League Americas",
-        "contestants": [
-            {
-                "full_name": "Cordoba",
-                "position": "HOME",
-                "short_name": "Cordoba"
-            },
-            {
-                "full_name": "Franca",
-                "position": "AWAY",
-                "short_name": "Franca"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Cordoba",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Franca",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Cordoba v Franca",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T01:10:00.000Z"
-    },
-    {
-        "contestant_names": "Liam Draxl, (1.58) VERSES Gustavo Heide, (2.3)",
-        "start_time_aest": "2026-02-08T12:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Davis Cup",
-        "contestants": [
-            {
-                "full_name": "Liam Draxl",
-                "position": "HOME",
-                "short_name": "Draxl"
-            },
-            {
-                "full_name": "Gustavo Heide",
-                "position": "AWAY",
-                "short_name": "Heide"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Liam Draxl",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Gustavo Heide",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Draxl v Heide",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T01:30:00.000Z"
-    },
-    {
         "contestant_names": "Adelaide, (2.05) VERSES Southside, (1.75)",
         "start_time_aest": "2026-02-08T12:37:00+11:00",
         "sport_name": "Basketball",
@@ -217,6 +124,37 @@
         "start_time": "2026-02-08T02:00:00.000Z"
     },
     {
+        "contestant_names": "Liam Draxl, (1.6) VERSES Gustavo Heide, (2.25)",
+        "start_time_aest": "2026-02-08T13:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Davis Cup",
+        "contestants": [
+            {
+                "full_name": "Liam Draxl",
+                "position": "HOME",
+                "short_name": "Draxl"
+            },
+            {
+                "full_name": "Gustavo Heide",
+                "position": "AWAY",
+                "short_name": "Heide"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Liam Draxl",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Gustavo Heide",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Draxl v Heide",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T02:00:00.000Z"
+    },
+    {
         "contestant_names": "Phoenix, (1.62) VERSES Philadelphia, (2.35)",
         "start_time_aest": "2026-02-08T13:10:00+11:00",
         "sport_name": "Basketball",
@@ -246,5 +184,36 @@
         "match_name": "Phoenix v Philadelphia",
         "betOption": "Head To Head",
         "start_time": "2026-02-08T02:10:00.000Z"
+    },
+    {
+        "contestant_names": "Colorado, (1.6) VERSES Arizona State, (2.35)",
+        "start_time_aest": "2026-02-08T13:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Colorado",
+                "position": "HOME",
+                "short_name": "Colorado"
+            },
+            {
+                "full_name": "Arizona State",
+                "position": "AWAY",
+                "short_name": "Arizona State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Colorado",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Arizona State",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Colorado v Arizona State",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T02:30:00.000Z"
     }
 ]
