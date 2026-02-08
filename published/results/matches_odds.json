@@ -1,126 +1,95 @@
 [
     {
-        "contestant_names": "Final Genclik, (1.72) VERSES Kocaeli, (1.97)",
-        "start_time_aest": "2026-02-09T02:15:00+11:00",
+        "contestant_names": "Vitality, (1.6) VERSES Los Ratones, (2.2)",
+        "start_time_aest": "2026-02-09T02:45:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "contestants": [
+            {
+                "full_name": "Vitality",
+                "position": "HOME",
+                "short_name": "Vitality"
+            },
+            {
+                "full_name": "Los Ratones",
+                "position": "AWAY",
+                "short_name": "Los Ratones"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Vitality",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Los Ratones",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Vitality v Los Ratones",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T15:45:00.000Z"
+    },
+    {
+        "contestant_names": "Krka Novo Mesto, (1.68) VERSES KK Igokea, (2.05)",
+        "start_time_aest": "2026-02-09T03:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Turkey TBL",
+        "competition_name": "ABA League",
         "contestants": [
             {
-                "full_name": "Final Genclik",
+                "full_name": "Krka Novo Mesto",
                 "position": "HOME",
-                "short_name": "Final Genclik"
+                "short_name": "Krka Novo Mesto"
             },
             {
-                "full_name": "Kocaeli",
+                "full_name": "KK Igokea",
                 "position": "AWAY",
-                "short_name": "Kocaeli"
+                "short_name": "KK Igokea"
             }
         ],
         "propositions": [
             {
-                "name": "Final Genclik",
-                "returnWin": 1.72
-            },
-            {
-                "name": "Kocaeli",
-                "returnWin": 1.97
-            }
-        ],
-        "match_name": "Final Genclik v Kocaeli",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T15:15:00.000Z"
-    },
-    {
-        "contestant_names": "Oleg Prihodko, (2.05) VERSES Raul Brancaccio, (1.68)",
-        "start_time_aest": "2026-02-09T02:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Oleg Prihodko",
-                "position": "HOME",
-                "short_name": "Prihodko"
-            },
-            {
-                "full_name": "Raul Brancaccio",
-                "position": "AWAY",
-                "short_name": "Brancaccio R"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Oleg Prihodko",
-                "returnWin": 2.05
-            },
-            {
-                "name": "Raul Brancaccio",
+                "name": "Krka Novo Mesto",
                 "returnWin": 1.68
-            }
-        ],
-        "match_name": "Prihodko v Brancaccio R",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T15:30:00.000Z"
-    },
-    {
-        "contestant_names": "Maxime Janvier, (2.35) VERSES Viktor Durasovic, (1.5)",
-        "start_time_aest": "2026-02-09T02:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Maxime Janvier",
-                "position": "HOME",
-                "short_name": "Janvier"
             },
             {
-                "full_name": "Viktor Durasovic",
+                "name": "KK Igokea",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Krka Novo Mesto v KK Igokea",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "Sheffield, (1.68) VERSES Cheshire, (2.05)",
+        "start_time_aest": "2026-02-09T03:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "British Basketball League",
+        "contestants": [
+            {
+                "full_name": "Sheffield",
+                "position": "HOME",
+                "short_name": "Sheffield"
+            },
+            {
+                "full_name": "Cheshire",
                 "position": "AWAY",
-                "short_name": "Durasovic"
+                "short_name": "Cheshire"
             }
         ],
         "propositions": [
             {
-                "name": "Maxime Janvier",
-                "returnWin": 2.35
+                "name": "Sheffield",
+                "returnWin": 1.68
             },
             {
-                "name": "Viktor Durasovic",
-                "returnWin": 1.5
+                "name": "Cheshire",
+                "returnWin": 2.05
             }
         ],
-        "match_name": "Janvier v Durasovic",
+        "match_name": "Sheffield v Cheshire",
         "betOption": "Head To Head",
-        "start_time": "2026-02-08T15:30:00.000Z"
-    },
-    {
-        "contestant_names": "Solana Sierra, (2) VERSES Karolina Pliskova, (1.8)",
-        "start_time_aest": "2026-02-09T02:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestants": [
-            {
-                "full_name": "Solana Sierra",
-                "position": "HOME",
-                "short_name": "Sierra"
-            },
-            {
-                "full_name": "Karolina Pliskova",
-                "position": "AWAY",
-                "short_name": "Pliskova Ka"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Solana Sierra",
-                "returnWin": 2
-            },
-            {
-                "name": "Karolina Pliskova",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "Sierra v Pliskova Ka",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T15:30:00.000Z"
+        "start_time": "2026-02-08T16:00:00.000Z"
     }
 ]
