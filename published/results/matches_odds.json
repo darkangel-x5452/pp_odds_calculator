@@ -1,126 +1,64 @@
 [
     {
-        "contestant_names": "Hugo Dellien, (2.1) VERSES Thiago Moura Monteiro, (1.65)",
-        "start_time_aest": "2026-02-09T05:45:00+11:00",
+        "contestant_names": "Sho Shimabukuro, (1.5) VERSES Bernard Tomic, (2.4)",
+        "start_time_aest": "2026-02-09T07:00:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP",
         "contestants": [
             {
-                "full_name": "Hugo Dellien",
+                "full_name": "Sho Shimabukuro",
                 "position": "HOME",
-                "short_name": "Dellien H"
+                "short_name": "Shimabukuro"
             },
             {
-                "full_name": "Thiago Moura Monteiro",
+                "full_name": "Bernard Tomic",
                 "position": "AWAY",
-                "short_name": "Monteiro"
+                "short_name": "Tomic B"
             }
         ],
         "propositions": [
             {
-                "name": "Hugo Dellien",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Thiago Moura Monteiro",
-                "returnWin": 1.65
-            }
-        ],
-        "match_name": "Dellien H v Monteiro",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T18:45:00.000Z"
-    },
-    {
-        "contestant_names": "Hapoel Jerusalem, (1.95) VERSES Hapoel Tel Aviv, (1.75)",
-        "start_time_aest": "2026-02-09T05:55:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Israel Super League",
-        "contestants": [
-            {
-                "full_name": "Hapoel Jerusalem",
-                "position": "HOME",
-                "short_name": "Hapoel Jerusalem"
-            },
-            {
-                "full_name": "Hapoel Tel Aviv",
-                "position": "AWAY",
-                "short_name": "Hapoel Tel Aviv"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Hapoel Jerusalem",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Hapoel Tel Aviv",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Hapoel Jerusalem v Hapoel Tel Aviv",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T18:55:00.000Z"
-    },
-    {
-        "contestant_names": "Virginia, (2.1) VERSES Notre Dame, (1.68)",
-        "start_time_aest": "2026-02-09T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Virginia",
-                "position": "HOME",
-                "short_name": "Virginia"
-            },
-            {
-                "full_name": "Notre Dame",
-                "position": "AWAY",
-                "short_name": "Notre Dame"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Virginia",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Notre Dame",
-                "returnWin": 1.68
-            }
-        ],
-        "match_name": "Virginia v Notre Dame",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Geoffrey Blancaneaux, (1.5) VERSES Cyril Vandermeersch, (2.35)",
-        "start_time_aest": "2026-02-09T06:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Geoffrey Blancaneaux",
-                "position": "HOME",
-                "short_name": "Blancaneaux"
-            },
-            {
-                "full_name": "Cyril Vandermeersch",
-                "position": "AWAY",
-                "short_name": "Vandermeersch"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Geoffrey Blancaneaux",
+                "name": "Sho Shimabukuro",
                 "returnWin": 1.5
             },
             {
-                "name": "Cyril Vandermeersch",
-                "returnWin": 2.35
+                "name": "Bernard Tomic",
+                "returnWin": 2.4
             }
         ],
-        "match_name": "Blancaneaux v Vandermeersch",
+        "match_name": "Shimabukuro v Tomic B",
         "betOption": "Head To Head",
-        "start_time": "2026-02-08T19:00:00.000Z"
+        "start_time": "2026-02-08T20:00:00.000Z"
+    },
+    {
+        "contestant_names": "Czechia, (1.6) VERSES Finland, (2.3)",
+        "start_time_aest": "2026-02-09T07:10:00+11:00",
+        "sport_name": "Winter Olympics",
+        "competition_name": "Ice Hockey - Womens",
+        "contestants": [
+            {
+                "full_name": "Czechia",
+                "position": "HOME",
+                "short_name": "Czechia"
+            },
+            {
+                "full_name": "Finland",
+                "position": "AWAY",
+                "short_name": "Finland"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Czechia",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Finland",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Czechia v Finland",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T20:10:00.000Z"
     }
 ]
