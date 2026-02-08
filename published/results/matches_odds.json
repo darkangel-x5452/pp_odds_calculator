@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Sho Shimabukuro, (1.46) VERSES Bernard Tomic, (2.5)",
-        "start_time_aest": "2026-02-09T08:00:00+11:00",
+        "start_time_aest": "2026-02-09T08:30:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP",
         "contestants": [
@@ -28,11 +28,11 @@
         ],
         "match_name": "Shimabukuro v Tomic B",
         "betOption": "Head To Head",
-        "start_time": "2026-02-08T21:00:00.000Z"
+        "start_time": "2026-02-08T21:30:00.000Z"
     },
     {
         "contestant_names": "Geoffrey Blancaneaux, (1.45) VERSES Cyril Vandermeersch, (2.5)",
-        "start_time_aest": "2026-02-09T08:00:00+11:00",
+        "start_time_aest": "2026-02-09T08:30:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -59,6 +59,37 @@
         ],
         "match_name": "Blancaneaux v Vandermeersch",
         "betOption": "Head To Head",
-        "start_time": "2026-02-08T21:00:00.000Z"
+        "start_time": "2026-02-08T21:30:00.000Z"
+    },
+    {
+        "contestant_names": "Nacional Fray, (2.5) VERSES Flamengo, (1.45)",
+        "start_time_aest": "2026-02-09T09:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Champions League Americas",
+        "contestants": [
+            {
+                "full_name": "Nacional Fray",
+                "position": "HOME",
+                "short_name": "Nacional Fray"
+            },
+            {
+                "full_name": "Flamengo",
+                "position": "AWAY",
+                "short_name": "Flamengo"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nacional Fray",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Flamengo",
+                "returnWin": 1.45
+            }
+        ],
+        "match_name": "Nacional Fray v Flamengo",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T22:10:00.000Z"
     }
 ]
