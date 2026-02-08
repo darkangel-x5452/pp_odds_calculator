@@ -31,68 +31,6 @@
         "start_time": "2026-02-08T07:35:00.000Z"
     },
     {
-        "contestant_names": "Western Province (W), (1.55) VERSES Garden Route (W), (2.4)",
-        "start_time_aest": "2026-02-08T19:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "CSA Women Pro20 Series",
-        "contestants": [
-            {
-                "full_name": "Western Province (W)",
-                "position": "HOME",
-                "short_name": "Wst Province (W)"
-            },
-            {
-                "full_name": "Garden Route (W)",
-                "position": "AWAY",
-                "short_name": "Garden Route (W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Western Province (W)",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Garden Route (W)",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Wst Province (W) v Garden Route (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T08:00:00.000Z"
-    },
-    {
-        "contestant_names": "Hyeon Chung, (2.1) VERSES Marco Trungelliti, (1.68)",
-        "start_time_aest": "2026-02-08T19:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Davis Cup",
-        "contestants": [
-            {
-                "full_name": "Hyeon Chung",
-                "position": "HOME",
-                "short_name": "Chung H"
-            },
-            {
-                "full_name": "Marco Trungelliti",
-                "position": "AWAY",
-                "short_name": "Trungelliti"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Hyeon Chung",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Marco Trungelliti",
-                "returnWin": 1.68
-            }
-        ],
-        "match_name": "Chung H v Trungelliti",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T08:00:00.000Z"
-    },
-    {
         "contestant_names": "France, (2.37) VERSES USA, (1.53)",
         "start_time_aest": "2026-02-08T19:28:00+11:00",
         "sport_name": "Rugby Union",
@@ -122,6 +60,37 @@
         "match_name": "France v USA",
         "betOption": "Head To Head",
         "start_time": "2026-02-08T08:28:00.000Z"
+    },
+    {
+        "contestant_names": "Hyeon Chung, (2.15) VERSES Marco Trungelliti, (1.65)",
+        "start_time_aest": "2026-02-08T19:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Davis Cup",
+        "contestants": [
+            {
+                "full_name": "Hyeon Chung",
+                "position": "HOME",
+                "short_name": "Chung H"
+            },
+            {
+                "full_name": "Marco Trungelliti",
+                "position": "AWAY",
+                "short_name": "Trungelliti"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hyeon Chung",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Marco Trungelliti",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Chung H v Trungelliti",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T08:30:00.000Z"
     },
     {
         "contestant_names": "Keelung Black Ki, (1.6) VERSES Changhua Bll, (2.15)",
@@ -155,6 +124,68 @@
         "start_time": "2026-02-08T09:00:00.000Z"
     },
     {
+        "contestant_names": "Julia Avdeeva, (1.5) VERSES Veronika Podrez, (2.4)",
+        "start_time_aest": "2026-02-08T20:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Julia Avdeeva",
+                "position": "HOME",
+                "short_name": "Avdeeva"
+            },
+            {
+                "full_name": "Veronika Podrez",
+                "position": "AWAY",
+                "short_name": "Podrez"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Julia Avdeeva",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Veronika Podrez",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Avdeeva v Podrez",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Clara Vlasselaer, (2.05) VERSES Diana Martynov, (1.68)",
+        "start_time_aest": "2026-02-08T20:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Clara Vlasselaer",
+                "position": "HOME",
+                "short_name": "Vlasselaer"
+            },
+            {
+                "full_name": "Diana Martynov",
+                "position": "AWAY",
+                "short_name": "Martynov D"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Clara Vlasselaer",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Diana Martynov",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Vlasselaer v Martynov D",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T09:00:00.000Z"
+    },
+    {
         "contestant_names": "New Zealand, (1.5) VERSES Australia, (2.5)",
         "start_time_aest": "2026-02-08T20:04:00+11:00",
         "sport_name": "Rugby Union",
@@ -184,5 +215,36 @@
         "match_name": "New Zealand v Australia",
         "betOption": "Head To Head",
         "start_time": "2026-02-08T09:04:00.000Z"
+    },
+    {
+        "contestant_names": "Denisa Zoldakova, (2.3) VERSES Beatrise Zeltina, (1.55)",
+        "start_time_aest": "2026-02-08T20:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Denisa Zoldakova",
+                "position": "HOME",
+                "short_name": "Zoldakova"
+            },
+            {
+                "full_name": "Beatrise Zeltina",
+                "position": "AWAY",
+                "short_name": "Zeltina"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Denisa Zoldakova",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Beatrise Zeltina",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Zoldakova v Zeltina",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T09:15:00.000Z"
     }
 ]
