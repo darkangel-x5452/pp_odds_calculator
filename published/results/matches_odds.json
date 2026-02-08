@@ -1,129 +1,5 @@
 [
     {
-        "contestant_names": "ALMEIDA Jailton, (1.56) VERSES KUNIEV Rizvan, (2.45)",
-        "start_time_aest": "2026-02-08T13:45:00+11:00",
-        "sport_name": "UFC",
-        "competition_name": "UFC",
-        "contestants": [
-            {
-                "full_name": "ALMEIDA Jailton",
-                "position": "HOME",
-                "short_name": "Almeida"
-            },
-            {
-                "full_name": "KUNIEV Rizvan",
-                "position": "AWAY",
-                "short_name": "Kuniev"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "ALMEIDA Jailton",
-                "returnWin": 1.56
-            },
-            {
-                "name": "KUNIEV Rizvan",
-                "returnWin": 2.45
-            }
-        ],
-        "match_name": "Almeida v Kuniev",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T02:45:00.000Z"
-    },
-    {
-        "contestant_names": "Sacramento State, (2.45) VERSES Portland State, (1.55)",
-        "start_time_aest": "2026-02-08T14:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Sacramento State",
-                "position": "HOME",
-                "short_name": "Sacramento State"
-            },
-            {
-                "full_name": "Portland State",
-                "position": "AWAY",
-                "short_name": "Portland State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sacramento State",
-                "returnWin": 2.45
-            },
-            {
-                "name": "Portland State",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Sacramento State v Portland State",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T03:00:00.000Z"
-    },
-    {
-        "contestant_names": "UC Santa Barbara, (1.77) VERSES UC Irvine, (2.05)",
-        "start_time_aest": "2026-02-08T14:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "UC Santa Barbara",
-                "position": "HOME",
-                "short_name": "UC Santa Barbara"
-            },
-            {
-                "full_name": "UC Irvine",
-                "position": "AWAY",
-                "short_name": "UC Irvine"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "UC Santa Barbara",
-                "returnWin": 1.77
-            },
-            {
-                "name": "UC Irvine",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "UC Santa Barbara v UC Irvine",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T03:00:00.000Z"
-    },
-    {
-        "contestant_names": "Liam Draxl, (1.6) VERSES Gustavo Heide, (2.25)",
-        "start_time_aest": "2026-02-08T14:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Davis Cup",
-        "contestants": [
-            {
-                "full_name": "Liam Draxl",
-                "position": "HOME",
-                "short_name": "Draxl"
-            },
-            {
-                "full_name": "Gustavo Heide",
-                "position": "AWAY",
-                "short_name": "Heide"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Liam Draxl",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Gustavo Heide",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Draxl v Heide",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-08T03:00:00.000Z"
-    },
-    {
         "contestant_names": "Spain, (1.53) VERSES Great Britain, (2.37)",
         "start_time_aest": "2026-02-08T14:14:00+11:00",
         "sport_name": "Rugby Union",
@@ -182,6 +58,37 @@
             }
         ],
         "match_name": "Sweeny v Schoolkate",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T03:30:00.000Z"
+    },
+    {
+        "contestant_names": "Liam Draxl, (1.62) VERSES Gustavo Heide, (2.2)",
+        "start_time_aest": "2026-02-08T14:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Davis Cup",
+        "contestants": [
+            {
+                "full_name": "Liam Draxl",
+                "position": "HOME",
+                "short_name": "Draxl"
+            },
+            {
+                "full_name": "Gustavo Heide",
+                "position": "AWAY",
+                "short_name": "Heide"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Liam Draxl",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Gustavo Heide",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Draxl v Heide",
         "betOption": "Head To Head",
         "start_time": "2026-02-08T03:30:00.000Z"
     },
@@ -246,5 +153,98 @@
         "match_name": "South East Melb v Sydney",
         "betOption": "Head To Head",
         "start_time": "2026-02-08T03:37:00.000Z"
+    },
+    {
+        "contestant_names": "Denso Iris, (1.73) VERSES Toyota Antelopes, (1.95)",
+        "start_time_aest": "2026-02-08T15:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Japan B League Women",
+        "contestants": [
+            {
+                "full_name": "Denso Iris",
+                "position": "HOME",
+                "short_name": "Denso Iris"
+            },
+            {
+                "full_name": "Toyota Antelopes",
+                "position": "AWAY",
+                "short_name": "Toyota Antelopes"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Denso Iris",
+                "returnWin": 1.73
+            },
+            {
+                "name": "Toyota Antelopes",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Denso Iris v Toyota Antelopes",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T04:00:00.000Z"
+    },
+    {
+        "contestant_names": "Matt Hulme, (1.45) VERSES Taiyo Yamanaka, (2.5)",
+        "start_time_aest": "2026-02-08T15:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Matt Hulme",
+                "position": "HOME",
+                "short_name": "Hulme"
+            },
+            {
+                "full_name": "Taiyo Yamanaka",
+                "position": "AWAY",
+                "short_name": "Yamanaka"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Matt Hulme",
+                "returnWin": 1.45
+            },
+            {
+                "name": "Taiyo Yamanaka",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Hulme v Yamanaka",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T04:00:00.000Z"
+    },
+    {
+        "contestant_names": "Levanga Hokkaido, (1.95) VERSES Aisin Seahorses, (1.73)",
+        "start_time_aest": "2026-02-08T15:05:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Japan B League",
+        "contestants": [
+            {
+                "full_name": "Levanga Hokkaido",
+                "position": "HOME",
+                "short_name": "Levanga Hokkaido"
+            },
+            {
+                "full_name": "Aisin Seahorses",
+                "position": "AWAY",
+                "short_name": "Aisin Seahorses"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Levanga Hokkaido",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Aisin Seahorses",
+                "returnWin": 1.73
+            }
+        ],
+        "match_name": "Levanga Hokkaido v Aisin Seahorses",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-08T04:05:00.000Z"
     }
 ]
