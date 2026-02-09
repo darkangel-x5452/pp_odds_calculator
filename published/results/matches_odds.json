@@ -62,6 +62,37 @@
         "start_time": "2026-02-09T04:00:00.000Z"
     },
     {
+        "contestant_names": "Cheuk Ying Shek, (1.48) VERSES Nagi Hanatani, (2.45)",
+        "start_time_aest": "2026-02-09T15:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens Australia",
+        "contestants": [
+            {
+                "full_name": "Cheuk Ying Shek",
+                "position": "HOME",
+                "short_name": "Shek CY"
+            },
+            {
+                "full_name": "Nagi Hanatani",
+                "position": "AWAY",
+                "short_name": "Hanatani"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Cheuk Ying Shek",
+                "returnWin": 1.48
+            },
+            {
+                "name": "Nagi Hanatani",
+                "returnWin": 2.45
+            }
+        ],
+        "match_name": "Shek CY v Hanatani",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-09T04:15:00.000Z"
+    },
+    {
         "contestant_names": "Shruti Ahlawat, (1.55) VERSES Ankita Raina, (2.3)",
         "start_time_aest": "2026-02-09T16:30:00+11:00",
         "sport_name": "Tennis",
@@ -151,6 +182,37 @@
             }
         ],
         "match_name": "Eqbal v Banthia",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-09T06:30:00.000Z"
+    },
+    {
+        "contestant_names": "Nitin Kumar Sinha, (1.48) VERSES Adil Kalyanpur, (2.4)",
+        "start_time_aest": "2026-02-09T17:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Nitin Kumar Sinha",
+                "position": "HOME",
+                "short_name": "Kumar Sinha"
+            },
+            {
+                "full_name": "Adil Kalyanpur",
+                "position": "AWAY",
+                "short_name": "Kalyanpur"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nitin Kumar Sinha",
+                "returnWin": 1.48
+            },
+            {
+                "name": "Adil Kalyanpur",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Kumar Sinha v Kalyanpur",
         "betOption": "Head To Head",
         "start_time": "2026-02-09T06:30:00.000Z"
     }
