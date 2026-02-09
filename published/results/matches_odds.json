@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Shruti Ahlawat, (1.55) VERSES Ankita Raina, (2.3)",
-        "start_time_aest": "2026-02-09T16:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Shruti Ahlawat",
-                "position": "HOME",
-                "short_name": "Ahlawat"
-            },
-            {
-                "full_name": "Ankita Raina",
-                "position": "AWAY",
-                "short_name": "Raina A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Shruti Ahlawat",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Ankita Raina",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Ahlawat v Raina A",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-09T05:30:00.000Z"
-    },
-    {
         "contestant_names": "Omar Jasika, (1.65) VERSES Hikaru Shiraishi, (2.1)",
         "start_time_aest": "2026-02-09T17:00:00+11:00",
         "sport_name": "Tennis",
@@ -277,5 +246,67 @@
         "match_name": "Invictus Gaming v NinjasInPyjamas",
         "betOption": "Head To Head",
         "start_time": "2026-02-09T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Switzerland, (2.2) VERSES Canada, (1.6)",
+        "start_time_aest": "2026-02-09T20:05:00+11:00",
+        "sport_name": "Winter Olympics",
+        "competition_name": "Curling - Mixed",
+        "contestants": [
+            {
+                "full_name": "Switzerland",
+                "position": "HOME",
+                "short_name": "Switzerland"
+            },
+            {
+                "full_name": "Canada",
+                "position": "AWAY",
+                "short_name": "Canada"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Switzerland",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Canada",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Switzerland v Canada",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-09T09:05:00.000Z"
+    },
+    {
+        "contestant_names": "Norway, (1.57) VERSES South Korea, (2.25)",
+        "start_time_aest": "2026-02-09T20:05:00+11:00",
+        "sport_name": "Winter Olympics",
+        "competition_name": "Curling - Mixed",
+        "contestants": [
+            {
+                "full_name": "Norway",
+                "position": "HOME",
+                "short_name": "Norway"
+            },
+            {
+                "full_name": "South Korea",
+                "position": "AWAY",
+                "short_name": "South Korea"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Norway",
+                "returnWin": 1.57
+            },
+            {
+                "name": "South Korea",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Norway v South Korea",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-09T09:05:00.000Z"
     }
 ]
