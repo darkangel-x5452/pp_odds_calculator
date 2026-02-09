@@ -308,5 +308,36 @@
         "match_name": "Tjen v Haddad Maia",
         "betOption": "Head To Head",
         "start_time": "2026-02-09T16:30:00.000Z"
+    },
+    {
+        "contestant_names": "Hozumi/Wu, (1.8) VERSES Mihalikova/Nicholls, (1.95)",
+        "start_time_aest": "2026-02-10T03:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA Doubles",
+        "contestants": [
+            {
+                "full_name": "Hozumi/Wu",
+                "position": "HOME",
+                "short_name": "Hozumi/Wu"
+            },
+            {
+                "full_name": "Mihalikova/Nicholls",
+                "position": "AWAY",
+                "short_name": "Mihalikova/Nicholls"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hozumi/Wu",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Mihalikova/Nicholls",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Hozumi/Wu v Mihalikova/Nicholls",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-09T16:30:00.000Z"
     }
 ]
