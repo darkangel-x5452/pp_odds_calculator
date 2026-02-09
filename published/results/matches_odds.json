@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Arthur Weber, (1.72) VERSES David Jorda Sanchis, (2)",
-        "start_time_aest": "2026-02-09T16:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Arthur Weber",
-                "position": "HOME",
-                "short_name": "Weber A"
-            },
-            {
-                "full_name": "David Jorda Sanchis",
-                "position": "AWAY",
-                "short_name": "Jorda Sanchis"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Arthur Weber",
-                "returnWin": 1.72
-            },
-            {
-                "name": "David Jorda Sanchis",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Weber A v Jorda Sanchis",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-09T05:00:00.000Z"
-    },
-    {
         "contestant_names": "Shruti Ahlawat, (1.55) VERSES Ankita Raina, (2.3)",
         "start_time_aest": "2026-02-09T16:30:00+11:00",
         "sport_name": "Tennis",
@@ -277,5 +246,36 @@
         "match_name": "Gray A v Sekulic P",
         "betOption": "Head To Head",
         "start_time": "2026-02-09T08:30:00.000Z"
+    },
+    {
+        "contestant_names": "Invictus Gaming, (1.55) VERSES NinjasInPyjamas, (2.3)",
+        "start_time_aest": "2026-02-09T20:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "contestants": [
+            {
+                "full_name": "Invictus Gaming",
+                "position": "HOME",
+                "short_name": "Invictus Gaming"
+            },
+            {
+                "full_name": "NinjasInPyjamas",
+                "position": "AWAY",
+                "short_name": "NinjasInPyjamas"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Invictus Gaming",
+                "returnWin": 1.55
+            },
+            {
+                "name": "NinjasInPyjamas",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Invictus Gaming v NinjasInPyjamas",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-09T09:00:00.000Z"
     }
 ]
