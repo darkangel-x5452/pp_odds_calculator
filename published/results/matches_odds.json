@@ -1,38 +1,7 @@
 [
     {
-        "contestant_names": "Cheuk Ying Shek, (1.48) VERSES Nagi Hanatani, (2.45)",
-        "start_time_aest": "2026-02-09T15:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens Australia",
-        "contestants": [
-            {
-                "full_name": "Cheuk Ying Shek",
-                "position": "HOME",
-                "short_name": "Shek CY"
-            },
-            {
-                "full_name": "Nagi Hanatani",
-                "position": "AWAY",
-                "short_name": "Hanatani"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Cheuk Ying Shek",
-                "returnWin": 1.48
-            },
-            {
-                "name": "Nagi Hanatani",
-                "returnWin": 2.45
-            }
-        ],
-        "match_name": "Shek CY v Hanatani",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-09T04:15:00.000Z"
-    },
-    {
         "contestant_names": "Arthur Weber, (1.72) VERSES David Jorda Sanchis, (2)",
-        "start_time_aest": "2026-02-09T15:30:00+11:00",
+        "start_time_aest": "2026-02-09T16:00:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -59,7 +28,7 @@
         ],
         "match_name": "Weber A v Jorda Sanchis",
         "betOption": "Head To Head",
-        "start_time": "2026-02-09T04:30:00.000Z"
+        "start_time": "2026-02-09T05:00:00.000Z"
     },
     {
         "contestant_names": "Shruti Ahlawat, (1.55) VERSES Ankita Raina, (2.3)",
@@ -277,5 +246,36 @@
         "match_name": "Shimizu E v Adkar",
         "betOption": "Head To Head",
         "start_time": "2026-02-09T06:30:00.000Z"
+    },
+    {
+        "contestant_names": "Alastair Gray, (1.5) VERSES Philip Sekulic, (2.4)",
+        "start_time_aest": "2026-02-09T19:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Alastair Gray",
+                "position": "HOME",
+                "short_name": "Gray A"
+            },
+            {
+                "full_name": "Philip Sekulic",
+                "position": "AWAY",
+                "short_name": "Sekulic P"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alastair Gray",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Philip Sekulic",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Gray A v Sekulic P",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-09T08:30:00.000Z"
     }
 ]
