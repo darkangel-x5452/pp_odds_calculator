@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Omar Jasika, (1.65) VERSES Hikaru Shiraishi, (2.1)",
-        "start_time_aest": "2026-02-09T17:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Omar Jasika",
-                "position": "HOME",
-                "short_name": "Jasika O"
-            },
-            {
-                "full_name": "Hikaru Shiraishi",
-                "position": "AWAY",
-                "short_name": "Shiraishi"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Omar Jasika",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Hikaru Shiraishi",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Jasika O v Shiraishi",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-09T06:00:00.000Z"
-    },
-    {
         "contestant_names": "Ishaque Eqbal, (1.5) VERSES Siddanth Banthia, (2.35)",
         "start_time_aest": "2026-02-09T17:30:00+11:00",
         "sport_name": "Tennis",
@@ -306,6 +275,37 @@
             }
         ],
         "match_name": "Norway v South Korea",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-09T09:05:00.000Z"
+    },
+    {
+        "contestant_names": "Czechia, (2.5) VERSES Estonia, (1.47)",
+        "start_time_aest": "2026-02-09T20:05:00+11:00",
+        "sport_name": "Winter Olympics",
+        "competition_name": "Curling - Mixed",
+        "contestants": [
+            {
+                "full_name": "Czechia",
+                "position": "HOME",
+                "short_name": "Czechia"
+            },
+            {
+                "full_name": "Estonia",
+                "position": "AWAY",
+                "short_name": "Estonia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Czechia",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Estonia",
+                "returnWin": 1.47
+            }
+        ],
+        "match_name": "Czechia v Estonia",
         "betOption": "Head To Head",
         "start_time": "2026-02-09T09:05:00.000Z"
     }
