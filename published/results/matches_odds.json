@@ -1,64 +1,95 @@
 [
     {
-        "contestant_names": "Partizan, (1.58) VERSES Dubai Basketball, (2.25)",
-        "start_time_aest": "2026-02-10T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "ABA League",
+        "contestant_names": "Karlis Ozolins, (1.48) VERSES Ben Jones, (2.4)",
+        "start_time_aest": "2026-02-10T07:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
         "contestants": [
             {
-                "full_name": "Partizan",
+                "full_name": "Karlis Ozolins",
                 "position": "HOME",
-                "short_name": "Partizan"
+                "short_name": "Ozolins K"
             },
             {
-                "full_name": "Dubai Basketball",
+                "full_name": "Ben Jones",
                 "position": "AWAY",
-                "short_name": "Dubai Basketball"
+                "short_name": "Jones B"
             }
         ],
         "propositions": [
             {
-                "name": "Partizan",
-                "returnWin": 1.58
+                "name": "Karlis Ozolins",
+                "returnWin": 1.48
             },
             {
-                "name": "Dubai Basketball",
+                "name": "Ben Jones",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Ozolins K v Jones B",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-09T20:00:00.000Z"
+    },
+    {
+        "contestant_names": "Jerome Kym, (2.1) VERSES Luca Nardi, (1.65)",
+        "start_time_aest": "2026-02-10T07:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Jerome Kym",
+                "position": "HOME",
+                "short_name": "Kym"
+            },
+            {
+                "full_name": "Luca Nardi",
+                "position": "AWAY",
+                "short_name": "Nardi L"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jerome Kym",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Luca Nardi",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Kym v Nardi L",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-09T20:00:00.000Z"
+    },
+    {
+        "contestant_names": "Chicago State, (1.65) VERSES St Francis (PA), (2.25)",
+        "start_time_aest": "2026-02-10T08:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Chicago State",
+                "position": "HOME",
+                "short_name": "Chicago State"
+            },
+            {
+                "full_name": "St Francis (PA)",
+                "position": "AWAY",
+                "short_name": "St Francis (PA)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Chicago State",
+                "returnWin": 1.65
+            },
+            {
+                "name": "St Francis (PA)",
                 "returnWin": 2.25
             }
         ],
-        "match_name": "Partizan v Dubai Basketball",
+        "match_name": "Chicago State v St Francis (PA)",
         "betOption": "Head To Head",
-        "start_time": "2026-02-09T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Basket Brescia, (1.66) VERSES Obiettivo Lavoro, (2.05)",
-        "start_time_aest": "2026-02-10T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Italy Lega Serie A",
-        "contestants": [
-            {
-                "full_name": "Basket Brescia",
-                "position": "HOME",
-                "short_name": "Basket Brescia"
-            },
-            {
-                "full_name": "Obiettivo Lavoro",
-                "position": "AWAY",
-                "short_name": "Obiettivo Lavoro"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Basket Brescia",
-                "returnWin": 1.66
-            },
-            {
-                "name": "Obiettivo Lavoro",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Basket Brescia v Obiettivo Lavoro",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-09T19:00:00.000Z"
+        "start_time": "2026-02-09T21:00:00.000Z"
     }
 ]
