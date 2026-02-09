@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Ishaque Eqbal, (1.45) VERSES Siddanth Banthia, (2.5)",
-        "start_time_aest": "2026-02-09T19:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Ishaque Eqbal",
-                "position": "HOME",
-                "short_name": "Eqbal"
-            },
-            {
-                "full_name": "Siddanth Banthia",
-                "position": "AWAY",
-                "short_name": "Banthia"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ishaque Eqbal",
-                "returnWin": 1.45
-            },
-            {
-                "name": "Siddanth Banthia",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Eqbal v Banthia",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-09T08:00:00.000Z"
-    },
-    {
         "contestant_names": "Alastair Gray, (1.5) VERSES Philip Sekulic, (2.4)",
         "start_time_aest": "2026-02-09T19:30:00+11:00",
         "sport_name": "Tennis",
@@ -184,5 +153,67 @@
         "match_name": "Czechia v Estonia",
         "betOption": "Head To Head",
         "start_time": "2026-02-09T09:05:00.000Z"
+    },
+    {
+        "contestant_names": "Mikhail Kukushkin, (1.45) VERSES James Trotter, (2.5)",
+        "start_time_aest": "2026-02-09T21:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Mikhail Kukushkin",
+                "position": "HOME",
+                "short_name": "Kukushkin"
+            },
+            {
+                "full_name": "James Trotter",
+                "position": "AWAY",
+                "short_name": "Trotter"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mikhail Kukushkin",
+                "returnWin": 1.45
+            },
+            {
+                "name": "James Trotter",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Kukushkin v Trotter",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-09T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Miquel Damas, (1.63) VERSES Alex Martinez, (2.1)",
+        "start_time_aest": "2026-02-09T21:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Miquel Damas",
+                "position": "HOME",
+                "short_name": "Damas M"
+            },
+            {
+                "full_name": "Alex Martinez",
+                "position": "AWAY",
+                "short_name": "Martinez A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Miquel Damas",
+                "returnWin": 1.63
+            },
+            {
+                "name": "Alex Martinez",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Damas M v Martinez A",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-09T10:00:00.000Z"
     }
 ]
