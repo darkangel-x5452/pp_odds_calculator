@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Hayato Matsuoka, (1.46) VERSES Jake Delaney, (2.5)",
-        "start_time_aest": "2026-02-09T15:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Hayato Matsuoka",
-                "position": "HOME",
-                "short_name": "Matsuoka"
-            },
-            {
-                "full_name": "Jake Delaney",
-                "position": "AWAY",
-                "short_name": "Delaney Jk"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Hayato Matsuoka",
-                "returnWin": 1.46
-            },
-            {
-                "name": "Jake Delaney",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Matsuoka v Delaney Jk",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-09T04:00:00.000Z"
-    },
-    {
-        "contestant_names": "Arthur Weber, (1.72) VERSES David Jorda Sanchis, (2)",
-        "start_time_aest": "2026-02-09T15:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Arthur Weber",
-                "position": "HOME",
-                "short_name": "Weber A"
-            },
-            {
-                "full_name": "David Jorda Sanchis",
-                "position": "AWAY",
-                "short_name": "Jorda Sanchis"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Arthur Weber",
-                "returnWin": 1.72
-            },
-            {
-                "name": "David Jorda Sanchis",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Weber A v Jorda Sanchis",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-09T04:00:00.000Z"
-    },
-    {
         "contestant_names": "Cheuk Ying Shek, (1.48) VERSES Nagi Hanatani, (2.45)",
         "start_time_aest": "2026-02-09T15:15:00+11:00",
         "sport_name": "Tennis",
@@ -91,6 +29,37 @@
         "match_name": "Shek CY v Hanatani",
         "betOption": "Head To Head",
         "start_time": "2026-02-09T04:15:00.000Z"
+    },
+    {
+        "contestant_names": "Arthur Weber, (1.72) VERSES David Jorda Sanchis, (2)",
+        "start_time_aest": "2026-02-09T15:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Arthur Weber",
+                "position": "HOME",
+                "short_name": "Weber A"
+            },
+            {
+                "full_name": "David Jorda Sanchis",
+                "position": "AWAY",
+                "short_name": "Jorda Sanchis"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Arthur Weber",
+                "returnWin": 1.72
+            },
+            {
+                "name": "David Jorda Sanchis",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Weber A v Jorda Sanchis",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-09T04:30:00.000Z"
     },
     {
         "contestant_names": "Shruti Ahlawat, (1.55) VERSES Ankita Raina, (2.3)",
