@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Invictus Gaming, (1.55) VERSES NinjasInPyjamas, (2.3)",
-        "start_time_aest": "2026-02-09T20:00:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "League of Legends",
-        "contestants": [
-            {
-                "full_name": "Invictus Gaming",
-                "position": "HOME",
-                "short_name": "Invictus Gaming"
-            },
-            {
-                "full_name": "NinjasInPyjamas",
-                "position": "AWAY",
-                "short_name": "NinjasInPyjamas"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Invictus Gaming",
-                "returnWin": 1.55
-            },
-            {
-                "name": "NinjasInPyjamas",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Invictus Gaming v NinjasInPyjamas",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-09T09:00:00.000Z"
-    },
-    {
         "contestant_names": "Switzerland, (2.2) VERSES Canada, (1.6)",
         "start_time_aest": "2026-02-09T20:05:00+11:00",
         "sport_name": "Winter Olympics",
@@ -244,6 +213,68 @@
             }
         ],
         "match_name": "Invictus Gaming v NinjasInPyjamas",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-09T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "KEB Hana Bank, (2.5) VERSES KB Stars, (1.45)",
+        "start_time_aest": "2026-02-09T21:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "South Korea KBL Women",
+        "contestants": [
+            {
+                "full_name": "KEB Hana Bank",
+                "position": "HOME",
+                "short_name": "KEB Hana Bank"
+            },
+            {
+                "full_name": "KB Stars",
+                "position": "AWAY",
+                "short_name": "KB Stars"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "KEB Hana Bank",
+                "returnWin": 2.5
+            },
+            {
+                "name": "KB Stars",
+                "returnWin": 1.45
+            }
+        ],
+        "match_name": "KEB Hana Bank v KB Stars",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-09T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Giles Hussey, (1.48) VERSES Federico Bondioli, (2.4)",
+        "start_time_aest": "2026-02-09T21:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Giles Hussey",
+                "position": "HOME",
+                "short_name": "Hussey"
+            },
+            {
+                "full_name": "Federico Bondioli",
+                "position": "AWAY",
+                "short_name": "Bondioli"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Giles Hussey",
+                "returnWin": 1.48
+            },
+            {
+                "name": "Federico Bondioli",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Hussey v Bondioli",
         "betOption": "Head To Head",
         "start_time": "2026-02-09T10:00:00.000Z"
     }
