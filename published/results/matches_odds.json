@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Karlis Ozolins, (1.48) VERSES Ben Jones, (2.4)",
-        "start_time_aest": "2026-02-10T07:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Karlis Ozolins",
-                "position": "HOME",
-                "short_name": "Ozolins K"
-            },
-            {
-                "full_name": "Ben Jones",
-                "position": "AWAY",
-                "short_name": "Jones B"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Karlis Ozolins",
-                "returnWin": 1.48
-            },
-            {
-                "name": "Ben Jones",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Ozolins K v Jones B",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-09T20:30:00.000Z"
-    },
-    {
-        "contestant_names": "Jerome Kym, (2.05) VERSES Luca Nardi, (1.68)",
-        "start_time_aest": "2026-02-10T07:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Jerome Kym",
-                "position": "HOME",
-                "short_name": "Kym"
-            },
-            {
-                "full_name": "Luca Nardi",
-                "position": "AWAY",
-                "short_name": "Nardi L"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jerome Kym",
-                "returnWin": 2.05
-            },
-            {
-                "name": "Luca Nardi",
-                "returnWin": 1.68
-            }
-        ],
-        "match_name": "Kym v Nardi L",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-09T20:30:00.000Z"
-    },
-    {
         "contestant_names": "Chicago State, (1.65) VERSES St Francis (PA), (2.25)",
         "start_time_aest": "2026-02-10T08:00:00+11:00",
         "sport_name": "Basketball",
@@ -89,6 +27,37 @@
             }
         ],
         "match_name": "Chicago State v St Francis (PA)",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-09T21:00:00.000Z"
+    },
+    {
+        "contestant_names": "Nicolai Budkov Kjaer, (2.4) VERSES Jaume Munar, (1.52)",
+        "start_time_aest": "2026-02-10T08:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "contestants": [
+            {
+                "full_name": "Nicolai Budkov Kjaer",
+                "position": "HOME",
+                "short_name": "Budkov Kjaer"
+            },
+            {
+                "full_name": "Jaume Munar",
+                "position": "AWAY",
+                "short_name": "Munar"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nicolai Budkov Kjaer",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Jaume Munar",
+                "returnWin": 1.52
+            }
+        ],
+        "match_name": "Budkov Kjaer v Munar",
         "betOption": "Head To Head",
         "start_time": "2026-02-09T21:00:00.000Z"
     },
