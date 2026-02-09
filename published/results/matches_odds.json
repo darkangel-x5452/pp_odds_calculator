@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Jamie Mackenzie, (1.45) VERSES Colin Sinclair, (2.5)",
-        "start_time_aest": "2026-02-09T11:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Jamie Mackenzie",
-                "position": "HOME",
-                "short_name": "Mackenzie"
-            },
-            {
-                "full_name": "Colin Sinclair",
-                "position": "AWAY",
-                "short_name": "Sinclair C"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jamie Mackenzie",
-                "returnWin": 1.45
-            },
-            {
-                "name": "Colin Sinclair",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Mackenzie v Sinclair C",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-09T00:00:00.000Z"
-    },
-    {
         "contestant_names": "Aryan Karnani, (1.48) VERSES Zaharije-Zak Talic, (2.45)",
         "start_time_aest": "2026-02-09T11:10:00+11:00",
         "sport_name": "Tennis",
@@ -93,6 +62,37 @@
         "start_time": "2026-02-09T00:30:00.000Z"
     },
     {
+        "contestant_names": "Jamie Mackenzie, (1.45) VERSES Colin Sinclair, (2.5)",
+        "start_time_aest": "2026-02-09T11:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Jamie Mackenzie",
+                "position": "HOME",
+                "short_name": "Mackenzie"
+            },
+            {
+                "full_name": "Colin Sinclair",
+                "position": "AWAY",
+                "short_name": "Sinclair C"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jamie Mackenzie",
+                "returnWin": 1.45
+            },
+            {
+                "name": "Colin Sinclair",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Mackenzie v Sinclair C",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-09T00:30:00.000Z"
+    },
+    {
         "contestant_names": "I Wen Wan, (1.48) VERSES Cara Korhonen, (2.45)",
         "start_time_aest": "2026-02-09T12:00:00+11:00",
         "sport_name": "Tennis",
@@ -122,5 +122,67 @@
         "match_name": "Wan I v Korhonen",
         "betOption": "Head To Head",
         "start_time": "2026-02-09T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Karl Poling, (1.95) VERSES Karlis Ozolins, (1.72)",
+        "start_time_aest": "2026-02-09T13:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Karl Poling",
+                "position": "HOME",
+                "short_name": "Poling"
+            },
+            {
+                "full_name": "Karlis Ozolins",
+                "position": "AWAY",
+                "short_name": "Ozolins K"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Karl Poling",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Karlis Ozolins",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "Poling v Ozolins K",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-09T02:00:00.000Z"
+    },
+    {
+        "contestant_names": "Yuki Mochizuki, (2.05) VERSES Matt Hulme, (1.67)",
+        "start_time_aest": "2026-02-09T13:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Yuki Mochizuki",
+                "position": "HOME",
+                "short_name": "Mochizuki Y"
+            },
+            {
+                "full_name": "Matt Hulme",
+                "position": "AWAY",
+                "short_name": "Hulme"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Yuki Mochizuki",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Matt Hulme",
+                "returnWin": 1.67
+            }
+        ],
+        "match_name": "Mochizuki Y v Hulme",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-09T02:00:00.000Z"
     }
 ]
