@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Cedrik-Marcel Stebe, (1.46) VERSES Olaf Pieczkowski, (2.5)",
-        "start_time_aest": "2026-02-10T12:05:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Cedrik-Marcel Stebe",
-                "position": "HOME",
-                "short_name": "StebeC"
-            },
-            {
-                "full_name": "Olaf Pieczkowski",
-                "position": "AWAY",
-                "short_name": "Pieczkowski"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Cedrik-Marcel Stebe",
-                "returnWin": 1.46
-            },
-            {
-                "name": "Olaf Pieczkowski",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "StebeC v Pieczkowski",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T01:05:00.000Z"
-    },
-    {
-        "contestant_names": "Erika Sema, (1.62) VERSES Laquisa Khan, (2.15)",
-        "start_time_aest": "2026-02-10T12:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens Australia",
-        "contestants": [
-            {
-                "full_name": "Erika Sema",
-                "position": "HOME",
-                "short_name": "Sema E"
-            },
-            {
-                "full_name": "Laquisa Khan",
-                "position": "AWAY",
-                "short_name": "Khan"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Erika Sema",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Laquisa Khan",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Sema E v Khan",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T01:30:00.000Z"
-    },
-    {
         "contestant_names": "Kansas, (2.25) VERSES Arizona, (1.65)",
         "start_time_aest": "2026-02-10T13:00:00+11:00",
         "sport_name": "Basketball",
@@ -215,5 +153,36 @@
         "match_name": "Murray State v Northern Iowa",
         "betOption": "Head To Head",
         "start_time": "2026-02-10T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Portland, (2.1) VERSES Philadelphia, (1.77)",
+        "start_time_aest": "2026-02-10T14:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Portland",
+                "position": "HOME",
+                "short_name": "Portland"
+            },
+            {
+                "full_name": "Philadelphia",
+                "position": "AWAY",
+                "short_name": "Philadelphia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Portland",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Philadelphia",
+                "returnWin": 1.77
+            }
+        ],
+        "match_name": "Portland v Philadelphia",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-10T03:10:00.000Z"
     }
 ]
