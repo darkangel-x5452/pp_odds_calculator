@@ -153,5 +153,67 @@
         "match_name": "Moccia v Rabl",
         "betOption": "Head To Head",
         "start_time": "2026-02-10T08:30:00.000Z"
+    },
+    {
+        "contestant_names": "Nahia Berecoechea, (2.05) VERSES Bertea Ruxandra, (1.68)",
+        "start_time_aest": "2026-02-10T20:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Nahia Berecoechea",
+                "position": "HOME",
+                "short_name": "Berecoechea"
+            },
+            {
+                "full_name": "Bertea Ruxandra",
+                "position": "AWAY",
+                "short_name": "Ruxandra"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nahia Berecoechea",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Bertea Ruxandra",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Berecoechea v Ruxandra",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-10T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Julie Belgraver, (1.72) VERSES Justina Mikulskyte, (2)",
+        "start_time_aest": "2026-02-10T20:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Julie Belgraver",
+                "position": "HOME",
+                "short_name": "Belgraver"
+            },
+            {
+                "full_name": "Justina Mikulskyte",
+                "position": "AWAY",
+                "short_name": "Mikulskyte"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Julie Belgraver",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Justina Mikulskyte",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Belgraver v Mikulskyte",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-10T09:00:00.000Z"
     }
 ]
