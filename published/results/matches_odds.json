@@ -1,38 +1,7 @@
 [
     {
-        "contestant_names": "Doumbia/Reboul, (1.55) VERSES Hilderbrand/Kiger, (2.35)",
-        "start_time_aest": "2026-02-11T05:05:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "contestants": [
-            {
-                "full_name": "Doumbia/Reboul",
-                "position": "HOME",
-                "short_name": "Doumbia/Reboul"
-            },
-            {
-                "full_name": "Hilderbrand/Kiger",
-                "position": "AWAY",
-                "short_name": "Hilderbrand/Kiger"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Doumbia/Reboul",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Hilderbrand/Kiger",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Doumbia/Reboul v Hilderbrand/Kiger",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T18:05:00.000Z"
-    },
-    {
         "contestant_names": "Roman Andres Burruchaga, (1.65) VERSES Laslo Djere, (2.15)",
-        "start_time_aest": "2026-02-11T05:15:00+11:00",
+        "start_time_aest": "2026-02-11T05:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP",
         "contestants": [
@@ -59,69 +28,7 @@
         ],
         "match_name": "Burruchaga v Djere",
         "betOption": "Head To Head",
-        "start_time": "2026-02-10T18:15:00.000Z"
-    },
-    {
-        "contestant_names": "Doumbia/Reboul, (1.55) VERSES Hilderbrand/Kiger, (2.35)",
-        "start_time_aest": "2026-02-11T05:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "contestants": [
-            {
-                "full_name": "Doumbia/Reboul",
-                "position": "HOME",
-                "short_name": "Doumbia/Reboul"
-            },
-            {
-                "full_name": "Hilderbrand/Kiger",
-                "position": "AWAY",
-                "short_name": "Hilderbrand/Kiger"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Doumbia/Reboul",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Hilderbrand/Kiger",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Doumbia/Reboul v Hilderbrand/Kiger",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T18:15:00.000Z"
-    },
-    {
-        "contestant_names": "Belgium, (1.55) VERSES Argentina, (2.25)",
-        "start_time_aest": "2026-02-11T05:30:00+11:00",
-        "sport_name": "Field Hockey",
-        "competition_name": "Mens FIH Pro League",
-        "contestants": [
-            {
-                "full_name": "Belgium",
-                "position": "HOME",
-                "short_name": "Belgium"
-            },
-            {
-                "full_name": "Argentina",
-                "position": "AWAY",
-                "short_name": "Argentina"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Belgium",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Argentina",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Belgium v Argentina",
-        "betOption": "Winner of Tie",
-        "start_time": "2026-02-10T18:30:00.000Z"
+        "start_time": "2026-02-10T18:45:00.000Z"
     },
     {
         "contestant_names": "Elan Chalon, (2.5) VERSES Badalona, (1.45)",
@@ -183,6 +90,37 @@
         ],
         "match_name": "Jamie Jones v Zizins",
         "betOption": "Result",
+        "start_time": "2026-02-10T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Le Cannet-Rocheville (W), (2.2) VERSES ASPTT Mulhouse (W), (1.6)",
+        "start_time_aest": "2026-02-11T06:00:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "Coupe de France Women",
+        "contestants": [
+            {
+                "full_name": "Le Cannet-Rocheville (W)",
+                "position": "HOME",
+                "short_name": "Le Can-Roch (W)"
+            },
+            {
+                "full_name": "ASPTT Mulhouse (W)",
+                "position": "AWAY",
+                "short_name": "ASPTT Mulhse (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Le Cannet-Rocheville (W)",
+                "returnWin": 2.2
+            },
+            {
+                "name": "ASPTT Mulhouse (W)",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Le Can-Roch (W) v ASPTT Mulhse (W)",
+        "betOption": "Head To Head",
         "start_time": "2026-02-10T19:00:00.000Z"
     }
 ]
