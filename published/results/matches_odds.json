@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Zizou Bergs, (1.85) VERSES Hamad Medjedovic, (1.95)",
-        "start_time_aest": "2026-02-11T07:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "contestants": [
-            {
-                "full_name": "Zizou Bergs",
-                "position": "HOME",
-                "short_name": "Bergs"
-            },
-            {
-                "full_name": "Hamad Medjedovic",
-                "position": "AWAY",
-                "short_name": "Medjedovic"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Zizou Bergs",
-                "returnWin": 1.85
-            },
-            {
-                "name": "Hamad Medjedovic",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Bergs v Medjedovic",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T20:45:00.000Z"
-    },
-    {
-        "contestant_names": "Daniel Milavsky, (2.25) VERSES Keegan Smith, (1.58)",
-        "start_time_aest": "2026-02-11T08:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Daniel Milavsky",
-                "position": "HOME",
-                "short_name": "Milavsky D"
-            },
-            {
-                "full_name": "Keegan Smith",
-                "position": "AWAY",
-                "short_name": "Smith K"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Daniel Milavsky",
-                "returnWin": 2.25
-            },
-            {
-                "name": "Keegan Smith",
-                "returnWin": 1.58
-            }
-        ],
-        "match_name": "Milavsky D v Smith K",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T21:00:00.000Z"
-    },
-    {
         "contestant_names": "Flavio Cobolli, (1.52) VERSES Jack Pinnington Jones, (2.4)",
         "start_time_aest": "2026-02-11T09:00:00+11:00",
         "sport_name": "Tennis",
@@ -91,6 +29,68 @@
         "match_name": "Cobolli v Pinnington Jones",
         "betOption": "Head To Head",
         "start_time": "2026-02-10T22:00:00.000Z"
+    },
+    {
+        "contestant_names": "Luca Connaughton, (1.58) VERSES Haruto Ishikawa, (2.25)",
+        "start_time_aest": "2026-02-11T09:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "UTR Pro Series",
+        "contestants": [
+            {
+                "full_name": "Luca Connaughton",
+                "position": "HOME",
+                "short_name": "Connaughton"
+            },
+            {
+                "full_name": "Haruto Ishikawa",
+                "position": "AWAY",
+                "short_name": "Ishikawa"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Luca Connaughton",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Haruto Ishikawa",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Connaughton v Ishikawa",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-10T22:30:00.000Z"
+    },
+    {
+        "contestant_names": "Sam Oster, (2.5) VERSES Jera Staley, (1.46)",
+        "start_time_aest": "2026-02-11T09:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "UTR Pro Series",
+        "contestants": [
+            {
+                "full_name": "Sam Oster",
+                "position": "HOME",
+                "short_name": "Oster"
+            },
+            {
+                "full_name": "Jera Staley",
+                "position": "AWAY",
+                "short_name": "Staley"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sam Oster",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Jera Staley",
+                "returnWin": 1.46
+            }
+        ],
+        "match_name": "Oster v Staley",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-10T22:30:00.000Z"
     },
     {
         "contestant_names": "Hebraica Macabi, (1.73) VERSES Malvin, (1.95)",
@@ -215,6 +215,37 @@
         "match_name": "Ugo Carabelli v Comesana",
         "betOption": "Head To Head",
         "start_time": "2026-02-10T23:30:00.000Z"
+    },
+    {
+        "contestant_names": "Emma Tran, (2.35) VERSES Bianca Compuesto, (1.52)",
+        "start_time_aest": "2026-02-11T10:40:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "UTR Pro Series",
+        "contestants": [
+            {
+                "full_name": "Emma Tran",
+                "position": "HOME",
+                "short_name": "Tran"
+            },
+            {
+                "full_name": "Bianca Compuesto",
+                "position": "AWAY",
+                "short_name": "Compuesto"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Emma Tran",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Bianca Compuesto",
+                "returnWin": 1.52
+            }
+        ],
+        "match_name": "Tran v Compuesto",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-10T23:40:00.000Z"
     },
     {
         "contestant_names": "Pergamino Basket, (2.15) VERSES Deportivo Viedma, (1.6)",
