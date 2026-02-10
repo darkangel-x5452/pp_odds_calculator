@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Cho/Cho, (2.25) VERSES Bara/Shymanovich, (1.58)",
-        "start_time_aest": "2026-02-11T02:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA 125 Doubles",
-        "contestants": [
-            {
-                "full_name": "Cho/Cho",
-                "position": "HOME",
-                "short_name": "Cho/Cho"
-            },
-            {
-                "full_name": "Bara/Shymanovich",
-                "position": "AWAY",
-                "short_name": "Bara/Shymanovich"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Cho/Cho",
-                "returnWin": 2.25
-            },
-            {
-                "name": "Bara/Shymanovich",
-                "returnWin": 1.58
-            }
-        ],
-        "match_name": "Cho/Cho v Bara/Shymanovich",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T15:30:00.000Z"
-    },
-    {
         "contestant_names": "Italy, (2.4) VERSES Germany, (1.55)",
         "start_time_aest": "2026-02-11T02:40:00+11:00",
         "sport_name": "Winter Olympics",
@@ -246,5 +215,129 @@
         "match_name": "Travaglia v Shelbayh A",
         "betOption": "Head To Head",
         "start_time": "2026-02-10T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "KTP, (1.52) VERSES Helsinki Seagull, (2.3)",
+        "start_time_aest": "2026-02-11T03:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Finland Korisliiga",
+        "contestants": [
+            {
+                "full_name": "KTP",
+                "position": "HOME",
+                "short_name": "KTP"
+            },
+            {
+                "full_name": "Helsinki Seagull",
+                "position": "AWAY",
+                "short_name": "Helsinki Seagull"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "KTP",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Helsinki Seagull",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "KTP v Helsinki Seagull",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-10T16:30:00.000Z"
+    },
+    {
+        "contestant_names": "Ironi Nahariya, (2.1) VERSES Hapoel Eilat, (1.65)",
+        "start_time_aest": "2026-02-11T03:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Israel National League",
+        "contestants": [
+            {
+                "full_name": "Ironi Nahariya",
+                "position": "HOME",
+                "short_name": "Ironi Nahariya"
+            },
+            {
+                "full_name": "Hapoel Eilat",
+                "position": "AWAY",
+                "short_name": "Hapoel Eilat"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ironi Nahariya",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Hapoel Eilat",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Ironi Nahariya v Hapoel Eilat",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-10T16:30:00.000Z"
+    },
+    {
+        "contestant_names": "Mark Selby, (1.6) VERSES Wu Yize, (2.25)",
+        "start_time_aest": "2026-02-11T03:30:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "Championship League",
+        "contestants": [
+            {
+                "full_name": "Mark Selby",
+                "position": "HOME",
+                "short_name": "Selby"
+            },
+            {
+                "full_name": "Wu Yize",
+                "position": "AWAY",
+                "short_name": "Yize"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mark Selby",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Wu Yize",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Selby v Yize",
+        "betOption": "Result",
+        "start_time": "2026-02-10T16:30:00.000Z"
+    },
+    {
+        "contestant_names": "Zhang Anda, (1.55) VERSES Tom Ford, (2.4)",
+        "start_time_aest": "2026-02-11T03:30:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "Championship League",
+        "contestants": [
+            {
+                "full_name": "Zhang Anda",
+                "position": "HOME",
+                "short_name": "ZhangA"
+            },
+            {
+                "full_name": "Tom Ford",
+                "position": "AWAY",
+                "short_name": "Ford"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Zhang Anda",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Tom Ford",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "ZhangA v Ford",
+        "betOption": "Result",
+        "start_time": "2026-02-10T16:30:00.000Z"
     }
 ]
