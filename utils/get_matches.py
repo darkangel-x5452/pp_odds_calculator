@@ -13,6 +13,7 @@ class GetMatchesOdds():
             "Result",
             "Winner",
             "Winner of Tie",
+            "Gold Medal",
         ]
         self.ignore_options = [
             "Leading Point Scorer",
