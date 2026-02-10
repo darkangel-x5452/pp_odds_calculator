@@ -1,34 +1,34 @@
 [
     {
-        "contestant_names": "Ignacio Buse, (2.3) VERSES Francesco Passaro, (1.55)",
-        "start_time_aest": "2026-02-11T07:15:00+11:00",
+        "contestant_names": "Zizou Bergs, (1.85) VERSES Hamad Medjedovic, (1.95)",
+        "start_time_aest": "2026-02-11T07:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP",
         "contestants": [
             {
-                "full_name": "Ignacio Buse",
+                "full_name": "Zizou Bergs",
                 "position": "HOME",
-                "short_name": "Buse"
+                "short_name": "Bergs"
             },
             {
-                "full_name": "Francesco Passaro",
+                "full_name": "Hamad Medjedovic",
                 "position": "AWAY",
-                "short_name": "Passaro"
+                "short_name": "Medjedovic"
             }
         ],
         "propositions": [
             {
-                "name": "Ignacio Buse",
-                "returnWin": 2.3
+                "name": "Zizou Bergs",
+                "returnWin": 1.85
             },
             {
-                "name": "Francesco Passaro",
-                "returnWin": 1.55
+                "name": "Hamad Medjedovic",
+                "returnWin": 1.95
             }
         ],
-        "match_name": "Buse v Passaro",
+        "match_name": "Bergs v Medjedovic",
         "betOption": "Head To Head",
-        "start_time": "2026-02-10T20:15:00.000Z"
+        "start_time": "2026-02-10T20:45:00.000Z"
     },
     {
         "contestant_names": "Daniel Milavsky, (2.25) VERSES Keegan Smith, (1.58)",
@@ -244,6 +244,99 @@
             }
         ],
         "match_name": "Pergamino Basket v Deportivo Viedma",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-11T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Auburn, (1.6) VERSES Vanderbilt, (2.35)",
+        "start_time_aest": "2026-02-11T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Auburn",
+                "position": "HOME",
+                "short_name": "Auburn"
+            },
+            {
+                "full_name": "Vanderbilt",
+                "position": "AWAY",
+                "short_name": "Vanderbilt"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Auburn",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Vanderbilt",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Auburn v Vanderbilt",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-11T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Baylor, (2.4) VERSES BYU, (1.58)",
+        "start_time_aest": "2026-02-11T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Baylor",
+                "position": "HOME",
+                "short_name": "Baylor"
+            },
+            {
+                "full_name": "BYU",
+                "position": "AWAY",
+                "short_name": "BYU"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Baylor",
+                "returnWin": 2.4
+            },
+            {
+                "name": "BYU",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Baylor v BYU",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-11T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "George Wshington, (1.55) VERSES Rhode Island, (2.45)",
+        "start_time_aest": "2026-02-11T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "George Wshington",
+                "position": "HOME",
+                "short_name": "George Wshington"
+            },
+            {
+                "full_name": "Rhode Island",
+                "position": "AWAY",
+                "short_name": "Rhode Island"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "George Wshington",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Rhode Island",
+                "returnWin": 2.45
+            }
+        ],
+        "match_name": "George Wshington v Rhode Island",
         "betOption": "Head To Head",
         "start_time": "2026-02-11T00:00:00.000Z"
     }
