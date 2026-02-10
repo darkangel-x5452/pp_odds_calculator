@@ -27,99 +27,6 @@
         "start_time": "2026-02-10T15:05:00.000Z"
     },
     {
-        "contestant_names": "AS Ramat Hasharo, (2) VERSES Hapoel Haifa, (1.72)",
-        "start_time_aest": "2026-02-11T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Israel National League",
-        "contestants": [
-            {
-                "full_name": "AS Ramat Hasharo",
-                "position": "HOME",
-                "short_name": "AS Ramat Hasharo"
-            },
-            {
-                "full_name": "Hapoel Haifa",
-                "position": "AWAY",
-                "short_name": "Hapoel Haifa"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "AS Ramat Hasharo",
-                "returnWin": 2
-            },
-            {
-                "name": "Hapoel Haifa",
-                "returnWin": 1.72
-            }
-        ],
-        "match_name": "AS Ramat Hasharo v Hapoel Haifa",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Al-Arabi, (2.3) VERSES Shabab Al Ahli D, (1.55)",
-        "start_time_aest": "2026-02-11T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "West Asia Super League",
-        "contestants": [
-            {
-                "full_name": "Al-Arabi",
-                "position": "HOME",
-                "short_name": "Al-Arabi"
-            },
-            {
-                "full_name": "Shabab Al Ahli D",
-                "position": "AWAY",
-                "short_name": "Shabab Al Ahli D"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Al-Arabi",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Shabab Al Ahli D",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Al-Arabi v Shabab Al Ahli D",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Viktoriya Tomova, (1.72) VERSES Kaitlin Quevedo, (2)",
-        "start_time_aest": "2026-02-11T04:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA 125 Tour",
-        "contestants": [
-            {
-                "full_name": "Viktoriya Tomova",
-                "position": "HOME",
-                "short_name": "Tomova"
-            },
-            {
-                "full_name": "Kaitlin Quevedo",
-                "position": "AWAY",
-                "short_name": "Quevedo"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Viktoriya Tomova",
-                "returnWin": 1.72
-            },
-            {
-                "name": "Kaitlin Quevedo",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Tomova v Quevedo",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T17:00:00.000Z"
-    },
-    {
         "contestant_names": "Sweden, (2.3) VERSES United States, (1.55)",
         "start_time_aest": "2026-02-11T04:05:00+11:00",
         "sport_name": "Winter Olympics",
@@ -242,5 +149,67 @@
         "match_name": "Slessor v Selt",
         "betOption": "Result",
         "start_time": "2026-02-10T17:30:00.000Z"
+    },
+    {
+        "contestant_names": "Cho/Cho, (2.25) VERSES Bara/Shymanovich, (1.58)",
+        "start_time_aest": "2026-02-11T04:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Doubles",
+        "contestants": [
+            {
+                "full_name": "Cho/Cho",
+                "position": "HOME",
+                "short_name": "Cho/Cho"
+            },
+            {
+                "full_name": "Bara/Shymanovich",
+                "position": "AWAY",
+                "short_name": "Bara/Shymanovich"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Cho/Cho",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Bara/Shymanovich",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Cho/Cho v Bara/Shymanovich",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-10T17:30:00.000Z"
+    },
+    {
+        "contestant_names": "Cavalle-Reimers/Moratelli, (2) VERSES Cascino/Feng, (1.72)",
+        "start_time_aest": "2026-02-11T04:35:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Doubles",
+        "contestants": [
+            {
+                "full_name": "Cavalle-Reimers/Moratelli",
+                "position": "HOME",
+                "short_name": "Cavalle-Reimers/Moratelli"
+            },
+            {
+                "full_name": "Cascino/Feng",
+                "position": "AWAY",
+                "short_name": "Cascino/Feng"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Cavalle-Reimers/Moratelli",
+                "returnWin": 2
+            },
+            {
+                "name": "Cascino/Feng",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "Cavalle-Reimers/Moratelli v Cascino/Feng",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-10T17:35:00.000Z"
     }
 ]
