@@ -1,7 +1,38 @@
 [
     {
+        "contestant_names": "Charlotte, (2.15) VERSES Detroit, (1.73)",
+        "start_time_aest": "2026-02-10T11:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Charlotte",
+                "position": "HOME",
+                "short_name": "Charlotte"
+            },
+            {
+                "full_name": "Detroit",
+                "position": "AWAY",
+                "short_name": "Detroit"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Charlotte",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Detroit",
+                "returnWin": 1.73
+            }
+        ],
+        "match_name": "Charlotte v Detroit",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-10T00:10:00.000Z"
+    },
+    {
         "contestant_names": "Jack Bruce-Smith, (1.58) VERSES Zachary Adam-Gedge, (2.25)",
-        "start_time_aest": "2026-02-10T10:40:00+11:00",
+        "start_time_aest": "2026-02-10T11:10:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "UTR Pro Series",
         "contestants": [
@@ -28,197 +59,73 @@
         ],
         "match_name": "Bruce-Smith v Adam-Gedge",
         "betOption": "Head To Head",
-        "start_time": "2026-02-09T23:40:00.000Z"
+        "start_time": "2026-02-10T00:10:00.000Z"
     },
     {
-        "contestant_names": "Emma Tran, (1.58) VERSES Faustine Liope, (2.25)",
-        "start_time_aest": "2026-02-10T10:40:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "UTR Pro Series",
+        "contestant_names": "Drake, (1.55) VERSES Valparaiso, (2.45)",
+        "start_time_aest": "2026-02-10T11:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Emma Tran",
+                "full_name": "Drake",
                 "position": "HOME",
-                "short_name": "Tran"
+                "short_name": "Drake"
             },
             {
-                "full_name": "Faustine Liope",
+                "full_name": "Valparaiso",
                 "position": "AWAY",
-                "short_name": "Faustine Liope"
+                "short_name": "Valparaiso"
             }
         ],
         "propositions": [
             {
-                "name": "Emma Tran",
-                "returnWin": 1.58
+                "name": "Drake",
+                "returnWin": 1.55
             },
             {
-                "name": "Faustine Liope",
+                "name": "Valparaiso",
+                "returnWin": 2.45
+            }
+        ],
+        "match_name": "Drake v Valparaiso",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-10T00:30:00.000Z"
+    },
+    {
+        "contestant_names": "Nicholls State, (2.25) VERSES UTRGV, (1.65)",
+        "start_time_aest": "2026-02-10T11:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Nicholls State",
+                "position": "HOME",
+                "short_name": "Nicholls State"
+            },
+            {
+                "full_name": "UTRGV",
+                "position": "AWAY",
+                "short_name": "UTRGV"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nicholls State",
                 "returnWin": 2.25
-            }
-        ],
-        "match_name": "Tran v Faustine Liope",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-09T23:40:00.000Z"
-    },
-    {
-        "contestant_names": "La Union Colon E, (1.66) VERSES Club Pico Foot, (2.05)",
-        "start_time_aest": "2026-02-10T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga A",
-        "contestants": [
-            {
-                "full_name": "La Union Colon E",
-                "position": "HOME",
-                "short_name": "La Union Colon E"
             },
             {
-                "full_name": "Club Pico Foot",
-                "position": "AWAY",
-                "short_name": "Club Pico Foot"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "La Union Colon E",
-                "returnWin": 1.66
-            },
-            {
-                "name": "Club Pico Foot",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "La Union Colon E v Club Pico Foot",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "SE Louisiana, (1.8) VERSES Incarnate Word, (2)",
-        "start_time_aest": "2026-02-10T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "SE Louisiana",
-                "position": "HOME",
-                "short_name": "SE Louisiana"
-            },
-            {
-                "full_name": "Incarnate Word",
-                "position": "AWAY",
-                "short_name": "Incarnate Word"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "SE Louisiana",
-                "returnWin": 1.8
-            },
-            {
-                "name": "Incarnate Word",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "SE Louisiana v Incarnate Word",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Florida AM, (1.58) VERSES Prairie View AM, (2.4)",
-        "start_time_aest": "2026-02-10T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Florida AM",
-                "position": "HOME",
-                "short_name": "Florida AM"
-            },
-            {
-                "full_name": "Prairie View AM",
-                "position": "AWAY",
-                "short_name": "Prairie View AM"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Florida AM",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Prairie View AM",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Florida AM v Prairie View AM",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Indiana State, (2) VERSES Sthn Illinois, (1.8)",
-        "start_time_aest": "2026-02-10T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Indiana State",
-                "position": "HOME",
-                "short_name": "Indiana State"
-            },
-            {
-                "full_name": "Sthn Illinois",
-                "position": "AWAY",
-                "short_name": "Sthn Illinois"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Indiana State",
-                "returnWin": 2
-            },
-            {
-                "name": "Sthn Illinois",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "Indiana State v Sthn Illinois",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "The Bay, (2.1) VERSES Los Angeles, (1.65)",
-        "start_time_aest": "2026-02-10T11:00:00+11:00",
-        "sport_name": "Golf",
-        "competition_name": "TGL",
-        "contestants": [
-            {
-                "full_name": "The Bay",
-                "position": "HOME",
-                "short_name": "The Bay"
-            },
-            {
-                "full_name": "Los Angeles",
-                "position": "AWAY",
-                "short_name": "Los Angeles"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "The Bay",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Los Angeles",
+                "name": "UTRGV",
                 "returnWin": 1.65
             }
         ],
-        "match_name": "The Bay v Los Angeles",
+        "match_name": "Nicholls State v UTRGV",
         "betOption": "Head To Head",
-        "start_time": "2026-02-10T00:00:00.000Z"
+        "start_time": "2026-02-10T00:30:00.000Z"
     },
     {
         "contestant_names": "Cedrik-Marcel Stebe, (1.46) VERSES Olaf Pieczkowski, (2.5)",
-        "start_time_aest": "2026-02-10T11:00:00+11:00",
+        "start_time_aest": "2026-02-10T11:30:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -245,130 +152,6 @@
         ],
         "match_name": "StebeC v Pieczkowski",
         "betOption": "Head To Head",
-        "start_time": "2026-02-10T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Quinn Vandecasteele, (1.5) VERSES Matthew Forbes, (2.4)",
-        "start_time_aest": "2026-02-10T11:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Quinn Vandecasteele",
-                "position": "HOME",
-                "short_name": "Vandecasteele"
-            },
-            {
-                "full_name": "Matthew Forbes",
-                "position": "AWAY",
-                "short_name": "Forbes"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Quinn Vandecasteele",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Matthew Forbes",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Vandecasteele v Forbes",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Jamie Mackenzie, (2.5) VERSES Marc Polmans, (1.46)",
-        "start_time_aest": "2026-02-10T11:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Jamie Mackenzie",
-                "position": "HOME",
-                "short_name": "Mackenzie"
-            },
-            {
-                "full_name": "Marc Polmans",
-                "position": "AWAY",
-                "short_name": "Polmans"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jamie Mackenzie",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Marc Polmans",
-                "returnWin": 1.46
-            }
-        ],
-        "match_name": "Mackenzie v Polmans",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Ena Shibahara, (1.68) VERSES Hiromi Abe, (2.05)",
-        "start_time_aest": "2026-02-10T11:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens Australia",
-        "contestants": [
-            {
-                "full_name": "Ena Shibahara",
-                "position": "HOME",
-                "short_name": "Shibahara"
-            },
-            {
-                "full_name": "Hiromi Abe",
-                "position": "AWAY",
-                "short_name": "Abe H"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ena Shibahara",
-                "returnWin": 1.68
-            },
-            {
-                "name": "Hiromi Abe",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Shibahara v Abe H",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Lizette Cabrera, (1.95) VERSES Sara Saito, (1.75)",
-        "start_time_aest": "2026-02-10T11:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens Australia",
-        "contestants": [
-            {
-                "full_name": "Lizette Cabrera",
-                "position": "HOME",
-                "short_name": "Cabrera L"
-            },
-            {
-                "full_name": "Sara Saito",
-                "position": "AWAY",
-                "short_name": "Saito S"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Lizette Cabrera",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Sara Saito",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Cabrera L v Saito S",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T00:00:00.000Z"
+        "start_time": "2026-02-10T00:30:00.000Z"
     }
 ]
