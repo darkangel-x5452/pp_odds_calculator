@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Colin Sinclair, (1.75) VERSES Matt Hulme, (1.95)",
-        "start_time_aest": "2026-02-10T16:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Colin Sinclair",
-                "position": "HOME",
-                "short_name": "Sinclair C"
-            },
-            {
-                "full_name": "Matt Hulme",
-                "position": "AWAY",
-                "short_name": "Hulme"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Colin Sinclair",
-                "returnWin": 1.75
-            },
-            {
-                "name": "Matt Hulme",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Sinclair C v Hulme",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T05:00:00.000Z"
-    },
-    {
-        "contestant_names": "Florent Bax, (2.3) VERSES Denis Yevseyev, (1.55)",
-        "start_time_aest": "2026-02-10T16:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Florent Bax",
-                "position": "HOME",
-                "short_name": "Bax"
-            },
-            {
-                "full_name": "Denis Yevseyev",
-                "position": "AWAY",
-                "short_name": "Yevseyev"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Florent Bax",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Denis Yevseyev",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Bax v Yevseyev",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T05:00:00.000Z"
-    },
-    {
         "contestant_names": "Netherlands, (1.52) VERSES Namibia, (2.5)",
         "start_time_aest": "2026-02-10T16:30:00+11:00",
         "sport_name": "Cricket",
@@ -89,6 +27,37 @@
             }
         ],
         "match_name": "Netherlands v Namibia",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-10T05:30:00.000Z"
+    },
+    {
+        "contestant_names": "Colin Sinclair, (1.75) VERSES Matt Hulme, (1.95)",
+        "start_time_aest": "2026-02-10T16:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Colin Sinclair",
+                "position": "HOME",
+                "short_name": "Sinclair C"
+            },
+            {
+                "full_name": "Matt Hulme",
+                "position": "AWAY",
+                "short_name": "Hulme"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Colin Sinclair",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Matt Hulme",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Sinclair C v Hulme",
         "betOption": "Head To Head",
         "start_time": "2026-02-10T05:30:00.000Z"
     },
