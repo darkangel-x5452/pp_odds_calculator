@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Mihai Marinescu, (1.58) VERSES Alvaro Jimenez, (2.25)",
-        "start_time_aest": "2026-02-10T18:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Mihai Marinescu",
-                "position": "HOME",
-                "short_name": "Marinescu"
-            },
-            {
-                "full_name": "Alvaro Jimenez",
-                "position": "AWAY",
-                "short_name": "Jimenez"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Mihai Marinescu",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Alvaro Jimenez",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Marinescu v Jimenez",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T07:15:00.000Z"
-    },
-    {
-        "contestant_names": "Mitsuki Wei Kang Leong, (2.25) VERSES Luca Castelnuovo, (1.58)",
-        "start_time_aest": "2026-02-10T18:16:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Mitsuki Wei Kang Leong",
-                "position": "HOME",
-                "short_name": "Leong"
-            },
-            {
-                "full_name": "Luca Castelnuovo",
-                "position": "AWAY",
-                "short_name": "Casteluovo"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Mitsuki Wei Kang Leong",
-                "returnWin": 2.25
-            },
-            {
-                "name": "Luca Castelnuovo",
-                "returnWin": 1.58
-            }
-        ],
-        "match_name": "Leong v Casteluovo",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T07:16:00.000Z"
-    },
-    {
-        "contestant_names": "Moerani Bouzige, (1.95) VERSES Hiroki Moriya, (1.75)",
-        "start_time_aest": "2026-02-10T18:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Moerani Bouzige",
-                "position": "HOME",
-                "short_name": "Bouzige"
-            },
-            {
-                "full_name": "Hiroki Moriya",
-                "position": "AWAY",
-                "short_name": "Moriya H"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Moerani Bouzige",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Hiroki Moriya",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Bouzige v Moriya H",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T07:30:00.000Z"
-    },
-    {
         "contestant_names": "Matteo Sciahbasi, (1.68) VERSES Filip Krolo, (2.05)",
         "start_time_aest": "2026-02-10T19:30:00+11:00",
         "sport_name": "Tennis",
@@ -213,6 +120,37 @@
             }
         ],
         "match_name": "Ivanov S v Mazzola",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-10T08:30:00.000Z"
+    },
+    {
+        "contestant_names": "Carlotta Moccia, (1.65) VERSES Leonie Rabl, (2.1)",
+        "start_time_aest": "2026-02-10T19:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Carlotta Moccia",
+                "position": "HOME",
+                "short_name": "Moccia"
+            },
+            {
+                "full_name": "Leonie Rabl",
+                "position": "AWAY",
+                "short_name": "Rabl"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Carlotta Moccia",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Leonie Rabl",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Moccia v Rabl",
         "betOption": "Head To Head",
         "start_time": "2026-02-10T08:30:00.000Z"
     }
