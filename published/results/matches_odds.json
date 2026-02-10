@@ -1,38 +1,7 @@
 [
     {
-        "contestant_names": "Napoli, (1.95) VERSES Como, (1.8)",
-        "start_time_aest": "2026-02-11T07:00:00+11:00",
-        "sport_name": "Soccer",
-        "competition_name": "Italy Cup",
-        "contestants": [
-            {
-                "full_name": "Napoli",
-                "position": "HOME",
-                "short_name": "Napoli"
-            },
-            {
-                "full_name": "Como",
-                "position": "AWAY",
-                "short_name": "Como"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Napoli",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Como",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "Napoli v Como",
-        "betOption": "Winner of Tie",
-        "start_time": "2026-02-10T20:00:00.000Z"
-    },
-    {
         "contestant_names": "Ignacio Buse, (2.3) VERSES Francesco Passaro, (1.55)",
-        "start_time_aest": "2026-02-11T07:00:00+11:00",
+        "start_time_aest": "2026-02-11T07:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP",
         "contestants": [
@@ -59,37 +28,223 @@
         ],
         "match_name": "Buse v Passaro",
         "betOption": "Head To Head",
-        "start_time": "2026-02-10T20:00:00.000Z"
+        "start_time": "2026-02-10T20:15:00.000Z"
     },
     {
-        "contestant_names": "Remy Bertola, (2.5) VERSES Martin Damm Jr, (1.46)",
-        "start_time_aest": "2026-02-11T07:00:00+11:00",
+        "contestant_names": "Daniel Milavsky, (2.25) VERSES Keegan Smith, (1.58)",
+        "start_time_aest": "2026-02-11T08:00:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
             {
-                "full_name": "Remy Bertola",
+                "full_name": "Daniel Milavsky",
                 "position": "HOME",
-                "short_name": "Bertola"
+                "short_name": "Milavsky D"
             },
             {
-                "full_name": "Martin Damm Jr",
+                "full_name": "Keegan Smith",
                 "position": "AWAY",
-                "short_name": "Damm"
+                "short_name": "Smith K"
             }
         ],
         "propositions": [
             {
-                "name": "Remy Bertola",
-                "returnWin": 2.5
+                "name": "Daniel Milavsky",
+                "returnWin": 2.25
             },
             {
-                "name": "Martin Damm Jr",
-                "returnWin": 1.46
+                "name": "Keegan Smith",
+                "returnWin": 1.58
             }
         ],
-        "match_name": "Bertola v Damm",
+        "match_name": "Milavsky D v Smith K",
         "betOption": "Head To Head",
-        "start_time": "2026-02-10T20:00:00.000Z"
+        "start_time": "2026-02-10T21:00:00.000Z"
+    },
+    {
+        "contestant_names": "Flavio Cobolli, (1.52) VERSES Jack Pinnington Jones, (2.4)",
+        "start_time_aest": "2026-02-11T09:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "contestants": [
+            {
+                "full_name": "Flavio Cobolli",
+                "position": "HOME",
+                "short_name": "Cobolli"
+            },
+            {
+                "full_name": "Jack Pinnington Jones",
+                "position": "AWAY",
+                "short_name": "Pinnington Jones"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Flavio Cobolli",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Jack Pinnington Jones",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Cobolli v Pinnington Jones",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-10T22:00:00.000Z"
+    },
+    {
+        "contestant_names": "Hebraica Macabi, (1.73) VERSES Malvin, (1.95)",
+        "start_time_aest": "2026-02-11T10:15:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Uruguay LUB",
+        "contestants": [
+            {
+                "full_name": "Hebraica Macabi",
+                "position": "HOME",
+                "short_name": "Hebraica Macabi"
+            },
+            {
+                "full_name": "Malvin",
+                "position": "AWAY",
+                "short_name": "Malvin"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hebraica Macabi",
+                "returnWin": 1.73
+            },
+            {
+                "name": "Malvin",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Hebraica Macabi v Malvin",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-10T23:15:00.000Z"
+    },
+    {
+        "contestant_names": "IU Indy, (2.15) VERSES Milwaukee, (1.7)",
+        "start_time_aest": "2026-02-11T10:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "IU Indy",
+                "position": "HOME",
+                "short_name": "IU Indy"
+            },
+            {
+                "full_name": "Milwaukee",
+                "position": "AWAY",
+                "short_name": "Milwaukee"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "IU Indy",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Milwaukee",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "IU Indy v Milwaukee",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-10T23:30:00.000Z"
+    },
+    {
+        "contestant_names": "Cincinnati, (1.52) VERSES Arizona, (2.45)",
+        "start_time_aest": "2026-02-11T10:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Cincinnati",
+                "position": "HOME",
+                "short_name": "Cincinnati"
+            },
+            {
+                "full_name": "Arizona",
+                "position": "AWAY",
+                "short_name": "Arizona"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Cincinnati",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Arizona",
+                "returnWin": 2.45
+            }
+        ],
+        "match_name": "Cincinnati v Arizona",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-10T23:30:00.000Z"
+    },
+    {
+        "contestant_names": "Camilo Ugo Carabelli, (1.7) VERSES Francisco Comesana, (2.1)",
+        "start_time_aest": "2026-02-11T10:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "contestants": [
+            {
+                "full_name": "Camilo Ugo Carabelli",
+                "position": "HOME",
+                "short_name": "Ugo Carabelli"
+            },
+            {
+                "full_name": "Francisco Comesana",
+                "position": "AWAY",
+                "short_name": "Comesana"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Camilo Ugo Carabelli",
+                "returnWin": 1.7
+            },
+            {
+                "name": "Francisco Comesana",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Ugo Carabelli v Comesana",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-10T23:30:00.000Z"
+    },
+    {
+        "contestant_names": "Pergamino Basket, (2.15) VERSES Deportivo Viedma, (1.6)",
+        "start_time_aest": "2026-02-11T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Pergamino Basket",
+                "position": "HOME",
+                "short_name": "Pergamino Basket"
+            },
+            {
+                "full_name": "Deportivo Viedma",
+                "position": "AWAY",
+                "short_name": "Deportivo Viedma"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Pergamino Basket",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Deportivo Viedma",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Pergamino Basket v Deportivo Viedma",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-11T00:00:00.000Z"
     }
 ]
