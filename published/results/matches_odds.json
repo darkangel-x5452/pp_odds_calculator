@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Portland, (2.1) VERSES Philadelphia, (1.77)",
-        "start_time_aest": "2026-02-10T14:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Portland",
-                "position": "HOME",
-                "short_name": "Portland"
-            },
-            {
-                "full_name": "Philadelphia",
-                "position": "AWAY",
-                "short_name": "Philadelphia"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Portland",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Philadelphia",
-                "returnWin": 1.77
-            }
-        ],
-        "match_name": "Portland v Philadelphia",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T03:10:00.000Z"
-    },
-    {
         "contestant_names": "Blake Ellis, (1.65) VERSES Fajing Sun, (2.1)",
         "start_time_aest": "2026-02-10T15:00:00+11:00",
         "sport_name": "Tennis",
@@ -215,5 +184,129 @@
         "match_name": "Bouzige v Moriya H",
         "betOption": "Head To Head",
         "start_time": "2026-02-10T06:00:00.000Z"
+    },
+    {
+        "contestant_names": "Ilia Simakin, (1.58) VERSES Manas Dhamne, (2.25)",
+        "start_time_aest": "2026-02-10T17:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Ilia Simakin",
+                "position": "HOME",
+                "short_name": "Simakin"
+            },
+            {
+                "full_name": "Manas Dhamne",
+                "position": "AWAY",
+                "short_name": "Dhamne"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ilia Simakin",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Manas Dhamne",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Simakin v Dhamne",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-10T06:30:00.000Z"
+    },
+    {
+        "contestant_names": "Mitsuki Wei Kang Leong, (2.2) VERSES Luca Castelnuovo, (1.6)",
+        "start_time_aest": "2026-02-10T17:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Mitsuki Wei Kang Leong",
+                "position": "HOME",
+                "short_name": "Leong"
+            },
+            {
+                "full_name": "Luca Castelnuovo",
+                "position": "AWAY",
+                "short_name": "Casteluovo"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mitsuki Wei Kang Leong",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Luca Castelnuovo",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Leong v Casteluovo",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-10T06:30:00.000Z"
+    },
+    {
+        "contestant_names": "Mbabane Capitals, (1.85) VERSES Manzini Superstars, (1.95)",
+        "start_time_aest": "2026-02-10T18:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Eswatini Super T10",
+        "contestants": [
+            {
+                "full_name": "Mbabane Capitals",
+                "position": "HOME",
+                "short_name": "Mbabane Capitals"
+            },
+            {
+                "full_name": "Manzini Superstars",
+                "position": "AWAY",
+                "short_name": "Manzini Supersta"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mbabane Capitals",
+                "returnWin": 1.85
+            },
+            {
+                "name": "Manzini Superstars",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Mbabane Capitals v Manzini Supersta",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-10T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Mihai Marinescu, (1.58) VERSES Alvaro Jimenez, (2.25)",
+        "start_time_aest": "2026-02-10T18:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Mihai Marinescu",
+                "position": "HOME",
+                "short_name": "Marinescu"
+            },
+            {
+                "full_name": "Alvaro Jimenez",
+                "position": "AWAY",
+                "short_name": "Jimenez"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mihai Marinescu",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Alvaro Jimenez",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Marinescu v Jimenez",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-10T07:15:00.000Z"
     }
 ]
