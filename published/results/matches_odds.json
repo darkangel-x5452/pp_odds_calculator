@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Thomas Fancutt, (1.6) VERSES Arjun Mehrotra, (2.2)",
-        "start_time_aest": "2026-02-12T10:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "UTR Pro Series",
-        "contestants": [
-            {
-                "full_name": "Thomas Fancutt",
-                "position": "HOME",
-                "short_name": "Fancutt"
-            },
-            {
-                "full_name": "Arjun Mehrotra",
-                "position": "AWAY",
-                "short_name": "Mehrotra"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Thomas Fancutt",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Arjun Mehrotra",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Fancutt v Mehrotra",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-11T23:30:00.000Z"
-    },
-    {
         "contestant_names": "Deportivo Norte, (2.25) VERSES Quilmes, (1.55)",
         "start_time_aest": "2026-02-12T11:00:00+11:00",
         "sport_name": "Basketball",
@@ -120,6 +89,130 @@
             }
         ],
         "match_name": "Mercer v Furman",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Ball State, (2) VERSES Buffalo, (1.8)",
+        "start_time_aest": "2026-02-12T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Ball State",
+                "position": "HOME",
+                "short_name": "Ball State"
+            },
+            {
+                "full_name": "Buffalo",
+                "position": "AWAY",
+                "short_name": "Buffalo"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ball State",
+                "returnWin": 2
+            },
+            {
+                "name": "Buffalo",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Ball State v Buffalo",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Lafayette, (1.62) VERSES Loyola (MD), (2.3)",
+        "start_time_aest": "2026-02-12T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Lafayette",
+                "position": "HOME",
+                "short_name": "Lafayette"
+            },
+            {
+                "full_name": "Loyola (MD)",
+                "position": "AWAY",
+                "short_name": "Loyola (MD)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lafayette",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Loyola (MD)",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Lafayette v Loyola (MD)",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Lehigh, (2) VERSES American, (1.8)",
+        "start_time_aest": "2026-02-12T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Lehigh",
+                "position": "HOME",
+                "short_name": "Lehigh"
+            },
+            {
+                "full_name": "American",
+                "position": "AWAY",
+                "short_name": "American"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lehigh",
+                "returnWin": 2
+            },
+            {
+                "name": "American",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Lehigh v American",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Stetson, (2) VERSES Jacksonville, (1.8)",
+        "start_time_aest": "2026-02-12T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Stetson",
+                "position": "HOME",
+                "short_name": "Stetson"
+            },
+            {
+                "full_name": "Jacksonville",
+                "position": "AWAY",
+                "short_name": "Jacksonville"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Stetson",
+                "returnWin": 2
+            },
+            {
+                "name": "Jacksonville",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Stetson v Jacksonville",
         "betOption": "Head To Head",
         "start_time": "2026-02-12T00:00:00.000Z"
     }
