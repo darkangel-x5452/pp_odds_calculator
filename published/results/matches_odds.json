@@ -1,129 +1,5 @@
 [
     {
-        "contestant_names": "J Gaines Jr, (1.58) VERSES Mwendwa Mbithi, (2.25)",
-        "start_time_aest": "2026-02-12T02:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "J Gaines Jr",
-                "position": "HOME",
-                "short_name": "Gaines Jr J"
-            },
-            {
-                "full_name": "Mwendwa Mbithi",
-                "position": "AWAY",
-                "short_name": "Mbithi"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "J Gaines Jr",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Mwendwa Mbithi",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Gaines Jr J v Mbithi",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-11T15:00:00.000Z"
-    },
-    {
-        "contestant_names": "Andrew Johnson, (1.5) VERSES Gavin Goode, (2.4)",
-        "start_time_aest": "2026-02-12T02:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Andrew Johnson",
-                "position": "HOME",
-                "short_name": "Johnson A"
-            },
-            {
-                "full_name": "Gavin Goode",
-                "position": "AWAY",
-                "short_name": "Goode"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Andrew Johnson",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Gavin Goode",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Johnson A v Goode",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-11T15:00:00.000Z"
-    },
-    {
-        "contestant_names": "Julie Belgraver, (1.72) VERSES Justina Mikulskyte, (2)",
-        "start_time_aest": "2026-02-12T02:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Julie Belgraver",
-                "position": "HOME",
-                "short_name": "Belgraver"
-            },
-            {
-                "full_name": "Justina Mikulskyte",
-                "position": "AWAY",
-                "short_name": "Mikulskyte"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Julie Belgraver",
-                "returnWin": 1.72
-            },
-            {
-                "name": "Justina Mikulskyte",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Belgraver v Mikulskyte",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-11T15:00:00.000Z"
-    },
-    {
-        "contestant_names": "Anhelina Kalinina, (1.68) VERSES Dalma Galfi, (2.05)",
-        "start_time_aest": "2026-02-12T02:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA 125 Tour",
-        "contestants": [
-            {
-                "full_name": "Anhelina Kalinina",
-                "position": "HOME",
-                "short_name": "Kalinina A"
-            },
-            {
-                "full_name": "Dalma Galfi",
-                "position": "AWAY",
-                "short_name": "Galfi D"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Anhelina Kalinina",
-                "returnWin": 1.68
-            },
-            {
-                "name": "Dalma Galfi",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Kalinina A v Galfi D",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-11T15:00:00.000Z"
-    },
-    {
         "contestant_names": "PAOK Saloniki, (1.45) VERSES Bilbao, (2.5)",
         "start_time_aest": "2026-02-12T02:30:00+11:00",
         "sport_name": "Basketball",
@@ -213,6 +89,37 @@
             }
         ],
         "match_name": "U-bt Cluj-napoca v Aris Thesaloniki",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-11T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "Roman Andres Burruchaga, (2.4) VERSES Tomas Martin Etcheverry, (1.5)",
+        "start_time_aest": "2026-02-12T03:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "contestants": [
+            {
+                "full_name": "Roman Andres Burruchaga",
+                "position": "HOME",
+                "short_name": "Burruchaga"
+            },
+            {
+                "full_name": "Tomas Martin Etcheverry",
+                "position": "AWAY",
+                "short_name": "Etcheverry"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Roman Andres Burruchaga",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Tomas Martin Etcheverry",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Burruchaga v Etcheverry",
         "betOption": "Head To Head",
         "start_time": "2026-02-11T16:00:00.000Z"
     }
