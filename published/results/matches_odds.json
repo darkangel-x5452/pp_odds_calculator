@@ -1,374 +1,281 @@
 [
     {
-        "contestant_names": "Flavio Cobolli, (1.52) VERSES Jack Pinnington Jones, (2.4)",
-        "start_time_aest": "2026-02-11T09:00:00+11:00",
+        "contestant_names": "Joe Leather, (1.62) VERSES Liam Delicata, (2.15)",
+        "start_time_aest": "2026-02-11T21:45:00+11:00",
         "sport_name": "Tennis",
-        "competition_name": "ATP",
+        "competition_name": "ITF Mens",
         "contestants": [
             {
-                "full_name": "Flavio Cobolli",
+                "full_name": "Joe Leather",
                 "position": "HOME",
-                "short_name": "Cobolli"
+                "short_name": "Leather"
             },
             {
-                "full_name": "Jack Pinnington Jones",
+                "full_name": "Liam Delicata",
                 "position": "AWAY",
-                "short_name": "Pinnington Jones"
+                "short_name": "Delicata"
             }
         ],
         "propositions": [
             {
-                "name": "Flavio Cobolli",
-                "returnWin": 1.52
+                "name": "Joe Leather",
+                "returnWin": 1.62
             },
             {
-                "name": "Jack Pinnington Jones",
-                "returnWin": 2.4
+                "name": "Liam Delicata",
+                "returnWin": 2.15
             }
         ],
-        "match_name": "Cobolli v Pinnington Jones",
+        "match_name": "Leather v Delicata",
         "betOption": "Head To Head",
-        "start_time": "2026-02-10T22:00:00.000Z"
+        "start_time": "2026-02-11T10:45:00.000Z"
     },
     {
-        "contestant_names": "Luca Connaughton, (1.58) VERSES Haruto Ishikawa, (2.25)",
-        "start_time_aest": "2026-02-11T09:30:00+11:00",
+        "contestant_names": "Ann Li, (1.72) VERSES Elisabetta Cocciaretto, (2)",
+        "start_time_aest": "2026-02-11T21:45:00+11:00",
         "sport_name": "Tennis",
-        "competition_name": "UTR Pro Series",
+        "competition_name": "WTA",
         "contestants": [
             {
-                "full_name": "Luca Connaughton",
+                "full_name": "Ann Li",
                 "position": "HOME",
-                "short_name": "Connaughton"
+                "short_name": "Li A"
             },
             {
-                "full_name": "Haruto Ishikawa",
+                "full_name": "Elisabetta Cocciaretto",
                 "position": "AWAY",
-                "short_name": "Ishikawa"
+                "short_name": "Cocciaretto E"
             }
         ],
         "propositions": [
             {
-                "name": "Luca Connaughton",
+                "name": "Ann Li",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Elisabetta Cocciaretto",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Li A v Cocciaretto E",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-11T10:45:00.000Z"
+    },
+    {
+        "contestant_names": "11 Stars, (2.05) VERSES 90FT CC, (1.75)",
+        "start_time_aest": "2026-02-11T22:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Eswatini Super T10",
+        "contestants": [
+            {
+                "full_name": "11 Stars",
+                "position": "HOME",
+                "short_name": "11 Stars"
+            },
+            {
+                "full_name": "90FT CC",
+                "position": "AWAY",
+                "short_name": "90ft Cc"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "11 Stars",
+                "returnWin": 2.05
+            },
+            {
+                "name": "90FT CC",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "11 Stars v 90ft Cc",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-11T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Wu Yize, (1.5) VERSES Elliot Slessor, (2.5)",
+        "start_time_aest": "2026-02-11T22:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "Championship League",
+        "contestants": [
+            {
+                "full_name": "Wu Yize",
+                "position": "HOME",
+                "short_name": "Yize"
+            },
+            {
+                "full_name": "Elliot Slessor",
+                "position": "AWAY",
+                "short_name": "Slessor"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Wu Yize",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Elliot Slessor",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Yize v Slessor",
+        "betOption": "Result",
+        "start_time": "2026-02-11T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Enzo Wallart, (1.58) VERSES Dimitris Azoidis, (2.25)",
+        "start_time_aest": "2026-02-11T22:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Enzo Wallart",
+                "position": "HOME",
+                "short_name": "Wallart"
+            },
+            {
+                "full_name": "Dimitris Azoidis",
+                "position": "AWAY",
+                "short_name": "Azoidis"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Enzo Wallart",
                 "returnWin": 1.58
             },
             {
-                "name": "Haruto Ishikawa",
+                "name": "Dimitris Azoidis",
                 "returnWin": 2.25
             }
         ],
-        "match_name": "Connaughton v Ishikawa",
+        "match_name": "Wallart v Azoidis",
         "betOption": "Head To Head",
-        "start_time": "2026-02-10T22:30:00.000Z"
+        "start_time": "2026-02-11T11:00:00.000Z"
     },
     {
-        "contestant_names": "Sam Oster, (2.5) VERSES Jera Staley, (1.46)",
-        "start_time_aest": "2026-02-11T09:30:00+11:00",
+        "contestant_names": "Merel Hoedt, (2.5) VERSES Alyssa Reguer, (1.46)",
+        "start_time_aest": "2026-02-11T22:00:00+11:00",
         "sport_name": "Tennis",
-        "competition_name": "UTR Pro Series",
+        "competition_name": "ITF Womens",
         "contestants": [
             {
-                "full_name": "Sam Oster",
+                "full_name": "Merel Hoedt",
                 "position": "HOME",
-                "short_name": "Oster"
+                "short_name": "Hoedt"
             },
             {
-                "full_name": "Jera Staley",
+                "full_name": "Alyssa Reguer",
                 "position": "AWAY",
-                "short_name": "Staley"
+                "short_name": "Reguer A"
             }
         ],
         "propositions": [
             {
-                "name": "Sam Oster",
+                "name": "Merel Hoedt",
                 "returnWin": 2.5
             },
             {
-                "name": "Jera Staley",
+                "name": "Alyssa Reguer",
                 "returnWin": 1.46
             }
         ],
-        "match_name": "Oster v Staley",
+        "match_name": "Hoedt v Reguer A",
         "betOption": "Head To Head",
-        "start_time": "2026-02-10T22:30:00.000Z"
+        "start_time": "2026-02-11T11:00:00.000Z"
     },
     {
-        "contestant_names": "Hebraica Macabi, (1.73) VERSES Malvin, (1.95)",
-        "start_time_aest": "2026-02-11T10:15:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Uruguay LUB",
-        "contestants": [
-            {
-                "full_name": "Hebraica Macabi",
-                "position": "HOME",
-                "short_name": "Hebraica Macabi"
-            },
-            {
-                "full_name": "Malvin",
-                "position": "AWAY",
-                "short_name": "Malvin"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Hebraica Macabi",
-                "returnWin": 1.73
-            },
-            {
-                "name": "Malvin",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Hebraica Macabi v Malvin",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T23:15:00.000Z"
-    },
-    {
-        "contestant_names": "IU Indy, (2.15) VERSES Milwaukee, (1.7)",
-        "start_time_aest": "2026-02-11T10:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "IU Indy",
-                "position": "HOME",
-                "short_name": "IU Indy"
-            },
-            {
-                "full_name": "Milwaukee",
-                "position": "AWAY",
-                "short_name": "Milwaukee"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "IU Indy",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Milwaukee",
-                "returnWin": 1.7
-            }
-        ],
-        "match_name": "IU Indy v Milwaukee",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T23:30:00.000Z"
-    },
-    {
-        "contestant_names": "Cincinnati, (1.52) VERSES Arizona, (2.45)",
-        "start_time_aest": "2026-02-11T10:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Cincinnati",
-                "position": "HOME",
-                "short_name": "Cincinnati"
-            },
-            {
-                "full_name": "Arizona",
-                "position": "AWAY",
-                "short_name": "Arizona"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Cincinnati",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Arizona",
-                "returnWin": 2.45
-            }
-        ],
-        "match_name": "Cincinnati v Arizona",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T23:30:00.000Z"
-    },
-    {
-        "contestant_names": "Camilo Ugo Carabelli, (1.7) VERSES Francisco Comesana, (2.1)",
-        "start_time_aest": "2026-02-11T10:30:00+11:00",
+        "contestant_names": "Gina Marie Dittmann, (1.58) VERSES Victoria Pohle, (2.25)",
+        "start_time_aest": "2026-02-11T22:00:00+11:00",
         "sport_name": "Tennis",
-        "competition_name": "ATP",
+        "competition_name": "ITF Womens",
         "contestants": [
             {
-                "full_name": "Camilo Ugo Carabelli",
+                "full_name": "Gina Marie Dittmann",
                 "position": "HOME",
-                "short_name": "Ugo Carabelli"
+                "short_name": "Dittmann"
             },
             {
-                "full_name": "Francisco Comesana",
+                "full_name": "Victoria Pohle",
                 "position": "AWAY",
-                "short_name": "Comesana"
+                "short_name": "Pohle"
             }
         ],
         "propositions": [
             {
-                "name": "Camilo Ugo Carabelli",
-                "returnWin": 1.7
+                "name": "Gina Marie Dittmann",
+                "returnWin": 1.58
             },
             {
-                "name": "Francisco Comesana",
-                "returnWin": 2.1
+                "name": "Victoria Pohle",
+                "returnWin": 2.25
             }
         ],
-        "match_name": "Ugo Carabelli v Comesana",
+        "match_name": "Dittmann v Pohle",
         "betOption": "Head To Head",
-        "start_time": "2026-02-10T23:30:00.000Z"
+        "start_time": "2026-02-11T11:00:00.000Z"
     },
     {
-        "contestant_names": "Emma Tran, (2.35) VERSES Bianca Compuesto, (1.52)",
-        "start_time_aest": "2026-02-11T10:40:00+11:00",
+        "contestant_names": "Iryna Shymanovich, (2.4) VERSES Suzan Lamens, (1.5)",
+        "start_time_aest": "2026-02-11T22:00:00+11:00",
         "sport_name": "Tennis",
-        "competition_name": "UTR Pro Series",
+        "competition_name": "WTA 125 Tour",
         "contestants": [
             {
-                "full_name": "Emma Tran",
+                "full_name": "Iryna Shymanovich",
                 "position": "HOME",
-                "short_name": "Tran"
+                "short_name": "Shymanovich I"
             },
             {
-                "full_name": "Bianca Compuesto",
+                "full_name": "Suzan Lamens",
                 "position": "AWAY",
-                "short_name": "Compuesto"
+                "short_name": "Lamens S"
             }
         ],
         "propositions": [
             {
-                "name": "Emma Tran",
-                "returnWin": 2.35
-            },
-            {
-                "name": "Bianca Compuesto",
-                "returnWin": 1.52
-            }
-        ],
-        "match_name": "Tran v Compuesto",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-10T23:40:00.000Z"
-    },
-    {
-        "contestant_names": "Pergamino Basket, (2.15) VERSES Deportivo Viedma, (1.6)",
-        "start_time_aest": "2026-02-11T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga A",
-        "contestants": [
-            {
-                "full_name": "Pergamino Basket",
-                "position": "HOME",
-                "short_name": "Pergamino Basket"
-            },
-            {
-                "full_name": "Deportivo Viedma",
-                "position": "AWAY",
-                "short_name": "Deportivo Viedma"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Pergamino Basket",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Deportivo Viedma",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Pergamino Basket v Deportivo Viedma",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-11T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Auburn, (1.6) VERSES Vanderbilt, (2.35)",
-        "start_time_aest": "2026-02-11T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Auburn",
-                "position": "HOME",
-                "short_name": "Auburn"
-            },
-            {
-                "full_name": "Vanderbilt",
-                "position": "AWAY",
-                "short_name": "Vanderbilt"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Auburn",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Vanderbilt",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Auburn v Vanderbilt",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-11T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Baylor, (2.4) VERSES BYU, (1.58)",
-        "start_time_aest": "2026-02-11T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Baylor",
-                "position": "HOME",
-                "short_name": "Baylor"
-            },
-            {
-                "full_name": "BYU",
-                "position": "AWAY",
-                "short_name": "BYU"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Baylor",
+                "name": "Iryna Shymanovich",
                 "returnWin": 2.4
             },
             {
-                "name": "BYU",
-                "returnWin": 1.58
+                "name": "Suzan Lamens",
+                "returnWin": 1.5
             }
         ],
-        "match_name": "Baylor v BYU",
+        "match_name": "Shymanovich I v Lamens S",
         "betOption": "Head To Head",
-        "start_time": "2026-02-11T00:00:00.000Z"
+        "start_time": "2026-02-11T11:00:00.000Z"
     },
     {
-        "contestant_names": "George Wshington, (1.55) VERSES Rhode Island, (2.45)",
-        "start_time_aest": "2026-02-11T11:00:00+11:00",
+        "contestant_names": "Khasiin Khuleguu, (2.4) VERSES Toyota Alvark, (1.5)",
+        "start_time_aest": "2026-02-11T22:10:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "competition_name": "East Asia Super League",
         "contestants": [
             {
-                "full_name": "George Wshington",
+                "full_name": "Khasiin Khuleguu",
                 "position": "HOME",
-                "short_name": "George Wshington"
+                "short_name": "Khasiin Khuleguu"
             },
             {
-                "full_name": "Rhode Island",
+                "full_name": "Toyota Alvark",
                 "position": "AWAY",
-                "short_name": "Rhode Island"
+                "short_name": "Toyota Alvark"
             }
         ],
         "propositions": [
             {
-                "name": "George Wshington",
-                "returnWin": 1.55
+                "name": "Khasiin Khuleguu",
+                "returnWin": 2.4
             },
             {
-                "name": "Rhode Island",
-                "returnWin": 2.45
+                "name": "Toyota Alvark",
+                "returnWin": 1.5
             }
         ],
-        "match_name": "George Wshington v Rhode Island",
+        "match_name": "Khasiin Khuleguu v Toyota Alvark",
         "betOption": "Head To Head",
-        "start_time": "2026-02-11T00:00:00.000Z"
+        "start_time": "2026-02-11T11:10:00.000Z"
     }
 ]
