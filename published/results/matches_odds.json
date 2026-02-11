@@ -1,1 +1,33 @@
-[]
+[
+    {
+        "contestant_names": "Bologna, (1.6) VERSES Lazio, (2.25)",
+        "start_time_aest": "2026-02-12T07:00:00+11:00",
+        "sport_name": "Soccer",
+        "competition_name": "Italy Cup",
+        "contestants": [
+            {
+                "full_name": "Bologna",
+                "position": "HOME",
+                "short_name": "Bologna"
+            },
+            {
+                "full_name": "Lazio",
+                "position": "AWAY",
+                "short_name": "Lazio"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bologna",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Lazio",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Bologna v Lazio",
+        "betOption": "Winner of Tie",
+        "start_time": "2026-02-11T20:00:00.000Z"
+    }
+]
