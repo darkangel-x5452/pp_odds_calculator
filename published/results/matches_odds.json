@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Joao Fonseca, (1.52) VERSES Alejandro Tabilo, (2.35)",
-        "start_time_aest": "2026-02-12T09:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "contestants": [
-            {
-                "full_name": "Joao Fonseca",
-                "position": "HOME",
-                "short_name": "Fonseca"
-            },
-            {
-                "full_name": "Alejandro Tabilo",
-                "position": "AWAY",
-                "short_name": "Tabilo A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Joao Fonseca",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Alejandro Tabilo",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Fonseca v Tabilo A",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-11T22:15:00.000Z"
-    },
-    {
-        "contestant_names": "UniaoCorinthians, (1.57) VERSES Paulistano, (2.2)",
-        "start_time_aest": "2026-02-12T09:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Brazil NBB",
-        "contestants": [
-            {
-                "full_name": "UniaoCorinthians",
-                "position": "HOME",
-                "short_name": "UniaoCorinthians"
-            },
-            {
-                "full_name": "Paulistano",
-                "position": "AWAY",
-                "short_name": "Paulistano"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "UniaoCorinthians",
-                "returnWin": 1.57
-            },
-            {
-                "name": "Paulistano",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "UniaoCorinthians v Paulistano",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-11T22:30:00.000Z"
-    },
-    {
-        "contestant_names": "Doumbia/Reboul, (1.6) VERSES Kovacevic/Shelton, (2.25)",
-        "start_time_aest": "2026-02-12T09:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "contestants": [
-            {
-                "full_name": "Doumbia/Reboul",
-                "position": "HOME",
-                "short_name": "Doumbia/Reboul"
-            },
-            {
-                "full_name": "Kovacevic/Shelton",
-                "position": "AWAY",
-                "short_name": "Kovacevic/Shelton"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Doumbia/Reboul",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Kovacevic/Shelton",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Doumbia/Reboul v Kovacevic/Shelton",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-11T22:30:00.000Z"
-    },
-    {
         "contestant_names": "Army, (2.3) VERSES Boston Uni, (1.62)",
         "start_time_aest": "2026-02-12T10:00:00+11:00",
         "sport_name": "Basketball",
@@ -122,5 +29,67 @@
         "match_name": "Army v Boston Uni",
         "betOption": "Head To Head",
         "start_time": "2026-02-11T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Thomas Fancutt, (1.6) VERSES Arjun Mehrotra, (2.2)",
+        "start_time_aest": "2026-02-12T10:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "UTR Pro Series",
+        "contestants": [
+            {
+                "full_name": "Thomas Fancutt",
+                "position": "HOME",
+                "short_name": "Fancutt"
+            },
+            {
+                "full_name": "Arjun Mehrotra",
+                "position": "AWAY",
+                "short_name": "Mehrotra"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Thomas Fancutt",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Arjun Mehrotra",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Fancutt v Mehrotra",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-11T23:30:00.000Z"
+    },
+    {
+        "contestant_names": "Deportivo Norte, (2.25) VERSES Quilmes, (1.55)",
+        "start_time_aest": "2026-02-12T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Deportivo Norte",
+                "position": "HOME",
+                "short_name": "Deportivo Norte"
+            },
+            {
+                "full_name": "Quilmes",
+                "position": "AWAY",
+                "short_name": "Quilmes"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Deportivo Norte",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Quilmes",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Deportivo Norte v Quilmes",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T00:00:00.000Z"
     }
 ]
