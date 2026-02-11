@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Toby Samuel, (2) VERSES Daniel Merida Aguilar, (1.72)",
-        "start_time_aest": "2026-02-12T01:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Toby Samuel",
-                "position": "HOME",
-                "short_name": "Samuel T"
-            },
-            {
-                "full_name": "Daniel Merida Aguilar",
-                "position": "AWAY",
-                "short_name": "Aguilar D"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Toby Samuel",
-                "returnWin": 2
-            },
-            {
-                "name": "Daniel Merida Aguilar",
-                "returnWin": 1.72
-            }
-        ],
-        "match_name": "Samuel T v Aguilar D",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-11T14:15:00.000Z"
-    },
-    {
-        "contestant_names": "Cascino/Feng, (2) VERSES Kasintseva/Salkova, (1.72)",
-        "start_time_aest": "2026-02-12T01:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA 125 Doubles",
-        "contestants": [
-            {
-                "full_name": "Cascino/Feng",
-                "position": "HOME",
-                "short_name": "Cascino/Feng"
-            },
-            {
-                "full_name": "Kasintseva/Salkova",
-                "position": "AWAY",
-                "short_name": "Kasintseva/Salkova"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Cascino/Feng",
-                "returnWin": 2
-            },
-            {
-                "name": "Kasintseva/Salkova",
-                "returnWin": 1.72
-            }
-        ],
-        "match_name": "Cascino/Feng v Kasintseva/Salkova",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-11T14:30:00.000Z"
-    },
-    {
         "contestant_names": "J Gaines Jr, (1.58) VERSES Mwendwa Mbithi, (2.25)",
         "start_time_aest": "2026-02-12T02:00:00+11:00",
         "sport_name": "Tennis",
@@ -153,5 +91,129 @@
         "match_name": "Belgraver v Mikulskyte",
         "betOption": "Head To Head",
         "start_time": "2026-02-11T15:00:00.000Z"
+    },
+    {
+        "contestant_names": "Anhelina Kalinina, (1.68) VERSES Dalma Galfi, (2.05)",
+        "start_time_aest": "2026-02-12T02:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Tour",
+        "contestants": [
+            {
+                "full_name": "Anhelina Kalinina",
+                "position": "HOME",
+                "short_name": "Kalinina A"
+            },
+            {
+                "full_name": "Dalma Galfi",
+                "position": "AWAY",
+                "short_name": "Galfi D"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Anhelina Kalinina",
+                "returnWin": 1.68
+            },
+            {
+                "name": "Dalma Galfi",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Kalinina A v Galfi D",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-11T15:00:00.000Z"
+    },
+    {
+        "contestant_names": "PAOK Saloniki, (1.45) VERSES Bilbao, (2.5)",
+        "start_time_aest": "2026-02-12T02:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "FIBA Europe Cup",
+        "contestants": [
+            {
+                "full_name": "PAOK Saloniki",
+                "position": "HOME",
+                "short_name": "PAOK Saloniki"
+            },
+            {
+                "full_name": "Bilbao",
+                "position": "AWAY",
+                "short_name": "Bilbao"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "PAOK Saloniki",
+                "returnWin": 1.45
+            },
+            {
+                "name": "Bilbao",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "PAOK Saloniki v Bilbao",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-11T15:30:00.000Z"
+    },
+    {
+        "contestant_names": "Alejandro Turriziani Alvarez, (1.68) VERSES Benjamin Hannestad, (2.05)",
+        "start_time_aest": "2026-02-12T02:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Alejandro Turriziani Alvarez",
+                "position": "HOME",
+                "short_name": "Turriziani Alvar"
+            },
+            {
+                "full_name": "Benjamin Hannestad",
+                "position": "AWAY",
+                "short_name": "Hannestad"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alejandro Turriziani Alvarez",
+                "returnWin": 1.68
+            },
+            {
+                "name": "Benjamin Hannestad",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Turriziani Alvar v Hannestad",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-11T15:30:00.000Z"
+    },
+    {
+        "contestant_names": "U-bt Cluj-napoca, (1.66) VERSES Aris Thesaloniki, (2.05)",
+        "start_time_aest": "2026-02-12T03:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "EuroCup",
+        "contestants": [
+            {
+                "full_name": "U-bt Cluj-napoca",
+                "position": "HOME",
+                "short_name": "U-bt Cluj-napoca"
+            },
+            {
+                "full_name": "Aris Thesaloniki",
+                "position": "AWAY",
+                "short_name": "Aris Thesaloniki"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "U-bt Cluj-napoca",
+                "returnWin": 1.66
+            },
+            {
+                "name": "Aris Thesaloniki",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "U-bt Cluj-napoca v Aris Thesaloniki",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-11T16:00:00.000Z"
     }
 ]
