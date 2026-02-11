@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Army, (2.3) VERSES Boston Uni, (1.62)",
-        "start_time_aest": "2026-02-12T10:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Army",
-                "position": "HOME",
-                "short_name": "Army"
-            },
-            {
-                "full_name": "Boston Uni",
-                "position": "AWAY",
-                "short_name": "Boston Uni"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Army",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Boston Uni",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Army v Boston Uni",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-11T23:00:00.000Z"
-    },
-    {
         "contestant_names": "Thomas Fancutt, (1.6) VERSES Arjun Mehrotra, (2.2)",
         "start_time_aest": "2026-02-12T10:30:00+11:00",
         "sport_name": "Tennis",
@@ -89,6 +58,68 @@
             }
         ],
         "match_name": "Deportivo Norte v Quilmes",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Obera TC, (1.48) VERSES Regatas, (2.4)",
+        "start_time_aest": "2026-02-12T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga Nacional de Basket",
+        "contestants": [
+            {
+                "full_name": "Obera TC",
+                "position": "HOME",
+                "short_name": "Obera TC"
+            },
+            {
+                "full_name": "Regatas",
+                "position": "AWAY",
+                "short_name": "Regatas"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Obera TC",
+                "returnWin": 1.48
+            },
+            {
+                "name": "Regatas",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Obera TC v Regatas",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Mercer, (1.58) VERSES Furman, (2.4)",
+        "start_time_aest": "2026-02-12T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Mercer",
+                "position": "HOME",
+                "short_name": "Mercer"
+            },
+            {
+                "full_name": "Furman",
+                "position": "AWAY",
+                "short_name": "Furman"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mercer",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Furman",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Mercer v Furman",
         "betOption": "Head To Head",
         "start_time": "2026-02-12T00:00:00.000Z"
     }
