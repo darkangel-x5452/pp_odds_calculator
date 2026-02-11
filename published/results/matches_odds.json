@@ -1,64 +1,126 @@
 [
     {
-        "contestant_names": "Sweden, (1.67) VERSES Italy, (2.1)",
-        "start_time_aest": "2026-02-12T05:05:00+11:00",
-        "sport_name": "Winter Olympics",
-        "competition_name": "Curling - Mens",
+        "contestant_names": "Al Riyadi Beirut, (1.6) VERSES BC Astana, (2.2)",
+        "start_time_aest": "2026-02-12T05:45:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "West Asia Super League",
         "contestants": [
             {
-                "full_name": "Sweden",
+                "full_name": "Al Riyadi Beirut",
                 "position": "HOME",
-                "short_name": "Sweden"
+                "short_name": "Al Riyadi Beirut"
             },
             {
-                "full_name": "Italy",
+                "full_name": "BC Astana",
                 "position": "AWAY",
-                "short_name": "Italy"
+                "short_name": "BC Astana"
             }
         ],
         "propositions": [
             {
-                "name": "Sweden",
-                "returnWin": 1.67
+                "name": "Al Riyadi Beirut",
+                "returnWin": 1.6
             },
             {
-                "name": "Italy",
-                "returnWin": 2.1
+                "name": "BC Astana",
+                "returnWin": 2.2
             }
         ],
-        "match_name": "Sweden v Italy",
+        "match_name": "Al Riyadi Beirut v BC Astana",
         "betOption": "Head To Head",
-        "start_time": "2026-02-11T18:05:00.000Z"
+        "start_time": "2026-02-11T18:45:00.000Z"
     },
     {
-        "contestant_names": "Bhambri/Goransson, (1.72) VERSES Kirkov/Stevens, (2.05)",
-        "start_time_aest": "2026-02-12T05:20:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
+        "contestant_names": "Trieste, (2.1) VERSES Gran Canaria, (1.62)",
+        "start_time_aest": "2026-02-12T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Basketball Champions League",
         "contestants": [
             {
-                "full_name": "Bhambri/Goransson",
+                "full_name": "Trieste",
                 "position": "HOME",
-                "short_name": "Bhambri/Goransson"
+                "short_name": "Trieste"
             },
             {
-                "full_name": "Kirkov/Stevens",
+                "full_name": "Gran Canaria",
                 "position": "AWAY",
-                "short_name": "Kirkov/Stevens"
+                "short_name": "Gran Canaria"
             }
         ],
         "propositions": [
             {
-                "name": "Bhambri/Goransson",
-                "returnWin": 1.72
+                "name": "Trieste",
+                "returnWin": 2.1
             },
             {
-                "name": "Kirkov/Stevens",
-                "returnWin": 2.05
+                "name": "Gran Canaria",
+                "returnWin": 1.62
             }
         ],
-        "match_name": "Bhambri/Goransson v Kirkov/Stevens",
+        "match_name": "Trieste v Gran Canaria",
         "betOption": "Head To Head",
-        "start_time": "2026-02-11T18:20:00.000Z"
+        "start_time": "2026-02-11T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Frankfurt, (1.55) VERSES TBB Trier, (2.3)",
+        "start_time_aest": "2026-02-12T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Germany Bundesliga",
+        "contestants": [
+            {
+                "full_name": "Frankfurt",
+                "position": "HOME",
+                "short_name": "Frankfurt"
+            },
+            {
+                "full_name": "TBB Trier",
+                "position": "AWAY",
+                "short_name": "TBB Trier"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Frankfurt",
+                "returnWin": 1.55
+            },
+            {
+                "name": "TBB Trier",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Frankfurt v TBB Trier",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-11T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Robert Milkins, (1.6) VERSES Iulian Boiko, (2.25)",
+        "start_time_aest": "2026-02-12T06:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "World Open",
+        "contestants": [
+            {
+                "full_name": "Robert Milkins",
+                "position": "HOME",
+                "short_name": "Milkins"
+            },
+            {
+                "full_name": "Iulian Boiko",
+                "position": "AWAY",
+                "short_name": "Boiko"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Robert Milkins",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Iulian Boiko",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Milkins v Boiko",
+        "betOption": "Result",
+        "start_time": "2026-02-11T19:00:00.000Z"
     }
 ]
