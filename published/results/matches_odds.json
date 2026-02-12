@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Jelena Ostapenko, (1.5) VERSES Elisabetta Cocciaretto, (2.5)",
-        "start_time_aest": "2026-02-12T23:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestants": [
-            {
-                "full_name": "Jelena Ostapenko",
-                "position": "HOME",
-                "short_name": "Ostapenko"
-            },
-            {
-                "full_name": "Elisabetta Cocciaretto",
-                "position": "AWAY",
-                "short_name": "Cocciaretto E"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jelena Ostapenko",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Elisabetta Cocciaretto",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Ostapenko v Cocciaretto E",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-12T12:15:00.000Z"
-    },
-    {
-        "contestant_names": "Nicholas Ionel, (2.05) VERSES Andrey Chepelev, (1.68)",
-        "start_time_aest": "2026-02-12T23:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Nicholas Ionel",
-                "position": "HOME",
-                "short_name": "Ionel N"
-            },
-            {
-                "full_name": "Andrey Chepelev",
-                "position": "AWAY",
-                "short_name": "Chepelev A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Nicholas Ionel",
-                "returnWin": 2.05
-            },
-            {
-                "name": "Andrey Chepelev",
-                "returnWin": 1.68
-            }
-        ],
-        "match_name": "Ionel N v Chepelev A",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-12T12:30:00.000Z"
-    },
-    {
         "contestant_names": "South China, (1.95) VERSES Hong Kong Lions, (1.73)",
         "start_time_aest": "2026-02-12T23:40:00+11:00",
         "sport_name": "Basketball",
@@ -246,5 +184,67 @@
         "match_name": "Romero Gormaz v Radivojevic",
         "betOption": "Head To Head",
         "start_time": "2026-02-12T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Joao Domingues, (2.25) VERSES Ivan Ivanov, (1.58)",
+        "start_time_aest": "2026-02-13T00:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Joao Domingues",
+                "position": "HOME",
+                "short_name": "Domingues"
+            },
+            {
+                "full_name": "Ivan Ivanov",
+                "position": "AWAY",
+                "short_name": "Ivanov"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Joao Domingues",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Ivan Ivanov",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Domingues v Ivanov",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Norway, (2) VERSES Germany, (1.72)",
+        "start_time_aest": "2026-02-13T00:05:00+11:00",
+        "sport_name": "Winter Olympics",
+        "competition_name": "Curling - Mens",
+        "contestants": [
+            {
+                "full_name": "Norway",
+                "position": "HOME",
+                "short_name": "Norway"
+            },
+            {
+                "full_name": "Germany",
+                "position": "AWAY",
+                "short_name": "Germany"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Norway",
+                "returnWin": 2
+            },
+            {
+                "name": "Germany",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "Norway v Germany",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T13:05:00.000Z"
     }
 ]
