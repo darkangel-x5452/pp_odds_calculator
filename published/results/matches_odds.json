@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Arlinda Rushiti, (1.72) VERSES Eun Ji Lee, (2)",
-        "start_time_aest": "2026-02-12T19:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Arlinda Rushiti",
-                "position": "HOME",
-                "short_name": "Rushiti"
-            },
-            {
-                "full_name": "Eun Ji Lee",
-                "position": "AWAY",
-                "short_name": "Lee EJ"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Arlinda Rushiti",
-                "returnWin": 1.72
-            },
-            {
-                "name": "Eun Ji Lee",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Rushiti v Lee EJ",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-12T08:00:00.000Z"
-    },
-    {
         "contestant_names": "Nicholas Ionel, (2.1) VERSES Andrey Chepelev, (1.65)",
         "start_time_aest": "2026-02-12T19:30:00+11:00",
         "sport_name": "Tennis",
@@ -91,5 +60,36 @@
         "match_name": "Ehrenschneider v Iannaccone",
         "betOption": "Head To Head",
         "start_time": "2026-02-12T08:30:00.000Z"
+    },
+    {
+        "contestant_names": "11 Stars, (2.1) VERSES Al Barkat, (1.7)",
+        "start_time_aest": "2026-02-12T20:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Eswatini Super T10",
+        "contestants": [
+            {
+                "full_name": "11 Stars",
+                "position": "HOME",
+                "short_name": "11 Stars"
+            },
+            {
+                "full_name": "Al Barkat",
+                "position": "AWAY",
+                "short_name": "Al Barkat"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "11 Stars",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Al Barkat",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "11 Stars v Al Barkat",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T09:00:00.000Z"
     }
 ]
