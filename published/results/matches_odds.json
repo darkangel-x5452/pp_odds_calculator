@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Goa (W), (1.95) VERSES Punjab (W), (1.85)",
-        "start_time_aest": "2026-02-12T14:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Senior Womens One Day Trophy",
-        "contestants": [
-            {
-                "full_name": "Goa (W)",
-                "position": "HOME",
-                "short_name": "Goa (W)"
-            },
-            {
-                "full_name": "Punjab (W)",
-                "position": "AWAY",
-                "short_name": "Punjab (W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Goa (W)",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Punjab (W)",
-                "returnWin": 1.85
-            }
-        ],
-        "match_name": "Goa (W) v Punjab (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-12T03:30:00.000Z"
-    },
-    {
         "contestant_names": "Li Tu, (1.72) VERSES Blake Ellis, (2)",
         "start_time_aest": "2026-02-12T15:00:00+11:00",
         "sport_name": "Tennis",
@@ -151,6 +120,37 @@
             }
         ],
         "match_name": "90ft Cc v Mbabane Capitals",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Laima Vladson, (2.3) VERSES Jennifer Ruggeri, (1.55)",
+        "start_time_aest": "2026-02-12T18:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Laima Vladson",
+                "position": "HOME",
+                "short_name": "Vladson"
+            },
+            {
+                "full_name": "Jennifer Ruggeri",
+                "position": "AWAY",
+                "short_name": "Ruggeri J"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Laima Vladson",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Jennifer Ruggeri",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Vladson v Ruggeri J",
         "betOption": "Head To Head",
         "start_time": "2026-02-12T07:00:00.000Z"
     }
