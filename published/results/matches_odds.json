@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Norway, (2) VERSES Germany, (1.72)",
-        "start_time_aest": "2026-02-13T00:05:00+11:00",
-        "sport_name": "Winter Olympics",
-        "competition_name": "Curling - Mens",
-        "contestants": [
-            {
-                "full_name": "Norway",
-                "position": "HOME",
-                "short_name": "Norway"
-            },
-            {
-                "full_name": "Germany",
-                "position": "AWAY",
-                "short_name": "Germany"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Norway",
-                "returnWin": 2
-            },
-            {
-                "name": "Germany",
-                "returnWin": 1.72
-            }
-        ],
-        "match_name": "Norway v Germany",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-12T13:05:00.000Z"
-    },
-    {
         "contestant_names": "India, (1.95) VERSES Argentina, (1.75)",
         "start_time_aest": "2026-02-13T01:00:00+11:00",
         "sport_name": "Field Hockey",
@@ -122,5 +91,36 @@
         "match_name": "Sacco v Adeshina",
         "betOption": "Head To Head",
         "start_time": "2026-02-12T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Nicholas Ionel, (2) VERSES Andrey Chepelev, (1.72)",
+        "start_time_aest": "2026-02-13T01:05:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Nicholas Ionel",
+                "position": "HOME",
+                "short_name": "Ionel N"
+            },
+            {
+                "full_name": "Andrey Chepelev",
+                "position": "AWAY",
+                "short_name": "Chepelev A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nicholas Ionel",
+                "returnWin": 2
+            },
+            {
+                "name": "Andrey Chepelev",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "Ionel N v Chepelev A",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T14:05:00.000Z"
     }
 ]
