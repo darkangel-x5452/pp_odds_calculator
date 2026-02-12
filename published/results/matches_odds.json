@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Grand Canyon, (1.8) VERSES New Mexico, (2)",
-        "start_time_aest": "2026-02-12T14:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Grand Canyon",
-                "position": "HOME",
-                "short_name": "Grand Canyon"
-            },
-            {
-                "full_name": "New Mexico",
-                "position": "AWAY",
-                "short_name": "New Mexico"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Grand Canyon",
-                "returnWin": 1.8
-            },
-            {
-                "name": "New Mexico",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Grand Canyon v New Mexico",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-12T03:00:00.000Z"
-    },
-    {
-        "contestant_names": "Sebastian Korda, (1.65) VERSES Frances Tiafoe, (2.15)",
-        "start_time_aest": "2026-02-12T14:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "contestants": [
-            {
-                "full_name": "Sebastian Korda",
-                "position": "HOME",
-                "short_name": "Korda S"
-            },
-            {
-                "full_name": "Frances Tiafoe",
-                "position": "AWAY",
-                "short_name": "Tiafoe"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sebastian Korda",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Frances Tiafoe",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Korda S v Tiafoe",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-12T03:00:00.000Z"
-    },
-    {
         "contestant_names": "Goa (W), (1.95) VERSES Punjab (W), (1.85)",
         "start_time_aest": "2026-02-12T14:30:00+11:00",
         "sport_name": "Cricket",
@@ -153,5 +91,67 @@
         "match_name": "Sawangkaew v Dart",
         "betOption": "Head To Head",
         "start_time": "2026-02-12T04:30:00.000Z"
+    },
+    {
+        "contestant_names": "Duje Ajdukovic, (2.05) VERSES Federico Ferreira Silva, (1.68)",
+        "start_time_aest": "2026-02-12T17:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Duje Ajdukovic",
+                "position": "HOME",
+                "short_name": "Ajdukovic"
+            },
+            {
+                "full_name": "Federico Ferreira Silva",
+                "position": "AWAY",
+                "short_name": "Ferreira Slva Fe"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Duje Ajdukovic",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Federico Ferreira Silva",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Ajdukovic v Ferreira Slva Fe",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T06:30:00.000Z"
+    },
+    {
+        "contestant_names": "90FT CC, (1.75) VERSES Mbabane Capitals, (2.05)",
+        "start_time_aest": "2026-02-12T18:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Eswatini Super T10",
+        "contestants": [
+            {
+                "full_name": "90FT CC",
+                "position": "HOME",
+                "short_name": "90ft Cc"
+            },
+            {
+                "full_name": "Mbabane Capitals",
+                "position": "AWAY",
+                "short_name": "Mbabane Capitals"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "90FT CC",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Mbabane Capitals",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "90ft Cc v Mbabane Capitals",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T07:00:00.000Z"
     }
 ]
