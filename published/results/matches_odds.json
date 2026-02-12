@@ -1,96 +1,34 @@
 [
     {
-        "contestant_names": "Granollers/Zeballos, (1.5) VERSES Krajicek/Mektic, (2.5)",
-        "start_time_aest": "2026-02-13T08:15:00+11:00",
+        "contestant_names": "Erler/Galloway, (1.68) VERSES King/Peers, (2.1)",
+        "start_time_aest": "2026-02-13T08:36:28+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP Doubles",
         "contestants": [
             {
-                "full_name": "Granollers/Zeballos",
+                "full_name": "Erler/Galloway",
                 "position": "HOME",
-                "short_name": "Granollers/Zeballos"
+                "short_name": "Erler/Galloway"
             },
             {
-                "full_name": "Krajicek/Mektic",
+                "full_name": "King/Peers",
                 "position": "AWAY",
-                "short_name": "Krajicek/Mektic"
+                "short_name": "King/Peers"
             }
         ],
         "propositions": [
             {
-                "name": "Granollers/Zeballos",
-                "returnWin": 1.5
+                "name": "Erler/Galloway",
+                "returnWin": 1.68
             },
             {
-                "name": "Krajicek/Mektic",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Granollers/Zeballos v Krajicek/Mektic",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-12T21:15:00.000Z"
-    },
-    {
-        "contestant_names": "Canterbury, (1.7) VERSES Wellington Firebirds, (2.1)",
-        "start_time_aest": "2026-02-13T08:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "NZ Ford Trophy",
-        "contestants": [
-            {
-                "full_name": "Canterbury",
-                "position": "HOME",
-                "short_name": "Canterbury"
-            },
-            {
-                "full_name": "Wellington Firebirds",
-                "position": "AWAY",
-                "short_name": "Wellington"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Canterbury",
-                "returnWin": 1.7
-            },
-            {
-                "name": "Wellington Firebirds",
+                "name": "King/Peers",
                 "returnWin": 2.1
             }
         ],
-        "match_name": "Canterbury v Wellington",
+        "match_name": "Erler/Galloway v King/Peers",
         "betOption": "Head To Head",
-        "start_time": "2026-02-12T21:30:00.000Z"
-    },
-    {
-        "contestant_names": "Northern Districts, (2.05) VERSES Auckland Aces, (1.75)",
-        "start_time_aest": "2026-02-13T08:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "NZ Ford Trophy",
-        "contestants": [
-            {
-                "full_name": "Northern Districts",
-                "position": "HOME",
-                "short_name": "Nthn Districts"
-            },
-            {
-                "full_name": "Auckland Aces",
-                "position": "AWAY",
-                "short_name": "Auckland"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Northern Districts",
-                "returnWin": 2.05
-            },
-            {
-                "name": "Auckland Aces",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Nthn Districts v Auckland",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-12T21:30:00.000Z"
+        "start_time": "2026-02-12T21:36:28.000Z"
     },
     {
         "contestant_names": "Erler/Galloway, (1.75) VERSES King/Peers, (2)",
@@ -184,5 +122,36 @@
         "match_name": "New Hampshire v NJIT",
         "betOption": "Head To Head",
         "start_time": "2026-02-12T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Def Sporting, (2.4) VERSES Nacional Fray, (1.48)",
+        "start_time_aest": "2026-02-13T10:15:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Uruguay LUB",
+        "contestants": [
+            {
+                "full_name": "Def Sporting",
+                "position": "HOME",
+                "short_name": "Def Sporting"
+            },
+            {
+                "full_name": "Nacional Fray",
+                "position": "AWAY",
+                "short_name": "Nacional Fray"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Def Sporting",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Nacional Fray",
+                "returnWin": 1.48
+            }
+        ],
+        "match_name": "Def Sporting v Nacional Fray",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T23:15:00.000Z"
     }
 ]
