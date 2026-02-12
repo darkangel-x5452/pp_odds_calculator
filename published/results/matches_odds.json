@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Camilla Rosatello, (2.4) VERSES Nahia Berecoechea, (1.5)",
-        "start_time_aest": "2026-02-13T02:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Camilla Rosatello",
-                "position": "HOME",
-                "short_name": "Rosatello"
-            },
-            {
-                "full_name": "Nahia Berecoechea",
-                "position": "AWAY",
-                "short_name": "Berecoechea"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Camilla Rosatello",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Nahia Berecoechea",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Rosatello v Berecoechea",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-12T15:00:00.000Z"
-    },
-    {
-        "contestant_names": "Jorge/Jorge, (1.46) VERSES Lumsden/Tang, (2.5)",
-        "start_time_aest": "2026-02-13T02:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA 125 Doubles",
-        "contestants": [
-            {
-                "full_name": "Jorge/Jorge",
-                "position": "HOME",
-                "short_name": "Jorge/Jorge"
-            },
-            {
-                "full_name": "Lumsden/Tang",
-                "position": "AWAY",
-                "short_name": "Lumsden/Tang"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jorge/Jorge",
-                "returnWin": 1.46
-            },
-            {
-                "name": "Lumsden/Tang",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Jorge/Jorge v Lumsden/Tang",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-12T15:00:00.000Z"
-    },
-    {
         "contestant_names": "Jorge/Jorge, (1.46) VERSES Lumsden/Tang, (2.5)",
         "start_time_aest": "2026-02-13T02:30:00+11:00",
         "sport_name": "Tennis",
@@ -91,5 +29,67 @@
         "match_name": "Jorge/Jorge v Lumsden/Tang",
         "betOption": "Head To Head",
         "start_time": "2026-02-12T15:30:00.000Z"
+    },
+    {
+        "contestant_names": "Tyler Zink, (1.72) VERSES Braden Shick, (2)",
+        "start_time_aest": "2026-02-13T03:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Tyler Zink",
+                "position": "HOME",
+                "short_name": "Zink"
+            },
+            {
+                "full_name": "Braden Shick",
+                "position": "AWAY",
+                "short_name": "Shick B"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tyler Zink",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Braden Shick",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Zink v Shick B",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "Blaise Bicknell, (2.5) VERSES Andres Andrade, (1.46)",
+        "start_time_aest": "2026-02-13T03:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Blaise Bicknell",
+                "position": "HOME",
+                "short_name": "Bicknell B"
+            },
+            {
+                "full_name": "Andres Andrade",
+                "position": "AWAY",
+                "short_name": "Andrade A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Blaise Bicknell",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Andres Andrade",
+                "returnWin": 1.46
+            }
+        ],
+        "match_name": "Bicknell B v Andrade A",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T16:00:00.000Z"
     }
 ]
