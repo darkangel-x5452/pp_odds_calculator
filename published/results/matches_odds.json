@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Li Tu, (1.72) VERSES Blake Ellis, (2)",
-        "start_time_aest": "2026-02-12T15:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Li Tu",
-                "position": "HOME",
-                "short_name": "Tu"
-            },
-            {
-                "full_name": "Blake Ellis",
-                "position": "AWAY",
-                "short_name": "Ellis B"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Li Tu",
-                "returnWin": 1.72
-            },
-            {
-                "name": "Blake Ellis",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Tu v Ellis B",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-12T04:15:00.000Z"
-    },
-    {
-        "contestant_names": "Mananchaya Sawangkaew, (1.6) VERSES Harriet Dart, (2.2)",
-        "start_time_aest": "2026-02-12T15:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Mananchaya Sawangkaew",
-                "position": "HOME",
-                "short_name": "Sawangkaew"
-            },
-            {
-                "full_name": "Harriet Dart",
-                "position": "AWAY",
-                "short_name": "Dart"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Mananchaya Sawangkaew",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Harriet Dart",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Sawangkaew v Dart",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-12T04:30:00.000Z"
-    },
-    {
         "contestant_names": "Duje Ajdukovic, (2.05) VERSES Federico Ferreira Silva, (1.68)",
         "start_time_aest": "2026-02-12T17:30:00+11:00",
         "sport_name": "Tennis",
@@ -90,6 +28,37 @@
         ],
         "match_name": "Ajdukovic v Ferreira Slva Fe",
         "betOption": "Head To Head",
+        "start_time": "2026-02-12T06:30:00.000Z"
+    },
+    {
+        "contestant_names": "Australia, (2.25) VERSES Germany, (1.55)",
+        "start_time_aest": "2026-02-12T17:30:00+11:00",
+        "sport_name": "Field Hockey",
+        "competition_name": "Mens FIH Pro League",
+        "contestants": [
+            {
+                "full_name": "Australia",
+                "position": "HOME",
+                "short_name": "Australia"
+            },
+            {
+                "full_name": "Germany",
+                "position": "AWAY",
+                "short_name": "Germany"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Australia",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Germany",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Australia v Germany",
+        "betOption": "Winner of Tie",
         "start_time": "2026-02-12T06:30:00.000Z"
     },
     {
