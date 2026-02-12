@@ -122,5 +122,98 @@
         "match_name": "Kennesaw State v Middle Tennessee",
         "betOption": "Head To Head",
         "start_time": "2026-02-12T23:30:00.000Z"
+    },
+    {
+        "contestant_names": "Camilo Ugo Carabelli, (2.2) VERSES Mariano Navone, (1.62)",
+        "start_time_aest": "2026-02-13T10:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "contestants": [
+            {
+                "full_name": "Camilo Ugo Carabelli",
+                "position": "HOME",
+                "short_name": "Ugo Carabelli"
+            },
+            {
+                "full_name": "Mariano Navone",
+                "position": "AWAY",
+                "short_name": "Navone"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Camilo Ugo Carabelli",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Mariano Navone",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Ugo Carabelli v Navone",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T23:30:00.000Z"
+    },
+    {
+        "contestant_names": "Pergamino Basket, (1.72) VERSES UDM Del Plata, (1.97)",
+        "start_time_aest": "2026-02-13T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Pergamino Basket",
+                "position": "HOME",
+                "short_name": "Pergamino Basket"
+            },
+            {
+                "full_name": "UDM Del Plata",
+                "position": "AWAY",
+                "short_name": "UDM Del Plata"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Pergamino Basket",
+                "returnWin": 1.72
+            },
+            {
+                "name": "UDM Del Plata",
+                "returnWin": 1.97
+            }
+        ],
+        "match_name": "Pergamino Basket v UDM Del Plata",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-13T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Cnt Entrerriano, (1.6) VERSES Club Pico Foot, (2.15)",
+        "start_time_aest": "2026-02-13T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Cnt Entrerriano",
+                "position": "HOME",
+                "short_name": "Cnt Entrerriano"
+            },
+            {
+                "full_name": "Club Pico Foot",
+                "position": "AWAY",
+                "short_name": "Club Pico Foot"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Cnt Entrerriano",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Club Pico Foot",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Cnt Entrerriano v Club Pico Foot",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-13T00:00:00.000Z"
     }
 ]
