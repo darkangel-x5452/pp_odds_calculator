@@ -60,5 +60,36 @@
         "match_name": "Ionel N v Chepelev A",
         "betOption": "Head To Head",
         "start_time": "2026-02-12T08:30:00.000Z"
+    },
+    {
+        "contestant_names": "Nino Ehrenschneider, (2.05) VERSES Federico Iannaccone, (1.68)",
+        "start_time_aest": "2026-02-12T19:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Nino Ehrenschneider",
+                "position": "HOME",
+                "short_name": "Ehrenschneider"
+            },
+            {
+                "full_name": "Federico Iannaccone",
+                "position": "AWAY",
+                "short_name": "Iannaccone"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nino Ehrenschneider",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Federico Iannaccone",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Ehrenschneider v Iannaccone",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T08:30:00.000Z"
     }
 ]
