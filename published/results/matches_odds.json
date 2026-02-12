@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Def Sporting, (2.4) VERSES Nacional Fray, (1.48)",
-        "start_time_aest": "2026-02-13T10:15:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Uruguay LUB",
-        "contestants": [
-            {
-                "full_name": "Def Sporting",
-                "position": "HOME",
-                "short_name": "Def Sporting"
-            },
-            {
-                "full_name": "Nacional Fray",
-                "position": "AWAY",
-                "short_name": "Nacional Fray"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Def Sporting",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Nacional Fray",
-                "returnWin": 1.48
-            }
-        ],
-        "match_name": "Def Sporting v Nacional Fray",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-12T23:15:00.000Z"
-    },
-    {
-        "contestant_names": "Kennesaw State, (1.6) VERSES Middle Tennessee, (2.35)",
-        "start_time_aest": "2026-02-13T10:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Kennesaw State",
-                "position": "HOME",
-                "short_name": "Kennesaw State"
-            },
-            {
-                "full_name": "Middle Tennessee",
-                "position": "AWAY",
-                "short_name": "Middle Tennessee"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Kennesaw State",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Middle Tennessee",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Kennesaw State v Middle Tennessee",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-12T23:30:00.000Z"
-    },
-    {
-        "contestant_names": "Camilo Ugo Carabelli, (2.2) VERSES Mariano Navone, (1.62)",
-        "start_time_aest": "2026-02-13T10:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "contestants": [
-            {
-                "full_name": "Camilo Ugo Carabelli",
-                "position": "HOME",
-                "short_name": "Ugo Carabelli"
-            },
-            {
-                "full_name": "Mariano Navone",
-                "position": "AWAY",
-                "short_name": "Navone"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Camilo Ugo Carabelli",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Mariano Navone",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Ugo Carabelli v Navone",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-12T23:30:00.000Z"
-    },
-    {
         "contestant_names": "Pergamino Basket, (1.72) VERSES UDM Del Plata, (1.97)",
         "start_time_aest": "2026-02-13T11:00:00+11:00",
         "sport_name": "Basketball",
@@ -244,6 +151,68 @@
             }
         ],
         "match_name": "Cleveland State v Robert Morris",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-13T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Indiana State, (2.45) VERSES Murray State, (1.55)",
+        "start_time_aest": "2026-02-13T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Indiana State",
+                "position": "HOME",
+                "short_name": "Indiana State"
+            },
+            {
+                "full_name": "Murray State",
+                "position": "AWAY",
+                "short_name": "Murray State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Indiana State",
+                "returnWin": 2.45
+            },
+            {
+                "name": "Murray State",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Indiana State v Murray State",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-13T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Baylor, (2.5) VERSES TCU, (1.5)",
+        "start_time_aest": "2026-02-13T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Baylor",
+                "position": "HOME",
+                "short_name": "Baylor"
+            },
+            {
+                "full_name": "TCU",
+                "position": "AWAY",
+                "short_name": "TCU"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Baylor",
+                "returnWin": 2.5
+            },
+            {
+                "name": "TCU",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Baylor v TCU",
         "betOption": "Head To Head",
         "start_time": "2026-02-13T00:00:00.000Z"
     }
