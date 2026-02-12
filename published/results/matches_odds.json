@@ -184,5 +184,36 @@
         "match_name": "Shubladze A v Mintegi del olmo",
         "betOption": "Head To Head",
         "start_time": "2026-02-12T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Arlinda Rushiti, (1.72) VERSES Eun Ji Lee, (2)",
+        "start_time_aest": "2026-02-12T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Arlinda Rushiti",
+                "position": "HOME",
+                "short_name": "Rushiti"
+            },
+            {
+                "full_name": "Eun Ji Lee",
+                "position": "AWAY",
+                "short_name": "Lee EJ"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Arlinda Rushiti",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Eun Ji Lee",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Rushiti v Lee EJ",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T08:00:00.000Z"
     }
 ]
