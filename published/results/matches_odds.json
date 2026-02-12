@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Anadolu Efes, (1.5) VERSES Obiettivo Lavoro, (2.5)",
-        "start_time_aest": "2026-02-13T04:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "EuroLeague",
-        "contestants": [
-            {
-                "full_name": "Anadolu Efes",
-                "position": "HOME",
-                "short_name": "Anadolu Efes"
-            },
-            {
-                "full_name": "Obiettivo Lavoro",
-                "position": "AWAY",
-                "short_name": "Obiettivo Lavoro"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Anadolu Efes",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Obiettivo Lavoro",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Anadolu Efes v Obiettivo Lavoro",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-12T17:30:00.000Z"
-    },
-    {
-        "contestant_names": "Axel Nefve, (1.52) VERSES Evan Bynoe, (2.35)",
-        "start_time_aest": "2026-02-13T04:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Axel Nefve",
-                "position": "HOME",
-                "short_name": "Nefve A"
-            },
-            {
-                "full_name": "Evan Bynoe",
-                "position": "AWAY",
-                "short_name": "Bynoe E"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Axel Nefve",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Evan Bynoe",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Nefve A v Bynoe E",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-12T17:30:00.000Z"
-    },
-    {
         "contestant_names": "Maccabi Haifa, (1.52) VERSES HapLev Jerusalem, (2.3)",
         "start_time_aest": "2026-02-13T04:45:00+11:00",
         "sport_name": "Basketball",
@@ -277,5 +215,67 @@
         "match_name": "Littler Luke  v Humphries Luke",
         "betOption": "Head To Head",
         "start_time": "2026-02-12T18:10:00.000Z"
+    },
+    {
+        "contestant_names": "Juan Manuel Cerundolo, (1.52) VERSES Pedro Martinez Portero, (2.4)",
+        "start_time_aest": "2026-02-13T05:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "contestants": [
+            {
+                "full_name": "Juan Manuel Cerundolo",
+                "position": "HOME",
+                "short_name": "Cerundolo J"
+            },
+            {
+                "full_name": "Pedro Martinez Portero",
+                "position": "AWAY",
+                "short_name": "Martinez P"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Juan Manuel Cerundolo",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Pedro Martinez Portero",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Cerundolo J v Martinez P",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T18:30:00.000Z"
+    },
+    {
+        "contestant_names": "Michael van Gerwen, (1.8) VERSES Josh Rock, (2)",
+        "start_time_aest": "2026-02-13T05:40:00+11:00",
+        "sport_name": "Darts",
+        "competition_name": "PDC Premier League Matches",
+        "contestants": [
+            {
+                "full_name": "Michael van Gerwen",
+                "position": "HOME",
+                "short_name": "Van Gerwen"
+            },
+            {
+                "full_name": "Josh Rock",
+                "position": "AWAY",
+                "short_name": "Rock Josh"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Michael van Gerwen",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Josh Rock",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Van Gerwen v Rock Josh",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T18:40:00.000Z"
     }
 ]
