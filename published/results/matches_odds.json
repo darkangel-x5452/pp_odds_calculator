@@ -1,96 +1,34 @@
 [
     {
-        "contestant_names": "Karolina Muchova, (1.55) VERSES Anna Kalinskaya, (2.35)",
-        "start_time_aest": "2026-02-13T06:45:00+11:00",
+        "contestant_names": "Granollers/Zeballos, (1.5) VERSES Krajicek/Mektic, (2.5)",
+        "start_time_aest": "2026-02-13T07:10:00+11:00",
         "sport_name": "Tennis",
-        "competition_name": "WTA",
+        "competition_name": "ATP Doubles",
         "contestants": [
             {
-                "full_name": "Karolina Muchova",
+                "full_name": "Granollers/Zeballos",
                 "position": "HOME",
-                "short_name": "Muchova"
+                "short_name": "Granollers/Zeballos"
             },
             {
-                "full_name": "Anna Kalinskaya",
+                "full_name": "Krajicek/Mektic",
                 "position": "AWAY",
-                "short_name": "Kalinskaya"
+                "short_name": "Krajicek/Mektic"
             }
         ],
         "propositions": [
             {
-                "name": "Karolina Muchova",
-                "returnWin": 1.55
+                "name": "Granollers/Zeballos",
+                "returnWin": 1.5
             },
             {
-                "name": "Anna Kalinskaya",
-                "returnWin": 2.35
+                "name": "Krajicek/Mektic",
+                "returnWin": 2.5
             }
         ],
-        "match_name": "Muchova v Kalinskaya",
+        "match_name": "Granollers/Zeballos v Krajicek/Mektic",
         "betOption": "Head To Head",
-        "start_time": "2026-02-12T19:45:00.000Z"
-    },
-    {
-        "contestant_names": "USO Nevers, (1.72) VERSES Colomiers, (2.05)",
-        "start_time_aest": "2026-02-13T07:00:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "France Pro D2",
-        "contestants": [
-            {
-                "full_name": "USO Nevers",
-                "position": "HOME",
-                "short_name": "USO Nevers"
-            },
-            {
-                "full_name": "Colomiers",
-                "position": "AWAY",
-                "short_name": "Colomiers"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "USO Nevers",
-                "returnWin": 1.72
-            },
-            {
-                "name": "Colomiers",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "USO Nevers v Colomiers",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-12T20:00:00.000Z"
-    },
-    {
-        "contestant_names": "Daniil Glinka, (1.95) VERSES Alexander Shevchenko, (1.75)",
-        "start_time_aest": "2026-02-13T07:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Daniil Glinka",
-                "position": "HOME",
-                "short_name": "Glinka"
-            },
-            {
-                "full_name": "Alexander Shevchenko",
-                "position": "AWAY",
-                "short_name": "Shevchenko A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Daniil Glinka",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Alexander Shevchenko",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Glinka v Shevchenko A",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-12T20:00:00.000Z"
+        "start_time": "2026-02-12T20:10:00.000Z"
     },
     {
         "contestant_names": "Granollers/Zeballos, (1.5) VERSES Krajicek/Mektic, (2.5)",
@@ -153,5 +91,67 @@
         "match_name": "Canterbury v Wellington",
         "betOption": "Head To Head",
         "start_time": "2026-02-12T21:30:00.000Z"
+    },
+    {
+        "contestant_names": "Northern Districts, (2.05) VERSES Auckland Aces, (1.75)",
+        "start_time_aest": "2026-02-13T08:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "NZ Ford Trophy",
+        "contestants": [
+            {
+                "full_name": "Northern Districts",
+                "position": "HOME",
+                "short_name": "Nthn Districts"
+            },
+            {
+                "full_name": "Auckland Aces",
+                "position": "AWAY",
+                "short_name": "Auckland"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Northern Districts",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Auckland Aces",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Nthn Districts v Auckland",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T21:30:00.000Z"
+    },
+    {
+        "contestant_names": "Farma Conde Volei Sao Jose, (2.5) VERSES Goias Volei, (1.46)",
+        "start_time_aest": "2026-02-13T09:00:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "Brazil SuperLiga",
+        "contestants": [
+            {
+                "full_name": "Farma Conde Volei Sao Jose",
+                "position": "HOME",
+                "short_name": "FCV Sao Jose"
+            },
+            {
+                "full_name": "Goias Volei",
+                "position": "AWAY",
+                "short_name": "Goias Volei"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Farma Conde Volei Sao Jose",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Goias Volei",
+                "returnWin": 1.46
+            }
+        ],
+        "match_name": "FCV Sao Jose v Goias Volei",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T22:00:00.000Z"
     }
 ]
