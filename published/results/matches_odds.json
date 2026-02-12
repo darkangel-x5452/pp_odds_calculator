@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "11 Stars, (2.1) VERSES Al Barkat, (1.7)",
-        "start_time_aest": "2026-02-12T20:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Eswatini Super T10",
-        "contestants": [
-            {
-                "full_name": "11 Stars",
-                "position": "HOME",
-                "short_name": "11 Stars"
-            },
-            {
-                "full_name": "Al Barkat",
-                "position": "AWAY",
-                "short_name": "Al Barkat"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "11 Stars",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Al Barkat",
-                "returnWin": 1.7
-            }
-        ],
-        "match_name": "11 Stars v Al Barkat",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-12T09:00:00.000Z"
-    },
-    {
         "contestant_names": "Victoria Pohle, (2.35) VERSES Emma Jackson, (1.52)",
         "start_time_aest": "2026-02-12T20:30:00+11:00",
         "sport_name": "Tennis",
@@ -122,5 +91,160 @@
         "match_name": "Lu Jia Jing v Chenting",
         "betOption": "Head To Head",
         "start_time": "2026-02-12T09:30:00.000Z"
+    },
+    {
+        "contestant_names": "Jia Jing Lu, (1.62) VERSES Zhu Chenting, (2.15)",
+        "start_time_aest": "2026-02-12T20:42:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Jia Jing Lu",
+                "position": "HOME",
+                "short_name": "Lu Jia Jing"
+            },
+            {
+                "full_name": "Zhu Chenting",
+                "position": "AWAY",
+                "short_name": "Chenting"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jia Jing Lu",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Zhu Chenting",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Lu Jia Jing v Chenting",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T09:42:00.000Z"
+    },
+    {
+        "contestant_names": "Mobis Phoebus, (1.55) VERSES Seoul Thunders, (2.25)",
+        "start_time_aest": "2026-02-12T21:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "South Korea KBL",
+        "contestants": [
+            {
+                "full_name": "Mobis Phoebus",
+                "position": "HOME",
+                "short_name": "Mobis Phoebus"
+            },
+            {
+                "full_name": "Seoul Thunders",
+                "position": "AWAY",
+                "short_name": "Seoul Thunders"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mobis Phoebus",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Seoul Thunders",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Mobis Phoebus v Seoul Thunders",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-12T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Lu Haotian, (1.8) VERSES Gao Yang, (1.95)",
+        "start_time_aest": "2026-02-12T21:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "World Open",
+        "contestants": [
+            {
+                "full_name": "Lu Haotian",
+                "position": "HOME",
+                "short_name": "Haotian"
+            },
+            {
+                "full_name": "Gao Yang",
+                "position": "AWAY",
+                "short_name": "Yang Gao"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lu Haotian",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Gao Yang",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Haotian v Yang Gao",
+        "betOption": "Result",
+        "start_time": "2026-02-12T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Pang Junxu, (1.58) VERSES Sam Craigie, (2.3)",
+        "start_time_aest": "2026-02-12T21:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "World Open",
+        "contestants": [
+            {
+                "full_name": "Pang Junxu",
+                "position": "HOME",
+                "short_name": "Junxu Pang"
+            },
+            {
+                "full_name": "Sam Craigie",
+                "position": "AWAY",
+                "short_name": "Craigie"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Pang Junxu",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Sam Craigie",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Junxu Pang v Craigie",
+        "betOption": "Result",
+        "start_time": "2026-02-12T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Stan Moody, (1.62) VERSES Jun Jiang, (2.2)",
+        "start_time_aest": "2026-02-12T21:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "World Open",
+        "contestants": [
+            {
+                "full_name": "Stan Moody",
+                "position": "HOME",
+                "short_name": "Moody"
+            },
+            {
+                "full_name": "Jun Jiang",
+                "position": "AWAY",
+                "short_name": "Jiang"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Stan Moody",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Jun Jiang",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Moody v Jiang",
+        "betOption": "Result",
+        "start_time": "2026-02-12T10:00:00.000Z"
     }
 ]
