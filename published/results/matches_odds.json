@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Emma Jackson, (2.15) VERSES Neus Torner Sensano, (1.62)",
-        "start_time_aest": "2026-02-13T20:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Emma Jackson",
-                "position": "HOME",
-                "short_name": "Jackson E"
-            },
-            {
-                "full_name": "Neus Torner Sensano",
-                "position": "AWAY",
-                "short_name": "Torner Sensano"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Emma Jackson",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Neus Torner Sensano",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Jackson E v Torner Sensano",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-13T09:30:00.000Z"
-    },
-    {
-        "contestant_names": "Adrienn Nagy, (2) VERSES Maria Garcia Cid, (1.72)",
-        "start_time_aest": "2026-02-13T20:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Adrienn Nagy",
-                "position": "HOME",
-                "short_name": "Nagy A"
-            },
-            {
-                "full_name": "Maria Garcia Cid",
-                "position": "AWAY",
-                "short_name": "Garcia Cid"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Adrienn Nagy",
-                "returnWin": 2
-            },
-            {
-                "name": "Maria Garcia Cid",
-                "returnWin": 1.72
-            }
-        ],
-        "match_name": "Nagy A v Garcia Cid",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-13T09:30:00.000Z"
-    },
-    {
         "contestant_names": "Anyang, (1.45) VERSES Busan Sonicboom, (2.5)",
         "start_time_aest": "2026-02-13T21:00:00+11:00",
         "sport_name": "Basketball",
@@ -306,6 +244,37 @@
             }
         ],
         "match_name": "Kirkin v Kaouk",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-13T10:30:00.000Z"
+    },
+    {
+        "contestant_names": "Anna Siskova, (2.05) VERSES Lucia Bronzetti, (1.68)",
+        "start_time_aest": "2026-02-13T21:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Anna Siskova",
+                "position": "HOME",
+                "short_name": "Siskova A"
+            },
+            {
+                "full_name": "Lucia Bronzetti",
+                "position": "AWAY",
+                "short_name": "Bronzetti L"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Anna Siskova",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Lucia Bronzetti",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Siskova A v Bronzetti L",
         "betOption": "Head To Head",
         "start_time": "2026-02-13T10:30:00.000Z"
     }
