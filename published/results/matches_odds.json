@@ -184,5 +184,36 @@
         "match_name": "Boitan v Chepelev A",
         "betOption": "Head To Head",
         "start_time": "2026-02-13T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Luisina Giovannini, (1.5) VERSES Jennifer Ruggeri, (2.4)",
+        "start_time_aest": "2026-02-13T18:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Luisina Giovannini",
+                "position": "HOME",
+                "short_name": "Giovannini L"
+            },
+            {
+                "full_name": "Jennifer Ruggeri",
+                "position": "AWAY",
+                "short_name": "Ruggeri J"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Luisina Giovannini",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Jennifer Ruggeri",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Giovannini L v Ruggeri J",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-13T07:00:00.000Z"
     }
 ]
