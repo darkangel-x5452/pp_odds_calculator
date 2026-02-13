@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Niagara, (2) VERSES Manhattan, (1.8)",
-        "start_time_aest": "2026-02-14T10:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Niagara",
-                "position": "HOME",
-                "short_name": "Niagara"
-            },
-            {
-                "full_name": "Manhattan",
-                "position": "AWAY",
-                "short_name": "Manhattan"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Niagara",
-                "returnWin": 2
-            },
-            {
-                "name": "Manhattan",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "Niagara v Manhattan",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-13T23:30:00.000Z"
-    },
-    {
         "contestant_names": "Rivadavia De Men, (2.1) VERSES Paula Galvez, (1.62)",
         "start_time_aest": "2026-02-14T11:00:00+11:00",
         "sport_name": "Basketball",
@@ -244,6 +213,37 @@
             }
         ],
         "match_name": "Siena v Quinnipiac",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-14T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Hampton, (2.5) VERSES Towson, (1.5)",
+        "start_time_aest": "2026-02-14T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Hampton",
+                "position": "HOME",
+                "short_name": "Hampton"
+            },
+            {
+                "full_name": "Towson",
+                "position": "AWAY",
+                "short_name": "Towson"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hampton",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Towson",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Hampton v Towson",
         "betOption": "Head To Head",
         "start_time": "2026-02-14T00:00:00.000Z"
     }
