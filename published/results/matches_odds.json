@@ -1,38 +1,7 @@
 [
     {
-        "contestant_names": "Wrexham, (2) VERSES Ipswich, (1.75)",
-        "start_time_aest": "2026-02-14T06:45:00+11:00",
-        "sport_name": "Soccer",
-        "competition_name": "English FA Cup",
-        "contestants": [
-            {
-                "full_name": "Wrexham",
-                "position": "HOME",
-                "short_name": "Wrexham"
-            },
-            {
-                "full_name": "Ipswich",
-                "position": "AWAY",
-                "short_name": "Ipswich"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Wrexham",
-                "returnWin": 2
-            },
-            {
-                "name": "Ipswich",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Wrexham v Ipswich",
-        "betOption": "Winner of Tie",
-        "start_time": "2026-02-13T19:45:00.000Z"
-    },
-    {
-        "contestant_names": "Henri Squire, (2) VERSES Alexander Shevchenko, (1.72)",
-        "start_time_aest": "2026-02-14T06:45:00+11:00",
+        "contestant_names": "Henri Squire, (2.05) VERSES Alexander Shevchenko, (1.68)",
+        "start_time_aest": "2026-02-14T07:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -50,46 +19,108 @@
         "propositions": [
             {
                 "name": "Henri Squire",
-                "returnWin": 2
+                "returnWin": 2.05
             },
             {
                 "name": "Alexander Shevchenko",
-                "returnWin": 1.72
+                "returnWin": 1.68
             }
         ],
         "match_name": "Squire H v Shevchenko A",
         "betOption": "Head To Head",
-        "start_time": "2026-02-13T19:45:00.000Z"
+        "start_time": "2026-02-13T20:15:00.000Z"
     },
     {
-        "contestant_names": "Warrington, (2.2) VERSES St Helens, (1.62)",
-        "start_time_aest": "2026-02-14T07:00:00+11:00",
-        "sport_name": "Rugby League",
-        "competition_name": "Super League",
+        "contestant_names": "Camilo Ugo Carabelli, (2.5) VERSES Sebastian Baez, (1.5)",
+        "start_time_aest": "2026-02-14T08:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
         "contestants": [
             {
-                "full_name": "Warrington",
+                "full_name": "Camilo Ugo Carabelli",
                 "position": "HOME",
-                "short_name": "Warrington"
+                "short_name": "Ugo Carabelli"
             },
             {
-                "full_name": "St Helens",
+                "full_name": "Sebastian Baez",
                 "position": "AWAY",
-                "short_name": "St Helens"
+                "short_name": "Baez"
             }
         ],
         "propositions": [
             {
-                "name": "Warrington",
-                "returnWin": 2.2
+                "name": "Camilo Ugo Carabelli",
+                "returnWin": 2.5
             },
             {
-                "name": "St Helens",
-                "returnWin": 1.62
+                "name": "Sebastian Baez",
+                "returnWin": 1.5
             }
         ],
-        "match_name": "Warrington v St Helens",
+        "match_name": "Ugo Carabelli v Baez",
         "betOption": "Head To Head",
-        "start_time": "2026-02-13T20:00:00.000Z"
+        "start_time": "2026-02-13T21:30:00.000Z"
+    },
+    {
+        "contestant_names": "UniaoCorinthians, (2.5) VERSES PinheirosSKY, (1.45)",
+        "start_time_aest": "2026-02-14T09:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Brazil NBB",
+        "contestants": [
+            {
+                "full_name": "UniaoCorinthians",
+                "position": "HOME",
+                "short_name": "UniaoCorinthians"
+            },
+            {
+                "full_name": "PinheirosSKY",
+                "position": "AWAY",
+                "short_name": "PinheirosSKY"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "UniaoCorinthians",
+                "returnWin": 2.5
+            },
+            {
+                "name": "PinheirosSKY",
+                "returnWin": 1.45
+            }
+        ],
+        "match_name": "UniaoCorinthians v PinheirosSKY",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-13T22:30:00.000Z"
+    },
+    {
+        "contestant_names": "Caxias Do Sul, (2.25) VERSES Paulistano, (1.55)",
+        "start_time_aest": "2026-02-14T09:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Brazil NBB",
+        "contestants": [
+            {
+                "full_name": "Caxias Do Sul",
+                "position": "HOME",
+                "short_name": "Caxias Do Sul"
+            },
+            {
+                "full_name": "Paulistano",
+                "position": "AWAY",
+                "short_name": "Paulistano"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Caxias Do Sul",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Paulistano",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Caxias Do Sul v Paulistano",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-13T22:30:00.000Z"
     }
 ]
