@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Long Beach State, (1.77) VERSES CSU Fullerton, (2.05)",
-        "start_time_aest": "2026-02-13T14:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Long Beach State",
-                "position": "HOME",
-                "short_name": "Long Beach State"
-            },
-            {
-                "full_name": "CSU Fullerton",
-                "position": "AWAY",
-                "short_name": "CSU Fullerton"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Long Beach State",
-                "returnWin": 1.77
-            },
-            {
-                "name": "CSU Fullerton",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Long Beach State v CSU Fullerton",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-13T03:00:00.000Z"
-    },
-    {
-        "contestant_names": "Stanford, (1.95) VERSES Virginia Tech, (1.8)",
-        "start_time_aest": "2026-02-13T14:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Stanford",
-                "position": "HOME",
-                "short_name": "Stanford"
-            },
-            {
-                "full_name": "Virginia Tech",
-                "position": "AWAY",
-                "short_name": "Virginia Tech"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Stanford",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Virginia Tech",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "Stanford v Virginia Tech",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-13T03:00:00.000Z"
-    },
-    {
-        "contestant_names": "California, (1.75) VERSES Virginia, (2)",
-        "start_time_aest": "2026-02-13T14:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "California",
-                "position": "HOME",
-                "short_name": "California"
-            },
-            {
-                "full_name": "Virginia",
-                "position": "AWAY",
-                "short_name": "Virginia"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "California",
-                "returnWin": 1.75
-            },
-            {
-                "name": "Virginia",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "California v Virginia",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-13T03:00:00.000Z"
-    },
-    {
         "contestant_names": "Leolia Jeanjean, (2.25) VERSES Tatiana Prozorova, (1.58)",
         "start_time_aest": "2026-02-13T15:30:00+11:00",
         "sport_name": "Tennis",
@@ -184,5 +91,67 @@
         "match_name": "Sierra v Rakhimova",
         "betOption": "Head To Head",
         "start_time": "2026-02-13T06:00:00.000Z"
+    },
+    {
+        "contestant_names": "Moyuka Uchijima, (2.15) VERSES Anna Bondar, (1.62)",
+        "start_time_aest": "2026-02-13T17:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Moyuka Uchijima",
+                "position": "HOME",
+                "short_name": "Uchijima"
+            },
+            {
+                "full_name": "Anna Bondar",
+                "position": "AWAY",
+                "short_name": "Bondar A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Moyuka Uchijima",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Anna Bondar",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Uchijima v Bondar A",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-13T06:00:00.000Z"
+    },
+    {
+        "contestant_names": "Canberra, (1.77) VERSES Melbourne, (2.05)",
+        "start_time_aest": "2026-02-13T17:30:00+11:00",
+        "sport_name": "Rugby League",
+        "competition_name": "NRL Preseason Challenge",
+        "contestants": [
+            {
+                "full_name": "Canberra",
+                "position": "HOME",
+                "short_name": "Canberra"
+            },
+            {
+                "full_name": "Melbourne",
+                "position": "AWAY",
+                "short_name": "Melbourne"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Canberra",
+                "returnWin": 1.77
+            },
+            {
+                "name": "Melbourne",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Canberra v Melbourne",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-13T06:30:00.000Z"
     }
 ]
