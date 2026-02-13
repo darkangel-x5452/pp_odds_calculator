@@ -153,5 +153,36 @@
         "match_name": "Giovannini L v Ruggeri J",
         "betOption": "Head To Head",
         "start_time": "2026-02-13T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Saba Purtseladze, (1.55) VERSES Alessandro Pecci, (2.3)",
+        "start_time_aest": "2026-02-13T18:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Saba Purtseladze",
+                "position": "HOME",
+                "short_name": "Purtseladze"
+            },
+            {
+                "full_name": "Alessandro Pecci",
+                "position": "AWAY",
+                "short_name": "Pecci A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Saba Purtseladze",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Alessandro Pecci",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Purtseladze v Pecci A",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-13T07:30:00.000Z"
     }
 ]
