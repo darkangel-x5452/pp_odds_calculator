@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Solana Sierra, (2.3) VERSES Kamilla Rakhimova, (1.55)",
-        "start_time_aest": "2026-02-13T17:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestants": [
-            {
-                "full_name": "Solana Sierra",
-                "position": "HOME",
-                "short_name": "Sierra"
-            },
-            {
-                "full_name": "Kamilla Rakhimova",
-                "position": "AWAY",
-                "short_name": "Rakhimova"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Solana Sierra",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Kamilla Rakhimova",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Sierra v Rakhimova",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-13T06:15:00.000Z"
-    },
-    {
-        "contestant_names": "Moyuka Uchijima, (2.25) VERSES Anna Bondar, (1.58)",
-        "start_time_aest": "2026-02-13T17:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestants": [
-            {
-                "full_name": "Moyuka Uchijima",
-                "position": "HOME",
-                "short_name": "Uchijima"
-            },
-            {
-                "full_name": "Anna Bondar",
-                "position": "AWAY",
-                "short_name": "Bondar A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Moyuka Uchijima",
-                "returnWin": 2.25
-            },
-            {
-                "name": "Anna Bondar",
-                "returnWin": 1.58
-            }
-        ],
-        "match_name": "Uchijima v Bondar A",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-13T06:15:00.000Z"
-    },
-    {
-        "contestant_names": "Canberra, (1.77) VERSES Melbourne, (2.05)",
-        "start_time_aest": "2026-02-13T17:30:00+11:00",
-        "sport_name": "Rugby League",
-        "competition_name": "NRL Preseason Challenge",
-        "contestants": [
-            {
-                "full_name": "Canberra",
-                "position": "HOME",
-                "short_name": "Canberra"
-            },
-            {
-                "full_name": "Melbourne",
-                "position": "AWAY",
-                "short_name": "Melbourne"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Canberra",
-                "returnWin": 1.77
-            },
-            {
-                "name": "Melbourne",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Canberra v Melbourne",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-13T06:30:00.000Z"
-    },
-    {
         "contestant_names": "Canberra, (1.77) VERSES Melbourne, (2.05)",
         "start_time_aest": "2026-02-13T17:31:00+11:00",
         "sport_name": "Rugby League",
@@ -215,5 +122,36 @@
         "match_name": "Purtseladze v Pecci A",
         "betOption": "Head To Head",
         "start_time": "2026-02-13T07:30:00.000Z"
+    },
+    {
+        "contestant_names": "Hailey Baptiste, (1.58) VERSES Shuai Zhang, (2.25)",
+        "start_time_aest": "2026-02-13T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Hailey Baptiste",
+                "position": "HOME",
+                "short_name": "Baptiste H"
+            },
+            {
+                "full_name": "Shuai Zhang",
+                "position": "AWAY",
+                "short_name": "Zhang S"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hailey Baptiste",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Shuai Zhang",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Baptiste H v Zhang S",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-13T08:00:00.000Z"
     }
 ]
