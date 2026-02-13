@@ -1,64 +1,219 @@
 [
     {
-        "contestant_names": "Comunicaciones, (1.6) VERSES San Isidro, (2.15)",
-        "start_time_aest": "2026-02-13T12:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga A",
-        "contestants": [
-            {
-                "full_name": "Comunicaciones",
-                "position": "HOME",
-                "short_name": "Comunicaciones"
-            },
-            {
-                "full_name": "San Isidro",
-                "position": "AWAY",
-                "short_name": "San Isidro"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Comunicaciones",
-                "returnWin": 1.6
-            },
-            {
-                "name": "San Isidro",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Comunicaciones v San Isidro",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-13T01:00:00.000Z"
-    },
-    {
-        "contestant_names": "UL Lafayette, (1.95) VERSES Coastal Carolina, (1.85)",
-        "start_time_aest": "2026-02-13T12:00:00+11:00",
+        "contestant_names": "Southern Miss, (1.77) VERSES South Alabama, (2.05)",
+        "start_time_aest": "2026-02-13T12:30:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "UL Lafayette",
+                "full_name": "Southern Miss",
                 "position": "HOME",
-                "short_name": "UL Lafayette"
+                "short_name": "Southern Miss"
             },
             {
-                "full_name": "Coastal Carolina",
+                "full_name": "South Alabama",
                 "position": "AWAY",
-                "short_name": "Coastal Carolina"
+                "short_name": "South Alabama"
             }
         ],
         "propositions": [
             {
-                "name": "UL Lafayette",
+                "name": "Southern Miss",
+                "returnWin": 1.77
+            },
+            {
+                "name": "South Alabama",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Southern Miss v South Alabama",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-13T01:30:00.000Z"
+    },
+    {
+        "contestant_names": "SIU Edwardsville, (1.95) VERSES SE Missouri St, (1.85)",
+        "start_time_aest": "2026-02-13T12:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "SIU Edwardsville",
+                "position": "HOME",
+                "short_name": "SIU Edwardsville"
+            },
+            {
+                "full_name": "SE Missouri St",
+                "position": "AWAY",
+                "short_name": "SE Missouri St"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "SIU Edwardsville",
                 "returnWin": 1.95
             },
             {
-                "name": "Coastal Carolina",
+                "name": "SE Missouri St",
                 "returnWin": 1.85
             }
         ],
-        "match_name": "UL Lafayette v Coastal Carolina",
+        "match_name": "SIU Edwardsville v SE Missouri St",
         "betOption": "Head To Head",
-        "start_time": "2026-02-13T01:00:00.000Z"
+        "start_time": "2026-02-13T01:30:00.000Z"
+    },
+    {
+        "contestant_names": "Zaharije-Zak Talic, (2.2) VERSES Haruto Ishikawa, (1.6)",
+        "start_time_aest": "2026-02-13T12:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "UTR Pro Series",
+        "contestants": [
+            {
+                "full_name": "Zaharije-Zak Talic",
+                "position": "HOME",
+                "short_name": "Talic"
+            },
+            {
+                "full_name": "Haruto Ishikawa",
+                "position": "AWAY",
+                "short_name": "Ishikawa"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Zaharije-Zak Talic",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Haruto Ishikawa",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Talic v Ishikawa",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-13T01:30:00.000Z"
+    },
+    {
+        "contestant_names": "North Texas, (2.05) VERSES Memphis, (1.77)",
+        "start_time_aest": "2026-02-13T13:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "North Texas",
+                "position": "HOME",
+                "short_name": "North Texas"
+            },
+            {
+                "full_name": "Memphis",
+                "position": "AWAY",
+                "short_name": "Memphis"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "North Texas",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Memphis",
+                "returnWin": 1.77
+            }
+        ],
+        "match_name": "North Texas v Memphis",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-13T02:00:00.000Z"
+    },
+    {
+        "contestant_names": "Denver, (2.05) VERSES South Dakota St, (1.77)",
+        "start_time_aest": "2026-02-13T13:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Denver",
+                "position": "HOME",
+                "short_name": "Denver"
+            },
+            {
+                "full_name": "South Dakota St",
+                "position": "AWAY",
+                "short_name": "South Dakota St"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Denver",
+                "returnWin": 2.05
+            },
+            {
+                "name": "South Dakota St",
+                "returnWin": 1.77
+            }
+        ],
+        "match_name": "Denver v South Dakota St",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-13T02:00:00.000Z"
+    },
+    {
+        "contestant_names": "EastrnWashington, (1.58) VERSES Idaho State, (2.4)",
+        "start_time_aest": "2026-02-13T13:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "EastrnWashington",
+                "position": "HOME",
+                "short_name": "EastrnWashington"
+            },
+            {
+                "full_name": "Idaho State",
+                "position": "AWAY",
+                "short_name": "Idaho State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "EastrnWashington",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Idaho State",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "EastrnWashington v Idaho State",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-13T02:00:00.000Z"
+    },
+    {
+        "contestant_names": "Abilene Chrstian, (1.77) VERSES Texas-Arlington, (2.05)",
+        "start_time_aest": "2026-02-13T13:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Abilene Chrstian",
+                "position": "HOME",
+                "short_name": "Abilene Chrstian"
+            },
+            {
+                "full_name": "Texas-Arlington",
+                "position": "AWAY",
+                "short_name": "Texas-Arlington"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Abilene Chrstian",
+                "returnWin": 1.77
+            },
+            {
+                "name": "Texas-Arlington",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Abilene Chrstian v Texas-Arlington",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-13T02:00:00.000Z"
     }
 ]
