@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Solana Sierra, (2.3) VERSES Kamilla Rakhimova, (1.55)",
-        "start_time_aest": "2026-02-13T17:00:00+11:00",
+        "start_time_aest": "2026-02-13T17:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA",
         "contestants": [
@@ -28,11 +28,11 @@
         ],
         "match_name": "Sierra v Rakhimova",
         "betOption": "Head To Head",
-        "start_time": "2026-02-13T06:00:00.000Z"
+        "start_time": "2026-02-13T06:15:00.000Z"
     },
     {
-        "contestant_names": "Moyuka Uchijima, (2.15) VERSES Anna Bondar, (1.62)",
-        "start_time_aest": "2026-02-13T17:00:00+11:00",
+        "contestant_names": "Moyuka Uchijima, (2.25) VERSES Anna Bondar, (1.58)",
+        "start_time_aest": "2026-02-13T17:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA",
         "contestants": [
@@ -50,16 +50,16 @@
         "propositions": [
             {
                 "name": "Moyuka Uchijima",
-                "returnWin": 2.15
+                "returnWin": 2.25
             },
             {
                 "name": "Anna Bondar",
-                "returnWin": 1.62
+                "returnWin": 1.58
             }
         ],
         "match_name": "Uchijima v Bondar A",
         "betOption": "Head To Head",
-        "start_time": "2026-02-13T06:00:00.000Z"
+        "start_time": "2026-02-13T06:15:00.000Z"
     },
     {
         "contestant_names": "Canberra, (1.77) VERSES Melbourne, (2.05)",
@@ -91,6 +91,37 @@
         "match_name": "Canberra v Melbourne",
         "betOption": "Head To Head",
         "start_time": "2026-02-13T06:30:00.000Z"
+    },
+    {
+        "contestant_names": "Canberra, (1.77) VERSES Melbourne, (2.05)",
+        "start_time_aest": "2026-02-13T17:31:00+11:00",
+        "sport_name": "Rugby League",
+        "competition_name": "NRL Preseason Challenge",
+        "contestants": [
+            {
+                "full_name": "Canberra",
+                "position": "HOME",
+                "short_name": "Canberra"
+            },
+            {
+                "full_name": "Melbourne",
+                "position": "AWAY",
+                "short_name": "Melbourne"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Canberra",
+                "returnWin": 1.77
+            },
+            {
+                "name": "Melbourne",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Canberra v Melbourne",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-13T06:31:00.000Z"
     },
     {
         "contestant_names": "Gabi Boitan, (1.55) VERSES Andrey Chepelev, (2.3)",
