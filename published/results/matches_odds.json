@@ -1,7 +1,38 @@
 [
     {
+        "contestant_names": "Studentski Centa, (1.95) VERSES Kk Spartak Subot, (1.75)",
+        "start_time_aest": "2026-02-14T04:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "ABA League",
+        "contestants": [
+            {
+                "full_name": "Studentski Centa",
+                "position": "HOME",
+                "short_name": "Studentski Centa"
+            },
+            {
+                "full_name": "Kk Spartak Subot",
+                "position": "AWAY",
+                "short_name": "Kk Spartak Subot"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Studentski Centa",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Kk Spartak Subot",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Studentski Centa v Kk Spartak Subot",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-13T17:30:00.000Z"
+    },
+    {
         "contestant_names": "Errani/Paolini, (2.2) VERSES Hsieh/Ostapenko, (1.62)",
-        "start_time_aest": "2026-02-14T03:35:00+11:00",
+        "start_time_aest": "2026-02-14T04:30:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA Doubles",
         "contestants": [
@@ -28,130 +59,68 @@
         ],
         "match_name": "Errani/Paolini v Hsieh/Ostapenko",
         "betOption": "Head To Head",
-        "start_time": "2026-02-13T16:35:00.000Z"
+        "start_time": "2026-02-13T17:30:00.000Z"
     },
     {
-        "contestant_names": "Raphael Collignon, (1.6) VERSES Luca Van Assche, (2.2)",
-        "start_time_aest": "2026-02-14T03:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Raphael Collignon",
-                "position": "HOME",
-                "short_name": "Collignon"
-            },
-            {
-                "full_name": "Luca Van Assche",
-                "position": "AWAY",
-                "short_name": "Van Assche"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Raphael Collignon",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Luca Van Assche",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Collignon v Van Assche",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-13T16:45:00.000Z"
-    },
-    {
-        "contestant_names": "Decka Pelplin, (1.55) VERSES Ptg Sokol Lancut, (2.25)",
-        "start_time_aest": "2026-02-14T04:00:00+11:00",
+        "contestant_names": "Zalgiris, (1.68) VERSES Hapoel Tel Aviv, (2.1)",
+        "start_time_aest": "2026-02-14T05:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Poland First Division",
+        "competition_name": "EuroLeague",
         "contestants": [
             {
-                "full_name": "Decka Pelplin",
+                "full_name": "Zalgiris",
                 "position": "HOME",
-                "short_name": "Decka Pelplin"
+                "short_name": "Zalgiris"
             },
             {
-                "full_name": "Ptg Sokol Lancut",
+                "full_name": "Hapoel Tel Aviv",
                 "position": "AWAY",
-                "short_name": "Ptg Sokol Lancut"
+                "short_name": "Hapoel Tel Aviv"
             }
         ],
         "propositions": [
             {
-                "name": "Decka Pelplin",
-                "returnWin": 1.55
+                "name": "Zalgiris",
+                "returnWin": 1.68
             },
             {
-                "name": "Ptg Sokol Lancut",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Decka Pelplin v Ptg Sokol Lancut",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-13T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Braden Shick, (2.1) VERSES Andres Andrade, (1.65)",
-        "start_time_aest": "2026-02-14T04:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Braden Shick",
-                "position": "HOME",
-                "short_name": "Shick B"
-            },
-            {
-                "full_name": "Andres Andrade",
-                "position": "AWAY",
-                "short_name": "Andrade A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Braden Shick",
+                "name": "Hapoel Tel Aviv",
                 "returnWin": 2.1
-            },
-            {
-                "name": "Andres Andrade",
-                "returnWin": 1.65
             }
         ],
-        "match_name": "Shick B v Andrade A",
+        "match_name": "Zalgiris v Hapoel Tel Aviv",
         "betOption": "Head To Head",
-        "start_time": "2026-02-13T17:00:00.000Z"
+        "start_time": "2026-02-13T18:00:00.000Z"
     },
     {
-        "contestant_names": "Jeline Vandromme, (1.46) VERSES Hannah Klugman, (2.5)",
-        "start_time_aest": "2026-02-14T04:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
+        "contestant_names": "Super Kings, (1.85) VERSES Rammbros CC, (1.95)",
+        "start_time_aest": "2026-02-14T05:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Falcons Champions Trophy T20",
         "contestants": [
             {
-                "full_name": "Jeline Vandromme",
+                "full_name": "Super Kings",
                 "position": "HOME",
-                "short_name": "Vandromme"
+                "short_name": "Super Kings"
             },
             {
-                "full_name": "Hannah Klugman",
+                "full_name": "Rammbros CC",
                 "position": "AWAY",
-                "short_name": "Hannah Klugman"
+                "short_name": "Rammbros Cc"
             }
         ],
         "propositions": [
             {
-                "name": "Jeline Vandromme",
-                "returnWin": 1.46
+                "name": "Super Kings",
+                "returnWin": 1.85
             },
             {
-                "name": "Hannah Klugman",
-                "returnWin": 2.5
+                "name": "Rammbros CC",
+                "returnWin": 1.95
             }
         ],
-        "match_name": "Vandromme v Hannah Klugman",
+        "match_name": "Super Kings v Rammbros Cc",
         "betOption": "Head To Head",
-        "start_time": "2026-02-13T17:00:00.000Z"
+        "start_time": "2026-02-13T18:00:00.000Z"
     }
 ]
