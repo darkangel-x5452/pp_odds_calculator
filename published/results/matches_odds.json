@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "UniaoCorinthians, (2.5) VERSES PinheirosSKY, (1.45)",
-        "start_time_aest": "2026-02-14T09:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Brazil NBB",
-        "contestants": [
-            {
-                "full_name": "UniaoCorinthians",
-                "position": "HOME",
-                "short_name": "UniaoCorinthians"
-            },
-            {
-                "full_name": "PinheirosSKY",
-                "position": "AWAY",
-                "short_name": "PinheirosSKY"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "UniaoCorinthians",
-                "returnWin": 2.5
-            },
-            {
-                "name": "PinheirosSKY",
-                "returnWin": 1.45
-            }
-        ],
-        "match_name": "UniaoCorinthians v PinheirosSKY",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-13T22:30:00.000Z"
-    },
-    {
-        "contestant_names": "Caxias Do Sul, (2.25) VERSES Paulistano, (1.55)",
-        "start_time_aest": "2026-02-14T09:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Brazil NBB",
-        "contestants": [
-            {
-                "full_name": "Caxias Do Sul",
-                "position": "HOME",
-                "short_name": "Caxias Do Sul"
-            },
-            {
-                "full_name": "Paulistano",
-                "position": "AWAY",
-                "short_name": "Paulistano"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Caxias Do Sul",
-                "returnWin": 2.25
-            },
-            {
-                "name": "Paulistano",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Caxias Do Sul v Paulistano",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-13T22:30:00.000Z"
-    },
-    {
         "contestant_names": "Niagara, (2) VERSES Manhattan, (1.8)",
         "start_time_aest": "2026-02-14T10:30:00+11:00",
         "sport_name": "Basketball",
@@ -151,6 +89,99 @@
             }
         ],
         "match_name": "Deportivo Norte v Gimnasia LaPlata",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-14T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Sacred Heart, (2.05) VERSES St Peters, (1.77)",
+        "start_time_aest": "2026-02-14T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Sacred Heart",
+                "position": "HOME",
+                "short_name": "Sacred Heart"
+            },
+            {
+                "full_name": "St Peters",
+                "position": "AWAY",
+                "short_name": "St Peters"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sacred Heart",
+                "returnWin": 2.05
+            },
+            {
+                "name": "St Peters",
+                "returnWin": 1.77
+            }
+        ],
+        "match_name": "Sacred Heart v St Peters",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-14T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Princeton, (2.35) VERSES Cornell, (1.6)",
+        "start_time_aest": "2026-02-14T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Princeton",
+                "position": "HOME",
+                "short_name": "Princeton"
+            },
+            {
+                "full_name": "Cornell",
+                "position": "AWAY",
+                "short_name": "Cornell"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Princeton",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Cornell",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Princeton v Cornell",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-14T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Pennsylvania, (1.74) VERSES Columbia, (2.1)",
+        "start_time_aest": "2026-02-14T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Pennsylvania",
+                "position": "HOME",
+                "short_name": "Pennsylvania"
+            },
+            {
+                "full_name": "Columbia",
+                "position": "AWAY",
+                "short_name": "Columbia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Pennsylvania",
+                "returnWin": 1.74
+            },
+            {
+                "name": "Columbia",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Pennsylvania v Columbia",
         "betOption": "Head To Head",
         "start_time": "2026-02-14T00:00:00.000Z"
     }
