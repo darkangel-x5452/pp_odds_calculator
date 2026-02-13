@@ -1,126 +1,95 @@
 [
     {
-        "contestant_names": "North Texas, (2.05) VERSES Memphis, (1.77)",
-        "start_time_aest": "2026-02-13T13:00:00+11:00",
+        "contestant_names": "Long Beach State, (1.77) VERSES CSU Fullerton, (2.05)",
+        "start_time_aest": "2026-02-13T14:00:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "North Texas",
+                "full_name": "Long Beach State",
                 "position": "HOME",
-                "short_name": "North Texas"
+                "short_name": "Long Beach State"
             },
             {
-                "full_name": "Memphis",
+                "full_name": "CSU Fullerton",
                 "position": "AWAY",
-                "short_name": "Memphis"
+                "short_name": "CSU Fullerton"
             }
         ],
         "propositions": [
             {
-                "name": "North Texas",
-                "returnWin": 2.05
-            },
-            {
-                "name": "Memphis",
-                "returnWin": 1.77
-            }
-        ],
-        "match_name": "North Texas v Memphis",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-13T02:00:00.000Z"
-    },
-    {
-        "contestant_names": "Denver, (2.05) VERSES South Dakota St, (1.77)",
-        "start_time_aest": "2026-02-13T13:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Denver",
-                "position": "HOME",
-                "short_name": "Denver"
-            },
-            {
-                "full_name": "South Dakota St",
-                "position": "AWAY",
-                "short_name": "South Dakota St"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Denver",
-                "returnWin": 2.05
-            },
-            {
-                "name": "South Dakota St",
-                "returnWin": 1.77
-            }
-        ],
-        "match_name": "Denver v South Dakota St",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-13T02:00:00.000Z"
-    },
-    {
-        "contestant_names": "EastrnWashington, (1.58) VERSES Idaho State, (2.4)",
-        "start_time_aest": "2026-02-13T13:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "EastrnWashington",
-                "position": "HOME",
-                "short_name": "EastrnWashington"
-            },
-            {
-                "full_name": "Idaho State",
-                "position": "AWAY",
-                "short_name": "Idaho State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "EastrnWashington",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Idaho State",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "EastrnWashington v Idaho State",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-13T02:00:00.000Z"
-    },
-    {
-        "contestant_names": "Abilene Chrstian, (1.77) VERSES Texas-Arlington, (2.05)",
-        "start_time_aest": "2026-02-13T13:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Abilene Chrstian",
-                "position": "HOME",
-                "short_name": "Abilene Chrstian"
-            },
-            {
-                "full_name": "Texas-Arlington",
-                "position": "AWAY",
-                "short_name": "Texas-Arlington"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Abilene Chrstian",
+                "name": "Long Beach State",
                 "returnWin": 1.77
             },
             {
-                "name": "Texas-Arlington",
+                "name": "CSU Fullerton",
                 "returnWin": 2.05
             }
         ],
-        "match_name": "Abilene Chrstian v Texas-Arlington",
+        "match_name": "Long Beach State v CSU Fullerton",
         "betOption": "Head To Head",
-        "start_time": "2026-02-13T02:00:00.000Z"
+        "start_time": "2026-02-13T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Stanford, (1.95) VERSES Virginia Tech, (1.8)",
+        "start_time_aest": "2026-02-13T14:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Stanford",
+                "position": "HOME",
+                "short_name": "Stanford"
+            },
+            {
+                "full_name": "Virginia Tech",
+                "position": "AWAY",
+                "short_name": "Virginia Tech"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Stanford",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Virginia Tech",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Stanford v Virginia Tech",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-13T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "California, (1.75) VERSES Virginia, (2)",
+        "start_time_aest": "2026-02-13T14:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "California",
+                "position": "HOME",
+                "short_name": "California"
+            },
+            {
+                "full_name": "Virginia",
+                "position": "AWAY",
+                "short_name": "Virginia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "California",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Virginia",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "California v Virginia",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-13T03:00:00.000Z"
     }
 ]
