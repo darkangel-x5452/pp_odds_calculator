@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Camilo Ugo Carabelli, (2.5) VERSES Sebastian Baez, (1.5)",
-        "start_time_aest": "2026-02-14T08:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "contestants": [
-            {
-                "full_name": "Camilo Ugo Carabelli",
-                "position": "HOME",
-                "short_name": "Ugo Carabelli"
-            },
-            {
-                "full_name": "Sebastian Baez",
-                "position": "AWAY",
-                "short_name": "Baez"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Camilo Ugo Carabelli",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Sebastian Baez",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Ugo Carabelli v Baez",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-13T21:45:00.000Z"
-    },
-    {
         "contestant_names": "UniaoCorinthians, (2.5) VERSES PinheirosSKY, (1.45)",
         "start_time_aest": "2026-02-14T09:30:00+11:00",
         "sport_name": "Basketball",
@@ -93,6 +62,37 @@
         "start_time": "2026-02-13T22:30:00.000Z"
     },
     {
+        "contestant_names": "Niagara, (2) VERSES Manhattan, (1.8)",
+        "start_time_aest": "2026-02-14T10:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Niagara",
+                "position": "HOME",
+                "short_name": "Niagara"
+            },
+            {
+                "full_name": "Manhattan",
+                "position": "AWAY",
+                "short_name": "Manhattan"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Niagara",
+                "returnWin": 2
+            },
+            {
+                "name": "Manhattan",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Niagara v Manhattan",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-13T23:30:00.000Z"
+    },
+    {
         "contestant_names": "Rivadavia De Men, (2.1) VERSES Paula Galvez, (1.62)",
         "start_time_aest": "2026-02-14T11:00:00+11:00",
         "sport_name": "Basketball",
@@ -120,6 +120,37 @@
             }
         ],
         "match_name": "Rivadavia De Men v Paula Galvez",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-14T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Deportivo Norte, (2.2) VERSES Gimnasia LaPlata, (1.57)",
+        "start_time_aest": "2026-02-14T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Deportivo Norte",
+                "position": "HOME",
+                "short_name": "Deportivo Norte"
+            },
+            {
+                "full_name": "Gimnasia LaPlata",
+                "position": "AWAY",
+                "short_name": "Gimnasia LaPlata"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Deportivo Norte",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Gimnasia LaPlata",
+                "returnWin": 1.57
+            }
+        ],
+        "match_name": "Deportivo Norte v Gimnasia LaPlata",
         "betOption": "Head To Head",
         "start_time": "2026-02-14T00:00:00.000Z"
     }
