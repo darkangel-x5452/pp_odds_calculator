@@ -1,95 +1,64 @@
 [
     {
-        "contestant_names": "Racing De Chivil, (2.5) VERSES Boca Juniors, (1.45)",
-        "start_time_aest": "2026-02-13T11:30:00+11:00",
+        "contestant_names": "Comunicaciones, (1.6) VERSES San Isidro, (2.15)",
+        "start_time_aest": "2026-02-13T12:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Argentina Liga Nacional de Basket",
+        "competition_name": "Argentina Liga A",
         "contestants": [
             {
-                "full_name": "Racing De Chivil",
+                "full_name": "Comunicaciones",
                 "position": "HOME",
-                "short_name": "Racing De Chivil"
+                "short_name": "Comunicaciones"
             },
             {
-                "full_name": "Boca Juniors",
+                "full_name": "San Isidro",
                 "position": "AWAY",
-                "short_name": "Boca Juniors"
+                "short_name": "San Isidro"
             }
         ],
         "propositions": [
             {
-                "name": "Racing De Chivil",
-                "returnWin": 2.5
+                "name": "Comunicaciones",
+                "returnWin": 1.6
             },
             {
-                "name": "Boca Juniors",
-                "returnWin": 1.45
+                "name": "San Isidro",
+                "returnWin": 2.15
             }
         ],
-        "match_name": "Racing De Chivil v Boca Juniors",
+        "match_name": "Comunicaciones v San Isidro",
         "betOption": "Head To Head",
-        "start_time": "2026-02-13T00:30:00.000Z"
+        "start_time": "2026-02-13T01:00:00.000Z"
     },
     {
-        "contestant_names": "Drake, (1.85) VERSES Illinois-Chicago, (1.95)",
-        "start_time_aest": "2026-02-13T11:30:00+11:00",
+        "contestant_names": "UL Lafayette, (1.95) VERSES Coastal Carolina, (1.85)",
+        "start_time_aest": "2026-02-13T12:00:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Drake",
+                "full_name": "UL Lafayette",
                 "position": "HOME",
-                "short_name": "Drake"
+                "short_name": "UL Lafayette"
             },
             {
-                "full_name": "Illinois-Chicago",
+                "full_name": "Coastal Carolina",
                 "position": "AWAY",
-                "short_name": "Illinois-Chicago"
+                "short_name": "Coastal Carolina"
             }
         ],
         "propositions": [
             {
-                "name": "Drake",
-                "returnWin": 1.85
-            },
-            {
-                "name": "Illinois-Chicago",
+                "name": "UL Lafayette",
                 "returnWin": 1.95
-            }
-        ],
-        "match_name": "Drake v Illinois-Chicago",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-13T00:30:00.000Z"
-    },
-    {
-        "contestant_names": "Morehead State, (1.53) VERSES Tennessee Tech, (2.5)",
-        "start_time_aest": "2026-02-13T11:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Morehead State",
-                "position": "HOME",
-                "short_name": "Morehead State"
             },
             {
-                "full_name": "Tennessee Tech",
-                "position": "AWAY",
-                "short_name": "Tennessee Tech"
+                "name": "Coastal Carolina",
+                "returnWin": 1.85
             }
         ],
-        "propositions": [
-            {
-                "name": "Morehead State",
-                "returnWin": 1.53
-            },
-            {
-                "name": "Tennessee Tech",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Morehead State v Tennessee Tech",
+        "match_name": "UL Lafayette v Coastal Carolina",
         "betOption": "Head To Head",
-        "start_time": "2026-02-13T00:30:00.000Z"
+        "start_time": "2026-02-13T01:00:00.000Z"
     }
 ]
