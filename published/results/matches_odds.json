@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Osaka, (1.45) VERSES Kyoto, (2.5)",
-        "start_time_aest": "2026-02-14T20:05:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Japan B League",
-        "contestants": [
-            {
-                "full_name": "Osaka",
-                "position": "HOME",
-                "short_name": "Osaka"
-            },
-            {
-                "full_name": "Kyoto",
-                "position": "AWAY",
-                "short_name": "Kyoto"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Osaka",
-                "returnWin": 1.45
-            },
-            {
-                "name": "Kyoto",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Osaka v Kyoto",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-14T09:05:00.000Z"
-    },
-    {
-        "contestant_names": "Magdalena Frech, (2.1) VERSES Varvara Gracheva, (1.65)",
-        "start_time_aest": "2026-02-14T20:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestants": [
-            {
-                "full_name": "Magdalena Frech",
-                "position": "HOME",
-                "short_name": "Frech"
-            },
-            {
-                "full_name": "Varvara Gracheva",
-                "position": "AWAY",
-                "short_name": "Gracheva"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Magdalena Frech",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Varvara Gracheva",
-                "returnWin": 1.65
-            }
-        ],
-        "match_name": "Frech v Gracheva",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-14T09:15:00.000Z"
-    },
-    {
         "contestant_names": "Bc Ciu, (1.57) VERSES Batumi-rsu, (2.2)",
         "start_time_aest": "2026-02-14T21:00:00+11:00",
         "sport_name": "Basketball",
@@ -215,5 +153,36 @@
         "match_name": "Cocciaretto E v Zakharova A",
         "betOption": "Head To Head",
         "start_time": "2026-02-14T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "FaZe, (1.55) VERSES Heroic, (2.3)",
+        "start_time_aest": "2026-02-14T22:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "contestants": [
+            {
+                "full_name": "FaZe",
+                "position": "HOME",
+                "short_name": "FaZe"
+            },
+            {
+                "full_name": "Heroic",
+                "position": "AWAY",
+                "short_name": "Heroic"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "FaZe",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Heroic",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "FaZe v Heroic",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-14T11:00:00.000Z"
     }
 ]
