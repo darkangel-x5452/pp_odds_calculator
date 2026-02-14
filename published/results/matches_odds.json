@@ -1,64 +1,126 @@
 [
     {
-        "contestant_names": "Yoshihito Nishioka, (2.4) VERSES Coleman Wong, (1.5)",
-        "start_time_aest": "2026-02-15T02:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
+        "contestant_names": "Perpignan, (1.72) VERSES Pau, (2.05)",
+        "start_time_aest": "2026-02-15T02:35:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "French Top 14",
         "contestants": [
             {
-                "full_name": "Yoshihito Nishioka",
+                "full_name": "Perpignan",
                 "position": "HOME",
-                "short_name": "Nishioka"
+                "short_name": "Perpignan"
             },
             {
-                "full_name": "Coleman Wong",
+                "full_name": "Pau",
                 "position": "AWAY",
-                "short_name": "Wong C"
+                "short_name": "Pau"
             }
         ],
         "propositions": [
             {
-                "name": "Yoshihito Nishioka",
-                "returnWin": 2.4
+                "name": "Perpignan",
+                "returnWin": 1.72
             },
             {
-                "name": "Coleman Wong",
-                "returnWin": 1.5
+                "name": "Pau",
+                "returnWin": 2.05
             }
         ],
-        "match_name": "Nishioka v Wong C",
+        "match_name": "Perpignan v Pau",
         "betOption": "Head To Head",
-        "start_time": "2026-02-14T15:15:00.000Z"
+        "start_time": "2026-02-14T15:35:00.000Z"
     },
     {
-        "contestant_names": "Karolina Muchova, (2.05) VERSES Victoria Mboko, (1.75)",
-        "start_time_aest": "2026-02-15T02:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
+        "contestant_names": "La Rochelle, (1.5) VERSES Montpellier, (2.5)",
+        "start_time_aest": "2026-02-15T02:35:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "French Top 14",
         "contestants": [
             {
-                "full_name": "Karolina Muchova",
+                "full_name": "La Rochelle",
                 "position": "HOME",
-                "short_name": "Muchova"
+                "short_name": "La Rochelle"
             },
             {
-                "full_name": "Victoria Mboko",
+                "full_name": "Montpellier",
                 "position": "AWAY",
-                "short_name": "Mboko"
+                "short_name": "Montpellier"
             }
         ],
         "propositions": [
             {
-                "name": "Karolina Muchova",
-                "returnWin": 2.05
+                "name": "La Rochelle",
+                "returnWin": 1.5
             },
             {
-                "name": "Victoria Mboko",
-                "returnWin": 1.75
+                "name": "Montpellier",
+                "returnWin": 2.5
             }
         ],
-        "match_name": "Muchova v Mboko",
+        "match_name": "La Rochelle v Montpellier",
         "betOption": "Head To Head",
-        "start_time": "2026-02-14T15:15:00.000Z"
+        "start_time": "2026-02-14T15:35:00.000Z"
+    },
+    {
+        "contestant_names": "Karhu Basket, (1.66) VERSES Helsinki Seagull, (2.05)",
+        "start_time_aest": "2026-02-15T03:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Finland Korisliiga",
+        "contestants": [
+            {
+                "full_name": "Karhu Basket",
+                "position": "HOME",
+                "short_name": "Karhu Basket"
+            },
+            {
+                "full_name": "Helsinki Seagull",
+                "position": "AWAY",
+                "short_name": "Helsinki Seagull"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Karhu Basket",
+                "returnWin": 1.66
+            },
+            {
+                "name": "Helsinki Seagull",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Karhu Basket v Helsinki Seagull",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-14T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "Tli-alba Feherva, (2.5) VERSES Szolnoki Olaj, (1.45)",
+        "start_time_aest": "2026-02-15T03:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Hungary NB IA",
+        "contestants": [
+            {
+                "full_name": "Tli-alba Feherva",
+                "position": "HOME",
+                "short_name": "Tli-alba Feherva"
+            },
+            {
+                "full_name": "Szolnoki Olaj",
+                "position": "AWAY",
+                "short_name": "Szolnoki Olaj"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tli-alba Feherva",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Szolnoki Olaj",
+                "returnWin": 1.45
+            }
+        ],
+        "match_name": "Tli-alba Feherva v Szolnoki Olaj",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-14T16:00:00.000Z"
     }
 ]
