@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Platense, (1.48) VERSES Olimpico, (2.4)",
-        "start_time_aest": "2026-02-15T10:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga Nacional de Basket",
-        "contestants": [
-            {
-                "full_name": "Platense",
-                "position": "HOME",
-                "short_name": "Platense"
-            },
-            {
-                "full_name": "Olimpico",
-                "position": "AWAY",
-                "short_name": "Olimpico"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Platense",
-                "returnWin": 1.48
-            },
-            {
-                "name": "Olimpico",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Platense v Olimpico",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-14T23:30:00.000Z"
-    },
-    {
-        "contestant_names": "Mississippi, (1.53) VERSES Mississippi St, (2.5)",
-        "start_time_aest": "2026-02-15T10:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Mississippi",
-                "position": "HOME",
-                "short_name": "Mississippi"
-            },
-            {
-                "full_name": "Mississippi St",
-                "position": "AWAY",
-                "short_name": "Mississippi St"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Mississippi",
-                "returnWin": 1.53
-            },
-            {
-                "name": "Mississippi St",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Mississippi v Mississippi St",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-14T23:30:00.000Z"
-    },
-    {
         "contestant_names": "Cal Poly, (2.5) VERSES UC Santa Barbara, (1.53)",
         "start_time_aest": "2026-02-15T11:00:00+11:00",
         "sport_name": "Basketball",
@@ -277,5 +215,98 @@
         "match_name": "UTSA v South Florida",
         "betOption": "Head To Head",
         "start_time": "2026-02-15T00:30:00.000Z"
+    },
+    {
+        "contestant_names": "Northern Arizona, (1.74) VERSES Sacramento State, (2.1)",
+        "start_time_aest": "2026-02-15T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Northern Arizona",
+                "position": "HOME",
+                "short_name": "Northern Arizona"
+            },
+            {
+                "full_name": "Sacramento State",
+                "position": "AWAY",
+                "short_name": "Sacramento State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Northern Arizona",
+                "returnWin": 1.74
+            },
+            {
+                "name": "Sacramento State",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Northern Arizona v Sacramento State",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Western Kentucky, (1.62) VERSES Middle Tennessee, (2.3)",
+        "start_time_aest": "2026-02-15T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Western Kentucky",
+                "position": "HOME",
+                "short_name": "Western Kentucky"
+            },
+            {
+                "full_name": "Middle Tennessee",
+                "position": "AWAY",
+                "short_name": "Middle Tennessee"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Western Kentucky",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Middle Tennessee",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Western Kentucky v Middle Tennessee",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "CSU Northridge, (2.3) VERSES Hawaii, (1.62)",
+        "start_time_aest": "2026-02-15T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "CSU Northridge",
+                "position": "HOME",
+                "short_name": "CSU Northridge"
+            },
+            {
+                "full_name": "Hawaii",
+                "position": "AWAY",
+                "short_name": "Hawaii"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "CSU Northridge",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Hawaii",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "CSU Northridge v Hawaii",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T01:00:00.000Z"
     }
 ]
