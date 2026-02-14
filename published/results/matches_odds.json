@@ -1,38 +1,7 @@
 [
     {
-        "contestant_names": "Gabi Boitan, (1.58) VERSES Andrey Chepelev, (2.25)",
-        "start_time_aest": "2026-02-14T18:05:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Gabi Boitan",
-                "position": "HOME",
-                "short_name": "Boitan"
-            },
-            {
-                "full_name": "Andrey Chepelev",
-                "position": "AWAY",
-                "short_name": "Chepelev A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Gabi Boitan",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Andrey Chepelev",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Boitan v Chepelev A",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-14T07:05:00.000Z"
-    },
-    {
-        "contestant_names": "Federico Ferreira Silva, (1.72) VERSES Ilia Simakin, (2)",
-        "start_time_aest": "2026-02-14T18:30:00+11:00",
+        "contestant_names": "Federico Ferreira Silva, (1.75) VERSES Ilia Simakin, (1.95)",
+        "start_time_aest": "2026-02-14T18:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -50,47 +19,16 @@
         "propositions": [
             {
                 "name": "Federico Ferreira Silva",
-                "returnWin": 1.72
+                "returnWin": 1.75
             },
             {
                 "name": "Ilia Simakin",
-                "returnWin": 2
+                "returnWin": 1.95
             }
         ],
         "match_name": "Ferreira Slva Fe v Simakin",
         "betOption": "Head To Head",
-        "start_time": "2026-02-14T07:30:00.000Z"
-    },
-    {
-        "contestant_names": "Changwon Sakers, (1.6) VERSES Wonju, (2.15)",
-        "start_time_aest": "2026-02-14T18:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "South Korea KBL",
-        "contestants": [
-            {
-                "full_name": "Changwon Sakers",
-                "position": "HOME",
-                "short_name": "Changwon Sakers"
-            },
-            {
-                "full_name": "Wonju",
-                "position": "AWAY",
-                "short_name": "Wonju"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Changwon Sakers",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Wonju",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Changwon Sakers v Wonju",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-14T07:30:00.000Z"
+        "start_time": "2026-02-14T07:45:00.000Z"
     },
     {
         "contestant_names": "Lions (W), (1.6) VERSES Garden Route (W), (2.3)",
@@ -275,6 +213,99 @@
             }
         ],
         "match_name": "Purtseladze v Tyurnev",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-14T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Magdalena Frech, (2.15) VERSES Varvara Gracheva, (1.62)",
+        "start_time_aest": "2026-02-14T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Magdalena Frech",
+                "position": "HOME",
+                "short_name": "Frech"
+            },
+            {
+                "full_name": "Varvara Gracheva",
+                "position": "AWAY",
+                "short_name": "Gracheva"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Magdalena Frech",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Varvara Gracheva",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Frech v Gracheva",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-14T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Kimberly Birrell, (2.35) VERSES Katie Volynets, (1.52)",
+        "start_time_aest": "2026-02-14T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Kimberly Birrell",
+                "position": "HOME",
+                "short_name": "Birrell K"
+            },
+            {
+                "full_name": "Katie Volynets",
+                "position": "AWAY",
+                "short_name": "Volynets"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Kimberly Birrell",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Katie Volynets",
+                "returnWin": 1.52
+            }
+        ],
+        "match_name": "Birrell K v Volynets",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-14T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Peyton Stearns, (2.05) VERSES Elena-Gabriela Ruse, (1.68)",
+        "start_time_aest": "2026-02-14T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Peyton Stearns",
+                "position": "HOME",
+                "short_name": "Stearns P"
+            },
+            {
+                "full_name": "Elena-Gabriela Ruse",
+                "position": "AWAY",
+                "short_name": "Ruse E"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Peyton Stearns",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Elena-Gabriela Ruse",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Stearns P v Ruse E",
         "betOption": "Head To Head",
         "start_time": "2026-02-14T08:00:00.000Z"
     }
