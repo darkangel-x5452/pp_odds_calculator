@@ -1,250 +1,95 @@
 [
     {
-        "contestant_names": "Rivadavia De Men, (2.1) VERSES Paula Galvez, (1.62)",
-        "start_time_aest": "2026-02-14T11:00:00+11:00",
+        "contestant_names": "Sportivo Suardi, (1.45) VERSES Villa San Martin, (2.5)",
+        "start_time_aest": "2026-02-14T11:30:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "Argentina Liga A",
         "contestants": [
             {
-                "full_name": "Rivadavia De Men",
+                "full_name": "Sportivo Suardi",
                 "position": "HOME",
-                "short_name": "Rivadavia De Men"
+                "short_name": "Sportivo Suardi"
             },
             {
-                "full_name": "Paula Galvez",
+                "full_name": "Villa San Martin",
                 "position": "AWAY",
-                "short_name": "Paula Galvez"
+                "short_name": "Villa San Martin"
             }
         ],
         "propositions": [
             {
-                "name": "Rivadavia De Men",
-                "returnWin": 2.1
+                "name": "Sportivo Suardi",
+                "returnWin": 1.45
             },
             {
-                "name": "Paula Galvez",
+                "name": "Villa San Martin",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Sportivo Suardi v Villa San Martin",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-14T00:30:00.000Z"
+    },
+    {
+        "contestant_names": "Salta Basket, (1.62) VERSES La Riojo, (2.1)",
+        "start_time_aest": "2026-02-14T11:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Salta Basket",
+                "position": "HOME",
+                "short_name": "Salta Basket"
+            },
+            {
+                "full_name": "La Riojo",
+                "position": "AWAY",
+                "short_name": "La Riojo"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Salta Basket",
                 "returnWin": 1.62
-            }
-        ],
-        "match_name": "Rivadavia De Men v Paula Galvez",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-14T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Deportivo Norte, (2.2) VERSES Gimnasia LaPlata, (1.57)",
-        "start_time_aest": "2026-02-14T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga A",
-        "contestants": [
-            {
-                "full_name": "Deportivo Norte",
-                "position": "HOME",
-                "short_name": "Deportivo Norte"
             },
             {
-                "full_name": "Gimnasia LaPlata",
-                "position": "AWAY",
-                "short_name": "Gimnasia LaPlata"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Deportivo Norte",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Gimnasia LaPlata",
-                "returnWin": 1.57
-            }
-        ],
-        "match_name": "Deportivo Norte v Gimnasia LaPlata",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-14T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Sacred Heart, (2.05) VERSES St Peters, (1.77)",
-        "start_time_aest": "2026-02-14T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Sacred Heart",
-                "position": "HOME",
-                "short_name": "Sacred Heart"
-            },
-            {
-                "full_name": "St Peters",
-                "position": "AWAY",
-                "short_name": "St Peters"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sacred Heart",
-                "returnWin": 2.05
-            },
-            {
-                "name": "St Peters",
-                "returnWin": 1.77
-            }
-        ],
-        "match_name": "Sacred Heart v St Peters",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-14T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Princeton, (2.35) VERSES Cornell, (1.6)",
-        "start_time_aest": "2026-02-14T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Princeton",
-                "position": "HOME",
-                "short_name": "Princeton"
-            },
-            {
-                "full_name": "Cornell",
-                "position": "AWAY",
-                "short_name": "Cornell"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Princeton",
-                "returnWin": 2.35
-            },
-            {
-                "name": "Cornell",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Princeton v Cornell",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-14T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Pennsylvania, (1.74) VERSES Columbia, (2.1)",
-        "start_time_aest": "2026-02-14T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Pennsylvania",
-                "position": "HOME",
-                "short_name": "Pennsylvania"
-            },
-            {
-                "full_name": "Columbia",
-                "position": "AWAY",
-                "short_name": "Columbia"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Pennsylvania",
-                "returnWin": 1.74
-            },
-            {
-                "name": "Columbia",
+                "name": "La Riojo",
                 "returnWin": 2.1
             }
         ],
-        "match_name": "Pennsylvania v Columbia",
+        "match_name": "Salta Basket v La Riojo",
         "betOption": "Head To Head",
-        "start_time": "2026-02-14T00:00:00.000Z"
+        "start_time": "2026-02-14T00:30:00.000Z"
     },
     {
-        "contestant_names": "George Wshington, (1.53) VERSES George Mason, (2.5)",
-        "start_time_aest": "2026-02-14T11:00:00+11:00",
+        "contestant_names": "Wisconsin, (2.1) VERSES Michigan State, (1.74)",
+        "start_time_aest": "2026-02-14T12:00:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "George Wshington",
+                "full_name": "Wisconsin",
                 "position": "HOME",
-                "short_name": "George Wshington"
+                "short_name": "Wisconsin"
             },
             {
-                "full_name": "George Mason",
+                "full_name": "Michigan State",
                 "position": "AWAY",
-                "short_name": "George Mason"
+                "short_name": "Michigan State"
             }
         ],
         "propositions": [
             {
-                "name": "George Wshington",
-                "returnWin": 1.53
+                "name": "Wisconsin",
+                "returnWin": 2.1
             },
             {
-                "name": "George Mason",
-                "returnWin": 2.5
+                "name": "Michigan State",
+                "returnWin": 1.74
             }
         ],
-        "match_name": "George Wshington v George Mason",
+        "match_name": "Wisconsin v Michigan State",
         "betOption": "Head To Head",
-        "start_time": "2026-02-14T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Siena, (1.55) VERSES Quinnipiac, (2.45)",
-        "start_time_aest": "2026-02-14T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Siena",
-                "position": "HOME",
-                "short_name": "Siena"
-            },
-            {
-                "full_name": "Quinnipiac",
-                "position": "AWAY",
-                "short_name": "Quinnipiac"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Siena",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Quinnipiac",
-                "returnWin": 2.45
-            }
-        ],
-        "match_name": "Siena v Quinnipiac",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-14T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Hampton, (2.5) VERSES Towson, (1.5)",
-        "start_time_aest": "2026-02-14T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Hampton",
-                "position": "HOME",
-                "short_name": "Hampton"
-            },
-            {
-                "full_name": "Towson",
-                "position": "AWAY",
-                "short_name": "Towson"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Hampton",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Towson",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Hampton v Towson",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-14T00:00:00.000Z"
+        "start_time": "2026-02-14T01:00:00.000Z"
     }
 ]
