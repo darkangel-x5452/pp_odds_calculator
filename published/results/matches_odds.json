@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Maximo Zeitune, (1.63) VERSES Tomas Farjat, (2.1)",
-        "start_time_aest": "2026-02-16T04:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Maximo Zeitune",
-                "position": "HOME",
-                "short_name": "Zeitune"
-            },
-            {
-                "full_name": "Tomas Farjat",
-                "position": "AWAY",
-                "short_name": "Farjat"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Maximo Zeitune",
-                "returnWin": 1.63
-            },
-            {
-                "name": "Tomas Farjat",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Zeitune v Farjat",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-15T17:15:00.000Z"
-    },
-    {
-        "contestant_names": "Lin Ma, (1.63) VERSES Jamie Loeb, (2.1)",
-        "start_time_aest": "2026-02-16T04:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA 125 Tour",
-        "contestants": [
-            {
-                "full_name": "Lin Ma",
-                "position": "HOME",
-                "short_name": "Ma L"
-            },
-            {
-                "full_name": "Jamie Loeb",
-                "position": "AWAY",
-                "short_name": "Loeb"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Lin Ma",
-                "returnWin": 1.63
-            },
-            {
-                "name": "Jamie Loeb",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Ma L v Loeb",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-15T17:15:00.000Z"
-    },
-    {
         "contestant_names": "Dinamo Bucuresti, (1.7) VERSES Rm Valcea, (2)",
         "start_time_aest": "2026-02-16T04:45:00+11:00",
         "sport_name": "Basketball",
@@ -89,6 +27,37 @@
             }
         ],
         "match_name": "Dinamo Bucuresti v Rm Valcea",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T17:45:00.000Z"
+    },
+    {
+        "contestant_names": "Maximo Zeitune, (1.63) VERSES Tomas Farjat, (2.1)",
+        "start_time_aest": "2026-02-16T04:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Maximo Zeitune",
+                "position": "HOME",
+                "short_name": "Zeitune"
+            },
+            {
+                "full_name": "Tomas Farjat",
+                "position": "AWAY",
+                "short_name": "Farjat"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Maximo Zeitune",
+                "returnWin": 1.63
+            },
+            {
+                "name": "Tomas Farjat",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Zeitune v Farjat",
         "betOption": "Head To Head",
         "start_time": "2026-02-15T17:45:00.000Z"
     },
@@ -151,6 +120,192 @@
             }
         ],
         "match_name": "Blk Slavia Praha v Olomoucko",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Nanterre, (2.1) VERSES Monaco, (1.62)",
+        "start_time_aest": "2026-02-16T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "France LNB Pro A",
+        "contestants": [
+            {
+                "full_name": "Nanterre",
+                "position": "HOME",
+                "short_name": "Nanterre"
+            },
+            {
+                "full_name": "Monaco",
+                "position": "AWAY",
+                "short_name": "Monaco"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nanterre",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Monaco",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Nanterre v Monaco",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Canisius, (2.1) VERSES Manhattan, (1.74)",
+        "start_time_aest": "2026-02-16T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Canisius",
+                "position": "HOME",
+                "short_name": "Canisius"
+            },
+            {
+                "full_name": "Manhattan",
+                "position": "AWAY",
+                "short_name": "Manhattan"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Canisius",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Manhattan",
+                "returnWin": 1.74
+            }
+        ],
+        "match_name": "Canisius v Manhattan",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Nebraska Omaha, (1.65) VERSES Denver, (2.25)",
+        "start_time_aest": "2026-02-16T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Nebraska Omaha",
+                "position": "HOME",
+                "short_name": "Nebraska Omaha"
+            },
+            {
+                "full_name": "Denver",
+                "position": "AWAY",
+                "short_name": "Denver"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nebraska Omaha",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Denver",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Nebraska Omaha v Denver",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Detroit, (2.3) VERSES Youngstown State, (1.62)",
+        "start_time_aest": "2026-02-16T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Detroit",
+                "position": "HOME",
+                "short_name": "Detroit"
+            },
+            {
+                "full_name": "Youngstown State",
+                "position": "AWAY",
+                "short_name": "Youngstown State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Detroit",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Youngstown State",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Detroit v Youngstown State",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Unicaja Malaga, (2.2) VERSES Real Madrid, (1.57)",
+        "start_time_aest": "2026-02-16T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Spain ACB Liga",
+        "contestants": [
+            {
+                "full_name": "Unicaja Malaga",
+                "position": "HOME",
+                "short_name": "Unicaja Malaga"
+            },
+            {
+                "full_name": "Real Madrid",
+                "position": "AWAY",
+                "short_name": "Real Madrid"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Unicaja Malaga",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Real Madrid",
+                "returnWin": 1.57
+            }
+        ],
+        "match_name": "Unicaja Malaga v Real Madrid",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Alexis Galarneau, (1.68) VERSES Stefan Dostanic, (2.05)",
+        "start_time_aest": "2026-02-16T05:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Alexis Galarneau",
+                "position": "HOME",
+                "short_name": "Galarneau"
+            },
+            {
+                "full_name": "Stefan Dostanic",
+                "position": "AWAY",
+                "short_name": "Dostanic"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alexis Galarneau",
+                "returnWin": 1.68
+            },
+            {
+                "name": "Stefan Dostanic",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Galarneau v Dostanic",
         "betOption": "Head To Head",
         "start_time": "2026-02-15T18:00:00.000Z"
     }
