@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Missouri, (1.74) VERSES Texas, (2.1)",
-        "start_time_aest": "2026-02-15T12:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Missouri",
-                "position": "HOME",
-                "short_name": "Missouri"
-            },
-            {
-                "full_name": "Texas",
-                "position": "AWAY",
-                "short_name": "Texas"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Missouri",
-                "returnWin": 1.74
-            },
-            {
-                "name": "Texas",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Missouri v Texas",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-15T01:30:00.000Z"
-    },
-    {
-        "contestant_names": "Georgia Southern, (2.25) VERSES Marshall, (1.65)",
-        "start_time_aest": "2026-02-15T12:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Georgia Southern",
-                "position": "HOME",
-                "short_name": "Georgia Southern"
-            },
-            {
-                "full_name": "Marshall",
-                "position": "AWAY",
-                "short_name": "Marshall"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Georgia Southern",
-                "returnWin": 2.25
-            },
-            {
-                "name": "Marshall",
-                "returnWin": 1.65
-            }
-        ],
-        "match_name": "Georgia Southern v Marshall",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-15T01:30:00.000Z"
-    },
-    {
-        "contestant_names": "LSU, (2.15) VERSES South Carolina, (1.65)",
-        "start_time_aest": "2026-02-15T12:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "LSU",
-                "position": "HOME",
-                "short_name": "LSU"
-            },
-            {
-                "full_name": "South Carolina",
-                "position": "AWAY",
-                "short_name": "South Carolina"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "LSU",
-                "returnWin": 2.15
-            },
-            {
-                "name": "South Carolina",
-                "returnWin": 1.65
-            }
-        ],
-        "match_name": "LSU v South Carolina",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-15T01:30:00.000Z"
-    },
-    {
         "contestant_names": "Montana, (1.74) VERSES Montana State, (2.1)",
         "start_time_aest": "2026-02-15T13:00:00+11:00",
         "sport_name": "Basketball",
@@ -122,5 +29,67 @@
         "match_name": "Montana v Montana State",
         "betOption": "Head To Head",
         "start_time": "2026-02-15T02:00:00.000Z"
+    },
+    {
+        "contestant_names": "United Arab Emirates (W), (1.55) VERSES Nepal (W), (2.4)",
+        "start_time_aest": "2026-02-15T13:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Womens Asia Cup Rising Stars T20",
+        "contestants": [
+            {
+                "full_name": "United Arab Emirates (W)",
+                "position": "HOME",
+                "short_name": "UAE (W)"
+            },
+            {
+                "full_name": "Nepal (W)",
+                "position": "AWAY",
+                "short_name": "Nepal (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "United Arab Emirates (W)",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Nepal (W)",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "UAE (W) v Nepal (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T02:30:00.000Z"
+    },
+    {
+        "contestant_names": "Maori (W), (1.58) VERSES Indigenous (W), (2.35)",
+        "start_time_aest": "2026-02-15T13:30:00+11:00",
+        "sport_name": "Rugby League",
+        "competition_name": "All Star Womens",
+        "contestants": [
+            {
+                "full_name": "Maori (W)",
+                "position": "HOME",
+                "short_name": "Maori (W)"
+            },
+            {
+                "full_name": "Indigenous (W)",
+                "position": "AWAY",
+                "short_name": "Indigenous (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Maori (W)",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Indigenous (W)",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Maori (W) v Indigenous (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T02:30:00.000Z"
     }
 ]
