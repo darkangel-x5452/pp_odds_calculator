@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Northern Arizona, (1.74) VERSES Sacramento State, (2.1)",
-        "start_time_aest": "2026-02-15T12:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Northern Arizona",
-                "position": "HOME",
-                "short_name": "Northern Arizona"
-            },
-            {
-                "full_name": "Sacramento State",
-                "position": "AWAY",
-                "short_name": "Sacramento State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Northern Arizona",
-                "returnWin": 1.74
-            },
-            {
-                "name": "Sacramento State",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Northern Arizona v Sacramento State",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-15T01:00:00.000Z"
-    },
-    {
-        "contestant_names": "Western Kentucky, (1.62) VERSES Middle Tennessee, (2.3)",
-        "start_time_aest": "2026-02-15T12:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Western Kentucky",
-                "position": "HOME",
-                "short_name": "Western Kentucky"
-            },
-            {
-                "full_name": "Middle Tennessee",
-                "position": "AWAY",
-                "short_name": "Middle Tennessee"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Western Kentucky",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Middle Tennessee",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Western Kentucky v Middle Tennessee",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-15T01:00:00.000Z"
-    },
-    {
-        "contestant_names": "CSU Northridge, (2.3) VERSES Hawaii, (1.62)",
-        "start_time_aest": "2026-02-15T12:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "CSU Northridge",
-                "position": "HOME",
-                "short_name": "CSU Northridge"
-            },
-            {
-                "full_name": "Hawaii",
-                "position": "AWAY",
-                "short_name": "Hawaii"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "CSU Northridge",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Hawaii",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "CSU Northridge v Hawaii",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-15T01:00:00.000Z"
-    },
-    {
         "contestant_names": "Missouri, (1.74) VERSES Texas, (2.1)",
         "start_time_aest": "2026-02-15T12:30:00+11:00",
         "sport_name": "Basketball",
@@ -122,5 +29,98 @@
         "match_name": "Missouri v Texas",
         "betOption": "Head To Head",
         "start_time": "2026-02-15T01:30:00.000Z"
+    },
+    {
+        "contestant_names": "Georgia Southern, (2.25) VERSES Marshall, (1.65)",
+        "start_time_aest": "2026-02-15T12:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Georgia Southern",
+                "position": "HOME",
+                "short_name": "Georgia Southern"
+            },
+            {
+                "full_name": "Marshall",
+                "position": "AWAY",
+                "short_name": "Marshall"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Georgia Southern",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Marshall",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Georgia Southern v Marshall",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T01:30:00.000Z"
+    },
+    {
+        "contestant_names": "LSU, (2.15) VERSES South Carolina, (1.65)",
+        "start_time_aest": "2026-02-15T12:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "LSU",
+                "position": "HOME",
+                "short_name": "LSU"
+            },
+            {
+                "full_name": "South Carolina",
+                "position": "AWAY",
+                "short_name": "South Carolina"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "LSU",
+                "returnWin": 2.15
+            },
+            {
+                "name": "South Carolina",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "LSU v South Carolina",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T01:30:00.000Z"
+    },
+    {
+        "contestant_names": "Montana, (1.74) VERSES Montana State, (2.1)",
+        "start_time_aest": "2026-02-15T13:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Montana",
+                "position": "HOME",
+                "short_name": "Montana"
+            },
+            {
+                "full_name": "Montana State",
+                "position": "AWAY",
+                "short_name": "Montana State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Montana",
+                "returnWin": 1.74
+            },
+            {
+                "name": "Montana State",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Montana v Montana State",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T02:00:00.000Z"
     }
 ]
