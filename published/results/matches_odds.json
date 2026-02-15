@@ -1,64 +1,95 @@
 [
     {
-        "contestant_names": "Illinois-Chicago, (1.95) VERSES Illinois State, (1.85)",
-        "start_time_aest": "2026-02-16T07:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "contestant_names": "Stade Francais, (1.55) VERSES Toulouse, (2.35)",
+        "start_time_aest": "2026-02-16T07:05:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "French Top 14",
         "contestants": [
             {
-                "full_name": "Illinois-Chicago",
+                "full_name": "Stade Francais",
                 "position": "HOME",
-                "short_name": "Illinois-Chicago"
+                "short_name": "Stade Francais"
             },
             {
-                "full_name": "Illinois State",
+                "full_name": "Toulouse",
                 "position": "AWAY",
-                "short_name": "Illinois State"
+                "short_name": "Toulouse"
             }
         ],
         "propositions": [
             {
-                "name": "Illinois-Chicago",
-                "returnWin": 1.95
+                "name": "Stade Francais",
+                "returnWin": 1.55
             },
             {
-                "name": "Illinois State",
-                "returnWin": 1.85
+                "name": "Toulouse",
+                "returnWin": 2.35
             }
         ],
-        "match_name": "Illinois-Chicago v Illinois State",
+        "match_name": "Stade Francais v Toulouse",
         "betOption": "Head To Head",
-        "start_time": "2026-02-15T20:00:00.000Z"
+        "start_time": "2026-02-15T20:05:00.000Z"
     },
     {
-        "contestant_names": "Milwaukee, (1.67) VERSES Green Bay, (2.2)",
-        "start_time_aest": "2026-02-16T07:00:00+11:00",
+        "contestant_names": "Alabama, (2.45) VERSES Oklahoma, (1.52)",
+        "start_time_aest": "2026-02-16T08:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "competition_name": "NCAA Basketball Women",
         "contestants": [
             {
-                "full_name": "Milwaukee",
+                "full_name": "Alabama",
                 "position": "HOME",
-                "short_name": "Milwaukee"
+                "short_name": "Alabama"
             },
             {
-                "full_name": "Green Bay",
+                "full_name": "Oklahoma",
                 "position": "AWAY",
-                "short_name": "Green Bay"
+                "short_name": "Oklahoma"
             }
         ],
         "propositions": [
             {
-                "name": "Milwaukee",
-                "returnWin": 1.67
+                "name": "Alabama",
+                "returnWin": 2.45
             },
             {
-                "name": "Green Bay",
-                "returnWin": 2.2
+                "name": "Oklahoma",
+                "returnWin": 1.52
             }
         ],
-        "match_name": "Milwaukee v Green Bay",
+        "match_name": "Alabama v Oklahoma",
         "betOption": "Head To Head",
-        "start_time": "2026-02-15T20:00:00.000Z"
+        "start_time": "2026-02-15T21:00:00.000Z"
+    },
+    {
+        "contestant_names": "Notre Dame, (2.1) VERSES Nth Carolina St, (1.68)",
+        "start_time_aest": "2026-02-16T08:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Notre Dame",
+                "position": "HOME",
+                "short_name": "Notre Dame"
+            },
+            {
+                "full_name": "Nth Carolina St",
+                "position": "AWAY",
+                "short_name": "Nth Carolina St"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Notre Dame",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Nth Carolina St",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Notre Dame v Nth Carolina St",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T21:00:00.000Z"
     }
 ]
