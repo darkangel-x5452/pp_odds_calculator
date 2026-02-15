@@ -1,64 +1,188 @@
 [
     {
-        "contestant_names": "Hallmann Vienna, (1.55) VERSES Redwell Gunners, (2.3)",
-        "start_time_aest": "2026-02-16T03:30:00+11:00",
+        "contestant_names": "TBB Trier, (1.52) VERSES Chemnitz, (2.35)",
+        "start_time_aest": "2026-02-16T04:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Austria Bundesliga",
+        "competition_name": "Germany Bundesliga",
         "contestants": [
             {
-                "full_name": "Hallmann Vienna",
+                "full_name": "TBB Trier",
                 "position": "HOME",
-                "short_name": "Hallmann Vienna"
+                "short_name": "TBB Trier"
             },
             {
-                "full_name": "Redwell Gunners",
+                "full_name": "Chemnitz",
                 "position": "AWAY",
-                "short_name": "Redwell Gunners"
+                "short_name": "Chemnitz"
             }
         ],
         "propositions": [
             {
-                "name": "Hallmann Vienna",
-                "returnWin": 1.55
+                "name": "TBB Trier",
+                "returnWin": 1.52
             },
             {
-                "name": "Redwell Gunners",
-                "returnWin": 2.3
+                "name": "Chemnitz",
+                "returnWin": 2.35
             }
         ],
-        "match_name": "Hallmann Vienna v Redwell Gunners",
+        "match_name": "TBB Trier v Chemnitz",
         "betOption": "Head To Head",
-        "start_time": "2026-02-15T16:30:00.000Z"
+        "start_time": "2026-02-15T17:00:00.000Z"
     },
     {
-        "contestant_names": "Uni Opole (W), (1.58) VERSES BKS Bielsko-Biala (W), (2.25)",
-        "start_time_aest": "2026-02-16T03:30:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Tauron Liga Women",
+        "contestant_names": "Cantu, (1.7) VERSES Aquila Trento, (2)",
+        "start_time_aest": "2026-02-16T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Italy Lega Serie A",
         "contestants": [
             {
-                "full_name": "Uni Opole (W)",
+                "full_name": "Cantu",
                 "position": "HOME",
-                "short_name": "Uni Opole (W)"
+                "short_name": "Cantu"
             },
             {
-                "full_name": "BKS Bielsko-Biala (W)",
+                "full_name": "Aquila Trento",
                 "position": "AWAY",
-                "short_name": "BielskoBiala (W)"
+                "short_name": "Aquila Trento"
             }
         ],
         "propositions": [
             {
-                "name": "Uni Opole (W)",
-                "returnWin": 1.58
+                "name": "Cantu",
+                "returnWin": 1.7
             },
             {
-                "name": "BKS Bielsko-Biala (W)",
-                "returnWin": 2.25
+                "name": "Aquila Trento",
+                "returnWin": 2
             }
         ],
-        "match_name": "Uni Opole (W) v BielskoBiala (W)",
+        "match_name": "Cantu v Aquila Trento",
         "betOption": "Head To Head",
-        "start_time": "2026-02-15T16:30:00.000Z"
+        "start_time": "2026-02-15T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Rutgers, (1.74) VERSES Maryland, (2.1)",
+        "start_time_aest": "2026-02-16T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Rutgers",
+                "position": "HOME",
+                "short_name": "Rutgers"
+            },
+            {
+                "full_name": "Maryland",
+                "position": "AWAY",
+                "short_name": "Maryland"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Rutgers",
+                "returnWin": 1.74
+            },
+            {
+                "name": "Maryland",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Rutgers v Maryland",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Bilbao, (2.15) VERSES Saski Baskonia, (1.6)",
+        "start_time_aest": "2026-02-16T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Spain ACB Liga",
+        "contestants": [
+            {
+                "full_name": "Bilbao",
+                "position": "HOME",
+                "short_name": "Bilbao"
+            },
+            {
+                "full_name": "Saski Baskonia",
+                "position": "AWAY",
+                "short_name": "Saski Baskonia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bilbao",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Saski Baskonia",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Bilbao v Saski Baskonia",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Est Movistar, (1.72) VERSES Leganes, (1.97)",
+        "start_time_aest": "2026-02-16T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Spain Liga Women",
+        "contestants": [
+            {
+                "full_name": "Est Movistar",
+                "position": "HOME",
+                "short_name": "Est Movistar"
+            },
+            {
+                "full_name": "Leganes",
+                "position": "AWAY",
+                "short_name": "Leganes"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Est Movistar",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Leganes",
+                "returnWin": 1.97
+            }
+        ],
+        "match_name": "Est Movistar v Leganes",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Araski AES, (1.95) VERSES IDK Gipuzkoa, (1.73)",
+        "start_time_aest": "2026-02-16T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Spain Liga Women",
+        "contestants": [
+            {
+                "full_name": "Araski AES",
+                "position": "HOME",
+                "short_name": "Araski AES"
+            },
+            {
+                "full_name": "IDK Gipuzkoa",
+                "position": "AWAY",
+                "short_name": "IDK Gipuzkoa"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Araski AES",
+                "returnWin": 1.95
+            },
+            {
+                "name": "IDK Gipuzkoa",
+                "returnWin": 1.73
+            }
+        ],
+        "match_name": "Araski AES v IDK Gipuzkoa",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T17:00:00.000Z"
     }
 ]
