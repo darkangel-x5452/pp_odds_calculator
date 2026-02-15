@@ -1,129 +1,5 @@
 [
     {
-        "contestant_names": "Toros Laguna, (1.55) VERSES Venados Mazatlan, (2.25)",
-        "start_time_aest": "2026-02-15T11:15:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Mexico CIBACOPA",
-        "contestants": [
-            {
-                "full_name": "Toros Laguna",
-                "position": "HOME",
-                "short_name": "Toros Laguna"
-            },
-            {
-                "full_name": "Venados Mazatlan",
-                "position": "AWAY",
-                "short_name": "Venados Mazatlan"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Toros Laguna",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Venados Mazatlan",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Toros Laguna v Venados Mazatlan",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-15T00:15:00.000Z"
-    },
-    {
-        "contestant_names": "Jujuy Basquet, (1.6) VERSES Barrio Parque, (2.15)",
-        "start_time_aest": "2026-02-15T11:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga A",
-        "contestants": [
-            {
-                "full_name": "Jujuy Basquet",
-                "position": "HOME",
-                "short_name": "Jujuy Basquet"
-            },
-            {
-                "full_name": "Barrio Parque",
-                "position": "AWAY",
-                "short_name": "Barrio Parque"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jujuy Basquet",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Barrio Parque",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Jujuy Basquet v Barrio Parque",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-15T00:30:00.000Z"
-    },
-    {
-        "contestant_names": "San Martan, (2.05) VERSES Regatas, (1.66)",
-        "start_time_aest": "2026-02-15T11:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga Nacional de Basket",
-        "contestants": [
-            {
-                "full_name": "San Martan",
-                "position": "HOME",
-                "short_name": "San Martan"
-            },
-            {
-                "full_name": "Regatas",
-                "position": "AWAY",
-                "short_name": "Regatas"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "San Martan",
-                "returnWin": 2.05
-            },
-            {
-                "name": "Regatas",
-                "returnWin": 1.66
-            }
-        ],
-        "match_name": "San Martan v Regatas",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-15T00:30:00.000Z"
-    },
-    {
-        "contestant_names": "UTSA, (2.3) VERSES South Florida, (1.58)",
-        "start_time_aest": "2026-02-15T11:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "UTSA",
-                "position": "HOME",
-                "short_name": "UTSA"
-            },
-            {
-                "full_name": "South Florida",
-                "position": "AWAY",
-                "short_name": "South Florida"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "UTSA",
-                "returnWin": 2.3
-            },
-            {
-                "name": "South Florida",
-                "returnWin": 1.58
-            }
-        ],
-        "match_name": "UTSA v South Florida",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-15T00:30:00.000Z"
-    },
-    {
         "contestant_names": "Northern Arizona, (1.74) VERSES Sacramento State, (2.1)",
         "start_time_aest": "2026-02-15T12:00:00+11:00",
         "sport_name": "Basketball",
@@ -215,5 +91,36 @@
         "match_name": "CSU Northridge v Hawaii",
         "betOption": "Head To Head",
         "start_time": "2026-02-15T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Missouri, (1.74) VERSES Texas, (2.1)",
+        "start_time_aest": "2026-02-15T12:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Missouri",
+                "position": "HOME",
+                "short_name": "Missouri"
+            },
+            {
+                "full_name": "Texas",
+                "position": "AWAY",
+                "short_name": "Texas"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Missouri",
+                "returnWin": 1.74
+            },
+            {
+                "name": "Texas",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Missouri v Texas",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T01:30:00.000Z"
     }
 ]
