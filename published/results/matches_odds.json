@@ -1,1 +1,64 @@
-[]
+[
+    {
+        "contestant_names": "Illinois-Chicago, (1.95) VERSES Illinois State, (1.85)",
+        "start_time_aest": "2026-02-16T07:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Illinois-Chicago",
+                "position": "HOME",
+                "short_name": "Illinois-Chicago"
+            },
+            {
+                "full_name": "Illinois State",
+                "position": "AWAY",
+                "short_name": "Illinois State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Illinois-Chicago",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Illinois State",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Illinois-Chicago v Illinois State",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T20:00:00.000Z"
+    },
+    {
+        "contestant_names": "Milwaukee, (1.67) VERSES Green Bay, (2.2)",
+        "start_time_aest": "2026-02-16T07:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Milwaukee",
+                "position": "HOME",
+                "short_name": "Milwaukee"
+            },
+            {
+                "full_name": "Green Bay",
+                "position": "AWAY",
+                "short_name": "Green Bay"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Milwaukee",
+                "returnWin": 1.67
+            },
+            {
+                "name": "Green Bay",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Milwaukee v Green Bay",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T20:00:00.000Z"
+    }
+]
