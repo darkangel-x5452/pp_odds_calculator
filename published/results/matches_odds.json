@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Escobar/Rojer, (1.55) VERSES Miguel/Heide, (2.35)",
-        "start_time_aest": "2026-02-16T08:15:00+11:00",
+        "start_time_aest": "2026-02-16T08:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP Doubles",
         "contestants": [
@@ -28,7 +28,7 @@
         ],
         "match_name": "Escobar/Rojer v Miguel/Heide",
         "betOption": "Head To Head",
-        "start_time": "2026-02-15T21:15:00.000Z"
+        "start_time": "2026-02-15T21:45:00.000Z"
     },
     {
         "contestant_names": "Campbell, (1.7) VERSES Charleston, (2.15)",
@@ -153,5 +153,67 @@
         "match_name": "USA Stripes v USA Stars",
         "betOption": "Head To Head",
         "start_time": "2026-02-15T22:40:00.000Z"
+    },
+    {
+        "contestant_names": "Butler, (2.35) VERSES Seton Hall, (1.6)",
+        "start_time_aest": "2026-02-16T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Butler",
+                "position": "HOME",
+                "short_name": "Butler"
+            },
+            {
+                "full_name": "Seton Hall",
+                "position": "AWAY",
+                "short_name": "Seton Hall"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Butler",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Seton Hall",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Butler v Seton Hall",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Texas AM, (1.62) VERSES Auburn, (2.2)",
+        "start_time_aest": "2026-02-16T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Texas AM",
+                "position": "HOME",
+                "short_name": "Texas AM"
+            },
+            {
+                "full_name": "Auburn",
+                "position": "AWAY",
+                "short_name": "Auburn"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Texas AM",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Auburn",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Texas AM v Auburn",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T23:00:00.000Z"
     }
 ]
