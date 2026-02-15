@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Team World, (1.55) VERSES USA Stars, (2.45)",
-        "start_time_aest": "2026-02-16T09:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA All Star Game",
-        "contestants": [
-            {
-                "full_name": "Team World",
-                "position": "HOME",
-                "short_name": "Team World"
-            },
-            {
-                "full_name": "USA Stars",
-                "position": "AWAY",
-                "short_name": "USA  Stars"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Team World",
-                "returnWin": 1.55
-            },
-            {
-                "name": "USA Stars",
-                "returnWin": 2.45
-            }
-        ],
-        "match_name": "Team World v USA  Stars",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-15T22:10:00.000Z"
-    },
-    {
-        "contestant_names": "Escobar/Rojer, (1.55) VERSES Miguel/Heide, (2.35)",
-        "start_time_aest": "2026-02-16T09:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "contestants": [
-            {
-                "full_name": "Escobar/Rojer",
-                "position": "HOME",
-                "short_name": "Escobar/Rojer"
-            },
-            {
-                "full_name": "Miguel/Heide",
-                "position": "AWAY",
-                "short_name": "Miguel/Heide"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Escobar/Rojer",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Miguel/Heide",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Escobar/Rojer v Miguel/Heide",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-15T22:15:00.000Z"
-    },
-    {
         "contestant_names": "Team World, (1.65) VERSES USA Stripes, (2.25)",
         "start_time_aest": "2026-02-16T09:40:00+11:00",
         "sport_name": "Basketball",
@@ -122,6 +60,68 @@
         "match_name": "USA Stripes v USA Stars",
         "betOption": "Head To Head",
         "start_time": "2026-02-15T22:40:00.000Z"
+    },
+    {
+        "contestant_names": "Team World, (1.7) VERSES USA Stripes, (2.15)",
+        "start_time_aest": "2026-02-16T09:55:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA All Star Game",
+        "contestants": [
+            {
+                "full_name": "Team World",
+                "position": "HOME",
+                "short_name": "Team World"
+            },
+            {
+                "full_name": "USA Stripes",
+                "position": "AWAY",
+                "short_name": "USA Stripes"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Team World",
+                "returnWin": 1.7
+            },
+            {
+                "name": "USA Stripes",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Team World v USA Stripes",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T22:55:00.000Z"
+    },
+    {
+        "contestant_names": "USA Stripes, (1.72) VERSES USA Stars, (2.1)",
+        "start_time_aest": "2026-02-16T09:56:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA All Star Game",
+        "contestants": [
+            {
+                "full_name": "USA Stripes",
+                "position": "HOME",
+                "short_name": "USA Stripes"
+            },
+            {
+                "full_name": "USA Stars",
+                "position": "AWAY",
+                "short_name": "USA Stars"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "USA Stripes",
+                "returnWin": 1.72
+            },
+            {
+                "name": "USA Stars",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "USA Stripes v USA Stars",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T22:56:00.000Z"
     },
     {
         "contestant_names": "Butler, (2.35) VERSES Seton Hall, (1.6)",
