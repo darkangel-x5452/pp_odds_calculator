@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Koshigaya Alphas, (2) VERSES Shibuya Sun Rock, (1.7)",
-        "start_time_aest": "2026-02-15T17:05:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Japan B League",
-        "contestants": [
-            {
-                "full_name": "Koshigaya Alphas",
-                "position": "HOME",
-                "short_name": "Koshigaya Alphas"
-            },
-            {
-                "full_name": "Shibuya Sun Rock",
-                "position": "AWAY",
-                "short_name": "Shibuya Sun Rock"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Koshigaya Alphas",
-                "returnWin": 2
-            },
-            {
-                "name": "Shibuya Sun Rock",
-                "returnWin": 1.7
-            }
-        ],
-        "match_name": "Koshigaya Alphas v Shibuya Sun Rock",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-15T06:05:00.000Z"
-    },
-    {
-        "contestant_names": "Ehime Orange, (2.4) VERSES Yokohama Exc, (1.48)",
-        "start_time_aest": "2026-02-15T17:05:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Japan B League 2",
-        "contestants": [
-            {
-                "full_name": "Ehime Orange",
-                "position": "HOME",
-                "short_name": "Ehime Orange"
-            },
-            {
-                "full_name": "Yokohama Exc",
-                "position": "AWAY",
-                "short_name": "Yokohama Exc"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ehime Orange",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Yokohama Exc",
-                "returnWin": 1.48
-            }
-        ],
-        "match_name": "Ehime Orange v Yokohama Exc",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-15T06:05:00.000Z"
-    },
-    {
-        "contestant_names": "Alexander Donski, (1.63) VERSES Prajwal Dev S D, (2.1)",
-        "start_time_aest": "2026-02-15T17:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Alexander Donski",
-                "position": "HOME",
-                "short_name": "Donski"
-            },
-            {
-                "full_name": "Prajwal Dev S D",
-                "position": "AWAY",
-                "short_name": "Prajwal Dev"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Alexander Donski",
-                "returnWin": 1.63
-            },
-            {
-                "name": "Prajwal Dev S D",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Donski v Prajwal Dev",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-15T06:15:00.000Z"
-    },
-    {
         "contestant_names": "FE Nagoya, (1.5) VERSES Yokohama, (2.35)",
         "start_time_aest": "2026-02-15T17:35:00+11:00",
         "sport_name": "Basketball",
@@ -122,6 +29,37 @@
         "match_name": "FE Nagoya v Yokohama",
         "betOption": "Head To Head",
         "start_time": "2026-02-15T06:35:00.000Z"
+    },
+    {
+        "contestant_names": "Alexander Donski, (1.63) VERSES Prajwal Dev S D, (2.1)",
+        "start_time_aest": "2026-02-15T17:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Alexander Donski",
+                "position": "HOME",
+                "short_name": "Donski"
+            },
+            {
+                "full_name": "Prajwal Dev S D",
+                "position": "AWAY",
+                "short_name": "Prajwal Dev"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alexander Donski",
+                "returnWin": 1.63
+            },
+            {
+                "name": "Prajwal Dev S D",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Donski v Prajwal Dev",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T06:45:00.000Z"
     },
     {
         "contestant_names": "Woori Bank Won, (2.1) VERSES Samsung Blue Min, (1.62)",
@@ -246,5 +184,67 @@
         "match_name": "Perez/Schuurs v Xu/Yang",
         "betOption": "Head To Head",
         "start_time": "2026-02-15T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Cronulla, (2.25) VERSES Parramatta, (1.65)",
+        "start_time_aest": "2026-02-15T18:01:00+11:00",
+        "sport_name": "Rugby League",
+        "competition_name": "NRL Preseason Challenge",
+        "contestants": [
+            {
+                "full_name": "Cronulla",
+                "position": "HOME",
+                "short_name": "Cronulla"
+            },
+            {
+                "full_name": "Parramatta",
+                "position": "AWAY",
+                "short_name": "Parramatta"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Cronulla",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Parramatta",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Cronulla v Parramatta",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T07:01:00.000Z"
+    },
+    {
+        "contestant_names": "Korea Gas Corpr, (1.55) VERSES Seoul Thunders, (2.25)",
+        "start_time_aest": "2026-02-15T18:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "South Korea KBL",
+        "contestants": [
+            {
+                "full_name": "Korea Gas Corpr",
+                "position": "HOME",
+                "short_name": "Korea Gas Corpr"
+            },
+            {
+                "full_name": "Seoul Thunders",
+                "position": "AWAY",
+                "short_name": "Seoul Thunders"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Korea Gas Corpr",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Seoul Thunders",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Korea Gas Corpr v Seoul Thunders",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-15T07:30:00.000Z"
     }
 ]
