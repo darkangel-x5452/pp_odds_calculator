@@ -1,69 +1,7 @@
 [
     {
-        "contestant_names": "Natus Vincere, (1.95) VERSES Fnatic, (1.75)",
-        "start_time_aest": "2026-02-17T02:45:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "League of Legends",
-        "contestants": [
-            {
-                "full_name": "Natus Vincere",
-                "position": "HOME",
-                "short_name": "Natus Vincere"
-            },
-            {
-                "full_name": "Fnatic",
-                "position": "AWAY",
-                "short_name": "Fnatic"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Natus Vincere",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Fnatic",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Natus Vincere v Fnatic",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-16T15:45:00.000Z"
-    },
-    {
-        "contestant_names": "Jaqueline Cristian, (1.75) VERSES Petra Marcinko, (2.05)",
-        "start_time_aest": "2026-02-17T02:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestants": [
-            {
-                "full_name": "Jaqueline Cristian",
-                "position": "HOME",
-                "short_name": "Cristian"
-            },
-            {
-                "full_name": "Petra Marcinko",
-                "position": "AWAY",
-                "short_name": "Marcinko P"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jaqueline Cristian",
-                "returnWin": 1.75
-            },
-            {
-                "name": "Petra Marcinko",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Cristian v Marcinko P",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-16T15:45:00.000Z"
-    },
-    {
         "contestant_names": "Natan Rodrigues, (1.52) VERSES Juan Sebastian Osorio, (2.3)",
-        "start_time_aest": "2026-02-17T03:00:00+11:00",
+        "start_time_aest": "2026-02-17T03:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -90,7 +28,7 @@
         ],
         "match_name": "Rodrigues v Osorio",
         "betOption": "Head To Head",
-        "start_time": "2026-02-16T16:00:00.000Z"
+        "start_time": "2026-02-16T16:15:00.000Z"
     },
     {
         "contestant_names": "Slovan Bratislav, (1.55) VERSES BC Prievidza, (2.25)",
@@ -153,5 +91,191 @@
         "match_name": "Tsygourova v Mpetshi Perricrd",
         "betOption": "Head To Head",
         "start_time": "2026-02-16T16:30:00.000Z"
+    },
+    {
+        "contestant_names": "Hapoel Haemek, (1.66) VERSES Bnei Herzeliya, (2.05)",
+        "start_time_aest": "2026-02-17T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Israel Cup",
+        "contestants": [
+            {
+                "full_name": "Hapoel Haemek",
+                "position": "HOME",
+                "short_name": "Hapoel Haemek"
+            },
+            {
+                "full_name": "Bnei Herzeliya",
+                "position": "AWAY",
+                "short_name": "Bnei Herzeliya"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hapoel Haemek",
+                "returnWin": 1.66
+            },
+            {
+                "name": "Bnei Herzeliya",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Hapoel Haemek v Bnei Herzeliya",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-16T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Petah Tikva, (1.95) VERSES Elitzur Holon, (1.73)",
+        "start_time_aest": "2026-02-17T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Israel Premier League Women",
+        "contestants": [
+            {
+                "full_name": "Petah Tikva",
+                "position": "HOME",
+                "short_name": "Petah Tikva"
+            },
+            {
+                "full_name": "Elitzur Holon",
+                "position": "AWAY",
+                "short_name": "Elitzur Holon"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Petah Tikva",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Elitzur Holon",
+                "returnWin": 1.73
+            }
+        ],
+        "match_name": "Petah Tikva v Elitzur Holon",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-16T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Maccabi Karmiel, (1.57) VERSES HapLev Jerusalem, (2.2)",
+        "start_time_aest": "2026-02-17T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Israel Premier League Women",
+        "contestants": [
+            {
+                "full_name": "Maccabi Karmiel",
+                "position": "HOME",
+                "short_name": "Maccabi Karmiel"
+            },
+            {
+                "full_name": "HapLev Jerusalem",
+                "position": "AWAY",
+                "short_name": "HapLev Jerusalem"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Maccabi Karmiel",
+                "returnWin": 1.57
+            },
+            {
+                "name": "HapLev Jerusalem",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Maccabi Karmiel v HapLev Jerusalem",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-16T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Nebraska, (2.35) VERSES Iowa, (1.55)",
+        "start_time_aest": "2026-02-17T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Nebraska",
+                "position": "HOME",
+                "short_name": "Nebraska"
+            },
+            {
+                "full_name": "Iowa",
+                "position": "AWAY",
+                "short_name": "Iowa"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nebraska",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Iowa",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Nebraska v Iowa",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-16T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Darussafaka, (1.73) VERSES Goztepe, (1.95)",
+        "start_time_aest": "2026-02-17T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Turkey TBL",
+        "contestants": [
+            {
+                "full_name": "Darussafaka",
+                "position": "HOME",
+                "short_name": "Darussafaka"
+            },
+            {
+                "full_name": "Goztepe",
+                "position": "AWAY",
+                "short_name": "Goztepe"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Darussafaka",
+                "returnWin": 1.73
+            },
+            {
+                "name": "Goztepe",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Darussafaka v Goztepe",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-16T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Phoenix Cricketers, (1.8) VERSES Super Kings, (2)",
+        "start_time_aest": "2026-02-17T04:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Falcons Champions Trophy T20",
+        "contestants": [
+            {
+                "full_name": "Phoenix Cricketers",
+                "position": "HOME",
+                "short_name": "Phoenix Crickete"
+            },
+            {
+                "full_name": "Super Kings",
+                "position": "AWAY",
+                "short_name": "Super Kings"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Phoenix Cricketers",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Super Kings",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Phoenix Crickete v Super Kings",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-16T17:00:00.000Z"
     }
 ]
