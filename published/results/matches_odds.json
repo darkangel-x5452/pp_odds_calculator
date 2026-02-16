@@ -1,69 +1,7 @@
 [
     {
-        "contestant_names": "Lorenzo Joaquin Rodriguez, (2.1) VERSES Joaquin Aguilar Cardozo, (1.63)",
-        "start_time_aest": "2026-02-17T04:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Lorenzo Joaquin Rodriguez",
-                "position": "HOME",
-                "short_name": "Rodriguez LJ"
-            },
-            {
-                "full_name": "Joaquin Aguilar Cardozo",
-                "position": "AWAY",
-                "short_name": "Cardozo J"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Lorenzo Joaquin Rodriguez",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Joaquin Aguilar Cardozo",
-                "returnWin": 1.63
-            }
-        ],
-        "match_name": "Rodriguez LJ v Cardozo J",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-16T17:15:00.000Z"
-    },
-    {
-        "contestant_names": "Dominguez, (1.7) VERSES Dalayna Hewitt, (2)",
-        "start_time_aest": "2026-02-17T04:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA 125 Tour",
-        "contestants": [
-            {
-                "full_name": "Dominguez",
-                "position": "HOME",
-                "short_name": "Dominguez"
-            },
-            {
-                "full_name": "Dalayna Hewitt",
-                "position": "AWAY",
-                "short_name": "Hewitt D"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Dominguez",
-                "returnWin": 1.7
-            },
-            {
-                "name": "Dalayna Hewitt",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Dominguez v Hewitt D",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-16T17:15:00.000Z"
-    },
-    {
         "contestant_names": "Vitality, (2.35) VERSES Movistar, (1.52)",
-        "start_time_aest": "2026-02-17T04:30:00+11:00",
+        "start_time_aest": "2026-02-17T04:40:00+11:00",
         "sport_name": "Esports",
         "competition_name": "League of Legends",
         "contestants": [
@@ -90,11 +28,11 @@
         ],
         "match_name": "Vitality v Movistar",
         "betOption": "Head To Head",
-        "start_time": "2026-02-16T17:30:00.000Z"
+        "start_time": "2026-02-16T17:40:00.000Z"
     },
     {
-        "contestant_names": "Nuno Borges, (1.75) VERSES Coleman Wong, (2.05)",
-        "start_time_aest": "2026-02-17T04:30:00+11:00",
+        "contestant_names": "Nuno Borges, (1.7) VERSES Coleman Wong, (2.1)",
+        "start_time_aest": "2026-02-17T04:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP",
         "contestants": [
@@ -112,20 +50,20 @@
         "propositions": [
             {
                 "name": "Nuno Borges",
-                "returnWin": 1.75
+                "returnWin": 1.7
             },
             {
                 "name": "Coleman Wong",
-                "returnWin": 2.05
+                "returnWin": 2.1
             }
         ],
         "match_name": "Borges N v Wong C",
         "betOption": "Head To Head",
-        "start_time": "2026-02-16T17:30:00.000Z"
+        "start_time": "2026-02-16T17:45:00.000Z"
     },
     {
-        "contestant_names": "Luca Van Assche, (1.6) VERSES Leandro Riedi, (2.2)",
-        "start_time_aest": "2026-02-17T04:30:00+11:00",
+        "contestant_names": "Luca Van Assche, (1.55) VERSES Leandro Riedi, (2.3)",
+        "start_time_aest": "2026-02-17T04:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -143,16 +81,16 @@
         "propositions": [
             {
                 "name": "Luca Van Assche",
-                "returnWin": 1.6
+                "returnWin": 1.55
             },
             {
                 "name": "Leandro Riedi",
-                "returnWin": 2.2
+                "returnWin": 2.3
             }
         ],
         "match_name": "Van Assche v Riedi",
         "betOption": "Head To Head",
-        "start_time": "2026-02-16T17:30:00.000Z"
+        "start_time": "2026-02-16T17:45:00.000Z"
     },
     {
         "contestant_names": "Patrick Kypson, (1.65) VERSES Terence Atmane, (2.15)",
@@ -246,5 +184,36 @@
         "match_name": "Ayeni v Vales A",
         "betOption": "Head To Head",
         "start_time": "2026-02-16T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "South Korea (W), (1.66) VERSES China (W), (2.1)",
+        "start_time_aest": "2026-02-17T05:05:00+11:00",
+        "sport_name": "Winter Olympics",
+        "competition_name": "Curling - Womens",
+        "contestants": [
+            {
+                "full_name": "South Korea (W)",
+                "position": "HOME",
+                "short_name": "South Korea"
+            },
+            {
+                "full_name": "China (W)",
+                "position": "AWAY",
+                "short_name": "China"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "South Korea (W)",
+                "returnWin": 1.66
+            },
+            {
+                "name": "China (W)",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "South Korea v China",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-16T18:05:00.000Z"
     }
 ]
