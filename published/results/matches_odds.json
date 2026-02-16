@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Max Houkes, (2.1) VERSES Calvin Hemery, (1.63)",
-        "start_time_aest": "2026-02-16T21:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Max Houkes",
-                "position": "HOME",
-                "short_name": "Houkes"
-            },
-            {
-                "full_name": "Calvin Hemery",
-                "position": "AWAY",
-                "short_name": "Hemery"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Max Houkes",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Calvin Hemery",
-                "returnWin": 1.63
-            }
-        ],
-        "match_name": "Houkes v Hemery",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-16T10:15:00.000Z"
-    },
-    {
-        "contestant_names": "Rasheeda McAdoo, (1.65) VERSES Iva Primorac, (2.1)",
-        "start_time_aest": "2026-02-16T21:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Rasheeda McAdoo",
-                "position": "HOME",
-                "short_name": "McAdoo"
-            },
-            {
-                "full_name": "Iva Primorac",
-                "position": "AWAY",
-                "short_name": "Primorac"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Rasheeda McAdoo",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Iva Primorac",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "McAdoo v Primorac",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-16T10:30:00.000Z"
-    },
-    {
         "contestant_names": "Clara Vlasselaer, (1.65) VERSES Valentina Ivanov, (2.1)",
         "start_time_aest": "2026-02-16T21:45:00+11:00",
         "sport_name": "Tennis",
@@ -215,5 +153,36 @@
         "match_name": "Uchijima v Zakharova A",
         "betOption": "Head To Head",
         "start_time": "2026-02-16T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Amelia Rajecki, (1.72) VERSES Lina Glushko, (2)",
+        "start_time_aest": "2026-02-16T22:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Amelia Rajecki",
+                "position": "HOME",
+                "short_name": "Rajecki A"
+            },
+            {
+                "full_name": "Lina Glushko",
+                "position": "AWAY",
+                "short_name": "Glushko L"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Amelia Rajecki",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Lina Glushko",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Rajecki A v Glushko L",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-16T11:30:00.000Z"
     }
 ]
