@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Boston Uni, (2.2) VERSES Colgate, (1.67)",
-        "start_time_aest": "2026-02-17T10:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Boston Uni",
-                "position": "HOME",
-                "short_name": "Boston Uni"
-            },
-            {
-                "full_name": "Colgate",
-                "position": "AWAY",
-                "short_name": "Colgate"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Boston Uni",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Colgate",
-                "returnWin": 1.67
-            }
-        ],
-        "match_name": "Boston Uni v Colgate",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-16T23:00:00.000Z"
-    },
-    {
         "contestant_names": "Adelaide, (2.35) VERSES Tweed Heads, (1.55)",
         "start_time_aest": "2026-02-17T10:15:00+11:00",
         "sport_name": "Lawn Bowls",
@@ -244,6 +213,37 @@
             }
         ],
         "match_name": "Prairie View AM v Grambling State",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-17T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "MarylandEstnShre, (2.05) VERSES Norfolk St, (1.77)",
+        "start_time_aest": "2026-02-17T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "MarylandEstnShre",
+                "position": "HOME",
+                "short_name": "MarylandEstnShre"
+            },
+            {
+                "full_name": "Norfolk St",
+                "position": "AWAY",
+                "short_name": "Norfolk St"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "MarylandEstnShre",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Norfolk St",
+                "returnWin": 1.77
+            }
+        ],
+        "match_name": "MarylandEstnShre v Norfolk St",
         "betOption": "Head To Head",
         "start_time": "2026-02-17T00:00:00.000Z"
     }
