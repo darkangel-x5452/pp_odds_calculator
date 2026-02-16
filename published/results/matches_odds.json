@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Luca Castelnuovo, (1.48) VERSES Alexandr Binda, (2.4)",
-        "start_time_aest": "2026-02-16T16:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Luca Castelnuovo",
-                "position": "HOME",
-                "short_name": "Casteluovo"
-            },
-            {
-                "full_name": "Alexandr Binda",
-                "position": "AWAY",
-                "short_name": "Binda A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Luca Castelnuovo",
-                "returnWin": 1.48
-            },
-            {
-                "name": "Alexandr Binda",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Casteluovo v Binda A",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-16T05:45:00.000Z"
-    },
-    {
-        "contestant_names": "Leylah Annie Fernandez, (1.7) VERSES Janice Tjen, (2.1)",
-        "start_time_aest": "2026-02-16T17:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestants": [
-            {
-                "full_name": "Leylah Annie Fernandez",
-                "position": "HOME",
-                "short_name": "Fernandez L"
-            },
-            {
-                "full_name": "Janice Tjen",
-                "position": "AWAY",
-                "short_name": "Tjen"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Leylah Annie Fernandez",
-                "returnWin": 1.7
-            },
-            {
-                "name": "Janice Tjen",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Fernandez L v Tjen",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-16T06:00:00.000Z"
-    },
-    {
         "contestant_names": "Adelaide, (2.25) VERSES Melb Pulse, (1.6)",
         "start_time_aest": "2026-02-16T17:45:00+11:00",
         "sport_name": "Lawn Bowls",
@@ -401,5 +339,36 @@
         "match_name": "Seoul KIXX (W) v Hyundai (W)",
         "betOption": "Head To Head",
         "start_time": "2026-02-16T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "FaZe, (2.2) VERSES PARIVISION, (1.6)",
+        "start_time_aest": "2026-02-16T19:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "contestants": [
+            {
+                "full_name": "FaZe",
+                "position": "HOME",
+                "short_name": "FaZe"
+            },
+            {
+                "full_name": "PARIVISION",
+                "position": "AWAY",
+                "short_name": "PARIVISION"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "FaZe",
+                "returnWin": 2.2
+            },
+            {
+                "name": "PARIVISION",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "FaZe v PARIVISION",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-16T08:00:00.000Z"
     }
 ]
