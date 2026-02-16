@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Jannik Opitz, (1.48) VERSES Jesse De Jager, (2.45)",
-        "start_time_aest": "2026-02-16T19:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Jannik Opitz",
-                "position": "HOME",
-                "short_name": "Opitz"
-            },
-            {
-                "full_name": "Jesse De Jager",
-                "position": "AWAY",
-                "short_name": "De Jager"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jannik Opitz",
-                "returnWin": 1.48
-            },
-            {
-                "name": "Jesse De Jager",
-                "returnWin": 2.45
-            }
-        ],
-        "match_name": "Opitz v De Jager",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-16T08:45:00.000Z"
-    },
-    {
-        "contestant_names": "Anna Ceuca, (2.05) VERSES Anastasiia Firman, (1.68)",
-        "start_time_aest": "2026-02-16T19:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Anna Ceuca",
-                "position": "HOME",
-                "short_name": "Ceuca"
-            },
-            {
-                "full_name": "Anastasiia Firman",
-                "position": "AWAY",
-                "short_name": "Firman"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Anna Ceuca",
-                "returnWin": 2.05
-            },
-            {
-                "name": "Anastasiia Firman",
-                "returnWin": 1.68
-            }
-        ],
-        "match_name": "Ceuca v Firman",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-16T08:45:00.000Z"
-    },
-    {
-        "contestant_names": "Nicolas Parizzia, (1.55) VERSES Jan Jermar, (2.3)",
-        "start_time_aest": "2026-02-16T20:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Nicolas Parizzia",
-                "position": "HOME",
-                "short_name": "Parizzia"
-            },
-            {
-                "full_name": "Jan Jermar",
-                "position": "AWAY",
-                "short_name": "Jermar"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Nicolas Parizzia",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Jan Jermar",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Parizzia v Jermar",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-16T09:00:00.000Z"
-    },
-    {
         "contestant_names": "Oliver Crawford, (2.1) VERSES Duje Ajdukovic, (1.65)",
         "start_time_aest": "2026-02-16T20:30:00+11:00",
         "sport_name": "Tennis",
@@ -151,6 +58,37 @@
             }
         ],
         "match_name": "Houkes v Hemery",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-16T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Sophia Biolay, (2.15) VERSES Celia Cervino Ruiz, (1.62)",
+        "start_time_aest": "2026-02-16T21:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Sophia Biolay",
+                "position": "HOME",
+                "short_name": "Biolay"
+            },
+            {
+                "full_name": "Celia Cervino Ruiz",
+                "position": "AWAY",
+                "short_name": "Cervino Ruiz"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sophia Biolay",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Celia Cervino Ruiz",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Biolay v Cervino Ruiz",
         "betOption": "Head To Head",
         "start_time": "2026-02-16T10:00:00.000Z"
     }
