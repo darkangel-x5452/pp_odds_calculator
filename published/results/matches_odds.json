@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Sebastian Ofner, (2.5) VERSES Hugo Gaston, (1.46)",
-        "start_time_aest": "2026-02-17T07:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Sebastian Ofner",
-                "position": "HOME",
-                "short_name": "Ofner S"
-            },
-            {
-                "full_name": "Hugo Gaston",
-                "position": "AWAY",
-                "short_name": "Gaston"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sebastian Ofner",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Hugo Gaston",
-                "returnWin": 1.46
-            }
-        ],
-        "match_name": "Ofner S v Gaston",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-16T20:15:00.000Z"
-    },
-    {
         "contestant_names": "Dusan Lajovic, (2.05) VERSES Daniel Altmaier, (1.75)",
         "start_time_aest": "2026-02-17T08:00:00+11:00",
         "sport_name": "Tennis",
@@ -306,6 +275,37 @@
             }
         ],
         "match_name": "Melbourne v Moreton Bay",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-16T22:00:00.000Z"
+    },
+    {
+        "contestant_names": "Gustavo Heide, (2.15) VERSES Vit Kopriva, (1.65)",
+        "start_time_aest": "2026-02-17T09:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "contestants": [
+            {
+                "full_name": "Gustavo Heide",
+                "position": "HOME",
+                "short_name": "Heide"
+            },
+            {
+                "full_name": "Vit Kopriva",
+                "position": "AWAY",
+                "short_name": "Kopriva"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Gustavo Heide",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Vit Kopriva",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Heide v Kopriva",
         "betOption": "Head To Head",
         "start_time": "2026-02-16T22:00:00.000Z"
     }
