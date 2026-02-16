@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Kepco Vixtorm, (1.72) VERSES KB Stars, (2)",
-        "start_time_aest": "2026-02-16T16:00:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "South Korea V League",
-        "contestants": [
-            {
-                "full_name": "Kepco Vixtorm",
-                "position": "HOME",
-                "short_name": "Kepco Vixtorm"
-            },
-            {
-                "full_name": "KB Stars",
-                "position": "AWAY",
-                "short_name": "KB Stars"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Kepco Vixtorm",
-                "returnWin": 1.72
-            },
-            {
-                "name": "KB Stars",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Kepco Vixtorm v KB Stars",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-16T05:00:00.000Z"
-    },
-    {
         "contestant_names": "Melb Extreme, (2.15) VERSES Tweed Heads, (1.65)",
         "start_time_aest": "2026-02-16T16:30:00+11:00",
         "sport_name": "Lawn Bowls",
@@ -585,6 +554,37 @@
             }
         ],
         "match_name": "Gracheva v Sramkova",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-16T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Elena-Gabriela Ruse, (2.4) VERSES Emma Navarro, (1.52)",
+        "start_time_aest": "2026-02-16T18:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "contestants": [
+            {
+                "full_name": "Elena-Gabriela Ruse",
+                "position": "HOME",
+                "short_name": "Ruse E"
+            },
+            {
+                "full_name": "Emma Navarro",
+                "position": "AWAY",
+                "short_name": "Navarro E"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Elena-Gabriela Ruse",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Emma Navarro",
+                "returnWin": 1.52
+            }
+        ],
+        "match_name": "Ruse E v Navarro E",
         "betOption": "Head To Head",
         "start_time": "2026-02-16T07:00:00.000Z"
     }
