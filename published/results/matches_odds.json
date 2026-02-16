@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Sean Cuenin, (1.52) VERSES Loann Massard, (2.3)",
-        "start_time_aest": "2026-02-16T23:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Sean Cuenin",
-                "position": "HOME",
-                "short_name": "Cuenin S"
-            },
-            {
-                "full_name": "Loann Massard",
-                "position": "AWAY",
-                "short_name": "Massard"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sean Cuenin",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Loann Massard",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Cuenin S v Massard",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-16T12:15:00.000Z"
-    },
-    {
-        "contestant_names": "Mikhail Kukushkin, (1.63) VERSES Hynek Barton, (2.1)",
-        "start_time_aest": "2026-02-16T23:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Mikhail Kukushkin",
-                "position": "HOME",
-                "short_name": "Kukushkin"
-            },
-            {
-                "full_name": "Hynek Barton",
-                "position": "AWAY",
-                "short_name": "Barton H"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Mikhail Kukushkin",
-                "returnWin": 1.63
-            },
-            {
-                "name": "Hynek Barton",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Kukushkin v Barton H",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-16T12:15:00.000Z"
-    },
-    {
         "contestant_names": "Jonas Pelle Hartenstein, (1.58) VERSES Jeremy Schifris, (2.25)",
         "start_time_aest": "2026-02-16T23:45:00+11:00",
         "sport_name": "Tennis",
@@ -215,5 +153,36 @@
         "match_name": "Kazionova v Lew Yan Foon",
         "betOption": "Head To Head",
         "start_time": "2026-02-16T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Sweden, (1.68) VERSES Germany, (2.05)",
+        "start_time_aest": "2026-02-17T00:05:00+11:00",
+        "sport_name": "Winter Olympics",
+        "competition_name": "Curling - Mens",
+        "contestants": [
+            {
+                "full_name": "Sweden",
+                "position": "HOME",
+                "short_name": "Sweden"
+            },
+            {
+                "full_name": "Germany",
+                "position": "AWAY",
+                "short_name": "Germany"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sweden",
+                "returnWin": 1.68
+            },
+            {
+                "name": "Germany",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Sweden v Germany",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-16T13:05:00.000Z"
     }
 ]
