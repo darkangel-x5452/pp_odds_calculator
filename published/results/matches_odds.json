@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Team World, (1.6) VERSES USA Stripes, (2.35)",
-        "start_time_aest": "2026-02-16T10:05:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA All Star Game",
-        "contestants": [
-            {
-                "full_name": "Team World",
-                "position": "HOME",
-                "short_name": "Team World"
-            },
-            {
-                "full_name": "USA Stripes",
-                "position": "AWAY",
-                "short_name": "USA Stripes"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Team World",
-                "returnWin": 1.6
-            },
-            {
-                "name": "USA Stripes",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Team World v USA Stripes",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-15T23:05:00.000Z"
-    },
-    {
-        "contestant_names": "Deportivo Viedma, (2.3) VERSES Lanus, (1.52)",
-        "start_time_aest": "2026-02-16T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga A",
-        "contestants": [
-            {
-                "full_name": "Deportivo Viedma",
-                "position": "HOME",
-                "short_name": "Deportivo Viedma"
-            },
-            {
-                "full_name": "Lanus",
-                "position": "AWAY",
-                "short_name": "Lanus"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Deportivo Viedma",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Lanus",
-                "returnWin": 1.52
-            }
-        ],
-        "match_name": "Deportivo Viedma v Lanus",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-16T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Monmouth, (1.85) VERSES Towson, (1.95)",
-        "start_time_aest": "2026-02-16T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Monmouth",
-                "position": "HOME",
-                "short_name": "Monmouth"
-            },
-            {
-                "full_name": "Towson",
-                "position": "AWAY",
-                "short_name": "Towson"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Monmouth",
-                "returnWin": 1.85
-            },
-            {
-                "name": "Towson",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Monmouth v Towson",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-16T00:00:00.000Z"
-    },
-    {
         "contestant_names": "Colon, (2.05) VERSES Villa San Martin, (1.66)",
         "start_time_aest": "2026-02-16T11:30:00+11:00",
         "sport_name": "Basketball",
@@ -401,5 +308,36 @@
         "match_name": "Perth v Melbourne",
         "betOption": "Head To Head",
         "start_time": "2026-02-16T01:30:00.000Z"
+    },
+    {
+        "contestant_names": "Sydney Lions, (1.55) VERSES Perth, (2.35)",
+        "start_time_aest": "2026-02-16T13:45:00+11:00",
+        "sport_name": "Lawn Bowls",
+        "competition_name": "Bowls Premier League",
+        "contestants": [
+            {
+                "full_name": "Sydney Lions",
+                "position": "HOME",
+                "short_name": "Sydney Lions"
+            },
+            {
+                "full_name": "Perth",
+                "position": "AWAY",
+                "short_name": "Perth"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sydney Lions",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Perth",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Sydney Lions v Perth",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-16T02:45:00.000Z"
     }
 ]
