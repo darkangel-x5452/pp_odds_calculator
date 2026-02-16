@@ -1,129 +1,5 @@
 [
     {
-        "contestant_names": "Sweden (W), (2.2) VERSES Switzerland (W), (1.62)",
-        "start_time_aest": "2026-02-16T19:05:00+11:00",
-        "sport_name": "Winter Olympics",
-        "competition_name": "Curling - Womens",
-        "contestants": [
-            {
-                "full_name": "Sweden (W)",
-                "position": "HOME",
-                "short_name": "Sweden"
-            },
-            {
-                "full_name": "Switzerland (W)",
-                "position": "AWAY",
-                "short_name": "Switzerland"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sweden (W)",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Switzerland (W)",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Sweden v Switzerland",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-16T08:05:00.000Z"
-    },
-    {
-        "contestant_names": "Denmark (W), (1.62) VERSES Great Britain (W), (2.2)",
-        "start_time_aest": "2026-02-16T19:05:00+11:00",
-        "sport_name": "Winter Olympics",
-        "competition_name": "Curling - Womens",
-        "contestants": [
-            {
-                "full_name": "Denmark (W)",
-                "position": "HOME",
-                "short_name": "Denmark"
-            },
-            {
-                "full_name": "Great Britain (W)",
-                "position": "AWAY",
-                "short_name": "Great Britain"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Denmark (W)",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Great Britain (W)",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Denmark v Great Britain",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-16T08:05:00.000Z"
-    },
-    {
-        "contestant_names": "Julia Adams, (2.15) VERSES Aneta Laboutkova, (1.62)",
-        "start_time_aest": "2026-02-16T19:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Julia Adams",
-                "position": "HOME",
-                "short_name": "Adams"
-            },
-            {
-                "full_name": "Aneta Laboutkova",
-                "position": "AWAY",
-                "short_name": "Laboutkova A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Julia Adams",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Aneta Laboutkova",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Adams v Laboutkova A",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-16T08:30:00.000Z"
-    },
-    {
-        "contestant_names": "Jannik Opitz, (1.48) VERSES Jesse De Jager, (2.45)",
-        "start_time_aest": "2026-02-16T19:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Jannik Opitz",
-                "position": "HOME",
-                "short_name": "Opitz"
-            },
-            {
-                "full_name": "Jesse De Jager",
-                "position": "AWAY",
-                "short_name": "De Jager"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jannik Opitz",
-                "returnWin": 1.48
-            },
-            {
-                "name": "Jesse De Jager",
-                "returnWin": 2.45
-            }
-        ],
-        "match_name": "Opitz v De Jager",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-16T08:30:00.000Z"
-    },
-    {
         "contestant_names": "Jannik Opitz, (1.48) VERSES Jesse De Jager, (2.45)",
         "start_time_aest": "2026-02-16T19:45:00+11:00",
         "sport_name": "Tennis",
@@ -246,5 +122,36 @@
         "match_name": "Crawford O v Ajdukovic",
         "betOption": "Head To Head",
         "start_time": "2026-02-16T09:30:00.000Z"
+    },
+    {
+        "contestant_names": "Max Houkes, (2.05) VERSES Calvin Hemery, (1.67)",
+        "start_time_aest": "2026-02-16T21:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Max Houkes",
+                "position": "HOME",
+                "short_name": "Houkes"
+            },
+            {
+                "full_name": "Calvin Hemery",
+                "position": "AWAY",
+                "short_name": "Hemery"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Max Houkes",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Calvin Hemery",
+                "returnWin": 1.67
+            }
+        ],
+        "match_name": "Houkes v Hemery",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-16T10:00:00.000Z"
     }
 ]
