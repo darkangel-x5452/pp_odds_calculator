@@ -1,7 +1,7 @@
 [
     {
-        "contestant_names": "Maks Kasnikowski, (1.52) VERSES Jay Clarke, (2.35)",
-        "start_time_aest": "2026-02-17T17:30:00+11:00",
+        "contestant_names": "Maks Kasnikowski, (1.46) VERSES Jay Clarke, (2.5)",
+        "start_time_aest": "2026-02-17T17:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -19,47 +19,16 @@
         "propositions": [
             {
                 "name": "Maks Kasnikowski",
-                "returnWin": 1.52
+                "returnWin": 1.46
             },
             {
                 "name": "Jay Clarke",
-                "returnWin": 2.35
+                "returnWin": 2.5
             }
         ],
         "match_name": "Kasnikowski v Clarke",
         "betOption": "Head To Head",
-        "start_time": "2026-02-17T06:30:00.000Z"
-    },
-    {
-        "contestant_names": "Dayeon Back, (1.52) VERSES Sahaja Yamalapalli, (2.35)",
-        "start_time_aest": "2026-02-17T17:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Dayeon Back",
-                "position": "HOME",
-                "short_name": "Back D"
-            },
-            {
-                "full_name": "Sahaja Yamalapalli",
-                "position": "AWAY",
-                "short_name": "Yamalapalli"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Dayeon Back",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Sahaja Yamalapalli",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Back D v Yamalapalli",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-17T06:30:00.000Z"
+        "start_time": "2026-02-17T06:45:00.000Z"
     },
     {
         "contestant_names": "Pakistan (W), (1.65) VERSES United Arab Emirates (W), (2.2)",
@@ -153,5 +122,67 @@
         "match_name": "Karvouni v De Koning",
         "betOption": "Head To Head",
         "start_time": "2026-02-17T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Melb Extreme, (2) VERSES Gold Coast, (1.75)",
+        "start_time_aest": "2026-02-17T18:30:00+11:00",
+        "sport_name": "Lawn Bowls",
+        "competition_name": "Bowls Premier League",
+        "contestants": [
+            {
+                "full_name": "Melb Extreme",
+                "position": "HOME",
+                "short_name": "Melb Xtreme"
+            },
+            {
+                "full_name": "Gold Coast",
+                "position": "AWAY",
+                "short_name": "Gold Coast"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Melb Extreme",
+                "returnWin": 2
+            },
+            {
+                "name": "Gold Coast",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Melb Xtreme v Gold Coast",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-17T07:30:00.000Z"
+    },
+    {
+        "contestant_names": "Shruti Ahlawat, (2.1) VERSES Vaishnavi Adkar, (1.65)",
+        "start_time_aest": "2026-02-17T18:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Shruti Ahlawat",
+                "position": "HOME",
+                "short_name": "Ahlawat"
+            },
+            {
+                "full_name": "Vaishnavi Adkar",
+                "position": "AWAY",
+                "short_name": "Adkar"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Shruti Ahlawat",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Vaishnavi Adkar",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Ahlawat v Adkar",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-17T07:30:00.000Z"
     }
 ]
