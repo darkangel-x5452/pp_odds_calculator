@@ -122,5 +122,36 @@
         "match_name": "Gimcheon (W) v Incheon (W)",
         "betOption": "Head To Head",
         "start_time": "2026-02-17T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Vasiliki Karvouni, (2.5) VERSES Rikke De Koning, (1.46)",
+        "start_time_aest": "2026-02-17T18:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Vasiliki Karvouni",
+                "position": "HOME",
+                "short_name": "Karvouni"
+            },
+            {
+                "full_name": "Rikke De Koning",
+                "position": "AWAY",
+                "short_name": "De Koning"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Vasiliki Karvouni",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Rikke De Koning",
+                "returnWin": 1.46
+            }
+        ],
+        "match_name": "Karvouni v De Koning",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-17T07:00:00.000Z"
     }
 ]
