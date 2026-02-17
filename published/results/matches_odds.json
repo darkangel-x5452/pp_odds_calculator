@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Miomir Kecmanovic, (1.5) VERSES Mattia Bellucci, (2.5)",
-        "start_time_aest": "2026-02-18T10:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "contestants": [
-            {
-                "full_name": "Miomir Kecmanovic",
-                "position": "HOME",
-                "short_name": "Kecmanovic"
-            },
-            {
-                "full_name": "Mattia Bellucci",
-                "position": "AWAY",
-                "short_name": "Bellucci M"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Miomir Kecmanovic",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Mattia Bellucci",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Kecmanovic v Bellucci M",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-17T23:00:00.000Z"
-    },
-    {
-        "contestant_names": "Damir Dzumhur, (2.15) VERSES Pedro Martinez Portero, (1.65)",
-        "start_time_aest": "2026-02-18T10:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "contestants": [
-            {
-                "full_name": "Damir Dzumhur",
-                "position": "HOME",
-                "short_name": "Dzumhur"
-            },
-            {
-                "full_name": "Pedro Martinez Portero",
-                "position": "AWAY",
-                "short_name": "Martinez P"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Damir Dzumhur",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Pedro Martinez Portero",
-                "returnWin": 1.65
-            }
-        ],
-        "match_name": "Dzumhur v Martinez P",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-17T23:00:00.000Z"
-    },
-    {
         "contestant_names": "Moama, (1.8) VERSES Adelaide, (1.95)",
         "start_time_aest": "2026-02-18T10:15:00+11:00",
         "sport_name": "Lawn Bowls",
@@ -155,6 +93,37 @@
         "start_time": "2026-02-17T23:15:00.000Z"
     },
     {
+        "contestant_names": "Damir Dzumhur, (2.15) VERSES Pedro Martinez Portero, (1.65)",
+        "start_time_aest": "2026-02-18T10:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "contestants": [
+            {
+                "full_name": "Damir Dzumhur",
+                "position": "HOME",
+                "short_name": "Dzumhur"
+            },
+            {
+                "full_name": "Pedro Martinez Portero",
+                "position": "AWAY",
+                "short_name": "Martinez P"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Damir Dzumhur",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Pedro Martinez Portero",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Dzumhur v Martinez P",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-17T23:15:00.000Z"
+    },
+    {
         "contestant_names": "Purdue, (2.2) VERSES Michigan, (1.67)",
         "start_time_aest": "2026-02-18T10:30:00+11:00",
         "sport_name": "Basketball",
@@ -184,5 +153,129 @@
         "match_name": "Purdue v Michigan",
         "betOption": "Head To Head",
         "start_time": "2026-02-17T23:30:00.000Z"
+    },
+    {
+        "contestant_names": "Charlotte, (1.75) VERSES Temple, (2)",
+        "start_time_aest": "2026-02-18T10:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Charlotte",
+                "position": "HOME",
+                "short_name": "Charlotte"
+            },
+            {
+                "full_name": "Temple",
+                "position": "AWAY",
+                "short_name": "Temple"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Charlotte",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Temple",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Charlotte v Temple",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-17T23:30:00.000Z"
+    },
+    {
+        "contestant_names": "Massachusetts, (2.25) VERSES Miami (Ohio), (1.65)",
+        "start_time_aest": "2026-02-18T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Massachusetts",
+                "position": "HOME",
+                "short_name": "Massachusetts"
+            },
+            {
+                "full_name": "Miami (Ohio)",
+                "position": "AWAY",
+                "short_name": "Miami (Ohio)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Massachusetts",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Miami (Ohio)",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Massachusetts v Miami (Ohio)",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Bowling Green, (1.67) VERSES Kent State, (2.2)",
+        "start_time_aest": "2026-02-18T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Bowling Green",
+                "position": "HOME",
+                "short_name": "Bowling Green"
+            },
+            {
+                "full_name": "Kent State",
+                "position": "AWAY",
+                "short_name": "Kent State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bowling Green",
+                "returnWin": 1.67
+            },
+            {
+                "name": "Kent State",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Bowling Green v Kent State",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "SMU, (2.5) VERSES Louisville, (1.53)",
+        "start_time_aest": "2026-02-18T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "SMU",
+                "position": "HOME",
+                "short_name": "SMU"
+            },
+            {
+                "full_name": "Louisville",
+                "position": "AWAY",
+                "short_name": "Louisville"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "SMU",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Louisville",
+                "returnWin": 1.53
+            }
+        ],
+        "match_name": "SMU v Louisville",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T00:00:00.000Z"
     }
 ]
