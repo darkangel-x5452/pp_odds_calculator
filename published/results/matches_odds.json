@@ -339,5 +339,36 @@
         "match_name": "Korea Gas Corpr v Busan Sonicboom",
         "betOption": "Head To Head",
         "start_time": "2026-02-17T05:00:00.000Z"
+    },
+    {
+        "contestant_names": "Tweed Heads, (1.75) VERSES Sydney Lions, (2)",
+        "start_time_aest": "2026-02-17T16:00:00+11:00",
+        "sport_name": "Lawn Bowls",
+        "competition_name": "Bowls Premier League",
+        "contestants": [
+            {
+                "full_name": "Tweed Heads",
+                "position": "HOME",
+                "short_name": "Tweed Heads"
+            },
+            {
+                "full_name": "Sydney Lions",
+                "position": "AWAY",
+                "short_name": "Sydney Lions"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tweed Heads",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Sydney Lions",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Tweed Heads v Sydney Lions",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-17T05:00:00.000Z"
     }
 ]
