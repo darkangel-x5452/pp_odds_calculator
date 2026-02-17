@@ -31,37 +31,6 @@
         "start_time": "2026-02-17T07:30:00.000Z"
     },
     {
-        "contestant_names": "Shruti Ahlawat, (2.1) VERSES Vaishnavi Adkar, (1.65)",
-        "start_time_aest": "2026-02-17T18:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Shruti Ahlawat",
-                "position": "HOME",
-                "short_name": "Ahlawat"
-            },
-            {
-                "full_name": "Vaishnavi Adkar",
-                "position": "AWAY",
-                "short_name": "Adkar"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Shruti Ahlawat",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Vaishnavi Adkar",
-                "returnWin": 1.65
-            }
-        ],
-        "match_name": "Ahlawat v Adkar",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-17T07:30:00.000Z"
-    },
-    {
         "contestant_names": "Alisa Vasileva, (2) VERSES Mua Shigeta, (1.72)",
         "start_time_aest": "2026-02-17T18:45:00+11:00",
         "sport_name": "Tennis",
@@ -153,5 +122,98 @@
         "match_name": "Ivanov S v Senn",
         "betOption": "Head To Head",
         "start_time": "2026-02-17T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "United States, (1.5) VERSES China, (2.5)",
+        "start_time_aest": "2026-02-17T19:05:00+11:00",
+        "sport_name": "Winter Olympics",
+        "competition_name": "Curling - Mens",
+        "contestants": [
+            {
+                "full_name": "United States",
+                "position": "HOME",
+                "short_name": "USA"
+            },
+            {
+                "full_name": "China",
+                "position": "AWAY",
+                "short_name": "China"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "United States",
+                "returnWin": 1.5
+            },
+            {
+                "name": "China",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "USA v China",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-17T08:05:00.000Z"
+    },
+    {
+        "contestant_names": "Giannicola Misasi, (1.55) VERSES Piet Luis Pinter, (2.3)",
+        "start_time_aest": "2026-02-17T19:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Giannicola Misasi",
+                "position": "HOME",
+                "short_name": "Misasi"
+            },
+            {
+                "full_name": "Piet Luis Pinter",
+                "position": "AWAY",
+                "short_name": "Pinter"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Giannicola Misasi",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Piet Luis Pinter",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Misasi v Pinter",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-17T08:30:00.000Z"
+    },
+    {
+        "contestant_names": "Alexandre Aubriot, (1.68) VERSES William Vinciguerra, (2.05)",
+        "start_time_aest": "2026-02-17T19:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Alexandre Aubriot",
+                "position": "HOME",
+                "short_name": "Aubriot A"
+            },
+            {
+                "full_name": "William Vinciguerra",
+                "position": "AWAY",
+                "short_name": "Vinciguerra"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alexandre Aubriot",
+                "returnWin": 1.68
+            },
+            {
+                "name": "William Vinciguerra",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Aubriot A v Vinciguerra",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-17T08:30:00.000Z"
     }
 ]
