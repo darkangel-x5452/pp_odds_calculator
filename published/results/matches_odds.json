@@ -1,69 +1,7 @@
 [
     {
-        "contestant_names": "Ram/Michelsen, (1.75) VERSES Kirkov/Stevens, (2)",
-        "start_time_aest": "2026-02-18T03:10:17+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "contestants": [
-            {
-                "full_name": "Ram/Michelsen",
-                "position": "HOME",
-                "short_name": "Ram/Michelsen"
-            },
-            {
-                "full_name": "Kirkov/Stevens",
-                "position": "AWAY",
-                "short_name": "Kirkov/Stevens"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ram/Michelsen",
-                "returnWin": 1.75
-            },
-            {
-                "name": "Kirkov/Stevens",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Ram/Michelsen v Kirkov/Stevens",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-17T16:10:17.000Z"
-    },
-    {
-        "contestant_names": "Luciano Emanuel Ambrogi, (2.1) VERSES Genaro Alberto Olivieri, (1.65)",
-        "start_time_aest": "2026-02-18T03:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Luciano Emanuel Ambrogi",
-                "position": "HOME",
-                "short_name": "Ambrogi"
-            },
-            {
-                "full_name": "Genaro Alberto Olivieri",
-                "position": "AWAY",
-                "short_name": "Alberto Olivieri"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Luciano Emanuel Ambrogi",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Genaro Alberto Olivieri",
-                "returnWin": 1.65
-            }
-        ],
-        "match_name": "Ambrogi v Alberto Olivieri",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-17T16:15:00.000Z"
-    },
-    {
         "contestant_names": "Jakupovic/Radisic, (2.5) VERSES Corley/Corley, (1.46)",
-        "start_time_aest": "2026-02-18T03:20:00+11:00",
+        "start_time_aest": "2026-02-18T03:40:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA 125 Doubles",
         "contestants": [
@@ -90,100 +28,38 @@
         ],
         "match_name": "Jakupovic/Radisic v Corley/Corley",
         "betOption": "Head To Head",
-        "start_time": "2026-02-17T16:20:00.000Z"
+        "start_time": "2026-02-17T16:40:00.000Z"
     },
     {
-        "contestant_names": "Tapiolan Honka, (1.66) VERSES Karhu Basket, (2.05)",
-        "start_time_aest": "2026-02-18T03:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Finland Korisliiga",
+        "contestant_names": "Luciano Emanuel Ambrogi, (2.1) VERSES Genaro Alberto Olivieri, (1.65)",
+        "start_time_aest": "2026-02-18T03:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
         "contestants": [
             {
-                "full_name": "Tapiolan Honka",
+                "full_name": "Luciano Emanuel Ambrogi",
                 "position": "HOME",
-                "short_name": "Tapiolan Honka"
+                "short_name": "Ambrogi"
             },
             {
-                "full_name": "Karhu Basket",
+                "full_name": "Genaro Alberto Olivieri",
                 "position": "AWAY",
-                "short_name": "Karhu Basket"
+                "short_name": "Alberto Olivieri"
             }
         ],
         "propositions": [
             {
-                "name": "Tapiolan Honka",
-                "returnWin": 1.66
+                "name": "Luciano Emanuel Ambrogi",
+                "returnWin": 2.1
             },
             {
-                "name": "Karhu Basket",
-                "returnWin": 2.05
+                "name": "Genaro Alberto Olivieri",
+                "returnWin": 1.65
             }
         ],
-        "match_name": "Tapiolan Honka v Karhu Basket",
+        "match_name": "Ambrogi v Alberto Olivieri",
         "betOption": "Head To Head",
-        "start_time": "2026-02-17T16:30:00.000Z"
-    },
-    {
-        "contestant_names": "H Migdal Haemek, (1.52) VERSES Eliztur Shomron, (2.35)",
-        "start_time_aest": "2026-02-18T03:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Israel National League",
-        "contestants": [
-            {
-                "full_name": "H Migdal Haemek",
-                "position": "HOME",
-                "short_name": "H Migdal Haemek"
-            },
-            {
-                "full_name": "Eliztur Shomron",
-                "position": "AWAY",
-                "short_name": "Eliztur Shomron"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "H Migdal Haemek",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Eliztur Shomron",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "H Migdal Haemek v Eliztur Shomron",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-17T16:30:00.000Z"
-    },
-    {
-        "contestant_names": "Jonava, (2.05) VERSES Gargzdai, (1.68)",
-        "start_time_aest": "2026-02-18T03:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Lithuania LKL",
-        "contestants": [
-            {
-                "full_name": "Jonava",
-                "position": "HOME",
-                "short_name": "Jonava"
-            },
-            {
-                "full_name": "Gargzdai",
-                "position": "AWAY",
-                "short_name": "Gargzdai"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jonava",
-                "returnWin": 2.05
-            },
-            {
-                "name": "Gargzdai",
-                "returnWin": 1.68
-            }
-        ],
-        "match_name": "Jonava v Gargzdai",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-17T16:30:00.000Z"
+        "start_time": "2026-02-17T16:45:00.000Z"
     },
     {
         "contestant_names": "Olomoucko, (1.55) VERSES USK Praha, (2.25)",
@@ -213,6 +89,99 @@
             }
         ],
         "match_name": "Olomoucko v USK Praha",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-17T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Gianluca Cadenasso, (1.75) VERSES Nicolas Kicker, (1.95)",
+        "start_time_aest": "2026-02-18T04:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Gianluca Cadenasso",
+                "position": "HOME",
+                "short_name": "Cadenasso"
+            },
+            {
+                "full_name": "Nicolas Kicker",
+                "position": "AWAY",
+                "short_name": "Kicker"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Gianluca Cadenasso",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Nicolas Kicker",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Cadenasso v Kicker",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-17T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Fermin Tenti, (1.52) VERSES Joao Victor Couto Loureiro, (2.35)",
+        "start_time_aest": "2026-02-18T04:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Fermin Tenti",
+                "position": "HOME",
+                "short_name": "Tenti"
+            },
+            {
+                "full_name": "Joao Victor Couto Loureiro",
+                "position": "AWAY",
+                "short_name": "Loureiro"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Fermin Tenti",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Joao Victor Couto Loureiro",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Tenti v Loureiro",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-17T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Zongyu Li, (2.25) VERSES Julie Belgraver, (1.58)",
+        "start_time_aest": "2026-02-18T04:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Zongyu Li",
+                "position": "HOME",
+                "short_name": "Li Zg"
+            },
+            {
+                "full_name": "Julie Belgraver",
+                "position": "AWAY",
+                "short_name": "Belgraver"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Zongyu Li",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Julie Belgraver",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Li Zg v Belgraver",
         "betOption": "Head To Head",
         "start_time": "2026-02-17T17:00:00.000Z"
     }
