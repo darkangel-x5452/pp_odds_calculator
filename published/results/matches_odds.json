@@ -1,38 +1,7 @@
 [
     {
-        "contestant_names": "Ram/Michelsen, (1.75) VERSES Kirkov/Stevens, (2)",
-        "start_time_aest": "2026-02-18T04:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "contestants": [
-            {
-                "full_name": "Ram/Michelsen",
-                "position": "HOME",
-                "short_name": "Ram/Michelsen"
-            },
-            {
-                "full_name": "Kirkov/Stevens",
-                "position": "AWAY",
-                "short_name": "Kirkov/Stevens"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ram/Michelsen",
-                "returnWin": 1.75
-            },
-            {
-                "name": "Kirkov/Stevens",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Ram/Michelsen v Kirkov/Stevens",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-17T17:15:00.000Z"
-    },
-    {
         "contestant_names": "Michael Kouame, (1.6) VERSES Dodig Matej, (2.2)",
-        "start_time_aest": "2026-02-18T04:30:00+11:00",
+        "start_time_aest": "2026-02-18T04:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -59,37 +28,130 @@
         ],
         "match_name": "Kouame v Matej",
         "betOption": "Head To Head",
-        "start_time": "2026-02-17T17:30:00.000Z"
+        "start_time": "2026-02-17T17:45:00.000Z"
     },
     {
-        "contestant_names": "Giuseppe La Vela, (2.1) VERSES Seydina Andre, (1.65)",
-        "start_time_aest": "2026-02-18T04:30:00+11:00",
+        "contestant_names": "Natan Rodrigues, (2.15) VERSES Miguel Tobon, (1.62)",
+        "start_time_aest": "2026-02-18T05:00:00+11:00",
         "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
+        "competition_name": "Challenger",
         "contestants": [
             {
-                "full_name": "Giuseppe La Vela",
+                "full_name": "Natan Rodrigues",
                 "position": "HOME",
-                "short_name": "La Vela"
+                "short_name": "Rodrigues"
             },
             {
-                "full_name": "Seydina Andre",
+                "full_name": "Miguel Tobon",
                 "position": "AWAY",
-                "short_name": "Andre"
+                "short_name": "Tobon"
             }
         ],
         "propositions": [
             {
-                "name": "Giuseppe La Vela",
-                "returnWin": 2.1
+                "name": "Natan Rodrigues",
+                "returnWin": 2.15
             },
             {
-                "name": "Seydina Andre",
-                "returnWin": 1.65
+                "name": "Miguel Tobon",
+                "returnWin": 1.62
             }
         ],
-        "match_name": "La Vela v Andre",
+        "match_name": "Rodrigues v Tobon",
         "betOption": "Head To Head",
-        "start_time": "2026-02-17T17:30:00.000Z"
+        "start_time": "2026-02-17T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Davide Tortora, (2.25) VERSES Keaton Hance, (1.58)",
+        "start_time_aest": "2026-02-18T05:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Davide Tortora",
+                "position": "HOME",
+                "short_name": "Tortora"
+            },
+            {
+                "full_name": "Keaton Hance",
+                "position": "AWAY",
+                "short_name": "Hance"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Davide Tortora",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Keaton Hance",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Tortora v Hance",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-17T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Julia Avdeeva, (1.62) VERSES Eva Bennemann, (2.15)",
+        "start_time_aest": "2026-02-18T05:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Julia Avdeeva",
+                "position": "HOME",
+                "short_name": "Avdeeva"
+            },
+            {
+                "full_name": "Eva Bennemann",
+                "position": "AWAY",
+                "short_name": "Bennemann"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Julia Avdeeva",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Eva Bennemann",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Avdeeva v Bennemann",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-17T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Tori Kinard, (1.5) VERSES Kelly Keller, (2.4)",
+        "start_time_aest": "2026-02-18T05:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Tori Kinard",
+                "position": "HOME",
+                "short_name": "Kinard"
+            },
+            {
+                "full_name": "Kelly Keller",
+                "position": "AWAY",
+                "short_name": "Keller"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tori Kinard",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Kelly Keller",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Kinard v Keller",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-17T18:00:00.000Z"
     }
 ]
