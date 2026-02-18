@@ -1,65 +1,34 @@
 [
     {
-        "contestant_names": "Belinda Bencic, (2.1) VERSES Elina Svitolina, (1.7)",
-        "start_time_aest": "2026-02-18T23:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
+        "contestant_names": "FUT Esports, (2.5) VERSES PARIVISION, (1.48)",
+        "start_time_aest": "2026-02-18T23:05:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
         "contestants": [
             {
-                "full_name": "Belinda Bencic",
+                "full_name": "FUT Esports",
                 "position": "HOME",
-                "short_name": "Bencic"
+                "short_name": "FUT Esports"
             },
             {
-                "full_name": "Elina Svitolina",
+                "full_name": "PARIVISION",
                 "position": "AWAY",
-                "short_name": "Svitolina"
+                "short_name": "PARIVISION"
             }
         ],
         "propositions": [
             {
-                "name": "Belinda Bencic",
-                "returnWin": 2.1
+                "name": "FUT Esports",
+                "returnWin": 2.5
             },
             {
-                "name": "Elina Svitolina",
-                "returnWin": 1.7
+                "name": "PARIVISION",
+                "returnWin": 1.48
             }
         ],
-        "match_name": "Bencic v Svitolina",
+        "match_name": "FUT Esports v PARIVISION",
         "betOption": "Head To Head",
-        "start_time": "2026-02-18T12:15:00.000Z"
-    },
-    {
-        "contestant_names": "Sebastian Sorger, (2.15) VERSES Gianmarco Ferrari, (1.62)",
-        "start_time_aest": "2026-02-18T23:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Sebastian Sorger",
-                "position": "HOME",
-                "short_name": "Sorger"
-            },
-            {
-                "full_name": "Gianmarco Ferrari",
-                "position": "AWAY",
-                "short_name": "Ferrari G"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sebastian Sorger",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Gianmarco Ferrari",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Sorger v Ferrari G",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T12:30:00.000Z"
+        "start_time": "2026-02-18T12:05:00.000Z"
     },
     {
         "contestant_names": "PAOK Saloniki, (2.4) VERSES Ae Panathlitikos, (1.48)",
@@ -121,6 +90,37 @@
         ],
         "match_name": "Murphy v ZhangA",
         "betOption": "Result",
+        "start_time": "2026-02-18T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Mariella Thamm, (2) VERSES Lea Boskovic, (1.72)",
+        "start_time_aest": "2026-02-19T00:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Mariella Thamm",
+                "position": "HOME",
+                "short_name": "Thamm"
+            },
+            {
+                "full_name": "Lea Boskovic",
+                "position": "AWAY",
+                "short_name": "Boskovic"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mariella Thamm",
+                "returnWin": 2
+            },
+            {
+                "name": "Lea Boskovic",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "Thamm v Boskovic",
+        "betOption": "Head To Head",
         "start_time": "2026-02-18T13:00:00.000Z"
     }
 ]
