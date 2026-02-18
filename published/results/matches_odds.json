@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Pioneros LMochis, (2.5) VERSES Halcones De Ciud, (1.45)",
-        "start_time_aest": "2026-02-18T14:15:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Mexico CIBACOPA",
-        "contestants": [
-            {
-                "full_name": "Pioneros LMochis",
-                "position": "HOME",
-                "short_name": "Pioneros LMochis"
-            },
-            {
-                "full_name": "Halcones De Ciud",
-                "position": "AWAY",
-                "short_name": "Halcones De Ciud"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Pioneros LMochis",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Halcones De Ciud",
-                "returnWin": 1.45
-            }
-        ],
-        "match_name": "Pioneros LMochis v Halcones De Ciud",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T03:15:00.000Z"
-    },
-    {
-        "contestant_names": "Oregon, (1.6) VERSES Minnesota, (2.35)",
-        "start_time_aest": "2026-02-18T14:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Oregon",
-                "position": "HOME",
-                "short_name": "Oregon"
-            },
-            {
-                "full_name": "Minnesota",
-                "position": "AWAY",
-                "short_name": "Minnesota"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Oregon",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Minnesota",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Oregon v Minnesota",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T03:30:00.000Z"
-    },
-    {
-        "contestant_names": "Hyderabad, (1.65) VERSES Saurashtra, (2.2)",
-        "start_time_aest": "2026-02-18T14:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Senior Womens One Day Trophy",
-        "contestants": [
-            {
-                "full_name": "Hyderabad",
-                "position": "HOME",
-                "short_name": "Hyderabad"
-            },
-            {
-                "full_name": "Saurashtra",
-                "position": "AWAY",
-                "short_name": "Saurashtra"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Hyderabad",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Saurashtra",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Hyderabad v Saurashtra",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T03:30:00.000Z"
-    },
-    {
         "contestant_names": "Anyang, (1.62) VERSES Wonju, (2.1)",
         "start_time_aest": "2026-02-18T16:00:00+11:00",
         "sport_name": "Basketball",
@@ -184,5 +91,36 @@
         "match_name": "Yamaguchi M v Kulikova A",
         "betOption": "Head To Head",
         "start_time": "2026-02-18T05:30:00.000Z"
+    },
+    {
+        "contestant_names": "Adelaide, (2.25) VERSES Moreton Bay, (1.6)",
+        "start_time_aest": "2026-02-18T17:15:00+11:00",
+        "sport_name": "Lawn Bowls",
+        "competition_name": "Bowls Premier League",
+        "contestants": [
+            {
+                "full_name": "Adelaide",
+                "position": "HOME",
+                "short_name": "Adelaide"
+            },
+            {
+                "full_name": "Moreton Bay",
+                "position": "AWAY",
+                "short_name": "Moreton Bay"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Adelaide",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Moreton Bay",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Adelaide v Moreton Bay",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T06:15:00.000Z"
     }
 ]
