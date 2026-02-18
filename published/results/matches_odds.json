@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Anyang, (1.62) VERSES Wonju, (2.1)",
-        "start_time_aest": "2026-02-18T16:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "South Korea KBL",
-        "contestants": [
-            {
-                "full_name": "Anyang",
-                "position": "HOME",
-                "short_name": "Anyang"
-            },
-            {
-                "full_name": "Wonju",
-                "position": "AWAY",
-                "short_name": "Wonju"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Anyang",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Wonju",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Anyang v Wonju",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T05:00:00.000Z"
-    },
-    {
         "contestant_names": "Oliver Crawford, (1.5) VERSES Ilya Ivashka, (2.4)",
         "start_time_aest": "2026-02-18T16:30:00+11:00",
         "sport_name": "Tennis",
@@ -153,5 +122,129 @@
         "match_name": "Sri Lanka (W) v Thailand (W)",
         "betOption": "Head To Head",
         "start_time": "2026-02-18T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Jeonju KCC Egis, (2.25) VERSES Changwon Sakers, (1.55)",
+        "start_time_aest": "2026-02-18T18:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "South Korea KBL",
+        "contestants": [
+            {
+                "full_name": "Jeonju KCC Egis",
+                "position": "HOME",
+                "short_name": "Jeonju KCC Egis"
+            },
+            {
+                "full_name": "Changwon Sakers",
+                "position": "AWAY",
+                "short_name": "Changwon Sakers"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jeonju KCC Egis",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Changwon Sakers",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Jeonju KCC Egis v Changwon Sakers",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T07:30:00.000Z"
+    },
+    {
+        "contestant_names": "Moama, (1.55) VERSES Gold Coast, (2.35)",
+        "start_time_aest": "2026-02-18T18:30:00+11:00",
+        "sport_name": "Lawn Bowls",
+        "competition_name": "Bowls Premier League",
+        "contestants": [
+            {
+                "full_name": "Moama",
+                "position": "HOME",
+                "short_name": "Moama"
+            },
+            {
+                "full_name": "Gold Coast",
+                "position": "AWAY",
+                "short_name": "Gold Coast"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Moama",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Gold Coast",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Moama v Gold Coast",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T07:30:00.000Z"
+    },
+    {
+        "contestant_names": "Michael Geerts, (1.75) VERSES Daniel Michalski, (1.95)",
+        "start_time_aest": "2026-02-18T18:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Michael Geerts",
+                "position": "HOME",
+                "short_name": "Geerts"
+            },
+            {
+                "full_name": "Daniel Michalski",
+                "position": "AWAY",
+                "short_name": "Michalski"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Michael Geerts",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Daniel Michalski",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Geerts v Michalski",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T07:30:00.000Z"
+    },
+    {
+        "contestant_names": "Hania Abouelsaad, (2.05) VERSES Siyoen Sim, (1.68)",
+        "start_time_aest": "2026-02-18T18:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Hania Abouelsaad",
+                "position": "HOME",
+                "short_name": "Abouelsaad"
+            },
+            {
+                "full_name": "Siyoen Sim",
+                "position": "AWAY",
+                "short_name": "Sim"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hania Abouelsaad",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Siyoen Sim",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Abouelsaad v Sim",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T07:30:00.000Z"
     }
 ]
