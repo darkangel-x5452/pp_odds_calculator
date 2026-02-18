@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "La Riojo, (1.45) VERSES Comunicaciones, (2.5)",
-        "start_time_aest": "2026-02-18T12:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga A",
-        "contestants": [
-            {
-                "full_name": "La Riojo",
-                "position": "HOME",
-                "short_name": "La Riojo"
-            },
-            {
-                "full_name": "Comunicaciones",
-                "position": "AWAY",
-                "short_name": "Comunicaciones"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "La Riojo",
-                "returnWin": 1.45
-            },
-            {
-                "name": "Comunicaciones",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "La Riojo v Comunicaciones",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T01:00:00.000Z"
-    },
-    {
         "contestant_names": "Tennessee-Martin, (1.65) VERSES SE Missouri St, (2.25)",
         "start_time_aest": "2026-02-18T12:30:00+11:00",
         "sport_name": "Basketball",
@@ -213,6 +182,99 @@
             }
         ],
         "match_name": "Adelaide v Melbourne",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T02:15:00.000Z"
+    },
+    {
+        "contestant_names": "Sydney Lions, (1.5) VERSES Melb Extreme, (2.5)",
+        "start_time_aest": "2026-02-18T13:15:00+11:00",
+        "sport_name": "Lawn Bowls",
+        "competition_name": "Bowls Premier League",
+        "contestants": [
+            {
+                "full_name": "Sydney Lions",
+                "position": "HOME",
+                "short_name": "Sydney Lions"
+            },
+            {
+                "full_name": "Melb Extreme",
+                "position": "AWAY",
+                "short_name": "Melb Xtreme"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sydney Lions",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Melb Extreme",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Sydney Lions v Melb Xtreme",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T02:15:00.000Z"
+    },
+    {
+        "contestant_names": "Tasmania, (2.5) VERSES Moama, (1.5)",
+        "start_time_aest": "2026-02-18T13:15:00+11:00",
+        "sport_name": "Lawn Bowls",
+        "competition_name": "Bowls Premier League",
+        "contestants": [
+            {
+                "full_name": "Tasmania",
+                "position": "HOME",
+                "short_name": "Tasmania"
+            },
+            {
+                "full_name": "Moama",
+                "position": "AWAY",
+                "short_name": "Moama"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tasmania",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Moama",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Tasmania v Moama",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T02:15:00.000Z"
+    },
+    {
+        "contestant_names": "Gold Coast, (1.75) VERSES Sydney Saints, (2)",
+        "start_time_aest": "2026-02-18T13:15:00+11:00",
+        "sport_name": "Lawn Bowls",
+        "competition_name": "Bowls Premier League",
+        "contestants": [
+            {
+                "full_name": "Gold Coast",
+                "position": "HOME",
+                "short_name": "Gold Coast"
+            },
+            {
+                "full_name": "Sydney Saints",
+                "position": "AWAY",
+                "short_name": "Sydney Saints"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Gold Coast",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Sydney Saints",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Gold Coast v Sydney Saints",
         "betOption": "Head To Head",
         "start_time": "2026-02-18T02:15:00.000Z"
     }
