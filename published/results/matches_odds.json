@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Miedler/Cabral, (1.58) VERSES Herbert/Halys, (2.3)",
-        "start_time_aest": "2026-02-19T01:15:00+11:00",
+        "start_time_aest": "2026-02-19T01:40:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP Doubles",
         "contestants": [
@@ -28,11 +28,11 @@
         ],
         "match_name": "Miedler/Cabral v Herbert/Halys",
         "betOption": "Head To Head",
-        "start_time": "2026-02-18T14:15:00.000Z"
+        "start_time": "2026-02-18T14:40:00.000Z"
     },
     {
-        "contestant_names": "Fabian Marozsan, (2.35) VERSES Andrey Rublev, (1.55)",
-        "start_time_aest": "2026-02-19T01:30:00+11:00",
+        "contestant_names": "Fabian Marozsan, (2.3) VERSES Andrey Rublev, (1.58)",
+        "start_time_aest": "2026-02-19T01:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP",
         "contestants": [
@@ -50,78 +50,16 @@
         "propositions": [
             {
                 "name": "Fabian Marozsan",
-                "returnWin": 2.35
+                "returnWin": 2.3
             },
             {
                 "name": "Andrey Rublev",
-                "returnWin": 1.55
+                "returnWin": 1.58
             }
         ],
         "match_name": "Marozsan v Rublev A",
         "betOption": "Head To Head",
-        "start_time": "2026-02-18T14:30:00.000Z"
-    },
-    {
-        "contestant_names": "Rafae Izquierdo Luque, (1.6) VERSES Giorgio Tabacco, (2.2)",
-        "start_time_aest": "2026-02-19T01:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Rafae Izquierdo Luque",
-                "position": "HOME",
-                "short_name": "Izquierdo Luque"
-            },
-            {
-                "full_name": "Giorgio Tabacco",
-                "position": "AWAY",
-                "short_name": "Tabacco G"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Rafae Izquierdo Luque",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Giorgio Tabacco",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Izquierdo Luque v Tabacco G",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T14:30:00.000Z"
-    },
-    {
-        "contestant_names": "Mariella Thamm, (2.05) VERSES Lea Boskovic, (1.68)",
-        "start_time_aest": "2026-02-19T01:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Mariella Thamm",
-                "position": "HOME",
-                "short_name": "Thamm"
-            },
-            {
-                "full_name": "Lea Boskovic",
-                "position": "AWAY",
-                "short_name": "Boskovic"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Mariella Thamm",
-                "returnWin": 2.05
-            },
-            {
-                "name": "Lea Boskovic",
-                "returnWin": 1.68
-            }
-        ],
-        "match_name": "Thamm v Boskovic",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T14:30:00.000Z"
+        "start_time": "2026-02-18T14:45:00.000Z"
     },
     {
         "contestant_names": "Iraklis, (1.72) VERSES Ao Mykonoy, (1.97)",
@@ -244,6 +182,37 @@
             }
         ],
         "match_name": "Messler v Bouzgarrou",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T15:00:00.000Z"
+    },
+    {
+        "contestant_names": "Himari Sato, (2.2) VERSES Alexa Karatancheva, (1.6)",
+        "start_time_aest": "2026-02-19T02:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Himari Sato",
+                "position": "HOME",
+                "short_name": "Sato"
+            },
+            {
+                "full_name": "Alexa Karatancheva",
+                "position": "AWAY",
+                "short_name": "Karatancheva A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Himari Sato",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Alexa Karatancheva",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Sato v Karatancheva A",
         "betOption": "Head To Head",
         "start_time": "2026-02-18T15:00:00.000Z"
     }
