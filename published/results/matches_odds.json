@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Sri Lanka (W), (1.8) VERSES Thailand (W), (2)",
-        "start_time_aest": "2026-02-18T18:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Womens Asia Cup Rising Stars T20",
-        "contestants": [
-            {
-                "full_name": "Sri Lanka (W)",
-                "position": "HOME",
-                "short_name": "Sri Lanka (W)"
-            },
-            {
-                "full_name": "Thailand (W)",
-                "position": "AWAY",
-                "short_name": "Thailand (W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sri Lanka (W)",
-                "returnWin": 1.8
-            },
-            {
-                "name": "Thailand (W)",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Sri Lanka (W) v Thailand (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T07:00:00.000Z"
-    },
-    {
-        "contestant_names": "Muntinlupa Cager, (2.5) VERSES Zamboanga, (1.45)",
-        "start_time_aest": "2026-02-18T18:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Philippines MPBL",
-        "contestants": [
-            {
-                "full_name": "Muntinlupa Cager",
-                "position": "HOME",
-                "short_name": "Muntinlupa Cager"
-            },
-            {
-                "full_name": "Zamboanga",
-                "position": "AWAY",
-                "short_name": "Zamboanga"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Muntinlupa Cager",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Zamboanga",
-                "returnWin": 1.45
-            }
-        ],
-        "match_name": "Muntinlupa Cager v Zamboanga",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T07:00:00.000Z"
-    },
-    {
         "contestant_names": "Jeonju KCC Egis, (2.25) VERSES Changwon Sakers, (1.55)",
         "start_time_aest": "2026-02-18T18:30:00+11:00",
         "sport_name": "Basketball",
@@ -246,5 +184,67 @@
         "match_name": "BaragiolaMordini v Waldner",
         "betOption": "Head To Head",
         "start_time": "2026-02-18T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "China (W), (1.53) VERSES Denmark (W), (2.35)",
+        "start_time_aest": "2026-02-18T19:05:00+11:00",
+        "sport_name": "Winter Olympics",
+        "competition_name": "Curling - Womens",
+        "contestants": [
+            {
+                "full_name": "China (W)",
+                "position": "HOME",
+                "short_name": "China"
+            },
+            {
+                "full_name": "Denmark (W)",
+                "position": "AWAY",
+                "short_name": "Denmark"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "China (W)",
+                "returnWin": 1.53
+            },
+            {
+                "name": "Denmark (W)",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "China v Denmark",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T08:05:00.000Z"
+    },
+    {
+        "contestant_names": "Sweden (W), (1.6) VERSES South Korea (W), (2.2)",
+        "start_time_aest": "2026-02-18T19:05:00+11:00",
+        "sport_name": "Winter Olympics",
+        "competition_name": "Curling - Womens",
+        "contestants": [
+            {
+                "full_name": "Sweden (W)",
+                "position": "HOME",
+                "short_name": "Sweden"
+            },
+            {
+                "full_name": "South Korea (W)",
+                "position": "AWAY",
+                "short_name": "South Korea"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sweden (W)",
+                "returnWin": 1.6
+            },
+            {
+                "name": "South Korea (W)",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Sweden v South Korea",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T08:05:00.000Z"
     }
 ]
