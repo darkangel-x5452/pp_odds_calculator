@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Miedler/Cabral, (1.62) VERSES Herbert/Halys, (2.2)",
-        "start_time_aest": "2026-02-19T02:10:48+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "contestants": [
-            {
-                "full_name": "Miedler/Cabral",
-                "position": "HOME",
-                "short_name": "Miedler/Cabral"
-            },
-            {
-                "full_name": "Herbert/Halys",
-                "position": "AWAY",
-                "short_name": "Herbert/Halys"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Miedler/Cabral",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Herbert/Halys",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Miedler/Cabral v Herbert/Halys",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T15:10:48.000Z"
-    },
-    {
-        "contestant_names": "Coco Gauff, (1.5) VERSES Elise Mertens, (2.5)",
-        "start_time_aest": "2026-02-19T02:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestants": [
-            {
-                "full_name": "Coco Gauff",
-                "position": "HOME",
-                "short_name": "Gauff C"
-            },
-            {
-                "full_name": "Elise Mertens",
-                "position": "AWAY",
-                "short_name": "Mertens E"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Coco Gauff",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Elise Mertens",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Gauff C v Mertens E",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T15:15:00.000Z"
-    },
-    {
         "contestant_names": "Jerry Roddick, (1.72) VERSES Peter Bertran, (2)",
         "start_time_aest": "2026-02-19T03:00:00+11:00",
         "sport_name": "Tennis",
@@ -91,5 +29,67 @@
         "match_name": "Roddick J v Bertran",
         "betOption": "Head To Head",
         "start_time": "2026-02-18T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "Pierre Delage, (1.72) VERSES J Gaines Jr, (2)",
+        "start_time_aest": "2026-02-19T03:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Pierre Delage",
+                "position": "HOME",
+                "short_name": "Delage P"
+            },
+            {
+                "full_name": "J Gaines Jr",
+                "position": "AWAY",
+                "short_name": "Gaines Jr J"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Pierre Delage",
+                "returnWin": 1.72
+            },
+            {
+                "name": "J Gaines Jr",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Delage P v Gaines Jr J",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "Olivetti/Arribage, (1.75) VERSES Gonzalez/Pel, (2)",
+        "start_time_aest": "2026-02-19T03:05:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP Doubles",
+        "contestants": [
+            {
+                "full_name": "Olivetti/Arribage",
+                "position": "HOME",
+                "short_name": "Olivetti/Arribage"
+            },
+            {
+                "full_name": "Gonzalez/Pel",
+                "position": "AWAY",
+                "short_name": "Gonzalez/Pel"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Olivetti/Arribage",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Gonzalez/Pel",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Olivetti/Arribage v Gonzalez/Pel",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T16:05:00.000Z"
     }
 ]
