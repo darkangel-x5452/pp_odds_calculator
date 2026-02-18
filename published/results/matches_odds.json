@@ -1,126 +1,95 @@
 [
     {
-        "contestant_names": "FUT Esports, (2.5) VERSES PARIVISION, (1.48)",
-        "start_time_aest": "2026-02-18T23:05:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "Counter Strike 2",
-        "contestants": [
-            {
-                "full_name": "FUT Esports",
-                "position": "HOME",
-                "short_name": "FUT Esports"
-            },
-            {
-                "full_name": "PARIVISION",
-                "position": "AWAY",
-                "short_name": "PARIVISION"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "FUT Esports",
-                "returnWin": 2.5
-            },
-            {
-                "name": "PARIVISION",
-                "returnWin": 1.48
-            }
-        ],
-        "match_name": "FUT Esports v PARIVISION",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T12:05:00.000Z"
-    },
-    {
-        "contestant_names": "PAOK Saloniki, (2.4) VERSES Ae Panathlitikos, (1.48)",
-        "start_time_aest": "2026-02-19T00:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Greece A1 Women",
-        "contestants": [
-            {
-                "full_name": "PAOK Saloniki",
-                "position": "HOME",
-                "short_name": "PAOK Saloniki"
-            },
-            {
-                "full_name": "Ae Panathlitikos",
-                "position": "AWAY",
-                "short_name": "Ae Panathlitikos"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "PAOK Saloniki",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Ae Panathlitikos",
-                "returnWin": 1.48
-            }
-        ],
-        "match_name": "PAOK Saloniki v Ae Panathlitikos",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T13:00:00.000Z"
-    },
-    {
-        "contestant_names": "Shaun Murphy, (1.48) VERSES Anda Zhang, (2.5)",
-        "start_time_aest": "2026-02-19T00:00:00+11:00",
-        "sport_name": "Snooker",
-        "competition_name": "Players Championship",
-        "contestants": [
-            {
-                "full_name": "Shaun Murphy",
-                "position": "HOME",
-                "short_name": "Murphy"
-            },
-            {
-                "full_name": "Anda Zhang",
-                "position": "AWAY",
-                "short_name": "ZhangA"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Shaun Murphy",
-                "returnWin": 1.48
-            },
-            {
-                "name": "Anda Zhang",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Murphy v ZhangA",
-        "betOption": "Result",
-        "start_time": "2026-02-18T13:00:00.000Z"
-    },
-    {
-        "contestant_names": "Mariella Thamm, (2) VERSES Lea Boskovic, (1.72)",
-        "start_time_aest": "2026-02-19T00:00:00+11:00",
+        "contestant_names": "Linea Bajraliu, (2.15) VERSES Yuliya Hatouka, (1.62)",
+        "start_time_aest": "2026-02-19T00:30:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ITF Womens",
         "contestants": [
             {
-                "full_name": "Mariella Thamm",
+                "full_name": "Linea Bajraliu",
                 "position": "HOME",
-                "short_name": "Thamm"
+                "short_name": "Bajraliu"
             },
             {
-                "full_name": "Lea Boskovic",
+                "full_name": "Yuliya Hatouka",
                 "position": "AWAY",
-                "short_name": "Boskovic"
+                "short_name": "Hatouka"
             }
         ],
         "propositions": [
             {
-                "name": "Mariella Thamm",
-                "returnWin": 2
+                "name": "Linea Bajraliu",
+                "returnWin": 2.15
             },
             {
-                "name": "Lea Boskovic",
-                "returnWin": 1.72
+                "name": "Yuliya Hatouka",
+                "returnWin": 1.62
             }
         ],
-        "match_name": "Thamm v Boskovic",
+        "match_name": "Bajraliu v Hatouka",
         "betOption": "Head To Head",
-        "start_time": "2026-02-18T13:00:00.000Z"
+        "start_time": "2026-02-18T13:30:00.000Z"
+    },
+    {
+        "contestant_names": "Miedler/Cabral, (1.58) VERSES Herbert/Halys, (2.3)",
+        "start_time_aest": "2026-02-19T01:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP Doubles",
+        "contestants": [
+            {
+                "full_name": "Miedler/Cabral",
+                "position": "HOME",
+                "short_name": "Miedler/Cabral"
+            },
+            {
+                "full_name": "Herbert/Halys",
+                "position": "AWAY",
+                "short_name": "Herbert/Halys"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Miedler/Cabral",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Herbert/Halys",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Miedler/Cabral v Herbert/Halys",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Erler/Galloway, (1.62) VERSES King/Peers, (2.2)",
+        "start_time_aest": "2026-02-19T01:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP Doubles",
+        "contestants": [
+            {
+                "full_name": "Erler/Galloway",
+                "position": "HOME",
+                "short_name": "Erler/Galloway"
+            },
+            {
+                "full_name": "King/Peers",
+                "position": "AWAY",
+                "short_name": "King/Peers"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Erler/Galloway",
+                "returnWin": 1.62
+            },
+            {
+                "name": "King/Peers",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Erler/Galloway v King/Peers",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T14:00:00.000Z"
     }
 ]
