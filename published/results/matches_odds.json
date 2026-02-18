@@ -122,5 +122,36 @@
         "match_name": "Adelaide v Moreton Bay",
         "betOption": "Head To Head",
         "start_time": "2026-02-18T06:15:00.000Z"
+    },
+    {
+        "contestant_names": "Sri Lanka (W), (1.8) VERSES Thailand (W), (2)",
+        "start_time_aest": "2026-02-18T18:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Womens Asia Cup Rising Stars T20",
+        "contestants": [
+            {
+                "full_name": "Sri Lanka (W)",
+                "position": "HOME",
+                "short_name": "Sri Lanka (W)"
+            },
+            {
+                "full_name": "Thailand (W)",
+                "position": "AWAY",
+                "short_name": "Thailand (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sri Lanka (W)",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Thailand (W)",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Sri Lanka (W) v Thailand (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T07:00:00.000Z"
     }
 ]
