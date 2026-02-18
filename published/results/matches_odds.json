@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Michael Geerts, (1.72) VERSES Daniel Michalski, (2)",
-        "start_time_aest": "2026-02-18T18:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Michael Geerts",
-                "position": "HOME",
-                "short_name": "Geerts"
-            },
-            {
-                "full_name": "Daniel Michalski",
-                "position": "AWAY",
-                "short_name": "Michalski"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Michael Geerts",
-                "returnWin": 1.72
-            },
-            {
-                "name": "Daniel Michalski",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Geerts v Michalski",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T07:45:00.000Z"
-    },
-    {
-        "contestant_names": "Leonardo Rossi, (1.62) VERSES Emanuel Ivanisevic, (2.15)",
-        "start_time_aest": "2026-02-18T19:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Leonardo Rossi",
-                "position": "HOME",
-                "short_name": "Rossi L"
-            },
-            {
-                "full_name": "Emanuel Ivanisevic",
-                "position": "AWAY",
-                "short_name": "Ivanisevic E"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Leonardo Rossi",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Emanuel Ivanisevic",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Rossi L v Ivanisevic E",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T08:00:00.000Z"
-    },
-    {
-        "contestant_names": "BaragiolaMordini, (2) VERSES Niklas Waldner, (1.72)",
-        "start_time_aest": "2026-02-18T19:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "BaragiolaMordini",
-                "position": "HOME",
-                "short_name": "BaragiolaMordini"
-            },
-            {
-                "full_name": "Niklas Waldner",
-                "position": "AWAY",
-                "short_name": "Waldner"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "BaragiolaMordini",
-                "returnWin": 2
-            },
-            {
-                "name": "Niklas Waldner",
-                "returnWin": 1.72
-            }
-        ],
-        "match_name": "BaragiolaMordini v Waldner",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T08:00:00.000Z"
-    },
-    {
         "contestant_names": "China (W), (1.53) VERSES Denmark (W), (2.35)",
         "start_time_aest": "2026-02-18T19:05:00+11:00",
         "sport_name": "Winter Olympics",
@@ -153,6 +60,37 @@
         "match_name": "Sweden v South Korea",
         "betOption": "Head To Head",
         "start_time": "2026-02-18T08:05:00.000Z"
+    },
+    {
+        "contestant_names": "Michael Geerts, (1.72) VERSES Daniel Michalski, (2)",
+        "start_time_aest": "2026-02-18T19:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Michael Geerts",
+                "position": "HOME",
+                "short_name": "Geerts"
+            },
+            {
+                "full_name": "Daniel Michalski",
+                "position": "AWAY",
+                "short_name": "Michalski"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Michael Geerts",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Daniel Michalski",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Geerts v Michalski",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T08:15:00.000Z"
     },
     {
         "contestant_names": "Cesar Bouchelaghem, (2.15) VERSES Federico Iannaccone, (1.62)",
@@ -246,5 +184,98 @@
         "match_name": "Hosoki v Choi O",
         "betOption": "Head To Head",
         "start_time": "2026-02-18T08:30:00.000Z"
+    },
+    {
+        "contestant_names": "Margaux Maquet, (1.58) VERSES Laia Petretic, (2.25)",
+        "start_time_aest": "2026-02-18T19:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Margaux Maquet",
+                "position": "HOME",
+                "short_name": "Maquet"
+            },
+            {
+                "full_name": "Laia Petretic",
+                "position": "AWAY",
+                "short_name": "Petretic"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Margaux Maquet",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Laia Petretic",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Maquet v Petretic",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T08:30:00.000Z"
+    },
+    {
+        "contestant_names": "Helena Stevic, (1.72) VERSES Lois Newberry, (2)",
+        "start_time_aest": "2026-02-18T19:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Helena Stevic",
+                "position": "HOME",
+                "short_name": "Stevic"
+            },
+            {
+                "full_name": "Lois Newberry",
+                "position": "AWAY",
+                "short_name": "Newberry"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Helena Stevic",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Lois Newberry",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Stevic v Newberry",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T08:30:00.000Z"
+    },
+    {
+        "contestant_names": "Tasmania, (1.95) VERSES Illawarra, (1.85)",
+        "start_time_aest": "2026-02-18T19:37:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBL",
+        "contestants": [
+            {
+                "full_name": "Tasmania",
+                "position": "HOME",
+                "short_name": "Tasmania"
+            },
+            {
+                "full_name": "Illawarra",
+                "position": "AWAY",
+                "short_name": "Illawarra"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tasmania",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Illawarra",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Tasmania v Illawarra",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T08:37:00.000Z"
     }
 ]
