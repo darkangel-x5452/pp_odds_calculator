@@ -1,38 +1,7 @@
 [
     {
-        "contestant_names": "Spirou, (1.95) VERSES Limburg, (1.75)",
-        "start_time_aest": "2026-02-19T06:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "BNXT League",
-        "contestants": [
-            {
-                "full_name": "Spirou",
-                "position": "HOME",
-                "short_name": "Spirou"
-            },
-            {
-                "full_name": "Limburg",
-                "position": "AWAY",
-                "short_name": "Limburg"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Spirou",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Limburg",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Spirou v Limburg",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T19:30:00.000Z"
-    },
-    {
         "contestant_names": "Roman Andres Burruchaga, (1.65) VERSES Vit Kopriva, (2.15)",
-        "start_time_aest": "2026-02-19T06:30:00+11:00",
+        "start_time_aest": "2026-02-19T06:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP",
         "contestants": [
@@ -59,11 +28,11 @@
         ],
         "match_name": "Burruchaga v Kopriva",
         "betOption": "Head To Head",
-        "start_time": "2026-02-18T19:30:00.000Z"
+        "start_time": "2026-02-18T19:45:00.000Z"
     },
     {
-        "contestant_names": "Yannick Hanfmann, (2) VERSES Juan Manuel Cerundolo, (1.8)",
-        "start_time_aest": "2026-02-19T06:30:00+11:00",
+        "contestant_names": "Yannick Hanfmann, (1.95) VERSES Juan Manuel Cerundolo, (1.85)",
+        "start_time_aest": "2026-02-19T06:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP",
         "contestants": [
@@ -81,139 +50,46 @@
         "propositions": [
             {
                 "name": "Yannick Hanfmann",
-                "returnWin": 2
+                "returnWin": 1.95
             },
             {
                 "name": "Juan Manuel Cerundolo",
-                "returnWin": 1.8
+                "returnWin": 1.85
             }
         ],
         "match_name": "Hanfmann Y v Cerundolo J",
         "betOption": "Head To Head",
-        "start_time": "2026-02-18T19:30:00.000Z"
+        "start_time": "2026-02-18T19:45:00.000Z"
     },
     {
-        "contestant_names": "Luca Van Assche, (1.5) VERSES Mikhail Kukushkin, (2.4)",
-        "start_time_aest": "2026-02-19T06:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
+        "contestant_names": "Gran Canaria, (1.48) VERSES Bilbao, (2.4)",
+        "start_time_aest": "2026-02-19T07:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Spain ACB Liga",
         "contestants": [
             {
-                "full_name": "Luca Van Assche",
+                "full_name": "Gran Canaria",
                 "position": "HOME",
-                "short_name": "Van Assche"
+                "short_name": "Gran Canaria"
             },
             {
-                "full_name": "Mikhail Kukushkin",
+                "full_name": "Bilbao",
                 "position": "AWAY",
-                "short_name": "Kukushkin"
+                "short_name": "Bilbao"
             }
         ],
         "propositions": [
             {
-                "name": "Luca Van Assche",
-                "returnWin": 1.5
+                "name": "Gran Canaria",
+                "returnWin": 1.48
             },
             {
-                "name": "Mikhail Kukushkin",
+                "name": "Bilbao",
                 "returnWin": 2.4
             }
         ],
-        "match_name": "Van Assche v Kukushkin",
+        "match_name": "Gran Canaria v Bilbao",
         "betOption": "Head To Head",
-        "start_time": "2026-02-18T19:30:00.000Z"
-    },
-    {
-        "contestant_names": "Ema Burgic Bucko, (2.1) VERSES Haley Giavara, (1.65)",
-        "start_time_aest": "2026-02-19T06:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Ema Burgic Bucko",
-                "position": "HOME",
-                "short_name": "Burgic Bucko"
-            },
-            {
-                "full_name": "Haley Giavara",
-                "position": "AWAY",
-                "short_name": "Giavara"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ema Burgic Bucko",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Haley Giavara",
-                "returnWin": 1.65
-            }
-        ],
-        "match_name": "Burgic Bucko v Giavara",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T19:30:00.000Z"
-    },
-    {
-        "contestant_names": "Knack Randstad Roeselare, (1.46) VERSES Halkbank, (2.5)",
-        "start_time_aest": "2026-02-19T06:30:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Champions League Men",
-        "contestants": [
-            {
-                "full_name": "Knack Randstad Roeselare",
-                "position": "HOME",
-                "short_name": "Randstad Roes"
-            },
-            {
-                "full_name": "Halkbank",
-                "position": "AWAY",
-                "short_name": "Halkbank"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Knack Randstad Roeselare",
-                "returnWin": 1.46
-            },
-            {
-                "name": "Halkbank",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Randstad Roes v Halkbank",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T19:30:00.000Z"
-    },
-    {
-        "contestant_names": "Trentino Volley, (2.2) VERSES Ziraat Bankasi Ankara, (1.6)",
-        "start_time_aest": "2026-02-19T06:30:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Champions League Men",
-        "contestants": [
-            {
-                "full_name": "Trentino Volley",
-                "position": "HOME",
-                "short_name": "Trentino"
-            },
-            {
-                "full_name": "Ziraat Bankasi Ankara",
-                "position": "AWAY",
-                "short_name": "Ziraat Bankasi"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Trentino Volley",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Ziraat Bankasi Ankara",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Trentino v Ziraat Bankasi",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T19:30:00.000Z"
+        "start_time": "2026-02-18T20:00:00.000Z"
     }
 ]
