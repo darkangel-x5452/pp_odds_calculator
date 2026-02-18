@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Adelaide, (2.25) VERSES Moreton Bay, (1.6)",
-        "start_time_aest": "2026-02-18T17:15:00+11:00",
-        "sport_name": "Lawn Bowls",
-        "competition_name": "Bowls Premier League",
-        "contestants": [
-            {
-                "full_name": "Adelaide",
-                "position": "HOME",
-                "short_name": "Adelaide"
-            },
-            {
-                "full_name": "Moreton Bay",
-                "position": "AWAY",
-                "short_name": "Moreton Bay"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Adelaide",
-                "returnWin": 2.25
-            },
-            {
-                "name": "Moreton Bay",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Adelaide v Moreton Bay",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T06:15:00.000Z"
-    },
-    {
         "contestant_names": "Sri Lanka (W), (1.8) VERSES Thailand (W), (2)",
         "start_time_aest": "2026-02-18T18:00:00+11:00",
         "sport_name": "Cricket",
@@ -215,5 +184,67 @@
         "match_name": "Abouelsaad v Sim",
         "betOption": "Head To Head",
         "start_time": "2026-02-18T07:30:00.000Z"
+    },
+    {
+        "contestant_names": "Leonardo Rossi, (1.62) VERSES Emanuel Ivanisevic, (2.15)",
+        "start_time_aest": "2026-02-18T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Leonardo Rossi",
+                "position": "HOME",
+                "short_name": "Rossi L"
+            },
+            {
+                "full_name": "Emanuel Ivanisevic",
+                "position": "AWAY",
+                "short_name": "Ivanisevic E"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Leonardo Rossi",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Emanuel Ivanisevic",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Rossi L v Ivanisevic E",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "BaragiolaMordini, (2) VERSES Niklas Waldner, (1.72)",
+        "start_time_aest": "2026-02-18T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "BaragiolaMordini",
+                "position": "HOME",
+                "short_name": "BaragiolaMordini"
+            },
+            {
+                "full_name": "Niklas Waldner",
+                "position": "AWAY",
+                "short_name": "Waldner"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "BaragiolaMordini",
+                "returnWin": 2
+            },
+            {
+                "name": "Niklas Waldner",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "BaragiolaMordini v Waldner",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T08:00:00.000Z"
     }
 ]
