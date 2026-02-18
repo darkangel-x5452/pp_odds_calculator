@@ -1,129 +1,5 @@
 [
     {
-        "contestant_names": "Reasco Gonzalez, (2.15) VERSES Alina Shcherbinina, (1.62)",
-        "start_time_aest": "2026-02-19T09:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Reasco Gonzalez",
-                "position": "HOME",
-                "short_name": "Reasco Gonzalez"
-            },
-            {
-                "full_name": "Alina Shcherbinina",
-                "position": "AWAY",
-                "short_name": "Shcherbinina"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Reasco Gonzalez",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Alina Shcherbinina",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Reasco Gonzalez v Shcherbinina",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T22:15:00.000Z"
-    },
-    {
-        "contestant_names": "Doumbia/Reboul, (1.52) VERSES Demoliner/Romboli, (2.4)",
-        "start_time_aest": "2026-02-19T09:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "contestants": [
-            {
-                "full_name": "Doumbia/Reboul",
-                "position": "HOME",
-                "short_name": "Doumbia/Reboul"
-            },
-            {
-                "full_name": "Demoliner/Romboli",
-                "position": "AWAY",
-                "short_name": "Demoliner/Romboli"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Doumbia/Reboul",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Demoliner/Romboli",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Doumbia/Reboul v Demoliner/Romboli",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T22:30:00.000Z"
-    },
-    {
-        "contestant_names": "Basquete Cearens, (2) VERSES Pato, (1.7)",
-        "start_time_aest": "2026-02-19T09:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Brazil NBB",
-        "contestants": [
-            {
-                "full_name": "Basquete Cearens",
-                "position": "HOME",
-                "short_name": "Basquete Cearens"
-            },
-            {
-                "full_name": "Pato",
-                "position": "AWAY",
-                "short_name": "Pato"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Basquete Cearens",
-                "returnWin": 2
-            },
-            {
-                "name": "Pato",
-                "returnWin": 1.7
-            }
-        ],
-        "match_name": "Basquete Cearens v Pato",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T22:30:00.000Z"
-    },
-    {
-        "contestant_names": "Andreozzi/Guinard, (2) VERSES Matos/Luz, (1.75)",
-        "start_time_aest": "2026-02-19T09:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "contestants": [
-            {
-                "full_name": "Andreozzi/Guinard",
-                "position": "HOME",
-                "short_name": "Andreozzi/Guinard"
-            },
-            {
-                "full_name": "Matos/Luz",
-                "position": "AWAY",
-                "short_name": "Matos/Luz"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Andreozzi/Guinard",
-                "returnWin": 2
-            },
-            {
-                "name": "Matos/Luz",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Andreozzi/Guinard v Matos/Luz",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-18T22:30:00.000Z"
-    },
-    {
         "contestant_names": "Haase/Frantzen, (1.5) VERSES Etcheverry/Darderi, (2.5)",
         "start_time_aest": "2026-02-19T09:45:00+11:00",
         "sport_name": "Tennis",
@@ -244,6 +120,37 @@
             }
         ],
         "match_name": "Michelsen A v Korda S",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-18T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Andreozzi/Guinard, (2) VERSES Matos/Luz, (1.75)",
+        "start_time_aest": "2026-02-19T10:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP Doubles",
+        "contestants": [
+            {
+                "full_name": "Andreozzi/Guinard",
+                "position": "HOME",
+                "short_name": "Andreozzi/Guinard"
+            },
+            {
+                "full_name": "Matos/Luz",
+                "position": "AWAY",
+                "short_name": "Matos/Luz"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Andreozzi/Guinard",
+                "returnWin": 2
+            },
+            {
+                "name": "Matos/Luz",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Andreozzi/Guinard v Matos/Luz",
         "betOption": "Head To Head",
         "start_time": "2026-02-18T23:00:00.000Z"
     },
