@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Flamengo, (2.3) VERSES Franca, (1.52)",
-        "start_time_aest": "2026-02-20T09:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Brazil NBB",
-        "contestants": [
-            {
-                "full_name": "Flamengo",
-                "position": "HOME",
-                "short_name": "Flamengo"
-            },
-            {
-                "full_name": "Franca",
-                "position": "AWAY",
-                "short_name": "Franca"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Flamengo",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Franca",
-                "returnWin": 1.52
-            }
-        ],
-        "match_name": "Flamengo v Franca",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-19T22:00:00.000Z"
-    },
-    {
         "contestant_names": "Doumbia/Reboul, (1.52) VERSES Haase/Frantzen, (2.4)",
         "start_time_aest": "2026-02-20T09:05:00+11:00",
         "sport_name": "Tennis",
@@ -122,5 +91,36 @@
         "match_name": "Florida State v California",
         "betOption": "Head To Head",
         "start_time": "2026-02-19T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Def Sporting, (1.5) VERSES Aguada, (2.35)",
+        "start_time_aest": "2026-02-20T10:15:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Uruguay LUB",
+        "contestants": [
+            {
+                "full_name": "Def Sporting",
+                "position": "HOME",
+                "short_name": "Def Sporting"
+            },
+            {
+                "full_name": "Aguada",
+                "position": "AWAY",
+                "short_name": "Aguada"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Def Sporting",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Aguada",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Def Sporting v Aguada",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-19T23:15:00.000Z"
     }
 ]
