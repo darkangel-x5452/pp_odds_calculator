@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Emily De Oliveira, (2.25) VERSES Ana Grubor, (1.58)",
-        "start_time_aest": "2026-02-20T03:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Emily De Oliveira",
-                "position": "HOME",
-                "short_name": "De Oliveira"
-            },
-            {
-                "full_name": "Ana Grubor",
-                "position": "AWAY",
-                "short_name": "Grubor"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Emily De Oliveira",
-                "returnWin": 2.25
-            },
-            {
-                "name": "Ana Grubor",
-                "returnWin": 1.58
-            }
-        ],
-        "match_name": "De Oliveira v Grubor",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-19T16:30:00.000Z"
-    },
-    {
-        "contestant_names": "Athina Schlepphorst, (2.5) VERSES Charlotte Narti, (1.46)",
-        "start_time_aest": "2026-02-20T03:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Athina Schlepphorst",
-                "position": "HOME",
-                "short_name": "Schlepphorst"
-            },
-            {
-                "full_name": "Charlotte Narti",
-                "position": "AWAY",
-                "short_name": "Narti"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Athina Schlepphorst",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Charlotte Narti",
-                "returnWin": 1.46
-            }
-        ],
-        "match_name": "Schlepphorst v Narti",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-19T16:30:00.000Z"
-    },
-    {
         "contestant_names": "Reyer Venezia, (1.52) VERSES Bertram Tortona, (2.35)",
         "start_time_aest": "2026-02-20T04:00:00+11:00",
         "sport_name": "Basketball",
@@ -120,6 +58,37 @@
             }
         ],
         "match_name": "Winter E v Andres Martin",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-19T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Smith/Stoiana, (2.4) VERSES Haverlag/Lumsden, (1.5)",
+        "start_time_aest": "2026-02-20T04:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Doubles",
+        "contestants": [
+            {
+                "full_name": "Smith/Stoiana",
+                "position": "HOME",
+                "short_name": "Smith/Stoiana"
+            },
+            {
+                "full_name": "Haverlag/Lumsden",
+                "position": "AWAY",
+                "short_name": "Haverlag/Lumsden"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Smith/Stoiana",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Haverlag/Lumsden",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Smith/Stoiana v Haverlag/Lumsden",
         "betOption": "Head To Head",
         "start_time": "2026-02-19T17:00:00.000Z"
     }
