@@ -1,38 +1,7 @@
 [
     {
-        "contestant_names": "Reyer Venezia, (1.52) VERSES Bertram Tortona, (2.35)",
-        "start_time_aest": "2026-02-20T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Italian Cup",
-        "contestants": [
-            {
-                "full_name": "Reyer Venezia",
-                "position": "HOME",
-                "short_name": "Reyer Venezia"
-            },
-            {
-                "full_name": "Bertram Tortona",
-                "position": "AWAY",
-                "short_name": "Bertram Tortona"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Reyer Venezia",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Bertram Tortona",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Reyer Venezia v Bertram Tortona",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-19T17:00:00.000Z"
-    },
-    {
         "contestant_names": "Edward Winter, (2.5) VERSES Andres Martin, (1.46)",
-        "start_time_aest": "2026-02-20T04:00:00+11:00",
+        "start_time_aest": "2026-02-20T04:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "contestants": [
@@ -59,37 +28,99 @@
         ],
         "match_name": "Winter E v Andres Martin",
         "betOption": "Head To Head",
-        "start_time": "2026-02-19T17:00:00.000Z"
+        "start_time": "2026-02-19T17:15:00.000Z"
     },
     {
-        "contestant_names": "Smith/Stoiana, (2.4) VERSES Haverlag/Lumsden, (1.5)",
-        "start_time_aest": "2026-02-20T04:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA 125 Doubles",
+        "contestant_names": "Juventus (W), (2.15) VERSES Wolfsburg (W), (1.62)",
+        "start_time_aest": "2026-02-20T04:45:00+11:00",
+        "sport_name": "Soccer",
+        "competition_name": "UEFA Womens Champions League",
         "contestants": [
             {
-                "full_name": "Smith/Stoiana",
+                "full_name": "Juventus (W)",
                 "position": "HOME",
-                "short_name": "Smith/Stoiana"
+                "short_name": "Juventus (W)"
             },
             {
-                "full_name": "Haverlag/Lumsden",
+                "full_name": "Wolfsburg (W)",
                 "position": "AWAY",
-                "short_name": "Haverlag/Lumsden"
+                "short_name": "Wolfsburg (W)"
             }
         ],
         "propositions": [
             {
-                "name": "Smith/Stoiana",
-                "returnWin": 2.4
+                "name": "Juventus (W)",
+                "returnWin": 2.15
             },
             {
-                "name": "Haverlag/Lumsden",
-                "returnWin": 1.5
+                "name": "Wolfsburg (W)",
+                "returnWin": 1.62
             }
         ],
-        "match_name": "Smith/Stoiana v Haverlag/Lumsden",
+        "match_name": "Juventus (W) v Wolfsburg (W)",
+        "betOption": "Winner of Tie",
+        "start_time": "2026-02-19T17:45:00.000Z"
+    },
+    {
+        "contestant_names": "Vejen, (1.58) VERSES Bakken Academy, (2.25)",
+        "start_time_aest": "2026-02-20T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Denmark Basketligaen",
+        "contestants": [
+            {
+                "full_name": "Vejen",
+                "position": "HOME",
+                "short_name": "Vejen"
+            },
+            {
+                "full_name": "Bakken Academy",
+                "position": "AWAY",
+                "short_name": "Bakken Academy"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Vejen",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Bakken Academy",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Vejen v Bakken Academy",
         "betOption": "Head To Head",
-        "start_time": "2026-02-19T17:00:00.000Z"
+        "start_time": "2026-02-19T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Herlev, (1.68) VERSES Vaerlose, (2.05)",
+        "start_time_aest": "2026-02-20T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Denmark Basketligaen",
+        "contestants": [
+            {
+                "full_name": "Herlev",
+                "position": "HOME",
+                "short_name": "Herlev"
+            },
+            {
+                "full_name": "Vaerlose",
+                "position": "AWAY",
+                "short_name": "Vaerlose"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Herlev",
+                "returnWin": 1.68
+            },
+            {
+                "name": "Vaerlose",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Herlev v Vaerlose",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-19T18:00:00.000Z"
     }
 ]
