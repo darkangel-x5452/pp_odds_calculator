@@ -1,7 +1,7 @@
 [
     {
-        "contestant_names": "Doumbia/Reboul, (1.52) VERSES Haase/Frantzen, (2.4)",
-        "start_time_aest": "2026-02-20T09:05:00+11:00",
+        "contestant_names": "Doumbia/Reboul, (1.55) VERSES Haase/Frantzen, (2.35)",
+        "start_time_aest": "2026-02-20T09:35:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP Doubles",
         "contestants": [
@@ -19,16 +19,16 @@
         "propositions": [
             {
                 "name": "Doumbia/Reboul",
-                "returnWin": 1.52
+                "returnWin": 1.55
             },
             {
                 "name": "Haase/Frantzen",
-                "returnWin": 2.4
+                "returnWin": 2.35
             }
         ],
         "match_name": "Doumbia/Reboul v Haase/Frantzen",
         "betOption": "Head To Head",
-        "start_time": "2026-02-19T22:05:00.000Z"
+        "start_time": "2026-02-19T22:35:00.000Z"
     },
     {
         "contestant_names": "UMBC, (2) VERSES Vermont, (1.8)",
@@ -93,6 +93,37 @@
         "start_time": "2026-02-19T23:00:00.000Z"
     },
     {
+        "contestant_names": "UMass-Lowell, (1.53) VERSES New Hampshire, (2.5)",
+        "start_time_aest": "2026-02-20T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "UMass-Lowell",
+                "position": "HOME",
+                "short_name": "UMass-Lowell"
+            },
+            {
+                "full_name": "New Hampshire",
+                "position": "AWAY",
+                "short_name": "New Hampshire"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "UMass-Lowell",
+                "returnWin": 1.53
+            },
+            {
+                "name": "New Hampshire",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "UMass-Lowell v New Hampshire",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-19T23:00:00.000Z"
+    },
+    {
         "contestant_names": "Def Sporting, (1.5) VERSES Aguada, (2.35)",
         "start_time_aest": "2026-02-20T10:15:00+11:00",
         "sport_name": "Basketball",
@@ -120,6 +151,37 @@
             }
         ],
         "match_name": "Def Sporting v Aguada",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-19T23:15:00.000Z"
+    },
+    {
+        "contestant_names": "Malvin, (1.45) VERSES Union Atletica, (2.5)",
+        "start_time_aest": "2026-02-20T10:15:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Uruguay LUB",
+        "contestants": [
+            {
+                "full_name": "Malvin",
+                "position": "HOME",
+                "short_name": "Malvin"
+            },
+            {
+                "full_name": "Union Atletica",
+                "position": "AWAY",
+                "short_name": "Union Atletica"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Malvin",
+                "returnWin": 1.45
+            },
+            {
+                "name": "Union Atletica",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Malvin v Union Atletica",
         "betOption": "Head To Head",
         "start_time": "2026-02-19T23:15:00.000Z"
     }
