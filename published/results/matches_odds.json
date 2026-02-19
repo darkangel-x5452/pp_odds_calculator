@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Toulouse Volley, (2.2) VERSES Tourcoing Lille Metropole, (1.6)",
-        "start_time_aest": "2026-02-20T06:00:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "France Ligue A",
-        "contestants": [
-            {
-                "full_name": "Toulouse Volley",
-                "position": "HOME",
-                "short_name": "Toulouse Volley"
-            },
-            {
-                "full_name": "Tourcoing Lille Metropole",
-                "position": "AWAY",
-                "short_name": "Tourcoing Lille"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Toulouse Volley",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Tourcoing Lille Metropole",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Toulouse Volley v Tourcoing Lille",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-19T19:00:00.000Z"
-    },
-    {
         "contestant_names": "Njarovik, (2) VERSES KR Reykjavik, (1.72)",
         "start_time_aest": "2026-02-20T06:15:00+11:00",
         "sport_name": "Basketball",
@@ -60,5 +29,129 @@
         "match_name": "Njarovik v KR Reykjavik",
         "betOption": "Head To Head",
         "start_time": "2026-02-19T19:15:00.000Z"
+    },
+    {
+        "contestant_names": "Arka Gdynia, (1.48) VERSES Gornik Walbrzych, (2.4)",
+        "start_time_aest": "2026-02-20T06:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Poland Cup",
+        "contestants": [
+            {
+                "full_name": "Arka Gdynia",
+                "position": "HOME",
+                "short_name": "Arka Gdynia"
+            },
+            {
+                "full_name": "Gornik Walbrzych",
+                "position": "AWAY",
+                "short_name": "Gornik Walbrzych"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Arka Gdynia",
+                "returnWin": 1.48
+            },
+            {
+                "name": "Gornik Walbrzych",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Arka Gdynia v Gornik Walbrzych",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-19T19:30:00.000Z"
+    },
+    {
+        "contestant_names": "Damir Dzumhur, (2.35) VERSES Jaime Faria, (1.55)",
+        "start_time_aest": "2026-02-20T06:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "contestants": [
+            {
+                "full_name": "Damir Dzumhur",
+                "position": "HOME",
+                "short_name": "Dzumhur"
+            },
+            {
+                "full_name": "Jaime Faria",
+                "position": "AWAY",
+                "short_name": "Faria J"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Damir Dzumhur",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Jaime Faria",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Dzumhur v Faria J",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-19T19:30:00.000Z"
+    },
+    {
+        "contestant_names": "Martin Landaluce, (2.05) VERSES Jerome Kym, (1.68)",
+        "start_time_aest": "2026-02-20T06:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Martin Landaluce",
+                "position": "HOME",
+                "short_name": "Landaluce"
+            },
+            {
+                "full_name": "Jerome Kym",
+                "position": "AWAY",
+                "short_name": "Kym"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Martin Landaluce",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Jerome Kym",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Landaluce v Kym",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-19T19:30:00.000Z"
+    },
+    {
+        "contestant_names": "Savannah Broadus, (2.05) VERSES Edda Mamedova, (1.68)",
+        "start_time_aest": "2026-02-20T06:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Savannah Broadus",
+                "position": "HOME",
+                "short_name": "Broadus"
+            },
+            {
+                "full_name": "Edda Mamedova",
+                "position": "AWAY",
+                "short_name": "Mamedova"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Savannah Broadus",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Edda Mamedova",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Broadus v Mamedova",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-19T19:30:00.000Z"
     }
 ]
