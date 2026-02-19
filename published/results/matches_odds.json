@@ -1,7 +1,7 @@
 [
     {
-        "contestant_names": "Zachary Svajda, (2.4) VERSES Frances Tiafoe, (1.52)",
-        "start_time_aest": "2026-02-20T07:00:00+11:00",
+        "contestant_names": "Zachary Svajda, (2.5) VERSES Frances Tiafoe, (1.5)",
+        "start_time_aest": "2026-02-20T07:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP",
         "contestants": [
@@ -19,16 +19,47 @@
         "propositions": [
             {
                 "name": "Zachary Svajda",
-                "returnWin": 2.4
+                "returnWin": 2.5
             },
             {
                 "name": "Frances Tiafoe",
-                "returnWin": 1.52
+                "returnWin": 1.5
             }
         ],
         "match_name": "Svajda Z v Tiafoe",
         "betOption": "Head To Head",
-        "start_time": "2026-02-19T20:00:00.000Z"
+        "start_time": "2026-02-19T20:15:00.000Z"
+    },
+    {
+        "contestant_names": "Jonny Clayton, (2.5) VERSES Gerwyn Price, (1.5)",
+        "start_time_aest": "2026-02-20T07:20:00+11:00",
+        "sport_name": "Darts",
+        "competition_name": "PDC Premier League Matches",
+        "contestants": [
+            {
+                "full_name": "Jonny Clayton",
+                "position": "HOME",
+                "short_name": "Clayton J"
+            },
+            {
+                "full_name": "Gerwyn Price",
+                "position": "AWAY",
+                "short_name": "Price"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jonny Clayton",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Gerwyn Price",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Clayton J  v Price",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-19T20:20:00.000Z"
     },
     {
         "contestant_names": "Cross/Rogers, (1.58) VERSES Ma/Vidmanova, (2.25)",
@@ -91,6 +122,68 @@
         "match_name": "Doumbia/Reboul v Haase/Frantzen",
         "betOption": "Head To Head",
         "start_time": "2026-02-19T21:30:00.000Z"
+    },
+    {
+        "contestant_names": "Central Stags, (1.65) VERSES Wellington Firebirds, (2.2)",
+        "start_time_aest": "2026-02-20T08:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "NZ Ford Trophy",
+        "contestants": [
+            {
+                "full_name": "Central Stags",
+                "position": "HOME",
+                "short_name": "Central Stags"
+            },
+            {
+                "full_name": "Wellington Firebirds",
+                "position": "AWAY",
+                "short_name": "Wellington"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Central Stags",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Wellington Firebirds",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Central Stags v Wellington",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-19T21:30:00.000Z"
+    },
+    {
+        "contestant_names": "Flamengo, (2.3) VERSES Franca, (1.52)",
+        "start_time_aest": "2026-02-20T09:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Brazil NBB",
+        "contestants": [
+            {
+                "full_name": "Flamengo",
+                "position": "HOME",
+                "short_name": "Flamengo"
+            },
+            {
+                "full_name": "Franca",
+                "position": "AWAY",
+                "short_name": "Franca"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Flamengo",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Franca",
+                "returnWin": 1.52
+            }
+        ],
+        "match_name": "Flamengo v Franca",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-19T22:00:00.000Z"
     },
     {
         "contestant_names": "UMBC, (2) VERSES Vermont, (1.8)",
