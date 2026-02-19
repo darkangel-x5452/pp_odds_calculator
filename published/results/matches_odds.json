@@ -1,126 +1,64 @@
 [
     {
-        "contestant_names": "Def Sporting, (1.5) VERSES Aguada, (2.35)",
-        "start_time_aest": "2026-02-20T10:15:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Uruguay LUB",
-        "contestants": [
-            {
-                "full_name": "Def Sporting",
-                "position": "HOME",
-                "short_name": "Def Sporting"
-            },
-            {
-                "full_name": "Aguada",
-                "position": "AWAY",
-                "short_name": "Aguada"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Def Sporting",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Aguada",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Def Sporting v Aguada",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-19T23:15:00.000Z"
-    },
-    {
-        "contestant_names": "Malvin, (1.45) VERSES Union Atletica, (2.5)",
-        "start_time_aest": "2026-02-20T10:15:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Uruguay LUB",
-        "contestants": [
-            {
-                "full_name": "Malvin",
-                "position": "HOME",
-                "short_name": "Malvin"
-            },
-            {
-                "full_name": "Union Atletica",
-                "position": "AWAY",
-                "short_name": "Union Atletica"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Malvin",
-                "returnWin": 1.45
-            },
-            {
-                "name": "Union Atletica",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Malvin v Union Atletica",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-19T23:15:00.000Z"
-    },
-    {
-        "contestant_names": "San Lorenzo, (2.4) VERSES Quimsa, (1.48)",
-        "start_time_aest": "2026-02-20T10:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga Nacional de Basket",
-        "contestants": [
-            {
-                "full_name": "San Lorenzo",
-                "position": "HOME",
-                "short_name": "San Lorenzo"
-            },
-            {
-                "full_name": "Quimsa",
-                "position": "AWAY",
-                "short_name": "Quimsa"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "San Lorenzo",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Quimsa",
-                "returnWin": 1.48
-            }
-        ],
-        "match_name": "San Lorenzo v Quimsa",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-19T23:30:00.000Z"
-    },
-    {
-        "contestant_names": "Appalachian St, (1.58) VERSES Marshall, (2.4)",
-        "start_time_aest": "2026-02-20T10:30:00+11:00",
+        "contestant_names": "Northeastern, (1.85) VERSES Drexel, (1.95)",
+        "start_time_aest": "2026-02-20T11:00:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Appalachian St",
+                "full_name": "Northeastern",
                 "position": "HOME",
-                "short_name": "Appalachian St"
+                "short_name": "Northeastern"
             },
             {
-                "full_name": "Marshall",
+                "full_name": "Drexel",
                 "position": "AWAY",
-                "short_name": "Marshall"
+                "short_name": "Drexel"
             }
         ],
         "propositions": [
             {
-                "name": "Appalachian St",
-                "returnWin": 1.58
+                "name": "Northeastern",
+                "returnWin": 1.85
             },
             {
-                "name": "Marshall",
-                "returnWin": 2.4
+                "name": "Drexel",
+                "returnWin": 1.95
             }
         ],
-        "match_name": "Appalachian St v Marshall",
+        "match_name": "Northeastern v Drexel",
         "betOption": "Head To Head",
-        "start_time": "2026-02-19T23:30:00.000Z"
+        "start_time": "2026-02-20T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Campbell, (2.15) VERSES WilliamMary, (1.7)",
+        "start_time_aest": "2026-02-20T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Campbell",
+                "position": "HOME",
+                "short_name": "Campbell"
+            },
+            {
+                "full_name": "WilliamMary",
+                "position": "AWAY",
+                "short_name": "WilliamMary"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Campbell",
+                "returnWin": 2.15
+            },
+            {
+                "name": "WilliamMary",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "Campbell v WilliamMary",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-20T00:00:00.000Z"
     }
 ]
