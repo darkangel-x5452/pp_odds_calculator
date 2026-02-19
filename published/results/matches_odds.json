@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "San Jose State, (1.95) VERSES Utah State, (1.8)",
-        "start_time_aest": "2026-02-19T14:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "San Jose State",
-                "position": "HOME",
-                "short_name": "San Jose State"
-            },
-            {
-                "full_name": "Utah State",
-                "position": "AWAY",
-                "short_name": "Utah State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "San Jose State",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Utah State",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "San Jose State v Utah State",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-19T03:00:00.000Z"
-    },
-    {
         "contestant_names": "UNLV, (1.7) VERSES Colorado State, (2.15)",
         "start_time_aest": "2026-02-19T15:00:00+11:00",
         "sport_name": "Basketball",
@@ -122,5 +91,67 @@
         "match_name": "Kuzmanov v Noguchi",
         "betOption": "Head To Head",
         "start_time": "2026-02-19T04:30:00.000Z"
+    },
+    {
+        "contestant_names": "New Zealand, (1.53) VERSES Cairns, (2.45)",
+        "start_time_aest": "2026-02-19T17:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBL",
+        "contestants": [
+            {
+                "full_name": "New Zealand",
+                "position": "HOME",
+                "short_name": "New Zealand"
+            },
+            {
+                "full_name": "Cairns",
+                "position": "AWAY",
+                "short_name": "Cairns"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "New Zealand",
+                "returnWin": 1.53
+            },
+            {
+                "name": "Cairns",
+                "returnWin": 2.45
+            }
+        ],
+        "match_name": "New Zealand v Cairns",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-19T06:30:00.000Z"
+    },
+    {
+        "contestant_names": "Michael Geerts, (1.75) VERSES Daniel Michalski, (1.95)",
+        "start_time_aest": "2026-02-19T17:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Michael Geerts",
+                "position": "HOME",
+                "short_name": "Geerts"
+            },
+            {
+                "full_name": "Daniel Michalski",
+                "position": "AWAY",
+                "short_name": "Michalski"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Michael Geerts",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Daniel Michalski",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Geerts v Michalski",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-19T06:30:00.000Z"
     }
 ]
