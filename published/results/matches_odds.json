@@ -1,160 +1,5 @@
 [
     {
-        "contestant_names": "OG, (1.75) VERSES BetBoom Team, (1.95)",
-        "start_time_aest": "2026-02-21T03:15:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "DOTA2",
-        "contestants": [
-            {
-                "full_name": "OG",
-                "position": "HOME",
-                "short_name": "Og"
-            },
-            {
-                "full_name": "BetBoom Team",
-                "position": "AWAY",
-                "short_name": "Betboom Team"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "OG",
-                "returnWin": 1.75
-            },
-            {
-                "name": "BetBoom Team",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Og v Betboom Team",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-20T16:15:00.000Z"
-    },
-    {
-        "contestant_names": "Elina Svitolina, (2.1) VERSES Coco Gauff, (1.7)",
-        "start_time_aest": "2026-02-21T03:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "contestants": [
-            {
-                "full_name": "Elina Svitolina",
-                "position": "HOME",
-                "short_name": "Svitolina"
-            },
-            {
-                "full_name": "Coco Gauff",
-                "position": "AWAY",
-                "short_name": "Gauff C"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Elina Svitolina",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Coco Gauff",
-                "returnWin": 1.7
-            }
-        ],
-        "match_name": "Svitolina v Gauff C",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-20T16:15:00.000Z"
-    },
-    {
-        "contestant_names": "Shumen Basket, (1.55) VERSES Levski Lukoil, (2.3)",
-        "start_time_aest": "2026-02-21T03:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Bulgaria NBL",
-        "contestants": [
-            {
-                "full_name": "Shumen Basket",
-                "position": "HOME",
-                "short_name": "Shumen Basket"
-            },
-            {
-                "full_name": "Levski Lukoil",
-                "position": "AWAY",
-                "short_name": "Levski Lukoil"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Shumen Basket",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Levski Lukoil",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Shumen Basket v Levski Lukoil",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-20T16:30:00.000Z"
-    },
-    {
-        "contestant_names": "Tapiolan Honka, (1.45) VERSES Helsinki Seagull, (2.5)",
-        "start_time_aest": "2026-02-21T03:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Finland Korisliiga",
-        "contestants": [
-            {
-                "full_name": "Tapiolan Honka",
-                "position": "HOME",
-                "short_name": "Tapiolan Honka"
-            },
-            {
-                "full_name": "Helsinki Seagull",
-                "position": "AWAY",
-                "short_name": "Helsinki Seagull"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Tapiolan Honka",
-                "returnWin": 1.45
-            },
-            {
-                "name": "Helsinki Seagull",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Tapiolan Honka v Helsinki Seagull",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-20T16:30:00.000Z"
-    },
-    {
-        "contestant_names": "Bella Payne, (2.2) VERSES Alexandra Vagramov, (1.6)",
-        "start_time_aest": "2026-02-21T03:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Bella Payne",
-                "position": "HOME",
-                "short_name": "Payne B"
-            },
-            {
-                "full_name": "Alexandra Vagramov",
-                "position": "AWAY",
-                "short_name": "Vagramov Alexand"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Bella Payne",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Alexandra Vagramov",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Payne B v Vagramov Alexand",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-20T16:30:00.000Z"
-    },
-    {
         "contestant_names": "Slask Wroclaw, (1.55) VERSES Dziki Warshawa, (2.25)",
         "start_time_aest": "2026-02-21T04:00:00+11:00",
         "sport_name": "Basketball",
@@ -215,5 +60,160 @@
         "match_name": "Saski Baskonia v Tenerife",
         "betOption": "Head To Head",
         "start_time": "2026-02-20T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Juan Pablo Ficovich, (2.05) VERSES Andres Andrade, (1.68)",
+        "start_time_aest": "2026-02-21T04:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "contestants": [
+            {
+                "full_name": "Juan Pablo Ficovich",
+                "position": "HOME",
+                "short_name": "Ficovich"
+            },
+            {
+                "full_name": "Andres Andrade",
+                "position": "AWAY",
+                "short_name": "Andrade A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Juan Pablo Ficovich",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Andres Andrade",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Ficovich v Andrade A",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-20T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Adrien Gobat, (2.15) VERSES Arthur Nagel, (1.62)",
+        "start_time_aest": "2026-02-21T04:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Adrien Gobat",
+                "position": "HOME",
+                "short_name": "Gobat A"
+            },
+            {
+                "full_name": "Arthur Nagel",
+                "position": "AWAY",
+                "short_name": "Nagel A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Adrien Gobat",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Arthur Nagel",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Gobat A v Nagel A",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-20T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "T Davidov, (2.35) VERSES Louis Wessels, (1.52)",
+        "start_time_aest": "2026-02-21T04:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "T Davidov",
+                "position": "HOME",
+                "short_name": "Davidov"
+            },
+            {
+                "full_name": "Louis Wessels",
+                "position": "AWAY",
+                "short_name": "Wessels"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "T Davidov",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Louis Wessels",
+                "returnWin": 1.52
+            }
+        ],
+        "match_name": "Davidov v Wessels",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-20T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Savannah Broadus, (2) VERSES Edda Mamedova, (1.72)",
+        "start_time_aest": "2026-02-21T04:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "contestants": [
+            {
+                "full_name": "Savannah Broadus",
+                "position": "HOME",
+                "short_name": "Broadus"
+            },
+            {
+                "full_name": "Edda Mamedova",
+                "position": "AWAY",
+                "short_name": "Mamedova"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Savannah Broadus",
+                "returnWin": 2
+            },
+            {
+                "name": "Edda Mamedova",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "Broadus v Mamedova",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-20T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Karmine Corp, (1.75) VERSES G2, (1.95)",
+        "start_time_aest": "2026-02-21T04:30:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "contestants": [
+            {
+                "full_name": "Karmine Corp",
+                "position": "HOME",
+                "short_name": "Karmine Corp"
+            },
+            {
+                "full_name": "G2",
+                "position": "AWAY",
+                "short_name": "G2"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Karmine Corp",
+                "returnWin": 1.75
+            },
+            {
+                "name": "G2",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Karmine Corp v G2",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-20T17:30:00.000Z"
     }
 ]
