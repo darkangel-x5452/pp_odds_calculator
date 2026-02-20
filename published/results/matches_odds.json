@@ -1,160 +1,5 @@
 [
     {
-        "contestant_names": "Federico Cina, (2.2) VERSES Rei Sakamoto, (1.6)",
-        "start_time_aest": "2026-02-20T20:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "contestants": [
-            {
-                "full_name": "Federico Cina",
-                "position": "HOME",
-                "short_name": "Cina"
-            },
-            {
-                "full_name": "Rei Sakamoto",
-                "position": "AWAY",
-                "short_name": "Sakamoto R"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Federico Cina",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Rei Sakamoto",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Cina v Sakamoto R",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-20T09:15:00.000Z"
-    },
-    {
-        "contestant_names": "Leo Borg, (2.15) VERSES Jack Loge, (1.62)",
-        "start_time_aest": "2026-02-20T20:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Leo Borg",
-                "position": "HOME",
-                "short_name": "Borg"
-            },
-            {
-                "full_name": "Jack Loge",
-                "position": "AWAY",
-                "short_name": "Loge"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Leo Borg",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Jack Loge",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Borg v Loge",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-20T09:30:00.000Z"
-    },
-    {
-        "contestant_names": "Ergi Kirkin, (2.5) VERSES Thomas Faurel, (1.46)",
-        "start_time_aest": "2026-02-20T20:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "contestants": [
-            {
-                "full_name": "Ergi Kirkin",
-                "position": "HOME",
-                "short_name": "Kirkin"
-            },
-            {
-                "full_name": "Thomas Faurel",
-                "position": "AWAY",
-                "short_name": "Faurel"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ergi Kirkin",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Thomas Faurel",
-                "returnWin": 1.46
-            }
-        ],
-        "match_name": "Kirkin v Faurel",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-20T09:30:00.000Z"
-    },
-    {
-        "contestant_names": "Hanne Vandewinkel, (1.48) VERSES Fangran Tian, (2.45)",
-        "start_time_aest": "2026-02-20T20:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "contestants": [
-            {
-                "full_name": "Hanne Vandewinkel",
-                "position": "HOME",
-                "short_name": "Vandewinkel"
-            },
-            {
-                "full_name": "Fangran Tian",
-                "position": "AWAY",
-                "short_name": "Tian F"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Hanne Vandewinkel",
-                "returnWin": 1.48
-            },
-            {
-                "name": "Fangran Tian",
-                "returnWin": 2.45
-            }
-        ],
-        "match_name": "Vandewinkel v Tian F",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-20T09:30:00.000Z"
-    },
-    {
-        "contestant_names": "Danilina/Krunic, (1.95) VERSES Dabrowski/Stefani, (1.8)",
-        "start_time_aest": "2026-02-20T20:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA Doubles",
-        "contestants": [
-            {
-                "full_name": "Danilina/Krunic",
-                "position": "HOME",
-                "short_name": "Danilina/Krunic"
-            },
-            {
-                "full_name": "Dabrowski/Stefani",
-                "position": "AWAY",
-                "short_name": "Dabrowski/Stefani"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Danilina/Krunic",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Dabrowski/Stefani",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "Danilina/Krunic v Dabrowski/Stefani",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-20T09:30:00.000Z"
-    },
-    {
         "contestant_names": "England Lions, (1.65) VERSES Pakistan A, (2.2)",
         "start_time_aest": "2026-02-20T21:00:00+11:00",
         "sport_name": "Cricket",
@@ -215,5 +60,98 @@
         "match_name": "Visscher v Vlasselaer",
         "betOption": "Head To Head",
         "start_time": "2026-02-20T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Maccabi Raanana, (2.1) VERSES Hapoel BeerSheva, (1.65)",
+        "start_time_aest": "2026-02-20T22:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Israel Super League",
+        "contestants": [
+            {
+                "full_name": "Maccabi Raanana",
+                "position": "HOME",
+                "short_name": "Maccabi Raanana"
+            },
+            {
+                "full_name": "Hapoel BeerSheva",
+                "position": "AWAY",
+                "short_name": "Hapoel BeerSheva"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Maccabi Raanana",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Hapoel BeerSheva",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Maccabi Raanana v Hapoel BeerSheva",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-20T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "mousesports, (1.55) VERSES Natus Vincere, (2.3)",
+        "start_time_aest": "2026-02-20T22:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "contestants": [
+            {
+                "full_name": "mousesports",
+                "position": "HOME",
+                "short_name": "Mousesports"
+            },
+            {
+                "full_name": "Natus Vincere",
+                "position": "AWAY",
+                "short_name": "Natus Vincere"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "mousesports",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Natus Vincere",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Mousesports v Natus Vincere",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-20T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Gastao Elias, (2.1) VERSES Lui Maxted, (1.65)",
+        "start_time_aest": "2026-02-20T22:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Gastao Elias",
+                "position": "HOME",
+                "short_name": "Elias"
+            },
+            {
+                "full_name": "Lui Maxted",
+                "position": "AWAY",
+                "short_name": "Maxted"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Gastao Elias",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Lui Maxted",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Elias v Maxted",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-20T11:00:00.000Z"
     }
 ]
