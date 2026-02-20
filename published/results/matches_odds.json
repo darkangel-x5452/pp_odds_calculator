@@ -1,64 +1,64 @@
 [
     {
-        "contestant_names": "Northeastern, (1.85) VERSES Drexel, (1.95)",
-        "start_time_aest": "2026-02-20T11:00:00+11:00",
+        "contestant_names": "Philadelphia, (1.85) VERSES Atlanta, (2)",
+        "start_time_aest": "2026-02-20T11:10:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "competition_name": "NBA",
         "contestants": [
             {
-                "full_name": "Northeastern",
+                "full_name": "Philadelphia",
                 "position": "HOME",
-                "short_name": "Northeastern"
+                "short_name": "Philadelphia"
             },
             {
-                "full_name": "Drexel",
+                "full_name": "Atlanta",
                 "position": "AWAY",
-                "short_name": "Drexel"
+                "short_name": "Atlanta"
             }
         ],
         "propositions": [
             {
-                "name": "Northeastern",
+                "name": "Philadelphia",
                 "returnWin": 1.85
             },
             {
-                "name": "Drexel",
-                "returnWin": 1.95
+                "name": "Atlanta",
+                "returnWin": 2
             }
         ],
-        "match_name": "Northeastern v Drexel",
+        "match_name": "Philadelphia v Atlanta",
         "betOption": "Head To Head",
-        "start_time": "2026-02-20T00:00:00.000Z"
+        "start_time": "2026-02-20T00:10:00.000Z"
     },
     {
-        "contestant_names": "Campbell, (2.15) VERSES WilliamMary, (1.7)",
-        "start_time_aest": "2026-02-20T11:00:00+11:00",
+        "contestant_names": "Washington, (2.1) VERSES Indiana, (1.77)",
+        "start_time_aest": "2026-02-20T11:10:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "competition_name": "NBA",
         "contestants": [
             {
-                "full_name": "Campbell",
+                "full_name": "Washington",
                 "position": "HOME",
-                "short_name": "Campbell"
+                "short_name": "Washington"
             },
             {
-                "full_name": "WilliamMary",
+                "full_name": "Indiana",
                 "position": "AWAY",
-                "short_name": "WilliamMary"
+                "short_name": "Indiana"
             }
         ],
         "propositions": [
             {
-                "name": "Campbell",
-                "returnWin": 2.15
+                "name": "Washington",
+                "returnWin": 2.1
             },
             {
-                "name": "WilliamMary",
-                "returnWin": 1.7
+                "name": "Indiana",
+                "returnWin": 1.77
             }
         ],
-        "match_name": "Campbell v WilliamMary",
+        "match_name": "Washington v Indiana",
         "betOption": "Head To Head",
-        "start_time": "2026-02-20T00:00:00.000Z"
+        "start_time": "2026-02-20T00:10:00.000Z"
     }
 ]
