@@ -1,129 +1,5 @@
 [
     {
-        "contestant_names": "Weber State, (1.85) VERSES Montana State, (1.95)",
-        "start_time_aest": "2026-02-20T13:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Weber State",
-                "position": "HOME",
-                "short_name": "Weber State"
-            },
-            {
-                "full_name": "Montana State",
-                "position": "AWAY",
-                "short_name": "Montana State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Weber State",
-                "returnWin": 1.85
-            },
-            {
-                "name": "Montana State",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Weber State v Montana State",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-20T02:00:00.000Z"
-    },
-    {
-        "contestant_names": "Idaho State, (2) VERSES Montana, (1.8)",
-        "start_time_aest": "2026-02-20T13:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Idaho State",
-                "position": "HOME",
-                "short_name": "Idaho State"
-            },
-            {
-                "full_name": "Montana",
-                "position": "AWAY",
-                "short_name": "Montana"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Idaho State",
-                "returnWin": 2
-            },
-            {
-                "name": "Montana",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "Idaho State v Montana",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-20T02:00:00.000Z"
-    },
-    {
-        "contestant_names": "Portland State, (1.58) VERSES Idaho, (2.4)",
-        "start_time_aest": "2026-02-20T13:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Portland State",
-                "position": "HOME",
-                "short_name": "Portland State"
-            },
-            {
-                "full_name": "Idaho",
-                "position": "AWAY",
-                "short_name": "Idaho"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Portland State",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Idaho",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Portland State v Idaho",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-20T02:00:00.000Z"
-    },
-    {
-        "contestant_names": "Oregon, (1.6) VERSES Nebraska, (2.25)",
-        "start_time_aest": "2026-02-20T13:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Oregon",
-                "position": "HOME",
-                "short_name": "Oregon"
-            },
-            {
-                "full_name": "Nebraska",
-                "position": "AWAY",
-                "short_name": "Nebraska"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Oregon",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Nebraska",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Oregon v Nebraska",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-20T02:00:00.000Z"
-    },
-    {
         "contestant_names": "CSU Fullerton, (1.85) VERSES UC Davis, (1.95)",
         "start_time_aest": "2026-02-20T14:00:00+11:00",
         "sport_name": "Basketball",
@@ -184,5 +60,67 @@
         "match_name": "Sacramento State v EastrnWashington",
         "betOption": "Head To Head",
         "start_time": "2026-02-20T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "LA Clippers, (2.5) VERSES Denver, (1.56)",
+        "start_time_aest": "2026-02-20T14:40:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "LA Clippers",
+                "position": "HOME",
+                "short_name": "LA Clippers"
+            },
+            {
+                "full_name": "Denver",
+                "position": "AWAY",
+                "short_name": "Denver"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "LA Clippers",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Denver",
+                "returnWin": 1.56
+            }
+        ],
+        "match_name": "LA Clippers v Denver",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-20T03:40:00.000Z"
+    },
+    {
+        "contestant_names": "Rishikesh, (1.8) VERSES Rudraprayag, (2)",
+        "start_time_aest": "2026-02-20T15:00:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Garhwal Cricket League",
+        "contestants": [
+            {
+                "full_name": "Rishikesh",
+                "position": "HOME",
+                "short_name": "Rishikesh"
+            },
+            {
+                "full_name": "Rudraprayag",
+                "position": "AWAY",
+                "short_name": "Rudraprayag"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Rishikesh",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Rudraprayag",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Rishikesh v Rudraprayag",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-20T04:00:00.000Z"
     }
 ]
