@@ -1,64 +1,29 @@
 [
     {
-        "contestant_names": "LA Clippers, (2.5) VERSES Denver, (1.56)",
-        "start_time_aest": "2026-02-20T14:40:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
+        "contestant_names": "Geelong, (1.65) VERSES Moama, (2.15)",
+        "start_time_aest": "2026-02-20T16:00:00+11:00",
+        "sport_name": "Lawn Bowls",
+        "competition_name": "Bowls Premier League",
         "contestants": [
             {
-                "full_name": "LA Clippers",
-                "position": "HOME",
-                "short_name": "LA Clippers"
+                "full_name": "Geelong"
             },
             {
-                "full_name": "Denver",
-                "position": "AWAY",
-                "short_name": "Denver"
+                "full_name": "Moama"
             }
         ],
         "propositions": [
             {
-                "name": "LA Clippers",
-                "returnWin": 2.5
+                "name": "Geelong",
+                "returnWin": 1.65
             },
             {
-                "name": "Denver",
-                "returnWin": 1.56
+                "name": "Moama",
+                "returnWin": 2.15
             }
         ],
-        "match_name": "LA Clippers v Denver",
+        "match_name": "BPL23 Elimination Final",
         "betOption": "Head To Head",
-        "start_time": "2026-02-20T03:40:00.000Z"
-    },
-    {
-        "contestant_names": "Rishikesh, (1.8) VERSES Rudraprayag, (2)",
-        "start_time_aest": "2026-02-20T15:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Garhwal Cricket League",
-        "contestants": [
-            {
-                "full_name": "Rishikesh",
-                "position": "HOME",
-                "short_name": "Rishikesh"
-            },
-            {
-                "full_name": "Rudraprayag",
-                "position": "AWAY",
-                "short_name": "Rudraprayag"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Rishikesh",
-                "returnWin": 1.8
-            },
-            {
-                "name": "Rudraprayag",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Rishikesh v Rudraprayag",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-20T04:00:00.000Z"
+        "start_time": "2026-02-20T05:00:00.000Z"
     }
 ]
