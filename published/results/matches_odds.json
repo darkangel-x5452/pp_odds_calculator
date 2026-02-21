@@ -1,96 +1,126 @@
 [
     {
-        "contestant_names": "Michael Smith, (2.05) VERSES Joe Cullen, (1.75)",
-        "start_time_aest": "2026-02-22T06:05:00+11:00",
-        "sport_name": "Darts",
-        "competition_name": "European Tour",
+        "contestant_names": "LDP Donza, (1.52) VERSES Guco Lier, (2.3)",
+        "start_time_aest": "2026-02-22T06:45:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Belgium Basketball League",
         "contestants": [
             {
-                "full_name": "Michael Smith",
+                "full_name": "LDP Donza",
                 "position": "HOME",
-                "short_name": "Smith M"
+                "short_name": "LDP Donza"
             },
             {
-                "full_name": "Joe Cullen",
+                "full_name": "Guco Lier",
                 "position": "AWAY",
-                "short_name": "Cullen"
+                "short_name": "Guco Lier"
             }
         ],
         "propositions": [
             {
-                "name": "Michael Smith",
-                "returnWin": 2.05
+                "name": "LDP Donza",
+                "returnWin": 1.52
             },
             {
-                "name": "Joe Cullen",
-                "returnWin": 1.75
+                "name": "Guco Lier",
+                "returnWin": 2.3
             }
         ],
-        "match_name": "Smith M v Cullen",
+        "match_name": "LDP Donza v Guco Lier",
         "betOption": "Head To Head",
-        "start_time": "2026-02-21T19:05:00.000Z"
+        "start_time": "2026-02-21T19:45:00.000Z"
     },
     {
-        "contestant_names": "La Salle, (2.5) VERSES Rhode Island, (1.53)",
-        "start_time_aest": "2026-02-22T06:30:00+11:00",
+        "contestant_names": "Le Mans, (2) VERSES Bourg en Bresse, (1.7)",
+        "start_time_aest": "2026-02-22T07:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "France Pro B Leaders Cup",
+        "contestants": [
+            {
+                "full_name": "Le Mans",
+                "position": "HOME",
+                "short_name": "Le Mans"
+            },
+            {
+                "full_name": "Bourg en Bresse",
+                "position": "AWAY",
+                "short_name": "Bourg en Bresse"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Le Mans",
+                "returnWin": 2
+            },
+            {
+                "name": "Bourg en Bresse",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "Le Mans v Bourg en Bresse",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-21T20:00:00.000Z"
+    },
+    {
+        "contestant_names": "FIU, (1.53) VERSES Missouri State, (2.5)",
+        "start_time_aest": "2026-02-22T07:00:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "La Salle",
+                "full_name": "FIU",
                 "position": "HOME",
-                "short_name": "La Salle"
+                "short_name": "FIU"
             },
             {
-                "full_name": "Rhode Island",
+                "full_name": "Missouri State",
                 "position": "AWAY",
-                "short_name": "Rhode Island"
+                "short_name": "Missouri State"
             }
         ],
         "propositions": [
             {
-                "name": "La Salle",
-                "returnWin": 2.5
+                "name": "FIU",
+                "returnWin": 1.53
             },
             {
-                "name": "Rhode Island",
-                "returnWin": 1.53
+                "name": "Missouri State",
+                "returnWin": 2.5
             }
         ],
-        "match_name": "La Salle v Rhode Island",
+        "match_name": "FIU v Missouri State",
         "betOption": "Head To Head",
-        "start_time": "2026-02-21T19:30:00.000Z"
+        "start_time": "2026-02-21T20:00:00.000Z"
     },
     {
-        "contestant_names": "Team Falcons, (1.46) VERSES BetBoom Team, (2.5)",
-        "start_time_aest": "2026-02-22T06:30:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "DOTA2",
-        "tournamentName": "DOTA2 - DreamLeague",
+        "contestant_names": "Maryland, (2.35) VERSES Washington, (1.6)",
+        "start_time_aest": "2026-02-22T07:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Team Falcons",
+                "full_name": "Maryland",
                 "position": "HOME",
-                "short_name": "Team Falcons"
+                "short_name": "Maryland"
             },
             {
-                "full_name": "BetBoom Team",
+                "full_name": "Washington",
                 "position": "AWAY",
-                "short_name": "Betboom Team"
+                "short_name": "Washington"
             }
         ],
         "propositions": [
             {
-                "name": "Team Falcons",
-                "returnWin": 1.46
+                "name": "Maryland",
+                "returnWin": 2.35
             },
             {
-                "name": "BetBoom Team",
-                "returnWin": 2.5
+                "name": "Washington",
+                "returnWin": 1.6
             }
         ],
-        "match_name": "Team Falcons v Betboom Team",
+        "match_name": "Maryland v Washington",
         "betOption": "Head To Head",
-        "start_time": "2026-02-21T19:30:00.000Z"
+        "start_time": "2026-02-21T20:00:00.000Z"
     }
 ]
