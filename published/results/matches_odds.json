@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Western Australia, (1.85) VERSES Victoria, (1.95)",
-        "start_time_aest": "2026-02-21T17:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "One Day Cup",
-        "contestants": [
-            {
-                "full_name": "Western Australia",
-                "position": "HOME",
-                "short_name": "Westn Australia"
-            },
-            {
-                "full_name": "Victoria",
-                "position": "AWAY",
-                "short_name": "Victoria"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Western Australia",
-                "returnWin": 1.85
-            },
-            {
-                "name": "Victoria",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Westn Australia v Victoria",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-21T06:00:00.000Z"
-    },
-    {
         "contestant_names": "Kagoshima Rebnis, (1.55) VERSES Fukuoka, (2.25)",
         "start_time_aest": "2026-02-21T17:05:00+11:00",
         "sport_name": "Basketball",
@@ -89,6 +58,37 @@
             }
         ],
         "match_name": "Ehime Orange v Kumamoto Volters",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-21T06:05:00.000Z"
+    },
+    {
+        "contestant_names": "Aomori Wats, (2) VERSES Veltex Shizuoka, (1.7)",
+        "start_time_aest": "2026-02-21T17:05:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Japan B League 2",
+        "contestants": [
+            {
+                "full_name": "Aomori Wats",
+                "position": "HOME",
+                "short_name": "Aomori Wats"
+            },
+            {
+                "full_name": "Veltex Shizuoka",
+                "position": "AWAY",
+                "short_name": "Veltex Shizuoka"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Aomori Wats",
+                "returnWin": 2
+            },
+            {
+                "name": "Veltex Shizuoka",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "Aomori Wats v Veltex Shizuoka",
         "betOption": "Head To Head",
         "start_time": "2026-02-21T06:05:00.000Z"
     },
