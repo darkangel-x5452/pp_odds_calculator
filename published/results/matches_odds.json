@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Otto Virtanen, (1.62) VERSES Aleksandar Vukic, (2.15)",
-        "start_time_aest": "2026-02-21T18:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "contestants": [
-            {
-                "full_name": "Otto Virtanen",
-                "position": "HOME",
-                "short_name": "Virtanen O"
-            },
-            {
-                "full_name": "Aleksandar Vukic",
-                "position": "AWAY",
-                "short_name": "Vukic A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Otto Virtanen",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Aleksandar Vukic",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Virtanen O v Vukic A",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-21T07:15:00.000Z"
-    },
-    {
         "contestant_names": "North West (W), (2.3) VERSES Garden Route (W), (1.6)",
         "start_time_aest": "2026-02-21T19:00:00+11:00",
         "sport_name": "Cricket",
@@ -153,5 +122,36 @@
         "match_name": "Poulsen v Rossi L",
         "betOption": "Head To Head",
         "start_time": "2026-02-21T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Max Alcala Gurri, (1.62) VERSES Cezar Cretu, (2.15)",
+        "start_time_aest": "2026-02-21T19:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "contestants": [
+            {
+                "full_name": "Max Alcala Gurri",
+                "position": "HOME",
+                "short_name": "Alcala Gurri"
+            },
+            {
+                "full_name": "Cezar Cretu",
+                "position": "AWAY",
+                "short_name": "Cretu"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Max Alcala Gurri",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Cezar Cretu",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Alcala Gurri v Cretu",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-21T08:30:00.000Z"
     }
 ]
