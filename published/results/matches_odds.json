@@ -1,69 +1,7 @@
 [
     {
-        "contestant_names": "WOOD Leigh, (1.7) VERSES WARRINGTON Josh, (2.1)",
-        "start_time_aest": "2026-02-22T09:02:00+11:00",
-        "sport_name": "Boxing",
-        "competition_name": "Woods vs Warrington II",
-        "contestants": [
-            {
-                "full_name": "WOOD Leigh",
-                "position": "HOME",
-                "short_name": "Wood L"
-            },
-            {
-                "full_name": "WARRINGTON Josh",
-                "position": "AWAY",
-                "short_name": "Warrington"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "WOOD Leigh",
-                "returnWin": 1.7
-            },
-            {
-                "name": "WARRINGTON Josh",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Wood L v Warrington",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-21T22:02:00.000Z"
-    },
-    {
-        "contestant_names": "Phoenix, (1.62) VERSES Orlando, (2.35)",
-        "start_time_aest": "2026-02-22T09:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Phoenix",
-                "position": "HOME",
-                "short_name": "Phoenix"
-            },
-            {
-                "full_name": "Orlando",
-                "position": "AWAY",
-                "short_name": "Orlando"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Phoenix",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Orlando",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Phoenix v Orlando",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-21T22:10:00.000Z"
-    },
-    {
         "contestant_names": "Alejandro Tabilo, (1.62) VERSES Ignacio Buse, (2.2)",
-        "start_time_aest": "2026-02-22T09:15:00+11:00",
+        "start_time_aest": "2026-02-22T09:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP",
         "tournamentName": "ATP Rio De Janeiro",
@@ -91,37 +29,192 @@
         ],
         "match_name": "Tabilo A v Buse",
         "betOption": "Head To Head",
-        "start_time": "2026-02-21T22:15:00.000Z"
+        "start_time": "2026-02-21T22:45:00.000Z"
     },
     {
-        "contestant_names": "Villanova, (2.4) VERSES Connecticut, (1.58)",
-        "start_time_aest": "2026-02-22T09:30:00+11:00",
+        "contestant_names": "California, (1.8) VERSES Stanford, (2)",
+        "start_time_aest": "2026-02-22T10:00:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Villanova",
+                "full_name": "California",
                 "position": "HOME",
-                "short_name": "Villanova"
+                "short_name": "California"
             },
             {
-                "full_name": "Connecticut",
+                "full_name": "Stanford",
                 "position": "AWAY",
-                "short_name": "Connecticut"
+                "short_name": "Stanford"
             }
         ],
         "propositions": [
             {
-                "name": "Villanova",
-                "returnWin": 2.4
+                "name": "California",
+                "returnWin": 1.8
             },
             {
-                "name": "Connecticut",
-                "returnWin": 1.58
+                "name": "Stanford",
+                "returnWin": 2
             }
         ],
-        "match_name": "Villanova v Connecticut",
+        "match_name": "California v Stanford",
         "betOption": "Head To Head",
-        "start_time": "2026-02-21T22:30:00.000Z"
+        "start_time": "2026-02-21T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Richmond, (1.77) VERSES St Bonaventure, (2.05)",
+        "start_time_aest": "2026-02-22T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Richmond",
+                "position": "HOME",
+                "short_name": "Richmond"
+            },
+            {
+                "full_name": "St Bonaventure",
+                "position": "AWAY",
+                "short_name": "St Bonaventure"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Richmond",
+                "returnWin": 1.77
+            },
+            {
+                "name": "St Bonaventure",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Richmond v St Bonaventure",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-21T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Idaho State, (2.1) VERSES Montana State, (1.74)",
+        "start_time_aest": "2026-02-22T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Idaho State",
+                "position": "HOME",
+                "short_name": "Idaho State"
+            },
+            {
+                "full_name": "Montana State",
+                "position": "AWAY",
+                "short_name": "Montana State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Idaho State",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Montana State",
+                "returnWin": 1.74
+            }
+        ],
+        "match_name": "Idaho State v Montana State",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-21T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "San Diego, (2.25) VERSES Loyola Marymount, (1.65)",
+        "start_time_aest": "2026-02-22T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "San Diego",
+                "position": "HOME",
+                "short_name": "San Diego"
+            },
+            {
+                "full_name": "Loyola Marymount",
+                "position": "AWAY",
+                "short_name": "Loyola Marymount"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "San Diego",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Loyola Marymount",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "San Diego v Loyola Marymount",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-21T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Colorado State, (2.15) VERSES San Diego State, (1.7)",
+        "start_time_aest": "2026-02-22T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Colorado State",
+                "position": "HOME",
+                "short_name": "Colorado State"
+            },
+            {
+                "full_name": "San Diego State",
+                "position": "AWAY",
+                "short_name": "San Diego State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Colorado State",
+                "returnWin": 2.15
+            },
+            {
+                "name": "San Diego State",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "Colorado State v San Diego State",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-21T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Florida AM, (2.1) VERSES Alabama State, (1.74)",
+        "start_time_aest": "2026-02-22T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Florida AM",
+                "position": "HOME",
+                "short_name": "Florida AM"
+            },
+            {
+                "full_name": "Alabama State",
+                "position": "AWAY",
+                "short_name": "Alabama State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Florida AM",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Alabama State",
+                "returnWin": 1.74
+            }
+        ],
+        "match_name": "Florida AM v Alabama State",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-21T23:00:00.000Z"
     }
 ]
