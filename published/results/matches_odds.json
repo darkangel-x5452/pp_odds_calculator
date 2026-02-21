@@ -1,64 +1,126 @@
 [
     {
-        "contestant_names": "New Zealand, (1.75) VERSES Pakistan, (2.05)",
-        "start_time_aest": "2026-02-22T00:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "ICC Twenty20 World Cup",
+        "contestant_names": "Rilski Sportist, (1.6) VERSES Lokomotiv Plovdi, (2.15)",
+        "start_time_aest": "2026-02-22T01:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Bulgaria Cup",
         "contestants": [
             {
-                "full_name": "New Zealand",
+                "full_name": "Rilski Sportist",
                 "position": "HOME",
-                "short_name": "New Zealand"
+                "short_name": "Rilski Sportist"
             },
             {
-                "full_name": "Pakistan",
+                "full_name": "Lokomotiv Plovdi",
                 "position": "AWAY",
-                "short_name": "Pakistan"
+                "short_name": "Lokomotiv Plovdi"
             }
         ],
         "propositions": [
             {
-                "name": "New Zealand",
-                "returnWin": 1.75
+                "name": "Rilski Sportist",
+                "returnWin": 1.6
             },
             {
-                "name": "Pakistan",
+                "name": "Lokomotiv Plovdi",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Rilski Sportist v Lokomotiv Plovdi",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-21T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "BK Opava, (1.66) VERSES Usti nad Labem, (2.05)",
+        "start_time_aest": "2026-02-22T01:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Czech Cup",
+        "contestants": [
+            {
+                "full_name": "BK Opava",
+                "position": "HOME",
+                "short_name": "BK Opava"
+            },
+            {
+                "full_name": "Usti nad Labem",
+                "position": "AWAY",
+                "short_name": "Usti nad Labem"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "BK Opava",
+                "returnWin": 1.66
+            },
+            {
+                "name": "Usti nad Labem",
                 "returnWin": 2.05
             }
         ],
-        "match_name": "New Zealand v Pakistan",
+        "match_name": "BK Opava v Usti nad Labem",
         "betOption": "Head To Head",
-        "start_time": "2026-02-21T13:30:00.000Z"
+        "start_time": "2026-02-21T14:00:00.000Z"
     },
     {
-        "contestant_names": "Danny Noppert, (1.6) VERSES Jermaine Wattimena, (2.3)",
-        "start_time_aest": "2026-02-22T00:30:00+11:00",
+        "contestant_names": "Nidaros Jets, (2.35) VERSES Tnt Towers, (1.5)",
+        "start_time_aest": "2026-02-22T01:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Norway BLNO",
+        "contestants": [
+            {
+                "full_name": "Nidaros Jets",
+                "position": "HOME",
+                "short_name": "Nidaros Jets"
+            },
+            {
+                "full_name": "Tnt Towers",
+                "position": "AWAY",
+                "short_name": "Tnt Towers"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nidaros Jets",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Tnt Towers",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Nidaros Jets v Tnt Towers",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-21T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Gary Anderson, (1.75) VERSES Wessel Nijman, (2.05)",
+        "start_time_aest": "2026-02-22T01:00:00+11:00",
         "sport_name": "Darts",
         "competition_name": "European Tour",
         "contestants": [
             {
-                "full_name": "Danny Noppert",
+                "full_name": "Gary Anderson",
                 "position": "HOME",
-                "short_name": "Noppert D"
+                "short_name": "Anderson G"
             },
             {
-                "full_name": "Jermaine Wattimena",
+                "full_name": "Wessel Nijman",
                 "position": "AWAY",
-                "short_name": "Wattimena"
+                "short_name": "Nijman Wessel"
             }
         ],
         "propositions": [
             {
-                "name": "Danny Noppert",
-                "returnWin": 1.6
+                "name": "Gary Anderson",
+                "returnWin": 1.75
             },
             {
-                "name": "Jermaine Wattimena",
-                "returnWin": 2.3
+                "name": "Wessel Nijman",
+                "returnWin": 2.05
             }
         ],
-        "match_name": "Noppert D  v Wattimena",
+        "match_name": "Anderson G v Nijman Wessel",
         "betOption": "Head To Head",
-        "start_time": "2026-02-21T13:30:00.000Z"
+        "start_time": "2026-02-21T14:00:00.000Z"
     }
 ]
