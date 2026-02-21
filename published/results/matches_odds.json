@@ -1,282 +1,96 @@
 [
     {
-        "contestant_names": "Haase/Frantzen, (2.25) VERSES Andreozzi/Guinard, (1.6)",
-        "start_time_aest": "2026-02-22T05:41:39+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "tournamentName": "ATP Rio de Janeiro Doubles",
+        "contestant_names": "Michael Smith, (2.05) VERSES Joe Cullen, (1.75)",
+        "start_time_aest": "2026-02-22T06:05:00+11:00",
+        "sport_name": "Darts",
+        "competition_name": "European Tour",
         "contestants": [
             {
-                "full_name": "Haase/Frantzen",
+                "full_name": "Michael Smith",
                 "position": "HOME",
-                "short_name": "Haase/Frantzen"
+                "short_name": "Smith M"
             },
             {
-                "full_name": "Andreozzi/Guinard",
+                "full_name": "Joe Cullen",
                 "position": "AWAY",
-                "short_name": "Andreozzi/Guinard"
+                "short_name": "Cullen"
             }
         ],
         "propositions": [
             {
-                "name": "Haase/Frantzen",
-                "returnWin": 2.25
+                "name": "Michael Smith",
+                "returnWin": 2.05
             },
             {
-                "name": "Andreozzi/Guinard",
-                "returnWin": 1.6
+                "name": "Joe Cullen",
+                "returnWin": 1.75
             }
         ],
-        "match_name": "Haase/Frantzen v Andreozzi/Guinard",
+        "match_name": "Smith M v Cullen",
         "betOption": "Head To Head",
-        "start_time": "2026-02-21T18:41:39.000Z"
+        "start_time": "2026-02-21T19:05:00.000Z"
     },
     {
-        "contestant_names": "Split, (2.1) VERSES Zadar, (1.62)",
-        "start_time_aest": "2026-02-22T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Croatia Cup",
-        "contestants": [
-            {
-                "full_name": "Split",
-                "position": "HOME",
-                "short_name": "Split"
-            },
-            {
-                "full_name": "Zadar",
-                "position": "AWAY",
-                "short_name": "Zadar"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Split",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Zadar",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Split v Zadar",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-21T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Mercer, (1.53) VERSES Samford, (2.5)",
-        "start_time_aest": "2026-02-22T06:00:00+11:00",
+        "contestant_names": "La Salle, (2.5) VERSES Rhode Island, (1.53)",
+        "start_time_aest": "2026-02-22T06:30:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Mercer",
+                "full_name": "La Salle",
                 "position": "HOME",
-                "short_name": "Mercer"
+                "short_name": "La Salle"
             },
             {
-                "full_name": "Samford",
+                "full_name": "Rhode Island",
                 "position": "AWAY",
-                "short_name": "Samford"
+                "short_name": "Rhode Island"
             }
         ],
         "propositions": [
             {
-                "name": "Mercer",
-                "returnWin": 1.53
-            },
-            {
-                "name": "Samford",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Mercer v Samford",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-21T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Vanderbilt, (1.58) VERSES Tennessee, (2.4)",
-        "start_time_aest": "2026-02-22T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Vanderbilt",
-                "position": "HOME",
-                "short_name": "Vanderbilt"
-            },
-            {
-                "full_name": "Tennessee",
-                "position": "AWAY",
-                "short_name": "Tennessee"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Vanderbilt",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Tennessee",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Vanderbilt v Tennessee",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-21T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Pittsburgh, (1.67) VERSES Notre Dame, (2.2)",
-        "start_time_aest": "2026-02-22T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Pittsburgh",
-                "position": "HOME",
-                "short_name": "Pittsburgh"
-            },
-            {
-                "full_name": "Notre Dame",
-                "position": "AWAY",
-                "short_name": "Notre Dame"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Pittsburgh",
-                "returnWin": 1.67
-            },
-            {
-                "name": "Notre Dame",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Pittsburgh v Notre Dame",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-21T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Chicago State, (2.5) VERSES Central CT State, (1.53)",
-        "start_time_aest": "2026-02-22T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Chicago State",
-                "position": "HOME",
-                "short_name": "Chicago State"
-            },
-            {
-                "full_name": "Central CT State",
-                "position": "AWAY",
-                "short_name": "Central CT State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Chicago State",
+                "name": "La Salle",
                 "returnWin": 2.5
             },
             {
-                "name": "Central CT State",
+                "name": "Rhode Island",
                 "returnWin": 1.53
             }
         ],
-        "match_name": "Chicago State v Central CT State",
+        "match_name": "La Salle v Rhode Island",
         "betOption": "Head To Head",
-        "start_time": "2026-02-21T19:00:00.000Z"
+        "start_time": "2026-02-21T19:30:00.000Z"
     },
     {
-        "contestant_names": "Florida Gulf Cst, (1.95) VERSES Central Arkansas, (1.85)",
-        "start_time_aest": "2026-02-22T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "contestant_names": "Team Falcons, (1.46) VERSES BetBoom Team, (2.5)",
+        "start_time_aest": "2026-02-22T06:30:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "tournamentName": "DOTA2 - DreamLeague",
         "contestants": [
             {
-                "full_name": "Florida Gulf Cst",
+                "full_name": "Team Falcons",
                 "position": "HOME",
-                "short_name": "Florida Gulf Cst"
+                "short_name": "Team Falcons"
             },
             {
-                "full_name": "Central Arkansas",
+                "full_name": "BetBoom Team",
                 "position": "AWAY",
-                "short_name": "Central Arkansas"
+                "short_name": "Betboom Team"
             }
         ],
         "propositions": [
             {
-                "name": "Florida Gulf Cst",
-                "returnWin": 1.95
+                "name": "Team Falcons",
+                "returnWin": 1.46
             },
             {
-                "name": "Central Arkansas",
-                "returnWin": 1.85
+                "name": "BetBoom Team",
+                "returnWin": 2.5
             }
         ],
-        "match_name": "Florida Gulf Cst v Central Arkansas",
+        "match_name": "Team Falcons v Betboom Team",
         "betOption": "Head To Head",
-        "start_time": "2026-02-21T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "St Francis (PA), (2) VERSES Wagner, (1.8)",
-        "start_time_aest": "2026-02-22T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "St Francis (PA)",
-                "position": "HOME",
-                "short_name": "St Francis (PA)"
-            },
-            {
-                "full_name": "Wagner",
-                "position": "AWAY",
-                "short_name": "Wagner"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "St Francis (PA)",
-                "returnWin": 2
-            },
-            {
-                "name": "Wagner",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "St Francis (PA) v Wagner",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-21T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Fordham, (1.95) VERSES Davidson, (1.85)",
-        "start_time_aest": "2026-02-22T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Fordham",
-                "position": "HOME",
-                "short_name": "Fordham"
-            },
-            {
-                "full_name": "Davidson",
-                "position": "AWAY",
-                "short_name": "Davidson"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Fordham",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Davidson",
-                "returnWin": 1.85
-            }
-        ],
-        "match_name": "Fordham v Davidson",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-21T19:00:00.000Z"
+        "start_time": "2026-02-21T19:30:00.000Z"
     }
 ]
