@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Atlanta, (2.2) VERSES Miami, (1.7)",
-        "start_time_aest": "2026-02-21T11:40:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Atlanta",
-                "position": "HOME",
-                "short_name": "Atlanta"
-            },
-            {
-                "full_name": "Miami",
-                "position": "AWAY",
-                "short_name": "Miami"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Atlanta",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Miami",
-                "returnWin": 1.7
-            }
-        ],
-        "match_name": "Atlanta v Miami",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-21T00:40:00.000Z"
-    },
-    {
-        "contestant_names": "Thiago Agustin Tirante, (2.3) VERSES Alejandro Tabilo, (1.58)",
-        "start_time_aest": "2026-02-21T11:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "contestants": [
-            {
-                "full_name": "Thiago Agustin Tirante",
-                "position": "HOME",
-                "short_name": "Tirante"
-            },
-            {
-                "full_name": "Alejandro Tabilo",
-                "position": "AWAY",
-                "short_name": "Tabilo A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Thiago Agustin Tirante",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Alejandro Tabilo",
-                "returnWin": 1.58
-            }
-        ],
-        "match_name": "Tirante v Tabilo A",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-21T00:45:00.000Z"
-    },
-    {
-        "contestant_names": "Taylor Fritz, (1.62) VERSES Tommy Paul, (2.2)",
-        "start_time_aest": "2026-02-21T12:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "contestants": [
-            {
-                "full_name": "Taylor Fritz",
-                "position": "HOME",
-                "short_name": "Fritz T"
-            },
-            {
-                "full_name": "Tommy Paul",
-                "position": "AWAY",
-                "short_name": "Paul T"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Taylor Fritz",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Tommy Paul",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Fritz T v Paul T",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-21T01:00:00.000Z"
-    },
-    {
         "contestant_names": "New Orleans, (1.56) VERSES Milwaukee, (2.5)",
         "start_time_aest": "2026-02-21T12:10:00+11:00",
         "sport_name": "Basketball",
@@ -122,6 +29,68 @@
         "match_name": "New Orleans v Milwaukee",
         "betOption": "Head To Head",
         "start_time": "2026-02-21T01:10:00.000Z"
+    },
+    {
+        "contestant_names": "Taylor Fritz, (1.62) VERSES Tommy Paul, (2.2)",
+        "start_time_aest": "2026-02-21T12:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "contestants": [
+            {
+                "full_name": "Taylor Fritz",
+                "position": "HOME",
+                "short_name": "Fritz T"
+            },
+            {
+                "full_name": "Tommy Paul",
+                "position": "AWAY",
+                "short_name": "Paul T"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Taylor Fritz",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Tommy Paul",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Fritz T v Paul T",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-21T01:15:00.000Z"
+    },
+    {
+        "contestant_names": "Thiago Agustin Tirante, (2.3) VERSES Alejandro Tabilo, (1.58)",
+        "start_time_aest": "2026-02-21T12:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "contestants": [
+            {
+                "full_name": "Thiago Agustin Tirante",
+                "position": "HOME",
+                "short_name": "Tirante"
+            },
+            {
+                "full_name": "Alejandro Tabilo",
+                "position": "AWAY",
+                "short_name": "Tabilo A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Thiago Agustin Tirante",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Alejandro Tabilo",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Tirante v Tabilo A",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-21T01:15:00.000Z"
     },
     {
         "contestant_names": "Gleason/Hewitt, (1.6) VERSES Smith/Stoiana, (2.2)",
