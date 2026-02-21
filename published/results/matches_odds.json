@@ -1,68 +1,5 @@
 [
     {
-        "contestant_names": "Elina Svitolina, (2.25) VERSES Jessica Pegula, (1.6)",
-        "start_time_aest": "2026-02-22T02:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "tournamentName": "WTA Dubai",
-        "contestants": [
-            {
-                "full_name": "Elina Svitolina",
-                "position": "HOME",
-                "short_name": "Svitolina"
-            },
-            {
-                "full_name": "Jessica Pegula",
-                "position": "AWAY",
-                "short_name": "Pegula"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Elina Svitolina",
-                "returnWin": 2.25
-            },
-            {
-                "name": "Jessica Pegula",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Svitolina v Pegula",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-21T15:15:00.000Z"
-    },
-    {
-        "contestant_names": "Ryan Searle, (1.62) VERSES Cristo Reyes, (2.25)",
-        "start_time_aest": "2026-02-22T02:30:00+11:00",
-        "sport_name": "Darts",
-        "competition_name": "European Tour",
-        "contestants": [
-            {
-                "full_name": "Ryan Searle",
-                "position": "HOME",
-                "short_name": "Searle"
-            },
-            {
-                "full_name": "Cristo Reyes",
-                "position": "AWAY",
-                "short_name": "Reyes"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ryan Searle",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Cristo Reyes",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Searle v Reyes",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-21T15:30:00.000Z"
-    },
-    {
         "contestant_names": "Giantx, (1.5) VERSES Heretics, (2.4)",
         "start_time_aest": "2026-02-22T02:45:00+11:00",
         "sport_name": "Esports",
@@ -93,5 +30,36 @@
         "match_name": "Giantx v Heretics",
         "betOption": "Head To Head",
         "start_time": "2026-02-21T15:45:00.000Z"
+    },
+    {
+        "contestant_names": "Army, (1.6) VERSES Navy, (2.25)",
+        "start_time_aest": "2026-02-22T03:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Army",
+                "position": "HOME",
+                "short_name": "Army"
+            },
+            {
+                "full_name": "Navy",
+                "position": "AWAY",
+                "short_name": "Navy"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Army",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Navy",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Army v Navy",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-21T16:00:00.000Z"
     }
 ]
