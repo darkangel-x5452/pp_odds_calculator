@@ -138,6 +138,7 @@ class GetMatchesOdds():
                 cleaned_contestants.append(_contestant)
 
             competitionName = _match['competitionName']
+            tournamentName = _match['tournamentName'] if "tournamentName" in _match else None
             sportName = _match['sportName']
             # competitors = _match['competitors'] if 'competitors' in _match else []
 
@@ -202,12 +203,13 @@ class GetMatchesOdds():
                     # Convert to AEST
                     aest_dt = start_time_aest.astimezone(ZoneInfo("Australia/Sydney"))
                     aest_dt_iso = aest_dt.isoformat()
-                    
+
                     match_details = {
                         "contestant_names": contestant_full_names,
                         "start_time_aest": aest_dt_iso,
                         "sport_name": sportName,
                         "competition_name": competitionName,
+                        "tournamentName": tournamentName,
                         "contestants": cleaned_contestants,
                         "propositions": clean_propositions,
                         "match_name": match_name,
@@ -217,5 +219,9 @@ class GetMatchesOdds():
                         "start_time": start_time,
                         # "two_dollar_flag": two_dollar_flag,
                     }
-                    all_matches_ls.append(match_details)
+
+                    if tournamentName is None:
+                        match_details.pop("tournamentName")
+
+                    all_matches_ls.append(match_details.copy())
         return all_matches_ls
