@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Chris Dobey, (1.5) VERSES Connor Scutt, (2.5)",
-        "start_time_aest": "2026-02-21T23:35:00+11:00",
-        "sport_name": "Darts",
-        "competition_name": "European Tour",
-        "contestants": [
-            {
-                "full_name": "Chris Dobey",
-                "position": "HOME",
-                "short_name": "Dobey C"
-            },
-            {
-                "full_name": "Connor Scutt",
-                "position": "AWAY",
-                "short_name": "Scutt Connor"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Chris Dobey",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Connor Scutt",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Dobey C  v Scutt Connor",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-21T12:35:00.000Z"
-    },
-    {
-        "contestant_names": "Brahe Basket, (1.72) VERSES Malbas, (1.97)",
-        "start_time_aest": "2026-02-22T00:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Sweden Basketligan Women",
-        "contestants": [
-            {
-                "full_name": "Brahe Basket",
-                "position": "HOME",
-                "short_name": "Brahe Basket"
-            },
-            {
-                "full_name": "Malbas",
-                "position": "AWAY",
-                "short_name": "Malbas"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Brahe Basket",
-                "returnWin": 1.72
-            },
-            {
-                "name": "Malbas",
-                "returnWin": 1.97
-            }
-        ],
-        "match_name": "Brahe Basket v Malbas",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-21T13:00:00.000Z"
-    },
-    {
         "contestant_names": "New Zealand, (1.75) VERSES Pakistan, (2.05)",
         "start_time_aest": "2026-02-22T00:30:00+11:00",
         "sport_name": "Cricket",
@@ -89,6 +27,37 @@
             }
         ],
         "match_name": "New Zealand v Pakistan",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-21T13:30:00.000Z"
+    },
+    {
+        "contestant_names": "Danny Noppert, (1.6) VERSES Jermaine Wattimena, (2.3)",
+        "start_time_aest": "2026-02-22T00:30:00+11:00",
+        "sport_name": "Darts",
+        "competition_name": "European Tour",
+        "contestants": [
+            {
+                "full_name": "Danny Noppert",
+                "position": "HOME",
+                "short_name": "Noppert D"
+            },
+            {
+                "full_name": "Jermaine Wattimena",
+                "position": "AWAY",
+                "short_name": "Wattimena"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Danny Noppert",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Jermaine Wattimena",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Noppert D  v Wattimena",
         "betOption": "Head To Head",
         "start_time": "2026-02-21T13:30:00.000Z"
     }
