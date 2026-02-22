@@ -1,100 +1,5 @@
 [
     {
-        "contestant_names": "Duke, (2.4) VERSES Michigan, (1.58)",
-        "start_time_aest": "2026-02-22T10:35:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Duke",
-                "position": "HOME",
-                "short_name": "Duke"
-            },
-            {
-                "full_name": "Michigan",
-                "position": "AWAY",
-                "short_name": "Michigan"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Duke",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Michigan",
-                "returnWin": 1.58
-            }
-        ],
-        "match_name": "Duke v Michigan",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-21T23:35:00.000Z"
-    },
-    {
-        "contestant_names": "Alejandro Tabilo, (1.62) VERSES Ignacio Buse, (2.2)",
-        "start_time_aest": "2026-02-22T10:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "tournamentName": "ATP Rio De Janeiro",
-        "contestants": [
-            {
-                "full_name": "Alejandro Tabilo",
-                "position": "HOME",
-                "short_name": "Tabilo A"
-            },
-            {
-                "full_name": "Ignacio Buse",
-                "position": "AWAY",
-                "short_name": "Buse"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Alejandro Tabilo",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Ignacio Buse",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Tabilo A v Buse",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-21T23:45:00.000Z"
-    },
-    {
-        "contestant_names": "Santamaria/Tang, (1.68) VERSES Smith/Stoiana, (2.05)",
-        "start_time_aest": "2026-02-22T10:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA 125 Doubles",
-        "tournamentName": "WTA 125 Midland Doubles",
-        "contestants": [
-            {
-                "full_name": "Santamaria/Tang",
-                "position": "HOME",
-                "short_name": "Santamaria/Tang"
-            },
-            {
-                "full_name": "Smith/Stoiana",
-                "position": "AWAY",
-                "short_name": "Smith/Stoiana"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Santamaria/Tang",
-                "returnWin": 1.68
-            },
-            {
-                "name": "Smith/Stoiana",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Santamaria/Tang v Smith/Stoiana",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-21T23:45:00.000Z"
-    },
-    {
         "contestant_names": "New Orleans, (2.4) VERSES Philadelphia, (1.6)",
         "start_time_aest": "2026-02-22T11:10:00+11:00",
         "sport_name": "Basketball",
@@ -124,5 +29,225 @@
         "match_name": "New Orleans v Philadelphia",
         "betOption": "Head To Head",
         "start_time": "2026-02-22T00:10:00.000Z"
+    },
+    {
+        "contestant_names": "Alejandro Tabilo, (1.62) VERSES Ignacio Buse, (2.2)",
+        "start_time_aest": "2026-02-22T11:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "tournamentName": "ATP Rio De Janeiro",
+        "contestants": [
+            {
+                "full_name": "Alejandro Tabilo",
+                "position": "HOME",
+                "short_name": "Tabilo A"
+            },
+            {
+                "full_name": "Ignacio Buse",
+                "position": "AWAY",
+                "short_name": "Buse"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alejandro Tabilo",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Ignacio Buse",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Tabilo A v Buse",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T00:15:00.000Z"
+    },
+    {
+        "contestant_names": "OSBOURNE Ode, (2.1) VERSES IDIRIS Alibi, (1.72)",
+        "start_time_aest": "2026-02-22T11:15:00+11:00",
+        "sport_name": "UFC",
+        "competition_name": "UFC",
+        "tournamentName": "UFC Fight Night - Strickland v Hernandez",
+        "contestants": [
+            {
+                "full_name": "OSBOURNE Ode",
+                "position": "HOME",
+                "short_name": "Osbourne"
+            },
+            {
+                "full_name": "IDIRIS Alibi",
+                "position": "AWAY",
+                "short_name": "Idiris"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "OSBOURNE Ode",
+                "returnWin": 2.1
+            },
+            {
+                "name": "IDIRIS Alibi",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "Osbourne v Idiris",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T00:15:00.000Z"
+    },
+    {
+        "contestant_names": "Centenarios, (1.45) VERSES Club Pico Foot, (2.5)",
+        "start_time_aest": "2026-02-22T11:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Centenarios",
+                "position": "HOME",
+                "short_name": "Centenarios"
+            },
+            {
+                "full_name": "Club Pico Foot",
+                "position": "AWAY",
+                "short_name": "Club Pico Foot"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Centenarios",
+                "returnWin": 1.45
+            },
+            {
+                "name": "Club Pico Foot",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Centenarios v Club Pico Foot",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T00:30:00.000Z"
+    },
+    {
+        "contestant_names": "Caballeros De Cu, (1.52) VERSES Venados Mazatlan, (2.3)",
+        "start_time_aest": "2026-02-22T11:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Mexico CIBACOPA",
+        "contestants": [
+            {
+                "full_name": "Caballeros De Cu",
+                "position": "HOME",
+                "short_name": "Caballeros De Cu"
+            },
+            {
+                "full_name": "Venados Mazatlan",
+                "position": "AWAY",
+                "short_name": "Venados Mazatlan"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Caballeros De Cu",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Venados Mazatlan",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Caballeros De Cu v Venados Mazatlan",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T00:30:00.000Z"
+    },
+    {
+        "contestant_names": "NJOKUANI Chidi, (2.1) VERSES LEAL Carlos, (1.72)",
+        "start_time_aest": "2026-02-22T11:40:00+11:00",
+        "sport_name": "UFC",
+        "competition_name": "UFC",
+        "tournamentName": "UFC Fight Night - Strickland v Hernandez",
+        "contestants": [
+            {
+                "full_name": "NJOKUANI Chidi",
+                "position": "HOME",
+                "short_name": "Njokuani"
+            },
+            {
+                "full_name": "LEAL Carlos",
+                "position": "AWAY",
+                "short_name": "Leal"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "NJOKUANI Chidi",
+                "returnWin": 2.1
+            },
+            {
+                "name": "LEAL Carlos",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "Njokuani v Leal",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T00:40:00.000Z"
+    },
+    {
+        "contestant_names": "Oral Roberts, (1.95) VERSES South Dakota, (1.85)",
+        "start_time_aest": "2026-02-22T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Oral Roberts",
+                "position": "HOME",
+                "short_name": "Oral Roberts"
+            },
+            {
+                "full_name": "South Dakota",
+                "position": "AWAY",
+                "short_name": "South Dakota"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Oral Roberts",
+                "returnWin": 1.95
+            },
+            {
+                "name": "South Dakota",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Oral Roberts v South Dakota",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "DePaul, (1.62) VERSES Providence, (2.3)",
+        "start_time_aest": "2026-02-22T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "DePaul",
+                "position": "HOME",
+                "short_name": "DePaul"
+            },
+            {
+                "full_name": "Providence",
+                "position": "AWAY",
+                "short_name": "Providence"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "DePaul",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Providence",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "DePaul v Providence",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T01:00:00.000Z"
     }
 ]
