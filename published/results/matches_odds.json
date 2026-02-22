@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "BYU, (2.3) VERSES Iowa State, (1.62)",
-        "start_time_aest": "2026-02-22T14:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "BYU",
-                "position": "HOME",
-                "short_name": "BYU"
-            },
-            {
-                "full_name": "Iowa State",
-                "position": "AWAY",
-                "short_name": "Iowa State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "BYU",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Iowa State",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "BYU v Iowa State",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-22T03:30:00.000Z"
-    },
-    {
-        "contestant_names": "Chhattisgarh (W), (2.2) VERSES Mumbai (W), (1.65)",
-        "start_time_aest": "2026-02-22T14:30:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Senior Womens One Day Trophy",
-        "contestants": [
-            {
-                "full_name": "Chhattisgarh (W)",
-                "position": "HOME",
-                "short_name": "Chhattisgarh (W)"
-            },
-            {
-                "full_name": "Mumbai (W)",
-                "position": "AWAY",
-                "short_name": "Mumbai (W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Chhattisgarh (W)",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Mumbai (W)",
-                "returnWin": 1.65
-            }
-        ],
-        "match_name": "Chhattisgarh (W) v Mumbai (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-22T03:30:00.000Z"
-    },
-    {
         "contestant_names": "Hokkaido, (1.72) VERSES Hiroshima Toyo, (2.05)",
         "start_time_aest": "2026-02-22T15:00:00+11:00",
         "sport_name": "Baseball",
@@ -278,5 +216,100 @@
         "match_name": "Ageo (W) v Hitachi (W)",
         "betOption": "Head To Head",
         "start_time": "2026-02-22T04:05:00.000Z"
+    },
+    {
+        "contestant_names": "Chunichi, (1.95) VERSES Yomiuri, (1.8)",
+        "start_time_aest": "2026-02-22T15:30:00+11:00",
+        "sport_name": "Baseball",
+        "competition_name": "Japan NPB Pre-Season",
+        "contestants": [
+            {
+                "full_name": "Chunichi",
+                "position": "HOME",
+                "short_name": "Chunichi"
+            },
+            {
+                "full_name": "Yomiuri",
+                "position": "AWAY",
+                "short_name": "Yomiuri"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Chunichi",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Yomiuri",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Chunichi v Yomiuri",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T04:30:00.000Z"
+    },
+    {
+        "contestant_names": "Sidharth Rawat, (2.15) VERSES Takuya Kumasaka, (1.6)",
+        "start_time_aest": "2026-02-22T15:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Pune",
+        "contestants": [
+            {
+                "full_name": "Sidharth Rawat",
+                "position": "HOME",
+                "short_name": "Rawat"
+            },
+            {
+                "full_name": "Takuya Kumasaka",
+                "position": "AWAY",
+                "short_name": "Kumasaka"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sidharth Rawat",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Takuya Kumasaka",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Rawat v Kumasaka",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T04:30:00.000Z"
+    },
+    {
+        "contestant_names": "Quadri Aruna, (2) VERSES Qihao Zhou, (1.72)",
+        "start_time_aest": "2026-02-22T15:35:00+11:00",
+        "sport_name": "Table Tennis",
+        "competition_name": "WTT Grand Smash",
+        "tournamentName": "WTT Singapore Smash Mens Singles",
+        "contestants": [
+            {
+                "full_name": "Quadri Aruna",
+                "position": "HOME",
+                "short_name": "Aruna Quadri"
+            },
+            {
+                "full_name": "Qihao Zhou",
+                "position": "AWAY",
+                "short_name": "Zhou Qihao"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Quadri Aruna",
+                "returnWin": 2
+            },
+            {
+                "name": "Qihao Zhou",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "Aruna Quadri v Zhou Qihao",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T04:35:00.000Z"
     }
 ]
