@@ -1,7 +1,7 @@
 [
     {
-        "contestant_names": "SPIVAC Serghei, (1.95) VERSES DELIJA Ante, (1.85)",
-        "start_time_aest": "2026-02-22T13:15:00+11:00",
+        "contestant_names": "SPIVAC Serghei, (2) VERSES DELIJA Ante, (1.8)",
+        "start_time_aest": "2026-02-22T13:30:00+11:00",
         "sport_name": "UFC",
         "competition_name": "UFC",
         "tournamentName": "UFC Fight Night - Strickland v Hernandez",
@@ -20,45 +20,14 @@
         "propositions": [
             {
                 "name": "SPIVAC Serghei",
-                "returnWin": 1.95
+                "returnWin": 2
             },
             {
                 "name": "DELIJA Ante",
-                "returnWin": 1.85
+                "returnWin": 1.8
             }
         ],
         "match_name": "Spivac v Delija",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-22T02:15:00.000Z"
-    },
-    {
-        "contestant_names": "Weber State, (1.74) VERSES Montana, (2.1)",
-        "start_time_aest": "2026-02-22T13:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Weber State",
-                "position": "HOME",
-                "short_name": "Weber State"
-            },
-            {
-                "full_name": "Montana",
-                "position": "AWAY",
-                "short_name": "Montana"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Weber State",
-                "returnWin": 1.74
-            },
-            {
-                "name": "Montana",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Weber State v Montana",
         "betOption": "Head To Head",
         "start_time": "2026-02-22T02:30:00.000Z"
     },
@@ -92,5 +61,129 @@
         "match_name": "Rayos Hermosillo v Zonkeys De Tijua",
         "betOption": "Head To Head",
         "start_time": "2026-02-22T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Sacramento State, (2.5) VERSES Idaho, (1.53)",
+        "start_time_aest": "2026-02-22T14:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Sacramento State",
+                "position": "HOME",
+                "short_name": "Sacramento State"
+            },
+            {
+                "full_name": "Idaho",
+                "position": "AWAY",
+                "short_name": "Idaho"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sacramento State",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Idaho",
+                "returnWin": 1.53
+            }
+        ],
+        "match_name": "Sacramento State v Idaho",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Honda Heat, (2) VERSES Shizuoka, (1.75)",
+        "start_time_aest": "2026-02-22T14:00:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "Japan League One",
+        "contestants": [
+            {
+                "full_name": "Honda Heat",
+                "position": "HOME",
+                "short_name": "Honda Heat"
+            },
+            {
+                "full_name": "Shizuoka",
+                "position": "AWAY",
+                "short_name": "Shizuoka"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Honda Heat",
+                "returnWin": 2
+            },
+            {
+                "name": "Shizuoka",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Honda Heat v Shizuoka",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "BYU, (2.3) VERSES Iowa State, (1.62)",
+        "start_time_aest": "2026-02-22T14:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "BYU",
+                "position": "HOME",
+                "short_name": "BYU"
+            },
+            {
+                "full_name": "Iowa State",
+                "position": "AWAY",
+                "short_name": "Iowa State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "BYU",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Iowa State",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "BYU v Iowa State",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T03:30:00.000Z"
+    },
+    {
+        "contestant_names": "Chhattisgarh (W), (2.2) VERSES Mumbai (W), (1.65)",
+        "start_time_aest": "2026-02-22T14:30:00+11:00",
+        "sport_name": "Cricket",
+        "competition_name": "Senior Womens One Day Trophy",
+        "contestants": [
+            {
+                "full_name": "Chhattisgarh (W)",
+                "position": "HOME",
+                "short_name": "Chhattisgarh (W)"
+            },
+            {
+                "full_name": "Mumbai (W)",
+                "position": "AWAY",
+                "short_name": "Mumbai (W)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Chhattisgarh (W)",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Mumbai (W)",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Chhattisgarh (W) v Mumbai (W)",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T03:30:00.000Z"
     }
 ]
