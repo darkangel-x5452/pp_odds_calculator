@@ -1,129 +1,5 @@
 [
     {
-        "contestant_names": "Luke Woodhouse, (2.15) VERSES Chris Dobey, (1.68)",
-        "start_time_aest": "2026-02-23T00:01:00+11:00",
-        "sport_name": "Darts",
-        "competition_name": "European Tour",
-        "contestants": [
-            {
-                "full_name": "Luke Woodhouse",
-                "position": "HOME",
-                "short_name": "Woodhouse Luke"
-            },
-            {
-                "full_name": "Chris Dobey",
-                "position": "AWAY",
-                "short_name": "Dobey C"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Luke Woodhouse",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Chris Dobey",
-                "returnWin": 1.68
-            }
-        ],
-        "match_name": "Woodhouse Luke  v Dobey C",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-22T13:01:00.000Z"
-    },
-    {
-        "contestant_names": "Canada, (1.75) VERSES USA, (2.05)",
-        "start_time_aest": "2026-02-23T00:10:00+11:00",
-        "sport_name": "Winter Olympics",
-        "competition_name": "Ice Hockey - Mens",
-        "contestants": [
-            {
-                "full_name": "Canada",
-                "position": "HOME",
-                "short_name": "Canada"
-            },
-            {
-                "full_name": "USA",
-                "position": "AWAY",
-                "short_name": "USA"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Canada",
-                "returnWin": 1.75
-            },
-            {
-                "name": "USA",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Canada v USA",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-22T13:10:00.000Z"
-    },
-    {
-        "contestant_names": "NeptunasKlaipeda, (1.66) VERSES Lietkabelis, (2.05)",
-        "start_time_aest": "2026-02-23T00:15:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Lithuania LKF Cup",
-        "contestants": [
-            {
-                "full_name": "NeptunasKlaipeda",
-                "position": "HOME",
-                "short_name": "NeptunasKlaipeda"
-            },
-            {
-                "full_name": "Lietkabelis",
-                "position": "AWAY",
-                "short_name": "Lietkabelis"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "NeptunasKlaipeda",
-                "returnWin": 1.66
-            },
-            {
-                "name": "Lietkabelis",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "NeptunasKlaipeda v Lietkabelis",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-22T13:15:00.000Z"
-    },
-    {
-        "contestant_names": "Pizza Bulls, (1.48) VERSES Kocaeli, (2.4)",
-        "start_time_aest": "2026-02-23T00:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Turkey TBL",
-        "contestants": [
-            {
-                "full_name": "Pizza Bulls",
-                "position": "HOME",
-                "short_name": "Pizza Bulls"
-            },
-            {
-                "full_name": "Kocaeli",
-                "position": "AWAY",
-                "short_name": "Kocaeli"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Pizza Bulls",
-                "returnWin": 1.48
-            },
-            {
-                "name": "Kocaeli",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Pizza Bulls v Kocaeli",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-22T13:30:00.000Z"
-    },
-    {
         "contestant_names": "Dukes Den Bosch, (2.15) VERSES Oostende, (1.62)",
         "start_time_aest": "2026-02-23T01:00:00+11:00",
         "sport_name": "Basketball",
@@ -182,6 +58,37 @@
             }
         ],
         "match_name": "Brussels Basket v Limburg",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Paulistano, (2.4) VERSES Minas TC, (1.48)",
+        "start_time_aest": "2026-02-23T01:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Brazil NBB",
+        "contestants": [
+            {
+                "full_name": "Paulistano",
+                "position": "HOME",
+                "short_name": "Paulistano"
+            },
+            {
+                "full_name": "Minas TC",
+                "position": "AWAY",
+                "short_name": "Minas TC"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Paulistano",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Minas TC",
+                "returnWin": 1.48
+            }
+        ],
+        "match_name": "Paulistano v Minas TC",
         "betOption": "Head To Head",
         "start_time": "2026-02-22T14:00:00.000Z"
     }
