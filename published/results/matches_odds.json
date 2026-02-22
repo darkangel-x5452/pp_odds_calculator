@@ -1,1 +1,96 @@
-[]
+[
+    {
+        "contestant_names": "LA Lakers, (2) VERSES Boston, (1.85)",
+        "start_time_aest": "2026-02-23T10:40:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "LA Lakers",
+                "position": "HOME",
+                "short_name": "LA Lakers"
+            },
+            {
+                "full_name": "Boston",
+                "position": "AWAY",
+                "short_name": "Boston"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "LA Lakers",
+                "returnWin": 2
+            },
+            {
+                "name": "Boston",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "LA Lakers v Boston",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T23:40:00.000Z"
+    },
+    {
+        "contestant_names": "Barrio Parque, (1.45) VERSES Paula Galvez, (2.5)",
+        "start_time_aest": "2026-02-23T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Barrio Parque",
+                "position": "HOME",
+                "short_name": "Barrio Parque"
+            },
+            {
+                "full_name": "Paula Galvez",
+                "position": "AWAY",
+                "short_name": "Paula Galvez"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Barrio Parque",
+                "returnWin": 1.45
+            },
+            {
+                "name": "Paula Galvez",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Barrio Parque v Paula Galvez",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-23T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Elias Ymer, (1.62) VERSES Nicolas Mejia, (2.15)",
+        "start_time_aest": "2026-02-23T11:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "tournamentName": "ATP Acapulco",
+        "contestants": [
+            {
+                "full_name": "Elias Ymer",
+                "position": "HOME",
+                "short_name": "Ymer E"
+            },
+            {
+                "full_name": "Nicolas Mejia",
+                "position": "AWAY",
+                "short_name": "Mejia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Elias Ymer",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Nicolas Mejia",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Ymer E v Mejia",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-23T00:00:00.000Z"
+    }
+]
