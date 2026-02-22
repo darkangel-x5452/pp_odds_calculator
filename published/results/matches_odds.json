@@ -1,220 +1,193 @@
 [
     {
-        "contestant_names": "Federico Arnaboldi, (1.63) VERSES Alex Knaff, (2.1)",
-        "start_time_aest": "2026-02-23T03:45:00+11:00",
+        "contestant_names": "Perpignan, (1.72) VERSES Pau, (2.05)",
+        "start_time_aest": "2026-02-23T04:15:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "French Top 14",
+        "contestants": [
+            {
+                "full_name": "Perpignan",
+                "position": "HOME",
+                "short_name": "Perpignan"
+            },
+            {
+                "full_name": "Pau",
+                "position": "AWAY",
+                "short_name": "Pau"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Perpignan",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Pau",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Perpignan v Pau",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T17:15:00.000Z"
+    },
+    {
+        "contestant_names": "Francesco Forti, (1.48) VERSES Federico Bondioli, (2.4)",
+        "start_time_aest": "2026-02-23T04:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "tournamentName": "Challenger Lugano",
         "contestants": [
             {
-                "full_name": "Federico Arnaboldi",
+                "full_name": "Francesco Forti",
                 "position": "HOME",
-                "short_name": "Arnaboldi F"
+                "short_name": "Forti"
             },
             {
-                "full_name": "Alex Knaff",
+                "full_name": "Federico Bondioli",
                 "position": "AWAY",
-                "short_name": "Knaff"
+                "short_name": "Bondioli"
             }
         ],
         "propositions": [
             {
-                "name": "Federico Arnaboldi",
-                "returnWin": 1.63
+                "name": "Francesco Forti",
+                "returnWin": 1.48
             },
             {
-                "name": "Alex Knaff",
-                "returnWin": 2.1
+                "name": "Federico Bondioli",
+                "returnWin": 2.4
             }
         ],
-        "match_name": "Arnaboldi F v Knaff",
+        "match_name": "Forti v Bondioli",
         "betOption": "Head To Head",
-        "start_time": "2026-02-22T16:45:00.000Z"
+        "start_time": "2026-02-22T17:15:00.000Z"
     },
     {
-        "contestant_names": "Rider, (2.1) VERSES Niagara, (1.74)",
-        "start_time_aest": "2026-02-23T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "contestant_names": "Arthur Nagel, (2.2) VERSES Lucas Poullain, (1.57)",
+        "start_time_aest": "2026-02-23T04:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger St Brieuc",
         "contestants": [
             {
-                "full_name": "Rider",
+                "full_name": "Arthur Nagel",
                 "position": "HOME",
-                "short_name": "Rider"
+                "short_name": "Nagel A"
             },
             {
-                "full_name": "Niagara",
+                "full_name": "Lucas Poullain",
                 "position": "AWAY",
-                "short_name": "Niagara"
+                "short_name": "Poullain"
             }
         ],
         "propositions": [
             {
-                "name": "Rider",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Niagara",
-                "returnWin": 1.74
-            }
-        ],
-        "match_name": "Rider v Niagara",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-22T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Bucknell, (1.67) VERSES Holy Cross, (2.2)",
-        "start_time_aest": "2026-02-23T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Bucknell",
-                "position": "HOME",
-                "short_name": "Bucknell"
-            },
-            {
-                "full_name": "Holy Cross",
-                "position": "AWAY",
-                "short_name": "Holy Cross"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Bucknell",
-                "returnWin": 1.67
-            },
-            {
-                "name": "Holy Cross",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Bucknell v Holy Cross",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-22T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Iowa, (2.5) VERSES Michigan, (1.5)",
-        "start_time_aest": "2026-02-23T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Iowa",
-                "position": "HOME",
-                "short_name": "Iowa"
-            },
-            {
-                "full_name": "Michigan",
-                "position": "AWAY",
-                "short_name": "Michigan"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Iowa",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Michigan",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Iowa v Michigan",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-22T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Florida, (2.2) VERSES Alabama, (1.62)",
-        "start_time_aest": "2026-02-23T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Florida",
-                "position": "HOME",
-                "short_name": "Florida"
-            },
-            {
-                "full_name": "Alabama",
-                "position": "AWAY",
-                "short_name": "Alabama"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Florida",
+                "name": "Arthur Nagel",
                 "returnWin": 2.2
             },
             {
-                "name": "Alabama",
-                "returnWin": 1.62
+                "name": "Lucas Poullain",
+                "returnWin": 1.57
             }
         ],
-        "match_name": "Florida v Alabama",
+        "match_name": "Nagel A v Poullain",
         "betOption": "Head To Head",
-        "start_time": "2026-02-22T17:00:00.000Z"
+        "start_time": "2026-02-22T17:15:00.000Z"
     },
     {
-        "contestant_names": "Notec Inowroclaw, (2.35) VERSES Polpharma Starog, (1.5)",
-        "start_time_aest": "2026-02-23T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Poland First Division",
+        "contestant_names": "Caroline Dolehide, (1.5) VERSES Nao Hibino, (2.4)",
+        "start_time_aest": "2026-02-23T04:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Austin",
         "contestants": [
             {
-                "full_name": "Notec Inowroclaw",
+                "full_name": "Caroline Dolehide",
                 "position": "HOME",
-                "short_name": "Notec Inowroclaw"
+                "short_name": "Dolehide Ca"
             },
             {
-                "full_name": "Polpharma Starog",
+                "full_name": "Nao Hibino",
                 "position": "AWAY",
-                "short_name": "Polpharma Starog"
+                "short_name": "Hibino"
             }
         ],
         "propositions": [
             {
-                "name": "Notec Inowroclaw",
-                "returnWin": 2.35
-            },
-            {
-                "name": "Polpharma Starog",
+                "name": "Caroline Dolehide",
                 "returnWin": 1.5
-            }
-        ],
-        "match_name": "Notec Inowroclaw v Polpharma Starog",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-22T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Porta Xi Ensino, (1.45) VERSES Uni Ferrol, (2.5)",
-        "start_time_aest": "2026-02-23T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Spain Liga Women",
-        "contestants": [
-            {
-                "full_name": "Porta Xi Ensino",
-                "position": "HOME",
-                "short_name": "Porta Xi Ensino"
             },
             {
-                "full_name": "Uni Ferrol",
+                "name": "Nao Hibino",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Dolehide Ca v Hibino",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T17:15:00.000Z"
+    },
+    {
+        "contestant_names": "Priscilla Hon, (1.46) VERSES Cadence Brace, (2.5)",
+        "start_time_aest": "2026-02-23T04:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Merida",
+        "contestants": [
+            {
+                "full_name": "Priscilla Hon",
+                "position": "HOME",
+                "short_name": "Hon"
+            },
+            {
+                "full_name": "Cadence Brace",
                 "position": "AWAY",
-                "short_name": "Uni Ferrol"
+                "short_name": "Brace"
             }
         ],
         "propositions": [
             {
-                "name": "Porta Xi Ensino",
-                "returnWin": 1.45
+                "name": "Priscilla Hon",
+                "returnWin": 1.46
             },
             {
-                "name": "Uni Ferrol",
+                "name": "Cadence Brace",
                 "returnWin": 2.5
             }
         ],
-        "match_name": "Porta Xi Ensino v Uni Ferrol",
+        "match_name": "Hon v Brace",
         "betOption": "Head To Head",
-        "start_time": "2026-02-22T17:00:00.000Z"
+        "start_time": "2026-02-22T17:15:00.000Z"
+    },
+    {
+        "contestant_names": "Hanyu Guo, (1.95) VERSES Alina Charaeva, (1.75)",
+        "start_time_aest": "2026-02-23T04:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Tour",
+        "tournamentName": "WTA 125 Midland",
+        "contestants": [
+            {
+                "full_name": "Hanyu Guo",
+                "position": "HOME",
+                "short_name": "Guo H"
+            },
+            {
+                "full_name": "Alina Charaeva",
+                "position": "AWAY",
+                "short_name": "Charaeva A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hanyu Guo",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Alina Charaeva",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Guo H v Charaeva A",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T17:15:00.000Z"
     }
 ]
