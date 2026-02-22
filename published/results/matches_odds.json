@@ -1,162 +1,5 @@
 [
     {
-        "contestant_names": "New Orleans, (2.4) VERSES Philadelphia, (1.6)",
-        "start_time_aest": "2026-02-22T11:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "New Orleans",
-                "position": "HOME",
-                "short_name": "New Orleans"
-            },
-            {
-                "full_name": "Philadelphia",
-                "position": "AWAY",
-                "short_name": "Philadelphia"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "New Orleans",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Philadelphia",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "New Orleans v Philadelphia",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-22T00:10:00.000Z"
-    },
-    {
-        "contestant_names": "Alejandro Tabilo, (1.62) VERSES Ignacio Buse, (2.2)",
-        "start_time_aest": "2026-02-22T11:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "tournamentName": "ATP Rio De Janeiro",
-        "contestants": [
-            {
-                "full_name": "Alejandro Tabilo",
-                "position": "HOME",
-                "short_name": "Tabilo A"
-            },
-            {
-                "full_name": "Ignacio Buse",
-                "position": "AWAY",
-                "short_name": "Buse"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Alejandro Tabilo",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Ignacio Buse",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Tabilo A v Buse",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-22T00:15:00.000Z"
-    },
-    {
-        "contestant_names": "OSBOURNE Ode, (2.1) VERSES IDIRIS Alibi, (1.72)",
-        "start_time_aest": "2026-02-22T11:15:00+11:00",
-        "sport_name": "UFC",
-        "competition_name": "UFC",
-        "tournamentName": "UFC Fight Night - Strickland v Hernandez",
-        "contestants": [
-            {
-                "full_name": "OSBOURNE Ode",
-                "position": "HOME",
-                "short_name": "Osbourne"
-            },
-            {
-                "full_name": "IDIRIS Alibi",
-                "position": "AWAY",
-                "short_name": "Idiris"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "OSBOURNE Ode",
-                "returnWin": 2.1
-            },
-            {
-                "name": "IDIRIS Alibi",
-                "returnWin": 1.72
-            }
-        ],
-        "match_name": "Osbourne v Idiris",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-22T00:15:00.000Z"
-    },
-    {
-        "contestant_names": "Centenarios, (1.45) VERSES Club Pico Foot, (2.5)",
-        "start_time_aest": "2026-02-22T11:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga A",
-        "contestants": [
-            {
-                "full_name": "Centenarios",
-                "position": "HOME",
-                "short_name": "Centenarios"
-            },
-            {
-                "full_name": "Club Pico Foot",
-                "position": "AWAY",
-                "short_name": "Club Pico Foot"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Centenarios",
-                "returnWin": 1.45
-            },
-            {
-                "name": "Club Pico Foot",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Centenarios v Club Pico Foot",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-22T00:30:00.000Z"
-    },
-    {
-        "contestant_names": "Caballeros De Cu, (1.52) VERSES Venados Mazatlan, (2.3)",
-        "start_time_aest": "2026-02-22T11:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Mexico CIBACOPA",
-        "contestants": [
-            {
-                "full_name": "Caballeros De Cu",
-                "position": "HOME",
-                "short_name": "Caballeros De Cu"
-            },
-            {
-                "full_name": "Venados Mazatlan",
-                "position": "AWAY",
-                "short_name": "Venados Mazatlan"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Caballeros De Cu",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Venados Mazatlan",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Caballeros De Cu v Venados Mazatlan",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-22T00:30:00.000Z"
-    },
-    {
         "contestant_names": "NJOKUANI Chidi, (2.1) VERSES LEAL Carlos, (1.72)",
         "start_time_aest": "2026-02-22T11:40:00+11:00",
         "sport_name": "UFC",
@@ -187,6 +30,38 @@
         "match_name": "Njokuani v Leal",
         "betOption": "Head To Head",
         "start_time": "2026-02-22T00:40:00.000Z"
+    },
+    {
+        "contestant_names": "Alejandro Tabilo, (1.62) VERSES Ignacio Buse, (2.2)",
+        "start_time_aest": "2026-02-22T11:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "tournamentName": "ATP Rio De Janeiro",
+        "contestants": [
+            {
+                "full_name": "Alejandro Tabilo",
+                "position": "HOME",
+                "short_name": "Tabilo A"
+            },
+            {
+                "full_name": "Ignacio Buse",
+                "position": "AWAY",
+                "short_name": "Buse"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alejandro Tabilo",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Ignacio Buse",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Tabilo A v Buse",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T00:45:00.000Z"
     },
     {
         "contestant_names": "Oral Roberts, (1.95) VERSES South Dakota, (1.85)",
@@ -247,6 +122,102 @@
             }
         ],
         "match_name": "DePaul v Providence",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Bernard Tomic, (1.65) VERSES Nicolas Mejia, (2.1)",
+        "start_time_aest": "2026-02-22T12:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "tournamentName": "ATP Acapulco",
+        "contestants": [
+            {
+                "full_name": "Bernard Tomic",
+                "position": "HOME",
+                "short_name": "Tomic B"
+            },
+            {
+                "full_name": "Nicolas Mejia",
+                "position": "AWAY",
+                "short_name": "Mejia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bernard Tomic",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Nicolas Mejia",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Tomic B v Mejia",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Tommy Paul, (1.52) VERSES Learner Tien, (2.4)",
+        "start_time_aest": "2026-02-22T12:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "tournamentName": "ATP Delray Beach",
+        "contestants": [
+            {
+                "full_name": "Tommy Paul",
+                "position": "HOME",
+                "short_name": "Paul T"
+            },
+            {
+                "full_name": "Learner Tien",
+                "position": "AWAY",
+                "short_name": "Tien L"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tommy Paul",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Learner Tien",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Paul T v Tien L",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Daniel Milavsky, (1.46) VERSES Gavin Young, (2.5)",
+        "start_time_aest": "2026-02-22T12:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "tournamentName": "ITFM San Jose",
+        "contestants": [
+            {
+                "full_name": "Daniel Milavsky",
+                "position": "HOME",
+                "short_name": "Milavsky D"
+            },
+            {
+                "full_name": "Gavin Young",
+                "position": "AWAY",
+                "short_name": "Young G"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Daniel Milavsky",
+                "returnWin": 1.46
+            },
+            {
+                "name": "Gavin Young",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Milavsky D v Young G",
         "betOption": "Head To Head",
         "start_time": "2026-02-22T01:00:00.000Z"
     }
