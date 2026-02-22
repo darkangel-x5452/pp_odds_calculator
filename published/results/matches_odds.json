@@ -1,127 +1,97 @@
 [
     {
-        "contestant_names": "Alexandr Binda, (1.45) VERSES Manish Sureshkumar, (2.5)",
-        "start_time_aest": "2026-02-22T21:45:00+11:00",
+        "contestant_names": "Jia Nan Yuan, (2) VERSES Xiaoxin Yang, (1.72)",
+        "start_time_aest": "2026-02-22T22:15:00+11:00",
+        "sport_name": "Table Tennis",
+        "competition_name": "WTT Grand Smash",
+        "tournamentName": "WTT Singapore Smash Womens Singles",
+        "contestants": [
+            {
+                "full_name": "Jia Nan Yuan",
+                "position": "HOME",
+                "short_name": "Nan Yuan"
+            },
+            {
+                "full_name": "Xiaoxin Yang",
+                "position": "AWAY",
+                "short_name": "Xiaoxin Y"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jia Nan Yuan",
+                "returnWin": 2
+            },
+            {
+                "name": "Xiaoxin Yang",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "Nan Yuan v Xiaoxin Y",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T11:15:00.000Z"
+    },
+    {
+        "contestant_names": "Dylan Dietrich, (1.48) VERSES Luca Potenza, (2.4)",
+        "start_time_aest": "2026-02-22T22:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
-        "tournamentName": "Challenger Pune",
+        "tournamentName": "Challenger Lugano",
         "contestants": [
             {
-                "full_name": "Alexandr Binda",
+                "full_name": "Dylan Dietrich",
                 "position": "HOME",
-                "short_name": "Binda A"
+                "short_name": "Dietrich D"
             },
             {
-                "full_name": "Manish Sureshkumar",
+                "full_name": "Luca Potenza",
                 "position": "AWAY",
-                "short_name": "Sureshkumar"
+                "short_name": "Potenza"
             }
         ],
         "propositions": [
             {
-                "name": "Alexandr Binda",
-                "returnWin": 1.45
+                "name": "Dylan Dietrich",
+                "returnWin": 1.48
             },
             {
-                "name": "Manish Sureshkumar",
-                "returnWin": 2.5
+                "name": "Luca Potenza",
+                "returnWin": 2.4
             }
         ],
-        "match_name": "Binda A v Sureshkumar",
+        "match_name": "Dietrich D v Potenza",
         "betOption": "Head To Head",
-        "start_time": "2026-02-22T10:45:00.000Z"
+        "start_time": "2026-02-22T11:15:00.000Z"
     },
     {
-        "contestant_names": "Olympiakos, (2.25) VERSES Athinaikos, (1.55)",
-        "start_time_aest": "2026-02-22T22:00:00+11:00",
+        "contestant_names": "Hubei Culture An, (2.1) VERSES Shanghai Blackbi, (1.62)",
+        "start_time_aest": "2026-02-22T22:30:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Greece A1 Women",
+        "competition_name": "China NBL",
         "contestants": [
             {
-                "full_name": "Olympiakos",
+                "full_name": "Hubei Culture An",
                 "position": "HOME",
-                "short_name": "Olympiakos"
+                "short_name": "Hubei Culture An"
             },
             {
-                "full_name": "Athinaikos",
+                "full_name": "Shanghai Blackbi",
                 "position": "AWAY",
-                "short_name": "Athinaikos"
+                "short_name": "Shanghai Blackbi"
             }
         ],
         "propositions": [
             {
-                "name": "Olympiakos",
-                "returnWin": 2.25
+                "name": "Hubei Culture An",
+                "returnWin": 2.1
             },
             {
-                "name": "Athinaikos",
-                "returnWin": 1.55
+                "name": "Shanghai Blackbi",
+                "returnWin": 1.62
             }
         ],
-        "match_name": "Olympiakos v Athinaikos",
+        "match_name": "Hubei Culture An v Shanghai Blackbi",
         "betOption": "Head To Head",
-        "start_time": "2026-02-22T11:00:00.000Z"
-    },
-    {
-        "contestant_names": "Ae Panathlitikos, (1.6) VERSES Proteas Voulas, (2.15)",
-        "start_time_aest": "2026-02-22T22:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Greece A1 Women",
-        "contestants": [
-            {
-                "full_name": "Ae Panathlitikos",
-                "position": "HOME",
-                "short_name": "Ae Panathlitikos"
-            },
-            {
-                "full_name": "Proteas Voulas",
-                "position": "AWAY",
-                "short_name": "Proteas Voulas"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ae Panathlitikos",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Proteas Voulas",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Ae Panathlitikos v Proteas Voulas",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-22T11:00:00.000Z"
-    },
-    {
-        "contestant_names": "AD Galomar, (1.52) VERSES Lusitania, (2.3)",
-        "start_time_aest": "2026-02-22T22:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Portugal ProLiga",
-        "contestants": [
-            {
-                "full_name": "AD Galomar",
-                "position": "HOME",
-                "short_name": "AD Galomar"
-            },
-            {
-                "full_name": "Lusitania",
-                "position": "AWAY",
-                "short_name": "Lusitania"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "AD Galomar",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Lusitania",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "AD Galomar v Lusitania",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-22T11:00:00.000Z"
+        "start_time": "2026-02-22T11:30:00.000Z"
     }
 ]
