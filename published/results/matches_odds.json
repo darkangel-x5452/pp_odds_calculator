@@ -1,39 +1,7 @@
 [
     {
-        "contestant_names": "Jia Nan Yuan, (2) VERSES Xiaoxin Yang, (1.72)",
-        "start_time_aest": "2026-02-22T22:15:00+11:00",
-        "sport_name": "Table Tennis",
-        "competition_name": "WTT Grand Smash",
-        "tournamentName": "WTT Singapore Smash Womens Singles",
-        "contestants": [
-            {
-                "full_name": "Jia Nan Yuan",
-                "position": "HOME",
-                "short_name": "Nan Yuan"
-            },
-            {
-                "full_name": "Xiaoxin Yang",
-                "position": "AWAY",
-                "short_name": "Xiaoxin Y"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jia Nan Yuan",
-                "returnWin": 2
-            },
-            {
-                "name": "Xiaoxin Yang",
-                "returnWin": 1.72
-            }
-        ],
-        "match_name": "Nan Yuan v Xiaoxin Y",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-22T11:15:00.000Z"
-    },
-    {
         "contestant_names": "Dylan Dietrich, (1.48) VERSES Luca Potenza, (2.4)",
-        "start_time_aest": "2026-02-22T22:15:00+11:00",
+        "start_time_aest": "2026-02-22T22:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "tournamentName": "Challenger Lugano",
@@ -61,37 +29,133 @@
         ],
         "match_name": "Dietrich D v Potenza",
         "betOption": "Head To Head",
-        "start_time": "2026-02-22T11:15:00.000Z"
+        "start_time": "2026-02-22T11:45:00.000Z"
     },
     {
-        "contestant_names": "Hubei Culture An, (2.1) VERSES Shanghai Blackbi, (1.62)",
-        "start_time_aest": "2026-02-22T22:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "China NBL",
+        "contestant_names": "Benedikt Duda, (1.65) VERSES Flavien Coton, (2.1)",
+        "start_time_aest": "2026-02-22T22:50:00+11:00",
+        "sport_name": "Table Tennis",
+        "competition_name": "WTT Grand Smash",
+        "tournamentName": "WTT Singapore Smash Mens Singles",
         "contestants": [
             {
-                "full_name": "Hubei Culture An",
+                "full_name": "Benedikt Duda",
                 "position": "HOME",
-                "short_name": "Hubei Culture An"
+                "short_name": "Duda"
             },
             {
-                "full_name": "Shanghai Blackbi",
+                "full_name": "Flavien Coton",
                 "position": "AWAY",
-                "short_name": "Shanghai Blackbi"
+                "short_name": "Coton"
             }
         ],
         "propositions": [
             {
-                "name": "Hubei Culture An",
-                "returnWin": 2.1
+                "name": "Benedikt Duda",
+                "returnWin": 1.65
             },
             {
-                "name": "Shanghai Blackbi",
-                "returnWin": 1.62
+                "name": "Flavien Coton",
+                "returnWin": 2.1
             }
         ],
-        "match_name": "Hubei Culture An v Shanghai Blackbi",
+        "match_name": "Duda v Coton",
         "betOption": "Head To Head",
-        "start_time": "2026-02-22T11:30:00.000Z"
+        "start_time": "2026-02-22T11:50:00.000Z"
+    },
+    {
+        "contestant_names": "Dimitrij Ovtcharov, (2.2) VERSES Anders Lind, (1.6)",
+        "start_time_aest": "2026-02-22T22:50:00+11:00",
+        "sport_name": "Table Tennis",
+        "competition_name": "WTT Grand Smash",
+        "tournamentName": "WTT Singapore Smash Mens Singles",
+        "contestants": [
+            {
+                "full_name": "Dimitrij Ovtcharov",
+                "position": "HOME",
+                "short_name": "Ovtcharov Dimitr"
+            },
+            {
+                "full_name": "Anders Lind",
+                "position": "AWAY",
+                "short_name": "Lind"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Dimitrij Ovtcharov",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Anders Lind",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Ovtcharov Dimitr v Lind",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T11:50:00.000Z"
+    },
+    {
+        "contestant_names": "Nmky Helsinki, (1.52) VERSES Raholan Pyrkiva, (2.3)",
+        "start_time_aest": "2026-02-22T23:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Finland Division 1A",
+        "contestants": [
+            {
+                "full_name": "Nmky Helsinki",
+                "position": "HOME",
+                "short_name": "Nmky Helsinki"
+            },
+            {
+                "full_name": "Raholan Pyrkiva",
+                "position": "AWAY",
+                "short_name": "Raholan Pyrkiva"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nmky Helsinki",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Raholan Pyrkiva",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Nmky Helsinki v Raholan Pyrkiva",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T12:00:00.000Z"
+    },
+    {
+        "contestant_names": "TheMongolz, (2.4) VERSES mousesports, (1.5)",
+        "start_time_aest": "2026-02-22T23:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "tournamentName": "CS2 - PGL Cluj-Napoca",
+        "contestants": [
+            {
+                "full_name": "TheMongolz",
+                "position": "HOME",
+                "short_name": "TheMongolz"
+            },
+            {
+                "full_name": "mousesports",
+                "position": "AWAY",
+                "short_name": "Mousesports"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "TheMongolz",
+                "returnWin": 2.4
+            },
+            {
+                "name": "mousesports",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "TheMongolz v Mousesports",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T12:00:00.000Z"
     }
 ]
