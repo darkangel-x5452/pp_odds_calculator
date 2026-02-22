@@ -1,38 +1,71 @@
 [
     {
-        "contestant_names": "Milwaukee, (2.35) VERSES Toronto, (1.62)",
-        "start_time_aest": "2026-02-23T07:40:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
+        "contestant_names": "Tommy Paul, (1.8) VERSES Sebastian Korda, (2)",
+        "start_time_aest": "2026-02-23T08:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "tournamentName": "ATP Delray Beach",
         "contestants": [
             {
-                "full_name": "Milwaukee",
+                "full_name": "Tommy Paul",
                 "position": "HOME",
-                "short_name": "Milwaukee"
+                "short_name": "Paul T"
             },
             {
-                "full_name": "Toronto",
+                "full_name": "Sebastian Korda",
                 "position": "AWAY",
-                "short_name": "Toronto"
+                "short_name": "Korda S"
             }
         ],
         "propositions": [
             {
-                "name": "Milwaukee",
-                "returnWin": 2.35
+                "name": "Tommy Paul",
+                "returnWin": 1.8
             },
             {
-                "name": "Toronto",
-                "returnWin": 1.62
+                "name": "Sebastian Korda",
+                "returnWin": 2
             }
         ],
-        "match_name": "Milwaukee v Toronto",
+        "match_name": "Paul T v Korda S",
         "betOption": "Head To Head",
-        "start_time": "2026-02-22T20:40:00.000Z"
+        "start_time": "2026-02-22T21:15:00.000Z"
+    },
+    {
+        "contestant_names": "Alejandro Tabilo, (1.5) VERSES Tomas Martin Etcheverry, (2.5)",
+        "start_time_aest": "2026-02-23T08:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "tournamentName": "ATP Rio De Janeiro",
+        "contestants": [
+            {
+                "full_name": "Alejandro Tabilo",
+                "position": "HOME",
+                "short_name": "Tabilo A"
+            },
+            {
+                "full_name": "Tomas Martin Etcheverry",
+                "position": "AWAY",
+                "short_name": "Etcheverry"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alejandro Tabilo",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Tomas Martin Etcheverry",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Tabilo A v Etcheverry",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T21:15:00.000Z"
     },
     {
         "contestant_names": "Mert Alkaya, (1.95) VERSES Niels Visker, (1.72)",
-        "start_time_aest": "2026-02-23T07:45:00+11:00",
+        "start_time_aest": "2026-02-23T08:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "tournamentName": "Challenger Lugano",
@@ -60,68 +93,37 @@
         ],
         "match_name": "Alkaya v Visker",
         "betOption": "Head To Head",
-        "start_time": "2026-02-22T20:45:00.000Z"
+        "start_time": "2026-02-22T21:15:00.000Z"
     },
     {
-        "contestant_names": "North Texas, (1.67) VERSES Florida Atlantic, (2.2)",
-        "start_time_aest": "2026-02-23T08:00:00+11:00",
+        "contestant_names": "Indiana, (1.85) VERSES Dallas, (2)",
+        "start_time_aest": "2026-02-23T09:10:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "competition_name": "NBA",
         "contestants": [
             {
-                "full_name": "North Texas",
+                "full_name": "Indiana",
                 "position": "HOME",
-                "short_name": "North Texas"
+                "short_name": "Indiana"
             },
             {
-                "full_name": "Florida Atlantic",
+                "full_name": "Dallas",
                 "position": "AWAY",
-                "short_name": "Florida Atlantic"
+                "short_name": "Dallas"
             }
         ],
         "propositions": [
             {
-                "name": "North Texas",
-                "returnWin": 1.67
+                "name": "Indiana",
+                "returnWin": 1.85
             },
             {
-                "name": "Florida Atlantic",
-                "returnWin": 2.2
+                "name": "Dallas",
+                "returnWin": 2
             }
         ],
-        "match_name": "North Texas v Florida Atlantic",
+        "match_name": "Indiana v Dallas",
         "betOption": "Head To Head",
-        "start_time": "2026-02-22T21:00:00.000Z"
-    },
-    {
-        "contestant_names": "Wisconsin, (1.58) VERSES Iowa, (2.4)",
-        "start_time_aest": "2026-02-23T08:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Wisconsin",
-                "position": "HOME",
-                "short_name": "Wisconsin"
-            },
-            {
-                "full_name": "Iowa",
-                "position": "AWAY",
-                "short_name": "Iowa"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Wisconsin",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Iowa",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Wisconsin v Iowa",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-22T21:00:00.000Z"
+        "start_time": "2026-02-22T22:10:00.000Z"
     }
 ]
