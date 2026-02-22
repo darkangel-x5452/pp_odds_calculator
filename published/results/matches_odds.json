@@ -1,33 +1,97 @@
 [
     {
-        "contestant_names": "Shinshu Brave Wa, (1.7) VERSES Nishinomiya, (2)",
-        "start_time_aest": "2026-02-22T16:05:00+11:00",
+        "contestant_names": "Ehime Orange, (1.7) VERSES Kumamoto Volters, (2)",
+        "start_time_aest": "2026-02-22T17:05:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "Japan B League 2",
         "contestants": [
             {
-                "full_name": "Shinshu Brave Wa",
+                "full_name": "Ehime Orange",
                 "position": "HOME",
-                "short_name": "Shinshu Brave Wa"
+                "short_name": "Ehime Orange"
             },
             {
-                "full_name": "Nishinomiya",
+                "full_name": "Kumamoto Volters",
                 "position": "AWAY",
-                "short_name": "Nishinomiya"
+                "short_name": "Kumamoto Volters"
             }
         ],
         "propositions": [
             {
-                "name": "Shinshu Brave Wa",
+                "name": "Ehime Orange",
                 "returnWin": 1.7
             },
             {
-                "name": "Nishinomiya",
+                "name": "Kumamoto Volters",
                 "returnWin": 2
             }
         ],
-        "match_name": "Shinshu Brave Wa v Nishinomiya",
+        "match_name": "Ehime Orange v Kumamoto Volters",
         "betOption": "Head To Head",
-        "start_time": "2026-02-22T05:05:00.000Z"
+        "start_time": "2026-02-22T06:05:00.000Z"
+    },
+    {
+        "contestant_names": "Ionescu/Szocs, (1.55) VERSES Oh/Nagasaki, (2.3)",
+        "start_time_aest": "2026-02-22T17:25:00+11:00",
+        "sport_name": "Table Tennis",
+        "competition_name": "WTT Grand Smash",
+        "tournamentName": "WTT Singapore Smash Mixed Doubles",
+        "contestants": [
+            {
+                "full_name": "Ionescu/Szocs",
+                "position": "HOME",
+                "short_name": "Ionescu/szocs"
+            },
+            {
+                "full_name": "Oh/Nagasaki",
+                "position": "AWAY",
+                "short_name": "Oh/Nagasaki"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ionescu/Szocs",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Oh/Nagasaki",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Ionescu/szocs v Oh/Nagasaki",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T06:25:00.000Z"
+    },
+    {
+        "contestant_names": "Chan/Kim, (1.55) VERSES Gardos/Polcanova, (2.3)",
+        "start_time_aest": "2026-02-22T17:55:00+11:00",
+        "sport_name": "Table Tennis",
+        "competition_name": "WTT Grand Smash",
+        "tournamentName": "WTT Singapore Smash Mixed Doubles",
+        "contestants": [
+            {
+                "full_name": "Chan/Kim",
+                "position": "HOME",
+                "short_name": "Cha/Kim"
+            },
+            {
+                "full_name": "Gardos/Polcanova",
+                "position": "AWAY",
+                "short_name": "Gardos/Polcanova"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Chan/Kim",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Gardos/Polcanova",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Cha/Kim v Gardos/Polcanova",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-22T06:55:00.000Z"
     }
 ]
