@@ -1,69 +1,5 @@
 [
     {
-        "contestant_names": "Vladislav Melnic, (1.58) VERSES Daniel Batista, (2.25)",
-        "start_time_aest": "2026-02-23T23:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "tournamentName": "ITFM Vale do Lobo",
-        "contestants": [
-            {
-                "full_name": "Vladislav Melnic",
-                "position": "HOME",
-                "short_name": "Melnic"
-            },
-            {
-                "full_name": "Daniel Batista",
-                "position": "AWAY",
-                "short_name": "Batista"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Vladislav Melnic",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Daniel Batista",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Melnic v Batista",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-23T12:30:00.000Z"
-    },
-    {
-        "contestant_names": "Weronika Ewald, (1.55) VERSES Beatrise Zeltina, (2.3)",
-        "start_time_aest": "2026-02-23T23:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "tournamentName": "ITFW Trnava",
-        "contestants": [
-            {
-                "full_name": "Weronika Ewald",
-                "position": "HOME",
-                "short_name": "Ewald W"
-            },
-            {
-                "full_name": "Beatrise Zeltina",
-                "position": "AWAY",
-                "short_name": "Zeltina"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Weronika Ewald",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Beatrise Zeltina",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Ewald W v Zeltina",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-23T12:30:00.000Z"
-    },
-    {
         "contestant_names": "Anouck Vrancken Peeters, (1.72) VERSES Oceane Dodin, (2)",
         "start_time_aest": "2026-02-23T23:45:00+11:00",
         "sport_name": "Tennis",
@@ -221,5 +157,36 @@
         "match_name": "Visker v Basic M",
         "betOption": "Head To Head",
         "start_time": "2026-02-23T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Stephen Maguire, (1.65) VERSES Ricky Walden, (2.15)",
+        "start_time_aest": "2026-02-24T01:00:00+11:00",
+        "sport_name": "Snooker",
+        "competition_name": "Welsh Open",
+        "contestants": [
+            {
+                "full_name": "Stephen Maguire",
+                "position": "HOME",
+                "short_name": "Maguire"
+            },
+            {
+                "full_name": "Ricky Walden",
+                "position": "AWAY",
+                "short_name": "Walden"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Stephen Maguire",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Ricky Walden",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Maguire v Walden",
+        "betOption": "Result",
+        "start_time": "2026-02-23T14:00:00.000Z"
     }
 ]
