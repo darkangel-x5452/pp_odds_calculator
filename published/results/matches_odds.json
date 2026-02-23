@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Atlanta Drive, (2) VERSES Boston Common, (1.75)",
-        "start_time_aest": "2026-02-24T09:00:00+11:00",
-        "sport_name": "Golf",
-        "competition_name": "TGL",
-        "contestants": [
-            {
-                "full_name": "Atlanta Drive",
-                "position": "HOME",
-                "short_name": "Atlanta Drive"
-            },
-            {
-                "full_name": "Boston Common",
-                "position": "AWAY",
-                "short_name": "Boston Common"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Atlanta Drive",
-                "returnWin": 2
-            },
-            {
-                "name": "Boston Common",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Atlanta Drive v Boston Common",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-23T22:00:00.000Z"
-    },
-    {
         "contestant_names": "Kawaguchi/Lee, (2) VERSES Appleton/Guarachi, (1.75)",
         "start_time_aest": "2026-02-24T09:30:00+11:00",
         "sport_name": "Tennis",
@@ -278,6 +247,70 @@
             }
         ],
         "match_name": "SE Louisiana v Texas AM-CC",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-24T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Taylor Townsend, (2.2) VERSES Varvara Gracheva, (1.62)",
+        "start_time_aest": "2026-02-24T11:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Austin",
+        "contestants": [
+            {
+                "full_name": "Taylor Townsend",
+                "position": "HOME",
+                "short_name": "Townsend T"
+            },
+            {
+                "full_name": "Varvara Gracheva",
+                "position": "AWAY",
+                "short_name": "Gracheva"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Taylor Townsend",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Varvara Gracheva",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Townsend T v Gracheva",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-24T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Elizabeth Mandlik, (1.6) VERSES Whitney Osuigwe, (2.25)",
+        "start_time_aest": "2026-02-24T11:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Austin",
+        "contestants": [
+            {
+                "full_name": "Elizabeth Mandlik",
+                "position": "HOME",
+                "short_name": "Mandlik E"
+            },
+            {
+                "full_name": "Whitney Osuigwe",
+                "position": "AWAY",
+                "short_name": "Osuigwe W"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Elizabeth Mandlik",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Whitney Osuigwe",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Mandlik E v Osuigwe W",
         "betOption": "Head To Head",
         "start_time": "2026-02-24T00:00:00.000Z"
     }
