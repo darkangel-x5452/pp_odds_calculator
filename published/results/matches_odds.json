@@ -1,37 +1,5 @@
 [
     {
-        "contestant_names": "Kawaguchi/Lee, (2) VERSES Appleton/Guarachi, (1.75)",
-        "start_time_aest": "2026-02-24T09:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA Doubles",
-        "tournamentName": "WTA Austin Doubles",
-        "contestants": [
-            {
-                "full_name": "Kawaguchi/Lee",
-                "position": "HOME",
-                "short_name": "Kawaguchi/Lee"
-            },
-            {
-                "full_name": "Appleton/Guarachi",
-                "position": "AWAY",
-                "short_name": "Appleton/Guarachi"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Kawaguchi/Lee",
-                "returnWin": 2
-            },
-            {
-                "name": "Appleton/Guarachi",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Kawaguchi/Lee v Appleton/Guarachi",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-23T22:30:00.000Z"
-    },
-    {
         "contestant_names": "Scott Jones, (2.45) VERSES Tai Sach, (1.48)",
         "start_time_aest": "2026-02-24T10:00:00+11:00",
         "sport_name": "Tennis",
@@ -313,5 +281,36 @@
         "match_name": "Mandlik E v Osuigwe W",
         "betOption": "Head To Head",
         "start_time": "2026-02-24T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Detroit, (1.85) VERSES San Antonio, (2)",
+        "start_time_aest": "2026-02-24T11:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Detroit",
+                "position": "HOME",
+                "short_name": "Detroit"
+            },
+            {
+                "full_name": "San Antonio",
+                "position": "AWAY",
+                "short_name": "San Antonio"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Detroit",
+                "returnWin": 1.85
+            },
+            {
+                "name": "San Antonio",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Detroit v San Antonio",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-24T00:10:00.000Z"
     }
 ]
