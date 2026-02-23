@@ -1,100 +1,5 @@
 [
     {
-        "contestant_names": "Scott Jones, (2.45) VERSES Tai Sach, (1.48)",
-        "start_time_aest": "2026-02-24T10:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens Australia",
-        "tournamentName": "ITFM Burnie",
-        "contestants": [
-            {
-                "full_name": "Scott Jones",
-                "position": "HOME",
-                "short_name": "Jones S"
-            },
-            {
-                "full_name": "Tai Sach",
-                "position": "AWAY",
-                "short_name": "Sach"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Scott Jones",
-                "returnWin": 2.45
-            },
-            {
-                "name": "Tai Sach",
-                "returnWin": 1.48
-            }
-        ],
-        "match_name": "Jones S v Sach",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-23T23:00:00.000Z"
-    },
-    {
-        "contestant_names": "Elena Micic, (1.48) VERSES Hikaru Sato, (2.45)",
-        "start_time_aest": "2026-02-24T10:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens Australia",
-        "tournamentName": "ITFW Burnie",
-        "contestants": [
-            {
-                "full_name": "Elena Micic",
-                "position": "HOME",
-                "short_name": "Micic"
-            },
-            {
-                "full_name": "Hikaru Sato",
-                "position": "AWAY",
-                "short_name": "Sato H"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Elena Micic",
-                "returnWin": 1.48
-            },
-            {
-                "name": "Hikaru Sato",
-                "returnWin": 2.45
-            }
-        ],
-        "match_name": "Micic v Sato H",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-23T23:00:00.000Z"
-    },
-    {
-        "contestant_names": "ACT (W), (2.5) VERSES South Australia (W), (1.52)",
-        "start_time_aest": "2026-02-24T10:00:00+11:00",
-        "sport_name": "Cricket",
-        "competition_name": "Womens National Cricket League",
-        "contestants": [
-            {
-                "full_name": "ACT (W)",
-                "position": "HOME",
-                "short_name": "ACT (W)"
-            },
-            {
-                "full_name": "South Australia (W)",
-                "position": "AWAY",
-                "short_name": "SthAustralia (W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "ACT (W)",
-                "returnWin": 2.5
-            },
-            {
-                "name": "South Australia (W)",
-                "returnWin": 1.52
-            }
-        ],
-        "match_name": "ACT (W) v SthAustralia (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-23T23:00:00.000Z"
-    },
-    {
         "contestant_names": "Washington, (1.75) VERSES Philadelphia, (2.1)",
         "start_time_aest": "2026-02-24T10:05:00+11:00",
         "sport_name": "Baseball",
@@ -312,5 +217,36 @@
         "match_name": "Detroit v San Antonio",
         "betOption": "Head To Head",
         "start_time": "2026-02-24T00:10:00.000Z"
+    },
+    {
+        "contestant_names": "Bochas Sport Clu, (2.05) VERSES Paula Galvez, (1.66)",
+        "start_time_aest": "2026-02-24T11:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Bochas Sport Clu",
+                "position": "HOME",
+                "short_name": "Bochas Sport Clu"
+            },
+            {
+                "full_name": "Paula Galvez",
+                "position": "AWAY",
+                "short_name": "Paula Galvez"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bochas Sport Clu",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Paula Galvez",
+                "returnWin": 1.66
+            }
+        ],
+        "match_name": "Bochas Sport Clu v Paula Galvez",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-24T00:30:00.000Z"
     }
 ]
