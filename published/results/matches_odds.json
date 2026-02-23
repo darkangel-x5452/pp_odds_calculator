@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Washington, (1.75) VERSES Philadelphia, (2.1)",
-        "start_time_aest": "2026-02-24T10:05:00+11:00",
-        "sport_name": "Baseball",
-        "competition_name": "MLB Pre-Season",
-        "contestants": [
-            {
-                "full_name": "Washington",
-                "position": "HOME",
-                "short_name": "Washington"
-            },
-            {
-                "full_name": "Philadelphia",
-                "position": "AWAY",
-                "short_name": "Philadelphia"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Washington",
-                "returnWin": 1.75
-            },
-            {
-                "name": "Philadelphia",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Washington v Philadelphia",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-23T23:05:00.000Z"
-    },
-    {
         "contestant_names": "North Carolina, (2.45) VERSES Louisville, (1.55)",
         "start_time_aest": "2026-02-24T11:00:00+11:00",
         "sport_name": "Basketball",
@@ -184,6 +153,38 @@
             }
         ],
         "match_name": "Mandlik E v Osuigwe W",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-24T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Taylor Townsend, (1.52) VERSES Linda Fruhvirtova, (2.4)",
+        "start_time_aest": "2026-02-24T11:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Austin",
+        "contestants": [
+            {
+                "full_name": "Taylor Townsend",
+                "position": "HOME",
+                "short_name": "Townsend T"
+            },
+            {
+                "full_name": "Linda Fruhvirtova",
+                "position": "AWAY",
+                "short_name": "Fruhvirtova L"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Taylor Townsend",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Linda Fruhvirtova",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Townsend T v Fruhvirtova L",
         "betOption": "Head To Head",
         "start_time": "2026-02-24T00:00:00.000Z"
     },
