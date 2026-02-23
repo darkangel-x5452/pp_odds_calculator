@@ -1,69 +1,7 @@
 [
     {
-        "contestant_names": "LA Lakers, (2) VERSES Boston, (1.85)",
-        "start_time_aest": "2026-02-23T10:40:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "LA Lakers",
-                "position": "HOME",
-                "short_name": "LA Lakers"
-            },
-            {
-                "full_name": "Boston",
-                "position": "AWAY",
-                "short_name": "Boston"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "LA Lakers",
-                "returnWin": 2
-            },
-            {
-                "name": "Boston",
-                "returnWin": 1.85
-            }
-        ],
-        "match_name": "LA Lakers v Boston",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-22T23:40:00.000Z"
-    },
-    {
-        "contestant_names": "Barrio Parque, (1.45) VERSES Paula Galvez, (2.5)",
-        "start_time_aest": "2026-02-23T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga A",
-        "contestants": [
-            {
-                "full_name": "Barrio Parque",
-                "position": "HOME",
-                "short_name": "Barrio Parque"
-            },
-            {
-                "full_name": "Paula Galvez",
-                "position": "AWAY",
-                "short_name": "Paula Galvez"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Barrio Parque",
-                "returnWin": 1.45
-            },
-            {
-                "name": "Paula Galvez",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Barrio Parque v Paula Galvez",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-23T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Elias Ymer, (1.62) VERSES Nicolas Mejia, (2.15)",
-        "start_time_aest": "2026-02-23T11:00:00+11:00",
+        "contestant_names": "Elias Ymer, (1.72) VERSES Nicolas Mejia, (2)",
+        "start_time_aest": "2026-02-23T11:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP",
         "tournamentName": "ATP Acapulco",
@@ -82,16 +20,16 @@
         "propositions": [
             {
                 "name": "Elias Ymer",
-                "returnWin": 1.62
+                "returnWin": 1.72
             },
             {
                 "name": "Nicolas Mejia",
-                "returnWin": 2.15
+                "returnWin": 2
             }
         ],
         "match_name": "Ymer E v Mejia",
         "betOption": "Head To Head",
-        "start_time": "2026-02-23T00:00:00.000Z"
+        "start_time": "2026-02-23T00:15:00.000Z"
     },
     {
         "contestant_names": "Caballeros De Cu, (1.48) VERSES Venados Mazatlan, (2.4)",
@@ -220,6 +158,38 @@
         "start_time": "2026-02-23T01:00:00.000Z"
     },
     {
+        "contestant_names": "Melo/Zverev, (1.8) VERSES Gonzalez/Pel, (1.95)",
+        "start_time_aest": "2026-02-23T12:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP Doubles",
+        "tournamentName": "ATP Acapulco Doubles",
+        "contestants": [
+            {
+                "full_name": "Melo/Zverev",
+                "position": "HOME",
+                "short_name": "Melo/Zverev"
+            },
+            {
+                "full_name": "Gonzalez/Pel",
+                "position": "AWAY",
+                "short_name": "Gonzalez/Pel"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Melo/Zverev",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Gonzalez/Pel",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Melo/Zverev v Gonzalez/Pel",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-23T01:00:00.000Z"
+    },
+    {
         "contestant_names": "Phoenix, (2.3) VERSES Portland, (1.65)",
         "start_time_aest": "2026-02-23T12:10:00+11:00",
         "sport_name": "Basketball",
@@ -281,5 +251,131 @@
         "match_name": "Di Tommaso v Baker C",
         "betOption": "Head To Head",
         "start_time": "2026-02-23T01:30:00.000Z"
+    },
+    {
+        "contestant_names": "KENNEALLY Che, (1.55) VERSES PERKINS Danielle, (2.4)",
+        "start_time_aest": "2026-02-23T12:30:00+11:00",
+        "sport_name": "Boxing",
+        "competition_name": "Shields vs Crew-Dezurn II",
+        "contestants": [
+            {
+                "full_name": "KENNEALLY Che",
+                "position": "HOME",
+                "short_name": "Kenneally"
+            },
+            {
+                "full_name": "PERKINS Danielle",
+                "position": "AWAY",
+                "short_name": "Perkins"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "KENNEALLY Che",
+                "returnWin": 1.55
+            },
+            {
+                "name": "PERKINS Danielle",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Kenneally v Perkins",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-23T01:30:00.000Z"
+    },
+    {
+        "contestant_names": "Patrick Kypson, (2.25) VERSES Coleman Wong, (1.58)",
+        "start_time_aest": "2026-02-23T13:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "tournamentName": "ATP Acapulco",
+        "contestants": [
+            {
+                "full_name": "Patrick Kypson",
+                "position": "HOME",
+                "short_name": "Kypson"
+            },
+            {
+                "full_name": "Coleman Wong",
+                "position": "AWAY",
+                "short_name": "Wong C"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Patrick Kypson",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Coleman Wong",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Kypson v Wong C",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-23T02:00:00.000Z"
+    },
+    {
+        "contestant_names": "Kirkov/Stevens, (1.5) VERSES Walton/Hijikata, (2.5)",
+        "start_time_aest": "2026-02-23T13:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP Doubles",
+        "tournamentName": "ATP Acapulco Doubles",
+        "contestants": [
+            {
+                "full_name": "Kirkov/Stevens",
+                "position": "HOME",
+                "short_name": "Kirkov/Stevens"
+            },
+            {
+                "full_name": "Walton/Hijikata",
+                "position": "AWAY",
+                "short_name": "Walton/Hijikata"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Kirkov/Stevens",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Walton/Hijikata",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Kirkov/Stevens v Walton/Hijikata",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-23T02:00:00.000Z"
+    },
+    {
+        "contestant_names": "LA Clippers, (1.77) VERSES Orlando, (2.1)",
+        "start_time_aest": "2026-02-23T13:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "LA Clippers",
+                "position": "HOME",
+                "short_name": "LA Clippers"
+            },
+            {
+                "full_name": "Orlando",
+                "position": "AWAY",
+                "short_name": "Orlando"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "LA Clippers",
+                "returnWin": 1.77
+            },
+            {
+                "name": "Orlando",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "LA Clippers v Orlando",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-23T02:10:00.000Z"
     }
 ]
