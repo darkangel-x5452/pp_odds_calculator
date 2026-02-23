@@ -157,5 +157,69 @@
         "match_name": "Sijun v Leclercq Julien",
         "betOption": "Result",
         "start_time": "2026-02-23T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Alex Knaff, (2.05) VERSES Francesco Forti, (1.67)",
+        "start_time_aest": "2026-02-24T00:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Lugano",
+        "contestants": [
+            {
+                "full_name": "Alex Knaff",
+                "position": "HOME",
+                "short_name": "Knaff"
+            },
+            {
+                "full_name": "Francesco Forti",
+                "position": "AWAY",
+                "short_name": "Forti"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alex Knaff",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Francesco Forti",
+                "returnWin": 1.67
+            }
+        ],
+        "match_name": "Knaff v Forti",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-23T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Niels Visker, (1.72) VERSES Mirza Basic, (1.95)",
+        "start_time_aest": "2026-02-24T00:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Lugano",
+        "contestants": [
+            {
+                "full_name": "Niels Visker",
+                "position": "HOME",
+                "short_name": "Visker"
+            },
+            {
+                "full_name": "Mirza Basic",
+                "position": "AWAY",
+                "short_name": "Basic M"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Niels Visker",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Mirza Basic",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Visker v Basic M",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-23T13:00:00.000Z"
     }
 ]
