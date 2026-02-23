@@ -1,101 +1,5 @@
 [
     {
-        "contestant_names": "G2, (1.58) VERSES Movistar, (2.25)",
-        "start_time_aest": "2026-02-24T02:45:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "League of Legends",
-        "tournamentName": "LoL - LEC",
-        "contestants": [
-            {
-                "full_name": "G2",
-                "position": "HOME",
-                "short_name": "G2"
-            },
-            {
-                "full_name": "Movistar",
-                "position": "AWAY",
-                "short_name": "Movistar"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "G2",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Movistar",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "G2 v Movistar",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-23T15:45:00.000Z"
-    },
-    {
-        "contestant_names": "Dusan Lajovic, (2.4) VERSES Yannick Hanfmann, (1.52)",
-        "start_time_aest": "2026-02-24T03:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "tournamentName": "ATP Santiago",
-        "contestants": [
-            {
-                "full_name": "Dusan Lajovic",
-                "position": "HOME",
-                "short_name": "Lajovic"
-            },
-            {
-                "full_name": "Yannick Hanfmann",
-                "position": "AWAY",
-                "short_name": "Hanfmann Y"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Dusan Lajovic",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Yannick Hanfmann",
-                "returnWin": 1.52
-            }
-        ],
-        "match_name": "Lajovic v Hanfmann Y",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-23T16:00:00.000Z"
-    },
-    {
-        "contestant_names": "Sebastian Ofner, (1.65) VERSES Charles Broom, (2.1)",
-        "start_time_aest": "2026-02-24T03:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger St Brieuc",
-        "contestants": [
-            {
-                "full_name": "Sebastian Ofner",
-                "position": "HOME",
-                "short_name": "Ofner S"
-            },
-            {
-                "full_name": "Charles Broom",
-                "position": "AWAY",
-                "short_name": "Broom"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sebastian Ofner",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Charles Broom",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Ofner S v Broom",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-23T16:00:00.000Z"
-    },
-    {
         "contestant_names": "Hyderabad Region, (2.05) VERSES Rawalpindi Region, (1.75)",
         "start_time_aest": "2026-02-24T03:15:00+11:00",
         "sport_name": "Cricket",
@@ -155,6 +59,70 @@
             }
         ],
         "match_name": "Ewald W v Zeltina",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-23T16:15:00.000Z"
+    },
+    {
+        "contestant_names": "Dusan Lajovic, (2.4) VERSES Yannick Hanfmann, (1.52)",
+        "start_time_aest": "2026-02-24T03:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "tournamentName": "ATP Santiago",
+        "contestants": [
+            {
+                "full_name": "Dusan Lajovic",
+                "position": "HOME",
+                "short_name": "Lajovic"
+            },
+            {
+                "full_name": "Yannick Hanfmann",
+                "position": "AWAY",
+                "short_name": "Hanfmann Y"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Dusan Lajovic",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Yannick Hanfmann",
+                "returnWin": 1.52
+            }
+        ],
+        "match_name": "Lajovic v Hanfmann Y",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-23T16:15:00.000Z"
+    },
+    {
+        "contestant_names": "Sebastian Ofner, (1.6) VERSES Charles Broom, (2.2)",
+        "start_time_aest": "2026-02-24T03:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger St Brieuc",
+        "contestants": [
+            {
+                "full_name": "Sebastian Ofner",
+                "position": "HOME",
+                "short_name": "Ofner S"
+            },
+            {
+                "full_name": "Charles Broom",
+                "position": "AWAY",
+                "short_name": "Broom"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sebastian Ofner",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Charles Broom",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Ofner S v Broom",
         "betOption": "Head To Head",
         "start_time": "2026-02-23T16:15:00.000Z"
     },
