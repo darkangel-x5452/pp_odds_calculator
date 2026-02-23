@@ -218,5 +218,37 @@
         "match_name": "Chunichi v Chiba Lotte",
         "betOption": "Head To Head",
         "start_time": "2026-02-23T04:30:00.000Z"
+    },
+    {
+        "contestant_names": "Sreeja Akula, (2.35) VERSES Anna Hursey, (1.53)",
+        "start_time_aest": "2026-02-23T15:40:00+11:00",
+        "sport_name": "Table Tennis",
+        "competition_name": "WTT Grand Smash",
+        "tournamentName": "WTT Singapore Smash Womens Singles",
+        "contestants": [
+            {
+                "full_name": "Sreeja Akula",
+                "position": "HOME",
+                "short_name": "Akula"
+            },
+            {
+                "full_name": "Anna Hursey",
+                "position": "AWAY",
+                "short_name": "Hursey"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sreeja Akula",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Anna Hursey",
+                "returnWin": 1.53
+            }
+        ],
+        "match_name": "Akula v Hursey",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-23T04:40:00.000Z"
     }
 ]
