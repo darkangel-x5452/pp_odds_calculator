@@ -1,37 +1,5 @@
 [
     {
-        "contestant_names": "Jd Gaming, (1.5) VERSES Top Esports, (2.4)",
-        "start_time_aest": "2026-02-24T17:00:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "League of Legends",
-        "tournamentName": "LoL - LPL Regional Finals",
-        "contestants": [
-            {
-                "full_name": "Jd Gaming",
-                "position": "HOME",
-                "short_name": "Jd Gaming"
-            },
-            {
-                "full_name": "Top Esports",
-                "position": "AWAY",
-                "short_name": "Top Esports"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jd Gaming",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Top Esports",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Jd Gaming v Top Esports",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-24T06:00:00.000Z"
-    },
-    {
         "contestant_names": "Jonghoon Lim, (2.5) VERSES Simon Gauzy, (1.47)",
         "start_time_aest": "2026-02-24T17:25:00+11:00",
         "sport_name": "Table Tennis",
@@ -190,5 +158,37 @@
         "match_name": "Korokozidi v Cvetkovic A",
         "betOption": "Head To Head",
         "start_time": "2026-02-24T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Gloria De Santis, (2.25) VERSES Josephine Kunz, (1.58)",
+        "start_time_aest": "2026-02-24T18:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Sharm El Sheikh",
+        "contestants": [
+            {
+                "full_name": "Gloria De Santis",
+                "position": "HOME",
+                "short_name": "De Santis"
+            },
+            {
+                "full_name": "Josephine Kunz",
+                "position": "AWAY",
+                "short_name": "Kunz"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Gloria De Santis",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Josephine Kunz",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "De Santis v Kunz",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-24T07:45:00.000Z"
     }
 ]
