@@ -1,37 +1,5 @@
 [
     {
-        "contestant_names": "Laquisa Khan, (1.75) VERSES Belle Thompson, (1.95)",
-        "start_time_aest": "2026-02-24T13:40:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens Australia",
-        "tournamentName": "ITFW Burnie",
-        "contestants": [
-            {
-                "full_name": "Laquisa Khan",
-                "position": "HOME",
-                "short_name": "Khan"
-            },
-            {
-                "full_name": "Belle Thompson",
-                "position": "AWAY",
-                "short_name": "Thompson B"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Laquisa Khan",
-                "returnWin": 1.75
-            },
-            {
-                "name": "Belle Thompson",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Khan v Thompson B",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-24T02:40:00.000Z"
-    },
-    {
         "contestant_names": "Rafael Jodar, (2.05) VERSES Cameron Norrie, (1.75)",
         "start_time_aest": "2026-02-24T15:00:00+11:00",
         "sport_name": "Tennis",
@@ -94,5 +62,69 @@
         "match_name": "Walton v Kovacevic A",
         "betOption": "Head To Head",
         "start_time": "2026-02-24T04:00:00.000Z"
+    },
+    {
+        "contestant_names": "Michael Geerts, (1.75) VERSES Felix Gill, (1.95)",
+        "start_time_aest": "2026-02-24T15:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Pune",
+        "contestants": [
+            {
+                "full_name": "Michael Geerts",
+                "position": "HOME",
+                "short_name": "Geerts"
+            },
+            {
+                "full_name": "Felix Gill",
+                "position": "AWAY",
+                "short_name": "Gill F"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Michael Geerts",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Felix Gill",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Geerts v Gill F",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-24T04:30:00.000Z"
+    },
+    {
+        "contestant_names": "Yashaswini Panwar, (1.68) VERSES Saumya Ronde, (2.05)",
+        "start_time_aest": "2026-02-24T15:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Gurugram",
+        "contestants": [
+            {
+                "full_name": "Yashaswini Panwar",
+                "position": "HOME",
+                "short_name": "Panwar"
+            },
+            {
+                "full_name": "Saumya Ronde",
+                "position": "AWAY",
+                "short_name": "Ronde S"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Yashaswini Panwar",
+                "returnWin": 1.68
+            },
+            {
+                "name": "Saumya Ronde",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Panwar v Ronde S",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-24T04:30:00.000Z"
     }
 ]
