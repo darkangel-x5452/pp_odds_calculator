@@ -126,5 +126,69 @@
         "match_name": "Panwar v Ronde S",
         "betOption": "Head To Head",
         "start_time": "2026-02-24T04:30:00.000Z"
+    },
+    {
+        "contestant_names": "Jd Gaming, (1.5) VERSES Top Esports, (2.4)",
+        "start_time_aest": "2026-02-24T17:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "tournamentName": "LoL - LPL Regional Finals",
+        "contestants": [
+            {
+                "full_name": "Jd Gaming",
+                "position": "HOME",
+                "short_name": "Jd Gaming"
+            },
+            {
+                "full_name": "Top Esports",
+                "position": "AWAY",
+                "short_name": "Top Esports"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jd Gaming",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Top Esports",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Jd Gaming v Top Esports",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-24T06:00:00.000Z"
+    },
+    {
+        "contestant_names": "Jonghoon Lim, (2.5) VERSES Simon Gauzy, (1.47)",
+        "start_time_aest": "2026-02-24T17:25:00+11:00",
+        "sport_name": "Table Tennis",
+        "competition_name": "WTT Grand Smash",
+        "tournamentName": "WTT Singapore Smash Mens Singles",
+        "contestants": [
+            {
+                "full_name": "Jonghoon Lim",
+                "position": "HOME",
+                "short_name": "Jonghoon Lim"
+            },
+            {
+                "full_name": "Simon Gauzy",
+                "position": "AWAY",
+                "short_name": "Gauzy Simon"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jonghoon Lim",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Simon Gauzy",
+                "returnWin": 1.47
+            }
+        ],
+        "match_name": "Jonghoon Lim v Gauzy Simon",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-24T06:25:00.000Z"
     }
 ]
