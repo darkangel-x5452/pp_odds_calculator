@@ -1,69 +1,5 @@
 [
     {
-        "contestant_names": "Jonghoon Lim, (2.5) VERSES Simon Gauzy, (1.47)",
-        "start_time_aest": "2026-02-24T17:25:00+11:00",
-        "sport_name": "Table Tennis",
-        "competition_name": "WTT Grand Smash",
-        "tournamentName": "WTT Singapore Smash Mens Singles",
-        "contestants": [
-            {
-                "full_name": "Jonghoon Lim",
-                "position": "HOME",
-                "short_name": "Jonghoon Lim"
-            },
-            {
-                "full_name": "Simon Gauzy",
-                "position": "AWAY",
-                "short_name": "Gauzy Simon"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jonghoon Lim",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Simon Gauzy",
-                "returnWin": 1.47
-            }
-        ],
-        "match_name": "Jonghoon Lim v Gauzy Simon",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-24T06:25:00.000Z"
-    },
-    {
-        "contestant_names": "Shah/Chitale, (2.2) VERSES Calderano/Takahashi, (1.6)",
-        "start_time_aest": "2026-02-24T17:25:00+11:00",
-        "sport_name": "Table Tennis",
-        "competition_name": "WTT Grand Smash",
-        "tournamentName": "WTT Singapore Smash Mixed Doubles",
-        "contestants": [
-            {
-                "full_name": "Shah/Chitale",
-                "position": "HOME",
-                "short_name": "Shah/Chitale"
-            },
-            {
-                "full_name": "Calderano/Takahashi",
-                "position": "AWAY",
-                "short_name": "Clderano/Tkhashi"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Shah/Chitale",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Calderano/Takahashi",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Shah/Chitale v Clderano/Tkhashi",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-24T06:25:00.000Z"
-    },
-    {
         "contestant_names": "Bergs/Machac, (2.2) VERSES Olivetti/Arribage, (1.62)",
         "start_time_aest": "2026-02-24T18:00:00+11:00",
         "sport_name": "Tennis",
@@ -190,5 +126,37 @@
         "match_name": "De Santis v Kunz",
         "betOption": "Head To Head",
         "start_time": "2026-02-24T07:45:00.000Z"
+    },
+    {
+        "contestant_names": "Radovan Michalik, (1.58) VERSES Bogdan Seleznev, (2.25)",
+        "start_time_aest": "2026-02-24T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "tournamentName": "ITFM Sharm El Sheikh",
+        "contestants": [
+            {
+                "full_name": "Radovan Michalik",
+                "position": "HOME",
+                "short_name": "Michalik"
+            },
+            {
+                "full_name": "Bogdan Seleznev",
+                "position": "AWAY",
+                "short_name": "Seleznev"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Radovan Michalik",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Bogdan Seleznev",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Michalik v Seleznev",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-24T08:00:00.000Z"
     }
 ]
