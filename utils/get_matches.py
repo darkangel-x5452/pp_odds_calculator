@@ -20,6 +20,14 @@ class GetMatchesOdds():
             "Total Points Odd/Even", "Home Team Points Odd/Even", "Away Team Points Odd/Even",
             ]
         
+        self.ignore_sports = [
+            "cricket", # Too long and can be cancelled for weather
+            "golf",  # Too long and can be cancelled for weather
+            "snooker",  # Too long
+            "baseball", # Too long and can be cancelled for weather
+            "darts", # Too long
+        ]
+        
         self.high_odds = 2.5
         self.min_odds = 1.95
 
@@ -130,6 +138,12 @@ class GetMatchesOdds():
             start_time = _match['startTime']
             contestants = _match['contestants']
             cleaned_contestants: list[dict] = []
+            competitionName = _match['competitionName']
+            tournamentName = _match['tournamentName'] if "tournamentName" in _match else None
+            sportName: str = _match['sportName']
+            if sportName.lower() in self.ignore_sports:
+                print(f"Ignoring {sportName} match: {match_name}")
+                continue
             for _contestant in contestants:
                 _contestant.pop("image", None)  # None if key not found
                 _contestant.pop("isHome", None)  # None if key not found
@@ -137,9 +151,6 @@ class GetMatchesOdds():
                 _contestant.pop("name", None)  # None if key not found
                 cleaned_contestants.append(_contestant)
 
-            competitionName = _match['competitionName']
-            tournamentName = _match['tournamentName'] if "tournamentName" in _match else None
-            sportName = _match['sportName']
             # competitors = _match['competitors'] if 'competitors' in _match else []
 
             markets = _match['_links']['markets']
