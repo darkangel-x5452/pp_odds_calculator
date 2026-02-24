@@ -1,7 +1,7 @@
 [
     {
-        "contestant_names": "Rafael Jodar, (2.05) VERSES Cameron Norrie, (1.75)",
-        "start_time_aest": "2026-02-24T15:00:00+11:00",
+        "contestant_names": "Rafael Jodar, (2.15) VERSES Cameron Norrie, (1.65)",
+        "start_time_aest": "2026-02-24T15:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP",
         "tournamentName": "ATP Acapulco",
@@ -20,48 +20,16 @@
         "propositions": [
             {
                 "name": "Rafael Jodar",
-                "returnWin": 2.05
+                "returnWin": 2.15
             },
             {
                 "name": "Cameron Norrie",
-                "returnWin": 1.75
+                "returnWin": 1.65
             }
         ],
         "match_name": "Rafael Jodar v Norrie C",
         "betOption": "Head To Head",
-        "start_time": "2026-02-24T04:00:00.000Z"
-    },
-    {
-        "contestant_names": "Adam Walton, (2.15) VERSES Aleksandar Kovacevic, (1.65)",
-        "start_time_aest": "2026-02-24T15:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "tournamentName": "ATP Acapulco",
-        "contestants": [
-            {
-                "full_name": "Adam Walton",
-                "position": "HOME",
-                "short_name": "Walton"
-            },
-            {
-                "full_name": "Aleksandar Kovacevic",
-                "position": "AWAY",
-                "short_name": "Kovacevic A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Adam Walton",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Aleksandar Kovacevic",
-                "returnWin": 1.65
-            }
-        ],
-        "match_name": "Walton v Kovacevic A",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-24T04:00:00.000Z"
+        "start_time": "2026-02-24T04:15:00.000Z"
     },
     {
         "contestant_names": "Michael Geerts, (1.75) VERSES Felix Gill, (1.95)",
@@ -188,6 +156,38 @@
             }
         ],
         "match_name": "Jonghoon Lim v Gauzy Simon",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-24T06:25:00.000Z"
+    },
+    {
+        "contestant_names": "Shah/Chitale, (2.2) VERSES Calderano/Takahashi, (1.6)",
+        "start_time_aest": "2026-02-24T17:25:00+11:00",
+        "sport_name": "Table Tennis",
+        "competition_name": "WTT Grand Smash",
+        "tournamentName": "WTT Singapore Smash Mixed Doubles",
+        "contestants": [
+            {
+                "full_name": "Shah/Chitale",
+                "position": "HOME",
+                "short_name": "Shah/Chitale"
+            },
+            {
+                "full_name": "Calderano/Takahashi",
+                "position": "AWAY",
+                "short_name": "Clderano/Tkhashi"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Shah/Chitale",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Calderano/Takahashi",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Shah/Chitale v Clderano/Tkhashi",
         "betOption": "Head To Head",
         "start_time": "2026-02-24T06:25:00.000Z"
     }
