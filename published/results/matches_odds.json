@@ -1,64 +1,95 @@
 [
     {
-        "contestant_names": "Sth Carolina St, (2.05) VERSES Morgan State, (1.77)",
-        "start_time_aest": "2026-02-26T10:00:00+11:00",
+        "contestant_names": "Purdue Ft Wayne, (2.05) VERSES Wright State, (1.77)",
+        "start_time_aest": "2026-02-26T11:00:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Sth Carolina St",
+                "full_name": "Purdue Ft Wayne",
                 "position": "HOME",
-                "short_name": "Sth Carolina St"
+                "short_name": "Purdue Ft Wayne"
             },
             {
-                "full_name": "Morgan State",
+                "full_name": "Wright State",
                 "position": "AWAY",
-                "short_name": "Morgan State"
+                "short_name": "Wright State"
             }
         ],
         "propositions": [
             {
-                "name": "Sth Carolina St",
+                "name": "Purdue Ft Wayne",
                 "returnWin": 2.05
             },
             {
-                "name": "Morgan State",
+                "name": "Wright State",
                 "returnWin": 1.77
             }
         ],
-        "match_name": "Sth Carolina St v Morgan State",
+        "match_name": "Purdue Ft Wayne v Wright State",
         "betOption": "Head To Head",
-        "start_time": "2026-02-25T23:00:00.000Z"
+        "start_time": "2026-02-26T00:00:00.000Z"
     },
     {
-        "contestant_names": "Boston College, (2.5) VERSES Wake Forest, (1.53)",
-        "start_time_aest": "2026-02-26T10:00:00+11:00",
+        "contestant_names": "South Dakota, (1.95) VERSES Nebraska Omaha, (1.85)",
+        "start_time_aest": "2026-02-26T11:00:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Boston College",
+                "full_name": "South Dakota",
                 "position": "HOME",
-                "short_name": "Boston College"
+                "short_name": "South Dakota"
             },
             {
-                "full_name": "Wake Forest",
+                "full_name": "Nebraska Omaha",
                 "position": "AWAY",
-                "short_name": "Wake Forest"
+                "short_name": "Nebraska Omaha"
             }
         ],
         "propositions": [
             {
-                "name": "Boston College",
-                "returnWin": 2.5
+                "name": "South Dakota",
+                "returnWin": 1.95
             },
             {
-                "name": "Wake Forest",
-                "returnWin": 1.53
+                "name": "Nebraska Omaha",
+                "returnWin": 1.85
             }
         ],
-        "match_name": "Boston College v Wake Forest",
+        "match_name": "South Dakota v Nebraska Omaha",
         "betOption": "Head To Head",
-        "start_time": "2026-02-25T23:00:00.000Z"
+        "start_time": "2026-02-26T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Duquesne, (1.58) VERSES Davidson, (2.4)",
+        "start_time_aest": "2026-02-26T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Duquesne",
+                "position": "HOME",
+                "short_name": "Duquesne"
+            },
+            {
+                "full_name": "Davidson",
+                "position": "AWAY",
+                "short_name": "Davidson"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Duquesne",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Davidson",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Duquesne v Davidson",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-26T00:00:00.000Z"
     }
 ]
