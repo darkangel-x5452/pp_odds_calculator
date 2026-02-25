@@ -1,68 +1,5 @@
 [
     {
-        "contestant_names": "Youzheng Huang, (2.25) VERSES Peng Xiang, (1.57)",
-        "start_time_aest": "2026-02-25T14:05:00+11:00",
-        "sport_name": "Table Tennis",
-        "competition_name": "WTT Grand Smash",
-        "tournamentName": "WTT Singapore Smash Mens Singles",
-        "contestants": [
-            {
-                "full_name": "Youzheng Huang",
-                "position": "HOME",
-                "short_name": "Youzheng Huang"
-            },
-            {
-                "full_name": "Peng Xiang",
-                "position": "AWAY",
-                "short_name": "Xiang"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Youzheng Huang",
-                "returnWin": 2.25
-            },
-            {
-                "name": "Peng Xiang",
-                "returnWin": 1.57
-            }
-        ],
-        "match_name": "Youzheng Huang v Xiang",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-25T03:05:00.000Z"
-    },
-    {
-        "contestant_names": "Halcones De Ciud, (1.45) VERSES Zonkeys De Tijua, (2.5)",
-        "start_time_aest": "2026-02-25T14:15:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Mexico CIBACOPA",
-        "contestants": [
-            {
-                "full_name": "Halcones De Ciud",
-                "position": "HOME",
-                "short_name": "Halcones De Ciud"
-            },
-            {
-                "full_name": "Zonkeys De Tijua",
-                "position": "AWAY",
-                "short_name": "Zonkeys De Tijua"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Halcones De Ciud",
-                "returnWin": 1.45
-            },
-            {
-                "name": "Zonkeys De Tijua",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Halcones De Ciud v Zonkeys De Tijua",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-25T03:15:00.000Z"
-    },
-    {
         "contestant_names": "Damir Dzumhur, (2.35) VERSES Gael Monfils, (1.55)",
         "start_time_aest": "2026-02-25T15:00:00+11:00",
         "sport_name": "Tennis",
@@ -157,5 +94,37 @@
         "match_name": "Suslova v Singh S",
         "betOption": "Head To Head",
         "start_time": "2026-02-25T04:15:00.000Z"
+    },
+    {
+        "contestant_names": "Shah/Chitale, (2.4) VERSES Calderano/Takahashi, (1.5)",
+        "start_time_aest": "2026-02-25T17:25:00+11:00",
+        "sport_name": "Table Tennis",
+        "competition_name": "WTT Grand Smash",
+        "tournamentName": "WTT Singapore Smash Mixed Doubles",
+        "contestants": [
+            {
+                "full_name": "Shah/Chitale",
+                "position": "HOME",
+                "short_name": "Shah/Chitale"
+            },
+            {
+                "full_name": "Calderano/Takahashi",
+                "position": "AWAY",
+                "short_name": "Clderano/Tkhashi"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Shah/Chitale",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Calderano/Takahashi",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Shah/Chitale v Clderano/Tkhashi",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-25T06:25:00.000Z"
     }
 ]
