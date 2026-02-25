@@ -158,5 +158,101 @@
         "match_name": "Ricci B v Cvetkovic A",
         "betOption": "Head To Head",
         "start_time": "2026-02-25T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Carole Monnet, (2.3) VERSES Panna Udvardy, (1.55)",
+        "start_time_aest": "2026-02-25T18:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Tour",
+        "tournamentName": "WTA 125 Antalya",
+        "contestants": [
+            {
+                "full_name": "Carole Monnet",
+                "position": "HOME",
+                "short_name": "Monnet"
+            },
+            {
+                "full_name": "Panna Udvardy",
+                "position": "AWAY",
+                "short_name": "Udvardy P"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Carole Monnet",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Panna Udvardy",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Monnet v Udvardy P",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-25T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Duje Ajdukovic, (2.4) VERSES Federico Ferreira Silva, (1.5)",
+        "start_time_aest": "2026-02-25T18:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Pune",
+        "contestants": [
+            {
+                "full_name": "Duje Ajdukovic",
+                "position": "HOME",
+                "short_name": "Ajdukovic"
+            },
+            {
+                "full_name": "Federico Ferreira Silva",
+                "position": "AWAY",
+                "short_name": "Ferreira Slva Fe"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Duje Ajdukovic",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Federico Ferreira Silva",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Ajdukovic v Ferreira Slva Fe",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-25T07:30:00.000Z"
+    },
+    {
+        "contestant_names": "Lorena Schadel, (1.65) VERSES Riko Kikawada, (2.1)",
+        "start_time_aest": "2026-02-25T18:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Sharm El Sheikh",
+        "contestants": [
+            {
+                "full_name": "Lorena Schadel",
+                "position": "HOME",
+                "short_name": "Schadel"
+            },
+            {
+                "full_name": "Riko Kikawada",
+                "position": "AWAY",
+                "short_name": "Kikawada"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lorena Schadel",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Riko Kikawada",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Schadel v Kikawada",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-25T07:30:00.000Z"
     }
 ]
