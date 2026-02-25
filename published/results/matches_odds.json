@@ -1,225 +1,162 @@
 [
     {
-        "contestant_names": "Carlton, (2.5) VERSES Geelong, (1.53)",
-        "start_time_aest": "2026-02-25T19:10:00+11:00",
-        "sport_name": "AFL Football",
-        "competition_name": "AFL Pre Season",
+        "contestant_names": "Ilya Ivashka, (2.3) VERSES Manas Dhamne, (1.55)",
+        "start_time_aest": "2026-02-25T20:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Pune",
         "contestants": [
             {
-                "full_name": "Carlton",
+                "full_name": "Ilya Ivashka",
                 "position": "HOME",
-                "short_name": "Carlton"
+                "short_name": "Ivashka"
             },
             {
-                "full_name": "Geelong",
+                "full_name": "Manas Dhamne",
                 "position": "AWAY",
-                "short_name": "Geelong"
+                "short_name": "Dhamne"
             }
         ],
         "propositions": [
             {
-                "name": "Carlton",
-                "returnWin": 2.5
+                "name": "Ilya Ivashka",
+                "returnWin": 2.3
             },
             {
-                "name": "Geelong",
-                "returnWin": 1.53
+                "name": "Manas Dhamne",
+                "returnWin": 1.55
             }
         ],
-        "match_name": "Carlton v Geelong",
+        "match_name": "Ivashka v Dhamne",
         "betOption": "Head To Head",
-        "start_time": "2026-02-25T08:10:00.000Z"
+        "start_time": "2026-02-25T09:00:00.000Z"
     },
     {
-        "contestant_names": "Marcel Zielinski, (2.15) VERSES Radu David Turcanu, (1.62)",
-        "start_time_aest": "2026-02-25T19:30:00+11:00",
+        "contestant_names": "Hiromasa Koyama, (1.95) VERSES Samuel Heredia, (1.75)",
+        "start_time_aest": "2026-02-25T20:00:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ITF Mens",
-        "tournamentName": "ITFM Antalya",
+        "tournamentName": "ITFM Villena",
         "contestants": [
             {
-                "full_name": "Marcel Zielinski",
+                "full_name": "Hiromasa Koyama",
                 "position": "HOME",
-                "short_name": "Zielinski M"
+                "short_name": "Koyama"
             },
             {
-                "full_name": "Radu David Turcanu",
+                "full_name": "Samuel Heredia",
                 "position": "AWAY",
-                "short_name": "Turcanu"
+                "short_name": "Heredia"
             }
         ],
         "propositions": [
             {
-                "name": "Marcel Zielinski",
-                "returnWin": 2.15
+                "name": "Hiromasa Koyama",
+                "returnWin": 1.95
             },
             {
-                "name": "Radu David Turcanu",
+                "name": "Samuel Heredia",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Koyama v Heredia",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-25T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Marine Szostak, (1.75) VERSES Sarah Melany Fajmonova, (1.95)",
+        "start_time_aest": "2026-02-25T20:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Leimen",
+        "contestants": [
+            {
+                "full_name": "Marine Szostak",
+                "position": "HOME",
+                "short_name": "Szostak"
+            },
+            {
+                "full_name": "Sarah Melany Fajmonova",
+                "position": "AWAY",
+                "short_name": "Fajmonova"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Marine Szostak",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Sarah Melany Fajmonova",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Szostak v Fajmonova",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-25T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Verena Meliss, (1.58) VERSES Noemi Maines, (2.25)",
+        "start_time_aest": "2026-02-25T20:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Sharm El Sheikh",
+        "contestants": [
+            {
+                "full_name": "Verena Meliss",
+                "position": "HOME",
+                "short_name": "Meliss"
+            },
+            {
+                "full_name": "Noemi Maines",
+                "position": "AWAY",
+                "short_name": "Maines"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Verena Meliss",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Noemi Maines",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Meliss v Maines",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-25T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Valentina Ryser, (1.62) VERSES Alicia Dudeney, (2.15)",
+        "start_time_aest": "2026-02-25T20:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Trnava",
+        "contestants": [
+            {
+                "full_name": "Valentina Ryser",
+                "position": "HOME",
+                "short_name": "Ryser"
+            },
+            {
+                "full_name": "Alicia Dudeney",
+                "position": "AWAY",
+                "short_name": "Dudeney"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Valentina Ryser",
                 "returnWin": 1.62
+            },
+            {
+                "name": "Alicia Dudeney",
+                "returnWin": 2.15
             }
         ],
-        "match_name": "Zielinski M v Turcanu",
+        "match_name": "Ryser v Dudeney",
         "betOption": "Head To Head",
-        "start_time": "2026-02-25T08:30:00.000Z"
-    },
-    {
-        "contestant_names": "Alvaro Peiro Serrano, (2.3) VERSES Ali Yazdani, (1.55)",
-        "start_time_aest": "2026-02-25T19:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "tournamentName": "ITFM Antalya",
-        "contestants": [
-            {
-                "full_name": "Alvaro Peiro Serrano",
-                "position": "HOME",
-                "short_name": "Serrano"
-            },
-            {
-                "full_name": "Ali Yazdani",
-                "position": "AWAY",
-                "short_name": "Yazdani A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Alvaro Peiro Serrano",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Ali Yazdani",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Serrano v Yazdani A",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-25T08:30:00.000Z"
-    },
-    {
-        "contestant_names": "Theo Herrmann, (2.2) VERSES Isaac Becroft, (1.6)",
-        "start_time_aest": "2026-02-25T19:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "tournamentName": "ITFM Monastir",
-        "contestants": [
-            {
-                "full_name": "Theo Herrmann",
-                "position": "HOME",
-                "short_name": "Herrmann"
-            },
-            {
-                "full_name": "Isaac Becroft",
-                "position": "AWAY",
-                "short_name": "Becroft"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Theo Herrmann",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Isaac Becroft",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Herrmann v Becroft",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-25T08:30:00.000Z"
-    },
-    {
-        "contestant_names": "Ekaterina Yashina, (2.1) VERSES Allegra Korpanec Davies, (1.65)",
-        "start_time_aest": "2026-02-25T19:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "tournamentName": "ITFW Gurugram",
-        "contestants": [
-            {
-                "full_name": "Ekaterina Yashina",
-                "position": "HOME",
-                "short_name": "Yashina"
-            },
-            {
-                "full_name": "Allegra Korpanec Davies",
-                "position": "AWAY",
-                "short_name": "Davies A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ekaterina Yashina",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Allegra Korpanec Davies",
-                "returnWin": 1.65
-            }
-        ],
-        "match_name": "Yashina v Davies A",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-25T08:30:00.000Z"
-    },
-    {
-        "contestant_names": "Lamis Alhussein Abdel Aziz, (2.3) VERSES Federica Urgesi, (1.55)",
-        "start_time_aest": "2026-02-25T19:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "tournamentName": "ITFW Monastir",
-        "contestants": [
-            {
-                "full_name": "Lamis Alhussein Abdel Aziz",
-                "position": "HOME",
-                "short_name": "Abdel Aziz"
-            },
-            {
-                "full_name": "Federica Urgesi",
-                "position": "AWAY",
-                "short_name": "Urgesi"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Lamis Alhussein Abdel Aziz",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Federica Urgesi",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Abdel Aziz v Urgesi",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-25T08:30:00.000Z"
-    },
-    {
-        "contestant_names": "Yasmine Mansouri, (2.3) VERSES Xinran Sun, (1.55)",
-        "start_time_aest": "2026-02-25T19:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "tournamentName": "ITFW Monastir",
-        "contestants": [
-            {
-                "full_name": "Yasmine Mansouri",
-                "position": "HOME",
-                "short_name": "Mansouri Y"
-            },
-            {
-                "full_name": "Xinran Sun",
-                "position": "AWAY",
-                "short_name": "Sun"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Yasmine Mansouri",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Xinran Sun",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Mansouri Y v Sun",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-25T08:30:00.000Z"
+        "start_time": "2026-02-25T09:00:00.000Z"
     }
 ]
