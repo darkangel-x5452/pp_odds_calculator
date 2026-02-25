@@ -1,101 +1,5 @@
 [
     {
-        "contestant_names": "Dylan Dietrich, (2.3) VERSES Daniil Glinka, (1.55)",
-        "start_time_aest": "2026-02-25T22:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Lugano",
-        "contestants": [
-            {
-                "full_name": "Dylan Dietrich",
-                "position": "HOME",
-                "short_name": "Dietrich D"
-            },
-            {
-                "full_name": "Daniil Glinka",
-                "position": "AWAY",
-                "short_name": "Glinka"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Dylan Dietrich",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Daniil Glinka",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Dietrich D v Glinka",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-25T11:00:00.000Z"
-    },
-    {
-        "contestant_names": "John Echeverria, (1.72) VERSES Giorgio Tabacco, (2)",
-        "start_time_aest": "2026-02-25T22:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "tournamentName": "ITFM Vale do Lobo",
-        "contestants": [
-            {
-                "full_name": "John Echeverria",
-                "position": "HOME",
-                "short_name": "Echeverria"
-            },
-            {
-                "full_name": "Giorgio Tabacco",
-                "position": "AWAY",
-                "short_name": "Tabacco G"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "John Echeverria",
-                "returnWin": 1.72
-            },
-            {
-                "name": "Giorgio Tabacco",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Echeverria v Tabacco G",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-25T11:00:00.000Z"
-    },
-    {
-        "contestant_names": "Cascino/Huergo, (1.6) VERSES Riera/Gormaz, (2.2)",
-        "start_time_aest": "2026-02-25T22:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA 125 Doubles",
-        "tournamentName": "WTA 125 Antalya Doubles",
-        "contestants": [
-            {
-                "full_name": "Cascino/Huergo",
-                "position": "HOME",
-                "short_name": "Cascino/Huergo"
-            },
-            {
-                "full_name": "Riera/Gormaz",
-                "position": "AWAY",
-                "short_name": "Riera/Gormaz"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Cascino/Huergo",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Riera/Gormaz",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Cascino/Huergo v Riera/Gormaz",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-25T11:00:00.000Z"
-    },
-    {
         "contestant_names": "Allegro/Rassenfosse, (2.1) VERSES Thakkar/Shah, (1.65)",
         "start_time_aest": "2026-02-25T22:25:00+11:00",
         "sport_name": "Table Tennis",
@@ -158,5 +62,101 @@
         "match_name": "Duda/Qiu v Lin/Huang",
         "betOption": "Head To Head",
         "start_time": "2026-02-25T11:25:00.000Z"
+    },
+    {
+        "contestant_names": "Dylan Dietrich, (2.3) VERSES Daniil Glinka, (1.55)",
+        "start_time_aest": "2026-02-25T22:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Lugano",
+        "contestants": [
+            {
+                "full_name": "Dylan Dietrich",
+                "position": "HOME",
+                "short_name": "Dietrich D"
+            },
+            {
+                "full_name": "Daniil Glinka",
+                "position": "AWAY",
+                "short_name": "Glinka"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Dylan Dietrich",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Daniil Glinka",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Dietrich D v Glinka",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-25T11:30:00.000Z"
+    },
+    {
+        "contestant_names": "Maxence Rivet, (2.2) VERSES Liam Branger, (1.6)",
+        "start_time_aest": "2026-02-25T22:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "tournamentName": "ITFM Monastir",
+        "contestants": [
+            {
+                "full_name": "Maxence Rivet",
+                "position": "HOME",
+                "short_name": "Rivet"
+            },
+            {
+                "full_name": "Liam Branger",
+                "position": "AWAY",
+                "short_name": "Branger"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Maxence Rivet",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Liam Branger",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Rivet v Branger",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-25T11:30:00.000Z"
+    },
+    {
+        "contestant_names": "Espersen R/Kudsk A C, (1.5) VERSES Hemming C/Van Leeuwen E, (2.4)",
+        "start_time_aest": "2026-02-25T22:50:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour Doubles",
+        "tournamentName": "German Open Mixed Doubles",
+        "contestants": [
+            {
+                "full_name": "Espersen R/Kudsk A C",
+                "position": "HOME",
+                "short_name": "Espersen/Kudsk"
+            },
+            {
+                "full_name": "Hemming C/Van Leeuwen E",
+                "position": "AWAY",
+                "short_name": "Hmming/VnLeeuwen"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Espersen R/Kudsk A C",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Hemming C/Van Leeuwen E",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Espersen/Kudsk v Hmming/VnLeeuwen",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-25T11:50:00.000Z"
     }
 ]
