@@ -1,7 +1,7 @@
 [
     {
-        "contestant_names": "Melo/Zverev, (1.95) VERSES Gonzalez/Pel, (1.8)",
-        "start_time_aest": "2026-02-26T15:15:00+11:00",
+        "contestant_names": "Melo/Zverev, (2) VERSES Gonzalez/Pel, (1.75)",
+        "start_time_aest": "2026-02-26T15:37:01+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP Doubles",
         "tournamentName": "ATP Acapulco Doubles",
@@ -20,16 +20,16 @@
         "propositions": [
             {
                 "name": "Melo/Zverev",
-                "returnWin": 1.95
+                "returnWin": 2
             },
             {
                 "name": "Gonzalez/Pel",
-                "returnWin": 1.8
+                "returnWin": 1.75
             }
         ],
         "match_name": "Melo/Zverev v Gonzalez/Pel",
         "betOption": "Head To Head",
-        "start_time": "2026-02-26T04:15:00.000Z"
+        "start_time": "2026-02-26T04:37:01.000Z"
     },
     {
         "contestant_names": "Woojin Jang, (2.35) VERSES Sora Matsushima, (1.53)",
@@ -94,5 +94,101 @@
         "match_name": "Harimoto v Odo",
         "betOption": "Head To Head",
         "start_time": "2026-02-26T05:15:00.000Z"
+    },
+    {
+        "contestant_names": "Sandro Kopp, (1.6) VERSES Alexander Vasilev, (2.2)",
+        "start_time_aest": "2026-02-26T18:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "tournamentName": "ITFM Antalya",
+        "contestants": [
+            {
+                "full_name": "Sandro Kopp",
+                "position": "HOME",
+                "short_name": "Kopp"
+            },
+            {
+                "full_name": "Alexander Vasilev",
+                "position": "AWAY",
+                "short_name": "Vasilev A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sandro Kopp",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Alexander Vasilev",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Kopp v Vasilev A",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-26T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Nina Vargova, (1.62) VERSES Anastasiya Soboleva, (2.15)",
+        "start_time_aest": "2026-02-26T18:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Antalya",
+        "contestants": [
+            {
+                "full_name": "Nina Vargova",
+                "position": "HOME",
+                "short_name": "Vargova N"
+            },
+            {
+                "full_name": "Anastasiya Soboleva",
+                "position": "AWAY",
+                "short_name": "Soboleva A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nina Vargova",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Anastasiya Soboleva",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Vargova N v Soboleva A",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-26T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Aurora Zantedeschi, (2.25) VERSES Tena Lukas, (1.55)",
+        "start_time_aest": "2026-02-26T18:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Antalya",
+        "contestants": [
+            {
+                "full_name": "Aurora Zantedeschi",
+                "position": "HOME",
+                "short_name": "Zantedeschi"
+            },
+            {
+                "full_name": "Tena Lukas",
+                "position": "AWAY",
+                "short_name": "Lukas T"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Aurora Zantedeschi",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Tena Lukas",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Zantedeschi v Lukas T",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-26T07:00:00.000Z"
     }
 ]
