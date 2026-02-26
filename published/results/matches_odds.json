@@ -1,37 +1,5 @@
 [
     {
-        "contestant_names": "Ugo Blanchet, (1.6) VERSES Buvaysar Gadamauri, (2.2)",
-        "start_time_aest": "2026-02-27T01:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger St Brieuc",
-        "contestants": [
-            {
-                "full_name": "Ugo Blanchet",
-                "position": "HOME",
-                "short_name": "Blanchet"
-            },
-            {
-                "full_name": "Buvaysar Gadamauri",
-                "position": "AWAY",
-                "short_name": "Gadamauri B"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ugo Blanchet",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Buvaysar Gadamauri",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Blanchet v Gadamauri B",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-26T14:00:00.000Z"
-    },
-    {
         "contestant_names": "Chun-Yi Lin, (1.48) VERSES Srikanth Kidambi, (2.5)",
         "start_time_aest": "2026-02-27T02:00:00+11:00",
         "sport_name": "Badminton",
@@ -222,5 +190,69 @@
         "match_name": "Hardt v Fenty",
         "betOption": "Head To Head",
         "start_time": "2026-02-26T15:00:00.000Z"
+    },
+    {
+        "contestant_names": "Arif J/Yap R K, (1.57) VERSES Lee F/Lee F, (2.25)",
+        "start_time_aest": "2026-02-27T02:20:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour Doubles",
+        "tournamentName": "German Open Mens Doubles",
+        "contestants": [
+            {
+                "full_name": "Arif J/Yap R K",
+                "position": "HOME",
+                "short_name": "Arif J/Yap R K"
+            },
+            {
+                "full_name": "Lee F/Lee F",
+                "position": "AWAY",
+                "short_name": "Lee F/Lee F"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Arif J/Yap R K",
+                "returnWin": 1.57
+            },
+            {
+                "name": "Lee F/Lee F",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Arif J/Yap R K v Lee F/Lee F",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-26T15:20:00.000Z"
+    },
+    {
+        "contestant_names": "Goh S F/Izzuddin N, (1.48) VERSES Ong Y S/Teo E Y, (2.5)",
+        "start_time_aest": "2026-02-27T02:20:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour Doubles",
+        "tournamentName": "German Open Mens Doubles",
+        "contestants": [
+            {
+                "full_name": "Goh S F/Izzuddin N",
+                "position": "HOME",
+                "short_name": "Goh S F/Izzddn N"
+            },
+            {
+                "full_name": "Ong Y S/Teo E Y",
+                "position": "AWAY",
+                "short_name": "Ong Y S/Teo E"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Goh S F/Izzuddin N",
+                "returnWin": 1.48
+            },
+            {
+                "name": "Ong Y S/Teo E Y",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Goh S F/Izzddn N v Ong Y S/Teo E",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-26T15:20:00.000Z"
     }
 ]
