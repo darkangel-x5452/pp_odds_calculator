@@ -126,5 +126,37 @@
         "match_name": "Brancaccio N v Udvardy P",
         "betOption": "Head To Head",
         "start_time": "2026-02-26T07:30:00.000Z"
+    },
+    {
+        "contestant_names": "Beatrice Ricci, (1.75) VERSES Carlota Martinez Cirez, (1.95)",
+        "start_time_aest": "2026-02-26T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Antalya",
+        "contestants": [
+            {
+                "full_name": "Beatrice Ricci",
+                "position": "HOME",
+                "short_name": "Ricci B"
+            },
+            {
+                "full_name": "Carlota Martinez Cirez",
+                "position": "AWAY",
+                "short_name": "Martinez Cirez"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Beatrice Ricci",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Carlota Martinez Cirez",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Ricci B v Martinez Cirez",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-26T08:00:00.000Z"
     }
 ]
