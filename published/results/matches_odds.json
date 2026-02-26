@@ -1,69 +1,5 @@
 [
     {
-        "contestant_names": "Woojin Jang, (2.35) VERSES Sora Matsushima, (1.53)",
-        "start_time_aest": "2026-02-26T16:10:00+11:00",
-        "sport_name": "Table Tennis",
-        "competition_name": "WTT Grand Smash",
-        "tournamentName": "WTT Singapore Smash Mens Singles",
-        "contestants": [
-            {
-                "full_name": "Woojin Jang",
-                "position": "HOME",
-                "short_name": "JangW"
-            },
-            {
-                "full_name": "Sora Matsushima",
-                "position": "AWAY",
-                "short_name": "Matsushima"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Woojin Jang",
-                "returnWin": 2.35
-            },
-            {
-                "name": "Sora Matsushima",
-                "returnWin": 1.53
-            }
-        ],
-        "match_name": "JangW v Matsushima",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-26T05:10:00.000Z"
-    },
-    {
-        "contestant_names": "Miwa Harimoto, (1.5) VERSES Satsuki Odo, (2.4)",
-        "start_time_aest": "2026-02-26T16:15:00+11:00",
-        "sport_name": "Table Tennis",
-        "competition_name": "WTT Grand Smash",
-        "tournamentName": "WTT Singapore Smash Womens Singles",
-        "contestants": [
-            {
-                "full_name": "Miwa Harimoto",
-                "position": "HOME",
-                "short_name": "Harimoto"
-            },
-            {
-                "full_name": "Satsuki Odo",
-                "position": "AWAY",
-                "short_name": "Odo"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Miwa Harimoto",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Satsuki Odo",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Harimoto v Odo",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-26T05:15:00.000Z"
-    },
-    {
         "contestant_names": "Sandro Kopp, (1.6) VERSES Alexander Vasilev, (2.2)",
         "start_time_aest": "2026-02-26T18:00:00+11:00",
         "sport_name": "Tennis",
@@ -158,5 +94,37 @@
         "match_name": "Zantedeschi v Lukas T",
         "betOption": "Head To Head",
         "start_time": "2026-02-26T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Nuria Brancaccio, (2.25) VERSES Panna Udvardy, (1.58)",
+        "start_time_aest": "2026-02-26T18:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Tour",
+        "tournamentName": "WTA 125 Antalya",
+        "contestants": [
+            {
+                "full_name": "Nuria Brancaccio",
+                "position": "HOME",
+                "short_name": "Brancaccio N"
+            },
+            {
+                "full_name": "Panna Udvardy",
+                "position": "AWAY",
+                "short_name": "Udvardy P"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nuria Brancaccio",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Panna Udvardy",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Brancaccio N v Udvardy P",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-26T07:30:00.000Z"
     }
 ]
