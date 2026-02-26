@@ -1,97 +1,65 @@
 [
     {
-        "contestant_names": "Martina Okalova, (1.62) VERSES Thea Frodin, (2.15)",
-        "start_time_aest": "2026-02-27T06:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "tournamentName": "ITFW Arcadia",
+        "contestant_names": "Lausanne, (1.52) VERSES SK Sigma Olomouc, (2.4)",
+        "start_time_aest": "2026-02-27T07:00:00+11:00",
+        "sport_name": "Soccer",
+        "competition_name": "UEFA Conference League",
         "contestants": [
             {
-                "full_name": "Martina Okalova",
+                "full_name": "Lausanne",
                 "position": "HOME",
-                "short_name": "Okalova"
+                "short_name": "Lausanne"
             },
             {
-                "full_name": "Thea Frodin",
+                "full_name": "SK Sigma Olomouc",
                 "position": "AWAY",
-                "short_name": "Frodin"
+                "short_name": "SK Sigma Olomouc"
             }
         ],
         "propositions": [
             {
-                "name": "Martina Okalova",
-                "returnWin": 1.62
+                "name": "Lausanne",
+                "returnWin": 1.52
             },
             {
-                "name": "Thea Frodin",
-                "returnWin": 2.15
+                "name": "SK Sigma Olomouc",
+                "returnWin": 2.4
             }
         ],
-        "match_name": "Okalova v Frodin",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-26T19:15:00.000Z"
+        "match_name": "Lausanne v SK Sigma Olomouc",
+        "betOption": "Winner of Tie",
+        "start_time": "2026-02-26T20:00:00.000Z"
     },
     {
-        "contestant_names": "Saski Baskonia, (2.2) VERSES Valencia, (1.62)",
-        "start_time_aest": "2026-02-27T06:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "EuroLeague",
-        "contestants": [
-            {
-                "full_name": "Saski Baskonia",
-                "position": "HOME",
-                "short_name": "Saski Baskonia"
-            },
-            {
-                "full_name": "Valencia",
-                "position": "AWAY",
-                "short_name": "Valencia"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Saski Baskonia",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Valencia",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Saski Baskonia v Valencia",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-26T19:30:00.000Z"
-    },
-    {
-        "contestant_names": "Kaja Juvan, (2.3) VERSES Peyton Stearns, (1.58)",
-        "start_time_aest": "2026-02-27T06:30:00+11:00",
+        "contestant_names": "Jessica Bouzas Maneiro, (1.7) VERSES Magdalena Frech, (2.1)",
+        "start_time_aest": "2026-02-27T07:00:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA",
-        "tournamentName": "WTA Austin",
+        "tournamentName": "WTA Merida",
         "contestants": [
             {
-                "full_name": "Kaja Juvan",
+                "full_name": "Jessica Bouzas Maneiro",
                 "position": "HOME",
-                "short_name": "Juvan"
+                "short_name": "Maneiro"
             },
             {
-                "full_name": "Peyton Stearns",
+                "full_name": "Magdalena Frech",
                 "position": "AWAY",
-                "short_name": "Stearns P"
+                "short_name": "Frech"
             }
         ],
         "propositions": [
             {
-                "name": "Kaja Juvan",
-                "returnWin": 2.3
+                "name": "Jessica Bouzas Maneiro",
+                "returnWin": 1.7
             },
             {
-                "name": "Peyton Stearns",
-                "returnWin": 1.58
+                "name": "Magdalena Frech",
+                "returnWin": 2.1
             }
         ],
-        "match_name": "Juvan v Stearns P",
+        "match_name": "Maneiro v Frech",
         "betOption": "Head To Head",
-        "start_time": "2026-02-26T19:30:00.000Z"
+        "start_time": "2026-02-26T20:00:00.000Z"
     }
 ]
