@@ -1,100 +1,5 @@
 [
     {
-        "contestant_names": "Utah, (2) VERSES Colorado, (1.8)",
-        "start_time_aest": "2026-02-26T13:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Utah",
-                "position": "HOME",
-                "short_name": "Utah"
-            },
-            {
-                "full_name": "Colorado",
-                "position": "AWAY",
-                "short_name": "Colorado"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Utah",
-                "returnWin": 2
-            },
-            {
-                "name": "Colorado",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "Utah v Colorado",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-26T02:05:00.000Z"
-    },
-    {
-        "contestant_names": "Cristina Bucsa, (1.65) VERSES Marina Stakusic, (2.15)",
-        "start_time_aest": "2026-02-26T13:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "tournamentName": "WTA Merida",
-        "contestants": [
-            {
-                "full_name": "Cristina Bucsa",
-                "position": "HOME",
-                "short_name": "Bucsa C"
-            },
-            {
-                "full_name": "Marina Stakusic",
-                "position": "AWAY",
-                "short_name": "Stakusic"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Cristina Bucsa",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Marina Stakusic",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Bucsa C v Stakusic",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-26T02:15:00.000Z"
-    },
-    {
-        "contestant_names": "Haase/Frantzen, (2.3) VERSES Erler/Galloway, (1.58)",
-        "start_time_aest": "2026-02-26T13:17:51+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "tournamentName": "ATP Acapulco Doubles",
-        "contestants": [
-            {
-                "full_name": "Haase/Frantzen",
-                "position": "HOME",
-                "short_name": "Haase/Frantzen"
-            },
-            {
-                "full_name": "Erler/Galloway",
-                "position": "AWAY",
-                "short_name": "Erler/Galloway"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Haase/Frantzen",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Erler/Galloway",
-                "returnWin": 1.58
-            }
-        ],
-        "match_name": "Haase/Frantzen v Erler/Galloway",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-26T02:17:51.000Z"
-    },
-    {
         "contestant_names": "Frayles De Guasa, (1.6) VERSES Caballeros De Cu, (2.15)",
         "start_time_aest": "2026-02-26T13:45:00+11:00",
         "sport_name": "Basketball",
@@ -124,6 +29,70 @@
         "match_name": "Frayles De Guasa v Caballeros De Cu",
         "betOption": "Head To Head",
         "start_time": "2026-02-26T02:45:00.000Z"
+    },
+    {
+        "contestant_names": "Alana Subasic, (1.65) VERSES Chengyiyi Yuan, (2.1)",
+        "start_time_aest": "2026-02-26T13:55:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens Australia",
+        "tournamentName": "ITFW Burnie",
+        "contestants": [
+            {
+                "full_name": "Alana Subasic",
+                "position": "HOME",
+                "short_name": "Subasic"
+            },
+            {
+                "full_name": "Chengyiyi Yuan",
+                "position": "AWAY",
+                "short_name": "Yuan C"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alana Subasic",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Chengyiyi Yuan",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Subasic v Yuan C",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-26T02:55:00.000Z"
+    },
+    {
+        "contestant_names": "Cristina Bucsa, (1.65) VERSES Marina Stakusic, (2.15)",
+        "start_time_aest": "2026-02-26T14:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Merida",
+        "contestants": [
+            {
+                "full_name": "Cristina Bucsa",
+                "position": "HOME",
+                "short_name": "Bucsa C"
+            },
+            {
+                "full_name": "Marina Stakusic",
+                "position": "AWAY",
+                "short_name": "Stakusic"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Cristina Bucsa",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Marina Stakusic",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Bucsa C v Stakusic",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-26T03:00:00.000Z"
     },
     {
         "contestant_names": "Los Angeles, (1.58) VERSES Las Vegas, (2.35)",
@@ -250,6 +219,37 @@
         "start_time": "2026-02-26T03:15:00.000Z"
     },
     {
+        "contestant_names": "Venados Mazatlan, (1.73) VERSES Angeles Cd Mexic, (1.95)",
+        "start_time_aest": "2026-02-26T14:15:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Mexico CIBACOPA",
+        "contestants": [
+            {
+                "full_name": "Venados Mazatlan",
+                "position": "HOME",
+                "short_name": "Venados Mazatlan"
+            },
+            {
+                "full_name": "Angeles Cd Mexic",
+                "position": "AWAY",
+                "short_name": "Angeles Cd Mexic"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Venados Mazatlan",
+                "returnWin": 1.73
+            },
+            {
+                "name": "Angeles Cd Mexic",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Venados Mazatlan v Angeles Cd Mexic",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-26T03:15:00.000Z"
+    },
+    {
         "contestant_names": "Melo/Zverev, (1.95) VERSES Gonzalez/Pel, (1.8)",
         "start_time_aest": "2026-02-26T14:30:00+11:00",
         "sport_name": "Tennis",
@@ -311,5 +311,36 @@
         "match_name": "Anaheim v Edmonton",
         "betOption": "Head To Head",
         "start_time": "2026-02-26T03:35:00.000Z"
+    },
+    {
+        "contestant_names": "Loyola Marymount, (1.8) VERSES Washington State, (2)",
+        "start_time_aest": "2026-02-26T15:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Loyola Marymount",
+                "position": "HOME",
+                "short_name": "Loyola Marymount"
+            },
+            {
+                "full_name": "Washington State",
+                "position": "AWAY",
+                "short_name": "Washington State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Loyola Marymount",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Washington State",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Loyola Marymount v Washington State",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-26T04:00:00.000Z"
     }
 ]
