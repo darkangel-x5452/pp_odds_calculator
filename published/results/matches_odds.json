@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Grambling State, (1.85) VERSES Bethune-Cookman, (1.95)",
-        "start_time_aest": "2026-02-27T10:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Grambling State",
-                "position": "HOME",
-                "short_name": "Grambling State"
-            },
-            {
-                "full_name": "Bethune-Cookman",
-                "position": "AWAY",
-                "short_name": "Bethune-Cookman"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Grambling State",
-                "returnWin": 1.85
-            },
-            {
-                "name": "Bethune-Cookman",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Grambling State v Bethune-Cookman",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-26T23:30:00.000Z"
-    },
-    {
         "contestant_names": "Monmouth, (1.53) VERSES Stony Brook, (2.5)",
         "start_time_aest": "2026-02-27T11:00:00+11:00",
         "sport_name": "Basketball",
@@ -120,6 +89,68 @@
             }
         ],
         "match_name": "Drexel v Campbell",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-27T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Virginia, (2.35) VERSES North Carolina, (1.55)",
+        "start_time_aest": "2026-02-27T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Virginia",
+                "position": "HOME",
+                "short_name": "Virginia"
+            },
+            {
+                "full_name": "North Carolina",
+                "position": "AWAY",
+                "short_name": "North Carolina"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Virginia",
+                "returnWin": 2.35
+            },
+            {
+                "name": "North Carolina",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Virginia v North Carolina",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-27T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Seton Hall, (2.3) VERSES Villanova, (1.58)",
+        "start_time_aest": "2026-02-27T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Seton Hall",
+                "position": "HOME",
+                "short_name": "Seton Hall"
+            },
+            {
+                "full_name": "Villanova",
+                "position": "AWAY",
+                "short_name": "Villanova"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Seton Hall",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Villanova",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Seton Hall v Villanova",
         "betOption": "Head To Head",
         "start_time": "2026-02-27T00:00:00.000Z"
     }
