@@ -1,95 +1,97 @@
 [
     {
-        "contestant_names": "Ferencvaros, (1.75) VERSES Ludogorets 1947, (2)",
-        "start_time_aest": "2026-02-27T04:45:00+11:00",
-        "sport_name": "Soccer",
-        "competition_name": "UEFA Europa League",
+        "contestant_names": "Reynolds/Watt, (1.8) VERSES Faria/Rocha, (1.95)",
+        "start_time_aest": "2026-02-27T05:20:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP Doubles",
+        "tournamentName": "ATP Santiago Doubles",
         "contestants": [
             {
-                "full_name": "Ferencvaros",
+                "full_name": "Reynolds/Watt",
                 "position": "HOME",
-                "short_name": "Ferencvaros"
+                "short_name": "Reynolds/Watt"
             },
             {
-                "full_name": "Ludogorets 1947",
+                "full_name": "Faria/Rocha",
                 "position": "AWAY",
-                "short_name": "Ludogorets 1947"
+                "short_name": "Faria/Rocha"
             }
         ],
         "propositions": [
             {
-                "name": "Ferencvaros",
-                "returnWin": 1.75
+                "name": "Reynolds/Watt",
+                "returnWin": 1.8
             },
             {
-                "name": "Ludogorets 1947",
-                "returnWin": 2
+                "name": "Faria/Rocha",
+                "returnWin": 1.95
             }
         ],
-        "match_name": "Ferencvaros v Ludogorets 1947",
-        "betOption": "Winner of Tie",
-        "start_time": "2026-02-26T17:45:00.000Z"
-    },
-    {
-        "contestant_names": "Viktoria Plzen, (1.5) VERSES Panathinaikos, (2.5)",
-        "start_time_aest": "2026-02-27T04:45:00+11:00",
-        "sport_name": "Soccer",
-        "competition_name": "UEFA Europa League",
-        "contestants": [
-            {
-                "full_name": "Viktoria Plzen",
-                "position": "HOME",
-                "short_name": "Viktoria Plzen"
-            },
-            {
-                "full_name": "Panathinaikos",
-                "position": "AWAY",
-                "short_name": "Panathinaikos"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Viktoria Plzen",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Panathinaikos",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Viktoria Plzen v Panathinaikos",
-        "betOption": "Winner of Tie",
-        "start_time": "2026-02-26T17:45:00.000Z"
-    },
-    {
-        "contestant_names": "DR Congo, (1.52) VERSES Madagascar, (2.45)",
-        "start_time_aest": "2026-02-27T05:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "FIBA World Cup Qualification",
-        "contestants": [
-            {
-                "full_name": "DR Congo",
-                "position": "HOME",
-                "short_name": "DR Congo"
-            },
-            {
-                "full_name": "Madagascar",
-                "position": "AWAY",
-                "short_name": "Madagascar"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "DR Congo",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Madagascar",
-                "returnWin": 2.45
-            }
-        ],
-        "match_name": "DR Congo v Madagascar",
+        "match_name": "Reynolds/Watt v Faria/Rocha",
         "betOption": "Head To Head",
-        "start_time": "2026-02-26T18:00:00.000Z"
+        "start_time": "2026-02-26T18:20:00.000Z"
+    },
+    {
+        "contestant_names": "BLMA, (2.2) VERSES Cukurova, (1.6)",
+        "start_time_aest": "2026-02-27T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "EuroCup Women",
+        "contestants": [
+            {
+                "full_name": "BLMA",
+                "position": "HOME",
+                "short_name": "BLMA"
+            },
+            {
+                "full_name": "Cukurova",
+                "position": "AWAY",
+                "short_name": "Cukurova"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "BLMA",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Cukurova",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "BLMA v Cukurova",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-26T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Martina Okalova, (1.62) VERSES Thea Frodin, (2.15)",
+        "start_time_aest": "2026-02-27T06:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Arcadia",
+        "contestants": [
+            {
+                "full_name": "Martina Okalova",
+                "position": "HOME",
+                "short_name": "Okalova"
+            },
+            {
+                "full_name": "Thea Frodin",
+                "position": "AWAY",
+                "short_name": "Frodin"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Martina Okalova",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Thea Frodin",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Okalova v Frodin",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-26T19:00:00.000Z"
     }
 ]
