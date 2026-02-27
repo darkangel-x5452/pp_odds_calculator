@@ -1,126 +1,95 @@
 [
     {
-        "contestant_names": "HBA-Marsky, (2.5) VERSES Jyvaskyla, (1.45)",
-        "start_time_aest": "2026-02-28T04:45:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Finland Division 1A",
+        "contestant_names": "USO Nevers, (1.58) VERSES Grenoble, (2.3)",
+        "start_time_aest": "2026-02-28T05:30:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "France Pro D2",
         "contestants": [
             {
-                "full_name": "HBA-Marsky",
+                "full_name": "USO Nevers",
                 "position": "HOME",
-                "short_name": "HBA-Marsky"
+                "short_name": "USO Nevers"
             },
             {
-                "full_name": "Jyvaskyla",
+                "full_name": "Grenoble",
                 "position": "AWAY",
-                "short_name": "Jyvaskyla"
+                "short_name": "Grenoble"
             }
         ],
         "propositions": [
             {
-                "name": "HBA-Marsky",
-                "returnWin": 2.5
+                "name": "USO Nevers",
+                "returnWin": 1.58
             },
             {
-                "name": "Jyvaskyla",
-                "returnWin": 1.45
+                "name": "Grenoble",
+                "returnWin": 2.3
             }
         ],
-        "match_name": "HBA-Marsky v Jyvaskyla",
+        "match_name": "USO Nevers v Grenoble",
         "betOption": "Head To Head",
-        "start_time": "2026-02-27T17:45:00.000Z"
+        "start_time": "2026-02-27T18:30:00.000Z"
     },
     {
-        "contestant_names": "Kosovo, (2.45) VERSES Slovakia, (1.53)",
-        "start_time_aest": "2026-02-28T05:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "EuroBasket",
+        "contestant_names": "Beziers, (1.72) VERSES Oyonnax, (2.05)",
+        "start_time_aest": "2026-02-28T05:30:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "France Pro D2",
         "contestants": [
             {
-                "full_name": "Kosovo",
+                "full_name": "Beziers",
                 "position": "HOME",
-                "short_name": "Kosovo"
+                "short_name": "Beziers"
             },
             {
-                "full_name": "Slovakia",
+                "full_name": "Oyonnax",
                 "position": "AWAY",
-                "short_name": "Slovakia"
+                "short_name": "Oyonnax"
             }
         ],
         "propositions": [
             {
-                "name": "Kosovo",
+                "name": "Beziers",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Oyonnax",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Beziers v Oyonnax",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-27T18:30:00.000Z"
+    },
+    {
+        "contestant_names": "Carcassonne, (1.52) VERSES Aurillac, (2.45)",
+        "start_time_aest": "2026-02-28T05:30:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "France Pro D2",
+        "contestants": [
+            {
+                "full_name": "Carcassonne",
+                "position": "HOME",
+                "short_name": "Carcassonne"
+            },
+            {
+                "full_name": "Aurillac",
+                "position": "AWAY",
+                "short_name": "Aurillac"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Carcassonne",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Aurillac",
                 "returnWin": 2.45
-            },
-            {
-                "name": "Slovakia",
-                "returnWin": 1.53
             }
         ],
-        "match_name": "Kosovo v Slovakia",
+        "match_name": "Carcassonne v Aurillac",
         "betOption": "Head To Head",
-        "start_time": "2026-02-27T18:00:00.000Z"
-    },
-    {
-        "contestant_names": "Sweden, (2.2) VERSES Estonia, (1.62)",
-        "start_time_aest": "2026-02-28T05:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "FIBA World Cup Qualification",
-        "contestants": [
-            {
-                "full_name": "Sweden",
-                "position": "HOME",
-                "short_name": "Sweden"
-            },
-            {
-                "full_name": "Estonia",
-                "position": "AWAY",
-                "short_name": "Estonia"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sweden",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Estonia",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Sweden v Estonia",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-27T18:00:00.000Z"
-    },
-    {
-        "contestant_names": "Serbia, (2) VERSES Turkey, (1.75)",
-        "start_time_aest": "2026-02-28T05:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "FIBA World Cup Qualification",
-        "contestants": [
-            {
-                "full_name": "Serbia",
-                "position": "HOME",
-                "short_name": "Serbia"
-            },
-            {
-                "full_name": "Turkey",
-                "position": "AWAY",
-                "short_name": "Turkey"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Serbia",
-                "returnWin": 2
-            },
-            {
-                "name": "Turkey",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Serbia v Turkey",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-27T18:00:00.000Z"
+        "start_time": "2026-02-27T18:30:00.000Z"
     }
 ]
