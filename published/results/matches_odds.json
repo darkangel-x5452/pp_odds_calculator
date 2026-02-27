@@ -1,69 +1,5 @@
 [
     {
-        "contestant_names": "Thasaporn Naklo, (2.3) VERSES Polina Kuharenko, (1.55)",
-        "start_time_aest": "2026-02-27T16:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "tournamentName": "ITFW Gurugram",
-        "contestants": [
-            {
-                "full_name": "Thasaporn Naklo",
-                "position": "HOME",
-                "short_name": "Naklo"
-            },
-            {
-                "full_name": "Polina Kuharenko",
-                "position": "AWAY",
-                "short_name": "Kuharenko"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Thasaporn Naklo",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Polina Kuharenko",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Naklo v Kuharenko",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-27T05:30:00.000Z"
-    },
-    {
-        "contestant_names": "Evgeniya Burdina, (1.46) VERSES Anna Sedysheva, (2.5)",
-        "start_time_aest": "2026-02-27T16:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "tournamentName": "ITFW Gurugram",
-        "contestants": [
-            {
-                "full_name": "Evgeniya Burdina",
-                "position": "HOME",
-                "short_name": "Burdina"
-            },
-            {
-                "full_name": "Anna Sedysheva",
-                "position": "AWAY",
-                "short_name": "Sedysheva"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Evgeniya Burdina",
-                "returnWin": 1.46
-            },
-            {
-                "name": "Anna Sedysheva",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Burdina v Sedysheva",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-27T05:30:00.000Z"
-    },
-    {
         "contestant_names": "Aurora Zantedeschi, (2.15) VERSES Georgia Pedone, (1.62)",
         "start_time_aest": "2026-02-27T18:00:00+11:00",
         "sport_name": "Tennis",
@@ -126,5 +62,36 @@
         "match_name": "Riera/Gormaz v Tran/Zolotareva",
         "betOption": "Head To Head",
         "start_time": "2026-02-27T07:30:00.000Z"
+    },
+    {
+        "contestant_names": "Wst Bulldogs, (1.74) VERSES Hawthorn, (2.1)",
+        "start_time_aest": "2026-02-27T19:10:00+11:00",
+        "sport_name": "AFL Football",
+        "competition_name": "AFL Pre Season",
+        "contestants": [
+            {
+                "full_name": "Wst Bulldogs",
+                "position": "HOME",
+                "short_name": "Wst Bulldogs"
+            },
+            {
+                "full_name": "Hawthorn",
+                "position": "AWAY",
+                "short_name": "Hawthorn"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Wst Bulldogs",
+                "returnWin": 1.74
+            },
+            {
+                "name": "Hawthorn",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Wst Bulldogs v Hawthorn",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-27T08:10:00.000Z"
     }
 ]
