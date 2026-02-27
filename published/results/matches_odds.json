@@ -1,97 +1,35 @@
 [
     {
-        "contestant_names": "Memphis, (1.8) VERSES Wichita State, (2)",
-        "start_time_aest": "2026-02-27T13:05:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Memphis",
-                "position": "HOME",
-                "short_name": "Memphis"
-            },
-            {
-                "full_name": "Wichita State",
-                "position": "AWAY",
-                "short_name": "Wichita State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Memphis",
-                "returnWin": 1.8
-            },
-            {
-                "name": "Wichita State",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Memphis v Wichita State",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-27T02:05:00.000Z"
-    },
-    {
-        "contestant_names": "Colorado, (1.65) VERSES Minnesota, (2.2)",
-        "start_time_aest": "2026-02-27T13:08:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Colorado",
-                "position": "HOME",
-                "short_name": "Colorado"
-            },
-            {
-                "full_name": "Minnesota",
-                "position": "AWAY",
-                "short_name": "Minnesota"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Colorado",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Minnesota",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Colorado v Minnesota",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-27T02:08:00.000Z"
-    },
-    {
-        "contestant_names": "Miomir Kecmanovic, (1.55) VERSES Terence Atmane, (2.35)",
-        "start_time_aest": "2026-02-27T13:30:00+11:00",
+        "contestant_names": "Mendez/Jodar, (2.3) VERSES Dimitrov/Cobolli, (1.58)",
+        "start_time_aest": "2026-02-27T13:45:00+11:00",
         "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "tournamentName": "ATP Acapulco",
+        "competition_name": "ATP Doubles",
+        "tournamentName": "ATP Acapulco Doubles",
         "contestants": [
             {
-                "full_name": "Miomir Kecmanovic",
+                "full_name": "Mendez/Jodar",
                 "position": "HOME",
-                "short_name": "Kecmanovic"
+                "short_name": "Mendez/Jodar"
             },
             {
-                "full_name": "Terence Atmane",
+                "full_name": "Dimitrov/Cobolli",
                 "position": "AWAY",
-                "short_name": "Atmane"
+                "short_name": "Dimitrov/Cobolli"
             }
         ],
         "propositions": [
             {
-                "name": "Miomir Kecmanovic",
-                "returnWin": 1.55
+                "name": "Mendez/Jodar",
+                "returnWin": 2.3
             },
             {
-                "name": "Terence Atmane",
-                "returnWin": 2.35
+                "name": "Dimitrov/Cobolli",
+                "returnWin": 1.58
             }
         ],
-        "match_name": "Kecmanovic v Atmane",
+        "match_name": "Mendez/Jodar v Dimitrov/Cobolli",
         "betOption": "Head To Head",
-        "start_time": "2026-02-27T02:30:00.000Z"
+        "start_time": "2026-02-27T02:45:00.000Z"
     },
     {
         "contestant_names": "CSU Northridge, (1.8) VERSES UC Irvine, (2)",
@@ -217,5 +155,100 @@
         "match_name": "San Jose v Calgary",
         "betOption": "Head To Head",
         "start_time": "2026-02-27T03:05:00.000Z"
+    },
+    {
+        "contestant_names": "Los Angeles, (1.95) VERSES Edmonton, (1.85)",
+        "start_time_aest": "2026-02-27T14:35:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Los Angeles",
+                "position": "HOME",
+                "short_name": "Los Angeles"
+            },
+            {
+                "full_name": "Edmonton",
+                "position": "AWAY",
+                "short_name": "Edmonton"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Los Angeles",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Edmonton",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Los Angeles v Edmonton",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-27T03:35:00.000Z"
+    },
+    {
+        "contestant_names": "Valentin Vacherot, (2) VERSES Brandon Nakashima, (1.8)",
+        "start_time_aest": "2026-02-27T15:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "tournamentName": "ATP Acapulco",
+        "contestants": [
+            {
+                "full_name": "Valentin Vacherot",
+                "position": "HOME",
+                "short_name": "Vacherot"
+            },
+            {
+                "full_name": "Brandon Nakashima",
+                "position": "AWAY",
+                "short_name": "Nakashima B"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Valentin Vacherot",
+                "returnWin": 2
+            },
+            {
+                "name": "Brandon Nakashima",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Vacherot v Nakashima B",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-27T04:00:00.000Z"
+    },
+    {
+        "contestant_names": "Melo/Zverev, (1.8) VERSES Reyes-Varela/Borges, (1.95)",
+        "start_time_aest": "2026-02-27T15:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP Doubles",
+        "tournamentName": "ATP Acapulco Doubles",
+        "contestants": [
+            {
+                "full_name": "Melo/Zverev",
+                "position": "HOME",
+                "short_name": "Melo/Zverev"
+            },
+            {
+                "full_name": "Reyes-Varela/Borges",
+                "position": "AWAY",
+                "short_name": "Reyes-Varela/Borges"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Melo/Zverev",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Reyes-Varela/Borges",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Melo/Zverev v Reyes-Varela/Borges",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-27T04:00:00.000Z"
     }
 ]
