@@ -1,37 +1,5 @@
 [
     {
-        "contestant_names": "Mona Barthel, (1.68) VERSES Anouk Koevermans, (2.05)",
-        "start_time_aest": "2026-02-27T23:10:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "tournamentName": "ITFW Porto",
-        "contestants": [
-            {
-                "full_name": "Mona Barthel",
-                "position": "HOME",
-                "short_name": "Barthel"
-            },
-            {
-                "full_name": "Anouk Koevermans",
-                "position": "AWAY",
-                "short_name": "Koevermans A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Mona Barthel",
-                "returnWin": 1.68
-            },
-            {
-                "name": "Anouk Koevermans",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Barthel v Koevermans A",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-27T12:10:00.000Z"
-    },
-    {
         "contestant_names": "Iraq, (2) VERSES Syria, (1.75)",
         "start_time_aest": "2026-02-28T00:00:00+11:00",
         "sport_name": "Basketball",
@@ -91,6 +59,70 @@
             }
         ],
         "match_name": "Auger Aliassime v Medvedev",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-27T13:30:00.000Z"
+    },
+    {
+        "contestant_names": "PARIVISION, (1.58) VERSES MOUZ, (2.25)",
+        "start_time_aest": "2026-02-28T00:30:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "tournamentName": "DOTA2 - DreamLeague",
+        "contestants": [
+            {
+                "full_name": "PARIVISION",
+                "position": "HOME",
+                "short_name": "Parivision"
+            },
+            {
+                "full_name": "MOUZ",
+                "position": "AWAY",
+                "short_name": "MOUZ"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "PARIVISION",
+                "returnWin": 1.58
+            },
+            {
+                "name": "MOUZ",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Parivision v MOUZ",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-27T13:30:00.000Z"
+    },
+    {
+        "contestant_names": "Xtreme Gaming, (1.55) VERSES Team Falcons, (2.3)",
+        "start_time_aest": "2026-02-28T00:30:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "tournamentName": "DOTA2 - DreamLeague",
+        "contestants": [
+            {
+                "full_name": "Xtreme Gaming",
+                "position": "HOME",
+                "short_name": "Xtreme Gaming"
+            },
+            {
+                "full_name": "Team Falcons",
+                "position": "AWAY",
+                "short_name": "Team Falcons"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Xtreme Gaming",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Team Falcons",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Xtreme Gaming v Team Falcons",
         "betOption": "Head To Head",
         "start_time": "2026-02-27T13:30:00.000Z"
     }
