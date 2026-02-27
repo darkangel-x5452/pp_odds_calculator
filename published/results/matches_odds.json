@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Iraq, (2) VERSES Syria, (1.75)",
-        "start_time_aest": "2026-02-28T00:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "FIBA World Cup Qualification",
-        "contestants": [
-            {
-                "full_name": "Iraq",
-                "position": "HOME",
-                "short_name": "Iraq"
-            },
-            {
-                "full_name": "Syria",
-                "position": "AWAY",
-                "short_name": "Syria"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Iraq",
-                "returnWin": 2
-            },
-            {
-                "name": "Syria",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Iraq v Syria",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-27T13:00:00.000Z"
-    },
-    {
         "contestant_names": "Felix Auger Aliassime, (2.05) VERSES Daniil Medvedev, (1.75)",
         "start_time_aest": "2026-02-28T00:30:00+11:00",
         "sport_name": "Tennis",
@@ -125,5 +94,101 @@
         "match_name": "Xtreme Gaming v Team Falcons",
         "betOption": "Head To Head",
         "start_time": "2026-02-27T13:30:00.000Z"
+    },
+    {
+        "contestant_names": "Miquel Damas, (2.05) VERSES Gianluca Cadenasso, (1.68)",
+        "start_time_aest": "2026-02-28T00:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Tigre 2",
+        "contestants": [
+            {
+                "full_name": "Miquel Damas",
+                "position": "HOME",
+                "short_name": "Damas M"
+            },
+            {
+                "full_name": "Gianluca Cadenasso",
+                "position": "AWAY",
+                "short_name": "Cadenasso"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Miquel Damas",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Gianluca Cadenasso",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Damas M v Cadenasso",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-27T13:30:00.000Z"
+    },
+    {
+        "contestant_names": "Vestergaard M/Busch C, (1.5) VERSES Dunn A/Macpherson J, (2.4)",
+        "start_time_aest": "2026-02-28T01:00:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour Doubles",
+        "tournamentName": "German Open Mixed Doubles",
+        "contestants": [
+            {
+                "full_name": "Vestergaard M/Busch C",
+                "position": "HOME",
+                "short_name": "VestergaardBusch"
+            },
+            {
+                "full_name": "Dunn A/Macpherson J",
+                "position": "AWAY",
+                "short_name": "Dunn A/Mcpherson"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Vestergaard M/Busch C",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Dunn A/Macpherson J",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "VestergaardBusch v Dunn A/Mcpherson",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-27T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Yang P H/Hu L F, (2) VERSES Jomkoh S/Jongsathapornparn O, (1.72)",
+        "start_time_aest": "2026-02-28T01:00:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour Doubles",
+        "tournamentName": "German Open Mixed Doubles",
+        "contestants": [
+            {
+                "full_name": "Yang P H/Hu L F",
+                "position": "HOME",
+                "short_name": "Yang P H/Hu L F"
+            },
+            {
+                "full_name": "Jomkoh S/Jongsathapornparn O",
+                "position": "AWAY",
+                "short_name": "Jmkh/Jngsthp"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Yang P H/Hu L F",
+                "returnWin": 2
+            },
+            {
+                "name": "Jomkoh S/Jongsathapornparn O",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "Yang P H/Hu L F v Jmkh/Jngsthp",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-27T14:00:00.000Z"
     }
 ]
