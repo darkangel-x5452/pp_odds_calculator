@@ -1,37 +1,5 @@
 [
     {
-        "contestant_names": "Aurora Zantedeschi, (2.15) VERSES Georgia Pedone, (1.62)",
-        "start_time_aest": "2026-02-27T18:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "tournamentName": "ITFW Antalya",
-        "contestants": [
-            {
-                "full_name": "Aurora Zantedeschi",
-                "position": "HOME",
-                "short_name": "Zantedeschi"
-            },
-            {
-                "full_name": "Georgia Pedone",
-                "position": "AWAY",
-                "short_name": "Pedone G"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Aurora Zantedeschi",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Georgia Pedone",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Zantedeschi v Pedone G",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-27T07:00:00.000Z"
-    },
-    {
         "contestant_names": "Riera/Gormaz, (1.95) VERSES Tran/Zolotareva, (1.75)",
         "start_time_aest": "2026-02-27T18:30:00+11:00",
         "sport_name": "Tennis",
@@ -93,5 +61,69 @@
         "match_name": "Wst Bulldogs v Hawthorn",
         "betOption": "Head To Head",
         "start_time": "2026-02-27T08:10:00.000Z"
+    },
+    {
+        "contestant_names": "Felix Gill, (2.5) VERSES Maks Kasnikowski, (1.46)",
+        "start_time_aest": "2026-02-27T19:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Pune",
+        "contestants": [
+            {
+                "full_name": "Felix Gill",
+                "position": "HOME",
+                "short_name": "Gill F"
+            },
+            {
+                "full_name": "Maks Kasnikowski",
+                "position": "AWAY",
+                "short_name": "Kasnikowski"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Felix Gill",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Maks Kasnikowski",
+                "returnWin": 1.46
+            }
+        ],
+        "match_name": "Gill F v Kasnikowski",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-27T08:30:00.000Z"
+    },
+    {
+        "contestant_names": "Parisca Ignacio, (2.15) VERSES Andrey Chepelev, (1.62)",
+        "start_time_aest": "2026-02-27T19:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "tournamentName": "ITFM Antalya",
+        "contestants": [
+            {
+                "full_name": "Parisca Ignacio",
+                "position": "HOME",
+                "short_name": "Ignacio"
+            },
+            {
+                "full_name": "Andrey Chepelev",
+                "position": "AWAY",
+                "short_name": "Chepelev A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Parisca Ignacio",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Andrey Chepelev",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Ignacio v Chepelev A",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-27T08:30:00.000Z"
     }
 ]
