@@ -1,37 +1,5 @@
 [
     {
-        "contestant_names": "Alejandro Tabilo, (2.05) VERSES Sebastian Baez, (1.75)",
-        "start_time_aest": "2026-02-28T10:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "tournamentName": "ATP Santiago",
-        "contestants": [
-            {
-                "full_name": "Alejandro Tabilo",
-                "position": "HOME",
-                "short_name": "Tabilo A"
-            },
-            {
-                "full_name": "Sebastian Baez",
-                "position": "AWAY",
-                "short_name": "Baez"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Alejandro Tabilo",
-                "returnWin": 2.05
-            },
-            {
-                "name": "Sebastian Baez",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Tabilo A v Baez",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-27T23:30:00.000Z"
-    },
-    {
         "contestant_names": "Princeton, (2.5) VERSES Harvard, (1.53)",
         "start_time_aest": "2026-02-28T11:00:00+11:00",
         "sport_name": "Basketball",
@@ -155,5 +123,163 @@
         "match_name": "Aguiard E v Bouzige",
         "betOption": "Head To Head",
         "start_time": "2026-02-28T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Alejandro Tabilo, (2) VERSES Sebastian Baez, (1.8)",
+        "start_time_aest": "2026-02-28T11:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "tournamentName": "ATP Santiago",
+        "contestants": [
+            {
+                "full_name": "Alejandro Tabilo",
+                "position": "HOME",
+                "short_name": "Tabilo A"
+            },
+            {
+                "full_name": "Sebastian Baez",
+                "position": "AWAY",
+                "short_name": "Baez"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alejandro Tabilo",
+                "returnWin": 2
+            },
+            {
+                "name": "Sebastian Baez",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Tabilo A v Baez",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Oksana Selekhmeteva, (2.4) VERSES Peyton Stearns, (1.52)",
+        "start_time_aest": "2026-02-28T11:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Austin",
+        "contestants": [
+            {
+                "full_name": "Oksana Selekhmeteva",
+                "position": "HOME",
+                "short_name": "Selekhmeteva"
+            },
+            {
+                "full_name": "Peyton Stearns",
+                "position": "AWAY",
+                "short_name": "Stearns P"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Oksana Selekhmeteva",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Peyton Stearns",
+                "returnWin": 1.52
+            }
+        ],
+        "match_name": "Selekhmeteva v Stearns P",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Zeynep Sonmez, (1.8) VERSES Cristina Bucsa, (2)",
+        "start_time_aest": "2026-02-28T11:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Merida",
+        "contestants": [
+            {
+                "full_name": "Zeynep Sonmez",
+                "position": "HOME",
+                "short_name": "Sonmez"
+            },
+            {
+                "full_name": "Cristina Bucsa",
+                "position": "AWAY",
+                "short_name": "Bucsa C"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Zeynep Sonmez",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Cristina Bucsa",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Sonmez v Bucsa C",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Washington, (1.85) VERSES Las Vegas, (1.95)",
+        "start_time_aest": "2026-02-28T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Washington",
+                "position": "HOME",
+                "short_name": "Washington"
+            },
+            {
+                "full_name": "Las Vegas",
+                "position": "AWAY",
+                "short_name": "Las Vegas"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Washington",
+                "returnWin": 1.85
+            },
+            {
+                "name": "Las Vegas",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Washington v Las Vegas",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T00:05:00.000Z"
+    },
+    {
+        "contestant_names": "Florida, (1.8) VERSES Buffalo, (2)",
+        "start_time_aest": "2026-02-28T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Florida",
+                "position": "HOME",
+                "short_name": "Florida"
+            },
+            {
+                "full_name": "Buffalo",
+                "position": "AWAY",
+                "short_name": "Buffalo"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Florida",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Buffalo",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Florida v Buffalo",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T00:05:00.000Z"
     }
 ]
