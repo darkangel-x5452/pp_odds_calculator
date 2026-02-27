@@ -1,101 +1,7 @@
 [
     {
-        "contestant_names": "Los Angeles, (1.95) VERSES Edmonton, (1.85)",
-        "start_time_aest": "2026-02-27T14:35:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Los Angeles",
-                "position": "HOME",
-                "short_name": "Los Angeles"
-            },
-            {
-                "full_name": "Edmonton",
-                "position": "AWAY",
-                "short_name": "Edmonton"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Los Angeles",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Edmonton",
-                "returnWin": 1.85
-            }
-        ],
-        "match_name": "Los Angeles v Edmonton",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-27T03:35:00.000Z"
-    },
-    {
-        "contestant_names": "Los Angeles, (2) VERSES Edmonton, (1.8)",
-        "start_time_aest": "2026-02-27T14:38:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Los Angeles",
-                "position": "HOME",
-                "short_name": "Los Angeles"
-            },
-            {
-                "full_name": "Edmonton",
-                "position": "AWAY",
-                "short_name": "Edmonton"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Los Angeles",
-                "returnWin": 2
-            },
-            {
-                "name": "Edmonton",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "Los Angeles v Edmonton",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-27T03:38:00.000Z"
-    },
-    {
-        "contestant_names": "Melo/Zverev, (1.8) VERSES Reyes-Varela/Borges, (1.95)",
-        "start_time_aest": "2026-02-27T14:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "tournamentName": "ATP Acapulco Doubles",
-        "contestants": [
-            {
-                "full_name": "Melo/Zverev",
-                "position": "HOME",
-                "short_name": "Melo/Zverev"
-            },
-            {
-                "full_name": "Reyes-Varela/Borges",
-                "position": "AWAY",
-                "short_name": "Reyes-Varela/Borges"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Melo/Zverev",
-                "returnWin": 1.8
-            },
-            {
-                "name": "Reyes-Varela/Borges",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Melo/Zverev v Reyes-Varela/Borges",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-27T03:45:00.000Z"
-    },
-    {
         "contestant_names": "Valentin Vacherot, (2) VERSES Brandon Nakashima, (1.8)",
-        "start_time_aest": "2026-02-27T15:00:00+11:00",
+        "start_time_aest": "2026-02-27T15:30:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ATP",
         "tournamentName": "ATP Acapulco",
@@ -123,39 +29,7 @@
         ],
         "match_name": "Vacherot v Nakashima B",
         "betOption": "Head To Head",
-        "start_time": "2026-02-27T04:00:00.000Z"
-    },
-    {
-        "contestant_names": "Melo/Zverev, (1.8) VERSES Reyes-Varela/Borges, (1.95)",
-        "start_time_aest": "2026-02-27T15:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "tournamentName": "ATP Acapulco Doubles",
-        "contestants": [
-            {
-                "full_name": "Melo/Zverev",
-                "position": "HOME",
-                "short_name": "Melo/Zverev"
-            },
-            {
-                "full_name": "Reyes-Varela/Borges",
-                "position": "AWAY",
-                "short_name": "Reyes-Varela/Borges"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Melo/Zverev",
-                "returnWin": 1.8
-            },
-            {
-                "name": "Reyes-Varela/Borges",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Melo/Zverev v Reyes-Varela/Borges",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-27T04:00:00.000Z"
+        "start_time": "2026-02-27T04:30:00.000Z"
     },
     {
         "contestant_names": "Thasaporn Naklo, (2.3) VERSES Polina Kuharenko, (1.55)",
@@ -220,5 +94,37 @@
         "match_name": "Burdina v Sedysheva",
         "betOption": "Head To Head",
         "start_time": "2026-02-27T05:30:00.000Z"
+    },
+    {
+        "contestant_names": "Aurora Zantedeschi, (2.15) VERSES Georgia Pedone, (1.62)",
+        "start_time_aest": "2026-02-27T18:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Antalya",
+        "contestants": [
+            {
+                "full_name": "Aurora Zantedeschi",
+                "position": "HOME",
+                "short_name": "Zantedeschi"
+            },
+            {
+                "full_name": "Georgia Pedone",
+                "position": "AWAY",
+                "short_name": "Pedone G"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Aurora Zantedeschi",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Georgia Pedone",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Zantedeschi v Pedone G",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-27T07:00:00.000Z"
     }
 ]
