@@ -1,97 +1,128 @@
 [
     {
-        "contestant_names": "Wst Bulldogs, (1.74) VERSES Hawthorn, (2.1)",
-        "start_time_aest": "2026-02-27T19:10:00+11:00",
-        "sport_name": "AFL Football",
-        "competition_name": "AFL Pre Season",
+        "contestant_names": "Reds, (1.58) VERSES Highlanders, (2.4)",
+        "start_time_aest": "2026-02-27T19:35:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "Super Rugby Pacific",
         "contestants": [
             {
-                "full_name": "Wst Bulldogs",
+                "full_name": "Reds",
                 "position": "HOME",
-                "short_name": "Wst Bulldogs"
+                "short_name": "Reds"
             },
             {
-                "full_name": "Hawthorn",
+                "full_name": "Highlanders",
                 "position": "AWAY",
-                "short_name": "Hawthorn"
+                "short_name": "Highlanders"
             }
         ],
         "propositions": [
             {
-                "name": "Wst Bulldogs",
-                "returnWin": 1.74
+                "name": "Reds",
+                "returnWin": 1.58
             },
             {
-                "name": "Hawthorn",
-                "returnWin": 2.1
+                "name": "Highlanders",
+                "returnWin": 2.4
             }
         ],
-        "match_name": "Wst Bulldogs v Hawthorn",
+        "match_name": "Reds v Highlanders",
         "betOption": "Head To Head",
-        "start_time": "2026-02-27T08:10:00.000Z"
+        "start_time": "2026-02-27T08:35:00.000Z"
     },
     {
-        "contestant_names": "Felix Gill, (2.5) VERSES Maks Kasnikowski, (1.46)",
-        "start_time_aest": "2026-02-27T19:30:00+11:00",
+        "contestant_names": "Eliska Tichackova, (1.75) VERSES Dayeon Back, (1.95)",
+        "start_time_aest": "2026-02-27T20:00:00+11:00",
         "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Pune",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Monastir",
         "contestants": [
             {
-                "full_name": "Felix Gill",
+                "full_name": "Eliska Tichackova",
                 "position": "HOME",
-                "short_name": "Gill F"
+                "short_name": "Tichackova"
             },
             {
-                "full_name": "Maks Kasnikowski",
+                "full_name": "Dayeon Back",
                 "position": "AWAY",
-                "short_name": "Kasnikowski"
+                "short_name": "Back D"
             }
         ],
         "propositions": [
             {
-                "name": "Felix Gill",
+                "name": "Eliska Tichackova",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Dayeon Back",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Tichackova v Back D",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-27T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Veronika Erjavec, (1.58) VERSES Nuria Brancaccio, (2.25)",
+        "start_time_aest": "2026-02-27T20:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Tour",
+        "tournamentName": "WTA 125 Antalya",
+        "contestants": [
+            {
+                "full_name": "Veronika Erjavec",
+                "position": "HOME",
+                "short_name": "Erjavec"
+            },
+            {
+                "full_name": "Nuria Brancaccio",
+                "position": "AWAY",
+                "short_name": "Brancaccio N"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Veronika Erjavec",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Nuria Brancaccio",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Erjavec v Brancaccio N",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-27T09:30:00.000Z"
+    },
+    {
+        "contestant_names": "Samsung Blue Min, (1.45) VERSES Shinhan Bank S-b, (2.5)",
+        "start_time_aest": "2026-02-27T21:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "South Korea KBL Women",
+        "contestants": [
+            {
+                "full_name": "Samsung Blue Min",
+                "position": "HOME",
+                "short_name": "Samsung Blue Min"
+            },
+            {
+                "full_name": "Shinhan Bank S-b",
+                "position": "AWAY",
+                "short_name": "Shinhan Bank S-b"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Samsung Blue Min",
+                "returnWin": 1.45
+            },
+            {
+                "name": "Shinhan Bank S-b",
                 "returnWin": 2.5
-            },
-            {
-                "name": "Maks Kasnikowski",
-                "returnWin": 1.46
             }
         ],
-        "match_name": "Gill F v Kasnikowski",
+        "match_name": "Samsung Blue Min v Shinhan Bank S-b",
         "betOption": "Head To Head",
-        "start_time": "2026-02-27T08:30:00.000Z"
-    },
-    {
-        "contestant_names": "Parisca Ignacio, (2.15) VERSES Andrey Chepelev, (1.62)",
-        "start_time_aest": "2026-02-27T19:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "tournamentName": "ITFM Antalya",
-        "contestants": [
-            {
-                "full_name": "Parisca Ignacio",
-                "position": "HOME",
-                "short_name": "Ignacio"
-            },
-            {
-                "full_name": "Andrey Chepelev",
-                "position": "AWAY",
-                "short_name": "Chepelev A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Parisca Ignacio",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Andrey Chepelev",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Ignacio v Chepelev A",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-27T08:30:00.000Z"
+        "start_time": "2026-02-27T10:00:00.000Z"
     }
 ]
