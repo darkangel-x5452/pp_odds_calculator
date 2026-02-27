@@ -1,68 +1,5 @@
 [
     {
-        "contestant_names": "San Jose, (1.75) VERSES Calgary, (2.05)",
-        "start_time_aest": "2026-02-27T14:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "San Jose",
-                "position": "HOME",
-                "short_name": "San Jose"
-            },
-            {
-                "full_name": "Calgary",
-                "position": "AWAY",
-                "short_name": "Calgary"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "San Jose",
-                "returnWin": 1.75
-            },
-            {
-                "name": "Calgary",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "San Jose v Calgary",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-27T03:05:00.000Z"
-    },
-    {
-        "contestant_names": "Mendez/Jodar, (2.3) VERSES Dimitrov/Cobolli, (1.58)",
-        "start_time_aest": "2026-02-27T14:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "tournamentName": "ATP Acapulco Doubles",
-        "contestants": [
-            {
-                "full_name": "Mendez/Jodar",
-                "position": "HOME",
-                "short_name": "Mendez/Jodar"
-            },
-            {
-                "full_name": "Dimitrov/Cobolli",
-                "position": "AWAY",
-                "short_name": "Dimitrov/Cobolli"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Mendez/Jodar",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Dimitrov/Cobolli",
-                "returnWin": 1.58
-            }
-        ],
-        "match_name": "Mendez/Jodar v Dimitrov/Cobolli",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-27T03:15:00.000Z"
-    },
-    {
         "contestant_names": "Los Angeles, (1.95) VERSES Edmonton, (1.85)",
         "start_time_aest": "2026-02-27T14:35:00+11:00",
         "sport_name": "Ice Hockey",
@@ -92,6 +29,69 @@
         "match_name": "Los Angeles v Edmonton",
         "betOption": "Head To Head",
         "start_time": "2026-02-27T03:35:00.000Z"
+    },
+    {
+        "contestant_names": "Los Angeles, (2) VERSES Edmonton, (1.8)",
+        "start_time_aest": "2026-02-27T14:38:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Los Angeles",
+                "position": "HOME",
+                "short_name": "Los Angeles"
+            },
+            {
+                "full_name": "Edmonton",
+                "position": "AWAY",
+                "short_name": "Edmonton"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Los Angeles",
+                "returnWin": 2
+            },
+            {
+                "name": "Edmonton",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Los Angeles v Edmonton",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-27T03:38:00.000Z"
+    },
+    {
+        "contestant_names": "Melo/Zverev, (1.8) VERSES Reyes-Varela/Borges, (1.95)",
+        "start_time_aest": "2026-02-27T14:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP Doubles",
+        "tournamentName": "ATP Acapulco Doubles",
+        "contestants": [
+            {
+                "full_name": "Melo/Zverev",
+                "position": "HOME",
+                "short_name": "Melo/Zverev"
+            },
+            {
+                "full_name": "Reyes-Varela/Borges",
+                "position": "AWAY",
+                "short_name": "Reyes-Varela/Borges"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Melo/Zverev",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Reyes-Varela/Borges",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Melo/Zverev v Reyes-Varela/Borges",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-27T03:45:00.000Z"
     },
     {
         "contestant_names": "Valentin Vacherot, (2) VERSES Brandon Nakashima, (1.8)",
