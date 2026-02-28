@@ -29,5 +29,36 @@
         "match_name": "Philadelphia v Boston",
         "betOption": "Head To Head",
         "start_time": "2026-02-28T20:05:00.000Z"
+    },
+    {
+        "contestant_names": "Philadelphia, (1.85) VERSES Boston, (1.95)",
+        "start_time_aest": "2026-03-01T07:09:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Philadelphia",
+                "position": "HOME",
+                "short_name": "Philadelphia"
+            },
+            {
+                "full_name": "Boston",
+                "position": "AWAY",
+                "short_name": "Boston"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Philadelphia",
+                "returnWin": 1.85
+            },
+            {
+                "name": "Boston",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Philadelphia v Boston",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T20:09:00.000Z"
     }
 ]
