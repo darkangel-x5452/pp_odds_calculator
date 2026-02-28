@@ -60,5 +60,37 @@
         "match_name": "Toray Arrows v Osaka Blazers",
         "betOption": "Head To Head",
         "start_time": "2026-02-28T05:05:00.000Z"
+    },
+    {
+        "contestant_names": "Zeel Desai, (1.75) VERSES Ekaterina Yashina, (1.95)",
+        "start_time_aest": "2026-02-28T16:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Gurugram",
+        "contestants": [
+            {
+                "full_name": "Zeel Desai",
+                "position": "HOME",
+                "short_name": "Desai"
+            },
+            {
+                "full_name": "Ekaterina Yashina",
+                "position": "AWAY",
+                "short_name": "Yashina"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Zeel Desai",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Ekaterina Yashina",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Desai v Yashina",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T05:30:00.000Z"
     }
 ]
