@@ -1,38 +1,39 @@
 [
     {
-        "contestant_names": "Utah, (1.68) VERSES Minnesota, (2.15)",
-        "start_time_aest": "2026-02-28T13:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
+        "contestant_names": "Piter/Tjen, (2.2) VERSES Bucsa/Jiang, (1.62)",
+        "start_time_aest": "2026-02-28T13:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA Doubles",
+        "tournamentName": "WTA Merida Doubles",
         "contestants": [
             {
-                "full_name": "Utah",
+                "full_name": "Piter/Tjen",
                 "position": "HOME",
-                "short_name": "Utah"
+                "short_name": "Piter/Tjen"
             },
             {
-                "full_name": "Minnesota",
+                "full_name": "Bucsa/Jiang",
                 "position": "AWAY",
-                "short_name": "Minnesota"
+                "short_name": "Bucsa/Jiang"
             }
         ],
         "propositions": [
             {
-                "name": "Utah",
-                "returnWin": 1.68
+                "name": "Piter/Tjen",
+                "returnWin": 2.2
             },
             {
-                "name": "Minnesota",
-                "returnWin": 2.15
+                "name": "Bucsa/Jiang",
+                "returnWin": 1.62
             }
         ],
-        "match_name": "Utah v Minnesota",
+        "match_name": "Piter/Tjen v Bucsa/Jiang",
         "betOption": "Head To Head",
-        "start_time": "2026-02-28T02:05:00.000Z"
+        "start_time": "2026-02-28T02:45:00.000Z"
     },
     {
         "contestant_names": "Yue Yuan, (2.05) VERSES Ashlyn Krueger, (1.75)",
-        "start_time_aest": "2026-02-28T13:30:00+11:00",
+        "start_time_aest": "2026-02-28T14:00:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA",
         "tournamentName": "WTA Austin",
@@ -60,11 +61,11 @@
         ],
         "match_name": "Yuan Y v Krueger A",
         "betOption": "Head To Head",
-        "start_time": "2026-02-28T02:30:00.000Z"
+        "start_time": "2026-02-28T03:00:00.000Z"
     },
     {
         "contestant_names": "Jasmine Paolini, (1.52) VERSES Katie Boulter, (2.4)",
-        "start_time_aest": "2026-02-28T13:30:00+11:00",
+        "start_time_aest": "2026-02-28T14:00:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA",
         "tournamentName": "WTA Merida",
@@ -92,7 +93,7 @@
         ],
         "match_name": "Paolini v Boulter K",
         "betOption": "Head To Head",
-        "start_time": "2026-02-28T02:30:00.000Z"
+        "start_time": "2026-02-28T03:00:00.000Z"
     },
     {
         "contestant_names": "Anaheim, (1.7) VERSES Winnipeg, (2.1)",
@@ -124,5 +125,36 @@
         "match_name": "Anaheim v Winnipeg",
         "betOption": "Head To Head",
         "start_time": "2026-02-28T03:05:00.000Z"
+    },
+    {
+        "contestant_names": "Zonkeys De Tijua, (1.66) VERSES Astros, (2.05)",
+        "start_time_aest": "2026-02-28T14:45:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Mexico CIBACOPA",
+        "contestants": [
+            {
+                "full_name": "Zonkeys De Tijua",
+                "position": "HOME",
+                "short_name": "Zonkeys De Tijua"
+            },
+            {
+                "full_name": "Astros",
+                "position": "AWAY",
+                "short_name": "Astros"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Zonkeys De Tijua",
+                "returnWin": 1.66
+            },
+            {
+                "name": "Astros",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Zonkeys De Tijua v Astros",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T03:45:00.000Z"
     }
 ]
