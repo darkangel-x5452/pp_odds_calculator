@@ -1,1 +1,65 @@
-[]
+[
+    {
+        "contestant_names": "Pioneros LMochis, (1.72) VERSES Venados Mazatlan, (1.97)",
+        "start_time_aest": "2026-02-28T14:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Mexico CIBACOPA",
+        "contestants": [
+            {
+                "full_name": "Pioneros LMochis",
+                "position": "HOME",
+                "short_name": "Pioneros LMochis"
+            },
+            {
+                "full_name": "Venados Mazatlan",
+                "position": "AWAY",
+                "short_name": "Venados Mazatlan"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Pioneros LMochis",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Venados Mazatlan",
+                "returnWin": 1.97
+            }
+        ],
+        "match_name": "Pioneros LMochis v Venados Mazatlan",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Frances Tiafoe, (1.9) VERSES Brandon Nakashima, (1.9)",
+        "start_time_aest": "2026-02-28T14:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "tournamentName": "ATP Acapulco",
+        "contestants": [
+            {
+                "full_name": "Frances Tiafoe",
+                "position": "HOME",
+                "short_name": "Tiafoe"
+            },
+            {
+                "full_name": "Brandon Nakashima",
+                "position": "AWAY",
+                "short_name": "Nakashima B"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Frances Tiafoe",
+                "returnWin": 1.9
+            },
+            {
+                "name": "Brandon Nakashima",
+                "returnWin": 1.9
+            }
+        ],
+        "match_name": "Tiafoe v Nakashima B",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T03:00:00.000Z"
+    }
+]
