@@ -1,68 +1,5 @@
 [
     {
-        "contestant_names": "Anaheim, (1.7) VERSES Winnipeg, (2.1)",
-        "start_time_aest": "2026-02-28T14:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Anaheim",
-                "position": "HOME",
-                "short_name": "Anaheim"
-            },
-            {
-                "full_name": "Winnipeg",
-                "position": "AWAY",
-                "short_name": "Winnipeg"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Anaheim",
-                "returnWin": 1.7
-            },
-            {
-                "name": "Winnipeg",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Anaheim v Winnipeg",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-28T03:05:00.000Z"
-    },
-    {
-        "contestant_names": "Jasmine Paolini, (1.52) VERSES Katie Boulter, (2.4)",
-        "start_time_aest": "2026-02-28T14:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "tournamentName": "WTA Merida",
-        "contestants": [
-            {
-                "full_name": "Jasmine Paolini",
-                "position": "HOME",
-                "short_name": "Paolini"
-            },
-            {
-                "full_name": "Katie Boulter",
-                "position": "AWAY",
-                "short_name": "Boulter K"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jasmine Paolini",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Katie Boulter",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Paolini v Boulter K",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-28T03:30:00.000Z"
-    },
-    {
         "contestant_names": "Zonkeys De Tijua, (1.66) VERSES Astros, (2.05)",
         "start_time_aest": "2026-02-28T14:45:00+11:00",
         "sport_name": "Basketball",
@@ -92,5 +29,37 @@
         "match_name": "Zonkeys De Tijua v Astros",
         "betOption": "Head To Head",
         "start_time": "2026-02-28T03:45:00.000Z"
+    },
+    {
+        "contestant_names": "Shidong Lin, (1.5) VERSES Felix Lebrun, (2.4)",
+        "start_time_aest": "2026-02-28T15:45:00+11:00",
+        "sport_name": "Table Tennis",
+        "competition_name": "WTT Grand Smash",
+        "tournamentName": "WTT Singapore Smash Mens Singles",
+        "contestants": [
+            {
+                "full_name": "Shidong Lin",
+                "position": "HOME",
+                "short_name": "Shidong Lin"
+            },
+            {
+                "full_name": "Felix Lebrun",
+                "position": "AWAY",
+                "short_name": "Felix Lebrun"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Shidong Lin",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Felix Lebrun",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Shidong Lin v Felix Lebrun",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T04:45:00.000Z"
     }
 ]
