@@ -1,127 +1,312 @@
 [
     {
-        "contestant_names": "NorthernIllinois, (1.8) VERSES Ball State, (2)",
-        "start_time_aest": "2026-03-01T08:45:00+11:00",
+        "contestant_names": "Western Carolina, (2) VERSES Furman, (1.8)",
+        "start_time_aest": "2026-03-01T09:30:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "NorthernIllinois",
+                "full_name": "Western Carolina",
                 "position": "HOME",
-                "short_name": "NorthernIllinois"
+                "short_name": "Western Carolina"
             },
             {
-                "full_name": "Ball State",
+                "full_name": "Furman",
                 "position": "AWAY",
-                "short_name": "Ball State"
+                "short_name": "Furman"
             }
         ],
         "propositions": [
             {
-                "name": "NorthernIllinois",
-                "returnWin": 1.8
-            },
-            {
-                "name": "Ball State",
+                "name": "Western Carolina",
                 "returnWin": 2
-            }
-        ],
-        "match_name": "NorthernIllinois v Ball State",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-28T21:45:00.000Z"
-    },
-    {
-        "contestant_names": "Alabama AM, (1.67) VERSES Alabama State, (2.2)",
-        "start_time_aest": "2026-03-01T09:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Alabama AM",
-                "position": "HOME",
-                "short_name": "Alabama AM"
             },
             {
-                "full_name": "Alabama State",
-                "position": "AWAY",
-                "short_name": "Alabama State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Alabama AM",
-                "returnWin": 1.67
-            },
-            {
-                "name": "Alabama State",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Alabama AM v Alabama State",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-28T22:00:00.000Z"
-    },
-    {
-        "contestant_names": "Incarnate Word, (1.8) VERSES Lamar, (2)",
-        "start_time_aest": "2026-03-01T09:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Incarnate Word",
-                "position": "HOME",
-                "short_name": "Incarnate Word"
-            },
-            {
-                "full_name": "Lamar",
-                "position": "AWAY",
-                "short_name": "Lamar"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Incarnate Word",
+                "name": "Furman",
                 "returnWin": 1.8
-            },
-            {
-                "name": "Lamar",
-                "returnWin": 2
             }
         ],
-        "match_name": "Incarnate Word v Lamar",
+        "match_name": "Western Carolina v Furman",
         "betOption": "Head To Head",
-        "start_time": "2026-02-28T22:00:00.000Z"
+        "start_time": "2026-02-28T22:30:00.000Z"
     },
     {
-        "contestant_names": "Tang/Xu, (1.68) VERSES Haverlag/Lumsden, (2.1)",
-        "start_time_aest": "2026-03-01T09:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA Doubles",
-        "tournamentName": "WTA Merida Doubles",
+        "contestant_names": "West Virginia, (2.15) VERSES BYU, (1.7)",
+        "start_time_aest": "2026-03-01T09:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Tang/Xu",
+                "full_name": "West Virginia",
                 "position": "HOME",
-                "short_name": "Tang/Xu"
+                "short_name": "West Virginia"
             },
             {
-                "full_name": "Haverlag/Lumsden",
+                "full_name": "BYU",
                 "position": "AWAY",
-                "short_name": "Haverlag/Lumsden"
+                "short_name": "BYU"
             }
         ],
         "propositions": [
             {
-                "name": "Tang/Xu",
-                "returnWin": 1.68
+                "name": "West Virginia",
+                "returnWin": 2.15
             },
             {
-                "name": "Haverlag/Lumsden",
+                "name": "BYU",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "West Virginia v BYU",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T22:30:00.000Z"
+    },
+    {
+        "contestant_names": "Creighton, (1.55) VERSES Providence, (2.45)",
+        "start_time_aest": "2026-03-01T09:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Creighton",
+                "position": "HOME",
+                "short_name": "Creighton"
+            },
+            {
+                "full_name": "Providence",
+                "position": "AWAY",
+                "short_name": "Providence"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Creighton",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Providence",
+                "returnWin": 2.45
+            }
+        ],
+        "match_name": "Creighton v Providence",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T22:30:00.000Z"
+    },
+    {
+        "contestant_names": "Wake Forest, (1.55) VERSES Syracuse, (2.45)",
+        "start_time_aest": "2026-03-01T09:45:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Wake Forest",
+                "position": "HOME",
+                "short_name": "Wake Forest"
+            },
+            {
+                "full_name": "Syracuse",
+                "position": "AWAY",
+                "short_name": "Syracuse"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Wake Forest",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Syracuse",
+                "returnWin": 2.45
+            }
+        ],
+        "match_name": "Wake Forest v Syracuse",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T22:45:00.000Z"
+    },
+    {
+        "contestant_names": "LSU, (1.74) VERSES Oklahoma, (2.1)",
+        "start_time_aest": "2026-03-01T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "LSU",
+                "position": "HOME",
+                "short_name": "LSU"
+            },
+            {
+                "full_name": "Oklahoma",
+                "position": "AWAY",
+                "short_name": "Oklahoma"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "LSU",
+                "returnWin": 1.74
+            },
+            {
+                "name": "Oklahoma",
                 "returnWin": 2.1
             }
         ],
-        "match_name": "Tang/Xu v Haverlag/Lumsden",
+        "match_name": "LSU v Oklahoma",
         "betOption": "Head To Head",
-        "start_time": "2026-02-28T22:00:00.000Z"
+        "start_time": "2026-02-28T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Pennsylvania, (1.77) VERSES Harvard, (2.05)",
+        "start_time_aest": "2026-03-01T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Pennsylvania",
+                "position": "HOME",
+                "short_name": "Pennsylvania"
+            },
+            {
+                "full_name": "Harvard",
+                "position": "AWAY",
+                "short_name": "Harvard"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Pennsylvania",
+                "returnWin": 1.77
+            },
+            {
+                "name": "Harvard",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Pennsylvania v Harvard",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Princeton, (1.7) VERSES Dartmouth, (2.15)",
+        "start_time_aest": "2026-03-01T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Princeton",
+                "position": "HOME",
+                "short_name": "Princeton"
+            },
+            {
+                "full_name": "Dartmouth",
+                "position": "AWAY",
+                "short_name": "Dartmouth"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Princeton",
+                "returnWin": 1.7
+            },
+            {
+                "name": "Dartmouth",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Princeton v Dartmouth",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Pacific, (1.55) VERSES San Francisco, (2.45)",
+        "start_time_aest": "2026-03-01T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Pacific",
+                "position": "HOME",
+                "short_name": "Pacific"
+            },
+            {
+                "full_name": "San Francisco",
+                "position": "AWAY",
+                "short_name": "San Francisco"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Pacific",
+                "returnWin": 1.55
+            },
+            {
+                "name": "San Francisco",
+                "returnWin": 2.45
+            }
+        ],
+        "match_name": "Pacific v San Francisco",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "North Florida, (2.05) VERSES Jacksonville, (1.77)",
+        "start_time_aest": "2026-03-01T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "North Florida",
+                "position": "HOME",
+                "short_name": "North Florida"
+            },
+            {
+                "full_name": "Jacksonville",
+                "position": "AWAY",
+                "short_name": "Jacksonville"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "North Florida",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Jacksonville",
+                "returnWin": 1.77
+            }
+        ],
+        "match_name": "North Florida v Jacksonville",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Idaho State, (1.67) VERSES Weber State, (2.2)",
+        "start_time_aest": "2026-03-01T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Idaho State",
+                "position": "HOME",
+                "short_name": "Idaho State"
+            },
+            {
+                "full_name": "Weber State",
+                "position": "AWAY",
+                "short_name": "Weber State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Idaho State",
+                "returnWin": 1.67
+            },
+            {
+                "name": "Weber State",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Idaho State v Weber State",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T23:00:00.000Z"
     }
 ]
