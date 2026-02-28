@@ -1,99 +1,5 @@
 [
     {
-        "contestant_names": "Kagoshima Rebnis, (1.52) VERSES Iwate, (2.3)",
-        "start_time_aest": "2026-02-28T17:05:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Japan B League 2",
-        "contestants": [
-            {
-                "full_name": "Kagoshima Rebnis",
-                "position": "HOME",
-                "short_name": "Kagoshima Rebnis"
-            },
-            {
-                "full_name": "Iwate",
-                "position": "AWAY",
-                "short_name": "Iwate"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Kagoshima Rebnis",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Iwate",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Kagoshima Rebnis v Iwate",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-28T06:05:00.000Z"
-    },
-    {
-        "contestant_names": "Fukui Blowinds, (1.62) VERSES Ehime Orange, (2.1)",
-        "start_time_aest": "2026-02-28T17:05:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Japan B League 2",
-        "contestants": [
-            {
-                "full_name": "Fukui Blowinds",
-                "position": "HOME",
-                "short_name": "Fukui Blowinds"
-            },
-            {
-                "full_name": "Ehime Orange",
-                "position": "AWAY",
-                "short_name": "Ehime Orange"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Fukui Blowinds",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Ehime Orange",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Fukui Blowinds v Ehime Orange",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-28T06:05:00.000Z"
-    },
-    {
-        "contestant_names": "Li YJ/Wang YD, (2.4) VERSES Pratiwi A C/Ramadhanti S F S, (1.5)",
-        "start_time_aest": "2026-02-28T17:15:00+11:00",
-        "sport_name": "Badminton",
-        "competition_name": "Badminton World Tour Doubles",
-        "tournamentName": "German Open Womens Doubles",
-        "contestants": [
-            {
-                "full_name": "Li YJ/Wang YD",
-                "position": "HOME",
-                "short_name": "Li YJ/Wang YD"
-            },
-            {
-                "full_name": "Pratiwi A C/Ramadhanti S F S",
-                "position": "AWAY",
-                "short_name": "Prtiwi/Rmadhanti"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Li YJ/Wang YD",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Pratiwi A C/Ramadhanti S F S",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Li YJ/Wang YD v Prtiwi/Rmadhanti",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-28T06:15:00.000Z"
-    },
-    {
         "contestant_names": "Andrey Chepelev, (1.62) VERSES Juan Cruz Martin Manzano, (2.15)",
         "start_time_aest": "2026-02-28T18:00:00+11:00",
         "sport_name": "Tennis",
@@ -219,5 +125,37 @@
         "match_name": "Fremantle v Adelaide",
         "betOption": "Head To Head",
         "start_time": "2026-02-28T07:10:00.000Z"
+    },
+    {
+        "contestant_names": "Yu Jen Chi, (1.65) VERSES Toma Junior Popov, (2.1)",
+        "start_time_aest": "2026-02-28T18:30:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour",
+        "tournamentName": "German Open Mens Singles",
+        "contestants": [
+            {
+                "full_name": "Yu Jen Chi",
+                "position": "HOME",
+                "short_name": "Chi YJ"
+            },
+            {
+                "full_name": "Toma Junior Popov",
+                "position": "AWAY",
+                "short_name": "Popov T"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Yu Jen Chi",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Toma Junior Popov",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Chi YJ v Popov T",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T07:30:00.000Z"
     }
 ]
