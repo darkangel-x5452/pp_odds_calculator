@@ -1,96 +1,34 @@
 [
     {
-        "contestant_names": "San Jose, (2.3) VERSES Edmonton, (1.6)",
-        "start_time_aest": "2026-03-01T08:09:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "San Jose",
-                "position": "HOME",
-                "short_name": "San Jose"
-            },
-            {
-                "full_name": "Edmonton",
-                "position": "AWAY",
-                "short_name": "Edmonton"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "San Jose",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Edmonton",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "San Jose v Edmonton",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-28T21:09:00.000Z"
-    },
-    {
-        "contestant_names": "Delaware State, (2.25) VERSES NC Central, (1.65)",
-        "start_time_aest": "2026-03-01T08:30:00+11:00",
+        "contestant_names": "NorthernIllinois, (1.8) VERSES Ball State, (2)",
+        "start_time_aest": "2026-03-01T08:45:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Delaware State",
+                "full_name": "NorthernIllinois",
                 "position": "HOME",
-                "short_name": "Delaware State"
+                "short_name": "NorthernIllinois"
             },
             {
-                "full_name": "NC Central",
+                "full_name": "Ball State",
                 "position": "AWAY",
-                "short_name": "NC Central"
+                "short_name": "Ball State"
             }
         ],
         "propositions": [
             {
-                "name": "Delaware State",
-                "returnWin": 2.25
+                "name": "NorthernIllinois",
+                "returnWin": 1.8
             },
             {
-                "name": "NC Central",
-                "returnWin": 1.65
+                "name": "Ball State",
+                "returnWin": 2
             }
         ],
-        "match_name": "Delaware State v NC Central",
+        "match_name": "NorthernIllinois v Ball State",
         "betOption": "Head To Head",
-        "start_time": "2026-02-28T21:30:00.000Z"
-    },
-    {
-        "contestant_names": "Mercer, (1.77) VERSES East Tenn State, (2.05)",
-        "start_time_aest": "2026-03-01T08:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Mercer",
-                "position": "HOME",
-                "short_name": "Mercer"
-            },
-            {
-                "full_name": "East Tenn State",
-                "position": "AWAY",
-                "short_name": "East Tenn State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Mercer",
-                "returnWin": 1.77
-            },
-            {
-                "name": "East Tenn State",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Mercer v East Tenn State",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-28T21:30:00.000Z"
+        "start_time": "2026-02-28T21:45:00.000Z"
     },
     {
         "contestant_names": "Alabama AM, (1.67) VERSES Alabama State, (2.2)",
@@ -120,6 +58,69 @@
             }
         ],
         "match_name": "Alabama AM v Alabama State",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T22:00:00.000Z"
+    },
+    {
+        "contestant_names": "Incarnate Word, (1.8) VERSES Lamar, (2)",
+        "start_time_aest": "2026-03-01T09:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Incarnate Word",
+                "position": "HOME",
+                "short_name": "Incarnate Word"
+            },
+            {
+                "full_name": "Lamar",
+                "position": "AWAY",
+                "short_name": "Lamar"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Incarnate Word",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Lamar",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Incarnate Word v Lamar",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T22:00:00.000Z"
+    },
+    {
+        "contestant_names": "Tang/Xu, (1.68) VERSES Haverlag/Lumsden, (2.1)",
+        "start_time_aest": "2026-03-01T09:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA Doubles",
+        "tournamentName": "WTA Merida Doubles",
+        "contestants": [
+            {
+                "full_name": "Tang/Xu",
+                "position": "HOME",
+                "short_name": "Tang/Xu"
+            },
+            {
+                "full_name": "Haverlag/Lumsden",
+                "position": "AWAY",
+                "short_name": "Haverlag/Lumsden"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tang/Xu",
+                "returnWin": 1.68
+            },
+            {
+                "name": "Haverlag/Lumsden",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Tang/Xu v Haverlag/Lumsden",
         "betOption": "Head To Head",
         "start_time": "2026-02-28T22:00:00.000Z"
     }
