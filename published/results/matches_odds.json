@@ -1,33 +1,188 @@
 [
     {
-        "contestant_names": "Dragons, (1.62) VERSES Benetton, (2.1)",
-        "start_time_aest": "2026-03-01T04:30:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "United Rugby Championship",
+        "contestant_names": "NY Rangers, (2) VERSES Pittsburgh, (1.8)",
+        "start_time_aest": "2026-03-01T04:35:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "Dragons",
+                "full_name": "NY Rangers",
                 "position": "HOME",
-                "short_name": "Dragons"
+                "short_name": "NY Rangers"
             },
             {
-                "full_name": "Benetton",
+                "full_name": "Pittsburgh",
                 "position": "AWAY",
-                "short_name": "Benetton"
+                "short_name": "Pittsburgh"
             }
         ],
         "propositions": [
             {
-                "name": "Dragons",
-                "returnWin": 1.62
+                "name": "NY Rangers",
+                "returnWin": 2
             },
             {
-                "name": "Benetton",
-                "returnWin": 2.1
+                "name": "Pittsburgh",
+                "returnWin": 1.8
             }
         ],
-        "match_name": "Dragons v Benetton",
+        "match_name": "NY Rangers v Pittsburgh",
         "betOption": "Head To Head",
-        "start_time": "2026-02-28T17:30:00.000Z"
+        "start_time": "2026-02-28T17:35:00.000Z"
+    },
+    {
+        "contestant_names": "Lafayette, (1.53) VERSES Army, (2.5)",
+        "start_time_aest": "2026-03-01T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Lafayette",
+                "position": "HOME",
+                "short_name": "Lafayette"
+            },
+            {
+                "full_name": "Army",
+                "position": "AWAY",
+                "short_name": "Army"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lafayette",
+                "returnWin": 1.53
+            },
+            {
+                "name": "Army",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Lafayette v Army",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Mississippi St, (2) VERSES Missouri, (1.8)",
+        "start_time_aest": "2026-03-01T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Mississippi St",
+                "position": "HOME",
+                "short_name": "Mississippi St"
+            },
+            {
+                "full_name": "Missouri",
+                "position": "AWAY",
+                "short_name": "Missouri"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mississippi St",
+                "returnWin": 2
+            },
+            {
+                "name": "Missouri",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Mississippi St v Missouri",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "UMass-Lowell, (2.2) VERSES UMBC, (1.67)",
+        "start_time_aest": "2026-03-01T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "UMass-Lowell",
+                "position": "HOME",
+                "short_name": "UMass-Lowell"
+            },
+            {
+                "full_name": "UMBC",
+                "position": "AWAY",
+                "short_name": "UMBC"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "UMass-Lowell",
+                "returnWin": 2.2
+            },
+            {
+                "name": "UMBC",
+                "returnWin": 1.67
+            }
+        ],
+        "match_name": "UMass-Lowell v UMBC",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Araski AES, (2.2) VERSES Leganes, (1.57)",
+        "start_time_aest": "2026-03-01T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Spain Liga Women",
+        "contestants": [
+            {
+                "full_name": "Araski AES",
+                "position": "HOME",
+                "short_name": "Araski AES"
+            },
+            {
+                "full_name": "Leganes",
+                "position": "AWAY",
+                "short_name": "Leganes"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Araski AES",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Leganes",
+                "returnWin": 1.57
+            }
+        ],
+        "match_name": "Araski AES v Leganes",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Catalans, (2.2) VERSES St Helens, (1.62)",
+        "start_time_aest": "2026-03-01T05:00:00+11:00",
+        "sport_name": "Rugby League",
+        "competition_name": "Super League",
+        "contestants": [
+            {
+                "full_name": "Catalans",
+                "position": "HOME",
+                "short_name": "Catalans"
+            },
+            {
+                "full_name": "St Helens",
+                "position": "AWAY",
+                "short_name": "St Helens"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Catalans",
+                "returnWin": 2.2
+            },
+            {
+                "name": "St Helens",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Catalans v St Helens",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T18:00:00.000Z"
     }
 ]
