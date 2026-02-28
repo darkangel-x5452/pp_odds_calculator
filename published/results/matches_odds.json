@@ -1,101 +1,5 @@
 [
     {
-        "contestant_names": "Chen B Y/Liu Y, (2.4) VERSES Liang W K/Wang C, (1.5)",
-        "start_time_aest": "2026-02-28T20:30:00+11:00",
-        "sport_name": "Badminton",
-        "competition_name": "Badminton World Tour Doubles",
-        "tournamentName": "German Open Mens Doubles",
-        "contestants": [
-            {
-                "full_name": "Chen B Y/Liu Y",
-                "position": "HOME",
-                "short_name": "Chen B Y/Liu Y"
-            },
-            {
-                "full_name": "Liang W K/Wang C",
-                "position": "AWAY",
-                "short_name": "Liang W K/Wang C"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Chen B Y/Liu Y",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Liang W K/Wang C",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Chen B Y/Liu Y v Liang W K/Wang C",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-28T09:30:00.000Z"
-    },
-    {
-        "contestant_names": "Xingtong Chen, (1.6) VERSES Yi Chen, (2.2)",
-        "start_time_aest": "2026-02-28T20:30:00+11:00",
-        "sport_name": "Table Tennis",
-        "competition_name": "WTT Grand Smash",
-        "tournamentName": "WTT Singapore Smash Womens Singles",
-        "contestants": [
-            {
-                "full_name": "Xingtong Chen",
-                "position": "HOME",
-                "short_name": "Chen Xingtong"
-            },
-            {
-                "full_name": "Yi Chen",
-                "position": "AWAY",
-                "short_name": "Yi Chen"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Xingtong Chen",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Yi Chen",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Chen Xingtong v Yi Chen",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-28T09:30:00.000Z"
-    },
-    {
-        "contestant_names": "Sander Jong, (1.58) VERSES Alejandro Juan Mano, (2.25)",
-        "start_time_aest": "2026-02-28T20:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "tournamentName": "ITFM Villena",
-        "contestants": [
-            {
-                "full_name": "Sander Jong",
-                "position": "HOME",
-                "short_name": "Jong"
-            },
-            {
-                "full_name": "Alejandro Juan Mano",
-                "position": "AWAY",
-                "short_name": "Mano"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sander Jong",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Alejandro Juan Mano",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Jong v Mano",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-28T09:30:00.000Z"
-    },
-    {
         "contestant_names": "Olle Wallin, (2.1) VERSES Mae Malige, (1.65)",
         "start_time_aest": "2026-02-28T21:00:00+11:00",
         "sport_name": "Tennis",
@@ -156,6 +60,38 @@
             }
         ],
         "match_name": "Malygina E v Samson L",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Stephanie Judith Visscher, (2.5) VERSES Julia Stusek, (1.46)",
+        "start_time_aest": "2026-02-28T21:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Leimen",
+        "contestants": [
+            {
+                "full_name": "Stephanie Judith Visscher",
+                "position": "HOME",
+                "short_name": "Visscher"
+            },
+            {
+                "full_name": "Julia Stusek",
+                "position": "AWAY",
+                "short_name": "Stusek"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Stephanie Judith Visscher",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Julia Stusek",
+                "returnWin": 1.46
+            }
+        ],
+        "match_name": "Visscher v Stusek",
         "betOption": "Head To Head",
         "start_time": "2026-02-28T10:00:00.000Z"
     }
