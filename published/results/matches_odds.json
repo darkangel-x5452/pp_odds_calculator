@@ -1,33 +1,96 @@
 [
     {
-        "contestant_names": "Shinshu Brave Wa, (1.45) VERSES Fukuoka, (2.5)",
-        "start_time_aest": "2026-02-28T16:05:00+11:00",
+        "contestant_names": "Kagoshima Rebnis, (1.52) VERSES Iwate, (2.3)",
+        "start_time_aest": "2026-02-28T17:05:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "Japan B League 2",
         "contestants": [
             {
-                "full_name": "Shinshu Brave Wa",
+                "full_name": "Kagoshima Rebnis",
                 "position": "HOME",
-                "short_name": "Shinshu Brave Wa"
+                "short_name": "Kagoshima Rebnis"
             },
             {
-                "full_name": "Fukuoka",
+                "full_name": "Iwate",
                 "position": "AWAY",
-                "short_name": "Fukuoka"
+                "short_name": "Iwate"
             }
         ],
         "propositions": [
             {
-                "name": "Shinshu Brave Wa",
-                "returnWin": 1.45
+                "name": "Kagoshima Rebnis",
+                "returnWin": 1.52
             },
             {
-                "name": "Fukuoka",
-                "returnWin": 2.5
+                "name": "Iwate",
+                "returnWin": 2.3
             }
         ],
-        "match_name": "Shinshu Brave Wa v Fukuoka",
+        "match_name": "Kagoshima Rebnis v Iwate",
         "betOption": "Head To Head",
-        "start_time": "2026-02-28T05:05:00.000Z"
+        "start_time": "2026-02-28T06:05:00.000Z"
+    },
+    {
+        "contestant_names": "Fukui Blowinds, (1.62) VERSES Ehime Orange, (2.1)",
+        "start_time_aest": "2026-02-28T17:05:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Japan B League 2",
+        "contestants": [
+            {
+                "full_name": "Fukui Blowinds",
+                "position": "HOME",
+                "short_name": "Fukui Blowinds"
+            },
+            {
+                "full_name": "Ehime Orange",
+                "position": "AWAY",
+                "short_name": "Ehime Orange"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Fukui Blowinds",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Ehime Orange",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Fukui Blowinds v Ehime Orange",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T06:05:00.000Z"
+    },
+    {
+        "contestant_names": "Li YJ/Wang YD, (2.4) VERSES Pratiwi A C/Ramadhanti S F S, (1.5)",
+        "start_time_aest": "2026-02-28T17:15:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour Doubles",
+        "tournamentName": "German Open Womens Doubles",
+        "contestants": [
+            {
+                "full_name": "Li YJ/Wang YD",
+                "position": "HOME",
+                "short_name": "Li YJ/Wang YD"
+            },
+            {
+                "full_name": "Pratiwi A C/Ramadhanti S F S",
+                "position": "AWAY",
+                "short_name": "Prtiwi/Rmadhanti"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Li YJ/Wang YD",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Pratiwi A C/Ramadhanti S F S",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Li YJ/Wang YD v Prtiwi/Rmadhanti",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T06:15:00.000Z"
     }
 ]
