@@ -1,68 +1,5 @@
 [
     {
-        "contestant_names": "Sampaense, (2.4) VERSES AD Galomar, (1.48)",
-        "start_time_aest": "2026-03-01T01:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Portugal ProLiga",
-        "contestants": [
-            {
-                "full_name": "Sampaense",
-                "position": "HOME",
-                "short_name": "Sampaense"
-            },
-            {
-                "full_name": "AD Galomar",
-                "position": "AWAY",
-                "short_name": "AD Galomar"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sampaense",
-                "returnWin": 2.4
-            },
-            {
-                "name": "AD Galomar",
-                "returnWin": 1.48
-            }
-        ],
-        "match_name": "Sampaense v AD Galomar",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-28T14:30:00.000Z"
-    },
-    {
-        "contestant_names": "Zsombor Piros, (1.58) VERSES Mika Brunold, (2.25)",
-        "start_time_aest": "2026-03-01T01:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Lugano",
-        "contestants": [
-            {
-                "full_name": "Zsombor Piros",
-                "position": "HOME",
-                "short_name": "Piros"
-            },
-            {
-                "full_name": "Mika Brunold",
-                "position": "AWAY",
-                "short_name": "Brunold"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Zsombor Piros",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Mika Brunold",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Piros v Brunold",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-28T14:30:00.000Z"
-    },
-    {
         "contestant_names": "Bc Nokia, (2.3) VERSES Vimpelin Veto, (1.52)",
         "start_time_aest": "2026-03-01T02:00:00+11:00",
         "sport_name": "Basketball",
@@ -121,6 +58,37 @@
             }
         ],
         "match_name": "Trelleborg v Aros",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T15:00:00.000Z"
+    },
+    {
+        "contestant_names": "Connacht, (1.55) VERSES Glasgow, (2.25)",
+        "start_time_aest": "2026-03-01T02:00:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "United Rugby Championship",
+        "contestants": [
+            {
+                "full_name": "Connacht",
+                "position": "HOME",
+                "short_name": "Connacht"
+            },
+            {
+                "full_name": "Glasgow",
+                "position": "AWAY",
+                "short_name": "Glasgow"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Connacht",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Glasgow",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Connacht v Glasgow",
         "betOption": "Head To Head",
         "start_time": "2026-02-28T15:00:00.000Z"
     }
