@@ -29,10 +29,12 @@ class GetMatchesOdds():
         ]
         
         self.high_odds = 2.5
-        self.min_odds = 1.95
+        self.min_odds = 2.0
 
-        self.result_path = "published/results/matches_odds.json"
-        self.historical_path = "data/results/matches_odds_historical.json"
+        self.lower_odds_result_path = "published/results/matches_odds.json"
+        self.lower_odds_historical_path = "data/results/matches_odds_historical.json"
+        self.fifty_odds_result_path = "published/results/matches_odds_50.json"
+        self.fifty_odds_historical_path = "data/results/matches_odds_50_historical.json"
 
     def get_matches_comps(self, input_jn: dict):
         sports = input_jn['nextToGoMatches']['sports']
@@ -54,23 +56,27 @@ class GetMatchesOdds():
 
         matches = input_jn['matches']
         all_matches_ls = self._handle_matches(matches=matches)
-        print(f"Total matches with two dollar odds: {len(all_matches_ls)}")
+        print(f"Total matches with two dollar odds: {len(all_matches_ls['lower_odds'])}")
+        print(f"Total matches with fifty dollar odds: {len(all_matches_ls['fifty_odds'])}")
         self.save_file(all_matches_ls=all_matches_ls)
 
-    def save_file(self, all_matches_ls: list[dict]):
-
-        if os.path.exists(self.result_path) is False:
-            with open(self.result_path, "w") as f:
+    def _validate_data_to_files(self, 
+                                final_matches_ls: list[dict],
+                                current_matches_fp: str,
+                                historical_matches_fp: str,
+                                ):
+        if os.path.exists(current_matches_fp) is False:
+            with open(current_matches_fp, "w") as f:
                 json.dump([], f, indent=4)
 
-        if os.path.exists(self.historical_path) is False:
-            with open(self.historical_path, "w") as f:
+        if os.path.exists(historical_matches_fp) is False:
+            with open(historical_matches_fp, "w") as f:
                 json.dump([], f, indent=4)
 
-        with open(self.result_path, "r") as f:
+        with open(current_matches_fp, "r") as f:
             existing_matches: list[dict] = json.load(f)
         
-        with open(self.historical_path, "r") as f:            
+        with open(historical_matches_fp, "r") as f:            
             historical_matches: list[dict] = json.load(f)
 
         adding_matches_ls = existing_matches.copy()
@@ -87,7 +93,7 @@ class GetMatchesOdds():
         adding_matches_ls = filtered_matches_ls
 
         # Add new matches to the list
-        for _new_match in all_matches_ls:
+        for _new_match in final_matches_ls:
             match_exists = False
             for _existing_match in adding_matches_ls:
                 if _new_match["match_name"] == _existing_match["match_name"] \
@@ -104,15 +110,29 @@ class GetMatchesOdds():
             key=lambda x: datetime.fromisoformat(x["start_time_aest"]),
             reverse=False
         )
-        with open(self.result_path, "w") as f:
+        with open(current_matches_fp, "w") as f:
             json.dump(adding_matches_ls, f, indent=4)
 
         historical_matches.sort(
             key=lambda x: datetime.fromisoformat(x["start_time_aest"]),
             reverse=False
         )
-        with open(self.historical_path, "w") as f:
+        with open(historical_matches_fp, "w") as f:
             json.dump(historical_matches, f, indent=4)
+
+
+    def save_file(self, all_matches_ls: dict[str, list[dict]]):
+        lower_odds_matches = all_matches_ls["lower_odds"]
+        fifty_odds_matches = all_matches_ls["fifty_odds"]
+
+        self._validate_data_to_files(final_matches_ls=lower_odds_matches,
+                                    current_matches_fp=self.lower_odds_result_path,
+                                    historical_matches_fp=self.lower_odds_historical_path,
+                                    )
+        self._validate_data_to_files(final_matches_ls=fifty_odds_matches,
+                                    current_matches_fp=self.fifty_odds_result_path,
+                                    historical_matches_fp=self.fifty_odds_historical_path,
+                                    )
 
     def _clean_propositions(self, propositions: list[dict]) -> list[dict]:
         cleaned_propositions = []
@@ -127,9 +147,28 @@ class GetMatchesOdds():
                     cleaned_proposition.update({_key: _proposition[_key]})
             cleaned_propositions.append(cleaned_proposition)
         return cleaned_propositions
+    def _get_lower_odds_flag(self, clean_propositions) -> bool:
+        two_lower_odds_flag = False
+        for _proposition in clean_propositions:
+            return_win = _proposition['returnWin']
+            if two_lower_odds_flag is False:
+                two_lower_odds_flag = True if return_win >= self.min_odds and return_win <= self.high_odds else False
+        return two_lower_odds_flag
 
-    def _handle_matches(self, matches: list[dict]) -> list[dict]:
-        all_matches_ls: list[dict] = []
+    def _get_fifty_odds_flag(self, clean_propositions) -> bool:
+        not_fifty_flag = False
+        for _proposition in clean_propositions:
+            return_win = _proposition['returnWin']
+            if not_fifty_flag is False:
+                not_fifty_flag = True if return_win > self.min_odds else False
+        return not not_fifty_flag
+    
+    def _handle_matches(self, matches: list[dict]) -> dict[str, list[dict]]:
+        all_matches_ls: dict[str, list[dict]] = {
+            "lower_odds": [],
+            "fifty_odds": [],
+
+        }
         for _match in matches:
             inPlay = _match['inPlay']
             if inPlay is True:
@@ -183,11 +222,10 @@ class GetMatchesOdds():
                 if propositions_len != 2:
                     continue
                 clean_propositions = self._clean_propositions(propositions=propositions)
-                two_dollar_flag = False
-                for _proposition in clean_propositions:
-                    return_win = _proposition['returnWin']
-                    if two_dollar_flag is False:
-                        two_dollar_flag = True if return_win >= self.min_odds and return_win <= self.high_odds else False
+                
+                two_lower_flag = self._get_lower_odds_flag(clean_propositions=clean_propositions)
+                two_fifty_flag = self._get_fifty_odds_flag(clean_propositions=clean_propositions)
+
                 full_name_0 = clean_propositions[0]["name"]
                 full_name_1 = clean_propositions[1]["name"]
                 if len(cleaned_contestants) == 0:
@@ -209,7 +247,7 @@ class GetMatchesOdds():
                 cleaned_contestants = cleaned_contestants_new.copy()
                 proposition_names = [f"{p['name']}, ({p['returnWin']})" for p in clean_propositions]
                 contestant_full_names = " VERSES ".join(proposition_names)
-                if two_dollar_flag is True:
+                if any([two_lower_flag, two_fifty_flag]):
                     start_time_aest = datetime.fromisoformat(start_time.replace("Z", "+00:00"))
                     # Convert to AEST
                     aest_dt = start_time_aest.astimezone(ZoneInfo("Australia/Sydney"))
@@ -230,9 +268,11 @@ class GetMatchesOdds():
                         "start_time": start_time,
                         # "two_dollar_flag": two_dollar_flag,
                     }
-
                     if tournamentName is None:
                         match_details.pop("tournamentName")
 
-                    all_matches_ls.append(match_details.copy())
+                if two_lower_flag is True:
+                    all_matches_ls["lower_odds"].append(match_details.copy())
+                if two_fifty_flag is True:
+                    all_matches_ls["fifty_odds"].append(match_details.copy())
         return all_matches_ls

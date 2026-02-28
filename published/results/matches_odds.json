@@ -1,69 +1,5 @@
 [
     {
-        "contestant_names": "Vaidehi Chaudhari, (2.25) VERSES Mushika Mio, (1.58)",
-        "start_time_aest": "2026-02-28T12:10:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens Australia",
-        "tournamentName": "ITFW Burnie",
-        "contestants": [
-            {
-                "full_name": "Vaidehi Chaudhari",
-                "position": "HOME",
-                "short_name": "Chaudhari"
-            },
-            {
-                "full_name": "Mushika Mio",
-                "position": "AWAY",
-                "short_name": "Mushika Mio"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Vaidehi Chaudhari",
-                "returnWin": 2.25
-            },
-            {
-                "name": "Mushika Mio",
-                "returnWin": 1.58
-            }
-        ],
-        "match_name": "Chaudhari v Mushika Mio",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-28T01:10:00.000Z"
-    },
-    {
-        "contestant_names": "Kirkov/Stevens, (2.1) VERSES Erler/Galloway, (1.68)",
-        "start_time_aest": "2026-02-28T12:12:22+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "tournamentName": "ATP Acapulco Doubles",
-        "contestants": [
-            {
-                "full_name": "Kirkov/Stevens",
-                "position": "HOME",
-                "short_name": "Kirkov/Stevens"
-            },
-            {
-                "full_name": "Erler/Galloway",
-                "position": "AWAY",
-                "short_name": "Erler/Galloway"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Kirkov/Stevens",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Erler/Galloway",
-                "returnWin": 1.68
-            }
-        ],
-        "match_name": "Kirkov/Stevens v Erler/Galloway",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-28T01:12:22.000Z"
-    },
-    {
         "contestant_names": "Miomir Kecmanovic, (1.58) VERSES Flavio Cobolli, (2.3)",
         "start_time_aest": "2026-02-28T12:30:00+11:00",
         "sport_name": "Tennis",
@@ -126,5 +62,100 @@
         "match_name": "Piter/Tjen v Bucsa/Jiang",
         "betOption": "Head To Head",
         "start_time": "2026-02-28T01:30:00.000Z"
+    },
+    {
+        "contestant_names": "Yue Yuan, (2.05) VERSES Ashlyn Krueger, (1.75)",
+        "start_time_aest": "2026-02-28T13:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Austin",
+        "contestants": [
+            {
+                "full_name": "Yue Yuan",
+                "position": "HOME",
+                "short_name": "Yuan Y"
+            },
+            {
+                "full_name": "Ashlyn Krueger",
+                "position": "AWAY",
+                "short_name": "Krueger A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Yue Yuan",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Ashlyn Krueger",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Yuan Y v Krueger A",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T02:00:00.000Z"
+    },
+    {
+        "contestant_names": "Jasmine Paolini, (1.52) VERSES Katie Boulter, (2.4)",
+        "start_time_aest": "2026-02-28T13:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Merida",
+        "contestants": [
+            {
+                "full_name": "Jasmine Paolini",
+                "position": "HOME",
+                "short_name": "Paolini"
+            },
+            {
+                "full_name": "Katie Boulter",
+                "position": "AWAY",
+                "short_name": "Boulter K"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jasmine Paolini",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Katie Boulter",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Paolini v Boulter K",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T02:00:00.000Z"
+    },
+    {
+        "contestant_names": "Utah, (1.68) VERSES Minnesota, (2.15)",
+        "start_time_aest": "2026-02-28T13:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Utah",
+                "position": "HOME",
+                "short_name": "Utah"
+            },
+            {
+                "full_name": "Minnesota",
+                "position": "AWAY",
+                "short_name": "Minnesota"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Utah",
+                "returnWin": 1.68
+            },
+            {
+                "name": "Minnesota",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Utah v Minnesota",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T02:05:00.000Z"
     }
 ]
