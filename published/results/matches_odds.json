@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "Columbus, (1.68) VERSES NY Islanders, (2.15)",
-        "start_time_aest": "2026-03-01T10:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Columbus",
-                "position": "HOME",
-                "short_name": "Columbus"
-            },
-            {
-                "full_name": "NY Islanders",
-                "position": "AWAY",
-                "short_name": "NY Islanders"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Columbus",
-                "returnWin": 1.68
-            },
-            {
-                "name": "NY Islanders",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Columbus v NY Islanders",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-28T23:05:00.000Z"
-    },
-    {
-        "contestant_names": "Jujuy Basquet, (1.45) VERSES Salta Basket, (2.5)",
-        "start_time_aest": "2026-03-01T10:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga A",
-        "contestants": [
-            {
-                "full_name": "Jujuy Basquet",
-                "position": "HOME",
-                "short_name": "Jujuy Basquet"
-            },
-            {
-                "full_name": "Salta Basket",
-                "position": "AWAY",
-                "short_name": "Salta Basket"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jujuy Basquet",
-                "returnWin": 1.45
-            },
-            {
-                "name": "Salta Basket",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Jujuy Basquet v Salta Basket",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-28T23:30:00.000Z"
-    },
-    {
-        "contestant_names": "Kansas State, (2.35) VERSES TCU, (1.6)",
-        "start_time_aest": "2026-03-01T10:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Kansas State",
-                "position": "HOME",
-                "short_name": "Kansas State"
-            },
-            {
-                "full_name": "TCU",
-                "position": "AWAY",
-                "short_name": "TCU"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Kansas State",
-                "returnWin": 2.35
-            },
-            {
-                "name": "TCU",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Kansas State v TCU",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-28T23:30:00.000Z"
-    },
-    {
         "contestant_names": "CSU Fullerton, (2.45) VERSES Hawaii, (1.55)",
         "start_time_aest": "2026-03-01T11:00:00+11:00",
         "sport_name": "Basketball",
@@ -184,5 +91,192 @@
         "match_name": "Hull KR v Leeds",
         "betOption": "Head To Head",
         "start_time": "2026-03-01T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Magdalena Frech, (2.05) VERSES Shuai Zhang, (1.75)",
+        "start_time_aest": "2026-03-01T11:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Merida",
+        "contestants": [
+            {
+                "full_name": "Magdalena Frech",
+                "position": "HOME",
+                "short_name": "Frech"
+            },
+            {
+                "full_name": "Shuai Zhang",
+                "position": "AWAY",
+                "short_name": "Zhang S"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Magdalena Frech",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Shuai Zhang",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Frech v Zhang S",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Carolina, (1.52) VERSES Detroit, (2.5)",
+        "start_time_aest": "2026-03-01T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Carolina",
+                "position": "HOME",
+                "short_name": "Carolina"
+            },
+            {
+                "full_name": "Detroit",
+                "position": "AWAY",
+                "short_name": "Detroit"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Carolina",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Detroit",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Carolina v Detroit",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T00:05:00.000Z"
+    },
+    {
+        "contestant_names": "Los Angeles, (1.65) VERSES Calgary, (2.2)",
+        "start_time_aest": "2026-03-01T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Los Angeles",
+                "position": "HOME",
+                "short_name": "Los Angeles"
+            },
+            {
+                "full_name": "Calgary",
+                "position": "AWAY",
+                "short_name": "Calgary"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Los Angeles",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Calgary",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Los Angeles v Calgary",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T00:05:00.000Z"
+    },
+    {
+        "contestant_names": "Toronto, (2.05) VERSES Ottawa, (1.75)",
+        "start_time_aest": "2026-03-01T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Toronto",
+                "position": "HOME",
+                "short_name": "Toronto"
+            },
+            {
+                "full_name": "Ottawa",
+                "position": "AWAY",
+                "short_name": "Ottawa"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Toronto",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Ottawa",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Toronto v Ottawa",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T00:05:00.000Z"
+    },
+    {
+        "contestant_names": "Montreal, (1.6) VERSES Washington, (2.3)",
+        "start_time_aest": "2026-03-01T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Montreal",
+                "position": "HOME",
+                "short_name": "Montreal"
+            },
+            {
+                "full_name": "Washington",
+                "position": "AWAY",
+                "short_name": "Washington"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Montreal",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Washington",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Montreal v Washington",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T00:05:00.000Z"
+    },
+    {
+        "contestant_names": "Huracan Las Hera, (1.52) VERSES Colon, (2.3)",
+        "start_time_aest": "2026-03-01T11:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Huracan Las Hera",
+                "position": "HOME",
+                "short_name": "Huracan Las Hera"
+            },
+            {
+                "full_name": "Colon",
+                "position": "AWAY",
+                "short_name": "Colon"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Huracan Las Hera",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Colon",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Huracan Las Hera v Colon",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T00:30:00.000Z"
     }
 ]
