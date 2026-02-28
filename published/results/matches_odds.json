@@ -1,37 +1,5 @@
 [
     {
-        "contestant_names": "Dodig Matej, (1.62) VERSES Joel Schwaerzler, (2.15)",
-        "start_time_aest": "2026-03-01T03:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Lugano",
-        "contestants": [
-            {
-                "full_name": "Dodig Matej",
-                "position": "HOME",
-                "short_name": "Matej"
-            },
-            {
-                "full_name": "Joel Schwaerzler",
-                "position": "AWAY",
-                "short_name": "Schwaerzler"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Dodig Matej",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Joel Schwaerzler",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Matej v Schwaerzler",
-        "betOption": "Head To Head",
-        "start_time": "2026-02-28T16:30:00.000Z"
-    },
-    {
         "contestant_names": "Rhode Island, (1.58) VERSES St Josephs, (2.4)",
         "start_time_aest": "2026-03-01T04:00:00+11:00",
         "sport_name": "Basketball",
@@ -152,6 +120,70 @@
             }
         ],
         "match_name": "Resovia Rzeszow v Spojnia",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Team Liquid, (1.58) VERSES Tundra Esports, (2.25)",
+        "start_time_aest": "2026-03-01T04:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "tournamentName": "DOTA2 - DreamLeague",
+        "contestants": [
+            {
+                "full_name": "Team Liquid",
+                "position": "HOME",
+                "short_name": "Team Liquid"
+            },
+            {
+                "full_name": "Tundra Esports",
+                "position": "AWAY",
+                "short_name": "Tundra Esports"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Team Liquid",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Tundra Esports",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Team Liquid v Tundra Esports",
+        "betOption": "Head To Head",
+        "start_time": "2026-02-28T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Gentle Mates, (1.5) VERSES EDward Gaming, (2.4)",
+        "start_time_aest": "2026-03-01T04:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Valorant",
+        "tournamentName": "Valorant - Masters Santiago",
+        "contestants": [
+            {
+                "full_name": "Gentle Mates",
+                "position": "HOME",
+                "short_name": "Gentle Mates"
+            },
+            {
+                "full_name": "EDward Gaming",
+                "position": "AWAY",
+                "short_name": "EDward Gaming"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Gentle Mates",
+                "returnWin": 1.5
+            },
+            {
+                "name": "EDward Gaming",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Gentle Mates v EDward Gaming",
         "betOption": "Head To Head",
         "start_time": "2026-02-28T17:00:00.000Z"
     }
