@@ -1,37 +1,5 @@
 [
     {
-        "contestant_names": "Flavio Cobolli, (2) VERSES Frances Tiafoe, (1.8)",
-        "start_time_aest": "2026-03-01T14:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP",
-        "tournamentName": "ATP Acapulco",
-        "contestants": [
-            {
-                "full_name": "Flavio Cobolli",
-                "position": "HOME",
-                "short_name": "Cobolli"
-            },
-            {
-                "full_name": "Frances Tiafoe",
-                "position": "AWAY",
-                "short_name": "Tiafoe"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Flavio Cobolli",
-                "returnWin": 2
-            },
-            {
-                "name": "Frances Tiafoe",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "Cobolli v Tiafoe",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-01T03:30:00.000Z"
-    },
-    {
         "contestant_names": "Zonkeys De Tijua, (1.73) VERSES Astros, (1.95)",
         "start_time_aest": "2026-03-01T15:00:00+11:00",
         "sport_name": "Basketball",
@@ -92,5 +60,36 @@
         "match_name": "Jt Thunders v Jtekt Stings",
         "betOption": "Head To Head",
         "start_time": "2026-03-01T04:05:00.000Z"
+    },
+    {
+        "contestant_names": "Mitsubishi, (1.87) VERSES Toyota Verblitz, (1.87)",
+        "start_time_aest": "2026-03-01T15:30:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "Japan League One",
+        "contestants": [
+            {
+                "full_name": "Mitsubishi",
+                "position": "HOME",
+                "short_name": "Mitsubishi"
+            },
+            {
+                "full_name": "Toyota Verblitz",
+                "position": "AWAY",
+                "short_name": "Toyota Verblitz"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mitsubishi",
+                "returnWin": 1.87
+            },
+            {
+                "name": "Toyota Verblitz",
+                "returnWin": 1.87
+            }
+        ],
+        "match_name": "Mitsubishi v Toyota Verblitz",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T04:30:00.000Z"
     }
 ]
