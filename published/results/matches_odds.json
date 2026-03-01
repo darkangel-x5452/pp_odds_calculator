@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Kagoshima Rebnis, (1.45) VERSES Iwate, (2.5)",
-        "start_time_aest": "2026-03-01T15:05:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Japan B League 2",
-        "contestants": [
-            {
-                "full_name": "Kagoshima Rebnis",
-                "position": "HOME",
-                "short_name": "Kagoshima Rebnis"
-            },
-            {
-                "full_name": "Iwate",
-                "position": "AWAY",
-                "short_name": "Iwate"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Kagoshima Rebnis",
-                "returnWin": 1.45
-            },
-            {
-                "name": "Iwate",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Kagoshima Rebnis v Iwate",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-01T04:05:00.000Z"
-    },
-    {
         "contestant_names": "Truls Moregard, (2) VERSES Yun Ju Lin, (1.72)",
         "start_time_aest": "2026-03-01T15:40:00+11:00",
         "sport_name": "Table Tennis",
@@ -61,5 +30,67 @@
         "match_name": "TMoregard v YunJuLin",
         "betOption": "Head To Head",
         "start_time": "2026-03-01T04:40:00.000Z"
+    },
+    {
+        "contestant_names": "Ansan, (2.3) VERSES Hyundai Skywalkers, (1.55)",
+        "start_time_aest": "2026-03-01T16:00:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "South Korea V League",
+        "contestants": [
+            {
+                "full_name": "Ansan",
+                "position": "HOME",
+                "short_name": "Ansan"
+            },
+            {
+                "full_name": "Hyundai Skywalkers",
+                "position": "AWAY",
+                "short_name": "Hyundai Skywlkrs"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ansan",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Hyundai Skywalkers",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Ansan v Hyundai Skywlkrs",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T05:00:00.000Z"
+    },
+    {
+        "contestant_names": "Fukui Blowinds, (1.66) VERSES Ehime Orange, (2.05)",
+        "start_time_aest": "2026-03-01T16:05:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Japan B League 2",
+        "contestants": [
+            {
+                "full_name": "Fukui Blowinds",
+                "position": "HOME",
+                "short_name": "Fukui Blowinds"
+            },
+            {
+                "full_name": "Ehime Orange",
+                "position": "AWAY",
+                "short_name": "Ehime Orange"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Fukui Blowinds",
+                "returnWin": 1.66
+            },
+            {
+                "name": "Ehime Orange",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Fukui Blowinds v Ehime Orange",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T05:05:00.000Z"
     }
 ]
