@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Imortal BC U23, (1.5) VERSES Ginasio, (2.35)",
-        "start_time_aest": "2026-03-02T04:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Portugal ProLiga",
-        "contestants": [
-            {
-                "full_name": "Imortal BC U23",
-                "position": "HOME",
-                "short_name": "Imortal BC U23"
-            },
-            {
-                "full_name": "Ginasio",
-                "position": "AWAY",
-                "short_name": "Ginasio"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Imortal BC U23",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Ginasio",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Imortal BC U23 v Ginasio",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-01T17:30:00.000Z"
-    },
-    {
         "contestant_names": "Indiana State, (2.5) VERSES Illinois-Chicago, (1.53)",
         "start_time_aest": "2026-03-02T05:00:00+11:00",
         "sport_name": "Basketball",
@@ -90,6 +59,70 @@
             }
         ],
         "match_name": "Liquid v Passion Ua",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Emerson Jones, (2.25) VERSES Nikola Bartunkova, (1.58)",
+        "start_time_aest": "2026-03-02T05:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Emerson Jones",
+                "position": "HOME",
+                "short_name": "Emerson Jones"
+            },
+            {
+                "full_name": "Nikola Bartunkova",
+                "position": "AWAY",
+                "short_name": "Bartunkova N"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Emerson Jones",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Nikola Bartunkova",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Emerson Jones v Bartunkova N",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Simona Waltert, (1.68) VERSES Himeno Sakatsume, (2.05)",
+        "start_time_aest": "2026-03-02T05:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Simona Waltert",
+                "position": "HOME",
+                "short_name": "Waltert"
+            },
+            {
+                "full_name": "Himeno Sakatsume",
+                "position": "AWAY",
+                "short_name": "Sakatsume"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Simona Waltert",
+                "returnWin": 1.68
+            },
+            {
+                "name": "Himeno Sakatsume",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Waltert v Sakatsume",
         "betOption": "Head To Head",
         "start_time": "2026-03-01T18:00:00.000Z"
     }
