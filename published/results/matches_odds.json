@@ -1,96 +1,126 @@
 [
     {
-        "contestant_names": "Liquid, (1.62) VERSES Passion UA, (2.15)",
-        "start_time_aest": "2026-03-02T06:45:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "Counter Strike 2",
-        "tournamentName": "CS2 - ESL Pro League Play In",
+        "contestant_names": "Pau, (1.75) VERSES Bordeaux, (2)",
+        "start_time_aest": "2026-03-02T07:05:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "French Top 14",
         "contestants": [
             {
-                "full_name": "Liquid",
+                "full_name": "Pau",
                 "position": "HOME",
-                "short_name": "Liquid"
+                "short_name": "Pau"
             },
             {
-                "full_name": "Passion UA",
+                "full_name": "Bordeaux",
                 "position": "AWAY",
-                "short_name": "Passion Ua"
+                "short_name": "Bordeaux"
             }
         ],
         "propositions": [
             {
-                "name": "Liquid",
-                "returnWin": 1.62
+                "name": "Pau",
+                "returnWin": 1.75
             },
             {
-                "name": "Passion UA",
-                "returnWin": 2.15
+                "name": "Bordeaux",
+                "returnWin": 2
             }
         ],
-        "match_name": "Liquid v Passion Ua",
+        "match_name": "Pau v Bordeaux",
         "betOption": "Head To Head",
-        "start_time": "2026-03-01T19:45:00.000Z"
+        "start_time": "2026-03-01T20:05:00.000Z"
     },
     {
-        "contestant_names": "Drake, (2.5) VERSES Northern Iowa, (1.53)",
-        "start_time_aest": "2026-03-02T07:00:00+11:00",
+        "contestant_names": "Denver, (1.7) VERSES Minnesota, (2.2)",
+        "start_time_aest": "2026-03-02T07:40:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Denver",
+                "position": "HOME",
+                "short_name": "Denver"
+            },
+            {
+                "full_name": "Minnesota",
+                "position": "AWAY",
+                "short_name": "Minnesota"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Denver",
+                "returnWin": 1.7
+            },
+            {
+                "name": "Minnesota",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Denver v Minnesota",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T20:40:00.000Z"
+    },
+    {
+        "contestant_names": "Chicago, (2.2) VERSES Milwaukee, (1.7)",
+        "start_time_aest": "2026-03-02T07:40:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Chicago",
+                "position": "HOME",
+                "short_name": "Chicago"
+            },
+            {
+                "full_name": "Milwaukee",
+                "position": "AWAY",
+                "short_name": "Milwaukee"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Chicago",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Milwaukee",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "Chicago v Milwaukee",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T20:40:00.000Z"
+    },
+    {
+        "contestant_names": "Indiana, (2.35) VERSES Michigan State, (1.6)",
+        "start_time_aest": "2026-03-02T07:45:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Drake",
+                "full_name": "Indiana",
                 "position": "HOME",
-                "short_name": "Drake"
+                "short_name": "Indiana"
             },
             {
-                "full_name": "Northern Iowa",
+                "full_name": "Michigan State",
                 "position": "AWAY",
-                "short_name": "Northern Iowa"
+                "short_name": "Michigan State"
             }
         ],
         "propositions": [
             {
-                "name": "Drake",
-                "returnWin": 2.5
+                "name": "Indiana",
+                "returnWin": 2.35
             },
             {
-                "name": "Northern Iowa",
-                "returnWin": 1.53
+                "name": "Michigan State",
+                "returnWin": 1.6
             }
         ],
-        "match_name": "Drake v Northern Iowa",
+        "match_name": "Indiana v Michigan State",
         "betOption": "Head To Head",
-        "start_time": "2026-03-01T20:00:00.000Z"
-    },
-    {
-        "contestant_names": "Northwestern, (2.5) VERSES Purdue, (1.5)",
-        "start_time_aest": "2026-03-02T07:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Northwestern",
-                "position": "HOME",
-                "short_name": "Northwestern"
-            },
-            {
-                "full_name": "Purdue",
-                "position": "AWAY",
-                "short_name": "Purdue"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Northwestern",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Purdue",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Northwestern v Purdue",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-01T20:00:00.000Z"
+        "start_time": "2026-03-01T20:45:00.000Z"
     }
 ]
