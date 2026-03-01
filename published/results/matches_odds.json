@@ -1,68 +1,5 @@
 [
     {
-        "contestant_names": "Truls Moregard, (2) VERSES Yun Ju Lin, (1.72)",
-        "start_time_aest": "2026-03-01T15:40:00+11:00",
-        "sport_name": "Table Tennis",
-        "competition_name": "WTT Grand Smash",
-        "tournamentName": "WTT Singapore Smash Mens Singles",
-        "contestants": [
-            {
-                "full_name": "Truls Moregard",
-                "position": "HOME",
-                "short_name": "TMoregard"
-            },
-            {
-                "full_name": "Yun Ju Lin",
-                "position": "AWAY",
-                "short_name": "YunJuLin"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Truls Moregard",
-                "returnWin": 2
-            },
-            {
-                "name": "Yun Ju Lin",
-                "returnWin": 1.72
-            }
-        ],
-        "match_name": "TMoregard v YunJuLin",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-01T04:40:00.000Z"
-    },
-    {
-        "contestant_names": "Ansan, (2.3) VERSES Hyundai Skywalkers, (1.55)",
-        "start_time_aest": "2026-03-01T16:00:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "South Korea V League",
-        "contestants": [
-            {
-                "full_name": "Ansan",
-                "position": "HOME",
-                "short_name": "Ansan"
-            },
-            {
-                "full_name": "Hyundai Skywalkers",
-                "position": "AWAY",
-                "short_name": "Hyundai Skywlkrs"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ansan",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Hyundai Skywalkers",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Ansan v Hyundai Skywlkrs",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-01T05:00:00.000Z"
-    },
-    {
         "contestant_names": "Fukui Blowinds, (1.66) VERSES Ehime Orange, (2.05)",
         "start_time_aest": "2026-03-01T16:05:00+11:00",
         "sport_name": "Basketball",
@@ -90,6 +27,37 @@
             }
         ],
         "match_name": "Fukui Blowinds v Ehime Orange",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T05:05:00.000Z"
+    },
+    {
+        "contestant_names": "Toray Arrows, (2.2) VERSES Osaka Blazers Sakai, (1.6)",
+        "start_time_aest": "2026-03-01T16:05:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "Japan V League",
+        "contestants": [
+            {
+                "full_name": "Toray Arrows",
+                "position": "HOME",
+                "short_name": "Toray Arrows"
+            },
+            {
+                "full_name": "Osaka Blazers Sakai",
+                "position": "AWAY",
+                "short_name": "Osaka Blazers"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Toray Arrows",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Osaka Blazers Sakai",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Toray Arrows v Osaka Blazers",
         "betOption": "Head To Head",
         "start_time": "2026-03-01T05:05:00.000Z"
     }
