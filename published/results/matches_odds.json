@@ -1,69 +1,7 @@
 [
     {
-        "contestant_names": "CSU Fullerton, (2.45) VERSES Hawaii, (1.55)",
-        "start_time_aest": "2026-03-01T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "CSU Fullerton",
-                "position": "HOME",
-                "short_name": "CSU Fullerton"
-            },
-            {
-                "full_name": "Hawaii",
-                "position": "AWAY",
-                "short_name": "Hawaii"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "CSU Fullerton",
-                "returnWin": 2.45
-            },
-            {
-                "name": "Hawaii",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "CSU Fullerton v Hawaii",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-01T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Nth Kentucky, (1.67) VERSES Wright State, (2.2)",
-        "start_time_aest": "2026-03-01T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Nth Kentucky",
-                "position": "HOME",
-                "short_name": "Nth Kentucky"
-            },
-            {
-                "full_name": "Wright State",
-                "position": "AWAY",
-                "short_name": "Wright State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Nth Kentucky",
-                "returnWin": 1.67
-            },
-            {
-                "name": "Wright State",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Nth Kentucky v Wright State",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-01T00:00:00.000Z"
-    },
-    {
         "contestant_names": "Hull KR, (1.65) VERSES Leeds, (2.25)",
-        "start_time_aest": "2026-03-01T11:00:00+11:00",
+        "start_time_aest": "2026-03-01T11:02:00+11:00",
         "sport_name": "Rugby League",
         "competition_name": "Super League",
         "contestants": [
@@ -90,39 +28,7 @@
         ],
         "match_name": "Hull KR v Leeds",
         "betOption": "Head To Head",
-        "start_time": "2026-03-01T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Magdalena Frech, (2.05) VERSES Shuai Zhang, (1.75)",
-        "start_time_aest": "2026-03-01T11:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "tournamentName": "WTA Merida",
-        "contestants": [
-            {
-                "full_name": "Magdalena Frech",
-                "position": "HOME",
-                "short_name": "Frech"
-            },
-            {
-                "full_name": "Shuai Zhang",
-                "position": "AWAY",
-                "short_name": "Zhang S"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Magdalena Frech",
-                "returnWin": 2.05
-            },
-            {
-                "name": "Shuai Zhang",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Frech v Zhang S",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-01T00:00:00.000Z"
+        "start_time": "2026-03-01T00:02:00.000Z"
     },
     {
         "contestant_names": "Carolina, (1.52) VERSES Detroit, (2.5)",
@@ -278,5 +184,163 @@
         "match_name": "Huracan Las Hera v Colon",
         "betOption": "Head To Head",
         "start_time": "2026-03-01T00:30:00.000Z"
+    },
+    {
+        "contestant_names": "Erler/Galloway, (1.58) VERSES Melo/Zverev, (2.3)",
+        "start_time_aest": "2026-03-01T11:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP Doubles",
+        "tournamentName": "ATP Acapulco Doubles",
+        "contestants": [
+            {
+                "full_name": "Erler/Galloway",
+                "position": "HOME",
+                "short_name": "Erler/Galloway"
+            },
+            {
+                "full_name": "Melo/Zverev",
+                "position": "AWAY",
+                "short_name": "Melo/Zverev"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Erler/Galloway",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Melo/Zverev",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Erler/Galloway v Melo/Zverev",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T00:30:00.000Z"
+    },
+    {
+        "contestant_names": "Magdalena Frech, (2.05) VERSES Shuai Zhang, (1.75)",
+        "start_time_aest": "2026-03-01T11:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Merida",
+        "contestants": [
+            {
+                "full_name": "Magdalena Frech",
+                "position": "HOME",
+                "short_name": "Frech"
+            },
+            {
+                "full_name": "Shuai Zhang",
+                "position": "AWAY",
+                "short_name": "Zhang S"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Magdalena Frech",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Shuai Zhang",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Frech v Zhang S",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T00:30:00.000Z"
+    },
+    {
+        "contestant_names": "CHIASSON Macy, (2.5) VERSES PEREZ Ailin, (1.53)",
+        "start_time_aest": "2026-03-01T11:30:00+11:00",
+        "sport_name": "UFC",
+        "competition_name": "UFC",
+        "tournamentName": "UFC Fight Night - Moreno vs Kavanagh",
+        "contestants": [
+            {
+                "full_name": "CHIASSON Macy",
+                "position": "HOME",
+                "short_name": "Chiasson"
+            },
+            {
+                "full_name": "PEREZ Ailin",
+                "position": "AWAY",
+                "short_name": "Perez Ai"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "CHIASSON Macy",
+                "returnWin": 2.5
+            },
+            {
+                "name": "PEREZ Ailin",
+                "returnWin": 1.53
+            }
+        ],
+        "match_name": "Chiasson v Perez Ai",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T00:30:00.000Z"
+    },
+    {
+        "contestant_names": "Caballeros De Cu, (2.1) VERSES Angeles Cd Mexic, (1.62)",
+        "start_time_aest": "2026-03-01T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Mexico CIBACOPA",
+        "contestants": [
+            {
+                "full_name": "Caballeros De Cu",
+                "position": "HOME",
+                "short_name": "Caballeros De Cu"
+            },
+            {
+                "full_name": "Angeles Cd Mexic",
+                "position": "AWAY",
+                "short_name": "Angeles Cd Mexic"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Caballeros De Cu",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Angeles Cd Mexic",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Caballeros De Cu v Angeles Cd Mexic",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Pioneros LMochis, (1.57) VERSES Venados Mazatlan, (2.2)",
+        "start_time_aest": "2026-03-01T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Mexico CIBACOPA",
+        "contestants": [
+            {
+                "full_name": "Pioneros LMochis",
+                "position": "HOME",
+                "short_name": "Pioneros LMochis"
+            },
+            {
+                "full_name": "Venados Mazatlan",
+                "position": "AWAY",
+                "short_name": "Venados Mazatlan"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Pioneros LMochis",
+                "returnWin": 1.57
+            },
+            {
+                "name": "Venados Mazatlan",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Pioneros LMochis v Venados Mazatlan",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T01:00:00.000Z"
     }
 ]
