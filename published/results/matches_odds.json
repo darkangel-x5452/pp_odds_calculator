@@ -1,126 +1,128 @@
 [
     {
-        "contestant_names": "Denver, (1.7) VERSES Minnesota, (2.2)",
-        "start_time_aest": "2026-03-02T07:40:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
+        "contestant_names": "San Jose, (2) VERSES Winnipeg, (1.8)",
+        "start_time_aest": "2026-03-02T08:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "Denver",
+                "full_name": "San Jose",
                 "position": "HOME",
-                "short_name": "Denver"
+                "short_name": "San Jose"
             },
             {
-                "full_name": "Minnesota",
+                "full_name": "Winnipeg",
                 "position": "AWAY",
-                "short_name": "Minnesota"
+                "short_name": "Winnipeg"
             }
         ],
         "propositions": [
             {
-                "name": "Denver",
-                "returnWin": 1.7
+                "name": "San Jose",
+                "returnWin": 2
             },
             {
-                "name": "Minnesota",
+                "name": "Winnipeg",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "San Jose v Winnipeg",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T21:05:00.000Z"
+    },
+    {
+        "contestant_names": "Oregon, (1.62) VERSES Washington, (2.2)",
+        "start_time_aest": "2026-03-02T09:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Oregon",
+                "position": "HOME",
+                "short_name": "Oregon"
+            },
+            {
+                "full_name": "Washington",
+                "position": "AWAY",
+                "short_name": "Washington"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Oregon",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Washington",
                 "returnWin": 2.2
             }
         ],
-        "match_name": "Denver v Minnesota",
+        "match_name": "Oregon v Washington",
         "betOption": "Head To Head",
-        "start_time": "2026-03-01T20:40:00.000Z"
+        "start_time": "2026-03-01T22:00:00.000Z"
     },
     {
-        "contestant_names": "Chicago, (2.2) VERSES Milwaukee, (1.7)",
-        "start_time_aest": "2026-03-02T07:40:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
+        "contestant_names": "Viktorija Golubic, (2) VERSES Marina Stakusic, (1.72)",
+        "start_time_aest": "2026-03-02T09:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Indian Wells",
         "contestants": [
             {
-                "full_name": "Chicago",
+                "full_name": "Viktorija Golubic",
                 "position": "HOME",
-                "short_name": "Chicago"
+                "short_name": "Golubic"
             },
             {
-                "full_name": "Milwaukee",
+                "full_name": "Marina Stakusic",
                 "position": "AWAY",
-                "short_name": "Milwaukee"
+                "short_name": "Stakusic"
             }
         ],
         "propositions": [
             {
-                "name": "Chicago",
-                "returnWin": 2.2
+                "name": "Viktorija Golubic",
+                "returnWin": 2
             },
             {
-                "name": "Milwaukee",
-                "returnWin": 1.7
+                "name": "Marina Stakusic",
+                "returnWin": 1.72
             }
         ],
-        "match_name": "Chicago v Milwaukee",
+        "match_name": "Golubic v Stakusic",
         "betOption": "Head To Head",
-        "start_time": "2026-03-01T20:40:00.000Z"
+        "start_time": "2026-03-01T22:00:00.000Z"
     },
     {
-        "contestant_names": "Indiana, (2.35) VERSES Michigan State, (1.6)",
-        "start_time_aest": "2026-03-02T07:45:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "contestant_names": "Yuliia Starodubtseva, (1.55) VERSES Elvina Kalieva, (2.3)",
+        "start_time_aest": "2026-03-02T09:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Indian Wells",
         "contestants": [
             {
-                "full_name": "Indiana",
+                "full_name": "Yuliia Starodubtseva",
                 "position": "HOME",
-                "short_name": "Indiana"
+                "short_name": "Starodubtseva"
             },
             {
-                "full_name": "Michigan State",
+                "full_name": "Elvina Kalieva",
                 "position": "AWAY",
-                "short_name": "Michigan State"
+                "short_name": "Kalieva E"
             }
         ],
         "propositions": [
             {
-                "name": "Indiana",
-                "returnWin": 2.35
+                "name": "Yuliia Starodubtseva",
+                "returnWin": 1.55
             },
             {
-                "name": "Michigan State",
-                "returnWin": 1.6
+                "name": "Elvina Kalieva",
+                "returnWin": 2.3
             }
         ],
-        "match_name": "Indiana v Michigan State",
+        "match_name": "Starodubtseva v Kalieva E",
         "betOption": "Head To Head",
-        "start_time": "2026-03-01T20:45:00.000Z"
-    },
-    {
-        "contestant_names": "Marquette, (1.53) VERSES DePaul, (2.5)",
-        "start_time_aest": "2026-03-02T08:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Marquette",
-                "position": "HOME",
-                "short_name": "Marquette"
-            },
-            {
-                "full_name": "DePaul",
-                "position": "AWAY",
-                "short_name": "DePaul"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Marquette",
-                "returnWin": 1.53
-            },
-            {
-                "name": "DePaul",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Marquette v DePaul",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-01T21:00:00.000Z"
+        "start_time": "2026-03-01T22:00:00.000Z"
     }
 ]
