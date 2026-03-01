@@ -1,161 +1,5 @@
 [
     {
-        "contestant_names": "Erler/Galloway, (1.58) VERSES Melo/Zverev, (2.3)",
-        "start_time_aest": "2026-03-01T11:39:46+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ATP Doubles",
-        "tournamentName": "ATP Acapulco Doubles",
-        "contestants": [
-            {
-                "full_name": "Erler/Galloway",
-                "position": "HOME",
-                "short_name": "Erler/Galloway"
-            },
-            {
-                "full_name": "Melo/Zverev",
-                "position": "AWAY",
-                "short_name": "Melo/Zverev"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Erler/Galloway",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Melo/Zverev",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Erler/Galloway v Melo/Zverev",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-01T00:39:46.000Z"
-    },
-    {
-        "contestant_names": "Caballeros De Cu, (2.1) VERSES Angeles Cd Mexic, (1.62)",
-        "start_time_aest": "2026-03-01T12:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Mexico CIBACOPA",
-        "contestants": [
-            {
-                "full_name": "Caballeros De Cu",
-                "position": "HOME",
-                "short_name": "Caballeros De Cu"
-            },
-            {
-                "full_name": "Angeles Cd Mexic",
-                "position": "AWAY",
-                "short_name": "Angeles Cd Mexic"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Caballeros De Cu",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Angeles Cd Mexic",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Caballeros De Cu v Angeles Cd Mexic",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-01T01:00:00.000Z"
-    },
-    {
-        "contestant_names": "Pioneros LMochis, (1.57) VERSES Venados Mazatlan, (2.2)",
-        "start_time_aest": "2026-03-01T12:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Mexico CIBACOPA",
-        "contestants": [
-            {
-                "full_name": "Pioneros LMochis",
-                "position": "HOME",
-                "short_name": "Pioneros LMochis"
-            },
-            {
-                "full_name": "Venados Mazatlan",
-                "position": "AWAY",
-                "short_name": "Venados Mazatlan"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Pioneros LMochis",
-                "returnWin": 1.57
-            },
-            {
-                "name": "Venados Mazatlan",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Pioneros LMochis v Venados Mazatlan",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-01T01:00:00.000Z"
-    },
-    {
-        "contestant_names": "UCF, (1.8) VERSES Baylor, (2)",
-        "start_time_aest": "2026-03-01T12:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "UCF",
-                "position": "HOME",
-                "short_name": "UCF"
-            },
-            {
-                "full_name": "Baylor",
-                "position": "AWAY",
-                "short_name": "Baylor"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "UCF",
-                "returnWin": 1.8
-            },
-            {
-                "name": "Baylor",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "UCF v Baylor",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-01T01:00:00.000Z"
-    },
-    {
-        "contestant_names": "UMKC, (2.5) VERSES Oral Roberts, (1.53)",
-        "start_time_aest": "2026-03-01T12:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "UMKC",
-                "position": "HOME",
-                "short_name": "UMKC"
-            },
-            {
-                "full_name": "Oral Roberts",
-                "position": "AWAY",
-                "short_name": "Oral Roberts"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "UMKC",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Oral Roberts",
-                "returnWin": 1.53
-            }
-        ],
-        "match_name": "UMKC v Oral Roberts",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-01T01:00:00.000Z"
-    },
-    {
         "contestant_names": "Dallas, (1.65) VERSES Nashville, (2.2)",
         "start_time_aest": "2026-03-01T12:05:00+11:00",
         "sport_name": "Ice Hockey",
@@ -185,5 +29,36 @@
         "match_name": "Dallas v Nashville",
         "betOption": "Head To Head",
         "start_time": "2026-03-01T01:05:00.000Z"
+    },
+    {
+        "contestant_names": "Golden State, (2.4) VERSES LA Lakers, (1.6)",
+        "start_time_aest": "2026-03-01T12:40:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Golden State",
+                "position": "HOME",
+                "short_name": "Golden State"
+            },
+            {
+                "full_name": "LA Lakers",
+                "position": "AWAY",
+                "short_name": "LA Lakers"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Golden State",
+                "returnWin": 2.4
+            },
+            {
+                "name": "LA Lakers",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Golden State v LA Lakers",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T01:40:00.000Z"
     }
 ]
