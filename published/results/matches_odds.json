@@ -1,34 +1,66 @@
 [
     {
-        "contestant_names": "Team Liquid, (1.55) VERSES Aurora, (2.3)",
-        "start_time_aest": "2026-03-01T23:00:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "DOTA2",
-        "tournamentName": "DOTA2 - DreamLeague",
+        "contestant_names": "James Story, (2.3) VERSES Lui Maxted, (1.52)",
+        "start_time_aest": "2026-03-01T23:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Hersonissos",
         "contestants": [
             {
-                "full_name": "Team Liquid",
+                "full_name": "James Story",
                 "position": "HOME",
-                "short_name": "Team Liquid"
+                "short_name": "Story"
             },
             {
-                "full_name": "Aurora",
+                "full_name": "Lui Maxted",
                 "position": "AWAY",
-                "short_name": "Aurora"
+                "short_name": "Maxted"
             }
         ],
         "propositions": [
             {
-                "name": "Team Liquid",
-                "returnWin": 1.55
+                "name": "James Story",
+                "returnWin": 2.3
             },
             {
-                "name": "Aurora",
-                "returnWin": 2.3
+                "name": "Lui Maxted",
+                "returnWin": 1.52
             }
         ],
-        "match_name": "Team Liquid v Aurora",
+        "match_name": "Story v Maxted",
         "betOption": "Head To Head",
-        "start_time": "2026-03-01T12:00:00.000Z"
+        "start_time": "2026-03-01T12:30:00.000Z"
+    },
+    {
+        "contestant_names": "Astralis, (1.52) VERSES Monte, (2.4)",
+        "start_time_aest": "2026-03-02T00:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "tournamentName": "CS2 - ESL Pro League Play In",
+        "contestants": [
+            {
+                "full_name": "Astralis",
+                "position": "HOME",
+                "short_name": "Astralis"
+            },
+            {
+                "full_name": "Monte",
+                "position": "AWAY",
+                "short_name": "Monte"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Astralis",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Monte",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Astralis v Monte",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T13:00:00.000Z"
     }
 ]
