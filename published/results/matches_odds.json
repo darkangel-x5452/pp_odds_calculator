@@ -30,5 +30,36 @@
         "match_name": "Bucsa C v Frech",
         "betOption": "Head To Head",
         "start_time": "2026-03-01T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "UDM Del Plata, (2.5) VERSES Cnt Entrerriano, (1.45)",
+        "start_time_aest": "2026-03-02T10:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "UDM Del Plata",
+                "position": "HOME",
+                "short_name": "UDM Del Plata"
+            },
+            {
+                "full_name": "Cnt Entrerriano",
+                "position": "AWAY",
+                "short_name": "Cnt Entrerriano"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "UDM Del Plata",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Cnt Entrerriano",
+                "returnWin": 1.45
+            }
+        ],
+        "match_name": "UDM Del Plata v Cnt Entrerriano",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T23:30:00.000Z"
     }
 ]
