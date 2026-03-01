@@ -1,33 +1,96 @@
 [
     {
-        "contestant_names": "New York, (1.92) VERSES San Antonio, (1.92)",
-        "start_time_aest": "2026-03-02T05:10:00+11:00",
+        "contestant_names": "Arkansas, (1.9) VERSES Auburn, (1.85)",
+        "start_time_aest": "2026-03-02T06:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "NBA",
+        "competition_name": "NCAA Basketball Women",
         "contestants": [
             {
-                "full_name": "New York",
+                "full_name": "Arkansas",
                 "position": "HOME",
-                "short_name": "New York"
+                "short_name": "Arkansas"
             },
             {
-                "full_name": "San Antonio",
+                "full_name": "Auburn",
                 "position": "AWAY",
-                "short_name": "San Antonio"
+                "short_name": "Auburn"
             }
         ],
         "propositions": [
             {
-                "name": "New York",
-                "returnWin": 1.92
+                "name": "Arkansas",
+                "returnWin": 1.9
             },
             {
-                "name": "San Antonio",
-                "returnWin": 1.92
+                "name": "Auburn",
+                "returnWin": 1.85
             }
         ],
-        "match_name": "New York v San Antonio",
+        "match_name": "Arkansas v Auburn",
         "betOption": "Head To Head",
-        "start_time": "2026-03-01T18:10:00.000Z"
+        "start_time": "2026-03-01T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Georgia Tech, (1.95) VERSES Miami (FL), (1.8)",
+        "start_time_aest": "2026-03-02T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Georgia Tech",
+                "position": "HOME",
+                "short_name": "Georgia Tech"
+            },
+            {
+                "full_name": "Miami (FL)",
+                "position": "AWAY",
+                "short_name": "Miami (FL)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Georgia Tech",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Miami (FL)",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Georgia Tech v Miami (FL)",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "3DMAX, (1.85) VERSES paiN, (1.87)",
+        "start_time_aest": "2026-03-02T06:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "tournamentName": "CS2 - ESL Pro League Play In",
+        "contestants": [
+            {
+                "full_name": "3DMAX",
+                "position": "HOME",
+                "short_name": "3dmax"
+            },
+            {
+                "full_name": "paiN",
+                "position": "AWAY",
+                "short_name": "Pain"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "3DMAX",
+                "returnWin": 1.85
+            },
+            {
+                "name": "paiN",
+                "returnWin": 1.87
+            }
+        ],
+        "match_name": "3dmax v Pain",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T19:00:00.000Z"
     }
 ]

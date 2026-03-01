@@ -1,33 +1,157 @@
 [
     {
-        "contestant_names": "Pittsburgh, (2.2) VERSES Las Vegas, (1.65)",
-        "start_time_aest": "2026-03-02T05:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
+        "contestant_names": "Fairfield, (1.55) VERSES Mount St Marys, (2.45)",
+        "start_time_aest": "2026-03-02T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Pittsburgh",
+                "full_name": "Fairfield",
                 "position": "HOME",
-                "short_name": "Pittsburgh"
+                "short_name": "Fairfield"
             },
             {
-                "full_name": "Las Vegas",
+                "full_name": "Mount St Marys",
                 "position": "AWAY",
-                "short_name": "Las Vegas"
+                "short_name": "Mount St Marys"
             }
         ],
         "propositions": [
             {
-                "name": "Pittsburgh",
-                "returnWin": 2.2
+                "name": "Fairfield",
+                "returnWin": 1.55
             },
             {
-                "name": "Las Vegas",
-                "returnWin": 1.65
+                "name": "Mount St Marys",
+                "returnWin": 2.45
             }
         ],
-        "match_name": "Pittsburgh v Las Vegas",
+        "match_name": "Fairfield v Mount St Marys",
         "betOption": "Head To Head",
-        "start_time": "2026-03-01T18:05:00.000Z"
+        "start_time": "2026-03-01T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Manhattan, (2.1) VERSES Iona, (1.74)",
+        "start_time_aest": "2026-03-02T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Manhattan",
+                "position": "HOME",
+                "short_name": "Manhattan"
+            },
+            {
+                "full_name": "Iona",
+                "position": "AWAY",
+                "short_name": "Iona"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Manhattan",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Iona",
+                "returnWin": 1.74
+            }
+        ],
+        "match_name": "Manhattan v Iona",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Bradley, (1.53) VERSES Murray State, (2.5)",
+        "start_time_aest": "2026-03-02T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Bradley",
+                "position": "HOME",
+                "short_name": "Bradley"
+            },
+            {
+                "full_name": "Murray State",
+                "position": "AWAY",
+                "short_name": "Murray State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bradley",
+                "returnWin": 1.53
+            },
+            {
+                "name": "Murray State",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Bradley v Murray State",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "East Carolina, (2.5) VERSES Memphis, (1.53)",
+        "start_time_aest": "2026-03-02T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "East Carolina",
+                "position": "HOME",
+                "short_name": "East Carolina"
+            },
+            {
+                "full_name": "Memphis",
+                "position": "AWAY",
+                "short_name": "Memphis"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "East Carolina",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Memphis",
+                "returnWin": 1.53
+            }
+        ],
+        "match_name": "East Carolina v Memphis",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Stanford, (1.75) VERSES Clemson, (2)",
+        "start_time_aest": "2026-03-02T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Stanford",
+                "position": "HOME",
+                "short_name": "Stanford"
+            },
+            {
+                "full_name": "Clemson",
+                "position": "AWAY",
+                "short_name": "Clemson"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Stanford",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Clemson",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Stanford v Clemson",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T19:00:00.000Z"
     }
 ]
