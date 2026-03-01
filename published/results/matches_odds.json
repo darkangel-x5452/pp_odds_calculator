@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Golden State, (2.4) VERSES LA Lakers, (1.6)",
-        "start_time_aest": "2026-03-01T12:40:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Golden State",
-                "position": "HOME",
-                "short_name": "Golden State"
-            },
-            {
-                "full_name": "LA Lakers",
-                "position": "AWAY",
-                "short_name": "LA Lakers"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Golden State",
-                "returnWin": 2.4
-            },
-            {
-                "name": "LA Lakers",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Golden State v LA Lakers",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-01T01:40:00.000Z"
-    },
-    {
         "contestant_names": "Newcastle, (2.2) VERSES Nth Qld, (1.67)",
         "start_time_aest": "2026-03-01T13:15:00+11:00",
         "sport_name": "Rugby League",
@@ -91,5 +60,99 @@
         "match_name": "CSU Bakersfield v Long Beach State",
         "betOption": "Head To Head",
         "start_time": "2026-03-01T02:30:00.000Z"
+    },
+    {
+        "contestant_names": "PIERCE Elijah, (1.52) VERSES PARRA Lorenzo, (2.5)",
+        "start_time_aest": "2026-03-01T14:00:00+11:00",
+        "sport_name": "Boxing",
+        "competition_name": "Pierce vs Parra",
+        "contestants": [
+            {
+                "full_name": "PIERCE Elijah",
+                "position": "HOME",
+                "short_name": "Pierce"
+            },
+            {
+                "full_name": "PARRA Lorenzo",
+                "position": "AWAY",
+                "short_name": "Parra"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "PIERCE Elijah",
+                "returnWin": 1.52
+            },
+            {
+                "name": "PARRA Lorenzo",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Pierce v Parra",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Flavio Cobolli, (2) VERSES Frances Tiafoe, (1.8)",
+        "start_time_aest": "2026-03-01T14:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP",
+        "tournamentName": "ATP Acapulco",
+        "contestants": [
+            {
+                "full_name": "Flavio Cobolli",
+                "position": "HOME",
+                "short_name": "Cobolli"
+            },
+            {
+                "full_name": "Frances Tiafoe",
+                "position": "AWAY",
+                "short_name": "Tiafoe"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Flavio Cobolli",
+                "returnWin": 2
+            },
+            {
+                "name": "Frances Tiafoe",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Cobolli v Tiafoe",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Seattle, (1.62) VERSES Vancouver, (2.25)",
+        "start_time_aest": "2026-03-01T14:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Seattle",
+                "position": "HOME",
+                "short_name": "Seattle"
+            },
+            {
+                "full_name": "Vancouver",
+                "position": "AWAY",
+                "short_name": "Vancouver"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Seattle",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Vancouver",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Seattle v Vancouver",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T03:05:00.000Z"
     }
 ]
