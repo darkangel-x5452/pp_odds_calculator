@@ -1,129 +1,33 @@
 [
     {
-        "contestant_names": "Indiana State, (2.5) VERSES Illinois-Chicago, (1.53)",
-        "start_time_aest": "2026-03-02T05:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "contestant_names": "Pittsburgh, (2.2) VERSES Las Vegas, (1.65)",
+        "start_time_aest": "2026-03-02T05:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "Indiana State",
+                "full_name": "Pittsburgh",
                 "position": "HOME",
-                "short_name": "Indiana State"
+                "short_name": "Pittsburgh"
             },
             {
-                "full_name": "Illinois-Chicago",
+                "full_name": "Las Vegas",
                 "position": "AWAY",
-                "short_name": "Illinois-Chicago"
+                "short_name": "Las Vegas"
             }
         ],
         "propositions": [
             {
-                "name": "Indiana State",
-                "returnWin": 2.5
+                "name": "Pittsburgh",
+                "returnWin": 2.2
             },
             {
-                "name": "Illinois-Chicago",
-                "returnWin": 1.53
+                "name": "Las Vegas",
+                "returnWin": 1.65
             }
         ],
-        "match_name": "Indiana State v Illinois-Chicago",
+        "match_name": "Pittsburgh v Las Vegas",
         "betOption": "Head To Head",
-        "start_time": "2026-03-01T18:00:00.000Z"
-    },
-    {
-        "contestant_names": "Liquid, (1.62) VERSES Passion UA, (2.15)",
-        "start_time_aest": "2026-03-02T05:00:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "Counter Strike 2",
-        "tournamentName": "CS2 - ESL Pro League Play In",
-        "contestants": [
-            {
-                "full_name": "Liquid",
-                "position": "HOME",
-                "short_name": "Liquid"
-            },
-            {
-                "full_name": "Passion UA",
-                "position": "AWAY",
-                "short_name": "Passion Ua"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Liquid",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Passion UA",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Liquid v Passion Ua",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-01T18:00:00.000Z"
-    },
-    {
-        "contestant_names": "Emerson Jones, (2.25) VERSES Nikola Bartunkova, (1.58)",
-        "start_time_aest": "2026-03-02T05:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "tournamentName": "WTA Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Emerson Jones",
-                "position": "HOME",
-                "short_name": "Emerson Jones"
-            },
-            {
-                "full_name": "Nikola Bartunkova",
-                "position": "AWAY",
-                "short_name": "Bartunkova N"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Emerson Jones",
-                "returnWin": 2.25
-            },
-            {
-                "name": "Nikola Bartunkova",
-                "returnWin": 1.58
-            }
-        ],
-        "match_name": "Emerson Jones v Bartunkova N",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-01T18:00:00.000Z"
-    },
-    {
-        "contestant_names": "Simona Waltert, (1.68) VERSES Himeno Sakatsume, (2.05)",
-        "start_time_aest": "2026-03-02T05:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "tournamentName": "WTA Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Simona Waltert",
-                "position": "HOME",
-                "short_name": "Waltert"
-            },
-            {
-                "full_name": "Himeno Sakatsume",
-                "position": "AWAY",
-                "short_name": "Sakatsume"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Simona Waltert",
-                "returnWin": 1.68
-            },
-            {
-                "name": "Himeno Sakatsume",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Waltert v Sakatsume",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-01T18:00:00.000Z"
+        "start_time": "2026-03-01T18:05:00.000Z"
     }
 ]
