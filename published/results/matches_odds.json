@@ -1,33 +1,65 @@
 [
     {
-        "contestant_names": "BLMA, (1.66) VERSES Villeneuve dAscq, (2.05)",
-        "start_time_aest": "2026-03-02T01:00:00+11:00",
+        "contestant_names": "Huddinge Basket, (1.45) VERSES Ockelbo Bbk, (2.5)",
+        "start_time_aest": "2026-03-02T01:30:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "French Cup Women",
+        "competition_name": "Sweden Superettan",
         "contestants": [
             {
-                "full_name": "BLMA",
+                "full_name": "Huddinge Basket",
                 "position": "HOME",
-                "short_name": "BLMA"
+                "short_name": "Huddinge Basket"
             },
             {
-                "full_name": "Villeneuve dAscq",
+                "full_name": "Ockelbo Bbk",
                 "position": "AWAY",
-                "short_name": "Villeneuve dAscq"
+                "short_name": "Ockelbo Bbk"
             }
         ],
         "propositions": [
             {
-                "name": "BLMA",
-                "returnWin": 1.66
+                "name": "Huddinge Basket",
+                "returnWin": 1.45
             },
             {
-                "name": "Villeneuve dAscq",
-                "returnWin": 2.05
+                "name": "Ockelbo Bbk",
+                "returnWin": 2.5
             }
         ],
-        "match_name": "BLMA v Villeneuve dAscq",
+        "match_name": "Huddinge Basket v Ockelbo Bbk",
         "betOption": "Head To Head",
-        "start_time": "2026-03-01T14:00:00.000Z"
+        "start_time": "2026-03-01T14:30:00.000Z"
+    },
+    {
+        "contestant_names": "Maxime Janvier, (2.35) VERSES Geoffrey Blancaneaux, (1.5)",
+        "start_time_aest": "2026-03-02T01:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Thionville",
+        "contestants": [
+            {
+                "full_name": "Maxime Janvier",
+                "position": "HOME",
+                "short_name": "Janvier"
+            },
+            {
+                "full_name": "Geoffrey Blancaneaux",
+                "position": "AWAY",
+                "short_name": "Blancaneaux"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Maxime Janvier",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Geoffrey Blancaneaux",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Janvier v Blancaneaux",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T14:30:00.000Z"
     }
 ]
