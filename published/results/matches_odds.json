@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Dallas, (1.65) VERSES Nashville, (2.2)",
-        "start_time_aest": "2026-03-01T12:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Dallas",
-                "position": "HOME",
-                "short_name": "Dallas"
-            },
-            {
-                "full_name": "Nashville",
-                "position": "AWAY",
-                "short_name": "Nashville"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Dallas",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Nashville",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Dallas v Nashville",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-01T01:05:00.000Z"
-    },
-    {
         "contestant_names": "Golden State, (2.4) VERSES LA Lakers, (1.6)",
         "start_time_aest": "2026-03-01T12:40:00+11:00",
         "sport_name": "Basketball",
@@ -60,5 +29,67 @@
         "match_name": "Golden State v LA Lakers",
         "betOption": "Head To Head",
         "start_time": "2026-03-01T01:40:00.000Z"
+    },
+    {
+        "contestant_names": "Newcastle, (2.2) VERSES Nth Qld, (1.67)",
+        "start_time_aest": "2026-03-01T13:15:00+11:00",
+        "sport_name": "Rugby League",
+        "competition_name": "NRL",
+        "contestants": [
+            {
+                "full_name": "Newcastle",
+                "position": "HOME",
+                "short_name": "Newcastle"
+            },
+            {
+                "full_name": "Nth Qld",
+                "position": "AWAY",
+                "short_name": "Nth Qld"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Newcastle",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Nth Qld",
+                "returnWin": 1.67
+            }
+        ],
+        "match_name": "Newcastle v Nth Qld",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T02:15:00.000Z"
+    },
+    {
+        "contestant_names": "CSU Bakersfield, (2.3) VERSES Long Beach State, (1.62)",
+        "start_time_aest": "2026-03-01T13:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "CSU Bakersfield",
+                "position": "HOME",
+                "short_name": "CSU Bakersfield"
+            },
+            {
+                "full_name": "Long Beach State",
+                "position": "AWAY",
+                "short_name": "Long Beach State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "CSU Bakersfield",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Long Beach State",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "CSU Bakersfield v Long Beach State",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-01T02:30:00.000Z"
     }
 ]
