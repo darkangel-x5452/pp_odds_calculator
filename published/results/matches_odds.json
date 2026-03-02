@@ -1,101 +1,5 @@
 [
     {
-        "contestant_names": "Imanol Lopez Morillo, (2.05) VERSES Yusuke Takahashi, (1.67)",
-        "start_time_aest": "2026-03-02T22:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Fujairah",
-        "contestants": [
-            {
-                "full_name": "Imanol Lopez Morillo",
-                "position": "HOME",
-                "short_name": "Lopez Morillo"
-            },
-            {
-                "full_name": "Yusuke Takahashi",
-                "position": "AWAY",
-                "short_name": "Takahashi"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Imanol Lopez Morillo",
-                "returnWin": 2.05
-            },
-            {
-                "name": "Yusuke Takahashi",
-                "returnWin": 1.67
-            }
-        ],
-        "match_name": "Lopez Morillo v Takahashi",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-02T11:00:00.000Z"
-    },
-    {
-        "contestant_names": "Keshav Chopra, (1.67) VERSES Alexander Orlov, (2.05)",
-        "start_time_aest": "2026-03-02T22:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Fujairah",
-        "contestants": [
-            {
-                "full_name": "Keshav Chopra",
-                "position": "HOME",
-                "short_name": "Chopra"
-            },
-            {
-                "full_name": "Alexander Orlov",
-                "position": "AWAY",
-                "short_name": "Orlov A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Keshav Chopra",
-                "returnWin": 1.67
-            },
-            {
-                "name": "Alexander Orlov",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Chopra v Orlov A",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-02T11:00:00.000Z"
-    },
-    {
-        "contestant_names": "Gabriele Piraino, (1.45) VERSES Pietro Orlando Fellin, (2.5)",
-        "start_time_aest": "2026-03-02T22:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Hersonissos",
-        "contestants": [
-            {
-                "full_name": "Gabriele Piraino",
-                "position": "HOME",
-                "short_name": "Piraino"
-            },
-            {
-                "full_name": "Pietro Orlando Fellin",
-                "position": "AWAY",
-                "short_name": "Fellin P"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Gabriele Piraino",
-                "returnWin": 1.45
-            },
-            {
-                "name": "Pietro Orlando Fellin",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Piraino v Fellin P",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-02T11:00:00.000Z"
-    },
-    {
         "contestant_names": "Hayu Kinoshita, (1.62) VERSES Aneta Laboutkova, (2.1)",
         "start_time_aest": "2026-03-02T22:15:00+11:00",
         "sport_name": "Tennis",
@@ -187,6 +91,38 @@
             }
         ],
         "match_name": "Rincon D v Durasovic",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T12:00:00.000Z"
+    },
+    {
+        "contestant_names": "Florent Bax, (1.62) VERSES Gabriele Pennaforti, (2.15)",
+        "start_time_aest": "2026-03-02T23:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Kigali",
+        "contestants": [
+            {
+                "full_name": "Florent Bax",
+                "position": "HOME",
+                "short_name": "Bax"
+            },
+            {
+                "full_name": "Gabriele Pennaforti",
+                "position": "AWAY",
+                "short_name": "Pennaforti"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Florent Bax",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Gabriele Pennaforti",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Bax v Pennaforti",
         "betOption": "Head To Head",
         "start_time": "2026-03-02T12:00:00.000Z"
     }
