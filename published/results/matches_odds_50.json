@@ -62,5 +62,69 @@
         "match_name": "Potenza v Carboni",
         "betOption": "Head To Head",
         "start_time": "2026-03-02T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Isabella Maria Serban, (1.8) VERSES Nellie Taraba Wallberg, (1.9)",
+        "start_time_aest": "2026-03-02T20:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Helsinki",
+        "contestants": [
+            {
+                "full_name": "Isabella Maria Serban",
+                "position": "HOME",
+                "short_name": "Serban I"
+            },
+            {
+                "full_name": "Nellie Taraba Wallberg",
+                "position": "AWAY",
+                "short_name": "Taraba Wallberg"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Isabella Maria Serban",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Nellie Taraba Wallberg",
+                "returnWin": 1.9
+            }
+        ],
+        "match_name": "Serban I v Taraba Wallberg",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Eunhye Lee, (1.8) VERSES Jana Otzipka, (1.9)",
+        "start_time_aest": "2026-03-02T20:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Trnava",
+        "contestants": [
+            {
+                "full_name": "Eunhye Lee",
+                "position": "HOME",
+                "short_name": "Lee E"
+            },
+            {
+                "full_name": "Jana Otzipka",
+                "position": "AWAY",
+                "short_name": "Otzipka"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Eunhye Lee",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Jana Otzipka",
+                "returnWin": 1.9
+            }
+        ],
+        "match_name": "Lee E v Otzipka",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T09:00:00.000Z"
     }
 ]
