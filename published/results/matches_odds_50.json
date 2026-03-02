@@ -61,5 +61,36 @@
         "match_name": "Kraus v Hunter S",
         "betOption": "Head To Head",
         "start_time": "2026-03-03T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "NY Rangers, (1.95) VERSES Columbus, (1.85)",
+        "start_time_aest": "2026-03-03T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "NY Rangers",
+                "position": "HOME",
+                "short_name": "NY Rangers"
+            },
+            {
+                "full_name": "Columbus",
+                "position": "AWAY",
+                "short_name": "Columbus"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "NY Rangers",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Columbus",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "NY Rangers v Columbus",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-03T00:05:00.000Z"
     }
 ]
