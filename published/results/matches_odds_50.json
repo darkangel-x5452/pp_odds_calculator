@@ -62,5 +62,101 @@
         "match_name": "Konjikusic v Adams",
         "betOption": "Head To Head",
         "start_time": "2026-03-02T15:15:00.000Z"
+    },
+    {
+        "contestant_names": "Mathys Picard, (1.8) VERSES Victor Barrere, (1.9)",
+        "start_time_aest": "2026-03-03T02:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "tournamentName": "ITFM Poitiers",
+        "contestants": [
+            {
+                "full_name": "Mathys Picard",
+                "position": "HOME",
+                "short_name": "Picard"
+            },
+            {
+                "full_name": "Victor Barrere",
+                "position": "AWAY",
+                "short_name": "Barrere"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mathys Picard",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Victor Barrere",
+                "returnWin": 1.9
+            }
+        ],
+        "match_name": "Picard v Barrere",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T15:45:00.000Z"
+    },
+    {
+        "contestant_names": "Roman Safiullin, (1.95) VERSES Timofey Skatov, (1.75)",
+        "start_time_aest": "2026-03-03T03:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Thionville",
+        "contestants": [
+            {
+                "full_name": "Roman Safiullin",
+                "position": "HOME",
+                "short_name": "Safiullin"
+            },
+            {
+                "full_name": "Timofey Skatov",
+                "position": "AWAY",
+                "short_name": "Skatov"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Roman Safiullin",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Timofey Skatov",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Safiullin v Skatov",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "Catherine Xie, (1.9) VERSES Gabrielle Leslie, (1.8)",
+        "start_time_aest": "2026-03-03T03:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Trois-Rivieres",
+        "contestants": [
+            {
+                "full_name": "Catherine Xie",
+                "position": "HOME",
+                "short_name": "Xie"
+            },
+            {
+                "full_name": "Gabrielle Leslie",
+                "position": "AWAY",
+                "short_name": "Leslie"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Catherine Xie",
+                "returnWin": 1.9
+            },
+            {
+                "name": "Gabrielle Leslie",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Xie v Leslie",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T16:15:00.000Z"
     }
 ]
