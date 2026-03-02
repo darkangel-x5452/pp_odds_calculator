@@ -1,68 +1,5 @@
 [
     {
-        "contestant_names": "Tristan Schoolkate, (1.52) VERSES Alex Bolt, (2.35)",
-        "start_time_aest": "2026-03-03T06:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Masters",
-        "tournamentName": "Masters Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Tristan Schoolkate",
-                "position": "HOME",
-                "short_name": "Schoolkate"
-            },
-            {
-                "full_name": "Alex Bolt",
-                "position": "AWAY",
-                "short_name": "Bolt"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Tristan Schoolkate",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Alex Bolt",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Schoolkate v Bolt",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-02T19:15:00.000Z"
-    },
-    {
-        "contestant_names": "Ireland, (2.15) VERSES Luxembourg, (1.68)",
-        "start_time_aest": "2026-03-03T06:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "EuroBasket",
-        "contestants": [
-            {
-                "full_name": "Ireland",
-                "position": "HOME",
-                "short_name": "Ireland"
-            },
-            {
-                "full_name": "Luxembourg",
-                "position": "AWAY",
-                "short_name": "Luxembourg"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ireland",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Luxembourg",
-                "returnWin": 1.68
-            }
-        ],
-        "match_name": "Ireland v Luxembourg",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-02T19:30:00.000Z"
-    },
-    {
         "contestant_names": "NRG, (1.55) VERSES Team Liquid, (2.3)",
         "start_time_aest": "2026-03-03T07:00:00+11:00",
         "sport_name": "Esports",
@@ -155,6 +92,134 @@
             }
         ],
         "match_name": "Buse v Draxl",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T20:00:00.000Z"
+    },
+    {
+        "contestant_names": "Nicolas Mejia, (2.1) VERSES Nikoloz Basilashvili, (1.65)",
+        "start_time_aest": "2026-03-03T07:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Masters",
+        "tournamentName": "Masters Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Nicolas Mejia",
+                "position": "HOME",
+                "short_name": "Mejia"
+            },
+            {
+                "full_name": "Nikoloz Basilashvili",
+                "position": "AWAY",
+                "short_name": "Basilashvili"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nicolas Mejia",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Nikoloz Basilashvili",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Mejia v Basilashvili",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T20:00:00.000Z"
+    },
+    {
+        "contestant_names": "Leandro Riedi, (1.68) VERSES Rinky Hijikata, (2.05)",
+        "start_time_aest": "2026-03-03T07:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Masters",
+        "tournamentName": "Masters Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Leandro Riedi",
+                "position": "HOME",
+                "short_name": "Riedi"
+            },
+            {
+                "full_name": "Rinky Hijikata",
+                "position": "AWAY",
+                "short_name": "Hijikata"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Leandro Riedi",
+                "returnWin": 1.68
+            },
+            {
+                "name": "Rinky Hijikata",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Riedi v Hijikata",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T20:00:00.000Z"
+    },
+    {
+        "contestant_names": "Tristan Schoolkate, (1.52) VERSES Alex Bolt, (2.35)",
+        "start_time_aest": "2026-03-03T07:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Masters",
+        "tournamentName": "Masters Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Tristan Schoolkate",
+                "position": "HOME",
+                "short_name": "Schoolkate"
+            },
+            {
+                "full_name": "Alex Bolt",
+                "position": "AWAY",
+                "short_name": "Bolt"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tristan Schoolkate",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Alex Bolt",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Schoolkate v Bolt",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T20:00:00.000Z"
+    },
+    {
+        "contestant_names": "Aleksandar Vukic, (1.65) VERSES Stefano Travaglia, (2.1)",
+        "start_time_aest": "2026-03-03T07:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Masters",
+        "tournamentName": "Masters Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Aleksandar Vukic",
+                "position": "HOME",
+                "short_name": "Vukic A"
+            },
+            {
+                "full_name": "Stefano Travaglia",
+                "position": "AWAY",
+                "short_name": "Travaglia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Aleksandar Vukic",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Stefano Travaglia",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Vukic A v Travaglia",
         "betOption": "Head To Head",
         "start_time": "2026-03-02T20:00:00.000Z"
     }
