@@ -1,1 +1,65 @@
-[]
+[
+    {
+        "contestant_names": "Leandro Riedi, (1.75) VERSES Rinky Hijikata, (1.95)",
+        "start_time_aest": "2026-03-03T09:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Masters",
+        "tournamentName": "Masters Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Leandro Riedi",
+                "position": "HOME",
+                "short_name": "Riedi"
+            },
+            {
+                "full_name": "Rinky Hijikata",
+                "position": "AWAY",
+                "short_name": "Hijikata"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Leandro Riedi",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Rinky Hijikata",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Riedi v Hijikata",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T22:30:00.000Z"
+    },
+    {
+        "contestant_names": "Cleveland State, (1.9) VERSES IU Indy, (1.9)",
+        "start_time_aest": "2026-03-03T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Cleveland State",
+                "position": "HOME",
+                "short_name": "Cleveland State"
+            },
+            {
+                "full_name": "IU Indy",
+                "position": "AWAY",
+                "short_name": "IU Indy"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Cleveland State",
+                "returnWin": 1.9
+            },
+            {
+                "name": "IU Indy",
+                "returnWin": 1.9
+            }
+        ],
+        "match_name": "Cleveland State v IU Indy",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-03T00:00:00.000Z"
+    }
+]
