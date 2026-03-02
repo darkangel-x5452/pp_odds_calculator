@@ -62,5 +62,37 @@
         "match_name": "Serban I v Taraba Wallberg",
         "betOption": "Head To Head",
         "start_time": "2026-03-02T10:15:00.000Z"
+    },
+    {
+        "contestant_names": "Keshav Chopra, (1.77) VERSES Alexander Orlov, (1.9)",
+        "start_time_aest": "2026-03-02T22:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Fujairah",
+        "contestants": [
+            {
+                "full_name": "Keshav Chopra",
+                "position": "HOME",
+                "short_name": "Chopra"
+            },
+            {
+                "full_name": "Alexander Orlov",
+                "position": "AWAY",
+                "short_name": "Orlov A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Keshav Chopra",
+                "returnWin": 1.77
+            },
+            {
+                "name": "Alexander Orlov",
+                "returnWin": 1.9
+            }
+        ],
+        "match_name": "Chopra v Orlov A",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T11:00:00.000Z"
     }
 ]
