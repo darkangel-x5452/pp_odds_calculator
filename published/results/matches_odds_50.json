@@ -1,69 +1,5 @@
 [
     {
-        "contestant_names": "Karol Malirz, (1.9) VERSES Ignasi Forcano, (1.8)",
-        "start_time_aest": "2026-03-02T21:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "tournamentName": "ITFM Faro",
-        "contestants": [
-            {
-                "full_name": "Karol Malirz",
-                "position": "HOME",
-                "short_name": "Malirz"
-            },
-            {
-                "full_name": "Ignasi Forcano",
-                "position": "AWAY",
-                "short_name": "Forcano"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Karol Malirz",
-                "returnWin": 1.9
-            },
-            {
-                "name": "Ignasi Forcano",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "Malirz v Forcano",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-02T10:15:00.000Z"
-    },
-    {
-        "contestant_names": "Isabella Maria Serban, (1.85) VERSES Nellie Taraba Wallberg, (1.85)",
-        "start_time_aest": "2026-03-02T21:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "tournamentName": "ITFW Helsinki",
-        "contestants": [
-            {
-                "full_name": "Isabella Maria Serban",
-                "position": "HOME",
-                "short_name": "Serban I"
-            },
-            {
-                "full_name": "Nellie Taraba Wallberg",
-                "position": "AWAY",
-                "short_name": "Taraba Wallberg"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Isabella Maria Serban",
-                "returnWin": 1.85
-            },
-            {
-                "name": "Nellie Taraba Wallberg",
-                "returnWin": 1.85
-            }
-        ],
-        "match_name": "Serban I v Taraba Wallberg",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-02T10:15:00.000Z"
-    },
-    {
         "contestant_names": "Keshav Chopra, (1.77) VERSES Alexander Orlov, (1.9)",
         "start_time_aest": "2026-03-02T22:00:00+11:00",
         "sport_name": "Tennis",
@@ -94,5 +30,37 @@
         "match_name": "Chopra v Orlov A",
         "betOption": "Head To Head",
         "start_time": "2026-03-02T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Martin Riu, (1.9) VERSES Marko Maric, (1.8)",
+        "start_time_aest": "2026-03-02T22:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "tournamentName": "ITFM Poitiers",
+        "contestants": [
+            {
+                "full_name": "Martin Riu",
+                "position": "HOME",
+                "short_name": "Riu M"
+            },
+            {
+                "full_name": "Marko Maric",
+                "position": "AWAY",
+                "short_name": "Maric M"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Martin Riu",
+                "returnWin": 1.9
+            },
+            {
+                "name": "Marko Maric",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Riu M v Maric M",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T11:45:00.000Z"
     }
 ]
