@@ -29,5 +29,37 @@
         "match_name": "Cleveland State v IU Indy",
         "betOption": "Head To Head",
         "start_time": "2026-03-03T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Sinja Kraus, (1.75) VERSES Storm Hunter, (1.95)",
+        "start_time_aest": "2026-03-03T11:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Sinja Kraus",
+                "position": "HOME",
+                "short_name": "Kraus"
+            },
+            {
+                "full_name": "Storm Hunter",
+                "position": "AWAY",
+                "short_name": "Hunter S"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sinja Kraus",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Storm Hunter",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Kraus v Hunter S",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-03T00:00:00.000Z"
     }
 ]
