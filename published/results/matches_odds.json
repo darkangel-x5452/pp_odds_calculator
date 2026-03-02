@@ -62,5 +62,37 @@
         "match_name": "Dittmann v Vlasselaer",
         "betOption": "Head To Head",
         "start_time": "2026-03-02T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Daniil Ostapenkov, (1.67) VERSES Ryuki Matsuda, (2.05)",
+        "start_time_aest": "2026-03-02T20:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Fujairah",
+        "contestants": [
+            {
+                "full_name": "Daniil Ostapenkov",
+                "position": "HOME",
+                "short_name": "OSTAPENKOV"
+            },
+            {
+                "full_name": "Ryuki Matsuda",
+                "position": "AWAY",
+                "short_name": "Matsuda"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Daniil Ostapenkov",
+                "returnWin": 1.67
+            },
+            {
+                "name": "Ryuki Matsuda",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "OSTAPENKOV v Matsuda",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T09:00:00.000Z"
     }
 ]
