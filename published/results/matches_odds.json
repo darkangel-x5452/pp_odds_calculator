@@ -1,37 +1,5 @@
 [
     {
-        "contestant_names": "Ryan Nijboer, (1.45) VERSES Maik Steiner, (2.5)",
-        "start_time_aest": "2026-03-02T19:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Kigali",
-        "contestants": [
-            {
-                "full_name": "Ryan Nijboer",
-                "position": "HOME",
-                "short_name": "Nijboer"
-            },
-            {
-                "full_name": "Maik Steiner",
-                "position": "AWAY",
-                "short_name": "Steiner M"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ryan Nijboer",
-                "returnWin": 1.45
-            },
-            {
-                "name": "Maik Steiner",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Nijboer v Steiner M",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-02T08:30:00.000Z"
-    },
-    {
         "contestant_names": "Daniil Ostapenkov, (1.67) VERSES Ryuki Matsuda, (2.05)",
         "start_time_aest": "2026-03-02T20:00:00+11:00",
         "sport_name": "Tennis",
@@ -156,6 +124,70 @@
             }
         ],
         "match_name": "Barrera v Gulin",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Eero Vasa, (1.7) VERSES Nicholas David Ionel, (2)",
+        "start_time_aest": "2026-03-02T21:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Kigali",
+        "contestants": [
+            {
+                "full_name": "Eero Vasa",
+                "position": "HOME",
+                "short_name": "Vasa E"
+            },
+            {
+                "full_name": "Nicholas David Ionel",
+                "position": "AWAY",
+                "short_name": "Ionel"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Eero Vasa",
+                "returnWin": 1.7
+            },
+            {
+                "name": "Nicholas David Ionel",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Vasa E v Ionel",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Rudolf Molleker, (2.3) VERSES Martin Krumich, (1.52)",
+        "start_time_aest": "2026-03-02T21:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Thionville",
+        "contestants": [
+            {
+                "full_name": "Rudolf Molleker",
+                "position": "HOME",
+                "short_name": "Molleker"
+            },
+            {
+                "full_name": "Martin Krumich",
+                "position": "AWAY",
+                "short_name": "Krumich"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Rudolf Molleker",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Martin Krumich",
+                "returnWin": 1.52
+            }
+        ],
+        "match_name": "Molleker v Krumich",
         "betOption": "Head To Head",
         "start_time": "2026-03-02T10:00:00.000Z"
     }
