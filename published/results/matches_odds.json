@@ -1,7 +1,7 @@
 [
     {
-        "contestant_names": "Ryan Nijboer, (1.48) VERSES Maik Steiner, (2.4)",
-        "start_time_aest": "2026-03-02T19:00:00+11:00",
+        "contestant_names": "Ryan Nijboer, (1.45) VERSES Maik Steiner, (2.5)",
+        "start_time_aest": "2026-03-02T19:30:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "tournamentName": "Challenger Kigali",
@@ -20,48 +20,16 @@
         "propositions": [
             {
                 "name": "Ryan Nijboer",
-                "returnWin": 1.48
+                "returnWin": 1.45
             },
             {
                 "name": "Maik Steiner",
-                "returnWin": 2.4
+                "returnWin": 2.5
             }
         ],
         "match_name": "Nijboer v Steiner M",
         "betOption": "Head To Head",
-        "start_time": "2026-03-02T08:00:00.000Z"
-    },
-    {
-        "contestant_names": "Gina Marie Dittmann, (2.4) VERSES Clara Vlasselaer, (1.5)",
-        "start_time_aest": "2026-03-02T19:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "tournamentName": "ITFW Helsinki",
-        "contestants": [
-            {
-                "full_name": "Gina Marie Dittmann",
-                "position": "HOME",
-                "short_name": "Dittmann"
-            },
-            {
-                "full_name": "Clara Vlasselaer",
-                "position": "AWAY",
-                "short_name": "Vlasselaer"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Gina Marie Dittmann",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Clara Vlasselaer",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Dittmann v Vlasselaer",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-02T08:00:00.000Z"
+        "start_time": "2026-03-02T08:30:00.000Z"
     },
     {
         "contestant_names": "Daniil Ostapenkov, (1.67) VERSES Ryuki Matsuda, (2.05)",
@@ -94,5 +62,101 @@
         "match_name": "OSTAPENKOV v Matsuda",
         "betOption": "Head To Head",
         "start_time": "2026-03-02T09:00:00.000Z"
+    },
+    {
+        "contestant_names": "Lisa Pigato, (1.52) VERSES Anastasia Zolotareva, (2.3)",
+        "start_time_aest": "2026-03-02T20:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Tour",
+        "tournamentName": "WTA 125 Antalya 2",
+        "contestants": [
+            {
+                "full_name": "Lisa Pigato",
+                "position": "HOME",
+                "short_name": "Pigato"
+            },
+            {
+                "full_name": "Anastasia Zolotareva",
+                "position": "AWAY",
+                "short_name": "Zolotareva A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lisa Pigato",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Anastasia Zolotareva",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Pigato v Zolotareva A",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T09:30:00.000Z"
+    },
+    {
+        "contestant_names": "Gabriele Piraino, (1.48) VERSES Pietro Orlando Fellin, (2.4)",
+        "start_time_aest": "2026-03-02T21:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Hersonissos",
+        "contestants": [
+            {
+                "full_name": "Gabriele Piraino",
+                "position": "HOME",
+                "short_name": "Piraino"
+            },
+            {
+                "full_name": "Pietro Orlando Fellin",
+                "position": "AWAY",
+                "short_name": "Fellin P"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Gabriele Piraino",
+                "returnWin": 1.48
+            },
+            {
+                "name": "Pietro Orlando Fellin",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Piraino v Fellin P",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Adria Soriano Barrera, (1.57) VERSES Svyatoslav Gulin, (2.2)",
+        "start_time_aest": "2026-03-02T21:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Hersonissos",
+        "contestants": [
+            {
+                "full_name": "Adria Soriano Barrera",
+                "position": "HOME",
+                "short_name": "Barrera"
+            },
+            {
+                "full_name": "Svyatoslav Gulin",
+                "position": "AWAY",
+                "short_name": "Gulin"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Adria Soriano Barrera",
+                "returnWin": 1.57
+            },
+            {
+                "name": "Svyatoslav Gulin",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Barrera v Gulin",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T10:00:00.000Z"
     }
 ]
