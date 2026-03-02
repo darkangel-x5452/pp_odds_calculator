@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Tristan Schoolkate, (1.52) VERSES Alex Bolt, (2.35)",
-        "start_time_aest": "2026-03-03T06:00:00+11:00",
+        "start_time_aest": "2026-03-03T06:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Masters",
         "tournamentName": "Masters Indian Wells",
@@ -29,7 +29,7 @@
         ],
         "match_name": "Schoolkate v Bolt",
         "betOption": "Head To Head",
-        "start_time": "2026-03-02T19:00:00.000Z"
+        "start_time": "2026-03-02T19:15:00.000Z"
     },
     {
         "contestant_names": "Ireland, (2.15) VERSES Luxembourg, (1.68)",
@@ -61,5 +61,101 @@
         "match_name": "Ireland v Luxembourg",
         "betOption": "Head To Head",
         "start_time": "2026-03-02T19:30:00.000Z"
+    },
+    {
+        "contestant_names": "NRG, (1.55) VERSES Team Liquid, (2.3)",
+        "start_time_aest": "2026-03-03T07:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Valorant",
+        "tournamentName": "Valorant - Masters Santiago",
+        "contestants": [
+            {
+                "full_name": "NRG",
+                "position": "HOME",
+                "short_name": "Nrg"
+            },
+            {
+                "full_name": "Team Liquid",
+                "position": "AWAY",
+                "short_name": "Team Liquid"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "NRG",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Team Liquid",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Nrg v Team Liquid",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T20:00:00.000Z"
+    },
+    {
+        "contestant_names": "Nicolai Budkov Kjaer, (1.62) VERSES Alex Molcan, (2.15)",
+        "start_time_aest": "2026-03-03T07:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Thionville",
+        "contestants": [
+            {
+                "full_name": "Nicolai Budkov Kjaer",
+                "position": "HOME",
+                "short_name": "Budkov Kjaer"
+            },
+            {
+                "full_name": "Alex Molcan",
+                "position": "AWAY",
+                "short_name": "Molcan A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nicolai Budkov Kjaer",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Alex Molcan",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Budkov Kjaer v Molcan A",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T20:00:00.000Z"
+    },
+    {
+        "contestant_names": "Ignacio Buse, (1.62) VERSES Liam Draxl, (2.15)",
+        "start_time_aest": "2026-03-03T07:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Masters",
+        "tournamentName": "Masters Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Ignacio Buse",
+                "position": "HOME",
+                "short_name": "Buse"
+            },
+            {
+                "full_name": "Liam Draxl",
+                "position": "AWAY",
+                "short_name": "Draxl"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ignacio Buse",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Liam Draxl",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Buse v Draxl",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T20:00:00.000Z"
     }
 ]
