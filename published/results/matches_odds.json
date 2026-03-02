@@ -94,5 +94,37 @@
         "match_name": "Schoolkate v Bolt",
         "betOption": "Head To Head",
         "start_time": "2026-03-02T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Juan Carlos Prado Angelo, (2.5) VERSES Guy Den Ouden, (1.46)",
+        "start_time_aest": "2026-03-03T05:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Brasilia",
+        "contestants": [
+            {
+                "full_name": "Juan Carlos Prado Angelo",
+                "position": "HOME",
+                "short_name": "Prado Angelo"
+            },
+            {
+                "full_name": "Guy Den Ouden",
+                "position": "AWAY",
+                "short_name": "Den Ouden Guy"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Juan Carlos Prado Angelo",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Guy Den Ouden",
+                "returnWin": 1.46
+            }
+        ],
+        "match_name": "Prado Angelo v Den Ouden Guy",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T18:00:00.000Z"
     }
 ]
