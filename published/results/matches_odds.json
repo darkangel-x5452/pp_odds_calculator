@@ -1,101 +1,5 @@
 [
     {
-        "contestant_names": "Daniel Batista, (2.15) VERSES Pierre Antoine Tailleu, (1.62)",
-        "start_time_aest": "2026-03-02T23:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "tournamentName": "ITFM Faro",
-        "contestants": [
-            {
-                "full_name": "Daniel Batista",
-                "position": "HOME",
-                "short_name": "Batista"
-            },
-            {
-                "full_name": "Pierre Antoine Tailleu",
-                "position": "AWAY",
-                "short_name": "Tailleu"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Daniel Batista",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Pierre Antoine Tailleu",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Batista v Tailleu",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-02T12:15:00.000Z"
-    },
-    {
-        "contestant_names": "Alejandro Lopez Escribano, (1.55) VERSES Liam Hignett, (2.3)",
-        "start_time_aest": "2026-03-02T23:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "tournamentName": "ITFM Faro",
-        "contestants": [
-            {
-                "full_name": "Alejandro Lopez Escribano",
-                "position": "HOME",
-                "short_name": "Escribano"
-            },
-            {
-                "full_name": "Liam Hignett",
-                "position": "AWAY",
-                "short_name": "Hignett"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Alejandro Lopez Escribano",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Liam Hignett",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Escribano v Hignett",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-02T12:15:00.000Z"
-    },
-    {
-        "contestant_names": "Florent Bax, (1.65) VERSES Gabriele Pennaforti, (2.1)",
-        "start_time_aest": "2026-03-02T23:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Kigali",
-        "contestants": [
-            {
-                "full_name": "Florent Bax",
-                "position": "HOME",
-                "short_name": "Bax"
-            },
-            {
-                "full_name": "Gabriele Pennaforti",
-                "position": "AWAY",
-                "short_name": "Pennaforti"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Florent Bax",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Gabriele Pennaforti",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Bax v Pennaforti",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-02T12:30:00.000Z"
-    },
-    {
         "contestant_names": "Denise Valente, (2.25) VERSES Anna Kmiecik, (1.58)",
         "start_time_aest": "2026-03-02T23:45:00+11:00",
         "sport_name": "Tennis",
@@ -188,6 +92,38 @@
             }
         ],
         "match_name": "Chiarello v Van Zyl",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Florent Bax, (1.62) VERSES Gabriele Pennaforti, (2.15)",
+        "start_time_aest": "2026-03-03T00:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Kigali",
+        "contestants": [
+            {
+                "full_name": "Florent Bax",
+                "position": "HOME",
+                "short_name": "Bax"
+            },
+            {
+                "full_name": "Gabriele Pennaforti",
+                "position": "AWAY",
+                "short_name": "Pennaforti"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Florent Bax",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Gabriele Pennaforti",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Bax v Pennaforti",
         "betOption": "Head To Head",
         "start_time": "2026-03-02T13:00:00.000Z"
     },
