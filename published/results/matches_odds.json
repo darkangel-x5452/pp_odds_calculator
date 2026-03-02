@@ -1,39 +1,7 @@
 [
     {
-        "contestant_names": "Nicolas Jarry, (2.15) VERSES Francesco Maestrelli, (1.62)",
-        "start_time_aest": "2026-03-03T05:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Masters",
-        "tournamentName": "Masters Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Nicolas Jarry",
-                "position": "HOME",
-                "short_name": "Jarry"
-            },
-            {
-                "full_name": "Francesco Maestrelli",
-                "position": "AWAY",
-                "short_name": "Maestrelli"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Nicolas Jarry",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Francesco Maestrelli",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Jarry v Maestrelli",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-02T18:15:00.000Z"
-    },
-    {
         "contestant_names": "Tristan Schoolkate, (1.52) VERSES Alex Bolt, (2.35)",
-        "start_time_aest": "2026-03-03T05:30:00+11:00",
+        "start_time_aest": "2026-03-03T06:00:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Masters",
         "tournamentName": "Masters Indian Wells",
@@ -61,6 +29,37 @@
         ],
         "match_name": "Schoolkate v Bolt",
         "betOption": "Head To Head",
-        "start_time": "2026-03-02T18:30:00.000Z"
+        "start_time": "2026-03-02T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Ireland, (2.15) VERSES Luxembourg, (1.68)",
+        "start_time_aest": "2026-03-03T06:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "EuroBasket",
+        "contestants": [
+            {
+                "full_name": "Ireland",
+                "position": "HOME",
+                "short_name": "Ireland"
+            },
+            {
+                "full_name": "Luxembourg",
+                "position": "AWAY",
+                "short_name": "Luxembourg"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ireland",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Luxembourg",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Ireland v Luxembourg",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-02T19:30:00.000Z"
     }
 ]
