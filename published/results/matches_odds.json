@@ -1,100 +1,5 @@
 [
     {
-        "contestant_names": "Hiroki Moriya, (1.68) VERSES Jamie Mackenzie, (2.05)",
-        "start_time_aest": "2026-03-03T12:55:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens Australia",
-        "tournamentName": "ITFM Launceston",
-        "contestants": [
-            {
-                "full_name": "Hiroki Moriya",
-                "position": "HOME",
-                "short_name": "Moriya H"
-            },
-            {
-                "full_name": "Jamie Mackenzie",
-                "position": "AWAY",
-                "short_name": "Mackenzie"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Hiroki Moriya",
-                "returnWin": 1.68
-            },
-            {
-                "name": "Jamie Mackenzie",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Moriya H v Mackenzie",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-03T01:55:00.000Z"
-    },
-    {
-        "contestant_names": "EastrnWashington, (1.6) VERSES Idaho, (2.35)",
-        "start_time_aest": "2026-03-03T13:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "EastrnWashington",
-                "position": "HOME",
-                "short_name": "EastrnWashington"
-            },
-            {
-                "full_name": "Idaho",
-                "position": "AWAY",
-                "short_name": "Idaho"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "EastrnWashington",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Idaho",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "EastrnWashington v Idaho",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-03T02:00:00.000Z"
-    },
-    {
-        "contestant_names": "Vit Kopriva, (2) VERSES Rei Sakamoto, (1.72)",
-        "start_time_aest": "2026-03-03T13:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Masters",
-        "tournamentName": "Masters Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Vit Kopriva",
-                "position": "HOME",
-                "short_name": "Kopriva"
-            },
-            {
-                "full_name": "Rei Sakamoto",
-                "position": "AWAY",
-                "short_name": "Sakamoto R"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Vit Kopriva",
-                "returnWin": 2
-            },
-            {
-                "name": "Rei Sakamoto",
-                "returnWin": 1.72
-            }
-        ],
-        "match_name": "Kopriva v Sakamoto R",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-03T02:00:00.000Z"
-    },
-    {
         "contestant_names": "Yang Xiaoyin, (1.68) VERSES Haoyuan Huang, (2.05)",
         "start_time_aest": "2026-03-03T13:15:00+11:00",
         "sport_name": "Tennis",
@@ -187,5 +92,67 @@
         "match_name": "Seattle v Carolina",
         "betOption": "Head To Head",
         "start_time": "2026-03-03T03:05:00.000Z"
+    },
+    {
+        "contestant_names": "Golden State, (2) VERSES LA Clippers, (1.85)",
+        "start_time_aest": "2026-03-03T14:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Golden State",
+                "position": "HOME",
+                "short_name": "Golden State"
+            },
+            {
+                "full_name": "LA Clippers",
+                "position": "AWAY",
+                "short_name": "LA Clippers"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Golden State",
+                "returnWin": 2
+            },
+            {
+                "name": "LA Clippers",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Golden State v LA Clippers",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-03T03:10:00.000Z"
+    },
+    {
+        "contestant_names": "Los Angeles, (2.4) VERSES Colorado, (1.55)",
+        "start_time_aest": "2026-03-03T14:35:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Los Angeles",
+                "position": "HOME",
+                "short_name": "Los Angeles"
+            },
+            {
+                "full_name": "Colorado",
+                "position": "AWAY",
+                "short_name": "Colorado"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Los Angeles",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Colorado",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Los Angeles v Colorado",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-03T03:35:00.000Z"
     }
 ]

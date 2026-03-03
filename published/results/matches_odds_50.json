@@ -29,5 +29,37 @@
         "match_name": "Sacramento State v Idaho State",
         "betOption": "Head To Head",
         "start_time": "2026-03-03T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Daria Belyaeva, (1.9) VERSES Le Yi Liu, (1.8)",
+        "start_time_aest": "2026-03-03T14:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Maanshan",
+        "contestants": [
+            {
+                "full_name": "Daria Belyaeva",
+                "position": "HOME",
+                "short_name": "Belyaeva"
+            },
+            {
+                "full_name": "Le Yi Liu",
+                "position": "AWAY",
+                "short_name": "Liu L"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Daria Belyaeva",
+                "returnWin": 1.9
+            },
+            {
+                "name": "Le Yi Liu",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Belyaeva v Liu L",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-03T03:00:00.000Z"
     }
 ]
