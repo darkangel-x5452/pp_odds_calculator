@@ -1,7 +1,7 @@
 [
     {
-        "contestant_names": "Storm Hunter, (1.9) VERSES Leolia Jeanjean, (1.8)",
-        "start_time_aest": "2026-03-04T09:00:00+11:00",
+        "contestant_names": "Storm Hunter, (1.95) VERSES Leolia Jeanjean, (1.75)",
+        "start_time_aest": "2026-03-04T09:30:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA",
         "tournamentName": "WTA Indian Wells",
@@ -20,16 +20,16 @@
         "propositions": [
             {
                 "name": "Storm Hunter",
-                "returnWin": 1.9
+                "returnWin": 1.95
             },
             {
                 "name": "Leolia Jeanjean",
-                "returnWin": 1.8
+                "returnWin": 1.75
             }
         ],
         "match_name": "Hunter S v Jeanjean",
         "betOption": "Head To Head",
-        "start_time": "2026-03-03T22:00:00.000Z"
+        "start_time": "2026-03-03T22:30:00.000Z"
     },
     {
         "contestant_names": "Maine, (1.95) VERSES UMass-Lowell, (1.85)",
@@ -61,5 +61,36 @@
         "match_name": "Maine v UMass-Lowell",
         "betOption": "Head To Head",
         "start_time": "2026-03-03T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Stony Brook, (1.95) VERSES Towson, (1.85)",
+        "start_time_aest": "2026-03-04T10:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Stony Brook",
+                "position": "HOME",
+                "short_name": "Stony Brook"
+            },
+            {
+                "full_name": "Towson",
+                "position": "AWAY",
+                "short_name": "Towson"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Stony Brook",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Towson",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Stony Brook v Towson",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-03T23:30:00.000Z"
     }
 ]
