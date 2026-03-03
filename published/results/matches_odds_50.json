@@ -1,69 +1,5 @@
 [
     {
-        "contestant_names": "Philip Henning, (1.95) VERSES Buvaysar Gadamauri, (1.75)",
-        "start_time_aest": "2026-03-03T19:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Hersonissos",
-        "contestants": [
-            {
-                "full_name": "Philip Henning",
-                "position": "HOME",
-                "short_name": "Henning"
-            },
-            {
-                "full_name": "Buvaysar Gadamauri",
-                "position": "AWAY",
-                "short_name": "Gadamauri B"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Philip Henning",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Buvaysar Gadamauri",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Henning v Gadamauri B",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-03T08:00:00.000Z"
-    },
-    {
-        "contestant_names": "Lui Maxted, (1.85) VERSES Harry Wendelken, (1.85)",
-        "start_time_aest": "2026-03-03T19:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Hersonissos",
-        "contestants": [
-            {
-                "full_name": "Lui Maxted",
-                "position": "HOME",
-                "short_name": "Maxted"
-            },
-            {
-                "full_name": "Harry Wendelken",
-                "position": "AWAY",
-                "short_name": "Wendelken"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Lui Maxted",
-                "returnWin": 1.85
-            },
-            {
-                "name": "Harry Wendelken",
-                "returnWin": 1.85
-            }
-        ],
-        "match_name": "Maxted v Wendelken",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-03T08:00:00.000Z"
-    },
-    {
         "contestant_names": "Gabriele Volpi, (1.9) VERSES Noah Brownrigg, (1.8)",
         "start_time_aest": "2026-03-03T19:15:00+11:00",
         "sport_name": "Tennis",
@@ -126,5 +62,69 @@
         "match_name": "Ruoxi v Di Paola",
         "betOption": "Head To Head",
         "start_time": "2026-03-03T08:15:00.000Z"
+    },
+    {
+        "contestant_names": "Philip Henning, (1.9) VERSES Buvaysar Gadamauri, (1.8)",
+        "start_time_aest": "2026-03-03T19:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Hersonissos",
+        "contestants": [
+            {
+                "full_name": "Philip Henning",
+                "position": "HOME",
+                "short_name": "Henning"
+            },
+            {
+                "full_name": "Buvaysar Gadamauri",
+                "position": "AWAY",
+                "short_name": "Gadamauri B"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Philip Henning",
+                "returnWin": 1.9
+            },
+            {
+                "name": "Buvaysar Gadamauri",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Henning v Gadamauri B",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-03T08:30:00.000Z"
+    },
+    {
+        "contestant_names": "Lui Maxted, (1.85) VERSES Harry Wendelken, (1.85)",
+        "start_time_aest": "2026-03-03T19:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Hersonissos",
+        "contestants": [
+            {
+                "full_name": "Lui Maxted",
+                "position": "HOME",
+                "short_name": "Maxted"
+            },
+            {
+                "full_name": "Harry Wendelken",
+                "position": "AWAY",
+                "short_name": "Wendelken"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lui Maxted",
+                "returnWin": 1.85
+            },
+            {
+                "name": "Harry Wendelken",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Maxted v Wendelken",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-03T08:30:00.000Z"
     }
 ]
