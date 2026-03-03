@@ -1,7 +1,39 @@
 [
     {
+        "contestant_names": "NIP, (1.68) VERSES NRG, (2.05)",
+        "start_time_aest": "2026-03-04T06:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "tournamentName": "CS2 - ESL Pro League Play In",
+        "contestants": [
+            {
+                "full_name": "NIP",
+                "position": "HOME",
+                "short_name": "Nip"
+            },
+            {
+                "full_name": "NRG",
+                "position": "AWAY",
+                "short_name": "Nrg"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "NIP",
+                "returnWin": 1.68
+            },
+            {
+                "name": "NRG",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Nip v Nrg",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-03T19:00:00.000Z"
+    },
+    {
         "contestant_names": "Felipe Alves, (1.6) VERSES Joao Eduardo Schiessl, (2.2)",
-        "start_time_aest": "2026-03-04T05:15:00+11:00",
+        "start_time_aest": "2026-03-04T06:00:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "tournamentName": "Challenger Brasilia",
@@ -29,230 +61,6 @@
         ],
         "match_name": "Alves F v Schiessl",
         "betOption": "Head To Head",
-        "start_time": "2026-03-03T18:15:00.000Z"
-    },
-    {
-        "contestant_names": "Petr Bar Biryukov, (1.6) VERSES Sergey Fomin, (2.2)",
-        "start_time_aest": "2026-03-04T05:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Fujairah",
-        "contestants": [
-            {
-                "full_name": "Petr Bar Biryukov",
-                "position": "HOME",
-                "short_name": "Bar Biryukov"
-            },
-            {
-                "full_name": "Sergey Fomin",
-                "position": "AWAY",
-                "short_name": "Fomin"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Petr Bar Biryukov",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Sergey Fomin",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Bar Biryukov v Fomin",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-03T18:15:00.000Z"
-    },
-    {
-        "contestant_names": "Rio Noguchi, (1.68) VERSES Antoine Ghibaudo, (2.05)",
-        "start_time_aest": "2026-03-04T05:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Fujairah",
-        "contestants": [
-            {
-                "full_name": "Rio Noguchi",
-                "position": "HOME",
-                "short_name": "Noguchi"
-            },
-            {
-                "full_name": "Antoine Ghibaudo",
-                "position": "AWAY",
-                "short_name": "Ghibaudo A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Rio Noguchi",
-                "returnWin": 1.68
-            },
-            {
-                "name": "Antoine Ghibaudo",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Noguchi v Ghibaudo A",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-03T18:15:00.000Z"
-    },
-    {
-        "contestant_names": "Max Schoenhaus, (2.5) VERSES Zhou Yi, (1.46)",
-        "start_time_aest": "2026-03-04T05:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Fujairah",
-        "contestants": [
-            {
-                "full_name": "Max Schoenhaus",
-                "position": "HOME",
-                "short_name": "Schoenhaus"
-            },
-            {
-                "full_name": "Zhou Yi",
-                "position": "AWAY",
-                "short_name": "Zhou Y"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Max Schoenhaus",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Zhou Yi",
-                "returnWin": 1.46
-            }
-        ],
-        "match_name": "Schoenhaus v Zhou Y",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-03T18:15:00.000Z"
-    },
-    {
-        "contestant_names": "Kamilla Rakhimova, (1.62) VERSES Maria Timofeeva, (2.15)",
-        "start_time_aest": "2026-03-04T05:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "tournamentName": "WTA Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Kamilla Rakhimova",
-                "position": "HOME",
-                "short_name": "Rakhimova"
-            },
-            {
-                "full_name": "Maria Timofeeva",
-                "position": "AWAY",
-                "short_name": "Timofeeva"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Kamilla Rakhimova",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Maria Timofeeva",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Rakhimova v Timofeeva",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-03T18:15:00.000Z"
-    },
-    {
-        "contestant_names": "Lulu Sun, (1.5) VERSES Diane Parry, (2.4)",
-        "start_time_aest": "2026-03-04T05:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "tournamentName": "WTA Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Lulu Sun",
-                "position": "HOME",
-                "short_name": "Sun L"
-            },
-            {
-                "full_name": "Diane Parry",
-                "position": "AWAY",
-                "short_name": "Parry"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Lulu Sun",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Diane Parry",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Sun L v Parry",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-03T18:15:00.000Z"
-    },
-    {
-        "contestant_names": "Elvina Kalieva, (2.4) VERSES Talia Gibson, (1.5)",
-        "start_time_aest": "2026-03-04T05:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "tournamentName": "WTA Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Elvina Kalieva",
-                "position": "HOME",
-                "short_name": "Kalieva E"
-            },
-            {
-                "full_name": "Talia Gibson",
-                "position": "AWAY",
-                "short_name": "Gibson T"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Elvina Kalieva",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Talia Gibson",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Kalieva E v Gibson T",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-03T18:15:00.000Z"
-    },
-    {
-        "contestant_names": "Marina Stakusic, (1.65) VERSES Mananchaya Sawangkaew, (2.1)",
-        "start_time_aest": "2026-03-04T05:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "tournamentName": "WTA Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Marina Stakusic",
-                "position": "HOME",
-                "short_name": "Stakusic"
-            },
-            {
-                "full_name": "Mananchaya Sawangkaew",
-                "position": "AWAY",
-                "short_name": "Sawangkaew"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Marina Stakusic",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Mananchaya Sawangkaew",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Stakusic v Sawangkaew",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-03T18:15:00.000Z"
+        "start_time": "2026-03-03T19:00:00.000Z"
     }
 ]
