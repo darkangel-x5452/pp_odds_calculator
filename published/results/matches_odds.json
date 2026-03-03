@@ -1,39 +1,7 @@
 [
     {
-        "contestant_names": "NIP, (1.65) VERSES NRG, (2.1)",
-        "start_time_aest": "2026-03-04T07:45:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "Counter Strike 2",
-        "tournamentName": "CS2 - ESL Pro League Play In",
-        "contestants": [
-            {
-                "full_name": "NIP",
-                "position": "HOME",
-                "short_name": "Nip"
-            },
-            {
-                "full_name": "NRG",
-                "position": "AWAY",
-                "short_name": "Nrg"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "NIP",
-                "returnWin": 1.65
-            },
-            {
-                "name": "NRG",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Nip v Nrg",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-03T20:45:00.000Z"
-    },
-    {
-        "contestant_names": "Aleksandar Vukic, (2.35) VERSES Dino Prizmic, (1.52)",
-        "start_time_aest": "2026-03-04T08:00:00+11:00",
+        "contestant_names": "Aleksandar Vukic, (2.4) VERSES Dino Prizmic, (1.5)",
+        "start_time_aest": "2026-03-04T08:30:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Masters",
         "tournamentName": "Masters Indian Wells",
@@ -52,16 +20,16 @@
         "propositions": [
             {
                 "name": "Aleksandar Vukic",
-                "returnWin": 2.35
+                "returnWin": 2.4
             },
             {
                 "name": "Dino Prizmic",
-                "returnWin": 1.52
+                "returnWin": 1.5
             }
         ],
         "match_name": "Vukic A v Prizmic",
         "betOption": "Head To Head",
-        "start_time": "2026-03-03T21:00:00.000Z"
+        "start_time": "2026-03-03T21:30:00.000Z"
     },
     {
         "contestant_names": "Dalma Galfi, (1.6) VERSES Lanlana Tararudee, (2.2)",
@@ -186,6 +154,38 @@
             }
         ],
         "match_name": "UL Lafayette v Georgia State",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-03T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Thomas Fancutt, (2.25) VERSES Tai Sach, (1.58)",
+        "start_time_aest": "2026-03-04T10:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens Australia",
+        "tournamentName": "ITFM Launceston",
+        "contestants": [
+            {
+                "full_name": "Thomas Fancutt",
+                "position": "HOME",
+                "short_name": "Fancutt"
+            },
+            {
+                "full_name": "Tai Sach",
+                "position": "AWAY",
+                "short_name": "Sach"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Thomas Fancutt",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Tai Sach",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Fancutt v Sach",
         "betOption": "Head To Head",
         "start_time": "2026-03-03T23:00:00.000Z"
     }
