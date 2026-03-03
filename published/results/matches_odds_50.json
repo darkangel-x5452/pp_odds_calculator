@@ -1,37 +1,5 @@
 [
     {
-        "contestant_names": "Storm Hunter, (1.95) VERSES Leolia Jeanjean, (1.75)",
-        "start_time_aest": "2026-03-04T09:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "tournamentName": "WTA Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Storm Hunter",
-                "position": "HOME",
-                "short_name": "Hunter S"
-            },
-            {
-                "full_name": "Leolia Jeanjean",
-                "position": "AWAY",
-                "short_name": "Jeanjean"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Storm Hunter",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Leolia Jeanjean",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Hunter S v Jeanjean",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-03T22:30:00.000Z"
-    },
-    {
         "contestant_names": "Maine, (1.95) VERSES UMass-Lowell, (1.85)",
         "start_time_aest": "2026-03-04T10:00:00+11:00",
         "sport_name": "Basketball",
@@ -59,6 +27,38 @@
             }
         ],
         "match_name": "Maine v UMass-Lowell",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-03T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Storm Hunter, (1.95) VERSES Leolia Jeanjean, (1.75)",
+        "start_time_aest": "2026-03-04T10:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Storm Hunter",
+                "position": "HOME",
+                "short_name": "Hunter S"
+            },
+            {
+                "full_name": "Leolia Jeanjean",
+                "position": "AWAY",
+                "short_name": "Jeanjean"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Storm Hunter",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Leolia Jeanjean",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Hunter S v Jeanjean",
         "betOption": "Head To Head",
         "start_time": "2026-03-03T23:00:00.000Z"
     },
