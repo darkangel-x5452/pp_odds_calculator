@@ -186,5 +186,37 @@
         "match_name": "Koyama H v Tian",
         "betOption": "Head To Head",
         "start_time": "2026-03-03T04:15:00.000Z"
+    },
+    {
+        "contestant_names": "Ha Eum Lee, (2.25) VERSES Tiana Tian Deng, (1.58)",
+        "start_time_aest": "2026-03-03T16:11:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Maanshan",
+        "contestants": [
+            {
+                "full_name": "Ha Eum Lee",
+                "position": "HOME",
+                "short_name": "Lee"
+            },
+            {
+                "full_name": "Tiana Tian Deng",
+                "position": "AWAY",
+                "short_name": "Tiana Tian Deng"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ha Eum Lee",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Tiana Tian Deng",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Lee v Tiana Tian Deng",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-03T05:11:00.000Z"
     }
 ]
