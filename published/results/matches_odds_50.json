@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Ilya Ivashka, (1.9) VERSES Felix Balshaw, (1.77)",
-        "start_time_aest": "2026-03-03T22:30:00+11:00",
+        "start_time_aest": "2026-03-03T23:00:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "tournamentName": "Challenger Fujairah",
@@ -29,6 +29,38 @@
         ],
         "match_name": "Ivashka v Balshaw",
         "betOption": "Head To Head",
-        "start_time": "2026-03-03T11:30:00.000Z"
+        "start_time": "2026-03-03T12:00:00.000Z"
+    },
+    {
+        "contestant_names": "Dan Added, (1.95) VERSES Martin Krumich, (1.75)",
+        "start_time_aest": "2026-03-03T23:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Thionville",
+        "contestants": [
+            {
+                "full_name": "Dan Added",
+                "position": "HOME",
+                "short_name": "Added D"
+            },
+            {
+                "full_name": "Martin Krumich",
+                "position": "AWAY",
+                "short_name": "Krumich"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Dan Added",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Martin Krumich",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Added D v Krumich",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-03T12:00:00.000Z"
     }
 ]
