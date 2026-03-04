@@ -1,1 +1,33 @@
-[]
+[
+    {
+        "contestant_names": "UCLA, (1.9) VERSES Nebraska, (1.9)",
+        "start_time_aest": "2026-03-04T15:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "UCLA",
+                "position": "HOME",
+                "short_name": "UCLA"
+            },
+            {
+                "full_name": "Nebraska",
+                "position": "AWAY",
+                "short_name": "Nebraska"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "UCLA",
+                "returnWin": 1.9
+            },
+            {
+                "name": "Nebraska",
+                "returnWin": 1.9
+            }
+        ],
+        "match_name": "UCLA v Nebraska",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-04T04:00:00.000Z"
+    }
+]
