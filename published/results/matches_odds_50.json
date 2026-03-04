@@ -29,5 +29,36 @@
         "match_name": "Polpharma Starog v WKK Wroclaw",
         "betOption": "Head To Head",
         "start_time": "2026-03-04T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Alvik Basket, (1.95) VERSES Eskilstuna Bbk, (1.73)",
+        "start_time_aest": "2026-03-05T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Sweden Superettan",
+        "contestants": [
+            {
+                "full_name": "Alvik Basket",
+                "position": "HOME",
+                "short_name": "Alvik Basket"
+            },
+            {
+                "full_name": "Eskilstuna Bbk",
+                "position": "AWAY",
+                "short_name": "Eskilstuna Bbk"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alvik Basket",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Eskilstuna Bbk",
+                "returnWin": 1.73
+            }
+        ],
+        "match_name": "Alvik Basket v Eskilstuna Bbk",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-04T18:00:00.000Z"
     }
 ]
