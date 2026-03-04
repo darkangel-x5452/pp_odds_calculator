@@ -176,7 +176,7 @@ class GetMatchesOdds:
         for _proposition in clean_propositions:
             return_win = _proposition["returnWin"]
             if not_fifty_flag is False:
-                not_fifty_flag = True if return_win > self.min_odds else False
+                not_fifty_flag = True if return_win >= self.min_odds else False
         return not not_fifty_flag
 
     def _handle_matches(self, matches: list[dict]) -> dict[str, list[dict]]:

@@ -3,8 +3,8 @@ import plotly.express as px
 
 class CalculatorMetrics:
     def __init__(self):
-        file_path = "/mnt/c/Users/s/Downloads/bet_records_shared - main.csv"
-        data_pd = pd.read_csv(file_path, skiprows=5)
+        file_path = "/mnt/c/Users/s/Downloads/bet_records_shared_-_main_all.csv"
+        data_pd = pd.read_csv(file_path, skiprows=6)
         self.odds_col = "chatgpt_favour"
         # self.odds_col = "win"
         sport_col = "sport"
