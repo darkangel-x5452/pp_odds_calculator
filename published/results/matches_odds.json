@@ -1,70 +1,69 @@
 [
     {
-        "contestant_names": "Villeneuve dAscq, (1.58) VERSES Athinaikos, (2.25)",
-        "start_time_aest": "2026-03-05T06:00:00+11:00",
+        "contestant_names": "Leicester, (1.68) VERSES Sheffield, (2.05)",
+        "start_time_aest": "2026-03-05T06:30:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "EuroCup Women",
+        "competition_name": "British Basketball League",
         "contestants": [
             {
-                "full_name": "Villeneuve dAscq",
+                "full_name": "Leicester",
                 "position": "HOME",
-                "short_name": "Villeneuve dAscq"
+                "short_name": "Leicester"
             },
             {
-                "full_name": "Athinaikos",
+                "full_name": "Sheffield",
                 "position": "AWAY",
-                "short_name": "Athinaikos"
+                "short_name": "Sheffield"
             }
         ],
         "propositions": [
             {
-                "name": "Villeneuve dAscq",
-                "returnWin": 1.58
+                "name": "Leicester",
+                "returnWin": 1.68
             },
             {
-                "name": "Athinaikos",
-                "returnWin": 2.25
+                "name": "Sheffield",
+                "returnWin": 2.05
             }
         ],
-        "match_name": "Villeneuve dAscq v Athinaikos",
+        "match_name": "Leicester v Sheffield",
         "betOption": "Head To Head",
-        "start_time": "2026-03-04T19:00:00.000Z"
+        "start_time": "2026-03-04T19:30:00.000Z"
     },
     {
-        "contestant_names": "Michael Kouame, (2.15) VERSES Giulio Zeppieri, (1.62)",
-        "start_time_aest": "2026-03-05T06:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Thionville",
+        "contestant_names": "Lorient, (1.65) VERSES Nice, (2.15)",
+        "start_time_aest": "2026-03-05T06:30:00+11:00",
+        "sport_name": "Soccer",
+        "competition_name": "France Cup",
         "contestants": [
             {
-                "full_name": "Michael Kouame",
+                "full_name": "Lorient",
                 "position": "HOME",
-                "short_name": "Kouame"
+                "short_name": "Lorient"
             },
             {
-                "full_name": "Giulio Zeppieri",
+                "full_name": "Nice",
                 "position": "AWAY",
-                "short_name": "Zeppieri"
+                "short_name": "Nice"
             }
         ],
         "propositions": [
             {
-                "name": "Michael Kouame",
-                "returnWin": 2.15
+                "name": "Lorient",
+                "returnWin": 1.65
             },
             {
-                "name": "Giulio Zeppieri",
-                "returnWin": 1.62
+                "name": "Nice",
+                "returnWin": 2.15
             }
         ],
-        "match_name": "Kouame v Zeppieri",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-04T19:00:00.000Z"
+        "match_name": "Lorient v Nice",
+        "betOption": "Winner of Tie",
+        "start_time": "2026-03-04T19:30:00.000Z"
     },
     {
         "contestant_names": "Quentin Halys, (1.5) VERSES Adam Walton, (2.5)",
-        "start_time_aest": "2026-03-05T06:00:00+11:00",
+        "start_time_aest": "2026-03-05T06:30:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Masters",
         "tournamentName": "Masters Indian Wells",
@@ -92,11 +91,11 @@
         ],
         "match_name": "Halys v Walton",
         "betOption": "Head To Head",
-        "start_time": "2026-03-04T19:00:00.000Z"
+        "start_time": "2026-03-04T19:30:00.000Z"
     },
     {
-        "contestant_names": "Camilo Ugo Carabelli, (2.35) VERSES Martin Damm Jr, (1.55)",
-        "start_time_aest": "2026-03-05T06:00:00+11:00",
+        "contestant_names": "Camilo Ugo Carabelli, (2.4) VERSES Martin Damm Jr, (1.52)",
+        "start_time_aest": "2026-03-05T06:30:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Masters",
         "tournamentName": "Masters Indian Wells",
@@ -115,20 +114,20 @@
         "propositions": [
             {
                 "name": "Camilo Ugo Carabelli",
-                "returnWin": 2.35
+                "returnWin": 2.4
             },
             {
                 "name": "Martin Damm Jr",
-                "returnWin": 1.55
+                "returnWin": 1.52
             }
         ],
         "match_name": "Ugo Carabelli v Damm",
         "betOption": "Head To Head",
-        "start_time": "2026-03-04T19:00:00.000Z"
+        "start_time": "2026-03-04T19:30:00.000Z"
     },
     {
-        "contestant_names": "Kimberly Birrell, (2.05) VERSES Oksana Selekhmeteva, (1.75)",
-        "start_time_aest": "2026-03-05T06:00:00+11:00",
+        "contestant_names": "Kimberly Birrell, (2.1) VERSES Oksana Selekhmeteva, (1.7)",
+        "start_time_aest": "2026-03-05T06:30:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA",
         "tournamentName": "WTA Indian Wells",
@@ -147,77 +146,15 @@
         "propositions": [
             {
                 "name": "Kimberly Birrell",
-                "returnWin": 2.05
+                "returnWin": 2.1
             },
             {
                 "name": "Oksana Selekhmeteva",
-                "returnWin": 1.75
+                "returnWin": 1.7
             }
         ],
         "match_name": "Birrell K v Selekhmeteva",
         "betOption": "Head To Head",
-        "start_time": "2026-03-04T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Chieri 76 (W), (2.15) VERSES Agil Novara (W), (1.62)",
-        "start_time_aest": "2026-03-05T06:00:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Italy Serie A1 Women",
-        "contestants": [
-            {
-                "full_name": "Chieri 76 (W)",
-                "position": "HOME",
-                "short_name": "Chieri 76 (W)"
-            },
-            {
-                "full_name": "Agil Novara (W)",
-                "position": "AWAY",
-                "short_name": "Agil Novara (W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Chieri 76 (W)",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Agil Novara (W)",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Chieri 76 (W) v Agil Novara (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-04T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "McD Brescia, (1.62) VERSES CMC Ravenna, (2.15)",
-        "start_time_aest": "2026-03-05T06:00:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Italy Serie A2 Men",
-        "contestants": [
-            {
-                "full_name": "McD Brescia",
-                "position": "HOME",
-                "short_name": "McD Brescia"
-            },
-            {
-                "full_name": "CMC Ravenna",
-                "position": "AWAY",
-                "short_name": "CMC Ravenna"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "McD Brescia",
-                "returnWin": 1.62
-            },
-            {
-                "name": "CMC Ravenna",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "McD Brescia v CMC Ravenna",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-04T19:00:00.000Z"
+        "start_time": "2026-03-04T19:30:00.000Z"
     }
 ]
