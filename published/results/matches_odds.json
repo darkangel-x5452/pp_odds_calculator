@@ -1,37 +1,5 @@
 [
     {
-        "contestant_names": "Meng Yi Chen, (2.15) VERSES Anastasia Lizunova, (1.62)",
-        "start_time_aest": "2026-03-04T15:55:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "tournamentName": "ITFW Maanshan",
-        "contestants": [
-            {
-                "full_name": "Meng Yi Chen",
-                "position": "HOME",
-                "short_name": "Yi Chen Meng"
-            },
-            {
-                "full_name": "Anastasia Lizunova",
-                "position": "AWAY",
-                "short_name": "Lizunova"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Meng Yi Chen",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Anastasia Lizunova",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Yi Chen Meng v Lizunova",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-04T04:55:00.000Z"
-    },
-    {
         "contestant_names": "Haoyuan Huang, (2.2) VERSES Kai-I Wang, (1.6)",
         "start_time_aest": "2026-03-04T17:30:00+11:00",
         "sport_name": "Tennis",
@@ -220,6 +188,38 @@
             }
         ],
         "match_name": "Pieri T v Teixido Garcia",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-04T07:30:00.000Z"
+    },
+    {
+        "contestant_names": "Tamara Zidansek, (2) VERSES Veronika Erjavec, (1.72)",
+        "start_time_aest": "2026-03-04T18:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Tour",
+        "tournamentName": "WTA 125 Antalya 2",
+        "contestants": [
+            {
+                "full_name": "Tamara Zidansek",
+                "position": "HOME",
+                "short_name": "Zidansek"
+            },
+            {
+                "full_name": "Veronika Erjavec",
+                "position": "AWAY",
+                "short_name": "Erjavec"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tamara Zidansek",
+                "returnWin": 2
+            },
+            {
+                "name": "Veronika Erjavec",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "Zidansek v Erjavec",
         "betOption": "Head To Head",
         "start_time": "2026-03-04T07:30:00.000Z"
     }
