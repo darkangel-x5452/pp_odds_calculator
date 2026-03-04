@@ -1,69 +1,5 @@
 [
     {
-        "contestant_names": "Haoyuan Huang, (2.2) VERSES Kai-I Wang, (1.6)",
-        "start_time_aest": "2026-03-04T17:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "tournamentName": "ITFM Maanshan",
-        "contestants": [
-            {
-                "full_name": "Haoyuan Huang",
-                "position": "HOME",
-                "short_name": "Huang H"
-            },
-            {
-                "full_name": "Kai-I Wang",
-                "position": "AWAY",
-                "short_name": "Wang K"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Haoyuan Huang",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Kai-I Wang",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Huang H v Wang K",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-04T06:30:00.000Z"
-    },
-    {
-        "contestant_names": "Jeremy Schifris, (2) VERSES Fanming Meng, (1.72)",
-        "start_time_aest": "2026-03-04T17:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "tournamentName": "ITFM Maanshan",
-        "contestants": [
-            {
-                "full_name": "Jeremy Schifris",
-                "position": "HOME",
-                "short_name": "Schifris"
-            },
-            {
-                "full_name": "Fanming Meng",
-                "position": "AWAY",
-                "short_name": "Meng"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jeremy Schifris",
-                "returnWin": 2
-            },
-            {
-                "name": "Fanming Meng",
-                "returnWin": 1.72
-            }
-        ],
-        "match_name": "Schifris v Meng",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-04T06:30:00.000Z"
-    },
-    {
         "contestant_names": "Stefan Horia Haita, (1.62) VERSES Mattia Nannelli, (2.15)",
         "start_time_aest": "2026-03-04T18:00:00+11:00",
         "sport_name": "Tennis",
@@ -222,5 +158,101 @@
         "match_name": "Zidansek v Erjavec",
         "betOption": "Head To Head",
         "start_time": "2026-03-04T07:30:00.000Z"
+    },
+    {
+        "contestant_names": "Harry Wendelken, (2.15) VERSES Stefan Dostanic, (1.62)",
+        "start_time_aest": "2026-03-04T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Hersonissos",
+        "contestants": [
+            {
+                "full_name": "Harry Wendelken",
+                "position": "HOME",
+                "short_name": "Wendelken"
+            },
+            {
+                "full_name": "Stefan Dostanic",
+                "position": "AWAY",
+                "short_name": "Dostanic"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Harry Wendelken",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Stefan Dostanic",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Wendelken v Dostanic",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-04T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Calvin Hemery, (1.46) VERSES Ryan Nijboer, (2.5)",
+        "start_time_aest": "2026-03-04T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Kigali",
+        "contestants": [
+            {
+                "full_name": "Calvin Hemery",
+                "position": "HOME",
+                "short_name": "Hemery"
+            },
+            {
+                "full_name": "Ryan Nijboer",
+                "position": "AWAY",
+                "short_name": "Nijboer"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Calvin Hemery",
+                "returnWin": 1.46
+            },
+            {
+                "name": "Ryan Nijboer",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Hemery v Nijboer",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-04T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Samuel Vincent Ruggeri, (1.55) VERSES Faris Zakaryia, (2.3)",
+        "start_time_aest": "2026-03-04T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "tournamentName": "ITFM Sharm El Sheikh",
+        "contestants": [
+            {
+                "full_name": "Samuel Vincent Ruggeri",
+                "position": "HOME",
+                "short_name": "Ruggeri"
+            },
+            {
+                "full_name": "Faris Zakaryia",
+                "position": "AWAY",
+                "short_name": "Zakaryia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Samuel Vincent Ruggeri",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Faris Zakaryia",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Ruggeri v Zakaryia",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-04T08:00:00.000Z"
     }
 ]
