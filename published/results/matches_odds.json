@@ -1,70 +1,38 @@
 [
     {
-        "contestant_names": "Butler, (1.67) VERSES Creighton, (2.2)",
-        "start_time_aest": "2026-03-05T10:00:00+11:00",
+        "contestant_names": "La Salle, (2.25) VERSES Fordham, (1.65)",
+        "start_time_aest": "2026-03-05T10:30:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Butler",
+                "full_name": "La Salle",
                 "position": "HOME",
-                "short_name": "Butler"
+                "short_name": "La Salle"
             },
             {
-                "full_name": "Creighton",
+                "full_name": "Fordham",
                 "position": "AWAY",
-                "short_name": "Creighton"
+                "short_name": "Fordham"
             }
         ],
         "propositions": [
             {
-                "name": "Butler",
-                "returnWin": 1.67
-            },
-            {
-                "name": "Creighton",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Butler v Creighton",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-04T23:00:00.000Z"
-    },
-    {
-        "contestant_names": "Pavle Marinkov, (1.58) VERSES Matthew Dellavedova, (2.25)",
-        "start_time_aest": "2026-03-05T10:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens Australia",
-        "tournamentName": "ITFM Launceston",
-        "contestants": [
-            {
-                "full_name": "Pavle Marinkov",
-                "position": "HOME",
-                "short_name": "Marinkov"
-            },
-            {
-                "full_name": "Matthew Dellavedova",
-                "position": "AWAY",
-                "short_name": "Dellavedova"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Pavle Marinkov",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Matthew Dellavedova",
+                "name": "La Salle",
                 "returnWin": 2.25
+            },
+            {
+                "name": "Fordham",
+                "returnWin": 1.65
             }
         ],
-        "match_name": "Marinkov v Dellavedova",
+        "match_name": "La Salle v Fordham",
         "betOption": "Head To Head",
-        "start_time": "2026-03-04T23:00:00.000Z"
+        "start_time": "2026-03-04T23:30:00.000Z"
     },
     {
         "contestant_names": "Jenson Brooksby, (1.7) VERSES Alexei Popyrin, (2.1)",
-        "start_time_aest": "2026-03-05T10:00:00+11:00",
+        "start_time_aest": "2026-03-05T10:30:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Masters",
         "tournamentName": "Masters Indian Wells",
@@ -92,107 +60,11 @@
         ],
         "match_name": "Brooksby v Popyrin Al",
         "betOption": "Head To Head",
-        "start_time": "2026-03-04T23:00:00.000Z"
-    },
-    {
-        "contestant_names": "Marton Fucsovics, (1.75) VERSES Christopher OConnell, (2.05)",
-        "start_time_aest": "2026-03-05T10:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Masters",
-        "tournamentName": "Masters Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Marton Fucsovics",
-                "position": "HOME",
-                "short_name": "Fucsovics"
-            },
-            {
-                "full_name": "Christopher OConnell",
-                "position": "AWAY",
-                "short_name": "OConnell"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Marton Fucsovics",
-                "returnWin": 1.75
-            },
-            {
-                "name": "Christopher OConnell",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Fucsovics v OConnell",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-04T23:00:00.000Z"
-    },
-    {
-        "contestant_names": "Jessica Bouzas Maneiro, (1.62) VERSES Beatriz Haddad Maia, (2.2)",
-        "start_time_aest": "2026-03-05T10:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "tournamentName": "WTA Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Jessica Bouzas Maneiro",
-                "position": "HOME",
-                "short_name": "Maneiro"
-            },
-            {
-                "full_name": "Beatriz Haddad Maia",
-                "position": "AWAY",
-                "short_name": "Haddad Maia"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jessica Bouzas Maneiro",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Beatriz Haddad Maia",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Maneiro v Haddad Maia",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-04T23:00:00.000Z"
-    },
-    {
-        "contestant_names": "Ella Seidel, (2.25) VERSES Anastasia Zakharova, (1.6)",
-        "start_time_aest": "2026-03-05T10:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "tournamentName": "WTA Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Ella Seidel",
-                "position": "HOME",
-                "short_name": "Seidel E"
-            },
-            {
-                "full_name": "Anastasia Zakharova",
-                "position": "AWAY",
-                "short_name": "Zakharova A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ella Seidel",
-                "returnWin": 2.25
-            },
-            {
-                "name": "Anastasia Zakharova",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Seidel E v Zakharova A",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-04T23:00:00.000Z"
+        "start_time": "2026-03-04T23:30:00.000Z"
     },
     {
         "contestant_names": "Himeno Sakatsume, (2.05) VERSES Alycia Parks, (1.75)",
-        "start_time_aest": "2026-03-05T10:00:00+11:00",
+        "start_time_aest": "2026-03-05T10:30:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA",
         "tournamentName": "WTA Indian Wells",
@@ -220,6 +92,130 @@
         ],
         "match_name": "Sakatsume v Parks",
         "betOption": "Head To Head",
-        "start_time": "2026-03-04T23:00:00.000Z"
+        "start_time": "2026-03-04T23:30:00.000Z"
+    },
+    {
+        "contestant_names": "SMU, (1.8) VERSES Miami (FL), (2)",
+        "start_time_aest": "2026-03-05T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "SMU",
+                "position": "HOME",
+                "short_name": "SMU"
+            },
+            {
+                "full_name": "Miami (FL)",
+                "position": "AWAY",
+                "short_name": "Miami (FL)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "SMU",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Miami (FL)",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "SMU v Miami (FL)",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Providence, (1.53) VERSES Marquette, (2.5)",
+        "start_time_aest": "2026-03-05T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Providence",
+                "position": "HOME",
+                "short_name": "Providence"
+            },
+            {
+                "full_name": "Marquette",
+                "position": "AWAY",
+                "short_name": "Marquette"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Providence",
+                "returnWin": 1.53
+            },
+            {
+                "name": "Marquette",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Providence v Marquette",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Oakland, (1.77) VERSES Nth Kentucky, (2.05)",
+        "start_time_aest": "2026-03-05T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Oakland",
+                "position": "HOME",
+                "short_name": "Oakland"
+            },
+            {
+                "full_name": "Nth Kentucky",
+                "position": "AWAY",
+                "short_name": "Nth Kentucky"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Oakland",
+                "returnWin": 1.77
+            },
+            {
+                "name": "Nth Kentucky",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Oakland v Nth Kentucky",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Robert Morris, (1.55) VERSES Youngstown State, (2.45)",
+        "start_time_aest": "2026-03-05T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Robert Morris",
+                "position": "HOME",
+                "short_name": "Robert Morris"
+            },
+            {
+                "full_name": "Youngstown State",
+                "position": "AWAY",
+                "short_name": "Youngstown State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Robert Morris",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Youngstown State",
+                "returnWin": 2.45
+            }
+        ],
+        "match_name": "Robert Morris v Youngstown State",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T00:00:00.000Z"
     }
 ]
