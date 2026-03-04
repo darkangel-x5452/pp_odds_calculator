@@ -93,5 +93,36 @@
         "match_name": "KokkolanTiikerit v Savo Volley",
         "betOption": "Head To Head",
         "start_time": "2026-03-04T16:30:00.000Z"
+    },
+    {
+        "contestant_names": "NH Ostrava, (1.78) VERSES BK Opava, (1.88)",
+        "start_time_aest": "2026-03-05T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Czech Republic NBL",
+        "contestants": [
+            {
+                "full_name": "NH Ostrava",
+                "position": "HOME",
+                "short_name": "NH Ostrava"
+            },
+            {
+                "full_name": "BK Opava",
+                "position": "AWAY",
+                "short_name": "BK Opava"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "NH Ostrava",
+                "returnWin": 1.78
+            },
+            {
+                "name": "BK Opava",
+                "returnWin": 1.88
+            }
+        ],
+        "match_name": "NH Ostrava v BK Opava",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-04T17:00:00.000Z"
     }
 ]
