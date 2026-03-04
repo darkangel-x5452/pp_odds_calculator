@@ -1,33 +1,64 @@
 [
     {
-        "contestant_names": "Washington, (1.85) VERSES Utah, (1.95)",
-        "start_time_aest": "2026-03-04T11:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
+        "contestant_names": "Alabama State, (1.9) VERSES Sthrn University, (1.9)",
+        "start_time_aest": "2026-03-04T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Washington",
+                "full_name": "Alabama State",
                 "position": "HOME",
-                "short_name": "Washington"
+                "short_name": "Alabama State"
             },
             {
-                "full_name": "Utah",
+                "full_name": "Sthrn University",
                 "position": "AWAY",
-                "short_name": "Utah"
+                "short_name": "Sthrn University"
             }
         ],
         "propositions": [
             {
-                "name": "Washington",
+                "name": "Alabama State",
+                "returnWin": 1.9
+            },
+            {
+                "name": "Sthrn University",
+                "returnWin": 1.9
+            }
+        ],
+        "match_name": "Alabama State v Sthrn University",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-04T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Boise State, (1.85) VERSES San Diego State, (1.95)",
+        "start_time_aest": "2026-03-04T13:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Boise State",
+                "position": "HOME",
+                "short_name": "Boise State"
+            },
+            {
+                "full_name": "San Diego State",
+                "position": "AWAY",
+                "short_name": "San Diego State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Boise State",
                 "returnWin": 1.85
             },
             {
-                "name": "Utah",
+                "name": "San Diego State",
                 "returnWin": 1.95
             }
         ],
-        "match_name": "Washington v Utah",
+        "match_name": "Boise State v San Diego State",
         "betOption": "Head To Head",
-        "start_time": "2026-03-04T00:05:00.000Z"
+        "start_time": "2026-03-04T02:00:00.000Z"
     }
 ]
