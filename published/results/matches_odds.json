@@ -1,68 +1,5 @@
 [
     {
-        "contestant_names": "Nebraska Omaha, (2.45) VERSES North Dakota, (1.52)",
-        "start_time_aest": "2026-03-05T09:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Nebraska Omaha",
-                "position": "HOME",
-                "short_name": "Nebraska Omaha"
-            },
-            {
-                "full_name": "North Dakota",
-                "position": "AWAY",
-                "short_name": "North Dakota"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Nebraska Omaha",
-                "returnWin": 2.45
-            },
-            {
-                "name": "North Dakota",
-                "returnWin": 1.52
-            }
-        ],
-        "match_name": "Nebraska Omaha v North Dakota",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-04T22:30:00.000Z"
-    },
-    {
-        "contestant_names": "Ella Seidel, (2.2) VERSES Anastasia Zakharova, (1.62)",
-        "start_time_aest": "2026-03-05T09:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "tournamentName": "WTA Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Ella Seidel",
-                "position": "HOME",
-                "short_name": "Seidel E"
-            },
-            {
-                "full_name": "Anastasia Zakharova",
-                "position": "AWAY",
-                "short_name": "Zakharova A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ella Seidel",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Anastasia Zakharova",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Seidel E v Zakharova A",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-04T22:30:00.000Z"
-    },
-    {
         "contestant_names": "Butler, (1.67) VERSES Creighton, (2.2)",
         "start_time_aest": "2026-03-05T10:00:00+11:00",
         "sport_name": "Basketball",
@@ -186,6 +123,102 @@
             }
         ],
         "match_name": "Fucsovics v OConnell",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-04T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Jessica Bouzas Maneiro, (1.62) VERSES Beatriz Haddad Maia, (2.2)",
+        "start_time_aest": "2026-03-05T10:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Jessica Bouzas Maneiro",
+                "position": "HOME",
+                "short_name": "Maneiro"
+            },
+            {
+                "full_name": "Beatriz Haddad Maia",
+                "position": "AWAY",
+                "short_name": "Haddad Maia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jessica Bouzas Maneiro",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Beatriz Haddad Maia",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Maneiro v Haddad Maia",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-04T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Ella Seidel, (2.25) VERSES Anastasia Zakharova, (1.6)",
+        "start_time_aest": "2026-03-05T10:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Ella Seidel",
+                "position": "HOME",
+                "short_name": "Seidel E"
+            },
+            {
+                "full_name": "Anastasia Zakharova",
+                "position": "AWAY",
+                "short_name": "Zakharova A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ella Seidel",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Anastasia Zakharova",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Seidel E v Zakharova A",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-04T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Himeno Sakatsume, (2.05) VERSES Alycia Parks, (1.75)",
+        "start_time_aest": "2026-03-05T10:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Himeno Sakatsume",
+                "position": "HOME",
+                "short_name": "Sakatsume"
+            },
+            {
+                "full_name": "Alycia Parks",
+                "position": "AWAY",
+                "short_name": "Parks"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Himeno Sakatsume",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Alycia Parks",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Sakatsume v Parks",
         "betOption": "Head To Head",
         "start_time": "2026-03-04T23:00:00.000Z"
     }
