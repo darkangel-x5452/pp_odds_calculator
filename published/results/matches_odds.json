@@ -1,33 +1,65 @@
 [
     {
-        "contestant_names": "Alvik Basket, (1.66) VERSES Eskilstuna Bbk, (2.05)",
-        "start_time_aest": "2026-03-05T05:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Sweden Superettan",
+        "contestant_names": "Michael Kouame, (2.1) VERSES Giulio Zeppieri, (1.65)",
+        "start_time_aest": "2026-03-05T05:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Thionville",
         "contestants": [
             {
-                "full_name": "Alvik Basket",
+                "full_name": "Michael Kouame",
                 "position": "HOME",
-                "short_name": "Alvik Basket"
+                "short_name": "Kouame"
             },
             {
-                "full_name": "Eskilstuna Bbk",
+                "full_name": "Giulio Zeppieri",
                 "position": "AWAY",
-                "short_name": "Eskilstuna Bbk"
+                "short_name": "Zeppieri"
             }
         ],
         "propositions": [
             {
-                "name": "Alvik Basket",
-                "returnWin": 1.66
+                "name": "Michael Kouame",
+                "returnWin": 2.1
             },
             {
-                "name": "Eskilstuna Bbk",
-                "returnWin": 2.05
+                "name": "Giulio Zeppieri",
+                "returnWin": 1.65
             }
         ],
-        "match_name": "Alvik Basket v Eskilstuna Bbk",
+        "match_name": "Kouame v Zeppieri",
         "betOption": "Head To Head",
-        "start_time": "2026-03-04T18:00:00.000Z"
+        "start_time": "2026-03-04T18:30:00.000Z"
+    },
+    {
+        "contestant_names": "Villeneuve dAscq, (1.58) VERSES Athinaikos, (2.25)",
+        "start_time_aest": "2026-03-05T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "EuroCup Women",
+        "contestants": [
+            {
+                "full_name": "Villeneuve dAscq",
+                "position": "HOME",
+                "short_name": "Villeneuve dAscq"
+            },
+            {
+                "full_name": "Athinaikos",
+                "position": "AWAY",
+                "short_name": "Athinaikos"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Villeneuve dAscq",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Athinaikos",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Villeneuve dAscq v Athinaikos",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-04T19:00:00.000Z"
     }
 ]
