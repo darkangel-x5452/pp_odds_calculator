@@ -1,99 +1,5 @@
 [
     {
-        "contestant_names": "Binghamton, (1.6) VERSES Bryant, (2.25)",
-        "start_time_aest": "2026-03-06T10:07:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Binghamton",
-                "position": "HOME",
-                "short_name": "Binghamton"
-            },
-            {
-                "full_name": "Bryant",
-                "position": "AWAY",
-                "short_name": "Bryant"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Binghamton",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Bryant",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Binghamton v Bryant",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T23:07:00.000Z"
-    },
-    {
-        "contestant_names": "Varvara Gracheva, (1.65) VERSES Lilli Tagger, (2.15)",
-        "start_time_aest": "2026-03-06T10:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "tournamentName": "WTA Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Varvara Gracheva",
-                "position": "HOME",
-                "short_name": "Gracheva"
-            },
-            {
-                "full_name": "Lilli Tagger",
-                "position": "AWAY",
-                "short_name": "Tagger"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Varvara Gracheva",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Lilli Tagger",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Gracheva v Tagger",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T23:15:00.000Z"
-    },
-    {
-        "contestant_names": "UMBC, (1.55) VERSES NJIT, (2.35)",
-        "start_time_aest": "2026-03-06T10:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "UMBC",
-                "position": "HOME",
-                "short_name": "UMBC"
-            },
-            {
-                "full_name": "NJIT",
-                "position": "AWAY",
-                "short_name": "NJIT"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "UMBC",
-                "returnWin": 1.55
-            },
-            {
-                "name": "NJIT",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "UMBC v NJIT",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T23:30:00.000Z"
-    },
-    {
         "contestant_names": "Cory/Bradford, (2.2) VERSES Nemec/Petruf, (1.6)",
         "start_time_aest": "2026-03-06T11:00:00+11:00",
         "sport_name": "Beach Volleyball",
@@ -249,5 +155,68 @@
         "match_name": "Valparaiso v Indiana State",
         "betOption": "Head To Head",
         "start_time": "2026-03-06T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Varvara Gracheva, (1.65) VERSES Lilli Tagger, (2.15)",
+        "start_time_aest": "2026-03-06T11:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Varvara Gracheva",
+                "position": "HOME",
+                "short_name": "Gracheva"
+            },
+            {
+                "full_name": "Lilli Tagger",
+                "position": "AWAY",
+                "short_name": "Tagger"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Varvara Gracheva",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Lilli Tagger",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Gracheva v Tagger",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "NY Rangers, (1.7) VERSES Toronto, (2.1)",
+        "start_time_aest": "2026-03-06T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "NY Rangers",
+                "position": "HOME",
+                "short_name": "NY Rangers"
+            },
+            {
+                "full_name": "Toronto",
+                "position": "AWAY",
+                "short_name": "Toronto"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "NY Rangers",
+                "returnWin": 1.7
+            },
+            {
+                "name": "Toronto",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "NY Rangers v Toronto",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T00:05:00.000Z"
     }
 ]
