@@ -1,65 +1,34 @@
 [
     {
-        "contestant_names": "Kralovsti Sokoli, (1.66) VERSES Olomoucko, (2.05)",
-        "start_time_aest": "2026-03-06T05:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Czech Republic NBL",
+        "contestant_names": "Terence Atmane, (2.25) VERSES Grigor Dimitrov, (1.6)",
+        "start_time_aest": "2026-03-06T06:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Masters",
+        "tournamentName": "Masters Indian Wells",
         "contestants": [
             {
-                "full_name": "Kralovsti Sokoli",
+                "full_name": "Terence Atmane",
                 "position": "HOME",
-                "short_name": "Kralovsti Sokoli"
+                "short_name": "Atmane"
             },
             {
-                "full_name": "Olomoucko",
+                "full_name": "Grigor Dimitrov",
                 "position": "AWAY",
-                "short_name": "Olomoucko"
+                "short_name": "Dimitrov G"
             }
         ],
         "propositions": [
             {
-                "name": "Kralovsti Sokoli",
-                "returnWin": 1.66
+                "name": "Terence Atmane",
+                "returnWin": 2.25
             },
             {
-                "name": "Olomoucko",
-                "returnWin": 2.05
+                "name": "Grigor Dimitrov",
+                "returnWin": 1.6
             }
         ],
-        "match_name": "Kralovsti Sokoli v Olomoucko",
+        "match_name": "Atmane v Dimitrov G",
         "betOption": "Head To Head",
-        "start_time": "2026-03-05T18:00:00.000Z"
-    },
-    {
-        "contestant_names": "3DMAX, (2.1) VERSES Liquid, (1.65)",
-        "start_time_aest": "2026-03-06T05:00:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "Counter Strike 2",
-        "tournamentName": "CS2 - ESL Pro League Play In",
-        "contestants": [
-            {
-                "full_name": "3DMAX",
-                "position": "HOME",
-                "short_name": "3dmax"
-            },
-            {
-                "full_name": "Liquid",
-                "position": "AWAY",
-                "short_name": "Liquid"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "3DMAX",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Liquid",
-                "returnWin": 1.65
-            }
-        ],
-        "match_name": "3dmax v Liquid",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T18:00:00.000Z"
+        "start_time": "2026-03-05T19:00:00.000Z"
     }
 ]
