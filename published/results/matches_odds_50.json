@@ -29,5 +29,37 @@
         "match_name": "Caxias Do Sul v UniaoCorinthians",
         "betOption": "Head To Head",
         "start_time": "2026-03-05T22:30:00.000Z"
+    },
+    {
+        "contestant_names": "Valentin Royer, (1.95) VERSES Benjamin Bonzi, (1.85)",
+        "start_time_aest": "2026-03-06T10:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Masters",
+        "tournamentName": "Masters Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Valentin Royer",
+                "position": "HOME",
+                "short_name": "Royer"
+            },
+            {
+                "full_name": "Benjamin Bonzi",
+                "position": "AWAY",
+                "short_name": "Bonzi"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Valentin Royer",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Benjamin Bonzi",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Royer v Bonzi",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T23:00:00.000Z"
     }
 ]
