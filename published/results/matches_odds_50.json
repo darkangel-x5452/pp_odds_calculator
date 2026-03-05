@@ -1,1 +1,97 @@
-[]
+[
+    {
+        "contestant_names": "Magda Linette, (1.9) VERSES Ashlyn Krueger, (1.9)",
+        "start_time_aest": "2026-03-06T06:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Magda Linette",
+                "position": "HOME",
+                "short_name": "Linette"
+            },
+            {
+                "full_name": "Ashlyn Krueger",
+                "position": "AWAY",
+                "short_name": "Krueger A"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Magda Linette",
+                "returnWin": 1.9
+            },
+            {
+                "name": "Ashlyn Krueger",
+                "returnWin": 1.9
+            }
+        ],
+        "match_name": "Linette v Krueger A",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Laura Siegemund, (1.95) VERSES Petra Marcinko, (1.85)",
+        "start_time_aest": "2026-03-06T06:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Laura Siegemund",
+                "position": "HOME",
+                "short_name": "Siegemund"
+            },
+            {
+                "full_name": "Petra Marcinko",
+                "position": "AWAY",
+                "short_name": "Marcinko P"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Laura Siegemund",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Petra Marcinko",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Siegemund v Marcinko P",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "ACH Volley, (1.75) VERSES Fenerbahce Grundig, (1.95)",
+        "start_time_aest": "2026-03-06T06:00:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "CEV Cup",
+        "contestants": [
+            {
+                "full_name": "ACH Volley",
+                "position": "HOME",
+                "short_name": "ACH Volley"
+            },
+            {
+                "full_name": "Fenerbahce Grundig",
+                "position": "AWAY",
+                "short_name": "Fenerbahce"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "ACH Volley",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Fenerbahce Grundig",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "ACH Volley v Fenerbahce",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T19:00:00.000Z"
+    }
+]
