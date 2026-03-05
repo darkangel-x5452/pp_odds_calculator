@@ -1,37 +1,5 @@
 [
     {
-        "contestant_names": "Stefanos Tsitsipas, (1.7) VERSES Denis Shapovalov, (2.1)",
-        "start_time_aest": "2026-03-05T16:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Masters",
-        "tournamentName": "Masters Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Stefanos Tsitsipas",
-                "position": "HOME",
-                "short_name": "Tsitsipas"
-            },
-            {
-                "full_name": "Denis Shapovalov",
-                "position": "AWAY",
-                "short_name": "Shapovalov D"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Stefanos Tsitsipas",
-                "returnWin": 1.7
-            },
-            {
-                "name": "Denis Shapovalov",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Tsitsipas v Shapovalov D",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T05:15:00.000Z"
-    },
-    {
         "contestant_names": "Fitriadi M Rifqi, (2.2) VERSES Chase Ferguson, (1.6)",
         "start_time_aest": "2026-03-05T17:00:00+11:00",
         "sport_name": "Tennis",
@@ -158,5 +126,101 @@
         "match_name": "Yazdani A v Buldorini",
         "betOption": "Head To Head",
         "start_time": "2026-03-05T07:00:00.000Z"
+    },
+    {
+        "contestant_names": "Luka Pavlovic, (1.6) VERSES Stefano Napolitano, (2.2)",
+        "start_time_aest": "2026-03-05T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Kigali",
+        "contestants": [
+            {
+                "full_name": "Luka Pavlovic",
+                "position": "HOME",
+                "short_name": "Pavlovic L"
+            },
+            {
+                "full_name": "Stefano Napolitano",
+                "position": "AWAY",
+                "short_name": "Napolitano S"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Luka Pavlovic",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Stefano Napolitano",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Pavlovic L v Napolitano S",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Stijn Paardekooper, (2.15) VERSES Lorenzo Angelini, (1.62)",
+        "start_time_aest": "2026-03-05T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "tournamentName": "ITFM Heraklion",
+        "contestants": [
+            {
+                "full_name": "Stijn Paardekooper",
+                "position": "HOME",
+                "short_name": "Paardekooper"
+            },
+            {
+                "full_name": "Lorenzo Angelini",
+                "position": "AWAY",
+                "short_name": "Angelini"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Stijn Paardekooper",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Lorenzo Angelini",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Paardekooper v Angelini",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Benjamin Pietri, (1.6) VERSES Matt Kuhar, (2.2)",
+        "start_time_aest": "2026-03-05T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "tournamentName": "ITFM Heraklion",
+        "contestants": [
+            {
+                "full_name": "Benjamin Pietri",
+                "position": "HOME",
+                "short_name": "Pietri"
+            },
+            {
+                "full_name": "Matt Kuhar",
+                "position": "AWAY",
+                "short_name": "Kuhar"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Benjamin Pietri",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Matt Kuhar",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Pietri v Kuhar",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T08:00:00.000Z"
     }
 ]
