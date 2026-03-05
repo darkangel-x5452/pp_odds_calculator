@@ -1,37 +1,5 @@
 [
     {
-        "contestant_names": "Victor Lai, (1.6) VERSES Cheuk Yiu Lee, (2.2)",
-        "start_time_aest": "2026-03-05T23:30:00+11:00",
-        "sport_name": "Badminton",
-        "competition_name": "Badminton World Tour",
-        "tournamentName": "SS England - Mens",
-        "contestants": [
-            {
-                "full_name": "Victor Lai",
-                "position": "HOME",
-                "short_name": "Lai"
-            },
-            {
-                "full_name": "Cheuk Yiu Lee",
-                "position": "AWAY",
-                "short_name": "Lee CY"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Victor Lai",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Cheuk Yiu Lee",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Lai v Lee CY",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T12:30:00.000Z"
-    },
-    {
         "contestant_names": "Hong Kong Lions, (1.45) VERSES Tycoon, (2.5)",
         "start_time_aest": "2026-03-05T23:40:00+11:00",
         "sport_name": "Basketball",
@@ -61,5 +29,69 @@
         "match_name": "Hong Kong Lions v Tycoon",
         "betOption": "Head To Head",
         "start_time": "2026-03-05T12:40:00.000Z"
+    },
+    {
+        "contestant_names": "Alwi Farhan, (1.6) VERSES Tien Chen Chou, (2.2)",
+        "start_time_aest": "2026-03-06T01:00:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour",
+        "tournamentName": "SS England - Mens",
+        "contestants": [
+            {
+                "full_name": "Alwi Farhan",
+                "position": "HOME",
+                "short_name": "Farhan"
+            },
+            {
+                "full_name": "Tien Chen Chou",
+                "position": "AWAY",
+                "short_name": "TC Chou"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alwi Farhan",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Tien Chen Chou",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Farhan v TC Chou",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Koki Watanabe, (1.72) VERSES Jun Hao Leong, (2)",
+        "start_time_aest": "2026-03-06T01:00:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour",
+        "tournamentName": "SS England - Mens",
+        "contestants": [
+            {
+                "full_name": "Koki Watanabe",
+                "position": "HOME",
+                "short_name": "Watanabe"
+            },
+            {
+                "full_name": "Jun Hao Leong",
+                "position": "AWAY",
+                "short_name": "Leong JH"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Koki Watanabe",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Jun Hao Leong",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Watanabe v Leong JH",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T14:00:00.000Z"
     }
 ]
