@@ -1,69 +1,5 @@
 [
     {
-        "contestant_names": "Elsa Jacquemot, (2.5) VERSES Anna Bondar, (1.5)",
-        "start_time_aest": "2026-03-06T09:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "tournamentName": "WTA Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Elsa Jacquemot",
-                "position": "HOME",
-                "short_name": "Jacquemot"
-            },
-            {
-                "full_name": "Anna Bondar",
-                "position": "AWAY",
-                "short_name": "Bondar A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Elsa Jacquemot",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Anna Bondar",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Jacquemot v Bondar A",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T22:15:00.000Z"
-    },
-    {
-        "contestant_names": "Carlos Maria Zarate, (1.46) VERSES Tomas Farjat, (2.5)",
-        "start_time_aest": "2026-03-06T09:20:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "tournamentName": "ITFM Yerba Buena",
-        "contestants": [
-            {
-                "full_name": "Carlos Maria Zarate",
-                "position": "HOME",
-                "short_name": "Zarate"
-            },
-            {
-                "full_name": "Tomas Farjat",
-                "position": "AWAY",
-                "short_name": "Farjat"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Carlos Maria Zarate",
-                "returnWin": 1.46
-            },
-            {
-                "name": "Tomas Farjat",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Zarate v Farjat",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T22:20:00.000Z"
-    },
-    {
         "contestant_names": "Furman, (1.75) VERSES Mercer, (2)",
         "start_time_aest": "2026-03-06T09:45:00+11:00",
         "sport_name": "Basketball",
@@ -249,6 +185,69 @@
         "match_name": "Gracheva v Tagger",
         "betOption": "Head To Head",
         "start_time": "2026-03-05T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Cristina Bucsa, (1.5) VERSES Darja Vidmanova, (2.5)",
+        "start_time_aest": "2026-03-06T10:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Cristina Bucsa",
+                "position": "HOME",
+                "short_name": "Bucsa C"
+            },
+            {
+                "full_name": "Darja Vidmanova",
+                "position": "AWAY",
+                "short_name": "Vidmanova D"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Cristina Bucsa",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Darja Vidmanova",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Bucsa C v Vidmanova D",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Binghamton, (1.6) VERSES Bryant, (2.25)",
+        "start_time_aest": "2026-03-06T10:07:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Binghamton",
+                "position": "HOME",
+                "short_name": "Binghamton"
+            },
+            {
+                "full_name": "Bryant",
+                "position": "AWAY",
+                "short_name": "Bryant"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Binghamton",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Bryant",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Binghamton v Bryant",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T23:07:00.000Z"
     },
     {
         "contestant_names": "Cory/Bradford, (2.2) VERSES Nemec/Petruf, (1.6)",

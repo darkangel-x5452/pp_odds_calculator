@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Caxias Do Sul, (1.86) VERSES UniaoCorinthians, (1.8)",
-        "start_time_aest": "2026-03-06T09:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Brazil NBB",
-        "contestants": [
-            {
-                "full_name": "Caxias Do Sul",
-                "position": "HOME",
-                "short_name": "Caxias Do Sul"
-            },
-            {
-                "full_name": "UniaoCorinthians",
-                "position": "AWAY",
-                "short_name": "UniaoCorinthians"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Caxias Do Sul",
-                "returnWin": 1.86
-            },
-            {
-                "name": "UniaoCorinthians",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "Caxias Do Sul v UniaoCorinthians",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T22:30:00.000Z"
-    },
-    {
         "contestant_names": "Valentin Royer, (1.95) VERSES Benjamin Bonzi, (1.85)",
         "start_time_aest": "2026-03-06T10:00:00+11:00",
         "sport_name": "Tennis",
@@ -61,5 +30,36 @@
         "match_name": "Royer v Bonzi",
         "betOption": "Head To Head",
         "start_time": "2026-03-05T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Gimnasia LaPlata, (1.73) VERSES Cnt Entrerriano, (1.95)",
+        "start_time_aest": "2026-03-06T10:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Gimnasia LaPlata",
+                "position": "HOME",
+                "short_name": "Gimnasia LaPlata"
+            },
+            {
+                "full_name": "Cnt Entrerriano",
+                "position": "AWAY",
+                "short_name": "Cnt Entrerriano"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Gimnasia LaPlata",
+                "returnWin": 1.73
+            },
+            {
+                "name": "Cnt Entrerriano",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Gimnasia LaPlata v Cnt Entrerriano",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T23:30:00.000Z"
     }
 ]
