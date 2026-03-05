@@ -1,100 +1,5 @@
 [
     {
-        "contestant_names": "Tampereen Pyrint, (1.55) VERSES Raholan Pyrkiva, (2.25)",
-        "start_time_aest": "2026-03-06T04:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Finland Division 1A",
-        "contestants": [
-            {
-                "full_name": "Tampereen Pyrint",
-                "position": "HOME",
-                "short_name": "Tampereen Pyrint"
-            },
-            {
-                "full_name": "Raholan Pyrkiva",
-                "position": "AWAY",
-                "short_name": "Raholan Pyrkiva"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Tampereen Pyrint",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Raholan Pyrkiva",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Tampereen Pyrint v Raholan Pyrkiva",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T17:30:00.000Z"
-    },
-    {
-        "contestant_names": "3DMAX, (2.1) VERSES Liquid, (1.65)",
-        "start_time_aest": "2026-03-06T04:30:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "Counter Strike 2",
-        "tournamentName": "CS2 - ESL Pro League Play In",
-        "contestants": [
-            {
-                "full_name": "3DMAX",
-                "position": "HOME",
-                "short_name": "3dmax"
-            },
-            {
-                "full_name": "Liquid",
-                "position": "AWAY",
-                "short_name": "Liquid"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "3DMAX",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Liquid",
-                "returnWin": 1.65
-            }
-        ],
-        "match_name": "3dmax v Liquid",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T17:30:00.000Z"
-    },
-    {
-        "contestant_names": "Daniil Kakhniuk, (2.5) VERSES Jesse Flores, (1.46)",
-        "start_time_aest": "2026-03-06T04:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "tournamentName": "ITFM Sherbrooke",
-        "contestants": [
-            {
-                "full_name": "Daniil Kakhniuk",
-                "position": "HOME",
-                "short_name": "Kakhniuk"
-            },
-            {
-                "full_name": "Jesse Flores",
-                "position": "AWAY",
-                "short_name": "Flores J"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Daniil Kakhniuk",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Jesse Flores",
-                "returnWin": 1.46
-            }
-        ],
-        "match_name": "Kakhniuk v Flores J",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T17:30:00.000Z"
-    },
-    {
         "contestant_names": "Kralovsti Sokoli, (1.66) VERSES Olomoucko, (2.05)",
         "start_time_aest": "2026-03-06T05:00:00+11:00",
         "sport_name": "Basketball",
@@ -122,6 +27,38 @@
             }
         ],
         "match_name": "Kralovsti Sokoli v Olomoucko",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "3DMAX, (2.1) VERSES Liquid, (1.65)",
+        "start_time_aest": "2026-03-06T05:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "tournamentName": "CS2 - ESL Pro League Play In",
+        "contestants": [
+            {
+                "full_name": "3DMAX",
+                "position": "HOME",
+                "short_name": "3dmax"
+            },
+            {
+                "full_name": "Liquid",
+                "position": "AWAY",
+                "short_name": "Liquid"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "3DMAX",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Liquid",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "3dmax v Liquid",
         "betOption": "Head To Head",
         "start_time": "2026-03-05T18:00:00.000Z"
     }
