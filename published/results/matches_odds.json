@@ -1,344 +1,95 @@
 [
     {
-        "contestant_names": "SMU, (1.8) VERSES Miami (FL), (2)",
-        "start_time_aest": "2026-03-05T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "contestant_names": "New Jersey, (1.8) VERSES Toronto, (2)",
+        "start_time_aest": "2026-03-05T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "SMU",
+                "full_name": "New Jersey",
                 "position": "HOME",
-                "short_name": "SMU"
+                "short_name": "New Jersey"
             },
             {
-                "full_name": "Miami (FL)",
+                "full_name": "Toronto",
                 "position": "AWAY",
-                "short_name": "Miami (FL)"
+                "short_name": "Toronto"
             }
         ],
         "propositions": [
             {
-                "name": "SMU",
+                "name": "New Jersey",
                 "returnWin": 1.8
             },
             {
-                "name": "Miami (FL)",
+                "name": "Toronto",
                 "returnWin": 2
             }
         ],
-        "match_name": "SMU v Miami (FL)",
+        "match_name": "New Jersey v Toronto",
         "betOption": "Head To Head",
-        "start_time": "2026-03-05T00:00:00.000Z"
+        "start_time": "2026-03-05T00:05:00.000Z"
     },
     {
-        "contestant_names": "Providence, (1.53) VERSES Marquette, (2.5)",
-        "start_time_aest": "2026-03-05T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "contestant_names": "Detroit, (1.7) VERSES Las Vegas, (2.1)",
+        "start_time_aest": "2026-03-05T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "Providence",
+                "full_name": "Detroit",
                 "position": "HOME",
-                "short_name": "Providence"
+                "short_name": "Detroit"
             },
             {
-                "full_name": "Marquette",
+                "full_name": "Las Vegas",
                 "position": "AWAY",
-                "short_name": "Marquette"
+                "short_name": "Las Vegas"
             }
         ],
         "propositions": [
             {
-                "name": "Providence",
-                "returnWin": 1.53
-            },
-            {
-                "name": "Marquette",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Providence v Marquette",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Oakland, (1.77) VERSES Nth Kentucky, (2.05)",
-        "start_time_aest": "2026-03-05T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Oakland",
-                "position": "HOME",
-                "short_name": "Oakland"
-            },
-            {
-                "full_name": "Nth Kentucky",
-                "position": "AWAY",
-                "short_name": "Nth Kentucky"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Oakland",
-                "returnWin": 1.77
-            },
-            {
-                "name": "Nth Kentucky",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Oakland v Nth Kentucky",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Robert Morris, (1.55) VERSES Youngstown State, (2.45)",
-        "start_time_aest": "2026-03-05T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Robert Morris",
-                "position": "HOME",
-                "short_name": "Robert Morris"
-            },
-            {
-                "full_name": "Youngstown State",
-                "position": "AWAY",
-                "short_name": "Youngstown State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Robert Morris",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Youngstown State",
-                "returnWin": 2.45
-            }
-        ],
-        "match_name": "Robert Morris v Youngstown State",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Rhode Island, (1.74) VERSES Duquesne, (2.1)",
-        "start_time_aest": "2026-03-05T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Rhode Island",
-                "position": "HOME",
-                "short_name": "Rhode Island"
-            },
-            {
-                "full_name": "Duquesne",
-                "position": "AWAY",
-                "short_name": "Duquesne"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Rhode Island",
-                "returnWin": 1.74
-            },
-            {
-                "name": "Duquesne",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Rhode Island v Duquesne",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Georgia Tech, (2.1) VERSES California, (1.74)",
-        "start_time_aest": "2026-03-05T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Georgia Tech",
-                "position": "HOME",
-                "short_name": "Georgia Tech"
-            },
-            {
-                "full_name": "California",
-                "position": "AWAY",
-                "short_name": "California"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Georgia Tech",
-                "returnWin": 2.1
-            },
-            {
-                "name": "California",
-                "returnWin": 1.74
-            }
-        ],
-        "match_name": "Georgia Tech v California",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Charlotte U, (2.2) VERSES UAB, (1.67)",
-        "start_time_aest": "2026-03-05T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Charlotte U",
-                "position": "HOME",
-                "short_name": "Charlotte U"
-            },
-            {
-                "full_name": "UAB",
-                "position": "AWAY",
-                "short_name": "UAB"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Charlotte U",
-                "returnWin": 2.2
-            },
-            {
-                "name": "UAB",
-                "returnWin": 1.67
-            }
-        ],
-        "match_name": "Charlotte U v UAB",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Davidson, (1.7) VERSES St Josephs, (2.15)",
-        "start_time_aest": "2026-03-05T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Davidson",
-                "position": "HOME",
-                "short_name": "Davidson"
-            },
-            {
-                "full_name": "St Josephs",
-                "position": "AWAY",
-                "short_name": "St Josephs"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Davidson",
+                "name": "Detroit",
                 "returnWin": 1.7
             },
             {
-                "name": "St Josephs",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Davidson v St Josephs",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Central CT State, (1.55) VERSES Wagner, (2.45)",
-        "start_time_aest": "2026-03-05T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Central CT State",
-                "position": "HOME",
-                "short_name": "Central CT State"
-            },
-            {
-                "full_name": "Wagner",
-                "position": "AWAY",
-                "short_name": "Wagner"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Central CT State",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Wagner",
-                "returnWin": 2.45
-            }
-        ],
-        "match_name": "Central CT State v Wagner",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "NorthernIllinois, (1.6) VERSES Buffalo, (2.25)",
-        "start_time_aest": "2026-03-05T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "NorthernIllinois",
-                "position": "HOME",
-                "short_name": "NorthernIllinois"
-            },
-            {
-                "full_name": "Buffalo",
-                "position": "AWAY",
-                "short_name": "Buffalo"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "NorthernIllinois",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Buffalo",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "NorthernIllinois v Buffalo",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Jenson Brooksby, (1.7) VERSES Alexei Popyrin, (2.1)",
-        "start_time_aest": "2026-03-05T11:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Masters",
-        "tournamentName": "Masters Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Jenson Brooksby",
-                "position": "HOME",
-                "short_name": "Brooksby"
-            },
-            {
-                "full_name": "Alexei Popyrin",
-                "position": "AWAY",
-                "short_name": "Popyrin Al"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jenson Brooksby",
-                "returnWin": 1.7
-            },
-            {
-                "name": "Alexei Popyrin",
+                "name": "Las Vegas",
                 "returnWin": 2.1
             }
         ],
-        "match_name": "Brooksby v Popyrin Al",
+        "match_name": "Detroit v Las Vegas",
         "betOption": "Head To Head",
-        "start_time": "2026-03-05T00:00:00.000Z"
+        "start_time": "2026-03-05T00:05:00.000Z"
+    },
+    {
+        "contestant_names": "New York, (2.45) VERSES Oklahoma City, (1.58)",
+        "start_time_aest": "2026-03-05T11:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "New York",
+                "position": "HOME",
+                "short_name": "New York"
+            },
+            {
+                "full_name": "Oklahoma City",
+                "position": "AWAY",
+                "short_name": "Oklahoma City"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "New York",
+                "returnWin": 2.45
+            },
+            {
+                "name": "Oklahoma City",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "New York v Oklahoma City",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T00:10:00.000Z"
     }
 ]
