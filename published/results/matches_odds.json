@@ -1,98 +1,5 @@
 [
     {
-        "contestant_names": "USK Praha, (1.48) VERSES Blk Slavia Praha, (2.4)",
-        "start_time_aest": "2026-03-06T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Czech Republic NBL",
-        "contestants": [
-            {
-                "full_name": "USK Praha",
-                "position": "HOME",
-                "short_name": "USK Praha"
-            },
-            {
-                "full_name": "Blk Slavia Praha",
-                "position": "AWAY",
-                "short_name": "Blk Slavia Praha"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "USK Praha",
-                "returnWin": 1.48
-            },
-            {
-                "name": "Blk Slavia Praha",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "USK Praha v Blk Slavia Praha",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Washington, (2.35) VERSES USC, (1.55)",
-        "start_time_aest": "2026-03-06T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Washington",
-                "position": "HOME",
-                "short_name": "Washington"
-            },
-            {
-                "full_name": "USC",
-                "position": "AWAY",
-                "short_name": "USC"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Washington",
-                "returnWin": 2.35
-            },
-            {
-                "name": "USC",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Washington v USC",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T17:00:00.000Z"
-    },
-    {
-        "contestant_names": "Texas Tech, (1.52) VERSES Kansas State, (2.45)",
-        "start_time_aest": "2026-03-06T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Texas Tech",
-                "position": "HOME",
-                "short_name": "Texas Tech"
-            },
-            {
-                "full_name": "Kansas State",
-                "position": "AWAY",
-                "short_name": "Kansas State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Texas Tech",
-                "returnWin": 1.52
-            },
-            {
-                "name": "Kansas State",
-                "returnWin": 2.45
-            }
-        ],
-        "match_name": "Texas Tech v Kansas State",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T17:00:00.000Z"
-    },
-    {
         "contestant_names": "Tampereen Pyrint, (1.55) VERSES Raholan Pyrkiva, (2.25)",
         "start_time_aest": "2026-03-06T04:30:00+11:00",
         "sport_name": "Basketball",
@@ -186,5 +93,36 @@
         "match_name": "Kakhniuk v Flores J",
         "betOption": "Head To Head",
         "start_time": "2026-03-05T17:30:00.000Z"
+    },
+    {
+        "contestant_names": "Kralovsti Sokoli, (1.66) VERSES Olomoucko, (2.05)",
+        "start_time_aest": "2026-03-06T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Czech Republic NBL",
+        "contestants": [
+            {
+                "full_name": "Kralovsti Sokoli",
+                "position": "HOME",
+                "short_name": "Kralovsti Sokoli"
+            },
+            {
+                "full_name": "Olomoucko",
+                "position": "AWAY",
+                "short_name": "Olomoucko"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Kralovsti Sokoli",
+                "returnWin": 1.66
+            },
+            {
+                "name": "Olomoucko",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Kralovsti Sokoli v Olomoucko",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T18:00:00.000Z"
     }
 ]
