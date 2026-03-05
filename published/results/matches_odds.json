@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Kouvot Kouvola, (1.45) VERSES Bisons Loimaa, (2.5)",
-        "start_time_aest": "2026-03-06T03:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Finland Korisliiga",
-        "contestants": [
-            {
-                "full_name": "Kouvot Kouvola",
-                "position": "HOME",
-                "short_name": "Kouvot Kouvola"
-            },
-            {
-                "full_name": "Bisons Loimaa",
-                "position": "AWAY",
-                "short_name": "Bisons Loimaa"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Kouvot Kouvola",
-                "returnWin": 1.45
-            },
-            {
-                "name": "Bisons Loimaa",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Kouvot Kouvola v Bisons Loimaa",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-05T16:30:00.000Z"
-    },
-    {
         "contestant_names": "USK Praha, (1.48) VERSES Blk Slavia Praha, (2.4)",
         "start_time_aest": "2026-03-06T04:00:00+11:00",
         "sport_name": "Basketball",
@@ -58,6 +27,68 @@
             }
         ],
         "match_name": "USK Praha v Blk Slavia Praha",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Washington, (2.35) VERSES USC, (1.55)",
+        "start_time_aest": "2026-03-06T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Washington",
+                "position": "HOME",
+                "short_name": "Washington"
+            },
+            {
+                "full_name": "USC",
+                "position": "AWAY",
+                "short_name": "USC"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Washington",
+                "returnWin": 2.35
+            },
+            {
+                "name": "USC",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Washington v USC",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Texas Tech, (1.52) VERSES Kansas State, (2.45)",
+        "start_time_aest": "2026-03-06T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Texas Tech",
+                "position": "HOME",
+                "short_name": "Texas Tech"
+            },
+            {
+                "full_name": "Kansas State",
+                "position": "AWAY",
+                "short_name": "Kansas State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Texas Tech",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Kansas State",
+                "returnWin": 2.45
+            }
+        ],
+        "match_name": "Texas Tech v Kansas State",
         "betOption": "Head To Head",
         "start_time": "2026-03-05T17:00:00.000Z"
     },
@@ -121,6 +152,38 @@
             }
         ],
         "match_name": "3dmax v Liquid",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T17:30:00.000Z"
+    },
+    {
+        "contestant_names": "Daniil Kakhniuk, (2.5) VERSES Jesse Flores, (1.46)",
+        "start_time_aest": "2026-03-06T04:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "tournamentName": "ITFM Sherbrooke",
+        "contestants": [
+            {
+                "full_name": "Daniil Kakhniuk",
+                "position": "HOME",
+                "short_name": "Kakhniuk"
+            },
+            {
+                "full_name": "Jesse Flores",
+                "position": "AWAY",
+                "short_name": "Flores J"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Daniil Kakhniuk",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Jesse Flores",
+                "returnWin": 1.46
+            }
+        ],
+        "match_name": "Kakhniuk v Flores J",
         "betOption": "Head To Head",
         "start_time": "2026-03-05T17:30:00.000Z"
     }
