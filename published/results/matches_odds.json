@@ -62,5 +62,37 @@
         "match_name": "Watanabe v Leong JH",
         "betOption": "Head To Head",
         "start_time": "2026-03-05T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Ardianto M R/Hidayat R, (2.35) VERSES Goh S F/Izzuddin N, (1.53)",
+        "start_time_aest": "2026-03-06T01:45:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour Doubles",
+        "tournamentName": "All England Open Mens Doubles",
+        "contestants": [
+            {
+                "full_name": "Ardianto M R/Hidayat R",
+                "position": "HOME",
+                "short_name": "Ardianto/Hidayat"
+            },
+            {
+                "full_name": "Goh S F/Izzuddin N",
+                "position": "AWAY",
+                "short_name": "Goh S F/Izzddn N"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ardianto M R/Hidayat R",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Goh S F/Izzuddin N",
+                "returnWin": 1.53
+            }
+        ],
+        "match_name": "Ardianto/Hidayat v Goh S F/Izzddn N",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T14:45:00.000Z"
     }
 ]
