@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "contestant_names": "Alyssa Reguer, (1.75) VERSES Coco Bosman, (1.95)",
+        "start_time_aest": "2026-03-05T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Sharm El Sheikh",
+        "contestants": [
+            {
+                "full_name": "Alyssa Reguer",
+                "position": "HOME",
+                "short_name": "Reguer A"
+            },
+            {
+                "full_name": "Coco Bosman",
+                "position": "AWAY",
+                "short_name": "Bosman C"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alyssa Reguer",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Coco Bosman",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Reguer A v Bosman C",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T08:00:00.000Z"
+    }
+]
