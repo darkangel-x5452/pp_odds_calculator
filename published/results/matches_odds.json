@@ -192,6 +192,38 @@
         "start_time": "2026-03-05T15:15:00.000Z"
     },
     {
+        "contestant_names": "Bastian Malla, (2.05) VERSES Lucio Ratti, (1.68)",
+        "start_time_aest": "2026-03-06T02:20:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "tournamentName": "ITFM Yerba Buena",
+        "contestants": [
+            {
+                "full_name": "Bastian Malla",
+                "position": "HOME",
+                "short_name": "Malla"
+            },
+            {
+                "full_name": "Lucio Ratti",
+                "position": "AWAY",
+                "short_name": "Ratti"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bastian Malla",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Lucio Ratti",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Malla v Ratti",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T15:20:00.000Z"
+    },
+    {
         "contestant_names": "Juan Pablo Varillas, (1.65) VERSES Pedro Dias, (2.1)",
         "start_time_aest": "2026-03-06T02:30:00+11:00",
         "sport_name": "Tennis",
@@ -254,5 +286,36 @@
         "match_name": "Dussin v Rossi L",
         "betOption": "Head To Head",
         "start_time": "2026-03-05T15:30:00.000Z"
+    },
+    {
+        "contestant_names": "Virginia, (1.65) VERSES Clemson, (2.15)",
+        "start_time_aest": "2026-03-06T03:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Virginia",
+                "position": "HOME",
+                "short_name": "Virginia"
+            },
+            {
+                "full_name": "Clemson",
+                "position": "AWAY",
+                "short_name": "Clemson"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Virginia",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Clemson",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Virginia v Clemson",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-05T16:00:00.000Z"
     }
 ]
