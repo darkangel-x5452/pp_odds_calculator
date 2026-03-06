@@ -93,5 +93,37 @@
         "match_name": "Pisek Srsni v Pardubice",
         "betOption": "Head To Head",
         "start_time": "2026-03-06T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "Hugo Gaston, (1.62) VERSES Michael Kouame, (2.15)",
+        "start_time_aest": "2026-03-07T03:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Thionville",
+        "contestants": [
+            {
+                "full_name": "Hugo Gaston",
+                "position": "HOME",
+                "short_name": "Gaston"
+            },
+            {
+                "full_name": "Michael Kouame",
+                "position": "AWAY",
+                "short_name": "Kouame"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Hugo Gaston",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Michael Kouame",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "Gaston v Kouame",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T16:00:00.000Z"
     }
 ]
