@@ -1,69 +1,7 @@
 [
     {
-        "contestant_names": "UNC Asheville, (1.8) VERSES Longwood, (2)",
-        "start_time_aest": "2026-03-07T10:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "UNC Asheville",
-                "position": "HOME",
-                "short_name": "UNC Asheville"
-            },
-            {
-                "full_name": "Longwood",
-                "position": "AWAY",
-                "short_name": "Longwood"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "UNC Asheville",
-                "returnWin": 1.8
-            },
-            {
-                "name": "Longwood",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "UNC Asheville v Longwood",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T23:00:00.000Z"
-    },
-    {
-        "contestant_names": "Texas State, (1.74) VERSES Southern Miss, (2.1)",
-        "start_time_aest": "2026-03-07T10:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Texas State",
-                "position": "HOME",
-                "short_name": "Texas State"
-            },
-            {
-                "full_name": "Southern Miss",
-                "position": "AWAY",
-                "short_name": "Southern Miss"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Texas State",
-                "returnWin": 1.74
-            },
-            {
-                "name": "Southern Miss",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Texas State v Southern Miss",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T23:00:00.000Z"
-    },
-    {
-        "contestant_names": "Jaqueline Cristian, (1.6) VERSES Maya Joint, (2.25)",
-        "start_time_aest": "2026-03-07T10:00:00+11:00",
+        "contestant_names": "Jaqueline Cristian, (1.58) VERSES Maya Joint, (2.3)",
+        "start_time_aest": "2026-03-07T10:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA",
         "tournamentName": "WTA Indian Wells",
@@ -82,15 +20,46 @@
         "propositions": [
             {
                 "name": "Jaqueline Cristian",
-                "returnWin": 1.6
+                "returnWin": 1.58
             },
             {
                 "name": "Maya Joint",
-                "returnWin": 2.25
+                "returnWin": 2.3
             }
         ],
         "match_name": "Cristian v Joint",
         "betOption": "Head To Head",
-        "start_time": "2026-03-06T23:00:00.000Z"
+        "start_time": "2026-03-06T23:15:00.000Z"
+    },
+    {
+        "contestant_names": "South Dakota, (2.1) VERSES Nebraska Omaha, (1.74)",
+        "start_time_aest": "2026-03-07T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "South Dakota",
+                "position": "HOME",
+                "short_name": "South Dakota"
+            },
+            {
+                "full_name": "Nebraska Omaha",
+                "position": "AWAY",
+                "short_name": "Nebraska Omaha"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "South Dakota",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Nebraska Omaha",
+                "returnWin": 1.74
+            }
+        ],
+        "match_name": "South Dakota v Nebraska Omaha",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T00:00:00.000Z"
     }
 ]

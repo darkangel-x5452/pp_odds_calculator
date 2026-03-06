@@ -1,69 +1,7 @@
 [
     {
-        "contestant_names": "Texas State, (1.85) VERSES Southern Miss, (1.95)",
-        "start_time_aest": "2026-03-07T10:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Texas State",
-                "position": "HOME",
-                "short_name": "Texas State"
-            },
-            {
-                "full_name": "Southern Miss",
-                "position": "AWAY",
-                "short_name": "Southern Miss"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Texas State",
-                "returnWin": 1.85
-            },
-            {
-                "name": "Southern Miss",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Texas State v Southern Miss",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T23:00:00.000Z"
-    },
-    {
-        "contestant_names": "UNC Asheville, (1.95) VERSES Longwood, (1.85)",
-        "start_time_aest": "2026-03-07T10:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "UNC Asheville",
-                "position": "HOME",
-                "short_name": "UNC Asheville"
-            },
-            {
-                "full_name": "Longwood",
-                "position": "AWAY",
-                "short_name": "Longwood"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "UNC Asheville",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Longwood",
-                "returnWin": 1.85
-            }
-        ],
-        "match_name": "UNC Asheville v Longwood",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T23:00:00.000Z"
-    },
-    {
-        "contestant_names": "Jenson Brooksby, (1.95) VERSES Frances Tiafoe, (1.85)",
-        "start_time_aest": "2026-03-07T10:00:00+11:00",
+        "contestant_names": "Jenson Brooksby, (1.9) VERSES Frances Tiafoe, (1.9)",
+        "start_time_aest": "2026-03-07T10:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Masters",
         "tournamentName": "Masters Indian Wells",
@@ -82,15 +20,108 @@
         "propositions": [
             {
                 "name": "Jenson Brooksby",
-                "returnWin": 1.95
+                "returnWin": 1.9
             },
             {
                 "name": "Frances Tiafoe",
-                "returnWin": 1.85
+                "returnWin": 1.9
             }
         ],
         "match_name": "Brooksby v Tiafoe",
         "betOption": "Head To Head",
-        "start_time": "2026-03-06T23:00:00.000Z"
+        "start_time": "2026-03-06T23:15:00.000Z"
+    },
+    {
+        "contestant_names": "Rivadavia De Men, (1.77) VERSES Santiago Del Est, (1.9)",
+        "start_time_aest": "2026-03-07T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Rivadavia De Men",
+                "position": "HOME",
+                "short_name": "Rivadavia De Men"
+            },
+            {
+                "full_name": "Santiago Del Est",
+                "position": "AWAY",
+                "short_name": "Santiago Del Est"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Rivadavia De Men",
+                "returnWin": 1.77
+            },
+            {
+                "name": "Santiago Del Est",
+                "returnWin": 1.9
+            }
+        ],
+        "match_name": "Rivadavia De Men v Santiago Del Est",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Racing De Chivil, (1.77) VERSES Ind de Oliva, (1.9)",
+        "start_time_aest": "2026-03-07T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga Nacional de Basket",
+        "contestants": [
+            {
+                "full_name": "Racing De Chivil",
+                "position": "HOME",
+                "short_name": "Racing De Chivil"
+            },
+            {
+                "full_name": "Ind de Oliva",
+                "position": "AWAY",
+                "short_name": "Ind de Oliva"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Racing De Chivil",
+                "returnWin": 1.77
+            },
+            {
+                "name": "Ind de Oliva",
+                "returnWin": 1.9
+            }
+        ],
+        "match_name": "Racing De Chivil v Ind de Oliva",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Brown, (1.85) VERSES Pennsylvania, (1.95)",
+        "start_time_aest": "2026-03-07T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Brown",
+                "position": "HOME",
+                "short_name": "Brown"
+            },
+            {
+                "full_name": "Pennsylvania",
+                "position": "AWAY",
+                "short_name": "Pennsylvania"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Brown",
+                "returnWin": 1.85
+            },
+            {
+                "name": "Pennsylvania",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Brown v Pennsylvania",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T00:00:00.000Z"
     }
 ]
