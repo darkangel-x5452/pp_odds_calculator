@@ -1,68 +1,5 @@
 [
     {
-        "contestant_names": "Furia Esports, (2.15) VERSES Sentinels, (1.62)",
-        "start_time_aest": "2026-03-07T08:01:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "League of Legends",
-        "tournamentName": "Americas Cup",
-        "contestants": [
-            {
-                "full_name": "Furia Esports",
-                "position": "HOME",
-                "short_name": "Furia Esports"
-            },
-            {
-                "full_name": "Sentinels",
-                "position": "AWAY",
-                "short_name": "Sentinels"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Furia Esports",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Sentinels",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Furia Esports v Sentinels",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T21:01:00.000Z"
-    },
-    {
-        "contestant_names": "Lindenwood, (1.65) VERSES Southern Indiana, (2.15)",
-        "start_time_aest": "2026-03-07T08:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Lindenwood",
-                "position": "HOME",
-                "short_name": "Lindenwood"
-            },
-            {
-                "full_name": "Southern Indiana",
-                "position": "AWAY",
-                "short_name": "Southern Indiana"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Lindenwood",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Southern Indiana",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Lindenwood v Southern Indiana",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T21:30:00.000Z"
-    },
-    {
         "contestant_names": "UNC Asheville, (1.8) VERSES Longwood, (2)",
         "start_time_aest": "2026-03-07T10:00:00+11:00",
         "sport_name": "Basketball",
@@ -90,6 +27,37 @@
             }
         ],
         "match_name": "UNC Asheville v Longwood",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Texas State, (1.74) VERSES Southern Miss, (2.1)",
+        "start_time_aest": "2026-03-07T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Texas State",
+                "position": "HOME",
+                "short_name": "Texas State"
+            },
+            {
+                "full_name": "Southern Miss",
+                "position": "AWAY",
+                "short_name": "Southern Miss"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Texas State",
+                "returnWin": 1.74
+            },
+            {
+                "name": "Southern Miss",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Texas State v Southern Miss",
         "betOption": "Head To Head",
         "start_time": "2026-03-06T23:00:00.000Z"
     }
