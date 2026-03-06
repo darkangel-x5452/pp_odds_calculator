@@ -190,5 +190,100 @@
         "match_name": "Duran v Krajci",
         "betOption": "Head To Head",
         "start_time": "2026-03-06T08:15:00.000Z"
+    },
+    {
+        "contestant_names": "Lukas Neumayer, (1.62) VERSES Harry Wendelken, (2.15)",
+        "start_time_aest": "2026-03-06T19:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Hersonissos",
+        "contestants": [
+            {
+                "full_name": "Lukas Neumayer",
+                "position": "HOME",
+                "short_name": "L Neumayer"
+            },
+            {
+                "full_name": "Harry Wendelken",
+                "position": "AWAY",
+                "short_name": "Wendelken"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lukas Neumayer",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Harry Wendelken",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "L Neumayer v Wendelken",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T08:30:00.000Z"
+    },
+    {
+        "contestant_names": "Lorenzo Giustino, (2.25) VERSES Dimitar Kuzmanov, (1.58)",
+        "start_time_aest": "2026-03-06T19:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Hersonissos",
+        "contestants": [
+            {
+                "full_name": "Lorenzo Giustino",
+                "position": "HOME",
+                "short_name": "Giustino"
+            },
+            {
+                "full_name": "Dimitar Kuzmanov",
+                "position": "AWAY",
+                "short_name": "Kuzmanov"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lorenzo Giustino",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Dimitar Kuzmanov",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Giustino v Kuzmanov",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T08:30:00.000Z"
+    },
+    {
+        "contestant_names": "Waratahs, (2.25) VERSES Hurricanes, (1.65)",
+        "start_time_aest": "2026-03-06T19:35:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "Super Rugby Pacific",
+        "contestants": [
+            {
+                "full_name": "Waratahs",
+                "position": "HOME",
+                "short_name": "Waratahs"
+            },
+            {
+                "full_name": "Hurricanes",
+                "position": "AWAY",
+                "short_name": "Hurricanes"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Waratahs",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Hurricanes",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Waratahs v Hurricanes",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T08:35:00.000Z"
     }
 ]
