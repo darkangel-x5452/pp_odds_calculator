@@ -1,65 +1,96 @@
 [
     {
-        "contestant_names": "Lakshya Sen, (2) VERSES Shi Feng Li, (1.72)",
-        "start_time_aest": "2026-03-07T04:00:00+11:00",
+        "contestant_names": "Vestergaard M/Busch C, (2.5) VERSES Tang C M/Tse Y S, (1.47)",
+        "start_time_aest": "2026-03-07T04:20:00+11:00",
         "sport_name": "Badminton",
-        "competition_name": "Badminton World Tour",
-        "tournamentName": "SS England - Mens",
+        "competition_name": "Badminton World Tour Doubles",
+        "tournamentName": "All England Open Mixed Doubles",
         "contestants": [
             {
-                "full_name": "Lakshya Sen",
+                "full_name": "Vestergaard M/Busch C",
                 "position": "HOME",
-                "short_name": "Sen"
+                "short_name": "VestergaardBusch"
             },
             {
-                "full_name": "Shi Feng Li",
+                "full_name": "Tang C M/Tse Y S",
                 "position": "AWAY",
-                "short_name": "Li SF"
+                "short_name": "Tang C M/Tse Y S"
             }
         ],
         "propositions": [
             {
-                "name": "Lakshya Sen",
-                "returnWin": 2
+                "name": "Vestergaard M/Busch C",
+                "returnWin": 2.5
             },
             {
-                "name": "Shi Feng Li",
-                "returnWin": 1.72
+                "name": "Tang C M/Tse Y S",
+                "returnWin": 1.47
             }
         ],
-        "match_name": "Sen v Li SF",
+        "match_name": "VestergaardBusch v Tang C M/Tse Y S",
         "betOption": "Head To Head",
-        "start_time": "2026-03-06T17:00:00.000Z"
+        "start_time": "2026-03-06T17:20:00.000Z"
     },
     {
-        "contestant_names": "Araski AES, (2.15) VERSES Badalona, (1.6)",
-        "start_time_aest": "2026-03-07T04:00:00+11:00",
+        "contestant_names": "EWE Oldenburg, (1.72) VERSES Telekom Baskets, (2)",
+        "start_time_aest": "2026-03-07T04:30:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Spain Liga Women",
+        "competition_name": "Germany Bundesliga",
         "contestants": [
             {
-                "full_name": "Araski AES",
+                "full_name": "EWE Oldenburg",
                 "position": "HOME",
-                "short_name": "Araski AES"
+                "short_name": "EWE Oldenburg"
             },
             {
-                "full_name": "Badalona",
+                "full_name": "Telekom Baskets",
                 "position": "AWAY",
-                "short_name": "Badalona"
+                "short_name": "Telekom Baskets"
             }
         ],
         "propositions": [
             {
-                "name": "Araski AES",
-                "returnWin": 2.15
+                "name": "EWE Oldenburg",
+                "returnWin": 1.72
             },
             {
-                "name": "Badalona",
-                "returnWin": 1.6
+                "name": "Telekom Baskets",
+                "returnWin": 2
             }
         ],
-        "match_name": "Araski AES v Badalona",
+        "match_name": "EWE Oldenburg v Telekom Baskets",
         "betOption": "Head To Head",
-        "start_time": "2026-03-06T17:00:00.000Z"
+        "start_time": "2026-03-06T17:30:00.000Z"
+    },
+    {
+        "contestant_names": "Mitteldeutscher, (1.48) VERSES Frankfurt, (2.45)",
+        "start_time_aest": "2026-03-07T04:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Germany Bundesliga",
+        "contestants": [
+            {
+                "full_name": "Mitteldeutscher",
+                "position": "HOME",
+                "short_name": "Mitteldeutscher"
+            },
+            {
+                "full_name": "Frankfurt",
+                "position": "AWAY",
+                "short_name": "Frankfurt"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mitteldeutscher",
+                "returnWin": 1.48
+            },
+            {
+                "name": "Frankfurt",
+                "returnWin": 2.45
+            }
+        ],
+        "match_name": "Mitteldeutscher v Frankfurt",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T17:30:00.000Z"
     }
 ]
