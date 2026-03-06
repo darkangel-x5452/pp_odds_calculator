@@ -1,68 +1,5 @@
 [
     {
-        "contestant_names": "Cory/Bradford, (2.2) VERSES Nemec/Petruf, (1.6)",
-        "start_time_aest": "2026-03-06T11:00:00+11:00",
-        "sport_name": "Beach Volleyball",
-        "competition_name": "Beach Pro Tour Mens",
-        "tournamentName": "Beach Pro Tour Challenge Bhubanesaw Mens",
-        "contestants": [
-            {
-                "full_name": "Cory/Bradford",
-                "position": "HOME",
-                "short_name": "Cory/Bradford"
-            },
-            {
-                "full_name": "Nemec/Petruf",
-                "position": "AWAY",
-                "short_name": "Nemec/Petruf"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Cory/Bradford",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Nemec/Petruf",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Cory/Bradford v Nemec/Petruf",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Calgary, (2.4) VERSES Ottawa, (1.55)",
-        "start_time_aest": "2026-03-06T13:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Calgary",
-                "position": "HOME",
-                "short_name": "Calgary"
-            },
-            {
-                "full_name": "Ottawa",
-                "position": "AWAY",
-                "short_name": "Ottawa"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Calgary",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Ottawa",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Calgary v Ottawa",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T02:05:00.000Z"
-    },
-    {
         "contestant_names": "Los Angeles, (1.8) VERSES NY Islanders, (2)",
         "start_time_aest": "2026-03-06T13:35:00+11:00",
         "sport_name": "Ice Hockey",
@@ -152,6 +89,102 @@
             }
         ],
         "match_name": "CSU Fullerton v UC San Diego",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Jiaqi Wang, (1.68) VERSES Jiayi Wang, (2.05)",
+        "start_time_aest": "2026-03-06T14:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Maanshan",
+        "contestants": [
+            {
+                "full_name": "Jiaqi Wang",
+                "position": "HOME",
+                "short_name": "Wang Jq"
+            },
+            {
+                "full_name": "Jiayi Wang",
+                "position": "AWAY",
+                "short_name": "Wang Jy"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jiaqi Wang",
+                "returnWin": 1.68
+            },
+            {
+                "name": "Jiayi Wang",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Wang Jq v Wang Jy",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Matteo Arnaldi, (2.25) VERSES Mackenzie McDonald, (1.6)",
+        "start_time_aest": "2026-03-06T14:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Masters",
+        "tournamentName": "Masters Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Matteo Arnaldi",
+                "position": "HOME",
+                "short_name": "Arnaldi"
+            },
+            {
+                "full_name": "Mackenzie McDonald",
+                "position": "AWAY",
+                "short_name": "McDonald M"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Matteo Arnaldi",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Mackenzie McDonald",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Arnaldi v McDonald M",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T03:00:00.000Z"
+    },
+    {
+        "contestant_names": "Francesco Maestrelli, (2.1) VERSES Rinky Hijikata, (1.7)",
+        "start_time_aest": "2026-03-06T14:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Masters",
+        "tournamentName": "Masters Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Francesco Maestrelli",
+                "position": "HOME",
+                "short_name": "Maestrelli"
+            },
+            {
+                "full_name": "Rinky Hijikata",
+                "position": "AWAY",
+                "short_name": "Hijikata"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Francesco Maestrelli",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Rinky Hijikata",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "Maestrelli v Hijikata",
         "betOption": "Head To Head",
         "start_time": "2026-03-06T03:00:00.000Z"
     }
