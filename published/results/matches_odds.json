@@ -1,33 +1,96 @@
 [
     {
-        "contestant_names": "Biarritz, (1.62) VERSES Aix-en-Provence, (2.2)",
-        "start_time_aest": "2026-03-07T05:00:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "France Pro D2",
+        "contestant_names": "Sebastian Ofner, (1.65) VERSES Jurij Rodionov, (2.1)",
+        "start_time_aest": "2026-03-07T05:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Thionville",
         "contestants": [
             {
-                "full_name": "Biarritz",
+                "full_name": "Sebastian Ofner",
                 "position": "HOME",
-                "short_name": "Biarritz"
+                "short_name": "Ofner S"
             },
             {
-                "full_name": "Aix-en-Provence",
+                "full_name": "Jurij Rodionov",
                 "position": "AWAY",
-                "short_name": "Aix-en-Provence"
+                "short_name": "Rodionov"
             }
         ],
         "propositions": [
             {
-                "name": "Biarritz",
-                "returnWin": 1.62
+                "name": "Sebastian Ofner",
+                "returnWin": 1.65
             },
             {
-                "name": "Aix-en-Provence",
-                "returnWin": 2.2
+                "name": "Jurij Rodionov",
+                "returnWin": 2.1
             }
         ],
-        "match_name": "Biarritz v Aix-en-Provence",
+        "match_name": "Ofner S v Rodionov",
         "betOption": "Head To Head",
-        "start_time": "2026-03-06T18:00:00.000Z"
+        "start_time": "2026-03-06T18:15:00.000Z"
+    },
+    {
+        "contestant_names": "Nth Carolina St, (2) VERSES Notre Dame, (1.75)",
+        "start_time_aest": "2026-03-07T05:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Nth Carolina St",
+                "position": "HOME",
+                "short_name": "Nth Carolina St"
+            },
+            {
+                "full_name": "Notre Dame",
+                "position": "AWAY",
+                "short_name": "Notre Dame"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nth Carolina St",
+                "returnWin": 2
+            },
+            {
+                "name": "Notre Dame",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Nth Carolina St v Notre Dame",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T18:30:00.000Z"
+    },
+    {
+        "contestant_names": "Providence, (1.68) VERSES DePaul, (2.1)",
+        "start_time_aest": "2026-03-07T05:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Providence",
+                "position": "HOME",
+                "short_name": "Providence"
+            },
+            {
+                "full_name": "DePaul",
+                "position": "AWAY",
+                "short_name": "DePaul"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Providence",
+                "returnWin": 1.68
+            },
+            {
+                "name": "DePaul",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Providence v DePaul",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T18:30:00.000Z"
     }
 ]
