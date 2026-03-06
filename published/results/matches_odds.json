@@ -1,99 +1,5 @@
 [
     {
-        "contestant_names": "Hugo Gaston, (1.5) VERSES Michael Kouame, (2.4)",
-        "start_time_aest": "2026-03-07T03:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Thionville",
-        "contestants": [
-            {
-                "full_name": "Hugo Gaston",
-                "position": "HOME",
-                "short_name": "Gaston"
-            },
-            {
-                "full_name": "Michael Kouame",
-                "position": "AWAY",
-                "short_name": "Kouame"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Hugo Gaston",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Michael Kouame",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Gaston v Kouame",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T16:15:00.000Z"
-    },
-    {
-        "contestant_names": "Aanekosken Huima, (2.1) VERSES HBA-Marsky, (1.62)",
-        "start_time_aest": "2026-03-07T03:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Finland Division 1A",
-        "contestants": [
-            {
-                "full_name": "Aanekosken Huima",
-                "position": "HOME",
-                "short_name": "Aanekosken Huima"
-            },
-            {
-                "full_name": "HBA-Marsky",
-                "position": "AWAY",
-                "short_name": "HBA-Marsky"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Aanekosken Huima",
-                "returnWin": 2.1
-            },
-            {
-                "name": "HBA-Marsky",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Aanekosken Huima v HBA-Marsky",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T16:30:00.000Z"
-    },
-    {
-        "contestant_names": "Tapiolan Honka, (2) VERSES Bc Nokia, (1.7)",
-        "start_time_aest": "2026-03-07T03:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Finland Korisliiga Women",
-        "contestants": [
-            {
-                "full_name": "Tapiolan Honka",
-                "position": "HOME",
-                "short_name": "Tapiolan Honka"
-            },
-            {
-                "full_name": "Bc Nokia",
-                "position": "AWAY",
-                "short_name": "Bc Nokia"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Tapiolan Honka",
-                "returnWin": 2
-            },
-            {
-                "name": "Bc Nokia",
-                "returnWin": 1.7
-            }
-        ],
-        "match_name": "Tapiolan Honka v Bc Nokia",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T16:30:00.000Z"
-    },
-    {
         "contestant_names": "Lakshya Sen, (2) VERSES Shi Feng Li, (1.72)",
         "start_time_aest": "2026-03-07T04:00:00+11:00",
         "sport_name": "Badminton",
@@ -122,6 +28,37 @@
             }
         ],
         "match_name": "Sen v Li SF",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Araski AES, (2.15) VERSES Badalona, (1.6)",
+        "start_time_aest": "2026-03-07T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Spain Liga Women",
+        "contestants": [
+            {
+                "full_name": "Araski AES",
+                "position": "HOME",
+                "short_name": "Araski AES"
+            },
+            {
+                "full_name": "Badalona",
+                "position": "AWAY",
+                "short_name": "Badalona"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Araski AES",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Badalona",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Araski AES v Badalona",
         "betOption": "Head To Head",
         "start_time": "2026-03-06T17:00:00.000Z"
     }
