@@ -60,5 +60,37 @@
         "match_name": "Texas State v Southern Miss",
         "betOption": "Head To Head",
         "start_time": "2026-03-06T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Jaqueline Cristian, (1.6) VERSES Maya Joint, (2.25)",
+        "start_time_aest": "2026-03-07T10:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Jaqueline Cristian",
+                "position": "HOME",
+                "short_name": "Cristian"
+            },
+            {
+                "full_name": "Maya Joint",
+                "position": "AWAY",
+                "short_name": "Joint"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jaqueline Cristian",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Maya Joint",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Cristian v Joint",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T23:00:00.000Z"
     }
 ]
