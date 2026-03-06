@@ -1,127 +1,64 @@
 [
     {
-        "contestant_names": "Pittsburgh, (1.95) VERSES Buffalo, (1.85)",
-        "start_time_aest": "2026-03-06T11:08:00+11:00",
+        "contestant_names": "Missouri State, (1.95) VERSES Western Kentucky, (1.85)",
+        "start_time_aest": "2026-03-06T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Missouri State",
+                "position": "HOME",
+                "short_name": "Missouri State"
+            },
+            {
+                "full_name": "Western Kentucky",
+                "position": "AWAY",
+                "short_name": "Western Kentucky"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Missouri State",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Western Kentucky",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Missouri State v Western Kentucky",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T01:00:00.000Z"
+    },
+    {
+        "contestant_names": "Nashville, (1.95) VERSES Boston, (1.85)",
+        "start_time_aest": "2026-03-06T12:05:00+11:00",
         "sport_name": "Ice Hockey",
         "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "Pittsburgh",
+                "full_name": "Nashville",
                 "position": "HOME",
-                "short_name": "Pittsburgh"
+                "short_name": "Nashville"
             },
             {
-                "full_name": "Buffalo",
+                "full_name": "Boston",
                 "position": "AWAY",
-                "short_name": "Buffalo"
+                "short_name": "Boston"
             }
         ],
         "propositions": [
             {
-                "name": "Pittsburgh",
+                "name": "Nashville",
                 "returnWin": 1.95
             },
             {
-                "name": "Buffalo",
+                "name": "Boston",
                 "returnWin": 1.85
             }
         ],
-        "match_name": "Pittsburgh v Buffalo",
+        "match_name": "Nashville v Boston",
         "betOption": "Head To Head",
-        "start_time": "2026-03-06T00:08:00.000Z"
-    },
-    {
-        "contestant_names": "Philadelphia, (1.95) VERSES Utah, (1.85)",
-        "start_time_aest": "2026-03-06T11:09:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Philadelphia",
-                "position": "HOME",
-                "short_name": "Philadelphia"
-            },
-            {
-                "full_name": "Utah",
-                "position": "AWAY",
-                "short_name": "Utah"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Philadelphia",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Utah",
-                "returnWin": 1.85
-            }
-        ],
-        "match_name": "Philadelphia v Utah",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T00:09:00.000Z"
-    },
-    {
-        "contestant_names": "Columbus, (1.85) VERSES Florida, (1.95)",
-        "start_time_aest": "2026-03-06T11:09:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Columbus",
-                "position": "HOME",
-                "short_name": "Columbus"
-            },
-            {
-                "full_name": "Florida",
-                "position": "AWAY",
-                "short_name": "Florida"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Columbus",
-                "returnWin": 1.85
-            },
-            {
-                "name": "Florida",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Columbus v Florida",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T00:09:00.000Z"
-    },
-    {
-        "contestant_names": "L Kichenok/Krawczyk, (1.87) VERSES Mihalikova/Nicholls, (1.87)",
-        "start_time_aest": "2026-03-06T11:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA Doubles",
-        "tournamentName": "WTA Indian Wells Doubles",
-        "contestants": [
-            {
-                "full_name": "L Kichenok/Krawczyk",
-                "position": "HOME",
-                "short_name": "L-Kchenok/Krawczyk"
-            },
-            {
-                "full_name": "Mihalikova/Nicholls",
-                "position": "AWAY",
-                "short_name": "Mhalikova/Nicholls"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "L Kichenok/Krawczyk",
-                "returnWin": 1.87
-            },
-            {
-                "name": "Mihalikova/Nicholls",
-                "returnWin": 1.87
-            }
-        ],
-        "match_name": "L-Kchenok/Krawczyk v Mhalikova/Nicholls",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T00:15:00.000Z"
+        "start_time": "2026-03-06T01:05:00.000Z"
     }
 ]
