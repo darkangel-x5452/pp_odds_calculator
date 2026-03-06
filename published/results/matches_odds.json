@@ -1,7 +1,7 @@
 [
     {
         "contestant_names": "Sebastian Ofner, (1.65) VERSES Jurij Rodionov, (2.1)",
-        "start_time_aest": "2026-03-07T05:15:00+11:00",
+        "start_time_aest": "2026-03-07T05:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "tournamentName": "Challenger Thionville",
@@ -29,68 +29,99 @@
         ],
         "match_name": "Ofner S v Rodionov",
         "betOption": "Head To Head",
-        "start_time": "2026-03-06T18:15:00.000Z"
+        "start_time": "2026-03-06T18:45:00.000Z"
     },
     {
-        "contestant_names": "Nth Carolina St, (2) VERSES Notre Dame, (1.75)",
-        "start_time_aest": "2026-03-07T05:30:00+11:00",
+        "contestant_names": "Rostock Seawolve, (1.48) VERSES TBB Trier, (2.45)",
+        "start_time_aest": "2026-03-07T06:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
+        "competition_name": "Germany Bundesliga",
         "contestants": [
             {
-                "full_name": "Nth Carolina St",
+                "full_name": "Rostock Seawolve",
                 "position": "HOME",
-                "short_name": "Nth Carolina St"
+                "short_name": "Rostock Seawolve"
             },
             {
-                "full_name": "Notre Dame",
+                "full_name": "TBB Trier",
                 "position": "AWAY",
-                "short_name": "Notre Dame"
+                "short_name": "TBB Trier"
             }
         ],
         "propositions": [
             {
-                "name": "Nth Carolina St",
-                "returnWin": 2
+                "name": "Rostock Seawolve",
+                "returnWin": 1.48
             },
             {
-                "name": "Notre Dame",
-                "returnWin": 1.75
+                "name": "TBB Trier",
+                "returnWin": 2.45
             }
         ],
-        "match_name": "Nth Carolina St v Notre Dame",
+        "match_name": "Rostock Seawolve v TBB Trier",
         "betOption": "Head To Head",
-        "start_time": "2026-03-06T18:30:00.000Z"
+        "start_time": "2026-03-06T19:00:00.000Z"
     },
     {
-        "contestant_names": "Providence, (1.68) VERSES DePaul, (2.1)",
-        "start_time_aest": "2026-03-07T05:30:00+11:00",
+        "contestant_names": "Nth Carolina AT, (2.05) VERSES Northeastern, (1.77)",
+        "start_time_aest": "2026-03-07T06:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
+        "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Providence",
+                "full_name": "Nth Carolina AT",
                 "position": "HOME",
-                "short_name": "Providence"
+                "short_name": "Nth Carolina AT"
             },
             {
-                "full_name": "DePaul",
+                "full_name": "Northeastern",
                 "position": "AWAY",
-                "short_name": "DePaul"
+                "short_name": "Northeastern"
             }
         ],
         "propositions": [
             {
-                "name": "Providence",
-                "returnWin": 1.68
+                "name": "Nth Carolina AT",
+                "returnWin": 2.05
             },
             {
-                "name": "DePaul",
-                "returnWin": 2.1
+                "name": "Northeastern",
+                "returnWin": 1.77
             }
         ],
-        "match_name": "Providence v DePaul",
+        "match_name": "Nth Carolina AT v Northeastern",
         "betOption": "Head To Head",
-        "start_time": "2026-03-06T18:30:00.000Z"
+        "start_time": "2026-03-06T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Baden Basket 54, (1.48) VERSES Geneve Elite, (2.4)",
+        "start_time_aest": "2026-03-07T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Switzerland SBL Women",
+        "contestants": [
+            {
+                "full_name": "Baden Basket 54",
+                "position": "HOME",
+                "short_name": "Baden Basket 54"
+            },
+            {
+                "full_name": "Geneve Elite",
+                "position": "AWAY",
+                "short_name": "Geneve Elite"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Baden Basket 54",
+                "returnWin": 1.48
+            },
+            {
+                "name": "Geneve Elite",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Baden Basket 54 v Geneve Elite",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T19:00:00.000Z"
     }
 ]
