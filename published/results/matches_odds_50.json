@@ -29,5 +29,37 @@
         "match_name": "JiangsuYananSuke v Shijiazhuang Xia",
         "betOption": "Head To Head",
         "start_time": "2026-03-06T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Xinyu Gao, (1.9) VERSES Caijsa W Hennemann, (1.8)",
+        "start_time_aest": "2026-03-06T22:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Helsinki",
+        "contestants": [
+            {
+                "full_name": "Xinyu Gao",
+                "position": "HOME",
+                "short_name": "Gao X"
+            },
+            {
+                "full_name": "Caijsa W Hennemann",
+                "position": "AWAY",
+                "short_name": "Hennemann"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Xinyu Gao",
+                "returnWin": 1.9
+            },
+            {
+                "name": "Caijsa W Hennemann",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Gao X v Hennemann",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T11:00:00.000Z"
     }
 ]
