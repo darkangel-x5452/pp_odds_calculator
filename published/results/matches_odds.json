@@ -1,97 +1,65 @@
 [
     {
-        "contestant_names": "Adolfo Daniel Vallejo, (1.6) VERSES Facundo Diaz Acosta, (2.2)",
-        "start_time_aest": "2026-03-07T06:45:00+11:00",
+        "contestant_names": "Xinyu Wang, (2) VERSES Ajla Tomljanovic, (1.8)",
+        "start_time_aest": "2026-03-07T08:00:00+11:00",
         "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Brasilia",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Indian Wells",
         "contestants": [
             {
-                "full_name": "Adolfo Daniel Vallejo",
+                "full_name": "Xinyu Wang",
                 "position": "HOME",
-                "short_name": "Vallejo"
+                "short_name": "Wang Xn"
             },
             {
-                "full_name": "Facundo Diaz Acosta",
+                "full_name": "Ajla Tomljanovic",
                 "position": "AWAY",
-                "short_name": "Diaz Acosta"
+                "short_name": "Tomljanovic"
             }
         ],
         "propositions": [
             {
-                "name": "Adolfo Daniel Vallejo",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Facundo Diaz Acosta",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Vallejo v Diaz Acosta",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T19:45:00.000Z"
-    },
-    {
-        "contestant_names": "Pacific, (2.15) VERSES Washington State, (1.65)",
-        "start_time_aest": "2026-03-07T07:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Pacific",
-                "position": "HOME",
-                "short_name": "Pacific"
-            },
-            {
-                "full_name": "Washington State",
-                "position": "AWAY",
-                "short_name": "Washington State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Pacific",
-                "returnWin": 2.15
-            },
-            {
-                "name": "Washington State",
-                "returnWin": 1.65
-            }
-        ],
-        "match_name": "Pacific v Washington State",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T20:00:00.000Z"
-    },
-    {
-        "contestant_names": "Nongshim Red Force, (2) VERSES Gentle Mates, (1.72)",
-        "start_time_aest": "2026-03-07T07:00:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "Valorant",
-        "tournamentName": "Valorant - Masters Santiago",
-        "contestants": [
-            {
-                "full_name": "Nongshim Red Force",
-                "position": "HOME",
-                "short_name": "Nongshim Red For"
-            },
-            {
-                "full_name": "Gentle Mates",
-                "position": "AWAY",
-                "short_name": "Gentle Mates"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Nongshim Red Force",
+                "name": "Xinyu Wang",
                 "returnWin": 2
             },
             {
-                "name": "Gentle Mates",
-                "returnWin": 1.72
+                "name": "Ajla Tomljanovic",
+                "returnWin": 1.8
             }
         ],
-        "match_name": "Nongshim Red For v Gentle Mates",
+        "match_name": "Wang Xn v Tomljanovic",
         "betOption": "Head To Head",
-        "start_time": "2026-03-06T20:00:00.000Z"
+        "start_time": "2026-03-06T21:00:00.000Z"
+    },
+    {
+        "contestant_names": "UNC Asheville, (1.8) VERSES Longwood, (2)",
+        "start_time_aest": "2026-03-07T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "UNC Asheville",
+                "position": "HOME",
+                "short_name": "UNC Asheville"
+            },
+            {
+                "full_name": "Longwood",
+                "position": "AWAY",
+                "short_name": "Longwood"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "UNC Asheville",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Longwood",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "UNC Asheville v Longwood",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T23:00:00.000Z"
     }
 ]
