@@ -32,69 +32,6 @@
         "start_time": "2026-03-06T00:00:00.000Z"
     },
     {
-        "contestant_names": "Denver, (1.6) VERSES LA Lakers, (2.4)",
-        "start_time_aest": "2026-03-06T14:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Denver",
-                "position": "HOME",
-                "short_name": "Denver"
-            },
-            {
-                "full_name": "LA Lakers",
-                "position": "AWAY",
-                "short_name": "LA Lakers"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Denver",
-                "returnWin": 1.6
-            },
-            {
-                "name": "LA Lakers",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Denver v LA Lakers",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T03:10:00.000Z"
-    },
-    {
-        "contestant_names": "Matteo Arnaldi, (2.25) VERSES Mackenzie McDonald, (1.6)",
-        "start_time_aest": "2026-03-06T14:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Masters",
-        "tournamentName": "Masters Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Matteo Arnaldi",
-                "position": "HOME",
-                "short_name": "Arnaldi"
-            },
-            {
-                "full_name": "Mackenzie McDonald",
-                "position": "AWAY",
-                "short_name": "McDonald M"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Matteo Arnaldi",
-                "returnWin": 2.25
-            },
-            {
-                "name": "Mackenzie McDonald",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Arnaldi v McDonald M",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T03:30:00.000Z"
-    },
-    {
         "contestant_names": "Meiling Wang, (1.65) VERSES Anna Snigireva, (2.1)",
         "start_time_aest": "2026-03-06T15:00:00+11:00",
         "sport_name": "Tennis",
@@ -157,6 +94,70 @@
         "match_name": "Zheng M v Kopriva",
         "betOption": "Head To Head",
         "start_time": "2026-03-06T04:00:00.000Z"
+    },
+    {
+        "contestant_names": "Matteo Arnaldi, (2.1) VERSES Mackenzie McDonald, (1.7)",
+        "start_time_aest": "2026-03-06T15:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Masters",
+        "tournamentName": "Masters Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Matteo Arnaldi",
+                "position": "HOME",
+                "short_name": "Arnaldi"
+            },
+            {
+                "full_name": "Mackenzie McDonald",
+                "position": "AWAY",
+                "short_name": "McDonald M"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Matteo Arnaldi",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Mackenzie McDonald",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "Arnaldi v McDonald M",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T04:00:00.000Z"
+    },
+    {
+        "contestant_names": "Meiling Wang, (1.68) VERSES Anna Snigireva, (2.05)",
+        "start_time_aest": "2026-03-06T15:16:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Maanshan",
+        "contestants": [
+            {
+                "full_name": "Meiling Wang",
+                "position": "HOME",
+                "short_name": "Wang M"
+            },
+            {
+                "full_name": "Anna Snigireva",
+                "position": "AWAY",
+                "short_name": "Snigireva"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Meiling Wang",
+                "returnWin": 1.68
+            },
+            {
+                "name": "Anna Snigireva",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Wang M v Snigireva",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T04:16:00.000Z"
     },
     {
         "contestant_names": "Jasmijn Gimbrere, (1.48) VERSES Maayan Laron, (2.45)",
