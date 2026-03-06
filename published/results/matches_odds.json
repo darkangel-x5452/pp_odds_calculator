@@ -1,163 +1,5 @@
 [
     {
-        "contestant_names": "Alabama State, (1.7) VERSES Grambling State, (2.15)",
-        "start_time_aest": "2026-03-06T12:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Alabama State",
-                "position": "HOME",
-                "short_name": "Alabama State"
-            },
-            {
-                "full_name": "Grambling State",
-                "position": "AWAY",
-                "short_name": "Grambling State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Alabama State",
-                "returnWin": 1.7
-            },
-            {
-                "name": "Grambling State",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Alabama State v Grambling State",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T01:00:00.000Z"
-    },
-    {
-        "contestant_names": "Texas Southern, (1.77) VERSES Prairie View AM, (2.05)",
-        "start_time_aest": "2026-03-06T12:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Texas Southern",
-                "position": "HOME",
-                "short_name": "Texas Southern"
-            },
-            {
-                "full_name": "Prairie View AM",
-                "position": "AWAY",
-                "short_name": "Prairie View AM"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Texas Southern",
-                "returnWin": 1.77
-            },
-            {
-                "name": "Prairie View AM",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Texas Southern v Prairie View AM",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T01:00:00.000Z"
-    },
-    {
-        "contestant_names": "Nuno Borges, (1.58) VERSES Emilio Nava, (2.3)",
-        "start_time_aest": "2026-03-06T12:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Masters",
-        "tournamentName": "Masters Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Nuno Borges",
-                "position": "HOME",
-                "short_name": "Borges N"
-            },
-            {
-                "full_name": "Emilio Nava",
-                "position": "AWAY",
-                "short_name": "Nava"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Nuno Borges",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Emilio Nava",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Borges N v Nava",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T01:00:00.000Z"
-    },
-    {
-        "contestant_names": "Alejandro Tabilo, (2.3) VERSES Rafael Jodar, (1.58)",
-        "start_time_aest": "2026-03-06T12:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Masters",
-        "tournamentName": "Masters Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Alejandro Tabilo",
-                "position": "HOME",
-                "short_name": "Tabilo A"
-            },
-            {
-                "full_name": "Rafael Jodar",
-                "position": "AWAY",
-                "short_name": "Rafael Jodar"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Alejandro Tabilo",
-                "returnWin": 2.3
-            },
-            {
-                "name": "Rafael Jodar",
-                "returnWin": 1.58
-            }
-        ],
-        "match_name": "Tabilo A v Rafael Jodar",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T01:00:00.000Z"
-    },
-    {
-        "contestant_names": "Katie Volynets, (1.7) VERSES Rebecca Sramkova, (2.1)",
-        "start_time_aest": "2026-03-06T12:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "tournamentName": "WTA Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Katie Volynets",
-                "position": "HOME",
-                "short_name": "Volynets"
-            },
-            {
-                "full_name": "Rebecca Sramkova",
-                "position": "AWAY",
-                "short_name": "Sramkova"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Katie Volynets",
-                "returnWin": 1.7
-            },
-            {
-                "name": "Rebecca Sramkova",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Volynets v Sramkova",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T01:00:00.000Z"
-    },
-    {
         "contestant_names": "San Antonio, (1.67) VERSES Detroit, (2.25)",
         "start_time_aest": "2026-03-06T12:10:00+11:00",
         "sport_name": "Basketball",
@@ -187,5 +29,131 @@
         "match_name": "San Antonio v Detroit",
         "betOption": "Head To Head",
         "start_time": "2026-03-06T01:10:00.000Z"
+    },
+    {
+        "contestant_names": "Tennessee, (1.52) VERSES Alabama, (2.45)",
+        "start_time_aest": "2026-03-06T12:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Tennessee",
+                "position": "HOME",
+                "short_name": "Tennessee"
+            },
+            {
+                "full_name": "Alabama",
+                "position": "AWAY",
+                "short_name": "Alabama"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tennessee",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Alabama",
+                "returnWin": 2.45
+            }
+        ],
+        "match_name": "Tennessee v Alabama",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T01:30:00.000Z"
+    },
+    {
+        "contestant_names": "Nuno Borges, (1.58) VERSES Emilio Nava, (2.3)",
+        "start_time_aest": "2026-03-06T12:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Masters",
+        "tournamentName": "Masters Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Nuno Borges",
+                "position": "HOME",
+                "short_name": "Borges N"
+            },
+            {
+                "full_name": "Emilio Nava",
+                "position": "AWAY",
+                "short_name": "Nava"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nuno Borges",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Emilio Nava",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Borges N v Nava",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T01:30:00.000Z"
+    },
+    {
+        "contestant_names": "Katie Volynets, (1.7) VERSES Rebecca Sramkova, (2.1)",
+        "start_time_aest": "2026-03-06T12:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Katie Volynets",
+                "position": "HOME",
+                "short_name": "Volynets"
+            },
+            {
+                "full_name": "Rebecca Sramkova",
+                "position": "AWAY",
+                "short_name": "Sramkova"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Katie Volynets",
+                "returnWin": 1.7
+            },
+            {
+                "name": "Rebecca Sramkova",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Volynets v Sramkova",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T01:30:00.000Z"
+    },
+    {
+        "contestant_names": "Portland, (1.6) VERSES Pepperdine, (2.35)",
+        "start_time_aest": "2026-03-06T13:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Portland",
+                "position": "HOME",
+                "short_name": "Portland"
+            },
+            {
+                "full_name": "Pepperdine",
+                "position": "AWAY",
+                "short_name": "Pepperdine"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Portland",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Pepperdine",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Portland v Pepperdine",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T02:00:00.000Z"
     }
 ]

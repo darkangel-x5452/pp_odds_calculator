@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Missouri State, (1.95) VERSES Western Kentucky, (1.85)",
-        "start_time_aest": "2026-03-06T12:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Missouri State",
-                "position": "HOME",
-                "short_name": "Missouri State"
-            },
-            {
-                "full_name": "Western Kentucky",
-                "position": "AWAY",
-                "short_name": "Western Kentucky"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Missouri State",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Western Kentucky",
-                "returnWin": 1.85
-            }
-        ],
-        "match_name": "Missouri State v Western Kentucky",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T01:00:00.000Z"
-    },
-    {
         "contestant_names": "Nashville, (1.95) VERSES Boston, (1.85)",
         "start_time_aest": "2026-03-06T12:05:00+11:00",
         "sport_name": "Ice Hockey",
@@ -60,5 +29,36 @@
         "match_name": "Nashville v Boston",
         "betOption": "Head To Head",
         "start_time": "2026-03-06T01:05:00.000Z"
+    },
+    {
+        "contestant_names": "Alabama AM, (1.9) VERSES Sthrn University, (1.9)",
+        "start_time_aest": "2026-03-06T12:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Alabama AM",
+                "position": "HOME",
+                "short_name": "Alabama AM"
+            },
+            {
+                "full_name": "Sthrn University",
+                "position": "AWAY",
+                "short_name": "Sthrn University"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alabama AM",
+                "returnWin": 1.9
+            },
+            {
+                "name": "Sthrn University",
+                "returnWin": 1.9
+            }
+        ],
+        "match_name": "Alabama AM v Sthrn University",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T01:30:00.000Z"
     }
 ]
