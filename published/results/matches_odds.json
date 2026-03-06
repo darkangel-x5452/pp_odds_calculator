@@ -1,37 +1,5 @@
 [
     {
-        "contestant_names": "Julia Avdeeva, (2.1) VERSES Noma Noha Akugue, (1.65)",
-        "start_time_aest": "2026-03-06T23:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "tournamentName": "ITFW Helsinki",
-        "contestants": [
-            {
-                "full_name": "Julia Avdeeva",
-                "position": "HOME",
-                "short_name": "Avdeeva"
-            },
-            {
-                "full_name": "Noma Noha Akugue",
-                "position": "AWAY",
-                "short_name": "Akugue"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Julia Avdeeva",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Noma Noha Akugue",
-                "returnWin": 1.65
-            }
-        ],
-        "match_name": "Avdeeva v Akugue",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T12:30:00.000Z"
-    },
-    {
         "contestant_names": "Aurora Gaming, (1.55) VERSES Legacy, (2.3)",
         "start_time_aest": "2026-03-07T00:00:00+11:00",
         "sport_name": "Esports",
@@ -62,5 +30,98 @@
         "match_name": "Aurora Gaming v Legacy",
         "betOption": "Head To Head",
         "start_time": "2026-03-06T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Rajawali Medan, (2.4) VERSES Tangerang Hawks, (1.48)",
+        "start_time_aest": "2026-03-07T00:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Indonesian Basketball League",
+        "contestants": [
+            {
+                "full_name": "Rajawali Medan",
+                "position": "HOME",
+                "short_name": "Rajawali Medan"
+            },
+            {
+                "full_name": "Tangerang Hawks",
+                "position": "AWAY",
+                "short_name": "Tangerang Hawks"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Rajawali Medan",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Tangerang Hawks",
+                "returnWin": 1.48
+            }
+        ],
+        "match_name": "Rajawali Medan v Tangerang Hawks",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Bc Gurjaani Delt, (2.5) VERSES Mega Tbilisi, (1.45)",
+        "start_time_aest": "2026-03-07T01:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Georgia Superleague",
+        "contestants": [
+            {
+                "full_name": "Bc Gurjaani Delt",
+                "position": "HOME",
+                "short_name": "Bc Gurjaani Delt"
+            },
+            {
+                "full_name": "Mega Tbilisi",
+                "position": "AWAY",
+                "short_name": "Mega Tbilisi"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bc Gurjaani Delt",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Mega Tbilisi",
+                "returnWin": 1.45
+            }
+        ],
+        "match_name": "Bc Gurjaani Delt v Mega Tbilisi",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Polonia Warsaw, (1.5) VERSES Basket Bydgoszcz, (2.35)",
+        "start_time_aest": "2026-03-07T01:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Poland Energa Basket Women",
+        "contestants": [
+            {
+                "full_name": "Polonia Warsaw",
+                "position": "HOME",
+                "short_name": "Polonia Warsaw"
+            },
+            {
+                "full_name": "Basket Bydgoszcz",
+                "position": "AWAY",
+                "short_name": "Basket Bydgoszcz"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Polonia Warsaw",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Basket Bydgoszcz",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Polonia Warsaw v Basket Bydgoszcz",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T14:00:00.000Z"
     }
 ]
