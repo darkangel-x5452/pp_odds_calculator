@@ -1,37 +1,5 @@
 [
     {
-        "contestant_names": "G2, (1.7) VERSES FaZe, (2)",
-        "start_time_aest": "2026-03-07T02:30:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "Counter Strike 2",
-        "tournamentName": "CS2 - ESL Pro League Play In",
-        "contestants": [
-            {
-                "full_name": "G2",
-                "position": "HOME",
-                "short_name": "G2"
-            },
-            {
-                "full_name": "FaZe",
-                "position": "AWAY",
-                "short_name": "FaZe"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "G2",
-                "returnWin": 1.7
-            },
-            {
-                "name": "FaZe",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "G2 v FaZe",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T15:30:00.000Z"
-    },
-    {
         "contestant_names": "Pisek Srsni, (2.4) VERSES Pardubice, (1.48)",
         "start_time_aest": "2026-03-07T03:00:00+11:00",
         "sport_name": "Basketball",
@@ -93,5 +61,131 @@
         "match_name": "Gaston v Kouame",
         "betOption": "Head To Head",
         "start_time": "2026-03-06T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "Georgetown, (1.52) VERSES Butler, (2.45)",
+        "start_time_aest": "2026-03-07T03:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Georgetown",
+                "position": "HOME",
+                "short_name": "Georgetown"
+            },
+            {
+                "full_name": "Butler",
+                "position": "AWAY",
+                "short_name": "Butler"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Georgetown",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Butler",
+                "returnWin": 2.45
+            }
+        ],
+        "match_name": "Georgetown v Butler",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "G2, (1.7) VERSES FaZe, (2.05)",
+        "start_time_aest": "2026-03-07T03:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "tournamentName": "CS2 - ESL Pro League Play In",
+        "contestants": [
+            {
+                "full_name": "G2",
+                "position": "HOME",
+                "short_name": "G2"
+            },
+            {
+                "full_name": "FaZe",
+                "position": "AWAY",
+                "short_name": "FaZe"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "G2",
+                "returnWin": 1.7
+            },
+            {
+                "name": "FaZe",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "G2 v FaZe",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "Luciano Emanuel Ambrogi, (1.55) VERSES Bastian Malla, (2.3)",
+        "start_time_aest": "2026-03-07T03:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "tournamentName": "ITFM Yerba Buena",
+        "contestants": [
+            {
+                "full_name": "Luciano Emanuel Ambrogi",
+                "position": "HOME",
+                "short_name": "Ambrogi"
+            },
+            {
+                "full_name": "Bastian Malla",
+                "position": "AWAY",
+                "short_name": "Malla"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Luciano Emanuel Ambrogi",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Bastian Malla",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Ambrogi v Malla",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "Aanekosken Huima, (2.1) VERSES HBA-Marsky, (1.62)",
+        "start_time_aest": "2026-03-07T03:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Finland Division 1A",
+        "contestants": [
+            {
+                "full_name": "Aanekosken Huima",
+                "position": "HOME",
+                "short_name": "Aanekosken Huima"
+            },
+            {
+                "full_name": "HBA-Marsky",
+                "position": "AWAY",
+                "short_name": "HBA-Marsky"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Aanekosken Huima",
+                "returnWin": 2.1
+            },
+            {
+                "name": "HBA-Marsky",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Aanekosken Huima v HBA-Marsky",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T16:30:00.000Z"
     }
 ]
