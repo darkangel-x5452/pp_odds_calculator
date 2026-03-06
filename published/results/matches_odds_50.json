@@ -1,96 +1,127 @@
 [
     {
-        "contestant_names": "FIU, (1.9) VERSES Middle Tennessee, (1.9)",
-        "start_time_aest": "2026-03-06T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "contestant_names": "Pittsburgh, (1.95) VERSES Buffalo, (1.85)",
+        "start_time_aest": "2026-03-06T11:08:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "FIU",
+                "full_name": "Pittsburgh",
                 "position": "HOME",
-                "short_name": "FIU"
+                "short_name": "Pittsburgh"
             },
             {
-                "full_name": "Middle Tennessee",
+                "full_name": "Buffalo",
                 "position": "AWAY",
-                "short_name": "Middle Tennessee"
+                "short_name": "Buffalo"
             }
         ],
         "propositions": [
             {
-                "name": "FIU",
-                "returnWin": 1.9
+                "name": "Pittsburgh",
+                "returnWin": 1.95
             },
             {
-                "name": "Middle Tennessee",
-                "returnWin": 1.9
+                "name": "Buffalo",
+                "returnWin": 1.85
             }
         ],
-        "match_name": "FIU v Middle Tennessee",
+        "match_name": "Pittsburgh v Buffalo",
         "betOption": "Head To Head",
-        "start_time": "2026-03-06T00:00:00.000Z"
+        "start_time": "2026-03-06T00:08:00.000Z"
     },
     {
-        "contestant_names": "Boston Uni, (1.85) VERSES American, (1.95)",
-        "start_time_aest": "2026-03-06T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "contestant_names": "Philadelphia, (1.95) VERSES Utah, (1.85)",
+        "start_time_aest": "2026-03-06T11:09:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "Boston Uni",
+                "full_name": "Philadelphia",
                 "position": "HOME",
-                "short_name": "Boston Uni"
+                "short_name": "Philadelphia"
             },
             {
-                "full_name": "American",
+                "full_name": "Utah",
                 "position": "AWAY",
-                "short_name": "American"
+                "short_name": "Utah"
             }
         ],
         "propositions": [
             {
-                "name": "Boston Uni",
+                "name": "Philadelphia",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Utah",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Philadelphia v Utah",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-06T00:09:00.000Z"
+    },
+    {
+        "contestant_names": "Columbus, (1.85) VERSES Florida, (1.95)",
+        "start_time_aest": "2026-03-06T11:09:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Columbus",
+                "position": "HOME",
+                "short_name": "Columbus"
+            },
+            {
+                "full_name": "Florida",
+                "position": "AWAY",
+                "short_name": "Florida"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Columbus",
                 "returnWin": 1.85
             },
             {
-                "name": "American",
+                "name": "Florida",
                 "returnWin": 1.95
             }
         ],
-        "match_name": "Boston Uni v American",
+        "match_name": "Columbus v Florida",
         "betOption": "Head To Head",
-        "start_time": "2026-03-06T00:00:00.000Z"
+        "start_time": "2026-03-06T00:09:00.000Z"
     },
     {
-        "contestant_names": "Moerani Bouzige, (1.8) VERSES Matthew Dellavedova, (1.9)",
-        "start_time_aest": "2026-03-06T11:00:00+11:00",
+        "contestant_names": "L Kichenok/Krawczyk, (1.87) VERSES Mihalikova/Nicholls, (1.87)",
+        "start_time_aest": "2026-03-06T11:15:00+11:00",
         "sport_name": "Tennis",
-        "competition_name": "ITF Mens Australia",
-        "tournamentName": "ITFM Launceston",
+        "competition_name": "WTA Doubles",
+        "tournamentName": "WTA Indian Wells Doubles",
         "contestants": [
             {
-                "full_name": "Moerani Bouzige",
+                "full_name": "L Kichenok/Krawczyk",
                 "position": "HOME",
-                "short_name": "Bouzige"
+                "short_name": "L-Kchenok/Krawczyk"
             },
             {
-                "full_name": "Matthew Dellavedova",
+                "full_name": "Mihalikova/Nicholls",
                 "position": "AWAY",
-                "short_name": "Dellavedova"
+                "short_name": "Mhalikova/Nicholls"
             }
         ],
         "propositions": [
             {
-                "name": "Moerani Bouzige",
-                "returnWin": 1.8
+                "name": "L Kichenok/Krawczyk",
+                "returnWin": 1.87
             },
             {
-                "name": "Matthew Dellavedova",
-                "returnWin": 1.9
+                "name": "Mihalikova/Nicholls",
+                "returnWin": 1.87
             }
         ],
-        "match_name": "Bouzige v Dellavedova",
+        "match_name": "L-Kchenok/Krawczyk v Mhalikova/Nicholls",
         "betOption": "Head To Head",
-        "start_time": "2026-03-06T00:00:00.000Z"
+        "start_time": "2026-03-06T00:15:00.000Z"
     }
 ]
