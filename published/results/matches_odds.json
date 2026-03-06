@@ -1,37 +1,5 @@
 [
     {
-        "contestant_names": "Jaqueline Cristian, (1.58) VERSES Maya Joint, (2.3)",
-        "start_time_aest": "2026-03-07T10:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "tournamentName": "WTA Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Jaqueline Cristian",
-                "position": "HOME",
-                "short_name": "Cristian"
-            },
-            {
-                "full_name": "Maya Joint",
-                "position": "AWAY",
-                "short_name": "Joint"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jaqueline Cristian",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Maya Joint",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Cristian v Joint",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T23:15:00.000Z"
-    },
-    {
         "contestant_names": "South Dakota, (2.1) VERSES Nebraska Omaha, (1.74)",
         "start_time_aest": "2026-03-07T11:00:00+11:00",
         "sport_name": "Basketball",
@@ -61,5 +29,130 @@
         "match_name": "South Dakota v Nebraska Omaha",
         "betOption": "Head To Head",
         "start_time": "2026-03-07T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Ball State, (1.74) VERSES Central Michigan, (2.1)",
+        "start_time_aest": "2026-03-07T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Ball State",
+                "position": "HOME",
+                "short_name": "Ball State"
+            },
+            {
+                "full_name": "Central Michigan",
+                "position": "AWAY",
+                "short_name": "Central Michigan"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ball State",
+                "returnWin": 1.74
+            },
+            {
+                "name": "Central Michigan",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Ball State v Central Michigan",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Dayton, (1.8) VERSES VCU, (2)",
+        "start_time_aest": "2026-03-07T11:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Dayton",
+                "position": "HOME",
+                "short_name": "Dayton"
+            },
+            {
+                "full_name": "VCU",
+                "position": "AWAY",
+                "short_name": "VCU"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Dayton",
+                "returnWin": 1.8
+            },
+            {
+                "name": "VCU",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Dayton v VCU",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Panova/Siegemund, (2) VERSES Muhammad/Routliffe, (1.75)",
+        "start_time_aest": "2026-03-07T11:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA Doubles",
+        "tournamentName": "WTA Indian Wells Doubles",
+        "contestants": [
+            {
+                "full_name": "Panova/Siegemund",
+                "position": "HOME",
+                "short_name": "Panova/Siegemund"
+            },
+            {
+                "full_name": "Muhammad/Routliffe",
+                "position": "AWAY",
+                "short_name": "Muhammad/Routliffe"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Panova/Siegemund",
+                "returnWin": 2
+            },
+            {
+                "name": "Muhammad/Routliffe",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Panova/Siegemund v Muhammad/Routliffe",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T00:00:00.000Z"
+    },
+    {
+        "contestant_names": "Detroit, (1.62) VERSES Florida, (2.25)",
+        "start_time_aest": "2026-03-07T11:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Detroit",
+                "position": "HOME",
+                "short_name": "Detroit"
+            },
+            {
+                "full_name": "Florida",
+                "position": "AWAY",
+                "short_name": "Florida"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Detroit",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Florida",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Detroit v Florida",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T00:05:00.000Z"
     }
 ]
