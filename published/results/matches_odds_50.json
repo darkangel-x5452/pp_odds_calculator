@@ -1,33 +1,64 @@
 [
     {
-        "contestant_names": "Olimpico, (1.77) VERSES Carril Oes Pic, (1.9)",
-        "start_time_aest": "2026-03-08T01:30:00+11:00",
+        "contestant_names": "Juve Bucuresti, (1.75) VERSES Lietkabelis, (1.95)",
+        "start_time_aest": "2026-03-08T01:50:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Argentina Liga Nacional de Basket",
+        "competition_name": "Lithuania LKL",
         "contestants": [
             {
-                "full_name": "Olimpico",
+                "full_name": "Juve Bucuresti",
                 "position": "HOME",
-                "short_name": "Olimpico"
+                "short_name": "Juve Bucuresti"
             },
             {
-                "full_name": "Carril Oes Pic",
+                "full_name": "Lietkabelis",
                 "position": "AWAY",
-                "short_name": "Carril Oes Pic"
+                "short_name": "Lietkabelis"
             }
         ],
         "propositions": [
             {
-                "name": "Olimpico",
-                "returnWin": 1.77
+                "name": "Juve Bucuresti",
+                "returnWin": 1.75
             },
             {
-                "name": "Carril Oes Pic",
-                "returnWin": 1.9
+                "name": "Lietkabelis",
+                "returnWin": 1.95
             }
         ],
-        "match_name": "Olimpico v Carril Oes Pic",
+        "match_name": "Juve Bucuresti v Lietkabelis",
         "betOption": "Head To Head",
-        "start_time": "2026-03-07T14:30:00.000Z"
+        "start_time": "2026-03-07T14:50:00.000Z"
+    },
+    {
+        "contestant_names": "Ockelbo Bbk, (1.9) VERSES Aik, (1.77)",
+        "start_time_aest": "2026-03-08T02:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Sweden Superettan",
+        "contestants": [
+            {
+                "full_name": "Ockelbo Bbk",
+                "position": "HOME",
+                "short_name": "Ockelbo Bbk"
+            },
+            {
+                "full_name": "Aik",
+                "position": "AWAY",
+                "short_name": "Aik"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ockelbo Bbk",
+                "returnWin": 1.9
+            },
+            {
+                "name": "Aik",
+                "returnWin": 1.77
+            }
+        ],
+        "match_name": "Ockelbo Bbk v Aik",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T15:00:00.000Z"
     }
 ]
