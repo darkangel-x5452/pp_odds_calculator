@@ -60,5 +60,69 @@
         "match_name": "Vimpelin Veto v Hba-marsky",
         "betOption": "Head To Head",
         "start_time": "2026-03-07T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Monte, (2.05) VERSES Legacy, (1.7)",
+        "start_time_aest": "2026-03-08T01:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "tournamentName": "CS2 - ESL Pro League Play In",
+        "contestants": [
+            {
+                "full_name": "Monte",
+                "position": "HOME",
+                "short_name": "Monte"
+            },
+            {
+                "full_name": "Legacy",
+                "position": "AWAY",
+                "short_name": "Legacy"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Monte",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Legacy",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "Monte v Legacy",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Team Liquid, (1.52) VERSES BetBoom Team, (2.35)",
+        "start_time_aest": "2026-03-08T01:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "tournamentName": "DOTA2 - PGL Wallachia",
+        "contestants": [
+            {
+                "full_name": "Team Liquid",
+                "position": "HOME",
+                "short_name": "Team Liquid"
+            },
+            {
+                "full_name": "BetBoom Team",
+                "position": "AWAY",
+                "short_name": "Betboom Team"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Team Liquid",
+                "returnWin": 1.52
+            },
+            {
+                "name": "BetBoom Team",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Team Liquid v Betboom Team",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T14:00:00.000Z"
     }
 ]
