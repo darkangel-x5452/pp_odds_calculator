@@ -1,130 +1,5 @@
 [
     {
-        "contestant_names": "Jenson Brooksby, (1.9) VERSES Frances Tiafoe, (1.9)",
-        "start_time_aest": "2026-03-07T10:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Masters",
-        "tournamentName": "Masters Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Jenson Brooksby",
-                "position": "HOME",
-                "short_name": "Brooksby"
-            },
-            {
-                "full_name": "Frances Tiafoe",
-                "position": "AWAY",
-                "short_name": "Tiafoe"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jenson Brooksby",
-                "returnWin": 1.9
-            },
-            {
-                "name": "Frances Tiafoe",
-                "returnWin": 1.9
-            }
-        ],
-        "match_name": "Brooksby v Tiafoe",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-06T23:45:00.000Z"
-    },
-    {
-        "contestant_names": "Rivadavia De Men, (1.77) VERSES Santiago Del Est, (1.9)",
-        "start_time_aest": "2026-03-07T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga A",
-        "contestants": [
-            {
-                "full_name": "Rivadavia De Men",
-                "position": "HOME",
-                "short_name": "Rivadavia De Men"
-            },
-            {
-                "full_name": "Santiago Del Est",
-                "position": "AWAY",
-                "short_name": "Santiago Del Est"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Rivadavia De Men",
-                "returnWin": 1.77
-            },
-            {
-                "name": "Santiago Del Est",
-                "returnWin": 1.9
-            }
-        ],
-        "match_name": "Rivadavia De Men v Santiago Del Est",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-07T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Racing De Chivil, (1.77) VERSES Ind de Oliva, (1.9)",
-        "start_time_aest": "2026-03-07T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga Nacional de Basket",
-        "contestants": [
-            {
-                "full_name": "Racing De Chivil",
-                "position": "HOME",
-                "short_name": "Racing De Chivil"
-            },
-            {
-                "full_name": "Ind de Oliva",
-                "position": "AWAY",
-                "short_name": "Ind de Oliva"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Racing De Chivil",
-                "returnWin": 1.77
-            },
-            {
-                "name": "Ind de Oliva",
-                "returnWin": 1.9
-            }
-        ],
-        "match_name": "Racing De Chivil v Ind de Oliva",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-07T00:00:00.000Z"
-    },
-    {
-        "contestant_names": "Brown, (1.85) VERSES Pennsylvania, (1.95)",
-        "start_time_aest": "2026-03-07T11:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Brown",
-                "position": "HOME",
-                "short_name": "Brown"
-            },
-            {
-                "full_name": "Pennsylvania",
-                "position": "AWAY",
-                "short_name": "Pennsylvania"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Brown",
-                "returnWin": 1.85
-            },
-            {
-                "name": "Pennsylvania",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Brown v Pennsylvania",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-07T00:00:00.000Z"
-    },
-    {
         "contestant_names": "Bencic/Cirstea, (1.87) VERSES Xu/Yang, (1.87)",
         "start_time_aest": "2026-03-07T11:10:00+11:00",
         "sport_name": "Tennis",
@@ -155,5 +30,36 @@
         "match_name": "Bencic/Cirstea v Xu/Yang",
         "betOption": "Head To Head",
         "start_time": "2026-03-07T00:10:00.000Z"
+    },
+    {
+        "contestant_names": "Salta Basket, (1.73) VERSES Paula Galvez, (1.95)",
+        "start_time_aest": "2026-03-07T11:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga A",
+        "contestants": [
+            {
+                "full_name": "Salta Basket",
+                "position": "HOME",
+                "short_name": "Salta Basket"
+            },
+            {
+                "full_name": "Paula Galvez",
+                "position": "AWAY",
+                "short_name": "Paula Galvez"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Salta Basket",
+                "returnWin": 1.73
+            },
+            {
+                "name": "Paula Galvez",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Salta Basket v Paula Galvez",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T00:30:00.000Z"
     }
 ]
