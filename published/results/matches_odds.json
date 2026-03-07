@@ -1,37 +1,5 @@
 [
     {
-        "contestant_names": "Valentin Vacherot, (1.62) VERSES Nuno Borges, (2.2)",
-        "start_time_aest": "2026-03-08T08:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Masters",
-        "tournamentName": "Masters Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Valentin Vacherot",
-                "position": "HOME",
-                "short_name": "Vacherot"
-            },
-            {
-                "full_name": "Nuno Borges",
-                "position": "AWAY",
-                "short_name": "Borges N"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Valentin Vacherot",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Nuno Borges",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Vacherot v Borges N",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-07T21:45:00.000Z"
-    },
-    {
         "contestant_names": "Penarol, (1.45) VERSES Platense, (2.5)",
         "start_time_aest": "2026-03-08T09:05:00+11:00",
         "sport_name": "Basketball",
@@ -218,5 +186,130 @@
         "match_name": "Australia v France",
         "betOption": "Head To Head",
         "start_time": "2026-03-07T22:45:00.000Z"
+    },
+    {
+        "contestant_names": "Bradley, (2.5) VERSES Northern Iowa, (1.53)",
+        "start_time_aest": "2026-03-08T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Bradley",
+                "position": "HOME",
+                "short_name": "Bradley"
+            },
+            {
+                "full_name": "Northern Iowa",
+                "position": "AWAY",
+                "short_name": "Northern Iowa"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bradley",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Northern Iowa",
+                "returnWin": 1.53
+            }
+        ],
+        "match_name": "Bradley v Northern Iowa",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Quinnipiac, (1.62) VERSES Marist, (2.3)",
+        "start_time_aest": "2026-03-08T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Quinnipiac",
+                "position": "HOME",
+                "short_name": "Quinnipiac"
+            },
+            {
+                "full_name": "Marist",
+                "position": "AWAY",
+                "short_name": "Marist"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Quinnipiac",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Marist",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Quinnipiac v Marist",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "LSU, (2.3) VERSES Texas AM, (1.62)",
+        "start_time_aest": "2026-03-08T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "LSU",
+                "position": "HOME",
+                "short_name": "LSU"
+            },
+            {
+                "full_name": "Texas AM",
+                "position": "AWAY",
+                "short_name": "Texas AM"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "LSU",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Texas AM",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "LSU v Texas AM",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Sebastian Korda, (2.35) VERSES Alex De Minaur, (1.55)",
+        "start_time_aest": "2026-03-08T10:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Masters",
+        "tournamentName": "Masters Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Sebastian Korda",
+                "position": "HOME",
+                "short_name": "Korda S"
+            },
+            {
+                "full_name": "Alex De Minaur",
+                "position": "AWAY",
+                "short_name": "De Minaur"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sebastian Korda",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Alex De Minaur",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Korda S v De Minaur",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T23:00:00.000Z"
     }
 ]
