@@ -1,64 +1,33 @@
 [
     {
-        "contestant_names": "Anaheim, (1.95) VERSES Montreal, (1.85)",
-        "start_time_aest": "2026-03-07T13:05:00+11:00",
+        "contestant_names": "Las Vegas, (1.9) VERSES Minnesota, (1.9)",
+        "start_time_aest": "2026-03-07T14:05:00+11:00",
         "sport_name": "Ice Hockey",
         "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "Anaheim",
+                "full_name": "Las Vegas",
                 "position": "HOME",
-                "short_name": "Anaheim"
+                "short_name": "Las Vegas"
             },
             {
-                "full_name": "Montreal",
+                "full_name": "Minnesota",
                 "position": "AWAY",
-                "short_name": "Montreal"
+                "short_name": "Minnesota"
             }
         ],
         "propositions": [
             {
-                "name": "Anaheim",
-                "returnWin": 1.95
+                "name": "Las Vegas",
+                "returnWin": 1.9
             },
             {
-                "name": "Montreal",
-                "returnWin": 1.85
+                "name": "Minnesota",
+                "returnWin": 1.9
             }
         ],
-        "match_name": "Anaheim v Montreal",
+        "match_name": "Las Vegas v Minnesota",
         "betOption": "Head To Head",
-        "start_time": "2026-03-07T02:05:00.000Z"
-    },
-    {
-        "contestant_names": "Edmonton, (1.95) VERSES Carolina, (1.85)",
-        "start_time_aest": "2026-03-07T13:10:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Edmonton",
-                "position": "HOME",
-                "short_name": "Edmonton"
-            },
-            {
-                "full_name": "Carolina",
-                "position": "AWAY",
-                "short_name": "Carolina"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Edmonton",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Carolina",
-                "returnWin": 1.85
-            }
-        ],
-        "match_name": "Edmonton v Carolina",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-07T02:10:00.000Z"
+        "start_time": "2026-03-07T03:05:00.000Z"
     }
 ]
