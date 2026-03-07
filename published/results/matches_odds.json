@@ -1,33 +1,97 @@
 [
     {
-        "contestant_names": "Tsu Hyundai Tbil, (1.48) VERSES Kutaisi, (2.4)",
-        "start_time_aest": "2026-03-07T23:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Georgia Superleague",
+        "contestant_names": "Joel Schwaerzler, (1.52) VERSES Stefano Napolitano, (2.35)",
+        "start_time_aest": "2026-03-07T23:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Kigali",
         "contestants": [
             {
-                "full_name": "Tsu Hyundai Tbil",
+                "full_name": "Joel Schwaerzler",
                 "position": "HOME",
-                "short_name": "Tsu Hyundai Tbil"
+                "short_name": "Schwaerzler"
             },
             {
-                "full_name": "Kutaisi",
+                "full_name": "Stefano Napolitano",
                 "position": "AWAY",
-                "short_name": "Kutaisi"
+                "short_name": "Napolitano S"
             }
         ],
         "propositions": [
             {
-                "name": "Tsu Hyundai Tbil",
-                "returnWin": 1.48
+                "name": "Joel Schwaerzler",
+                "returnWin": 1.52
             },
             {
-                "name": "Kutaisi",
-                "returnWin": 2.4
+                "name": "Stefano Napolitano",
+                "returnWin": 2.35
             }
         ],
-        "match_name": "Tsu Hyundai Tbil v Kutaisi",
+        "match_name": "Schwaerzler v Napolitano S",
         "betOption": "Head To Head",
-        "start_time": "2026-03-07T12:30:00.000Z"
+        "start_time": "2026-03-07T12:45:00.000Z"
+    },
+    {
+        "contestant_names": "Holbaek-stenhus, (1.46) VERSES Herlev, (2.5)",
+        "start_time_aest": "2026-03-08T00:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Denmark Basketligaen",
+        "contestants": [
+            {
+                "full_name": "Holbaek-stenhus",
+                "position": "HOME",
+                "short_name": "Holbaek-stenhus"
+            },
+            {
+                "full_name": "Herlev",
+                "position": "AWAY",
+                "short_name": "Herlev"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Holbaek-stenhus",
+                "returnWin": 1.46
+            },
+            {
+                "name": "Herlev",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Holbaek-stenhus v Herlev",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T13:00:00.000Z"
+    },
+    {
+        "contestant_names": "Monte, (2.05) VERSES Legacy, (1.7)",
+        "start_time_aest": "2026-03-08T00:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "tournamentName": "CS2 - ESL Pro League Play In",
+        "contestants": [
+            {
+                "full_name": "Monte",
+                "position": "HOME",
+                "short_name": "Monte"
+            },
+            {
+                "full_name": "Legacy",
+                "position": "AWAY",
+                "short_name": "Legacy"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Monte",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Legacy",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "Monte v Legacy",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T13:00:00.000Z"
     }
 ]
