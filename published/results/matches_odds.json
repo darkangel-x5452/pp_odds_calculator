@@ -1,65 +1,188 @@
 [
     {
-        "contestant_names": "FUT Esports, (1.62) VERSES Heroic, (2.15)",
-        "start_time_aest": "2026-03-08T03:15:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "Counter Strike 2",
-        "tournamentName": "CS2 - ESL Pro League Play In",
+        "contestant_names": "Nka Universitas, (1.7) VERSES Debreceni Eac, (2)",
+        "start_time_aest": "2026-03-08T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Hungary NB IA",
         "contestants": [
             {
-                "full_name": "FUT Esports",
+                "full_name": "Nka Universitas",
                 "position": "HOME",
-                "short_name": "FUT Esports"
+                "short_name": "Nka Universitas"
             },
             {
-                "full_name": "Heroic",
+                "full_name": "Debreceni Eac",
                 "position": "AWAY",
-                "short_name": "Heroic"
+                "short_name": "Debreceni Eac"
             }
         ],
         "propositions": [
             {
-                "name": "FUT Esports",
-                "returnWin": 1.62
+                "name": "Nka Universitas",
+                "returnWin": 1.7
             },
             {
-                "name": "Heroic",
-                "returnWin": 2.15
+                "name": "Debreceni Eac",
+                "returnWin": 2
             }
         ],
-        "match_name": "FUT Esports v Heroic",
+        "match_name": "Nka Universitas  v Debreceni Eac",
         "betOption": "Head To Head",
-        "start_time": "2026-03-07T16:15:00.000Z"
+        "start_time": "2026-03-07T17:00:00.000Z"
     },
     {
-        "contestant_names": "Yourgoody Dukes, (2) VERSES Redwell Gunners, (1.72)",
-        "start_time_aest": "2026-03-08T03:30:00+11:00",
+        "contestant_names": "Boston College, (2.05) VERSES Notre Dame, (1.77)",
+        "start_time_aest": "2026-03-08T04:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Austria Bundesliga",
+        "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Yourgoody Dukes",
+                "full_name": "Boston College",
                 "position": "HOME",
-                "short_name": "Yourgoody Dukes"
+                "short_name": "Boston College"
             },
             {
-                "full_name": "Redwell Gunners",
+                "full_name": "Notre Dame",
                 "position": "AWAY",
-                "short_name": "Redwell Gunners"
+                "short_name": "Notre Dame"
             }
         ],
         "propositions": [
             {
-                "name": "Yourgoody Dukes",
-                "returnWin": 2
+                "name": "Boston College",
+                "returnWin": 2.05
             },
             {
-                "name": "Redwell Gunners",
-                "returnWin": 1.72
+                "name": "Notre Dame",
+                "returnWin": 1.77
             }
         ],
-        "match_name": "Yourgoody Dukes  v Redwell Gunners",
+        "match_name": "Boston College v Notre Dame",
         "betOption": "Head To Head",
-        "start_time": "2026-03-07T16:30:00.000Z"
+        "start_time": "2026-03-07T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "DePaul, (1.58) VERSES Butler, (2.4)",
+        "start_time_aest": "2026-03-08T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "DePaul",
+                "position": "HOME",
+                "short_name": "DePaul"
+            },
+            {
+                "full_name": "Butler",
+                "position": "AWAY",
+                "short_name": "Butler"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "DePaul",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Butler",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "DePaul v Butler",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Delaware, (2.15) VERSES Louisiana Tech, (1.7)",
+        "start_time_aest": "2026-03-08T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Delaware",
+                "position": "HOME",
+                "short_name": "Delaware"
+            },
+            {
+                "full_name": "Louisiana Tech",
+                "position": "AWAY",
+                "short_name": "Louisiana Tech"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Delaware",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Louisiana Tech",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "Delaware v Louisiana Tech",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Missouri, (1.58) VERSES Arkansas, (2.4)",
+        "start_time_aest": "2026-03-08T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Missouri",
+                "position": "HOME",
+                "short_name": "Missouri"
+            },
+            {
+                "full_name": "Arkansas",
+                "position": "AWAY",
+                "short_name": "Arkansas"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Missouri",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Arkansas",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Missouri v Arkansas",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Polonia Warsaw, (1.5) VERSES Polonia 1912 Les, (2.35)",
+        "start_time_aest": "2026-03-08T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Poland First Division",
+        "contestants": [
+            {
+                "full_name": "Polonia Warsaw",
+                "position": "HOME",
+                "short_name": "Polonia Warsaw"
+            },
+            {
+                "full_name": "Polonia 1912 Les",
+                "position": "AWAY",
+                "short_name": "Polonia 1912 Les"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Polonia Warsaw",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Polonia 1912 Les",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Polonia Warsaw v Polonia 1912 Les",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T17:00:00.000Z"
     }
 ]
