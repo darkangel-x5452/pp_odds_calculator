@@ -1,158 +1,127 @@
 [
     {
-        "contestant_names": "Australia, (2) VERSES Argentina, (1.75)",
-        "start_time_aest": "2026-03-08T05:57:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "HSBC Sevens",
-        "tournamentName": "Vancouver 7s",
+        "contestant_names": "Maria Sakkari, (1.5) VERSES Lilli Tagger, (2.5)",
+        "start_time_aest": "2026-03-08T06:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Indian Wells",
         "contestants": [
             {
-                "full_name": "Australia",
+                "full_name": "Maria Sakkari",
                 "position": "HOME",
-                "short_name": "Australia"
+                "short_name": "Sakkari"
             },
             {
-                "full_name": "Argentina",
+                "full_name": "Lilli Tagger",
                 "position": "AWAY",
-                "short_name": "Argentina"
+                "short_name": "Tagger"
             }
         ],
         "propositions": [
             {
-                "name": "Australia",
-                "returnWin": 2
+                "name": "Maria Sakkari",
+                "returnWin": 1.5
             },
             {
-                "name": "Argentina",
-                "returnWin": 1.75
+                "name": "Lilli Tagger",
+                "returnWin": 2.5
             }
         ],
-        "match_name": "Australia v Argentina",
+        "match_name": "Sakkari v Tagger",
         "betOption": "Head To Head",
-        "start_time": "2026-03-07T18:57:00.000Z"
+        "start_time": "2026-03-07T19:15:00.000Z"
     },
     {
-        "contestant_names": "Miami (FL), (1.77) VERSES Louisville, (2.05)",
-        "start_time_aest": "2026-03-08T06:00:00+11:00",
+        "contestant_names": "Spirou, (2.1) VERSES Brussels Basket, (1.65)",
+        "start_time_aest": "2026-03-08T06:30:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "competition_name": "BNXT League",
         "contestants": [
             {
-                "full_name": "Miami (FL)",
+                "full_name": "Spirou",
                 "position": "HOME",
-                "short_name": "Miami (FL)"
+                "short_name": "Spirou"
             },
+            {
+                "full_name": "Brussels Basket",
+                "position": "AWAY",
+                "short_name": "Brussels Basket"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Spirou",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Brussels Basket",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Spirou v Brussels Basket",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T19:30:00.000Z"
+    },
+    {
+        "contestant_names": "Louisville, (1.62) VERSES North Carolina, (2.2)",
+        "start_time_aest": "2026-03-08T06:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
             {
                 "full_name": "Louisville",
-                "position": "AWAY",
+                "position": "HOME",
                 "short_name": "Louisville"
+            },
+            {
+                "full_name": "North Carolina",
+                "position": "AWAY",
+                "short_name": "North Carolina"
             }
         ],
         "propositions": [
-            {
-                "name": "Miami (FL)",
-                "returnWin": 1.77
-            },
             {
                 "name": "Louisville",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Miami (FL) v Louisville",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-07T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Fordham, (1.74) VERSES Rhode Island, (2.1)",
-        "start_time_aest": "2026-03-08T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Fordham",
-                "position": "HOME",
-                "short_name": "Fordham"
+                "returnWin": 1.62
             },
             {
-                "full_name": "Rhode Island",
-                "position": "AWAY",
-                "short_name": "Rhode Island"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Fordham",
-                "returnWin": 1.74
-            },
-            {
-                "name": "Rhode Island",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Fordham v Rhode Island",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-07T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "TCU, (1.7) VERSES Cincinnati, (2.15)",
-        "start_time_aest": "2026-03-08T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "TCU",
-                "position": "HOME",
-                "short_name": "TCU"
-            },
-            {
-                "full_name": "Cincinnati",
-                "position": "AWAY",
-                "short_name": "Cincinnati"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "TCU",
-                "returnWin": 1.7
-            },
-            {
-                "name": "Cincinnati",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "TCU v Cincinnati",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-07T19:00:00.000Z"
-    },
-    {
-        "contestant_names": "Tennessee, (1.67) VERSES Vanderbilt, (2.2)",
-        "start_time_aest": "2026-03-08T06:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Tennessee",
-                "position": "HOME",
-                "short_name": "Tennessee"
-            },
-            {
-                "full_name": "Vanderbilt",
-                "position": "AWAY",
-                "short_name": "Vanderbilt"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Tennessee",
-                "returnWin": 1.67
-            },
-            {
-                "name": "Vanderbilt",
+                "name": "North Carolina",
                 "returnWin": 2.2
             }
         ],
-        "match_name": "Tennessee v Vanderbilt",
+        "match_name": "Louisville v North Carolina",
         "betOption": "Head To Head",
-        "start_time": "2026-03-07T19:00:00.000Z"
+        "start_time": "2026-03-07T19:30:00.000Z"
+    },
+    {
+        "contestant_names": "Marquette, (1.68) VERSES Creighton, (2.1)",
+        "start_time_aest": "2026-03-08T06:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Marquette",
+                "position": "HOME",
+                "short_name": "Marquette"
+            },
+            {
+                "full_name": "Creighton",
+                "position": "AWAY",
+                "short_name": "Creighton"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Marquette",
+                "returnWin": 1.68
+            },
+            {
+                "name": "Creighton",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Marquette v Creighton",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T19:30:00.000Z"
     }
 ]
