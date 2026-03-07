@@ -1,130 +1,5 @@
 [
     {
-        "contestant_names": "Penarol, (1.45) VERSES Platense, (2.5)",
-        "start_time_aest": "2026-03-08T09:05:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga Nacional de Basket",
-        "contestants": [
-            {
-                "full_name": "Penarol",
-                "position": "HOME",
-                "short_name": "Penarol"
-            },
-            {
-                "full_name": "Platense",
-                "position": "AWAY",
-                "short_name": "Platense"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Penarol",
-                "returnWin": 1.45
-            },
-            {
-                "name": "Platense",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Penarol v Platense",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-07T22:05:00.000Z"
-    },
-    {
-        "contestant_names": "Jason Pimenta, (1.58) VERSES Arjay Murray, (2.25)",
-        "start_time_aest": "2026-03-08T09:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "tournamentName": "ITFM Timaru",
-        "contestants": [
-            {
-                "full_name": "Jason Pimenta",
-                "position": "HOME",
-                "short_name": "Pimenta"
-            },
-            {
-                "full_name": "Arjay Murray",
-                "position": "AWAY",
-                "short_name": "Arjay Murray"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Jason Pimenta",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Arjay Murray",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Pimenta v Arjay Murray",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-07T22:15:00.000Z"
-    },
-    {
-        "contestant_names": "Ohio State, (1.53) VERSES Indiana, (2.5)",
-        "start_time_aest": "2026-03-08T09:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Ohio State",
-                "position": "HOME",
-                "short_name": "Ohio State"
-            },
-            {
-                "full_name": "Indiana",
-                "position": "AWAY",
-                "short_name": "Indiana"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Ohio State",
-                "returnWin": 1.53
-            },
-            {
-                "name": "Indiana",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Ohio State v Indiana",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-07T22:30:00.000Z"
-    },
-    {
-        "contestant_names": "Pepperdine, (1.55) VERSES San Francisco, (2.35)",
-        "start_time_aest": "2026-03-08T09:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Pepperdine",
-                "position": "HOME",
-                "short_name": "Pepperdine"
-            },
-            {
-                "full_name": "San Francisco",
-                "position": "AWAY",
-                "short_name": "San Francisco"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Pepperdine",
-                "returnWin": 1.55
-            },
-            {
-                "name": "San Francisco",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "Pepperdine v San Francisco",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-07T22:30:00.000Z"
-    },
-    {
         "contestant_names": "Buffalo, (1.55) VERSES Nashville, (2.4)",
         "start_time_aest": "2026-03-08T09:35:00+11:00",
         "sport_name": "Ice Hockey",
@@ -154,6 +29,37 @@
         "match_name": "Buffalo v Nashville",
         "betOption": "Head To Head",
         "start_time": "2026-03-07T22:35:00.000Z"
+    },
+    {
+        "contestant_names": "Buffalo, (1.55) VERSES Nashville, (2.4)",
+        "start_time_aest": "2026-03-08T09:38:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Buffalo",
+                "position": "HOME",
+                "short_name": "Buffalo"
+            },
+            {
+                "full_name": "Nashville",
+                "position": "AWAY",
+                "short_name": "Nashville"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Buffalo",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Nashville",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Buffalo v Nashville",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T22:38:00.000Z"
     },
     {
         "contestant_names": "Australia, (1.72) VERSES France, (2)",
@@ -309,6 +215,102 @@
             }
         ],
         "match_name": "Korda S v De Minaur",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Cameron Norrie, (1.58) VERSES Mackenzie McDonald, (2.3)",
+        "start_time_aest": "2026-03-08T10:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Masters",
+        "tournamentName": "Masters Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Cameron Norrie",
+                "position": "HOME",
+                "short_name": "Norrie C"
+            },
+            {
+                "full_name": "Mackenzie McDonald",
+                "position": "AWAY",
+                "short_name": "McDonald M"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Cameron Norrie",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Mackenzie McDonald",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Norrie C v McDonald M",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "Katerina Siniakova, (1.8) VERSES Leylah Annie Fernandez, (2)",
+        "start_time_aest": "2026-03-08T10:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Katerina Siniakova",
+                "position": "HOME",
+                "short_name": "Siniakova"
+            },
+            {
+                "full_name": "Leylah Annie Fernandez",
+                "position": "AWAY",
+                "short_name": "Fernandez L"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Katerina Siniakova",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Leylah Annie Fernandez",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Siniakova v Fernandez L",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T23:00:00.000Z"
+    },
+    {
+        "contestant_names": "NURGOZHAY Diyar, (2.5) VERSES TOBIAS Rafael, (1.54)",
+        "start_time_aest": "2026-03-08T10:00:00+11:00",
+        "sport_name": "UFC",
+        "competition_name": "UFC",
+        "tournamentName": "UFC 326",
+        "contestants": [
+            {
+                "full_name": "NURGOZHAY Diyar",
+                "position": "HOME",
+                "short_name": "Nurgozhay"
+            },
+            {
+                "full_name": "TOBIAS Rafael",
+                "position": "AWAY",
+                "short_name": "Tobias"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "NURGOZHAY Diyar",
+                "returnWin": 2.5
+            },
+            {
+                "name": "TOBIAS Rafael",
+                "returnWin": 1.54
+            }
+        ],
+        "match_name": "Nurgozhay v Tobias",
         "betOption": "Head To Head",
         "start_time": "2026-03-07T23:00:00.000Z"
     }
