@@ -1,65 +1,158 @@
 [
     {
-        "contestant_names": "Akane Yamaguchi, (2.3) VERSES Zhi Yi Wang, (1.55)",
-        "start_time_aest": "2026-03-08T05:15:00+11:00",
-        "sport_name": "Badminton",
-        "competition_name": "Badminton World Tour",
-        "tournamentName": "SS England - Womens",
+        "contestant_names": "Australia, (2) VERSES Argentina, (1.75)",
+        "start_time_aest": "2026-03-08T05:57:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "HSBC Sevens",
+        "tournamentName": "Vancouver 7s",
         "contestants": [
             {
-                "full_name": "Akane Yamaguchi",
+                "full_name": "Australia",
                 "position": "HOME",
-                "short_name": "Yamaguchi"
+                "short_name": "Australia"
             },
             {
-                "full_name": "Zhi Yi Wang",
+                "full_name": "Argentina",
                 "position": "AWAY",
-                "short_name": "Wang ZY"
+                "short_name": "Argentina"
             }
         ],
         "propositions": [
             {
-                "name": "Akane Yamaguchi",
-                "returnWin": 2.3
+                "name": "Australia",
+                "returnWin": 2
             },
             {
-                "name": "Zhi Yi Wang",
-                "returnWin": 1.55
+                "name": "Argentina",
+                "returnWin": 1.75
             }
         ],
-        "match_name": "Yamaguchi v Wang ZY",
+        "match_name": "Australia v Argentina",
         "betOption": "Head To Head",
-        "start_time": "2026-03-07T18:15:00.000Z"
+        "start_time": "2026-03-07T18:57:00.000Z"
     },
     {
-        "contestant_names": "Jacksonville, (2.25) VERSES Central Arkansas, (1.6)",
-        "start_time_aest": "2026-03-08T05:30:00+11:00",
+        "contestant_names": "Miami (FL), (1.77) VERSES Louisville, (2.05)",
+        "start_time_aest": "2026-03-08T06:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
+        "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Jacksonville",
+                "full_name": "Miami (FL)",
                 "position": "HOME",
-                "short_name": "Jacksonville"
+                "short_name": "Miami (FL)"
             },
             {
-                "full_name": "Central Arkansas",
+                "full_name": "Louisville",
                 "position": "AWAY",
-                "short_name": "Central Arkansas"
+                "short_name": "Louisville"
             }
         ],
         "propositions": [
             {
-                "name": "Jacksonville",
-                "returnWin": 2.25
+                "name": "Miami (FL)",
+                "returnWin": 1.77
             },
             {
-                "name": "Central Arkansas",
-                "returnWin": 1.6
+                "name": "Louisville",
+                "returnWin": 2.05
             }
         ],
-        "match_name": "Jacksonville v Central Arkansas",
+        "match_name": "Miami (FL) v Louisville",
         "betOption": "Head To Head",
-        "start_time": "2026-03-07T18:30:00.000Z"
+        "start_time": "2026-03-07T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Fordham, (1.74) VERSES Rhode Island, (2.1)",
+        "start_time_aest": "2026-03-08T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Fordham",
+                "position": "HOME",
+                "short_name": "Fordham"
+            },
+            {
+                "full_name": "Rhode Island",
+                "position": "AWAY",
+                "short_name": "Rhode Island"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Fordham",
+                "returnWin": 1.74
+            },
+            {
+                "name": "Rhode Island",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Fordham v Rhode Island",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "TCU, (1.7) VERSES Cincinnati, (2.15)",
+        "start_time_aest": "2026-03-08T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "TCU",
+                "position": "HOME",
+                "short_name": "TCU"
+            },
+            {
+                "full_name": "Cincinnati",
+                "position": "AWAY",
+                "short_name": "Cincinnati"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "TCU",
+                "returnWin": 1.7
+            },
+            {
+                "name": "Cincinnati",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "TCU v Cincinnati",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "Tennessee, (1.67) VERSES Vanderbilt, (2.2)",
+        "start_time_aest": "2026-03-08T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Tennessee",
+                "position": "HOME",
+                "short_name": "Tennessee"
+            },
+            {
+                "full_name": "Vanderbilt",
+                "position": "AWAY",
+                "short_name": "Vanderbilt"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tennessee",
+                "returnWin": 1.67
+            },
+            {
+                "name": "Vanderbilt",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Tennessee v Vanderbilt",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T19:00:00.000Z"
     }
 ]
