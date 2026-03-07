@@ -1,100 +1,7 @@
 [
     {
-        "contestant_names": "Espoo Basket!, (1.48) VERSES Torpan Pojat Hel, (2.4)",
-        "start_time_aest": "2026-03-08T02:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Finland Korisliiga Women",
-        "contestants": [
-            {
-                "full_name": "Espoo Basket!",
-                "position": "HOME",
-                "short_name": "Espoo Basket!"
-            },
-            {
-                "full_name": "Torpan Pojat Hel",
-                "position": "AWAY",
-                "short_name": "Torpan Pojat Hel"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Espoo Basket!",
-                "returnWin": 1.48
-            },
-            {
-                "name": "Torpan Pojat Hel",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Espoo Basket! v Torpan Pojat Hel",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-07T15:00:00.000Z"
-    },
-    {
-        "contestant_names": "BK Valmiera, (1.58) VERSES Tartu Ulikool, (2.25)",
-        "start_time_aest": "2026-03-08T02:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Latvia-Estonia Basketball League",
-        "contestants": [
-            {
-                "full_name": "BK Valmiera",
-                "position": "HOME",
-                "short_name": "BK Valmiera"
-            },
-            {
-                "full_name": "Tartu Ulikool",
-                "position": "AWAY",
-                "short_name": "Tartu Ulikool"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "BK Valmiera",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Tartu Ulikool",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "BK Valmiera v Tartu Ulikool",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-07T15:00:00.000Z"
-    },
-    {
-        "contestant_names": "Sporting Lisboa, (1.62) VERSES SC Coimbroes, (2.1)",
-        "start_time_aest": "2026-03-08T02:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Portugal LFB Women",
-        "contestants": [
-            {
-                "full_name": "Sporting Lisboa",
-                "position": "HOME",
-                "short_name": "Sporting Lisboa"
-            },
-            {
-                "full_name": "SC Coimbroes",
-                "position": "AWAY",
-                "short_name": "SC Coimbroes"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sporting Lisboa",
-                "returnWin": 1.62
-            },
-            {
-                "name": "SC Coimbroes",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Sporting Lisboa v SC Coimbroes",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-07T15:00:00.000Z"
-    },
-    {
-        "contestant_names": "Team Liquid, (1.52) VERSES BetBoom Team, (2.35)",
-        "start_time_aest": "2026-03-08T02:00:00+11:00",
+        "contestant_names": "Team Liquid, (1.46) VERSES BetBoom Team, (2.5)",
+        "start_time_aest": "2026-03-08T02:15:00+11:00",
         "sport_name": "Esports",
         "competition_name": "DOTA2",
         "tournamentName": "DOTA2 - PGL Wallachia",
@@ -113,15 +20,47 @@
         "propositions": [
             {
                 "name": "Team Liquid",
-                "returnWin": 1.52
+                "returnWin": 1.46
             },
             {
                 "name": "BetBoom Team",
-                "returnWin": 2.35
+                "returnWin": 2.5
             }
         ],
         "match_name": "Team Liquid v Betboom Team",
         "betOption": "Head To Head",
-        "start_time": "2026-03-07T15:00:00.000Z"
+        "start_time": "2026-03-07T15:15:00.000Z"
+    },
+    {
+        "contestant_names": "FUT Esports, (1.62) VERSES Heroic, (2.15)",
+        "start_time_aest": "2026-03-08T02:30:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "tournamentName": "CS2 - ESL Pro League Play In",
+        "contestants": [
+            {
+                "full_name": "FUT Esports",
+                "position": "HOME",
+                "short_name": "FUT Esports"
+            },
+            {
+                "full_name": "Heroic",
+                "position": "AWAY",
+                "short_name": "Heroic"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "FUT Esports",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Heroic",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "FUT Esports v Heroic",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T15:30:00.000Z"
     }
 ]
