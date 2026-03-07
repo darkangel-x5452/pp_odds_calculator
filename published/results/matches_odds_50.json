@@ -1,1 +1,64 @@
-[]
+[
+    {
+        "contestant_names": "Anaheim, (1.95) VERSES Montreal, (1.85)",
+        "start_time_aest": "2026-03-07T13:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Anaheim",
+                "position": "HOME",
+                "short_name": "Anaheim"
+            },
+            {
+                "full_name": "Montreal",
+                "position": "AWAY",
+                "short_name": "Montreal"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Anaheim",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Montreal",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Anaheim v Montreal",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T02:05:00.000Z"
+    },
+    {
+        "contestant_names": "Edmonton, (1.95) VERSES Carolina, (1.85)",
+        "start_time_aest": "2026-03-07T13:10:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Edmonton",
+                "position": "HOME",
+                "short_name": "Edmonton"
+            },
+            {
+                "full_name": "Carolina",
+                "position": "AWAY",
+                "short_name": "Carolina"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Edmonton",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Carolina",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Edmonton v Carolina",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T02:10:00.000Z"
+    }
+]
