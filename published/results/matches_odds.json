@@ -1,68 +1,5 @@
 [
     {
-        "contestant_names": "Lakshya Sen, (1.65) VERSES Victor Lai, (2.1)",
-        "start_time_aest": "2026-03-07T21:45:00+11:00",
-        "sport_name": "Badminton",
-        "competition_name": "Badminton World Tour",
-        "tournamentName": "SS England - Mens",
-        "contestants": [
-            {
-                "full_name": "Lakshya Sen",
-                "position": "HOME",
-                "short_name": "Sen"
-            },
-            {
-                "full_name": "Victor Lai",
-                "position": "AWAY",
-                "short_name": "Lai"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Lakshya Sen",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Victor Lai",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Sen v Lai",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-07T10:45:00.000Z"
-    },
-    {
-        "contestant_names": "CB Queluz, (2.5) VERSES Lusitania, (1.45)",
-        "start_time_aest": "2026-03-07T22:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Portugal ProLiga",
-        "contestants": [
-            {
-                "full_name": "CB Queluz",
-                "position": "HOME",
-                "short_name": "CB Queluz"
-            },
-            {
-                "full_name": "Lusitania",
-                "position": "AWAY",
-                "short_name": "Lusitania"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "CB Queluz",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Lusitania",
-                "returnWin": 1.45
-            }
-        ],
-        "match_name": "CB Queluz v Lusitania",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-07T11:00:00.000Z"
-    },
-    {
         "contestant_names": "Baek H N/Lee S H, (2) VERSES Tan P/Thinaah M, (1.72)",
         "start_time_aest": "2026-03-07T22:20:00+11:00",
         "sport_name": "Badminton",
@@ -93,5 +30,36 @@
         "match_name": "BaekhLee v TnThinam",
         "betOption": "Head To Head",
         "start_time": "2026-03-07T11:20:00.000Z"
+    },
+    {
+        "contestant_names": "Vaerlose, (1.48) VERSES Vejen, (2.45)",
+        "start_time_aest": "2026-03-07T23:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Denmark Basketligaen",
+        "contestants": [
+            {
+                "full_name": "Vaerlose",
+                "position": "HOME",
+                "short_name": "Vaerlose"
+            },
+            {
+                "full_name": "Vejen",
+                "position": "AWAY",
+                "short_name": "Vejen"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Vaerlose",
+                "returnWin": 1.48
+            },
+            {
+                "name": "Vejen",
+                "returnWin": 2.45
+            }
+        ],
+        "match_name": "Vaerlose v Vejen",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-07T12:00:00.000Z"
     }
 ]
