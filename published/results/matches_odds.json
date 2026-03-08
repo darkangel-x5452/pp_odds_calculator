@@ -1,128 +1,96 @@
 [
     {
-        "contestant_names": "Petros Tsitsipas, (2.5) VERSES Max Wiskandt, (1.45)",
-        "start_time_aest": "2026-03-09T00:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Hersonissos 2",
+        "contestant_names": "Lotos Trefl Gdansk, (1.46) VERSES Jastrzebski Wegiel, (2.5)",
+        "start_time_aest": "2026-03-09T00:45:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "Poland PlusLiga Men",
         "contestants": [
             {
-                "full_name": "Petros Tsitsipas",
+                "full_name": "Lotos Trefl Gdansk",
                 "position": "HOME",
-                "short_name": "Tsitsipas Pe"
+                "short_name": "Trefl Gdansk"
             },
             {
-                "full_name": "Max Wiskandt",
+                "full_name": "Jastrzebski Wegiel",
                 "position": "AWAY",
-                "short_name": "Wiskandt"
+                "short_name": "Jstzebski Wegiel"
             }
         ],
         "propositions": [
             {
-                "name": "Petros Tsitsipas",
+                "name": "Lotos Trefl Gdansk",
+                "returnWin": 1.46
+            },
+            {
+                "name": "Jastrzebski Wegiel",
                 "returnWin": 2.5
-            },
-            {
-                "name": "Max Wiskandt",
-                "returnWin": 1.45
             }
         ],
-        "match_name": "Tsitsipas Pe v Wiskandt",
+        "match_name": "Trefl Gdansk v Jstzebski Wegiel",
         "betOption": "Head To Head",
-        "start_time": "2026-03-08T13:15:00.000Z"
+        "start_time": "2026-03-08T13:45:00.000Z"
     },
     {
-        "contestant_names": "Benjamin Torrealba, (1.7) VERSES Conner Huertas Del Pino, (2)",
-        "start_time_aest": "2026-03-09T00:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Santiago",
-        "contestants": [
-            {
-                "full_name": "Benjamin Torrealba",
-                "position": "HOME",
-                "short_name": "Torrealba B"
-            },
-            {
-                "full_name": "Conner Huertas Del Pino",
-                "position": "AWAY",
-                "short_name": "Del Pino"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Benjamin Torrealba",
-                "returnWin": 1.7
-            },
-            {
-                "name": "Conner Huertas Del Pino",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Torrealba B v Del Pino",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-08T13:15:00.000Z"
-    },
-    {
-        "contestant_names": "Yeni Mamak Spor, (2.15) VERSES Ilab, (1.6)",
-        "start_time_aest": "2026-03-09T00:30:00+11:00",
+        "contestant_names": "Frankfurt, (2.2) VERSES Bamberg, (1.6)",
+        "start_time_aest": "2026-03-09T01:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Turkey TBL",
+        "competition_name": "Germany Bundesliga",
         "contestants": [
             {
-                "full_name": "Yeni Mamak Spor",
+                "full_name": "Frankfurt",
                 "position": "HOME",
-                "short_name": "Yeni Mamak Spor"
+                "short_name": "Frankfurt"
             },
             {
-                "full_name": "Ilab",
+                "full_name": "Bamberg",
                 "position": "AWAY",
-                "short_name": "Ilab"
+                "short_name": "Bamberg"
             }
         ],
         "propositions": [
             {
-                "name": "Yeni Mamak Spor",
-                "returnWin": 2.15
+                "name": "Frankfurt",
+                "returnWin": 2.2
             },
             {
-                "name": "Ilab",
+                "name": "Bamberg",
                 "returnWin": 1.6
             }
         ],
-        "match_name": "Yeni Mamak Spor v Ilab",
+        "match_name": "Frankfurt v Bamberg",
         "betOption": "Head To Head",
-        "start_time": "2026-03-08T13:30:00.000Z"
+        "start_time": "2026-03-08T14:00:00.000Z"
     },
     {
-        "contestant_names": "Exeter, (1.5) VERSES Northampton, (2.5)",
-        "start_time_aest": "2026-03-09T00:30:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "Premiership Rugby Cup",
+        "contestant_names": "PARIVISION, (1.62) VERSES Natus Vincere, (2.15)",
+        "start_time_aest": "2026-03-09T01:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "tournamentName": "DOTA2 - PGL Wallachia",
         "contestants": [
             {
-                "full_name": "Exeter",
+                "full_name": "PARIVISION",
                 "position": "HOME",
-                "short_name": "Exeter"
+                "short_name": "Parivision"
             },
             {
-                "full_name": "Northampton",
+                "full_name": "Natus Vincere",
                 "position": "AWAY",
-                "short_name": "Northampton"
+                "short_name": "Natus Vincere"
             }
         ],
         "propositions": [
             {
-                "name": "Exeter",
-                "returnWin": 1.5
+                "name": "PARIVISION",
+                "returnWin": 1.62
             },
             {
-                "name": "Northampton",
-                "returnWin": 2.5
+                "name": "Natus Vincere",
+                "returnWin": 2.15
             }
         ],
-        "match_name": "Exeter v Northampton",
+        "match_name": "Parivision v Natus Vincere",
         "betOption": "Head To Head",
-        "start_time": "2026-03-08T13:30:00.000Z"
+        "start_time": "2026-03-08T14:00:00.000Z"
     }
 ]
