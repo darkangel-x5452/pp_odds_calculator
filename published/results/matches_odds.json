@@ -1,69 +1,5 @@
 [
     {
-        "contestant_names": "Oleksandra Oliynykova, (2) VERSES Anhelina Kalinina, (1.72)",
-        "start_time_aest": "2026-03-08T20:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA 125 Tour",
-        "tournamentName": "WTA 125 Antalya 2",
-        "contestants": [
-            {
-                "full_name": "Oleksandra Oliynykova",
-                "position": "HOME",
-                "short_name": "Oliynykova"
-            },
-            {
-                "full_name": "Anhelina Kalinina",
-                "position": "AWAY",
-                "short_name": "Kalinina A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Oleksandra Oliynykova",
-                "returnWin": 2
-            },
-            {
-                "name": "Anhelina Kalinina",
-                "returnWin": 1.72
-            }
-        ],
-        "match_name": "Oliynykova v Kalinina A",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-08T09:30:00.000Z"
-    },
-    {
-        "contestant_names": "Anastasia Gasanova, (1.48) VERSES Caroline Werner, (2.4)",
-        "start_time_aest": "2026-03-08T20:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA 125 Tour",
-        "tournamentName": "WTA 125 Antalya 3",
-        "contestants": [
-            {
-                "full_name": "Anastasia Gasanova",
-                "position": "HOME",
-                "short_name": "Gasanova"
-            },
-            {
-                "full_name": "Caroline Werner",
-                "position": "AWAY",
-                "short_name": "Werner C"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Anastasia Gasanova",
-                "returnWin": 1.48
-            },
-            {
-                "name": "Caroline Werner",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Gasanova v Werner C",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-08T09:30:00.000Z"
-    },
-    {
         "contestant_names": "Federico Iannaccone, (2.1) VERSES Pietro Orlando Fellin, (1.63)",
         "start_time_aest": "2026-03-08T21:00:00+11:00",
         "sport_name": "Tennis",
@@ -94,5 +30,101 @@
         "match_name": "Iannaccone v Fellin P",
         "betOption": "Head To Head",
         "start_time": "2026-03-08T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Mia Chudejova, (2.3) VERSES Daniela Darta Feldmane, (1.55)",
+        "start_time_aest": "2026-03-08T21:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Heraklion",
+        "contestants": [
+            {
+                "full_name": "Mia Chudejova",
+                "position": "HOME",
+                "short_name": "Chudejova"
+            },
+            {
+                "full_name": "Daniela Darta Feldmane",
+                "position": "AWAY",
+                "short_name": "Feldmane"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mia Chudejova",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Daniela Darta Feldmane",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Chudejova v Feldmane",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Shiba/Reika, (2.2) VERSES Durish/Koenig, (1.6)",
+        "start_time_aest": "2026-03-08T21:30:00+11:00",
+        "sport_name": "Beach Volleyball",
+        "competition_name": "Beach Pro Tour Womens",
+        "tournamentName": "Beach Pro Tour Challenge Bhubanesaw W",
+        "contestants": [
+            {
+                "full_name": "Shiba/Reika",
+                "position": "HOME",
+                "short_name": "Shiba/Reika"
+            },
+            {
+                "full_name": "Durish/Koenig",
+                "position": "AWAY",
+                "short_name": "Durish/Koenig"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Shiba/Reika",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Durish/Koenig",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Shiba/Reika v Durish/Koenig",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T10:30:00.000Z"
+    },
+    {
+        "contestant_names": "paiN, (2.3) VERSES Aurora Gaming, (1.55)",
+        "start_time_aest": "2026-03-08T21:30:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "tournamentName": "CS2 - ESL Pro League Play In",
+        "contestants": [
+            {
+                "full_name": "paiN",
+                "position": "HOME",
+                "short_name": "Pain"
+            },
+            {
+                "full_name": "Aurora Gaming",
+                "position": "AWAY",
+                "short_name": "Aurora Gaming"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "paiN",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Aurora Gaming",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Pain v Aurora Gaming",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T10:30:00.000Z"
     }
 ]
