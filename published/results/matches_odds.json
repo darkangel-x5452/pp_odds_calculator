@@ -1,68 +1,5 @@
 [
     {
-        "contestant_names": "XIAO Long, (1.57) VERSES GARBRANDT Cody, (2.4)",
-        "start_time_aest": "2026-03-08T12:45:00+11:00",
-        "sport_name": "UFC",
-        "competition_name": "UFC",
-        "tournamentName": "UFC 326",
-        "contestants": [
-            {
-                "full_name": "XIAO Long",
-                "position": "HOME",
-                "short_name": "Xiao"
-            },
-            {
-                "full_name": "GARBRANDT Cody",
-                "position": "AWAY",
-                "short_name": "Garbrandt"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "XIAO Long",
-                "returnWin": 1.57
-            },
-            {
-                "name": "GARBRANDT Cody",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Xiao v Garbrandt",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-08T01:45:00.000Z"
-    },
-    {
-        "contestant_names": "UC Santa Barbara, (1.7) VERSES UC San Diego, (2.15)",
-        "start_time_aest": "2026-03-08T13:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "UC Santa Barbara",
-                "position": "HOME",
-                "short_name": "UC Santa Barbara"
-            },
-            {
-                "full_name": "UC San Diego",
-                "position": "AWAY",
-                "short_name": "UC San Diego"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "UC Santa Barbara",
-                "returnWin": 1.7
-            },
-            {
-                "name": "UC San Diego",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "UC Santa Barbara v UC San Diego",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-08T02:00:00.000Z"
-    },
-    {
         "contestant_names": "FERREIRA Bruno, (2.35) VERSES RODRIGUEZ Gregory, (1.6)",
         "start_time_aest": "2026-03-08T13:15:00+11:00",
         "sport_name": "UFC",
@@ -93,5 +30,100 @@
         "match_name": "Ferreira B v RodriguezG",
         "betOption": "Head To Head",
         "start_time": "2026-03-08T02:15:00.000Z"
+    },
+    {
+        "contestant_names": "Frayles De Guasa, (1.57) VERSES Venados Mazatlan, (2.2)",
+        "start_time_aest": "2026-03-08T13:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Mexico CIBACOPA",
+        "contestants": [
+            {
+                "full_name": "Frayles De Guasa",
+                "position": "HOME",
+                "short_name": "Frayles De Guasa"
+            },
+            {
+                "full_name": "Venados Mazatlan",
+                "position": "AWAY",
+                "short_name": "Venados Mazatlan"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Frayles De Guasa",
+                "returnWin": 1.57
+            },
+            {
+                "name": "Venados Mazatlan",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Frayles De Guasa v Venados Mazatlan",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T02:30:00.000Z"
+    },
+    {
+        "contestant_names": "Argentina, (1.52) VERSES France, (2.37)",
+        "start_time_aest": "2026-03-08T13:34:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "HSBC Sevens",
+        "tournamentName": "Vancouver 7s",
+        "contestants": [
+            {
+                "full_name": "Argentina",
+                "position": "HOME",
+                "short_name": "Argentina"
+            },
+            {
+                "full_name": "France",
+                "position": "AWAY",
+                "short_name": "France"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Argentina",
+                "returnWin": 1.52
+            },
+            {
+                "name": "France",
+                "returnWin": 2.37
+            }
+        ],
+        "match_name": "Argentina v France",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T02:34:00.000Z"
+    },
+    {
+        "contestant_names": "Fiji, (1.5) VERSES Australia, (2.5)",
+        "start_time_aest": "2026-03-08T13:56:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "HSBC Sevens",
+        "tournamentName": "Vancouver 7s",
+        "contestants": [
+            {
+                "full_name": "Fiji",
+                "position": "HOME",
+                "short_name": "Fiji"
+            },
+            {
+                "full_name": "Australia",
+                "position": "AWAY",
+                "short_name": "Australia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Fiji",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Australia",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Fiji v Australia",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T02:56:00.000Z"
     }
 ]
