@@ -62,5 +62,37 @@
         "match_name": "Potenza v Makk",
         "betOption": "Head To Head",
         "start_time": "2026-03-08T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Daniel Siniakov, (2.05) VERSES Jack Loge, (1.67)",
+        "start_time_aest": "2026-03-08T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Hersonissos 2",
+        "contestants": [
+            {
+                "full_name": "Daniel Siniakov",
+                "position": "HOME",
+                "short_name": "Siniakov"
+            },
+            {
+                "full_name": "Jack Loge",
+                "position": "AWAY",
+                "short_name": "Loge"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Daniel Siniakov",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Jack Loge",
+                "returnWin": 1.67
+            }
+        ],
+        "match_name": "Siniakov v Loge",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T08:00:00.000Z"
     }
 ]
