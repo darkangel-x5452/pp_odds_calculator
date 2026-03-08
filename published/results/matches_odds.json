@@ -1,7 +1,38 @@
 [
     {
+        "contestant_names": "Tofas, (1.48) VERSES Esenler Erokspor, (2.4)",
+        "start_time_aest": "2026-03-08T23:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Turkey Super League",
+        "contestants": [
+            {
+                "full_name": "Tofas",
+                "position": "HOME",
+                "short_name": "Tofas"
+            },
+            {
+                "full_name": "Esenler Erokspor",
+                "position": "AWAY",
+                "short_name": "Esenler Erokspor"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tofas",
+                "returnWin": 1.48
+            },
+            {
+                "name": "Esenler Erokspor",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Tofas v Esenler Erokspor",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T12:30:00.000Z"
+    },
+    {
         "contestant_names": "OG, (2.1) VERSES BetBoom Team, (1.65)",
-        "start_time_aest": "2026-03-08T23:00:00+11:00",
+        "start_time_aest": "2026-03-08T23:30:00+11:00",
         "sport_name": "Esports",
         "competition_name": "DOTA2",
         "tournamentName": "DOTA2 - PGL Wallachia",
@@ -29,70 +60,6 @@
         ],
         "match_name": "Og v Betboom Team",
         "betOption": "Head To Head",
-        "start_time": "2026-03-08T12:00:00.000Z"
-    },
-    {
-        "contestant_names": "Javier Barranco Cosano, (1.45) VERSES Luca Staeheli, (2.5)",
-        "start_time_aest": "2026-03-08T23:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Hersonissos 2",
-        "contestants": [
-            {
-                "full_name": "Javier Barranco Cosano",
-                "position": "HOME",
-                "short_name": "Barranco Cosano"
-            },
-            {
-                "full_name": "Luca Staeheli",
-                "position": "AWAY",
-                "short_name": "Staeheli"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Javier Barranco Cosano",
-                "returnWin": 1.45
-            },
-            {
-                "name": "Luca Staeheli",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Barranco Cosano v Staeheli",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-08T12:00:00.000Z"
-    },
-    {
-        "contestant_names": "Samuele Pieri, (1.6) VERSES Alexander Donski, (2.15)",
-        "start_time_aest": "2026-03-08T23:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Kigali 2",
-        "contestants": [
-            {
-                "full_name": "Samuele Pieri",
-                "position": "HOME",
-                "short_name": "Pieri"
-            },
-            {
-                "full_name": "Alexander Donski",
-                "position": "AWAY",
-                "short_name": "Donski"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Samuele Pieri",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Alexander Donski",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Pieri v Donski",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-08T12:00:00.000Z"
+        "start_time": "2026-03-08T12:30:00.000Z"
     }
 ]
