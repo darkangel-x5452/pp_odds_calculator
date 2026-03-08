@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "contestant_names": "Team Yandex, (1.8) VERSES MOUZ, (1.87)",
+        "start_time_aest": "2026-03-09T05:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "tournamentName": "DOTA2 - PGL Wallachia",
+        "contestants": [
+            {
+                "full_name": "Team Yandex",
+                "position": "HOME",
+                "short_name": "Team Yandex"
+            },
+            {
+                "full_name": "MOUZ",
+                "position": "AWAY",
+                "short_name": "MOUZ"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Team Yandex",
+                "returnWin": 1.8
+            },
+            {
+                "name": "MOUZ",
+                "returnWin": 1.87
+            }
+        ],
+        "match_name": "Team Yandex v MOUZ",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T18:00:00.000Z"
+    }
+]

@@ -1,64 +1,128 @@
 [
     {
-        "contestant_names": "Siauliai, (1.62) VERSES NeptunasKlaipeda, (2.15)",
-        "start_time_aest": "2026-03-09T04:10:00+11:00",
+        "contestant_names": "Tulane, (2.2) VERSES Memphis, (1.67)",
+        "start_time_aest": "2026-03-09T05:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Lithuania LKL",
+        "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Siauliai",
+                "full_name": "Tulane",
                 "position": "HOME",
-                "short_name": "Siauliai"
+                "short_name": "Tulane"
             },
             {
-                "full_name": "NeptunasKlaipeda",
+                "full_name": "Memphis",
                 "position": "AWAY",
-                "short_name": "NeptunasKlaipeda"
+                "short_name": "Memphis"
             }
         ],
         "propositions": [
             {
-                "name": "Siauliai",
-                "returnWin": 1.62
+                "name": "Tulane",
+                "returnWin": 2.2
             },
             {
-                "name": "NeptunasKlaipeda",
+                "name": "Memphis",
+                "returnWin": 1.67
+            }
+        ],
+        "match_name": "Tulane v Memphis",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Sorana Cirstea, (1.65) VERSES Linda Noskova, (2.15)",
+        "start_time_aest": "2026-03-09T05:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Sorana Cirstea",
+                "position": "HOME",
+                "short_name": "Cirstea S"
+            },
+            {
+                "full_name": "Linda Noskova",
+                "position": "AWAY",
+                "short_name": "Noskova"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sorana Cirstea",
+                "returnWin": 1.65
+            },
+            {
+                "name": "Linda Noskova",
                 "returnWin": 2.15
             }
         ],
-        "match_name": "Siauliai v NeptunasKlaipeda",
+        "match_name": "Cirstea S v Noskova",
         "betOption": "Head To Head",
-        "start_time": "2026-03-08T17:10:00.000Z"
+        "start_time": "2026-03-08T18:00:00.000Z"
     },
     {
-        "contestant_names": "Cleveland, (1.85) VERSES Boston, (2)",
-        "start_time_aest": "2026-03-09T04:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
+        "contestant_names": "Colorado, (1.55) VERSES Minnesota, (2.4)",
+        "start_time_aest": "2026-03-09T05:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "Cleveland",
+                "full_name": "Colorado",
                 "position": "HOME",
-                "short_name": "Cleveland"
+                "short_name": "Colorado"
             },
             {
-                "full_name": "Boston",
+                "full_name": "Minnesota",
                 "position": "AWAY",
-                "short_name": "Boston"
+                "short_name": "Minnesota"
             }
         ],
         "propositions": [
             {
-                "name": "Cleveland",
-                "returnWin": 1.85
+                "name": "Colorado",
+                "returnWin": 1.55
             },
             {
-                "name": "Boston",
-                "returnWin": 2
+                "name": "Minnesota",
+                "returnWin": 2.4
             }
         ],
-        "match_name": "Cleveland v Boston",
+        "match_name": "Colorado v Minnesota",
         "betOption": "Head To Head",
-        "start_time": "2026-03-08T17:10:00.000Z"
+        "start_time": "2026-03-08T18:05:00.000Z"
+    },
+    {
+        "contestant_names": "New Zealand, (2.37) VERSES Argentina, (1.53)",
+        "start_time_aest": "2026-03-09T05:52:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "HSBC Sevens",
+        "tournamentName": "Vancouver 7s",
+        "contestants": [
+            {
+                "full_name": "New Zealand",
+                "position": "HOME",
+                "short_name": "New Zealand"
+            },
+            {
+                "full_name": "Argentina",
+                "position": "AWAY",
+                "short_name": "Argentina"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "New Zealand",
+                "returnWin": 2.37
+            },
+            {
+                "name": "Argentina",
+                "returnWin": 1.53
+            }
+        ],
+        "match_name": "New Zealand v Argentina",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T18:52:00.000Z"
     }
 ]
