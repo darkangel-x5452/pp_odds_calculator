@@ -1,7 +1,39 @@
 [
     {
+        "contestant_names": "Aurora, (1.58) VERSES Heroic, (2.25)",
+        "start_time_aest": "2026-03-08T21:35:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "tournamentName": "DOTA2 - PGL Wallachia",
+        "contestants": [
+            {
+                "full_name": "Aurora",
+                "position": "HOME",
+                "short_name": "Aurora"
+            },
+            {
+                "full_name": "Heroic",
+                "position": "AWAY",
+                "short_name": "Heroic"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Aurora",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Heroic",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Aurora v Heroic",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T10:35:00.000Z"
+    },
+    {
         "contestant_names": "Federico Iannaccone, (2) VERSES Pietro Orlando Fellin, (1.7)",
-        "start_time_aest": "2026-03-08T21:15:00+11:00",
+        "start_time_aest": "2026-03-08T21:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "tournamentName": "Challenger Hersonissos 2",
@@ -29,70 +61,69 @@
         ],
         "match_name": "Iannaccone v Fellin P",
         "betOption": "Head To Head",
-        "start_time": "2026-03-08T10:15:00.000Z"
+        "start_time": "2026-03-08T10:45:00.000Z"
     },
     {
-        "contestant_names": "Shiba/Reika, (2.2) VERSES Durish/Koenig, (1.6)",
-        "start_time_aest": "2026-03-08T21:30:00+11:00",
-        "sport_name": "Beach Volleyball",
-        "competition_name": "Beach Pro Tour Womens",
-        "tournamentName": "Beach Pro Tour Challenge Bhubanesaw W",
+        "contestant_names": "Girona Basket, (2.4) VERSES Unicaja Malaga, (1.48)",
+        "start_time_aest": "2026-03-08T22:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Spain ACB Liga",
         "contestants": [
             {
-                "full_name": "Shiba/Reika",
+                "full_name": "Girona Basket",
                 "position": "HOME",
-                "short_name": "Shiba/Reika"
+                "short_name": "Girona Basket"
             },
             {
-                "full_name": "Durish/Koenig",
+                "full_name": "Unicaja Malaga",
                 "position": "AWAY",
-                "short_name": "Durish/Koenig"
+                "short_name": "Unicaja Malaga"
             }
         ],
         "propositions": [
             {
-                "name": "Shiba/Reika",
-                "returnWin": 2.2
+                "name": "Girona Basket",
+                "returnWin": 2.4
             },
             {
-                "name": "Durish/Koenig",
-                "returnWin": 1.6
+                "name": "Unicaja Malaga",
+                "returnWin": 1.48
             }
         ],
-        "match_name": "Shiba/Reika v Durish/Koenig",
+        "match_name": "Girona Basket v Unicaja Malaga",
         "betOption": "Head To Head",
-        "start_time": "2026-03-08T10:30:00.000Z"
+        "start_time": "2026-03-08T11:00:00.000Z"
     },
     {
-        "contestant_names": "paiN, (2.3) VERSES Aurora Gaming, (1.55)",
-        "start_time_aest": "2026-03-08T21:30:00+11:00",
+        "contestant_names": "OG, (2.1) VERSES BetBoom Team, (1.65)",
+        "start_time_aest": "2026-03-08T22:00:00+11:00",
         "sport_name": "Esports",
-        "competition_name": "Counter Strike 2",
-        "tournamentName": "CS2 - ESL Pro League Play In",
+        "competition_name": "DOTA2",
+        "tournamentName": "DOTA2 - PGL Wallachia",
         "contestants": [
             {
-                "full_name": "paiN",
+                "full_name": "OG",
                 "position": "HOME",
-                "short_name": "Pain"
+                "short_name": "Og"
             },
             {
-                "full_name": "Aurora Gaming",
+                "full_name": "BetBoom Team",
                 "position": "AWAY",
-                "short_name": "Aurora Gaming"
+                "short_name": "Betboom Team"
             }
         ],
         "propositions": [
             {
-                "name": "paiN",
-                "returnWin": 2.3
+                "name": "OG",
+                "returnWin": 2.1
             },
             {
-                "name": "Aurora Gaming",
-                "returnWin": 1.55
+                "name": "BetBoom Team",
+                "returnWin": 1.65
             }
         ],
-        "match_name": "Pain v Aurora Gaming",
+        "match_name": "Og v Betboom Team",
         "betOption": "Head To Head",
-        "start_time": "2026-03-08T10:30:00.000Z"
+        "start_time": "2026-03-08T11:00:00.000Z"
     }
 ]
