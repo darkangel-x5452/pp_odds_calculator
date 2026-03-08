@@ -29,5 +29,67 @@
         "match_name": "Buffalo v Tampa Bay",
         "betOption": "Head To Head",
         "start_time": "2026-03-08T22:05:00.000Z"
+    },
+    {
+        "contestant_names": "Minas TC, (1.77) VERSES Franca, (1.9)",
+        "start_time_aest": "2026-03-09T09:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Champions League Americas",
+        "contestants": [
+            {
+                "full_name": "Minas TC",
+                "position": "HOME",
+                "short_name": "Minas TC"
+            },
+            {
+                "full_name": "Franca",
+                "position": "AWAY",
+                "short_name": "Franca"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Minas TC",
+                "returnWin": 1.77
+            },
+            {
+                "name": "Franca",
+                "returnWin": 1.9
+            }
+        ],
+        "match_name": "Minas TC v Franca",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T22:10:00.000Z"
+    },
+    {
+        "contestant_names": "Boca Juniors, (1.75) VERSES Club Tucuman de Gimnasia, (1.95)",
+        "start_time_aest": "2026-03-09T09:30:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "Argentina LVA",
+        "contestants": [
+            {
+                "full_name": "Boca Juniors",
+                "position": "HOME",
+                "short_name": "Boca Juniors"
+            },
+            {
+                "full_name": "Club Tucuman de Gimnasia",
+                "position": "AWAY",
+                "short_name": "Club Tucuman De"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Boca Juniors",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Club Tucuman de Gimnasia",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Boca Juniors v Club Tucuman De",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T22:30:00.000Z"
     }
 ]

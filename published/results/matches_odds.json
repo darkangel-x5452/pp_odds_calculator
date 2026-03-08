@@ -1,69 +1,5 @@
 [
     {
-        "contestant_names": "Alejandro Davidovich Fokina, (2.2) VERSES Jakub Mensik, (1.62)",
-        "start_time_aest": "2026-03-09T08:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Masters",
-        "tournamentName": "Masters Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Alejandro Davidovich Fokina",
-                "position": "HOME",
-                "short_name": "Davidvich Fokina"
-            },
-            {
-                "full_name": "Jakub Mensik",
-                "position": "AWAY",
-                "short_name": "Mensik"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Alejandro Davidovich Fokina",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Jakub Mensik",
-                "returnWin": 1.62
-            }
-        ],
-        "match_name": "Davidvich Fokina v Mensik",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-08T21:15:00.000Z"
-    },
-    {
-        "contestant_names": "Maria Camila Osorio Serrano, (2.5) VERSES Naomi Osaka, (1.5)",
-        "start_time_aest": "2026-03-09T08:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA",
-        "tournamentName": "WTA Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Maria Camila Osorio Serrano",
-                "position": "HOME",
-                "short_name": "Osorio Serrano"
-            },
-            {
-                "full_name": "Naomi Osaka",
-                "position": "AWAY",
-                "short_name": "Osaka"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Maria Camila Osorio Serrano",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Naomi Osaka",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Osorio Serrano v Osaka",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-08T21:15:00.000Z"
-    },
-    {
         "contestant_names": "Charleston, (1.65) VERSES Towson, (2.25)",
         "start_time_aest": "2026-03-09T09:00:00+11:00",
         "sport_name": "Basketball",
@@ -218,5 +154,37 @@
         "match_name": "Guo/Mladenovic v Panova/Siegemundd",
         "betOption": "Head To Head",
         "start_time": "2026-03-08T22:30:00.000Z"
+    },
+    {
+        "contestant_names": "Canada, (1.5) VERSES Fiji, (2.5)",
+        "start_time_aest": "2026-03-09T10:48:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "HSBC 7s Womens",
+        "tournamentName": "Vancouver 7s Womens",
+        "contestants": [
+            {
+                "full_name": "Canada",
+                "position": "HOME",
+                "short_name": "Canada"
+            },
+            {
+                "full_name": "Fiji",
+                "position": "AWAY",
+                "short_name": "Fiji"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Canada",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Fiji",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Canada v Fiji",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T23:48:00.000Z"
     }
 ]
