@@ -1,33 +1,65 @@
 [
     {
-        "contestant_names": "AZS Politechnika Warszawska, (1.9) VERSES Politechnika Lublin, (1.8)",
-        "start_time_aest": "2026-03-09T03:30:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Poland PlusLiga Men",
+        "contestant_names": "Ludwigsburg, (1.8) VERSES Hamburg, (1.9)",
+        "start_time_aest": "2026-03-09T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Germany Bundesliga",
         "contestants": [
             {
-                "full_name": "AZS Politechnika Warszawska",
+                "full_name": "Ludwigsburg",
                 "position": "HOME",
-                "short_name": "Politech"
+                "short_name": "Ludwigsburg"
             },
             {
-                "full_name": "Politechnika Lublin",
+                "full_name": "Hamburg",
                 "position": "AWAY",
-                "short_name": "PolitechnikaLub"
+                "short_name": "Hamburg"
             }
         ],
         "propositions": [
             {
-                "name": "AZS Politechnika Warszawska",
-                "returnWin": 1.9
+                "name": "Ludwigsburg",
+                "returnWin": 1.8
             },
             {
-                "name": "Politechnika Lublin",
-                "returnWin": 1.8
+                "name": "Hamburg",
+                "returnWin": 1.9
             }
         ],
-        "match_name": "Politech v PolitechnikaLub",
+        "match_name": "Ludwigsburg v Hamburg",
         "betOption": "Head To Head",
-        "start_time": "2026-03-08T16:30:00.000Z"
+        "start_time": "2026-03-08T17:00:00.000Z"
+    },
+    {
+        "contestant_names": "Team Falcons, (1.8) VERSES Team Spirit, (1.87)",
+        "start_time_aest": "2026-03-09T04:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "tournamentName": "DOTA2 - PGL Wallachia",
+        "contestants": [
+            {
+                "full_name": "Team Falcons",
+                "position": "HOME",
+                "short_name": "Team Falcons"
+            },
+            {
+                "full_name": "Team Spirit",
+                "position": "AWAY",
+                "short_name": "Team Spirit"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Team Falcons",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Team Spirit",
+                "returnWin": 1.87
+            }
+        ],
+        "match_name": "Team Falcons v Team Spirit",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T17:00:00.000Z"
     }
 ]
