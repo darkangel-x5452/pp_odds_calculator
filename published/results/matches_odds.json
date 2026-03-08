@@ -30,5 +30,37 @@
         "match_name": "Karatancheva v Paquet",
         "betOption": "Head To Head",
         "start_time": "2026-03-08T07:30:00.000Z"
+    },
+    {
+        "contestant_names": "Luca Potenza, (2.1) VERSES Peter Makk, (1.63)",
+        "start_time_aest": "2026-03-08T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Hersonissos 2",
+        "contestants": [
+            {
+                "full_name": "Luca Potenza",
+                "position": "HOME",
+                "short_name": "Potenza"
+            },
+            {
+                "full_name": "Peter Makk",
+                "position": "AWAY",
+                "short_name": "Makk"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Luca Potenza",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Peter Makk",
+                "returnWin": 1.63
+            }
+        ],
+        "match_name": "Potenza v Makk",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T08:00:00.000Z"
     }
 ]
