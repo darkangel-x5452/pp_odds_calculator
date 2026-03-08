@@ -1,67 +1,5 @@
 [
     {
-        "contestant_names": "Colorado, (1.55) VERSES Minnesota, (2.4)",
-        "start_time_aest": "2026-03-09T05:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Colorado",
-                "position": "HOME",
-                "short_name": "Colorado"
-            },
-            {
-                "full_name": "Minnesota",
-                "position": "AWAY",
-                "short_name": "Minnesota"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Colorado",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Minnesota",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Colorado v Minnesota",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-08T18:05:00.000Z"
-    },
-    {
-        "contestant_names": "Colorado, (1.55) VERSES Minnesota, (2.4)",
-        "start_time_aest": "2026-03-09T05:09:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Colorado",
-                "position": "HOME",
-                "short_name": "Colorado"
-            },
-            {
-                "full_name": "Minnesota",
-                "position": "AWAY",
-                "short_name": "Minnesota"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Colorado",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Minnesota",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Colorado v Minnesota",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-08T18:09:00.000Z"
-    },
-    {
         "contestant_names": "New Zealand, (2.37) VERSES Argentina, (1.53)",
         "start_time_aest": "2026-03-09T05:52:00+11:00",
         "sport_name": "Rugby Union",
@@ -92,5 +30,68 @@
         "match_name": "New Zealand v Argentina",
         "betOption": "Head To Head",
         "start_time": "2026-03-08T18:52:00.000Z"
+    },
+    {
+        "contestant_names": "South Carolina, (1.53) VERSES Texas, (2.4)",
+        "start_time_aest": "2026-03-09T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "South Carolina",
+                "position": "HOME",
+                "short_name": "South Carolina"
+            },
+            {
+                "full_name": "Texas",
+                "position": "AWAY",
+                "short_name": "Texas"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "South Carolina",
+                "returnWin": 1.53
+            },
+            {
+                "name": "Texas",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "South Carolina v Texas",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T19:00:00.000Z"
+    },
+    {
+        "contestant_names": "FURIA, (2.3) VERSES BBL Esports, (1.55)",
+        "start_time_aest": "2026-03-09T06:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Valorant",
+        "tournamentName": "Valorant - Masters Santiago",
+        "contestants": [
+            {
+                "full_name": "FURIA",
+                "position": "HOME",
+                "short_name": "Furia"
+            },
+            {
+                "full_name": "BBL Esports",
+                "position": "AWAY",
+                "short_name": "BBL Esports"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "FURIA",
+                "returnWin": 2.3
+            },
+            {
+                "name": "BBL Esports",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Furia v BBL Esports",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T19:00:00.000Z"
     }
 ]
