@@ -1,97 +1,126 @@
 [
     {
-        "contestant_names": "New Zealand, (2.37) VERSES Argentina, (1.53)",
-        "start_time_aest": "2026-03-09T05:52:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "HSBC Sevens",
-        "tournamentName": "Vancouver 7s",
+        "contestant_names": "Green Bay, (2.45) VERSES Nth Kentucky, (1.55)",
+        "start_time_aest": "2026-03-09T06:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "New Zealand",
+                "full_name": "Green Bay",
                 "position": "HOME",
-                "short_name": "New Zealand"
+                "short_name": "Green Bay"
             },
             {
-                "full_name": "Argentina",
+                "full_name": "Nth Kentucky",
                 "position": "AWAY",
-                "short_name": "Argentina"
+                "short_name": "Nth Kentucky"
             }
         ],
         "propositions": [
             {
-                "name": "New Zealand",
-                "returnWin": 2.37
+                "name": "Green Bay",
+                "returnWin": 2.45
             },
             {
-                "name": "Argentina",
-                "returnWin": 1.53
+                "name": "Nth Kentucky",
+                "returnWin": 1.55
             }
         ],
-        "match_name": "New Zealand v Argentina",
+        "match_name": "Green Bay v Nth Kentucky",
         "betOption": "Head To Head",
-        "start_time": "2026-03-08T18:52:00.000Z"
+        "start_time": "2026-03-08T19:30:00.000Z"
     },
     {
-        "contestant_names": "South Carolina, (1.53) VERSES Texas, (2.4)",
-        "start_time_aest": "2026-03-09T06:00:00+11:00",
+        "contestant_names": "East Tenn State, (1.6) VERSES Western Carolina, (2.35)",
+        "start_time_aest": "2026-03-09T07:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "East Tenn State",
+                "position": "HOME",
+                "short_name": "East Tenn State"
+            },
+            {
+                "full_name": "Western Carolina",
+                "position": "AWAY",
+                "short_name": "Western Carolina"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "East Tenn State",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Western Carolina",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "East Tenn State v Western Carolina",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T20:00:00.000Z"
+    },
+    {
+        "contestant_names": "Nth Dakota State, (2.4) VERSES South Dakota St, (1.53)",
+        "start_time_aest": "2026-03-09T07:00:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball Women",
         "contestants": [
             {
-                "full_name": "South Carolina",
+                "full_name": "Nth Dakota State",
                 "position": "HOME",
-                "short_name": "South Carolina"
+                "short_name": "Nth Dakota State"
             },
             {
-                "full_name": "Texas",
+                "full_name": "South Dakota St",
                 "position": "AWAY",
-                "short_name": "Texas"
+                "short_name": "South Dakota St"
             }
         ],
         "propositions": [
             {
-                "name": "South Carolina",
-                "returnWin": 1.53
+                "name": "Nth Dakota State",
+                "returnWin": 2.4
             },
             {
-                "name": "Texas",
-                "returnWin": 2.4
+                "name": "South Dakota St",
+                "returnWin": 1.53
             }
         ],
-        "match_name": "South Carolina v Texas",
+        "match_name": "Nth Dakota State v South Dakota St",
         "betOption": "Head To Head",
-        "start_time": "2026-03-08T19:00:00.000Z"
+        "start_time": "2026-03-08T20:00:00.000Z"
     },
     {
-        "contestant_names": "FURIA, (2.3) VERSES BBL Esports, (1.55)",
-        "start_time_aest": "2026-03-09T06:00:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "Valorant",
-        "tournamentName": "Valorant - Masters Santiago",
+        "contestant_names": "Rhode Island, (1.68) VERSES George Mason, (2.1)",
+        "start_time_aest": "2026-03-09T07:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
         "contestants": [
             {
-                "full_name": "FURIA",
+                "full_name": "Rhode Island",
                 "position": "HOME",
-                "short_name": "Furia"
+                "short_name": "Rhode Island"
             },
             {
-                "full_name": "BBL Esports",
+                "full_name": "George Mason",
                 "position": "AWAY",
-                "short_name": "BBL Esports"
+                "short_name": "George Mason"
             }
         ],
         "propositions": [
             {
-                "name": "FURIA",
-                "returnWin": 2.3
+                "name": "Rhode Island",
+                "returnWin": 1.68
             },
             {
-                "name": "BBL Esports",
-                "returnWin": 1.55
+                "name": "George Mason",
+                "returnWin": 2.1
             }
         ],
-        "match_name": "Furia v BBL Esports",
+        "match_name": "Rhode Island v George Mason",
         "betOption": "Head To Head",
-        "start_time": "2026-03-08T19:00:00.000Z"
+        "start_time": "2026-03-08T20:00:00.000Z"
     }
 ]
