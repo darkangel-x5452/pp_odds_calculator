@@ -1,95 +1,126 @@
 [
     {
-        "contestant_names": "Cedevita, (2.4) VERSES Dubai Basketball, (1.5)",
-        "start_time_aest": "2026-03-09T03:00:00+11:00",
+        "contestant_names": "APU Udine, (1.45) VERSES Varese, (2.5)",
+        "start_time_aest": "2026-03-09T03:30:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "ABA League",
+        "competition_name": "Italy Lega Serie A",
         "contestants": [
             {
-                "full_name": "Cedevita",
+                "full_name": "APU Udine",
                 "position": "HOME",
-                "short_name": "Cedevita"
+                "short_name": "APU Udine"
             },
             {
-                "full_name": "Dubai Basketball",
+                "full_name": "Varese",
                 "position": "AWAY",
-                "short_name": "Dubai Basketball"
+                "short_name": "Varese"
             }
         ],
         "propositions": [
             {
-                "name": "Cedevita",
-                "returnWin": 2.4
+                "name": "APU Udine",
+                "returnWin": 1.45
             },
             {
-                "name": "Dubai Basketball",
-                "returnWin": 1.5
+                "name": "Varese",
+                "returnWin": 2.5
             }
         ],
-        "match_name": "Cedevita v Dubai Basketball",
+        "match_name": "APU Udine v Varese",
         "betOption": "Head To Head",
-        "start_time": "2026-03-08T16:00:00.000Z"
+        "start_time": "2026-03-08T16:30:00.000Z"
     },
     {
-        "contestant_names": "Lehigh, (2.1) VERSES Colgate, (1.74)",
-        "start_time_aest": "2026-03-09T03:00:00+11:00",
+        "contestant_names": "Ostrow Wkpolski, (1.58) VERSES Start Lublin, (2.25)",
+        "start_time_aest": "2026-03-09T03:30:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "competition_name": "Poland Energa Basket Liga",
         "contestants": [
             {
-                "full_name": "Lehigh",
+                "full_name": "Ostrow Wkpolski",
                 "position": "HOME",
-                "short_name": "Lehigh"
+                "short_name": "Ostrow Wkpolski"
             },
             {
-                "full_name": "Colgate",
+                "full_name": "Start Lublin",
                 "position": "AWAY",
-                "short_name": "Colgate"
+                "short_name": "Start Lublin"
             }
         ],
         "propositions": [
             {
-                "name": "Lehigh",
-                "returnWin": 2.1
+                "name": "Ostrow Wkpolski",
+                "returnWin": 1.58
             },
             {
-                "name": "Colgate",
-                "returnWin": 1.74
+                "name": "Start Lublin",
+                "returnWin": 2.25
             }
         ],
-        "match_name": "Lehigh v Colgate",
+        "match_name": "Ostrow Wkpolski v Start Lublin",
         "betOption": "Head To Head",
-        "start_time": "2026-03-08T16:00:00.000Z"
+        "start_time": "2026-03-08T16:30:00.000Z"
     },
     {
-        "contestant_names": "Illinois-Chicago, (2.3) VERSES Northern Iowa, (1.62)",
-        "start_time_aest": "2026-03-09T03:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "contestant_names": "Panionios, (1.58) VERSES AO Flisvos, (2.25)",
+        "start_time_aest": "2026-03-09T03:30:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "Greece A1",
         "contestants": [
             {
-                "full_name": "Illinois-Chicago",
+                "full_name": "Panionios",
                 "position": "HOME",
-                "short_name": "Illinois-Chicago"
+                "short_name": "Panionios"
             },
             {
-                "full_name": "Northern Iowa",
+                "full_name": "AO Flisvos",
                 "position": "AWAY",
-                "short_name": "Northern Iowa"
+                "short_name": "AO Flisvos"
             }
         ],
         "propositions": [
             {
-                "name": "Illinois-Chicago",
-                "returnWin": 2.3
+                "name": "Panionios",
+                "returnWin": 1.58
             },
             {
-                "name": "Northern Iowa",
-                "returnWin": 1.62
+                "name": "AO Flisvos",
+                "returnWin": 2.25
             }
         ],
-        "match_name": "Illinois-Chicago v Northern Iowa",
+        "match_name": "Panionios v AO Flisvos",
         "betOption": "Head To Head",
-        "start_time": "2026-03-08T16:00:00.000Z"
+        "start_time": "2026-03-08T16:30:00.000Z"
+    },
+    {
+        "contestant_names": "PAOK, (1.72) VERSES Olympiacos Piraeus, (2)",
+        "start_time_aest": "2026-03-09T03:30:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "Greece A1",
+        "contestants": [
+            {
+                "full_name": "PAOK",
+                "position": "HOME",
+                "short_name": "PAOK"
+            },
+            {
+                "full_name": "Olympiacos Piraeus",
+                "position": "AWAY",
+                "short_name": "Olympiacos"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "PAOK",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Olympiacos Piraeus",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "PAOK v Olympiacos",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T16:30:00.000Z"
     }
 ]
