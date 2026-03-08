@@ -1,1 +1,33 @@
-[]
+[
+    {
+        "contestant_names": "Buffalo, (1.95) VERSES Tampa Bay, (1.85)",
+        "start_time_aest": "2026-03-09T09:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Buffalo",
+                "position": "HOME",
+                "short_name": "Buffalo"
+            },
+            {
+                "full_name": "Tampa Bay",
+                "position": "AWAY",
+                "short_name": "Tampa Bay"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Buffalo",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Tampa Bay",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Buffalo v Tampa Bay",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T22:05:00.000Z"
+    }
+]
