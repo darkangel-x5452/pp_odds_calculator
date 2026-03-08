@@ -1,65 +1,127 @@
 [
     {
-        "contestant_names": "Georgetown, (1.77) VERSES Providence, (2.05)",
-        "start_time_aest": "2026-03-08T12:00:00+11:00",
+        "contestant_names": "Mercer, (1.74) VERSES Western Carolina, (2.1)",
+        "start_time_aest": "2026-03-08T12:30:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Georgetown",
+                "full_name": "Mercer",
                 "position": "HOME",
-                "short_name": "Georgetown"
+                "short_name": "Mercer"
             },
             {
-                "full_name": "Providence",
+                "full_name": "Western Carolina",
                 "position": "AWAY",
-                "short_name": "Providence"
+                "short_name": "Western Carolina"
             }
         ],
         "propositions": [
             {
-                "name": "Georgetown",
-                "returnWin": 1.77
+                "name": "Mercer",
+                "returnWin": 1.74
             },
             {
-                "name": "Providence",
-                "returnWin": 2.05
+                "name": "Western Carolina",
+                "returnWin": 2.1
             }
         ],
-        "match_name": "Georgetown v Providence",
+        "match_name": "Mercer v Western Carolina",
         "betOption": "Head To Head",
-        "start_time": "2026-03-08T01:00:00.000Z"
+        "start_time": "2026-03-08T01:30:00.000Z"
     },
     {
-        "contestant_names": "Neel/Stearns, (2.25) VERSES Kato/Stollar, (1.6)",
-        "start_time_aest": "2026-03-08T12:00:00+11:00",
+        "contestant_names": "Siena, (1.62) VERSES Mount St Marys, (2.3)",
+        "start_time_aest": "2026-03-08T12:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Siena",
+                "position": "HOME",
+                "short_name": "Siena"
+            },
+            {
+                "full_name": "Mount St Marys",
+                "position": "AWAY",
+                "short_name": "Mount St Marys"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Siena",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Mount St Marys",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Siena v Mount St Marys",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T01:30:00.000Z"
+    },
+    {
+        "contestant_names": "Radford, (2) VERSES Longwood, (1.75)",
+        "start_time_aest": "2026-03-08T12:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Radford",
+                "position": "HOME",
+                "short_name": "Radford"
+            },
+            {
+                "full_name": "Longwood",
+                "position": "AWAY",
+                "short_name": "Longwood"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Radford",
+                "returnWin": 2
+            },
+            {
+                "name": "Longwood",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Radford v Longwood",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T01:30:00.000Z"
+    },
+    {
+        "contestant_names": "Eala/Jovic, (2.3) VERSES Baptiste/Ostapenko, (1.58)",
+        "start_time_aest": "2026-03-08T12:30:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA Doubles",
         "tournamentName": "WTA Indian Wells Doubles",
         "contestants": [
             {
-                "full_name": "Neel/Stearns",
+                "full_name": "Eala/Jovic",
                 "position": "HOME",
-                "short_name": "Neel/Stearns"
+                "short_name": "Eala/Jovic"
             },
             {
-                "full_name": "Kato/Stollar",
+                "full_name": "Baptiste/Ostapenko",
                 "position": "AWAY",
-                "short_name": "Kato/Stollar"
+                "short_name": "Baptiste/Ostapenko"
             }
         ],
         "propositions": [
             {
-                "name": "Neel/Stearns",
-                "returnWin": 2.25
+                "name": "Eala/Jovic",
+                "returnWin": 2.3
             },
             {
-                "name": "Kato/Stollar",
-                "returnWin": 1.6
+                "name": "Baptiste/Ostapenko",
+                "returnWin": 1.58
             }
         ],
-        "match_name": "Neel/Stearns v Kato/Stollar",
+        "match_name": "Eala/Jovic v Baptiste/Ostapenko",
         "betOption": "Head To Head",
-        "start_time": "2026-03-08T01:00:00.000Z"
+        "start_time": "2026-03-08T01:30:00.000Z"
     }
 ]
