@@ -1,65 +1,34 @@
 [
     {
-        "contestant_names": "Charleston, (1.65) VERSES Towson, (2.25)",
-        "start_time_aest": "2026-03-09T09:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "contestant_names": "Buffalo, (2) VERSES Tampa Bay, (1.8)",
+        "start_time_aest": "2026-03-09T09:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
         "contestants": [
             {
-                "full_name": "Charleston",
+                "full_name": "Buffalo",
                 "position": "HOME",
-                "short_name": "Charleston"
+                "short_name": "Buffalo"
             },
             {
-                "full_name": "Towson",
+                "full_name": "Tampa Bay",
                 "position": "AWAY",
-                "short_name": "Towson"
+                "short_name": "Tampa Bay"
             }
         ],
         "propositions": [
             {
-                "name": "Charleston",
-                "returnWin": 1.65
+                "name": "Buffalo",
+                "returnWin": 2
             },
             {
-                "name": "Towson",
-                "returnWin": 2.25
+                "name": "Tampa Bay",
+                "returnWin": 1.8
             }
         ],
-        "match_name": "Charleston v Towson",
+        "match_name": "Buffalo v Tampa Bay",
         "betOption": "Head To Head",
-        "start_time": "2026-03-08T22:00:00.000Z"
-    },
-    {
-        "contestant_names": "New Orleans, (1.55) VERSES HoustonChristian, (2.45)",
-        "start_time_aest": "2026-03-09T09:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "New Orleans",
-                "position": "HOME",
-                "short_name": "New Orleans"
-            },
-            {
-                "full_name": "HoustonChristian",
-                "position": "AWAY",
-                "short_name": "HoustonChristian"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "New Orleans",
-                "returnWin": 1.55
-            },
-            {
-                "name": "HoustonChristian",
-                "returnWin": 2.45
-            }
-        ],
-        "match_name": "New Orleans v HoustonChristian",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-08T22:00:00.000Z"
+        "start_time": "2026-03-08T22:05:00.000Z"
     },
     {
         "contestant_names": "Minas TC, (1.66) VERSES Franca, (2.05)",
@@ -154,6 +123,37 @@
         "match_name": "Guo/Mladenovic v Panova/Siegemundd",
         "betOption": "Head To Head",
         "start_time": "2026-03-08T22:30:00.000Z"
+    },
+    {
+        "contestant_names": "RAMOS Jaycob, (1.6) VERSES PEREZ Ethan, (2.3)",
+        "start_time_aest": "2026-03-09T10:00:00+11:00",
+        "sport_name": "Boxing",
+        "competition_name": "Opetaia v Glanton",
+        "contestants": [
+            {
+                "full_name": "RAMOS Jaycob",
+                "position": "HOME",
+                "short_name": "Ramos Jaycob"
+            },
+            {
+                "full_name": "PEREZ Ethan",
+                "position": "AWAY",
+                "short_name": "Perez Ethan"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "RAMOS Jaycob",
+                "returnWin": 1.6
+            },
+            {
+                "name": "PEREZ Ethan",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Ramos Jaycob  v Perez Ethan",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T23:00:00.000Z"
     },
     {
         "contestant_names": "Canada, (1.5) VERSES Fiji, (2.5)",
