@@ -1,33 +1,95 @@
 [
     {
-        "contestant_names": "Gravelines, (1.62) VERSES Boulazac, (2.1)",
-        "start_time_aest": "2026-03-09T02:30:00+11:00",
+        "contestant_names": "Cedevita, (2.4) VERSES Dubai Basketball, (1.5)",
+        "start_time_aest": "2026-03-09T03:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "France LNB Pro A",
+        "competition_name": "ABA League",
         "contestants": [
             {
-                "full_name": "Gravelines",
+                "full_name": "Cedevita",
                 "position": "HOME",
-                "short_name": "Gravelines"
+                "short_name": "Cedevita"
             },
             {
-                "full_name": "Boulazac",
+                "full_name": "Dubai Basketball",
                 "position": "AWAY",
-                "short_name": "Boulazac"
+                "short_name": "Dubai Basketball"
             }
         ],
         "propositions": [
             {
-                "name": "Gravelines",
-                "returnWin": 1.62
+                "name": "Cedevita",
+                "returnWin": 2.4
             },
             {
-                "name": "Boulazac",
-                "returnWin": 2.1
+                "name": "Dubai Basketball",
+                "returnWin": 1.5
             }
         ],
-        "match_name": "Gravelines v Boulazac",
+        "match_name": "Cedevita v Dubai Basketball",
         "betOption": "Head To Head",
-        "start_time": "2026-03-08T15:30:00.000Z"
+        "start_time": "2026-03-08T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "Lehigh, (2.1) VERSES Colgate, (1.74)",
+        "start_time_aest": "2026-03-09T03:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Lehigh",
+                "position": "HOME",
+                "short_name": "Lehigh"
+            },
+            {
+                "full_name": "Colgate",
+                "position": "AWAY",
+                "short_name": "Colgate"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Lehigh",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Colgate",
+                "returnWin": 1.74
+            }
+        ],
+        "match_name": "Lehigh v Colgate",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T16:00:00.000Z"
+    },
+    {
+        "contestant_names": "Illinois-Chicago, (2.3) VERSES Northern Iowa, (1.62)",
+        "start_time_aest": "2026-03-09T03:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Illinois-Chicago",
+                "position": "HOME",
+                "short_name": "Illinois-Chicago"
+            },
+            {
+                "full_name": "Northern Iowa",
+                "position": "AWAY",
+                "short_name": "Northern Iowa"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Illinois-Chicago",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Northern Iowa",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Illinois-Chicago v Northern Iowa",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-08T16:00:00.000Z"
     }
 ]
