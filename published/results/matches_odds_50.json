@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "contestant_names": "Patrick Brady, (1.77) VERSES Kenny De Schepper, (1.9)",
+        "start_time_aest": "2026-03-10T00:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Cherbourg",
+        "contestants": [
+            {
+                "full_name": "Patrick Brady",
+                "position": "HOME",
+                "short_name": "Brady P"
+            },
+            {
+                "full_name": "Kenny De Schepper",
+                "position": "AWAY",
+                "short_name": "De Schepper"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Patrick Brady",
+                "returnWin": 1.77
+            },
+            {
+                "name": "Kenny De Schepper",
+                "returnWin": 1.9
+            }
+        ],
+        "match_name": "Brady P v De Schepper",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-09T13:30:00.000Z"
+    }
+]
