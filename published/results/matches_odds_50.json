@@ -1,1 +1,66 @@
-[]
+[
+    {
+        "contestant_names": "Arthur Fery, (1.77) VERSES Dane Sweeny, (1.9)",
+        "start_time_aest": "2026-03-10T05:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Cap Cana",
+        "contestants": [
+            {
+                "full_name": "Arthur Fery",
+                "position": "HOME",
+                "short_name": "Fery"
+            },
+            {
+                "full_name": "Dane Sweeny",
+                "position": "AWAY",
+                "short_name": "Sweeny"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Arthur Fery",
+                "returnWin": 1.77
+            },
+            {
+                "name": "Dane Sweeny",
+                "returnWin": 1.9
+            }
+        ],
+        "match_name": "Fery v Sweeny",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-09T18:00:00.000Z"
+    },
+    {
+        "contestant_names": "Coleman Wong, (1.9) VERSES Zhizhen Zhang, (1.77)",
+        "start_time_aest": "2026-03-10T05:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Cap Cana",
+        "contestants": [
+            {
+                "full_name": "Coleman Wong",
+                "position": "HOME",
+                "short_name": "Wong C"
+            },
+            {
+                "full_name": "Zhizhen Zhang",
+                "position": "AWAY",
+                "short_name": "Zhang Z"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Coleman Wong",
+                "returnWin": 1.9
+            },
+            {
+                "name": "Zhizhen Zhang",
+                "returnWin": 1.77
+            }
+        ],
+        "match_name": "Wong C v Zhang Z",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-09T18:00:00.000Z"
+    }
+]
