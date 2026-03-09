@@ -1,69 +1,5 @@
 [
     {
-        "contestant_names": "Krystyna Pochtovyk, (1.75) VERSES Georgina Groth, (1.95)",
-        "start_time_aest": "2026-03-09T20:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "tournamentName": "ITFW Heraklion",
-        "contestants": [
-            {
-                "full_name": "Krystyna Pochtovyk",
-                "position": "HOME",
-                "short_name": "Pochtovyk"
-            },
-            {
-                "full_name": "Georgina Groth",
-                "position": "AWAY",
-                "short_name": "Groth G"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Krystyna Pochtovyk",
-                "returnWin": 1.75
-            },
-            {
-                "name": "Georgina Groth",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Pochtovyk v Groth G",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-09T09:45:00.000Z"
-    },
-    {
-        "contestant_names": "Alexander Donski, (1.95) VERSES Nicholas David Ionel, (1.72)",
-        "start_time_aest": "2026-03-09T21:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Kigali 2",
-        "contestants": [
-            {
-                "full_name": "Alexander Donski",
-                "position": "HOME",
-                "short_name": "Donski"
-            },
-            {
-                "full_name": "Nicholas David Ionel",
-                "position": "AWAY",
-                "short_name": "Ionel"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Alexander Donski",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Nicholas David Ionel",
-                "returnWin": 1.72
-            }
-        ],
-        "match_name": "Donski v Ionel",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-09T10:00:00.000Z"
-    },
-    {
         "contestant_names": "Shibuya Sun Rock, (1.73) VERSES Sendai 89ers, (1.95)",
         "start_time_aest": "2026-03-09T21:05:00+11:00",
         "sport_name": "Basketball",
@@ -93,5 +29,69 @@
         "match_name": "Shibuya Sun Rock v Sendai 89ers",
         "betOption": "Head To Head",
         "start_time": "2026-03-09T10:05:00.000Z"
+    },
+    {
+        "contestant_names": "Alexander Donski, (1.95) VERSES Nicholas David Ionel, (1.72)",
+        "start_time_aest": "2026-03-09T21:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Kigali 2",
+        "contestants": [
+            {
+                "full_name": "Alexander Donski",
+                "position": "HOME",
+                "short_name": "Donski"
+            },
+            {
+                "full_name": "Nicholas David Ionel",
+                "position": "AWAY",
+                "short_name": "Ionel"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alexander Donski",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Nicholas David Ionel",
+                "returnWin": 1.72
+            }
+        ],
+        "match_name": "Donski v Ionel",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-09T10:15:00.000Z"
+    },
+    {
+        "contestant_names": "Maxime Janvier, (1.85) VERSES Yanis Ghazouani Durand, (1.85)",
+        "start_time_aest": "2026-03-09T22:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Cherbourg",
+        "contestants": [
+            {
+                "full_name": "Maxime Janvier",
+                "position": "HOME",
+                "short_name": "Janvier"
+            },
+            {
+                "full_name": "Yanis Ghazouani Durand",
+                "position": "AWAY",
+                "short_name": "Durand"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Maxime Janvier",
+                "returnWin": 1.85
+            },
+            {
+                "name": "Yanis Ghazouani Durand",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Janvier v Durand",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-09T11:30:00.000Z"
     }
 ]
