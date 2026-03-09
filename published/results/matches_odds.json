@@ -1,39 +1,7 @@
 [
     {
-        "contestant_names": "Yidi Yang, (1.5) VERSES Natsuki Yoshimoto, (2.4)",
-        "start_time_aest": "2026-03-09T13:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "tournamentName": "ITFW Kyoto",
-        "contestants": [
-            {
-                "full_name": "Yidi Yang",
-                "position": "HOME",
-                "short_name": "Yang Y"
-            },
-            {
-                "full_name": "Natsuki Yoshimoto",
-                "position": "AWAY",
-                "short_name": "Yoshimoto"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Yidi Yang",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Natsuki Yoshimoto",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Yang Y v Yoshimoto",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-09T02:45:00.000Z"
-    },
-    {
         "contestant_names": "Victoria Mboko, (1.55) VERSES Anna Kalinskaya, (2.35)",
-        "start_time_aest": "2026-03-09T14:00:00+11:00",
+        "start_time_aest": "2026-03-09T14:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA",
         "tournamentName": "WTA Indian Wells",
@@ -61,7 +29,7 @@
         ],
         "match_name": "Mboko v Kalinskaya",
         "betOption": "Head To Head",
-        "start_time": "2026-03-09T03:00:00.000Z"
+        "start_time": "2026-03-09T03:15:00.000Z"
     },
     {
         "contestant_names": "Oges Theyjo Jaya Prakash, (2.35) VERSES Atharva Sharma, (1.52)",
@@ -156,6 +124,70 @@
             }
         ],
         "match_name": "Xtreme Gaming v Betboom Team",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-09T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Ivan Marrero Curbelo, (1.67) VERSES Maik Steiner, (2.05)",
+        "start_time_aest": "2026-03-09T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Kigali 2",
+        "contestants": [
+            {
+                "full_name": "Ivan Marrero Curbelo",
+                "position": "HOME",
+                "short_name": "Marrero Curbelo"
+            },
+            {
+                "full_name": "Maik Steiner",
+                "position": "AWAY",
+                "short_name": "Steiner M"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ivan Marrero Curbelo",
+                "returnWin": 1.67
+            },
+            {
+                "name": "Maik Steiner",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Marrero Curbelo v Steiner M",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-09T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Guy Orly Iradukunda, (2.5) VERSES Stefan Latinovic, (1.45)",
+        "start_time_aest": "2026-03-09T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Kigali 2",
+        "contestants": [
+            {
+                "full_name": "Guy Orly Iradukunda",
+                "position": "HOME",
+                "short_name": "Iradukunda"
+            },
+            {
+                "full_name": "Stefan Latinovic",
+                "position": "AWAY",
+                "short_name": "Latinovic"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Guy Orly Iradukunda",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Stefan Latinovic",
+                "returnWin": 1.45
+            }
+        ],
+        "match_name": "Iradukunda v Latinovic",
         "betOption": "Head To Head",
         "start_time": "2026-03-09T08:00:00.000Z"
     }
