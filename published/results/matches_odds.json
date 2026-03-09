@@ -1,39 +1,7 @@
 [
     {
-        "contestant_names": "Naoya Honda, (1.65) VERSES Liam Branger, (2.1)",
-        "start_time_aest": "2026-03-09T23:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "tournamentName": "ITFM Creteil",
-        "contestants": [
-            {
-                "full_name": "Naoya Honda",
-                "position": "HOME",
-                "short_name": "Honda N"
-            },
-            {
-                "full_name": "Liam Branger",
-                "position": "AWAY",
-                "short_name": "Branger"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Naoya Honda",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Liam Branger",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Honda N v Branger",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-09T12:15:00.000Z"
-    },
-    {
-        "contestant_names": "Lorenzo Giustino, (1.5) VERSES Viktor Durasovic, (2.4)",
-        "start_time_aest": "2026-03-09T23:15:00+11:00",
+        "contestant_names": "Lorenzo Giustino, (1.52) VERSES Viktor Durasovic, (2.35)",
+        "start_time_aest": "2026-03-09T23:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "tournamentName": "Challenger Hersonissos 2",
@@ -52,80 +20,16 @@
         "propositions": [
             {
                 "name": "Lorenzo Giustino",
-                "returnWin": 1.5
+                "returnWin": 1.52
             },
             {
                 "name": "Viktor Durasovic",
-                "returnWin": 2.4
+                "returnWin": 2.35
             }
         ],
         "match_name": "Giustino v Durasovic",
         "betOption": "Head To Head",
-        "start_time": "2026-03-09T12:15:00.000Z"
-    },
-    {
-        "contestant_names": "FUT Esports, (1.52) VERSES B8, (2.4)",
-        "start_time_aest": "2026-03-09T23:30:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "Counter Strike 2",
-        "tournamentName": "CS2 - ESL Pro League Play In",
-        "contestants": [
-            {
-                "full_name": "FUT Esports",
-                "position": "HOME",
-                "short_name": "FUT Esports"
-            },
-            {
-                "full_name": "B8",
-                "position": "AWAY",
-                "short_name": "B8"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "FUT Esports",
-                "returnWin": 1.52
-            },
-            {
-                "name": "B8",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "FUT Esports v B8",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-09T12:30:00.000Z"
-    },
-    {
-        "contestant_names": "TheMongolz, (1.52) VERSES 3DMAX, (2.4)",
-        "start_time_aest": "2026-03-09T23:30:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "Counter Strike 2",
-        "tournamentName": "CS2 - ESL Pro League Play In",
-        "contestants": [
-            {
-                "full_name": "TheMongolz",
-                "position": "HOME",
-                "short_name": "TheMongolz"
-            },
-            {
-                "full_name": "3DMAX",
-                "position": "AWAY",
-                "short_name": "3dmax"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "TheMongolz",
-                "returnWin": 1.52
-            },
-            {
-                "name": "3DMAX",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "TheMongolz v 3dmax",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-09T12:30:00.000Z"
+        "start_time": "2026-03-09T12:45:00.000Z"
     },
     {
         "contestant_names": "Lucia Santos Sanchez, (2.05) VERSES Franceska Dell Edera, (1.68)",
@@ -220,6 +124,70 @@
             }
         ],
         "match_name": "Team Liquid v Parivision",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-09T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Yellow Submarine, (2.4) VERSES Team Nemesis, (1.5)",
+        "start_time_aest": "2026-03-10T01:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "tournamentName": "DOTA2 - PGL Wallachia",
+        "contestants": [
+            {
+                "full_name": "Yellow Submarine",
+                "position": "HOME",
+                "short_name": "Yellow Submarine"
+            },
+            {
+                "full_name": "Team Nemesis",
+                "position": "AWAY",
+                "short_name": "Team Nemesis"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Yellow Submarine",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Team Nemesis",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Yellow Submarine v Team Nemesis",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-09T14:00:00.000Z"
+    },
+    {
+        "contestant_names": "Tiago Pereira, (2.1) VERSES Michael Geerts, (1.65)",
+        "start_time_aest": "2026-03-10T01:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Hersonissos 2",
+        "contestants": [
+            {
+                "full_name": "Tiago Pereira",
+                "position": "HOME",
+                "short_name": "Pereira T"
+            },
+            {
+                "full_name": "Michael Geerts",
+                "position": "AWAY",
+                "short_name": "Geerts"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tiago Pereira",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Michael Geerts",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Pereira T v Geerts",
         "betOption": "Head To Head",
         "start_time": "2026-03-09T14:00:00.000Z"
     }
