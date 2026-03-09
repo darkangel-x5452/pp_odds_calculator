@@ -254,5 +254,133 @@
         "match_name": "Vargova N v Taraba Wallberg",
         "betOption": "Head To Head",
         "start_time": "2026-03-09T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Ciric Bagaric, (2.5) VERSES Jana Kovackova, (1.46)",
+        "start_time_aest": "2026-03-09T21:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Heraklion",
+        "contestants": [
+            {
+                "full_name": "Ciric Bagaric",
+                "position": "HOME",
+                "short_name": "Ciric Bagaric"
+            },
+            {
+                "full_name": "Jana Kovackova",
+                "position": "AWAY",
+                "short_name": "Kovackova"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ciric Bagaric",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Jana Kovackova",
+                "returnWin": 1.46
+            }
+        ],
+        "match_name": "Ciric Bagaric v Kovackova",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-09T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Isaac Lhomond, (2.2) VERSES Clement Deleersnyder, (1.6)",
+        "start_time_aest": "2026-03-09T21:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "tournamentName": "ITFM Creteil",
+        "contestants": [
+            {
+                "full_name": "Isaac Lhomond",
+                "position": "HOME",
+                "short_name": "Lhomond"
+            },
+            {
+                "full_name": "Clement Deleersnyder",
+                "position": "AWAY",
+                "short_name": "Deleersnyder"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Isaac Lhomond",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Clement Deleersnyder",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Lhomond v Deleersnyder",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-09T10:15:00.000Z"
+    },
+    {
+        "contestant_names": "Natus Vincere, (1.5) VERSES Vici Gaming, (2.4)",
+        "start_time_aest": "2026-03-09T22:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "tournamentName": "DOTA2 - PGL Wallachia",
+        "contestants": [
+            {
+                "full_name": "Natus Vincere",
+                "position": "HOME",
+                "short_name": "Natus Vincere"
+            },
+            {
+                "full_name": "Vici Gaming",
+                "position": "AWAY",
+                "short_name": "Vici Gaming"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Natus Vincere",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Vici Gaming",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Natus Vincere v Vici Gaming",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-09T11:00:00.000Z"
+    },
+    {
+        "contestant_names": "Team Yandex, (2.35) VERSES Team Falcons, (1.52)",
+        "start_time_aest": "2026-03-09T22:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "tournamentName": "DOTA2 - PGL Wallachia",
+        "contestants": [
+            {
+                "full_name": "Team Yandex",
+                "position": "HOME",
+                "short_name": "Team Yandex"
+            },
+            {
+                "full_name": "Team Falcons",
+                "position": "AWAY",
+                "short_name": "Team Falcons"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Team Yandex",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Team Falcons",
+                "returnWin": 1.52
+            }
+        ],
+        "match_name": "Team Yandex v Team Falcons",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-09T11:00:00.000Z"
     }
 ]
