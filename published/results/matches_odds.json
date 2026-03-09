@@ -1,71 +1,7 @@
 [
     {
-        "contestant_names": "Hugo Pierre, (2.4) VERSES Daniel Jade, (1.5)",
-        "start_time_aest": "2026-03-10T01:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "tournamentName": "ITFM Creteil",
-        "contestants": [
-            {
-                "full_name": "Hugo Pierre",
-                "position": "HOME",
-                "short_name": "Pierre"
-            },
-            {
-                "full_name": "Daniel Jade",
-                "position": "AWAY",
-                "short_name": "Jade D"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Hugo Pierre",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Daniel Jade",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Pierre v Jade D",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-09T14:15:00.000Z"
-    },
-    {
-        "contestant_names": "Edouard Villoslada, (2.4) VERSES Andrea MChich, (1.5)",
-        "start_time_aest": "2026-03-10T01:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "tournamentName": "ITFM Creteil",
-        "contestants": [
-            {
-                "full_name": "Edouard Villoslada",
-                "position": "HOME",
-                "short_name": "Villoslada"
-            },
-            {
-                "full_name": "Andrea MChich",
-                "position": "AWAY",
-                "short_name": "MChich"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Edouard Villoslada",
-                "returnWin": 2.4
-            },
-            {
-                "name": "Andrea MChich",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Villoslada v MChich",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-09T14:15:00.000Z"
-    },
-    {
-        "contestant_names": "Team Liquid, (1.58) VERSES PARIVISION, (2.25)",
-        "start_time_aest": "2026-03-10T01:30:00+11:00",
+        "contestant_names": "Team Liquid, (1.55) VERSES PARIVISION, (2.3)",
+        "start_time_aest": "2026-03-10T01:45:00+11:00",
         "sport_name": "Esports",
         "competition_name": "DOTA2",
         "tournamentName": "DOTA2 - PGL Wallachia",
@@ -84,16 +20,16 @@
         "propositions": [
             {
                 "name": "Team Liquid",
-                "returnWin": 1.58
+                "returnWin": 1.55
             },
             {
                 "name": "PARIVISION",
-                "returnWin": 2.25
+                "returnWin": 2.3
             }
         ],
         "match_name": "Team Liquid v Parivision",
         "betOption": "Head To Head",
-        "start_time": "2026-03-09T14:30:00.000Z"
+        "start_time": "2026-03-09T14:45:00.000Z"
     },
     {
         "contestant_names": "Natus Vincere, (1.55) VERSES Legacy, (2.3)",
@@ -155,6 +91,37 @@
             }
         ],
         "match_name": "Rapid Bucuresti v Csu Brasov",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-09T15:00:00.000Z"
+    },
+    {
+        "contestant_names": "Texas Southern, (1.58) VERSES Bethune-Cookman, (2.3)",
+        "start_time_aest": "2026-03-10T02:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Texas Southern",
+                "position": "HOME",
+                "short_name": "Texas Southern"
+            },
+            {
+                "full_name": "Bethune-Cookman",
+                "position": "AWAY",
+                "short_name": "Bethune-Cookman"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Texas Southern",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Bethune-Cookman",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Texas Southern v Bethune-Cookman",
         "betOption": "Head To Head",
         "start_time": "2026-03-09T15:00:00.000Z"
     },
