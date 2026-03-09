@@ -1,38 +1,39 @@
 [
     {
-        "contestant_names": "Columbus, (1.62) VERSES Los Angeles, (2.25)",
-        "start_time_aest": "2026-03-10T07:10:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
+        "contestant_names": "Melo/Zverev, (1.65) VERSES Aliassime/Korda, (2.15)",
+        "start_time_aest": "2026-03-10T07:38:34+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Masters Doubles",
+        "tournamentName": "Masters Indian Wells Doubles",
         "contestants": [
             {
-                "full_name": "Columbus",
+                "full_name": "Melo/Zverev",
                 "position": "HOME",
-                "short_name": "Columbus"
+                "short_name": "Melo/Zverev"
             },
             {
-                "full_name": "Los Angeles",
+                "full_name": "Aliassime/Korda",
                 "position": "AWAY",
-                "short_name": "Los Angeles"
+                "short_name": "Aliassime/Korda"
             }
         ],
         "propositions": [
             {
-                "name": "Columbus",
-                "returnWin": 1.62
+                "name": "Melo/Zverev",
+                "returnWin": 1.65
             },
             {
-                "name": "Los Angeles",
-                "returnWin": 2.25
+                "name": "Aliassime/Korda",
+                "returnWin": 2.15
             }
         ],
-        "match_name": "Columbus v Los Angeles",
+        "match_name": "Melo/Zverev v Aliassime/Korda",
         "betOption": "Head To Head",
-        "start_time": "2026-03-09T20:10:00.000Z"
+        "start_time": "2026-03-09T20:38:34.000Z"
     },
     {
         "contestant_names": "Martin Landaluce, (2.1) VERSES Jack Pinnington Jones, (1.63)",
-        "start_time_aest": "2026-03-10T07:15:00+11:00",
+        "start_time_aest": "2026-03-10T07:45:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "tournamentName": "Challenger Cap Cana",
@@ -60,70 +61,132 @@
         ],
         "match_name": "Landaluce v Pinnington Jones",
         "betOption": "Head To Head",
-        "start_time": "2026-03-09T20:15:00.000Z"
+        "start_time": "2026-03-09T20:45:00.000Z"
     },
     {
-        "contestant_names": "Francisco Cerundolo, (2.5) VERSES Jack Draper, (1.5)",
-        "start_time_aest": "2026-03-10T07:15:00+11:00",
+        "contestant_names": "Zac Hamill, (2.15) VERSES Chase Zhao, (1.62)",
+        "start_time_aest": "2026-03-10T08:15:00+11:00",
         "sport_name": "Tennis",
-        "competition_name": "Masters",
-        "tournamentName": "Masters Indian Wells",
+        "competition_name": "ITF Mens",
+        "tournamentName": "ITFM Timaru",
         "contestants": [
             {
-                "full_name": "Francisco Cerundolo",
+                "full_name": "Zac Hamill",
                 "position": "HOME",
-                "short_name": "Cerundolo F"
+                "short_name": "Hamill"
             },
             {
-                "full_name": "Jack Draper",
+                "full_name": "Chase Zhao",
                 "position": "AWAY",
-                "short_name": "Draper J"
+                "short_name": "Zhao C"
             }
         ],
         "propositions": [
             {
-                "name": "Francisco Cerundolo",
-                "returnWin": 2.5
+                "name": "Zac Hamill",
+                "returnWin": 2.15
             },
             {
-                "name": "Jack Draper",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Cerundolo F v Draper J",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-09T20:15:00.000Z"
-    },
-    {
-        "contestant_names": "Melo/Zverev, (1.62) VERSES Aliassime/Korda, (2.2)",
-        "start_time_aest": "2026-03-10T07:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Masters Doubles",
-        "tournamentName": "Masters Indian Wells Doubles",
-        "contestants": [
-            {
-                "full_name": "Melo/Zverev",
-                "position": "HOME",
-                "short_name": "Melo/Zverev"
-            },
-            {
-                "full_name": "Aliassime/Korda",
-                "position": "AWAY",
-                "short_name": "Aliassime/Korda"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Melo/Zverev",
+                "name": "Chase Zhao",
                 "returnWin": 1.62
-            },
-            {
-                "name": "Aliassime/Korda",
-                "returnWin": 2.2
             }
         ],
-        "match_name": "Melo/Zverev v Aliassime/Korda",
+        "match_name": "Hamill v Zhao C",
         "betOption": "Head To Head",
-        "start_time": "2026-03-09T20:30:00.000Z"
+        "start_time": "2026-03-09T21:15:00.000Z"
+    },
+    {
+        "contestant_names": "Elise Mertens, (2) VERSES Belinda Bencic, (1.8)",
+        "start_time_aest": "2026-03-10T08:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA",
+        "tournamentName": "WTA Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Elise Mertens",
+                "position": "HOME",
+                "short_name": "Mertens E"
+            },
+            {
+                "full_name": "Belinda Bencic",
+                "position": "AWAY",
+                "short_name": "Bencic"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Elise Mertens",
+                "returnWin": 2
+            },
+            {
+                "name": "Belinda Bencic",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Mertens E v Bencic",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-09T21:30:00.000Z"
+    },
+    {
+        "contestant_names": "Texas AM-CC, (1.74) VERSES New Orleans, (2.1)",
+        "start_time_aest": "2026-03-10T09:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Texas AM-CC",
+                "position": "HOME",
+                "short_name": "Texas AM-CC"
+            },
+            {
+                "full_name": "New Orleans",
+                "position": "AWAY",
+                "short_name": "New Orleans"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Texas AM-CC",
+                "returnWin": 1.74
+            },
+            {
+                "name": "New Orleans",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Texas AM-CC v New Orleans",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-09T22:00:00.000Z"
+    },
+    {
+        "contestant_names": "Mercyhurst, (1.55) VERSES Stonehill, (2.35)",
+        "start_time_aest": "2026-03-10T09:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Mercyhurst",
+                "position": "HOME",
+                "short_name": "Mercyhurst"
+            },
+            {
+                "full_name": "Stonehill",
+                "position": "AWAY",
+                "short_name": "Stonehill"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mercyhurst",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Stonehill",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Mercyhurst v Stonehill",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-09T22:00:00.000Z"
     }
 ]
