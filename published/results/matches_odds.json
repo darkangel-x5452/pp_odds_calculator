@@ -1,71 +1,38 @@
 [
     {
-        "contestant_names": "Clement Tabur, (2.25) VERSES Kei Nishikori, (1.58)",
-        "start_time_aest": "2026-03-10T04:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Cherbourg",
+        "contestant_names": "Egersund, (2.05) VERSES Aalesunds, (1.68)",
+        "start_time_aest": "2026-03-10T05:01:00+11:00",
+        "sport_name": "Soccer",
+        "competition_name": "Norway Cup",
         "contestants": [
             {
-                "full_name": "Clement Tabur",
+                "full_name": "Egersund",
                 "position": "HOME",
-                "short_name": "Tabur C"
+                "short_name": "Egersund"
             },
             {
-                "full_name": "Kei Nishikori",
+                "full_name": "Aalesunds",
                 "position": "AWAY",
-                "short_name": "Nishikori"
+                "short_name": "Aalesunds"
             }
         ],
         "propositions": [
             {
-                "name": "Clement Tabur",
-                "returnWin": 2.25
+                "name": "Egersund",
+                "returnWin": 2.05
             },
             {
-                "name": "Kei Nishikori",
-                "returnWin": 1.58
+                "name": "Aalesunds",
+                "returnWin": 1.68
             }
         ],
-        "match_name": "Tabur C v Nishikori",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-09T17:45:00.000Z"
-    },
-    {
-        "contestant_names": "Team Spirit, (1.62) VERSES Heroic, (2.15)",
-        "start_time_aest": "2026-03-10T05:00:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "DOTA2",
-        "tournamentName": "DOTA2 - PGL Wallachia",
-        "contestants": [
-            {
-                "full_name": "Team Spirit",
-                "position": "HOME",
-                "short_name": "Team Spirit"
-            },
-            {
-                "full_name": "Heroic",
-                "position": "AWAY",
-                "short_name": "Heroic"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Team Spirit",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Heroic",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Team Spirit v Heroic",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-09T18:00:00.000Z"
+        "match_name": "Egersund v Aalesunds",
+        "betOption": "Winner of Tie",
+        "start_time": "2026-03-09T18:01:00.000Z"
     },
     {
         "contestant_names": "Jay Friend, (1.55) VERSES Taro Daniel, (2.25)",
-        "start_time_aest": "2026-03-10T05:00:00+11:00",
+        "start_time_aest": "2026-03-10T05:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "tournamentName": "Challenger Phoenix",
@@ -93,6 +60,70 @@
         ],
         "match_name": "Friend v Daniel T",
         "betOption": "Head To Head",
-        "start_time": "2026-03-09T18:00:00.000Z"
+        "start_time": "2026-03-09T18:15:00.000Z"
+    },
+    {
+        "contestant_names": "Linda Fruhvirtova, (1.72) VERSES Beatriz Haddad Maia, (2)",
+        "start_time_aest": "2026-03-10T05:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Tour",
+        "tournamentName": "WTA 125 Austin",
+        "contestants": [
+            {
+                "full_name": "Linda Fruhvirtova",
+                "position": "HOME",
+                "short_name": "Fruhvirtova L"
+            },
+            {
+                "full_name": "Beatriz Haddad Maia",
+                "position": "AWAY",
+                "short_name": "Haddad Maia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Linda Fruhvirtova",
+                "returnWin": 1.72
+            },
+            {
+                "name": "Beatriz Haddad Maia",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Fruhvirtova L v Haddad Maia",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-09T18:15:00.000Z"
+    },
+    {
+        "contestant_names": "G2, (1.7) VERSES Aurora Gaming, (2.05)",
+        "start_time_aest": "2026-03-10T05:30:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "Counter Strike 2",
+        "tournamentName": "CS2 - ESL Pro League Play In",
+        "contestants": [
+            {
+                "full_name": "G2",
+                "position": "HOME",
+                "short_name": "G2"
+            },
+            {
+                "full_name": "Aurora Gaming",
+                "position": "AWAY",
+                "short_name": "Aurora Gaming"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "G2",
+                "returnWin": 1.7
+            },
+            {
+                "name": "Aurora Gaming",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "G2 v Aurora Gaming",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-09T18:30:00.000Z"
     }
 ]
