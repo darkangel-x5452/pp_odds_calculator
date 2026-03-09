@@ -32,6 +32,38 @@
         "start_time": "2026-03-09T09:15:00.000Z"
     },
     {
+        "contestant_names": "Krystyna Pochtovyk, (1.75) VERSES Georgina Groth, (1.95)",
+        "start_time_aest": "2026-03-09T20:45:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Heraklion",
+        "contestants": [
+            {
+                "full_name": "Krystyna Pochtovyk",
+                "position": "HOME",
+                "short_name": "Pochtovyk"
+            },
+            {
+                "full_name": "Georgina Groth",
+                "position": "AWAY",
+                "short_name": "Groth G"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Krystyna Pochtovyk",
+                "returnWin": 1.75
+            },
+            {
+                "name": "Georgina Groth",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Pochtovyk v Groth G",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-09T09:45:00.000Z"
+    },
+    {
         "contestant_names": "Alexander Donski, (1.95) VERSES Nicholas David Ionel, (1.72)",
         "start_time_aest": "2026-03-09T21:00:00+11:00",
         "sport_name": "Tennis",
@@ -62,5 +94,36 @@
         "match_name": "Donski v Ionel",
         "betOption": "Head To Head",
         "start_time": "2026-03-09T10:00:00.000Z"
+    },
+    {
+        "contestant_names": "Shibuya Sun Rock, (1.73) VERSES Sendai 89ers, (1.95)",
+        "start_time_aest": "2026-03-09T21:05:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Japan B League",
+        "contestants": [
+            {
+                "full_name": "Shibuya Sun Rock",
+                "position": "HOME",
+                "short_name": "Shibuya Sun Rock"
+            },
+            {
+                "full_name": "Sendai 89ers",
+                "position": "AWAY",
+                "short_name": "Sendai 89ers"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Shibuya Sun Rock",
+                "returnWin": 1.73
+            },
+            {
+                "name": "Sendai 89ers",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Shibuya Sun Rock v Sendai 89ers",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-09T10:05:00.000Z"
     }
 ]
