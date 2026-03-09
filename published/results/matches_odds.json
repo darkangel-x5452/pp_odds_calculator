@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names": "Siena, (1.77) VERSES Fairfield, (2.05)",
-        "start_time_aest": "2026-03-09T11:37:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Siena",
-                "position": "HOME",
-                "short_name": "Siena"
-            },
-            {
-                "full_name": "Fairfield",
-                "position": "AWAY",
-                "short_name": "Fairfield"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Siena",
-                "returnWin": 1.77
-            },
-            {
-                "name": "Fairfield",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Siena v Fairfield",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-09T00:37:00.000Z"
-    },
-    {
         "contestant_names": "New Zealand, (1.72) VERSES Australia, (2)",
         "start_time_aest": "2026-03-09T11:42:00+11:00",
         "sport_name": "Rugby Union",
@@ -61,132 +30,6 @@
         "match_name": "New Zealand v Australia",
         "betOption": "Head To Head",
         "start_time": "2026-03-09T00:42:00.000Z"
-    },
-    {
-        "contestant_names": "Marshall, (1.62) VERSES Georgia Southern, (2.3)",
-        "start_time_aest": "2026-03-09T11:50:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Marshall",
-                "position": "HOME",
-                "short_name": "Marshall"
-            },
-            {
-                "full_name": "Georgia Southern",
-                "position": "AWAY",
-                "short_name": "Georgia Southern"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Marshall",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Georgia Southern",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Marshall v Georgia Southern",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-09T00:50:00.000Z"
-    },
-    {
-        "contestant_names": "Flavio Cobolli, (2.05) VERSES Frances Tiafoe, (1.75)",
-        "start_time_aest": "2026-03-09T12:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Masters",
-        "tournamentName": "Masters Indian Wells",
-        "contestants": [
-            {
-                "full_name": "Flavio Cobolli",
-                "position": "HOME",
-                "short_name": "Cobolli"
-            },
-            {
-                "full_name": "Frances Tiafoe",
-                "position": "AWAY",
-                "short_name": "Tiafoe"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Flavio Cobolli",
-                "returnWin": 2.05
-            },
-            {
-                "name": "Frances Tiafoe",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Cobolli v Tiafoe",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-09T01:00:00.000Z"
-    },
-    {
-        "contestant_names": "Medvedev/Tien, (2.25) VERSES Rinderknech/Vacherot, (1.6)",
-        "start_time_aest": "2026-03-09T12:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Masters Doubles",
-        "tournamentName": "Masters Indian Wells Doubles",
-        "contestants": [
-            {
-                "full_name": "Medvedev/Tien",
-                "position": "HOME",
-                "short_name": "Medvedev/Tien"
-            },
-            {
-                "full_name": "Rinderknech/Vacherot",
-                "position": "AWAY",
-                "short_name": "Rinderknech/Vacherot"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Medvedev/Tien",
-                "returnWin": 2.25
-            },
-            {
-                "name": "Rinderknech/Vacherot",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Medvedev/Tien v Rinderknech/Vacherot",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-09T01:00:00.000Z"
-    },
-    {
-        "contestant_names": "River Plate, (2.2) VERSES Monteros, (1.6)",
-        "start_time_aest": "2026-03-09T12:00:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Argentina LVA",
-        "contestants": [
-            {
-                "full_name": "River Plate",
-                "position": "HOME",
-                "short_name": "River Plate"
-            },
-            {
-                "full_name": "Monteros",
-                "position": "AWAY",
-                "short_name": "Monteros"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "River Plate",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Monteros",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "River Plate v Monteros",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-09T01:00:00.000Z"
     },
     {
         "contestant_names": "Anaheim, (1.55) VERSES St Louis, (2.4)",
@@ -249,6 +92,38 @@
         "match_name": "Sacramento v Chicago",
         "betOption": "Head To Head",
         "start_time": "2026-03-09T01:10:00.000Z"
+    },
+    {
+        "contestant_names": "Flavio Cobolli, (2.1) VERSES Frances Tiafoe, (1.7)",
+        "start_time_aest": "2026-03-09T12:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Masters",
+        "tournamentName": "Masters Indian Wells",
+        "contestants": [
+            {
+                "full_name": "Flavio Cobolli",
+                "position": "HOME",
+                "short_name": "Cobolli"
+            },
+            {
+                "full_name": "Frances Tiafoe",
+                "position": "AWAY",
+                "short_name": "Tiafoe"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Flavio Cobolli",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Frances Tiafoe",
+                "returnWin": 1.7
+            }
+        ],
+        "match_name": "Cobolli v Tiafoe",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-09T01:15:00.000Z"
     },
     {
         "contestant_names": "PALMA Adan, (1.7) VERSES RUBIO JR Pablo, (2.1)",
