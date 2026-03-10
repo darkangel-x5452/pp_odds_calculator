@@ -1,34 +1,66 @@
 [
     {
-        "contestant_names_odds": "Paris, (2.5) VERSES Olympiacos, (1.5)",
-        "contestant_names": "Paris VERSES Olympiacos",
-        "start_time_aest": "2026-03-11T06:45:00+11:00",
+        "contestant_names_odds": "SMU, (1.55) VERSES Syracuse, (2.45)",
+        "contestant_names": "SMU VERSES Syracuse",
+        "start_time_aest": "2026-03-11T07:30:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "EuroLeague",
+        "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Paris",
+                "full_name": "SMU",
                 "position": "HOME",
-                "short_name": "Paris"
+                "short_name": "SMU"
             },
             {
-                "full_name": "Olympiacos",
+                "full_name": "Syracuse",
                 "position": "AWAY",
-                "short_name": "Olympiacos"
+                "short_name": "Syracuse"
             }
         ],
         "propositions": [
             {
-                "name": "Paris",
-                "returnWin": 2.5
+                "name": "SMU",
+                "returnWin": 1.55
             },
             {
-                "name": "Olympiacos",
-                "returnWin": 1.5
+                "name": "Syracuse",
+                "returnWin": 2.45
             }
         ],
-        "match_name": "Paris v Olympiacos",
+        "match_name": "SMU v Syracuse",
         "betOption": "Head To Head",
-        "start_time": "2026-03-10T19:45:00.000Z"
+        "start_time": "2026-03-10T20:30:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Oregon, (1.55) VERSES Maryland, (2.45)",
+        "contestant_names": "Oregon VERSES Maryland",
+        "start_time_aest": "2026-03-11T08:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Oregon",
+                "position": "HOME",
+                "short_name": "Oregon"
+            },
+            {
+                "full_name": "Maryland",
+                "position": "AWAY",
+                "short_name": "Maryland"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Oregon",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Maryland",
+                "returnWin": 2.45
+            }
+        ],
+        "match_name": "Oregon v Maryland",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-10T21:00:00.000Z"
     }
 ]
