@@ -1,69 +1,5 @@
 [
     {
-        "contestant_names": "Yushan Shao, (2.5) VERSES Priska Madelyn Nugroho, (1.46)",
-        "start_time_aest": "2026-03-10T18:11:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "tournamentName": "ITFW Maanshan",
-        "contestants": [
-            {
-                "full_name": "Yushan Shao",
-                "position": "HOME",
-                "short_name": "Shao"
-            },
-            {
-                "full_name": "Priska Madelyn Nugroho",
-                "position": "AWAY",
-                "short_name": "Nugroho"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Yushan Shao",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Priska Madelyn Nugroho",
-                "returnWin": 1.46
-            }
-        ],
-        "match_name": "Shao v Nugroho",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-10T07:11:00.000Z"
-    },
-    {
-        "contestant_names": "Allura Zamarripa, (2) VERSES Tatiana Pieri, (1.72)",
-        "start_time_aest": "2026-03-10T18:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Womens",
-        "tournamentName": "ITFW Heraklion",
-        "contestants": [
-            {
-                "full_name": "Allura Zamarripa",
-                "position": "HOME",
-                "short_name": "Zamarripa A"
-            },
-            {
-                "full_name": "Tatiana Pieri",
-                "position": "AWAY",
-                "short_name": "Pieri T"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Allura Zamarripa",
-                "returnWin": 2
-            },
-            {
-                "name": "Tatiana Pieri",
-                "returnWin": 1.72
-            }
-        ],
-        "match_name": "Zamarripa A v Pieri T",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-10T07:30:00.000Z"
-    },
-    {
         "contestant_names": "PARIVISION, (1.65) VERSES Team Yandex, (2.1)",
         "start_time_aest": "2026-03-10T19:00:00+11:00",
         "sport_name": "Esports",
@@ -190,5 +126,69 @@
         "match_name": "Kopp v Hemery",
         "betOption": "Head To Head",
         "start_time": "2026-03-10T08:00:00.000Z"
+    },
+    {
+        "contestant_names": "Justas Trainauskas, (1.6) VERSES Arturs Zagars, (2.2)",
+        "start_time_aest": "2026-03-10T19:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Mens",
+        "tournamentName": "ITFM Sharm El Sheikh",
+        "contestants": [
+            {
+                "full_name": "Justas Trainauskas",
+                "position": "HOME",
+                "short_name": "Trainauskas"
+            },
+            {
+                "full_name": "Arturs Zagars",
+                "position": "AWAY",
+                "short_name": "Zagars"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Justas Trainauskas",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Arturs Zagars",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Trainauskas v Zagars",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-10T08:15:00.000Z"
+    },
+    {
+        "contestant_names": "Yiru Chen, (1.5) VERSES Vera Khrushchyk, (2.4)",
+        "start_time_aest": "2026-03-10T19:15:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Sharm El Sheikh",
+        "contestants": [
+            {
+                "full_name": "Yiru Chen",
+                "position": "HOME",
+                "short_name": "Chen Y"
+            },
+            {
+                "full_name": "Vera Khrushchyk",
+                "position": "AWAY",
+                "short_name": "Khrushchyk"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Yiru Chen",
+                "returnWin": 1.5
+            },
+            {
+                "name": "Vera Khrushchyk",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Chen Y v Khrushchyk",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-10T08:15:00.000Z"
     }
 ]
