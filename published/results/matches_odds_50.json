@@ -1,74 +1,8 @@
 [
     {
-        "contestant_names_odds": "Erjavec/Udvardy, (1.95) VERSES Kempen/Pridankina, (1.75)",
-        "contestant_names": "Erjavec/Udvardy VERSES Kempen/Pridankina",
-        "start_time_aest": "2026-03-10T21:40:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA 125 Doubles",
-        "tournamentName": "WTA 125 Antalya 3 Doubles",
-        "contestants": [
-            {
-                "full_name": "Erjavec/Udvardy",
-                "position": "HOME",
-                "short_name": "Erjavec/Udvardy"
-            },
-            {
-                "full_name": "Kempen/Pridankina",
-                "position": "AWAY",
-                "short_name": "Kempen/Pridankina"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Erjavec/Udvardy",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Kempen/Pridankina",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Erjavec/Udvardy v Kempen/Pridankina",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-10T10:40:00.000Z"
-    },
-    {
-        "contestant_names_odds": "Thando Longwe Smit, (1.95) VERSES Arvid Nordquist, (1.75)",
-        "contestant_names": "Thando Longwe Smit VERSES Arvid Nordquist",
-        "start_time_aest": "2026-03-10T21:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "ITF Mens",
-        "tournamentName": "ITFM Monastir",
-        "contestants": [
-            {
-                "full_name": "Thando Longwe Smit",
-                "position": "HOME",
-                "short_name": "Smit T"
-            },
-            {
-                "full_name": "Arvid Nordquist",
-                "position": "AWAY",
-                "short_name": "Nordquist A"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Thando Longwe Smit",
-                "returnWin": 1.95
-            },
-            {
-                "name": "Arvid Nordquist",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "Smit T v Nordquist A",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-10T10:45:00.000Z"
-    },
-    {
         "contestant_names_odds": "Sarah Van Emst, (1.75) VERSES Andreea Prisacariu, (1.95)",
         "contestant_names": "Sarah Van Emst VERSES Andreea Prisacariu",
-        "start_time_aest": "2026-03-10T22:00:00+11:00",
+        "start_time_aest": "2026-03-10T22:40:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "ITF Womens",
         "tournamentName": "ITFW Monastir",
@@ -96,6 +30,39 @@
         ],
         "match_name": "Van Emst v Prisacariu",
         "betOption": "Head To Head",
-        "start_time": "2026-03-10T11:00:00.000Z"
+        "start_time": "2026-03-10T11:40:00.000Z",
+        "start_time_aest_old": "2026-03-10T22:00:00+11:00"
+    },
+    {
+        "contestant_names_odds": "Anhui Wenyi, (1.9) VERSES Shijiazhuang Xia, (1.77)",
+        "contestant_names": "Anhui Wenyi VERSES Shijiazhuang Xia",
+        "start_time_aest": "2026-03-10T22:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "China NBL",
+        "contestants": [
+            {
+                "full_name": "Anhui Wenyi",
+                "position": "HOME",
+                "short_name": "Anhui Wenyi"
+            },
+            {
+                "full_name": "Shijiazhuang Xia",
+                "position": "AWAY",
+                "short_name": "Shijiazhuang Xia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Anhui Wenyi",
+                "returnWin": 1.9
+            },
+            {
+                "name": "Shijiazhuang Xia",
+                "returnWin": 1.77
+            }
+        ],
+        "match_name": "Anhui Wenyi v Shijiazhuang Xia",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-10T11:30:00.000Z"
     }
 ]
