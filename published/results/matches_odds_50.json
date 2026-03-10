@@ -1,72 +1,5 @@
 [
     {
-        "contestant_names_odds": "Heroic, (1.87) VERSES Natus Vincere, (1.87)",
-        "contestant_names": "Heroic VERSES Natus Vincere",
-        "start_time_aest": "2026-03-11T02:00:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "DOTA2",
-        "tournamentName": "DOTA2 - PGL Wallachia",
-        "contestants": [
-            {
-                "full_name": "Heroic",
-                "position": "HOME",
-                "short_name": "Heroic"
-            },
-            {
-                "full_name": "Natus Vincere",
-                "position": "AWAY",
-                "short_name": "Natus Vincere"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Heroic",
-                "returnWin": 1.87
-            },
-            {
-                "name": "Natus Vincere",
-                "returnWin": 1.87
-            }
-        ],
-        "match_name": "Heroic v Natus Vincere",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-10T15:00:00.000Z",
-        "start_time_aest_old": "2026-03-11T01:00:00+11:00"
-    },
-    {
-        "contestant_names_odds": "Antoine Ghibaudo, (1.9) VERSES Gilles Bailly, (1.8)",
-        "contestant_names": "Antoine Ghibaudo VERSES Gilles Bailly",
-        "start_time_aest": "2026-03-11T01:15:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Cherbourg",
-        "contestants": [
-            {
-                "full_name": "Antoine Ghibaudo",
-                "position": "HOME",
-                "short_name": "Ghibaudo A"
-            },
-            {
-                "full_name": "Gilles Bailly",
-                "position": "AWAY",
-                "short_name": "Bailly G"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Antoine Ghibaudo",
-                "returnWin": 1.9
-            },
-            {
-                "name": "Gilles Bailly",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "Ghibaudo A v Bailly G",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-10T14:15:00.000Z"
-    },
-    {
         "contestant_names_odds": "G2, (1.75) VERSES FUT Esports, (1.95)",
         "contestant_names": "G2 VERSES FUT Esports",
         "start_time_aest": "2026-03-11T02:00:00+11:00",
@@ -96,6 +29,39 @@
             }
         ],
         "match_name": "G2 v FUT Esports",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-10T15:00:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Heroic, (1.87) VERSES Natus Vincere, (1.87)",
+        "contestant_names": "Heroic VERSES Natus Vincere",
+        "start_time_aest": "2026-03-11T02:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "tournamentName": "DOTA2 - PGL Wallachia",
+        "contestants": [
+            {
+                "full_name": "Heroic",
+                "position": "HOME",
+                "short_name": "Heroic"
+            },
+            {
+                "full_name": "Natus Vincere",
+                "position": "AWAY",
+                "short_name": "Natus Vincere"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Heroic",
+                "returnWin": 1.87
+            },
+            {
+                "name": "Natus Vincere",
+                "returnWin": 1.87
+            }
+        ],
+        "match_name": "Heroic v Natus Vincere",
         "betOption": "Head To Head",
         "start_time": "2026-03-10T15:00:00.000Z"
     }
