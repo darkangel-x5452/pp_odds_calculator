@@ -1,8 +1,41 @@
 [
     {
+        "contestant_names_odds": "Andreozzi/Guinard, (2.3) VERSES Miedler/Cabral, (1.58)",
+        "contestant_names": "Andreozzi/Guinard VERSES Miedler/Cabral",
+        "start_time_aest": "2026-03-11T05:05:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Masters Doubles",
+        "tournamentName": "Masters Indian Wells Doubles",
+        "contestants": [
+            {
+                "full_name": "Andreozzi/Guinard",
+                "position": "HOME",
+                "short_name": "Andreozzi/Guinard"
+            },
+            {
+                "full_name": "Miedler/Cabral",
+                "position": "AWAY",
+                "short_name": "Miedler/Cabral"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Andreozzi/Guinard",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Miedler/Cabral",
+                "returnWin": 1.58
+            }
+        ],
+        "match_name": "Andreozzi/Guinard v Miedler/Cabral",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-10T18:05:00.000Z"
+    },
+    {
         "contestant_names_odds": "Astralis, (2.4) VERSES FURIA, (1.5)",
         "contestant_names": "Astralis VERSES FURIA",
-        "start_time_aest": "2026-03-11T04:50:00+11:00",
+        "start_time_aest": "2026-03-11T05:40:00+11:00",
         "sport_name": "Esports",
         "competition_name": "Counter Strike 2",
         "tournamentName": "CS2 - ESL Pro League Play In",
@@ -30,72 +63,38 @@
         ],
         "match_name": "Astralis v Furia",
         "betOption": "Head To Head",
-        "start_time": "2026-03-10T17:50:00.000Z",
-        "start_time_aest_old": "2026-03-11T04:30:00+11:00"
+        "start_time": "2026-03-10T18:40:00.000Z"
     },
     {
-        "contestant_names_odds": "Latvijas Univers, (2.05) VERSES BK Liepaja, (1.68)",
-        "contestant_names": "Latvijas Univers VERSES BK Liepaja",
-        "start_time_aest": "2026-03-11T05:00:00+11:00",
+        "contestant_names_odds": "Nanterre, (1.68) VERSES Monaco, (2.05)",
+        "contestant_names": "Nanterre VERSES Monaco",
+        "start_time_aest": "2026-03-11T06:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Latvia-Estonia Basketball League",
+        "competition_name": "France Cup",
         "contestants": [
             {
-                "full_name": "Latvijas Univers",
+                "full_name": "Nanterre",
                 "position": "HOME",
-                "short_name": "Latvijas Univers"
+                "short_name": "Nanterre"
             },
             {
-                "full_name": "BK Liepaja",
+                "full_name": "Monaco",
                 "position": "AWAY",
-                "short_name": "BK Liepaja"
+                "short_name": "Monaco"
             }
         ],
         "propositions": [
             {
-                "name": "Latvijas Univers",
-                "returnWin": 2.05
-            },
-            {
-                "name": "BK Liepaja",
+                "name": "Nanterre",
                 "returnWin": 1.68
-            }
-        ],
-        "match_name": "Latvijas Univers v BK Liepaja",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-10T18:00:00.000Z"
-    },
-    {
-        "contestant_names_odds": "G2 Esports, (1.52) VERSES BBL Esports, (2.35)",
-        "contestant_names": "G2 Esports VERSES BBL Esports",
-        "start_time_aest": "2026-03-11T05:00:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "Valorant",
-        "tournamentName": "Valorant - Masters Santiago",
-        "contestants": [
-            {
-                "full_name": "G2 Esports",
-                "position": "HOME",
-                "short_name": "G2 Esports"
             },
             {
-                "full_name": "BBL Esports",
-                "position": "AWAY",
-                "short_name": "BBL Esports"
+                "name": "Monaco",
+                "returnWin": 2.05
             }
         ],
-        "propositions": [
-            {
-                "name": "G2 Esports",
-                "returnWin": 1.52
-            },
-            {
-                "name": "BBL Esports",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "G2 Esports v BBL Esports",
+        "match_name": "Nanterre v Monaco",
         "betOption": "Head To Head",
-        "start_time": "2026-03-10T18:00:00.000Z"
+        "start_time": "2026-03-10T19:00:00.000Z"
     }
 ]
