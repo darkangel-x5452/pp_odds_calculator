@@ -1,39 +1,7 @@
 [
     {
-        "contestant_names": "Arantxa Rus, (1.75) VERSES Ekaterine Gorgodze, (1.95)",
-        "start_time_aest": "2026-03-10T18:45:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA 125 Tour",
-        "tournamentName": "WTA 125 Antalya 3",
-        "contestants": [
-            {
-                "full_name": "Arantxa Rus",
-                "position": "HOME",
-                "short_name": "Rus"
-            },
-            {
-                "full_name": "Ekaterine Gorgodze",
-                "position": "AWAY",
-                "short_name": "Gorgodze E"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Arantxa Rus",
-                "returnWin": 1.75
-            },
-            {
-                "name": "Ekaterine Gorgodze",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Rus v Gorgodze E",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-10T07:45:00.000Z"
-    },
-    {
-        "contestant_names": "Peter Makk, (1.95) VERSES Philip Henning, (1.75)",
-        "start_time_aest": "2026-03-10T19:00:00+11:00",
+        "contestant_names": "Peter Makk, (1.9) VERSES Philip Henning, (1.8)",
+        "start_time_aest": "2026-03-10T19:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "Challenger",
         "tournamentName": "Challenger Hersonissos 2",
@@ -52,15 +20,46 @@
         "propositions": [
             {
                 "name": "Peter Makk",
-                "returnWin": 1.95
+                "returnWin": 1.9
             },
             {
                 "name": "Philip Henning",
-                "returnWin": 1.75
+                "returnWin": 1.8
             }
         ],
         "match_name": "Makk v Henning",
         "betOption": "Head To Head",
-        "start_time": "2026-03-10T08:00:00.000Z"
+        "start_time": "2026-03-10T08:15:00.000Z"
+    },
+    {
+        "contestant_names": "Adelaide, (1.95) VERSES South East Melb, (1.85)",
+        "start_time_aest": "2026-03-10T19:37:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBL",
+        "contestants": [
+            {
+                "full_name": "Adelaide",
+                "position": "HOME",
+                "short_name": "Adelaide"
+            },
+            {
+                "full_name": "South East Melb",
+                "position": "AWAY",
+                "short_name": "South East Melb"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Adelaide",
+                "returnWin": 1.95
+            },
+            {
+                "name": "South East Melb",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Adelaide v South East Melb",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-10T08:37:00.000Z"
     }
 ]
