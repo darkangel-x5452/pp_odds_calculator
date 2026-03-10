@@ -94,5 +94,37 @@
         "match_name": "Rus v Gorgodze E",
         "betOption": "Head To Head",
         "start_time": "2026-03-10T07:30:00.000Z"
+    },
+    {
+        "contestant_names": "Peter Makk, (1.95) VERSES Philip Henning, (1.75)",
+        "start_time_aest": "2026-03-10T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Hersonissos 2",
+        "contestants": [
+            {
+                "full_name": "Peter Makk",
+                "position": "HOME",
+                "short_name": "Makk"
+            },
+            {
+                "full_name": "Philip Henning",
+                "position": "AWAY",
+                "short_name": "Henning"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Peter Makk",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Philip Henning",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Makk v Henning",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-10T08:00:00.000Z"
     }
 ]
