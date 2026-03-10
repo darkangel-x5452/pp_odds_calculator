@@ -87,12 +87,40 @@ class GetMatchesOdds:
         with open(historical_matches_fp, "r") as f:
             historical_matches: list[dict] = json.load(f)
 
-        adding_matches_ls = existing_matches.copy()
+        existing_matches_ls = existing_matches.copy()
+
+        # final_current_ls = []
+        revised_cln_match_ls = []
+        # Update existing matches with new datetime if exists
+        # Add new matches to the list
+        for _existing_match in existing_matches_ls:
+            match_exists = False
+            for _new_match in final_matches_ls:
+                if (
+                    _new_match["match_name"] == _existing_match["match_name"]
+                    # and _new_match["start_time"] == _existing_match["start_time"]
+                    and _new_match["competition_name"]
+                    == _existing_match["competition_name"]
+                    and _new_match["sport_name"] == _existing_match["sport_name"]
+                ):
+                    match_exists = True
+                    if (
+                        _existing_match["start_time_aest"]
+                        != _new_match["start_time_aest"]
+                        and "start_time_aest_old" not in _existing_match.keys()
+                    ):
+                        _new_match.update(
+                            {"start_time_aest_old": _existing_match["start_time_aest"]}
+                        )
+                    break
+            if match_exists is False:
+                revised_cln_match_ls.append(_existing_match)
+        revised_cln_match_ls.extend(final_matches_ls)
 
         # remove outdated matches
         current_dt = datetime.now(tz=ZoneInfo("Australia/Sydney"))
         filtered_matches_ls = []
-        for _existing_match in adding_matches_ls:
+        for _existing_match in revised_cln_match_ls:
             match_start_time = datetime.fromisoformat(
                 _existing_match["start_time_aest"]
             )
@@ -100,29 +128,33 @@ class GetMatchesOdds:
                 filtered_matches_ls.append(_existing_match)
             else:
                 historical_matches.append(_existing_match)
-        adding_matches_ls = filtered_matches_ls
+        existing_matches_ls_new = filtered_matches_ls
 
-        # Add new matches to the list
-        for _new_match in final_matches_ls:
-            match_exists = False
-            for _existing_match in adding_matches_ls:
-                if (
-                    _new_match["match_name"] == _existing_match["match_name"]
-                    and _new_match["start_time"] == _existing_match["start_time"]
-                    and _new_match["competition_name"]
-                    == _existing_match["competition_name"]
-                    and _new_match["sport_name"] == _existing_match["sport_name"]
-                ):
-                    match_exists = True
-                    break
-            if match_exists is False:
-                adding_matches_ls.append(_new_match)
+        repeated_dicts = [
+            _dict
+            for _dict in existing_matches_ls_new
+            if "start_time_aest_old" in _dict.keys()
+        ]
+        new_dicts = [
+            _dict
+            for _dict in existing_matches_ls_new
+            if "start_time_aest_old" not in _dict.keys()
+        ]
 
-        adding_matches_ls.sort(
+        repeated_dicts.sort(
             key=lambda x: datetime.fromisoformat(x["start_time_aest"]), reverse=False
         )
+        new_dicts.sort(
+            key=lambda x: datetime.fromisoformat(x["start_time_aest"]), reverse=False
+        )
+        repeated_dicts.extend(new_dicts)
+
+        final_current_matches = repeated_dicts.copy()
+        # existing_matches_ls_new.sort(
+        #     key=lambda x: datetime.fromisoformat(x["start_time_aest"]), reverse=False
+        # )
         with open(current_matches_fp, "w") as f:
-            json.dump(adding_matches_ls, f, indent=4)
+            json.dump(final_current_matches, f, indent=4)
 
         historical_matches.sort(
             key=lambda x: datetime.fromisoformat(x["start_time_aest"]), reverse=False
@@ -267,9 +299,11 @@ class GetMatchesOdds:
                         value = new_copy.pop(key)
                         cleaned_contestants_new.append({key: value, **new_copy})
                 cleaned_contestants = cleaned_contestants_new.copy()
-                proposition_names = [
+                proposition_names_odds = [
                     f"{p['name']}, ({p['returnWin']})" for p in clean_propositions
                 ]
+                proposition_names = [f"{p['name']}" for p in clean_propositions]
+                contestant_full_names_odds = " VERSES ".join(proposition_names_odds)
                 contestant_full_names = " VERSES ".join(proposition_names)
                 if any([two_lower_flag, two_fifty_flag]):
                     start_time_aest = datetime.fromisoformat(
@@ -280,6 +314,7 @@ class GetMatchesOdds:
                     aest_dt_iso = aest_dt.isoformat()
 
                     match_details = {
+                        "contestant_names_odds": contestant_full_names_odds,
                         "contestant_names": contestant_full_names,
                         "start_time_aest": aest_dt_iso,
                         "sport_name": sportName,
