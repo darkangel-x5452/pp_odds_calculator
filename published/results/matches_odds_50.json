@@ -2,7 +2,7 @@
     {
         "contestant_names_odds": "Lucrezia Stefanini, (1.9) VERSES Sinja Kraus, (1.8)",
         "contestant_names": "Lucrezia Stefanini VERSES Sinja Kraus",
-        "start_time_aest": "2026-03-11T05:45:00+11:00",
+        "start_time_aest": "2026-03-11T06:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA 125 Tour",
         "tournamentName": "WTA 125 Austin",
@@ -30,7 +30,72 @@
         ],
         "match_name": "Stefanini L v Kraus",
         "betOption": "Head To Head",
-        "start_time": "2026-03-10T18:45:00.000Z",
-        "start_time_aest_old": "2026-03-11T05:15:00+11:00"
+        "start_time": "2026-03-10T19:15:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Tom Paris, (1.9) VERSES Lucas Poullain, (1.8)",
+        "contestant_names": "Tom Paris VERSES Lucas Poullain",
+        "start_time_aest": "2026-03-11T06:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Cherbourg",
+        "contestants": [
+            {
+                "full_name": "Tom Paris",
+                "position": "HOME",
+                "short_name": "Paris T"
+            },
+            {
+                "full_name": "Lucas Poullain",
+                "position": "AWAY",
+                "short_name": "Poullain"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Tom Paris",
+                "returnWin": 1.9
+            },
+            {
+                "name": "Lucas Poullain",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Paris T v Poullain",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-10T19:30:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Bhambri/Goransson, (1.87) VERSES Arends/Lehecka, (1.87)",
+        "contestant_names": "Bhambri/Goransson VERSES Arends/Lehecka",
+        "start_time_aest": "2026-03-11T06:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Masters Doubles",
+        "tournamentName": "Masters Indian Wells Doubles",
+        "contestants": [
+            {
+                "full_name": "Bhambri/Goransson",
+                "position": "HOME",
+                "short_name": "Bhambri/Goransson"
+            },
+            {
+                "full_name": "Arends/Lehecka",
+                "position": "AWAY",
+                "short_name": "Arends/Lehecka"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bhambri/Goransson",
+                "returnWin": 1.87
+            },
+            {
+                "name": "Arends/Lehecka",
+                "returnWin": 1.87
+            }
+        ],
+        "match_name": "Bhambri/Goransson v Arends/Lehecka",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-10T19:30:00.000Z"
     }
 ]
