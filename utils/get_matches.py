@@ -23,6 +23,11 @@ class GetMatchesOdds:
             "Away Team Points Odd/Even",
         ]
 
+        self.doubles_only_sports = [
+            "tennis",
+            "badminton",
+            ]
+
         self.ignore_sports = [
             "cricket",  # Too long and can be cancelled for weather
             "golf",  # Too long and can be cancelled for weather
@@ -290,6 +295,12 @@ class GetMatchesOdds:
                 else:
                     cleaned_contestants[0]["full_name"] = full_name_0
                     cleaned_contestants[1]["full_name"] = full_name_1
+                doubles_or_other_flag = True
+                if sportName.lower() in self.doubles_only_sports and "/" not in full_name_0 and "/" not in full_name_1:
+                    print(
+                        f"Expected doubles match for '{sportName}' but got '{match_name}' with propositions '{full_name_0}' and '{full_name_1}'"
+                    )
+                    doubles_or_other_flag = False
 
                 key = "full_name"
                 cleaned_contestants_new: list[dict] = []
@@ -332,7 +343,7 @@ class GetMatchesOdds:
                     if tournamentName is None:
                         match_details.pop("tournamentName")
 
-                if two_lower_flag is True:
+                if two_lower_flag is True and doubles_or_other_flag is True:
                     all_matches_ls["lower_odds"].append(match_details.copy())
                 if two_fifty_flag is True:
                     all_matches_ls["fifty_odds"].append(match_details.copy())
