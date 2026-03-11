@@ -31,5 +31,37 @@
         "match_name": "Franziska v Lebrun A",
         "betOption": "Head To Head",
         "start_time": "2026-03-11T09:35:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Changwon Sakers, (1.45) VERSES Goyang, (2.5)",
+        "contestant_names": "Changwon Sakers VERSES Goyang",
+        "start_time_aest": "2026-03-11T21:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "South Korea KBL",
+        "contestants": [
+            {
+                "full_name": "Changwon Sakers",
+                "position": "HOME",
+                "short_name": "Changwon Sakers"
+            },
+            {
+                "full_name": "Goyang",
+                "position": "AWAY",
+                "short_name": "Goyang"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Changwon Sakers",
+                "returnWin": 1.45
+            },
+            {
+                "name": "Goyang",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Changwon Sakers v Goyang",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-11T10:00:00.000Z"
     }
 ]
