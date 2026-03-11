@@ -31,5 +31,38 @@
         "match_name": "Giustino v Henning",
         "betOption": "Head To Head",
         "start_time": "2026-03-11T08:00:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Paul Jubb, (1.95) VERSES Harry Wendelken, (1.75)",
+        "contestant_names": "Paul Jubb VERSES Harry Wendelken",
+        "start_time_aest": "2026-03-11T19:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Hersonissos 2",
+        "contestants": [
+            {
+                "full_name": "Paul Jubb",
+                "position": "HOME",
+                "short_name": "Jubb"
+            },
+            {
+                "full_name": "Harry Wendelken",
+                "position": "AWAY",
+                "short_name": "Wendelken"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Paul Jubb",
+                "returnWin": 1.95
+            },
+            {
+                "name": "Harry Wendelken",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Jubb v Wendelken",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-11T08:00:00.000Z"
     }
 ]
