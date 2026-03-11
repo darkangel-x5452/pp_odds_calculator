@@ -1,165 +1,5 @@
 [
     {
-        "contestant_names_odds": "Dallas, (1.62) VERSES Las Vegas, (2.25)",
-        "contestant_names": "Dallas VERSES Las Vegas",
-        "start_time_aest": "2026-03-11T11:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Dallas",
-                "position": "HOME",
-                "short_name": "Dallas"
-            },
-            {
-                "full_name": "Las Vegas",
-                "position": "AWAY",
-                "short_name": "Las Vegas"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Dallas",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Las Vegas",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Dallas v Las Vegas",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-11T00:05:00.000Z"
-    },
-    {
-        "contestant_names_odds": "Minnesota, (1.62) VERSES Utah, (2.25)",
-        "contestant_names": "Minnesota VERSES Utah",
-        "start_time_aest": "2026-03-11T11:05:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Minnesota",
-                "position": "HOME",
-                "short_name": "Minnesota"
-            },
-            {
-                "full_name": "Utah",
-                "position": "AWAY",
-                "short_name": "Utah"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Minnesota",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Utah",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Minnesota v Utah",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-11T00:05:00.000Z"
-    },
-    {
-        "contestant_names_odds": "Milwaukee, (2.1) VERSES Phoenix, (1.77)",
-        "contestant_names": "Milwaukee VERSES Phoenix",
-        "start_time_aest": "2026-03-11T11:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Milwaukee",
-                "position": "HOME",
-                "short_name": "Milwaukee"
-            },
-            {
-                "full_name": "Phoenix",
-                "position": "AWAY",
-                "short_name": "Phoenix"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Milwaukee",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Phoenix",
-                "returnWin": 1.77
-            }
-        ],
-        "match_name": "Milwaukee v Phoenix",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-11T00:10:00.000Z"
-    },
-    {
-        "contestant_names_odds": "San Antonio, (1.62) VERSES Boston, (2.35)",
-        "contestant_names": "San Antonio VERSES Boston",
-        "start_time_aest": "2026-03-11T11:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "San Antonio",
-                "position": "HOME",
-                "short_name": "San Antonio"
-            },
-            {
-                "full_name": "Boston",
-                "position": "AWAY",
-                "short_name": "Boston"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "San Antonio",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Boston",
-                "returnWin": 2.35
-            }
-        ],
-        "match_name": "San Antonio v Boston",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-11T00:10:00.000Z"
-    },
-    {
-        "contestant_names_odds": "Urunday, (2) VERSES Bigua, (1.7)",
-        "contestant_names": "Urunday VERSES Bigua",
-        "start_time_aest": "2026-03-11T11:15:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Uruguay LUB",
-        "contestants": [
-            {
-                "full_name": "Urunday",
-                "position": "HOME",
-                "short_name": "Urunday"
-            },
-            {
-                "full_name": "Bigua",
-                "position": "AWAY",
-                "short_name": "Bigua"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Urunday",
-                "returnWin": 2
-            },
-            {
-                "name": "Bigua",
-                "returnWin": 1.7
-            }
-        ],
-        "match_name": "Urunday v Bigua",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-11T00:15:00.000Z"
-    },
-    {
         "contestant_names_odds": "Winnipeg, (1.7) VERSES Anaheim, (2.1)",
         "contestant_names": "Winnipeg VERSES Anaheim",
         "start_time_aest": "2026-03-11T11:35:00+11:00",
@@ -222,5 +62,37 @@
         "match_name": "Portland State v Montana",
         "betOption": "Head To Head",
         "start_time": "2026-03-11T01:00:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Colorado, (1.8) VERSES Oklahoma State, (2)",
+        "contestant_names": "Colorado VERSES Oklahoma State",
+        "start_time_aest": "2026-03-11T12:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Colorado",
+                "position": "HOME",
+                "short_name": "Colorado"
+            },
+            {
+                "full_name": "Oklahoma State",
+                "position": "AWAY",
+                "short_name": "Oklahoma State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Colorado",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Oklahoma State",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "Colorado v Oklahoma State",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-11T01:30:00.000Z"
     }
 ]
