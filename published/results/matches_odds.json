@@ -1,69 +1,5 @@
 [
     {
-        "contestant_names_odds": "Winnipeg, (1.7) VERSES Anaheim, (2.1)",
-        "contestant_names": "Winnipeg VERSES Anaheim",
-        "start_time_aest": "2026-03-11T11:35:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Winnipeg",
-                "position": "HOME",
-                "short_name": "Winnipeg"
-            },
-            {
-                "full_name": "Anaheim",
-                "position": "AWAY",
-                "short_name": "Anaheim"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Winnipeg",
-                "returnWin": 1.7
-            },
-            {
-                "name": "Anaheim",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Winnipeg v Anaheim",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-11T00:35:00.000Z"
-    },
-    {
-        "contestant_names_odds": "Portland State, (1.58) VERSES Montana, (2.4)",
-        "contestant_names": "Portland State VERSES Montana",
-        "start_time_aest": "2026-03-11T12:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Portland State",
-                "position": "HOME",
-                "short_name": "Portland State"
-            },
-            {
-                "full_name": "Montana",
-                "position": "AWAY",
-                "short_name": "Montana"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Portland State",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Montana",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Portland State v Montana",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-11T01:00:00.000Z"
-    },
-    {
         "contestant_names_odds": "Colorado, (1.8) VERSES Oklahoma State, (2)",
         "contestant_names": "Colorado VERSES Oklahoma State",
         "start_time_aest": "2026-03-11T12:30:00+11:00",
@@ -94,5 +30,69 @@
         "match_name": "Colorado v Oklahoma State",
         "betOption": "Head To Head",
         "start_time": "2026-03-11T01:30:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Colorado, (1.58) VERSES Edmonton, (2.35)",
+        "contestant_names": "Colorado VERSES Edmonton",
+        "start_time_aest": "2026-03-11T13:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Colorado",
+                "position": "HOME",
+                "short_name": "Colorado"
+            },
+            {
+                "full_name": "Edmonton",
+                "position": "AWAY",
+                "short_name": "Edmonton"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Colorado",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Edmonton",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Colorado v Edmonton",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-11T02:05:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Portland, (2.3) VERSES Charlotte, (1.65)",
+        "contestant_names": "Portland VERSES Charlotte",
+        "start_time_aest": "2026-03-11T13:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "contestants": [
+            {
+                "full_name": "Portland",
+                "position": "HOME",
+                "short_name": "Portland"
+            },
+            {
+                "full_name": "Charlotte",
+                "position": "AWAY",
+                "short_name": "Charlotte"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Portland",
+                "returnWin": 2.3
+            },
+            {
+                "name": "Charlotte",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Portland v Charlotte",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-11T02:10:00.000Z"
     }
 ]
