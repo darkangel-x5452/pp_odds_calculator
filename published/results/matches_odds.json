@@ -1,34 +1,131 @@
 [
     {
-        "contestant_names_odds": "Vejen, (1.46) VERSES Bakken Academy, (2.5)",
-        "contestant_names": "Vejen VERSES Bakken Academy",
-        "start_time_aest": "2026-03-12T05:30:00+11:00",
+        "contestant_names_odds": "Reggio Emilia, (2) VERSES UCAM Murcia, (1.7)",
+        "contestant_names": "Reggio Emilia VERSES UCAM Murcia",
+        "start_time_aest": "2026-03-12T06:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Denmark Basketligaen",
+        "competition_name": "FIBA Europe Cup",
         "contestants": [
             {
-                "full_name": "Vejen",
+                "full_name": "Reggio Emilia",
                 "position": "HOME",
-                "short_name": "Vejen"
+                "short_name": "Reggio Emilia"
             },
             {
-                "full_name": "Bakken Academy",
+                "full_name": "UCAM Murcia",
                 "position": "AWAY",
-                "short_name": "Bakken Academy"
+                "short_name": "UCAM Murcia"
             }
         ],
         "propositions": [
             {
-                "name": "Vejen",
-                "returnWin": 1.46
+                "name": "Reggio Emilia",
+                "returnWin": 2
             },
             {
-                "name": "Bakken Academy",
-                "returnWin": 2.5
+                "name": "UCAM Murcia",
+                "returnWin": 1.7
             }
         ],
-        "match_name": "Vejen v Bakken Academy",
+        "match_name": "Reggio Emilia v UCAM Murcia",
         "betOption": "Head To Head",
-        "start_time": "2026-03-11T18:30:00.000Z"
+        "start_time": "2026-03-11T19:00:00.000Z"
+    },
+    {
+        "contestant_names_odds": "UCF, (2.25) VERSES Cincinnati, (1.65)",
+        "contestant_names": "UCF VERSES Cincinnati",
+        "start_time_aest": "2026-03-12T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "UCF",
+                "position": "HOME",
+                "short_name": "UCF"
+            },
+            {
+                "full_name": "Cincinnati",
+                "position": "AWAY",
+                "short_name": "Cincinnati"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "UCF",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Cincinnati",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "UCF v Cincinnati",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-11T19:00:00.000Z"
+    },
+    {
+        "contestant_names_odds": "UNLV, (1.6) VERSES Wyoming, (2.35)",
+        "contestant_names": "UNLV VERSES Wyoming",
+        "start_time_aest": "2026-03-12T06:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "UNLV",
+                "position": "HOME",
+                "short_name": "UNLV"
+            },
+            {
+                "full_name": "Wyoming",
+                "position": "AWAY",
+                "short_name": "Wyoming"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "UNLV",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Wyoming",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "UNLV v Wyoming",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-11T19:00:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Aoyama/Eikeri, (1.52) VERSES Marcinko/Sutjiadi, (2.35)",
+        "contestant_names": "Aoyama/Eikeri VERSES Marcinko/Sutjiadi",
+        "start_time_aest": "2026-03-12T06:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Doubles",
+        "tournamentName": "WTA 125 Austin Doubles",
+        "contestants": [
+            {
+                "full_name": "Aoyama/Eikeri",
+                "position": "HOME",
+                "short_name": "Aoyama/Eikeri"
+            },
+            {
+                "full_name": "Marcinko/Sutjiadi",
+                "position": "AWAY",
+                "short_name": "Marcinko/Sutjiadi"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Aoyama/Eikeri",
+                "returnWin": 1.52
+            },
+            {
+                "name": "Marcinko/Sutjiadi",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Aoyama/Eikeri v Marcinko/Sutjiadi",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-11T19:00:00.000Z"
     }
 ]
