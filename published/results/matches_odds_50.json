@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names_odds": "Seattle, (1.9) VERSES Nashville, (1.9)",
-        "contestant_names": "Seattle VERSES Nashville",
-        "start_time_aest": "2026-03-11T13:08:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Seattle",
-                "position": "HOME",
-                "short_name": "Seattle"
-            },
-            {
-                "full_name": "Nashville",
-                "position": "AWAY",
-                "short_name": "Nashville"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Seattle",
-                "returnWin": 1.9
-            },
-            {
-                "name": "Nashville",
-                "returnWin": 1.9
-            }
-        ],
-        "match_name": "Seattle v Nashville",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-11T02:08:00.000Z",
-        "start_time_aest_old": "2026-03-11T13:05:00+11:00"
-    },
-    {
         "contestant_names_odds": "Filip Peliwo, (1.75) VERSES Thanapet Chanta, (1.95)",
         "contestant_names": "Filip Peliwo VERSES Thanapet Chanta",
         "start_time_aest": "2026-03-11T14:30:00+11:00",
@@ -62,6 +29,39 @@
             }
         ],
         "match_name": "Peliwo v Chanta T",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-11T03:30:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Zhuoxuan Bai, (1.9) VERSES Claire Liu, (1.8)",
+        "contestant_names": "Zhuoxuan Bai VERSES Claire Liu",
+        "start_time_aest": "2026-03-11T14:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "ITF Womens",
+        "tournamentName": "ITFW Kyoto",
+        "contestants": [
+            {
+                "full_name": "Zhuoxuan Bai",
+                "position": "HOME",
+                "short_name": "Bai Z"
+            },
+            {
+                "full_name": "Claire Liu",
+                "position": "AWAY",
+                "short_name": "Liu C"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Zhuoxuan Bai",
+                "returnWin": 1.9
+            },
+            {
+                "name": "Claire Liu",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Bai Z v Liu C",
         "betOption": "Head To Head",
         "start_time": "2026-03-11T03:30:00.000Z"
     }
