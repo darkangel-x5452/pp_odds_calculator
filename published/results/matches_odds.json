@@ -1,66 +1,98 @@
 [
     {
-        "contestant_names_odds": "Szombathelyi, (1.52) VERSES KK Bosna, (2.3)",
-        "contestant_names": "Szombathelyi VERSES KK Bosna",
-        "start_time_aest": "2026-03-12T04:00:00+11:00",
+        "contestant_names_odds": "Socar Petkim Spo, (2.2) VERSES Bilbao, (1.57)",
+        "contestant_names": "Socar Petkim Spo VERSES Bilbao",
+        "start_time_aest": "2026-03-12T04:15:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "FIBA Europe Cup",
         "contestants": [
             {
-                "full_name": "Szombathelyi",
+                "full_name": "Socar Petkim Spo",
                 "position": "HOME",
-                "short_name": "Szombathelyi"
+                "short_name": "Socar Petkim Spo"
             },
             {
-                "full_name": "KK Bosna",
+                "full_name": "Bilbao",
                 "position": "AWAY",
-                "short_name": "KK Bosna"
+                "short_name": "Bilbao"
             }
         ],
         "propositions": [
             {
-                "name": "Szombathelyi",
-                "returnWin": 1.52
+                "name": "Socar Petkim Spo",
+                "returnWin": 2.2
             },
             {
-                "name": "KK Bosna",
-                "returnWin": 2.3
+                "name": "Bilbao",
+                "returnWin": 1.57
             }
         ],
-        "match_name": "Szombathelyi v KK Bosna",
+        "match_name": "Socar Petkim Spo v Bilbao",
         "betOption": "Head To Head",
-        "start_time": "2026-03-11T17:00:00.000Z"
+        "start_time": "2026-03-11T17:15:00.000Z"
     },
     {
-        "contestant_names_odds": "Bc Komarno, (2) VERSES Levicki Patrioti, (1.7)",
-        "contestant_names": "Bc Komarno VERSES Levicki Patrioti",
-        "start_time_aest": "2026-03-12T04:00:00+11:00",
+        "contestant_names_odds": "Lietuvos Rytas, (1.45) VERSES Le Mans, (2.5)",
+        "contestant_names": "Lietuvos Rytas VERSES Le Mans",
+        "start_time_aest": "2026-03-12T04:30:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Slovakia Extraliga",
+        "competition_name": "Basketball Champions League",
         "contestants": [
             {
-                "full_name": "Bc Komarno",
+                "full_name": "Lietuvos Rytas",
                 "position": "HOME",
-                "short_name": "Bc Komarno"
+                "short_name": "Lietuvos Rytas"
             },
             {
-                "full_name": "Levicki Patrioti",
+                "full_name": "Le Mans",
                 "position": "AWAY",
-                "short_name": "Levicki Patrioti"
+                "short_name": "Le Mans"
             }
         ],
         "propositions": [
             {
-                "name": "Bc Komarno",
-                "returnWin": 2
+                "name": "Lietuvos Rytas",
+                "returnWin": 1.45
             },
             {
-                "name": "Levicki Patrioti",
-                "returnWin": 1.7
+                "name": "Le Mans",
+                "returnWin": 2.5
             }
         ],
-        "match_name": "Bc Komarno  v Levicki Patrioti",
+        "match_name": "Lietuvos Rytas v Le Mans",
         "betOption": "Head To Head",
-        "start_time": "2026-03-11T17:00:00.000Z"
+        "start_time": "2026-03-11T17:30:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Canada, (1.57) VERSES Turkey, (2.2)",
+        "contestant_names": "Canada VERSES Turkey",
+        "start_time_aest": "2026-03-12T04:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "FIBA Womens World Cup Qualification",
+        "contestants": [
+            {
+                "full_name": "Canada",
+                "position": "HOME",
+                "short_name": "Canada"
+            },
+            {
+                "full_name": "Turkey",
+                "position": "AWAY",
+                "short_name": "Turkey"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Canada",
+                "returnWin": 1.57
+            },
+            {
+                "name": "Turkey",
+                "returnWin": 2.2
+            }
+        ],
+        "match_name": "Canada v Turkey",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-11T17:30:00.000Z"
     }
 ]

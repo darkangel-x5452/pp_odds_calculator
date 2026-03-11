@@ -1,40 +1,8 @@
 [
     {
-        "contestant_names_odds": "Latvia, (1.8) VERSES Slovenia, (1.95)",
-        "contestant_names": "Latvia VERSES Slovenia",
-        "start_time_aest": "2026-03-12T04:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Eurobasket Women",
-        "contestants": [
-            {
-                "full_name": "Latvia",
-                "position": "HOME",
-                "short_name": "Latvia"
-            },
-            {
-                "full_name": "Slovenia",
-                "position": "AWAY",
-                "short_name": "Slovenia"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Latvia",
-                "returnWin": 1.8
-            },
-            {
-                "name": "Slovenia",
-                "returnWin": 1.95
-            }
-        ],
-        "match_name": "Latvia v Slovenia",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-11T17:00:00.000Z"
-    },
-    {
         "contestant_names_odds": "Caty McNally, (1.75) VERSES Lanlana Tararudee, (1.95)",
         "contestant_names": "Caty McNally VERSES Lanlana Tararudee",
-        "start_time_aest": "2026-03-12T04:00:00+11:00",
+        "start_time_aest": "2026-03-12T04:15:00+11:00",
         "sport_name": "Tennis",
         "competition_name": "WTA 125 Tour",
         "tournamentName": "WTA 125 Austin",
@@ -62,6 +30,39 @@
         ],
         "match_name": "McNally C v Tararudee",
         "betOption": "Head To Head",
-        "start_time": "2026-03-11T17:00:00.000Z"
+        "start_time": "2026-03-11T17:15:00.000Z",
+        "start_time_aest_old": "2026-03-12T04:00:00+11:00"
+    },
+    {
+        "contestant_names_odds": "Keila Basket, (1.85) VERSES Keila KK, (1.85)",
+        "contestant_names": "Keila Basket VERSES Keila KK",
+        "start_time_aest": "2026-03-12T04:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Latvia-Estonia Basketball League",
+        "contestants": [
+            {
+                "full_name": "Keila Basket",
+                "position": "HOME",
+                "short_name": "Keila Basket"
+            },
+            {
+                "full_name": "Keila KK",
+                "position": "AWAY",
+                "short_name": "Keila KK"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Keila Basket",
+                "returnWin": 1.85
+            },
+            {
+                "name": "Keila KK",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Keila Basket v Keila KK",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-11T17:30:00.000Z"
     }
 ]
