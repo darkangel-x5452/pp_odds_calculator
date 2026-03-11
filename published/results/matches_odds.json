@@ -1,70 +1,6 @@
 [
     {
-        "contestant_names_odds": "UTSA, (2) VERSES Temple, (1.75)",
-        "contestant_names": "UTSA VERSES Temple",
-        "start_time_aest": "2026-03-12T06:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "UTSA",
-                "position": "HOME",
-                "short_name": "UTSA"
-            },
-            {
-                "full_name": "Temple",
-                "position": "AWAY",
-                "short_name": "Temple"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "UTSA",
-                "returnWin": 2
-            },
-            {
-                "name": "Temple",
-                "returnWin": 1.75
-            }
-        ],
-        "match_name": "UTSA v Temple",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-11T19:30:00.000Z"
-    },
-    {
-        "contestant_names_odds": "Noliko Maaseik, (2.25) VERSES Galatasaray, (1.58)",
-        "contestant_names": "Noliko Maaseik VERSES Galatasaray",
-        "start_time_aest": "2026-03-12T06:30:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "CEV Cup",
-        "contestants": [
-            {
-                "full_name": "Noliko Maaseik",
-                "position": "HOME",
-                "short_name": "Noliko Maaseik"
-            },
-            {
-                "full_name": "Galatasaray",
-                "position": "AWAY",
-                "short_name": "Galatasaray"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Noliko Maaseik",
-                "returnWin": 2.25
-            },
-            {
-                "name": "Galatasaray",
-                "returnWin": 1.58
-            }
-        ],
-        "match_name": "Noliko Maaseik v Galatasaray",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-11T19:30:00.000Z"
-    },
-    {
-        "contestant_names_odds": "Obiettivo Lavoro, (1.53) VERSES Partizan, (2.4)",
+        "contestant_names_odds": "Obiettivo Lavoro, (1.52) VERSES Partizan, (2.45)",
         "contestant_names": "Obiettivo Lavoro VERSES Partizan",
         "start_time_aest": "2026-03-12T06:45:00+11:00",
         "sport_name": "Basketball",
@@ -84,15 +20,47 @@
         "propositions": [
             {
                 "name": "Obiettivo Lavoro",
-                "returnWin": 1.53
+                "returnWin": 1.52
             },
             {
                 "name": "Partizan",
-                "returnWin": 2.4
+                "returnWin": 2.45
             }
         ],
         "match_name": "Obiettivo Lavoro v Partizan",
         "betOption": "Head To Head",
         "start_time": "2026-03-11T19:45:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Butler, (2) VERSES Providence, (1.8)",
+        "contestant_names": "Butler VERSES Providence",
+        "start_time_aest": "2026-03-12T07:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Butler",
+                "position": "HOME",
+                "short_name": "Butler"
+            },
+            {
+                "full_name": "Providence",
+                "position": "AWAY",
+                "short_name": "Providence"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Butler",
+                "returnWin": 2
+            },
+            {
+                "name": "Providence",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Butler v Providence",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-11T20:00:00.000Z"
     }
 ]
