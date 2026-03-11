@@ -1,34 +1,66 @@
 [
     {
-        "contestant_names_odds": "Union Santa Fe, (1.73) VERSES La Union, (1.95)",
-        "contestant_names": "Union Santa Fe VERSES La Union",
-        "start_time_aest": "2026-03-11T11:00:00+11:00",
+        "contestant_names_odds": "Urunday, (1.95) VERSES Bigua, (1.73)",
+        "contestant_names": "Urunday VERSES Bigua",
+        "start_time_aest": "2026-03-11T11:15:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "Argentina Liga Nacional de Basket",
+        "competition_name": "Uruguay LUB",
         "contestants": [
             {
-                "full_name": "Union Santa Fe",
+                "full_name": "Urunday",
                 "position": "HOME",
-                "short_name": "Union Santa Fe"
+                "short_name": "Urunday"
             },
             {
-                "full_name": "La Union",
+                "full_name": "Bigua",
                 "position": "AWAY",
-                "short_name": "La Union"
+                "short_name": "Bigua"
             }
         ],
         "propositions": [
             {
-                "name": "Union Santa Fe",
-                "returnWin": 1.73
+                "name": "Urunday",
+                "returnWin": 1.95
             },
             {
-                "name": "La Union",
-                "returnWin": 1.95
+                "name": "Bigua",
+                "returnWin": 1.73
             }
         ],
-        "match_name": "Union Santa Fe v La Union",
+        "match_name": "Urunday v Bigua",
         "betOption": "Head To Head",
-        "start_time": "2026-03-11T00:00:00.000Z"
+        "start_time": "2026-03-11T00:15:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Jacksonville St, (1.95) VERSES New Mexico State, (1.85)",
+        "contestant_names": "Jacksonville St VERSES New Mexico State",
+        "start_time_aest": "2026-03-11T12:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Jacksonville St",
+                "position": "HOME",
+                "short_name": "Jacksonville St"
+            },
+            {
+                "full_name": "New Mexico State",
+                "position": "AWAY",
+                "short_name": "New Mexico State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jacksonville St",
+                "returnWin": 1.95
+            },
+            {
+                "name": "New Mexico State",
+                "returnWin": 1.85
+            }
+        ],
+        "match_name": "Jacksonville St v New Mexico State",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-11T01:00:00.000Z"
     }
 ]
