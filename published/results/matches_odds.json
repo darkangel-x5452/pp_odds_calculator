@@ -1,35 +1,35 @@
 [
     {
-        "contestant_names_odds": "New Orleans, (2.2) VERSES Toronto, (1.7)",
-        "contestant_names": "New Orleans VERSES Toronto",
-        "start_time_aest": "2026-03-12T11:10:00+11:00",
+        "contestant_names_odds": "Sam Houston St, (1.53) VERSES New Mexico State, (2.5)",
+        "contestant_names": "Sam Houston St VERSES New Mexico State",
+        "start_time_aest": "2026-03-12T12:00:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "NBA",
+        "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "New Orleans",
+                "full_name": "Sam Houston St",
                 "position": "HOME",
-                "short_name": "New Orleans"
+                "short_name": "Sam Houston St"
             },
             {
-                "full_name": "Toronto",
+                "full_name": "New Mexico State",
                 "position": "AWAY",
-                "short_name": "Toronto"
+                "short_name": "New Mexico State"
             }
         ],
         "propositions": [
             {
-                "name": "New Orleans",
-                "returnWin": 2.2
+                "name": "Sam Houston St",
+                "returnWin": 1.53
             },
             {
-                "name": "Toronto",
-                "returnWin": 1.7
+                "name": "New Mexico State",
+                "returnWin": 2.5
             }
         ],
-        "match_name": "New Orleans v Toronto",
+        "match_name": "Sam Houston St v New Mexico State",
         "betOption": "Head To Head",
-        "start_time": "2026-03-12T00:10:00.000Z"
+        "start_time": "2026-03-12T01:00:00.000Z"
     },
     {
         "contestant_names_odds": "Est Tucuman, (2.4) VERSES San Isidro, (1.48)",
@@ -60,38 +60,6 @@
             }
         ],
         "match_name": "Est Tucuman v San Isidro",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-12T01:00:00.000Z"
-    },
-    {
-        "contestant_names_odds": "Sam Houston St, (1.53) VERSES New Mexico State, (2.5)",
-        "contestant_names": "Sam Houston St VERSES New Mexico State",
-        "start_time_aest": "2026-03-12T12:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Sam Houston St",
-                "position": "HOME",
-                "short_name": "Sam Houston St"
-            },
-            {
-                "full_name": "New Mexico State",
-                "position": "AWAY",
-                "short_name": "New Mexico State"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sam Houston St",
-                "returnWin": 1.53
-            },
-            {
-                "name": "New Mexico State",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Sam Houston St v New Mexico State",
         "betOption": "Head To Head",
         "start_time": "2026-03-12T01:00:00.000Z"
     }
