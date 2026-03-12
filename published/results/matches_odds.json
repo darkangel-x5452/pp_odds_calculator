@@ -2,7 +2,7 @@
     {
         "contestant_names_odds": "Montana, (2.45) VERSES Idaho, (1.55)",
         "contestant_names": "Montana VERSES Idaho",
-        "start_time_aest": "2026-03-12T14:30:00+11:00",
+        "start_time_aest": "2026-03-12T14:40:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
         "contestants": [
@@ -29,7 +29,8 @@
         ],
         "match_name": "Montana v Idaho",
         "betOption": "Head To Head",
-        "start_time": "2026-03-12T03:30:00.000Z"
+        "start_time": "2026-03-12T03:40:00.000Z",
+        "start_time_aest_old": "2026-03-12T14:30:00+11:00"
     },
     {
         "contestant_names_odds": "Peng Xiang, (2.35) VERSES Jingkun Liang, (1.53)",
@@ -63,5 +64,38 @@
         "match_name": "Xiang v Liang Jingkun",
         "betOption": "Head To Head",
         "start_time": "2026-03-12T03:50:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Adriana Diaz, (1.57) VERSES Eunhye Lee, (2.25)",
+        "contestant_names": "Adriana Diaz VERSES Eunhye Lee",
+        "start_time_aest": "2026-03-12T15:25:00+11:00",
+        "sport_name": "Table Tennis",
+        "competition_name": "WTT Champions",
+        "tournamentName": "WTT Champions Chongqing Womens Singles",
+        "contestants": [
+            {
+                "full_name": "Adriana Diaz",
+                "position": "HOME",
+                "short_name": "ADiaz"
+            },
+            {
+                "full_name": "Eunhye Lee",
+                "position": "AWAY",
+                "short_name": "Lee"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Adriana Diaz",
+                "returnWin": 1.57
+            },
+            {
+                "name": "Eunhye Lee",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "ADiaz v Lee",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-12T04:25:00.000Z"
     }
 ]
