@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names_odds": "Khachanov/Rublev, (1.5) VERSES Rinderknech/Vacherot, (2.5)",
-        "contestant_names": "Khachanov/Rublev VERSES Rinderknech/Vacherot",
-        "start_time_aest": "2026-03-12T12:43:51+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Masters Doubles",
-        "tournamentName": "Masters Indian Wells Doubles",
-        "contestants": [
-            {
-                "full_name": "Khachanov/Rublev",
-                "position": "HOME",
-                "short_name": "Khachanov/Rublev"
-            },
-            {
-                "full_name": "Rinderknech/Vacherot",
-                "position": "AWAY",
-                "short_name": "Rinderknech/Vacherot"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Khachanov/Rublev",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Rinderknech/Vacherot",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Khachanov/Rublev v Rinderknech/Vacherot",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-12T01:43:51.000Z"
-    },
-    {
         "contestant_names_odds": "LA Clippers, (1.85) VERSES Minnesota, (2)",
         "contestant_names": "LA Clippers VERSES Minnesota",
         "start_time_aest": "2026-03-12T13:40:00+11:00",
@@ -63,5 +30,37 @@
         "match_name": "LA Clippers v Minnesota",
         "betOption": "Head To Head",
         "start_time": "2026-03-12T02:40:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Montana, (2.45) VERSES Idaho, (1.55)",
+        "contestant_names": "Montana VERSES Idaho",
+        "start_time_aest": "2026-03-12T14:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Montana",
+                "position": "HOME",
+                "short_name": "Montana"
+            },
+            {
+                "full_name": "Idaho",
+                "position": "AWAY",
+                "short_name": "Idaho"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Montana",
+                "returnWin": 2.45
+            },
+            {
+                "name": "Idaho",
+                "returnWin": 1.55
+            }
+        ],
+        "match_name": "Montana v Idaho",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-12T03:30:00.000Z"
     }
 ]
