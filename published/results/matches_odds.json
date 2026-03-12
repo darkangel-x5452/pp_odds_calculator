@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names_odds": "Miami (FL), (2) VERSES Louisville, (1.8)",
-        "contestant_names": "Miami (FL) VERSES Louisville",
-        "start_time_aest": "2026-03-13T05:50:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Miami (FL)",
-                "position": "HOME",
-                "short_name": "Miami (FL)"
-            },
-            {
-                "full_name": "Louisville",
-                "position": "AWAY",
-                "short_name": "Louisville"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Miami (FL)",
-                "returnWin": 2
-            },
-            {
-                "name": "Louisville",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "Miami (FL) v Louisville",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-12T18:50:00.000Z",
-        "start_time_aest_old": "2026-03-13T05:30:00+11:00"
-    },
-    {
         "contestant_names_odds": "Alftanes, (1.46) VERSES IR Reykjavik, (2.5)",
         "contestant_names": "Alftanes VERSES IR Reykjavik",
         "start_time_aest": "2026-03-13T06:15:00+11:00",
@@ -63,5 +30,37 @@
         "match_name": "Alftanes v IR Reykjavik",
         "betOption": "Head To Head",
         "start_time": "2026-03-12T19:15:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Bayern Munich, (1.53) VERSES Anadolu Efes, (2.4)",
+        "contestant_names": "Bayern Munich VERSES Anadolu Efes",
+        "start_time_aest": "2026-03-13T06:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "EuroLeague",
+        "contestants": [
+            {
+                "full_name": "Bayern Munich",
+                "position": "HOME",
+                "short_name": "Bayern Munich"
+            },
+            {
+                "full_name": "Anadolu Efes",
+                "position": "AWAY",
+                "short_name": "Anadolu Efes"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Bayern Munich",
+                "returnWin": 1.53
+            },
+            {
+                "name": "Anadolu Efes",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Bayern Munich v Anadolu Efes",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-12T19:30:00.000Z"
     }
 ]
