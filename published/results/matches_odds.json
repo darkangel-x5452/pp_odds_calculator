@@ -1,69 +1,5 @@
 [
     {
-        "contestant_names_odds": "Kent State, (1.58) VERSES Ohio, (2.4)",
-        "contestant_names": "Kent State VERSES Ohio",
-        "start_time_aest": "2026-03-13T09:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Kent State",
-                "position": "HOME",
-                "short_name": "Kent State"
-            },
-            {
-                "full_name": "Ohio",
-                "position": "AWAY",
-                "short_name": "Ohio"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Kent State",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Ohio",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Kent State v Ohio",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-12T22:30:00.000Z"
-    },
-    {
-        "contestant_names_odds": "Louisiana Tech, (2.25) VERSES Middle Tennessee, (1.65)",
-        "contestant_names": "Louisiana Tech VERSES Middle Tennessee",
-        "start_time_aest": "2026-03-13T09:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Louisiana Tech",
-                "position": "HOME",
-                "short_name": "Louisiana Tech"
-            },
-            {
-                "full_name": "Middle Tennessee",
-                "position": "AWAY",
-                "short_name": "Middle Tennessee"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Louisiana Tech",
-                "returnWin": 2.25
-            },
-            {
-                "name": "Middle Tennessee",
-                "returnWin": 1.65
-            }
-        ],
-        "match_name": "Louisiana Tech v Middle Tennessee",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-12T22:30:00.000Z"
-    },
-    {
         "contestant_names_odds": "Botafogo, (1.48) VERSES Osascu, (2.4)",
         "contestant_names": "Botafogo VERSES Osascu",
         "start_time_aest": "2026-03-13T10:00:00+11:00",
@@ -94,5 +30,69 @@
         "match_name": "Botafogo v Osascu",
         "betOption": "Head To Head",
         "start_time": "2026-03-12T23:00:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Boston, (1.6) VERSES San Jose, (2.3)",
+        "contestant_names": "Boston VERSES San Jose",
+        "start_time_aest": "2026-03-13T10:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Boston",
+                "position": "HOME",
+                "short_name": "Boston"
+            },
+            {
+                "full_name": "San Jose",
+                "position": "AWAY",
+                "short_name": "San Jose"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Boston",
+                "returnWin": 1.6
+            },
+            {
+                "name": "San Jose",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Boston v San Jose",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-12T23:05:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Florida, (2) VERSES Columbus, (1.8)",
+        "contestant_names": "Florida VERSES Columbus",
+        "start_time_aest": "2026-03-13T10:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Florida",
+                "position": "HOME",
+                "short_name": "Florida"
+            },
+            {
+                "full_name": "Columbus",
+                "position": "AWAY",
+                "short_name": "Columbus"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Florida",
+                "returnWin": 2
+            },
+            {
+                "name": "Columbus",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Florida v Columbus",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-12T23:05:00.000Z"
     }
 ]
