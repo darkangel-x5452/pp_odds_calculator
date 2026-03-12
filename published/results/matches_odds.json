@@ -1,103 +1,5 @@
 [
     {
-        "contestant_names_odds": "Grand Canyon, (1.58) VERSES Nevada, (2.4)",
-        "contestant_names": "Grand Canyon VERSES Nevada",
-        "start_time_aest": "2026-03-13T08:55:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Grand Canyon",
-                "position": "HOME",
-                "short_name": "Grand Canyon"
-            },
-            {
-                "full_name": "Nevada",
-                "position": "AWAY",
-                "short_name": "Nevada"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Grand Canyon",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Nevada",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Grand Canyon v Nevada",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-12T21:55:00.000Z",
-        "start_time_aest_old": "2026-03-13T08:30:00+11:00"
-    },
-    {
-        "contestant_names_odds": "Holy Cross, (1.72) VERSES Army, (2.05)",
-        "contestant_names": "Holy Cross VERSES Army",
-        "start_time_aest": "2026-03-13T09:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Holy Cross",
-                "position": "HOME",
-                "short_name": "Holy Cross"
-            },
-            {
-                "full_name": "Army",
-                "position": "AWAY",
-                "short_name": "Army"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Holy Cross",
-                "returnWin": 1.72
-            },
-            {
-                "name": "Army",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Holy Cross v Army",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-12T22:00:00.000Z"
-    },
-    {
-        "contestant_names_odds": "Errani/Paolini, (2.5) VERSES Siniakova/Townsend, (1.5)",
-        "contestant_names": "Errani/Paolini VERSES Siniakova/Townsend",
-        "start_time_aest": "2026-03-13T09:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA Doubles",
-        "tournamentName": "WTA Indian Wells Doubles",
-        "contestants": [
-            {
-                "full_name": "Errani/Paolini",
-                "position": "HOME",
-                "short_name": "Errani/Paolini"
-            },
-            {
-                "full_name": "Siniakova/Townsend",
-                "position": "AWAY",
-                "short_name": "Siniakova/Townsend"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Errani/Paolini",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Siniakova/Townsend",
-                "returnWin": 1.5
-            }
-        ],
-        "match_name": "Errani/Paolini v Siniakova/Townsend",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-12T22:00:00.000Z"
-    },
-    {
         "contestant_names_odds": "Kent State, (1.58) VERSES Ohio, (2.4)",
         "contestant_names": "Kent State VERSES Ohio",
         "start_time_aest": "2026-03-13T09:30:00+11:00",
@@ -160,5 +62,37 @@
         "match_name": "Louisiana Tech v Middle Tennessee",
         "betOption": "Head To Head",
         "start_time": "2026-03-12T22:30:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Botafogo, (1.48) VERSES Osascu, (2.4)",
+        "contestant_names": "Botafogo VERSES Osascu",
+        "start_time_aest": "2026-03-13T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Brazil NBB",
+        "contestants": [
+            {
+                "full_name": "Botafogo",
+                "position": "HOME",
+                "short_name": "Botafogo"
+            },
+            {
+                "full_name": "Osascu",
+                "position": "AWAY",
+                "short_name": "Osascu"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Botafogo",
+                "returnWin": 1.48
+            },
+            {
+                "name": "Osascu",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Botafogo v Osascu",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-12T23:00:00.000Z"
     }
 ]
