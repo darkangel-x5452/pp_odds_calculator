@@ -1,40 +1,8 @@
 [
     {
-        "contestant_names_odds": "Svendborg, (1.62) VERSES FOG Naestved, (2.15)",
-        "contestant_names": "Svendborg VERSES FOG Naestved",
-        "start_time_aest": "2026-03-13T05:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Denmark Basketligaen",
-        "contestants": [
-            {
-                "full_name": "Svendborg",
-                "position": "HOME",
-                "short_name": "Svendborg"
-            },
-            {
-                "full_name": "FOG Naestved",
-                "position": "AWAY",
-                "short_name": "FOG Naestved"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Svendborg",
-                "returnWin": 1.62
-            },
-            {
-                "name": "FOG Naestved",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Svendborg v FOG Naestved",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-12T18:00:00.000Z"
-    },
-    {
         "contestant_names_odds": "George Mason, (1.65) VERSES St Bonaventure, (2.25)",
         "contestant_names": "George Mason VERSES St Bonaventure",
-        "start_time_aest": "2026-03-13T05:00:00+11:00",
+        "start_time_aest": "2026-03-13T05:15:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
         "contestants": [
@@ -61,38 +29,136 @@
         ],
         "match_name": "George Mason v St Bonaventure",
         "betOption": "Head To Head",
-        "start_time": "2026-03-12T18:00:00.000Z"
+        "start_time": "2026-03-12T18:15:00.000Z",
+        "start_time_aest_old": "2026-03-13T05:00:00+11:00"
     },
     {
-        "contestant_names_odds": "Kkk Mosir Krosno, (2.1) VERSES Czarni Slupsk, (1.65)",
-        "contestant_names": "Kkk Mosir Krosno VERSES Czarni Slupsk",
-        "start_time_aest": "2026-03-13T05:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Poland Energa Basket Liga",
+        "contestant_names_odds": "Harrison/Skupski, (1.55) VERSES Andreozzi/Guinard, (2.35)",
+        "contestant_names": "Harrison/Skupski VERSES Andreozzi/Guinard",
+        "start_time_aest": "2026-03-13T05:17:54+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Masters Doubles",
+        "tournamentName": "Masters Indian Wells Doubles",
         "contestants": [
             {
-                "full_name": "Kkk Mosir Krosno",
+                "full_name": "Harrison/Skupski",
                 "position": "HOME",
-                "short_name": "Kkk Mosir Krosno"
+                "short_name": "Harrison/Skupski"
             },
             {
-                "full_name": "Czarni Slupsk",
+                "full_name": "Andreozzi/Guinard",
                 "position": "AWAY",
-                "short_name": "Czarni Slupsk"
+                "short_name": "Andreozzi/Guinard"
             }
         ],
         "propositions": [
             {
-                "name": "Kkk Mosir Krosno",
-                "returnWin": 2.1
+                "name": "Harrison/Skupski",
+                "returnWin": 1.55
             },
             {
-                "name": "Czarni Slupsk",
-                "returnWin": 1.65
+                "name": "Andreozzi/Guinard",
+                "returnWin": 2.35
             }
         ],
-        "match_name": "Kkk Mosir Krosno v Czarni Slupsk",
+        "match_name": "Harrison/Skupski v Andreozzi/Guinard",
         "betOption": "Head To Head",
-        "start_time": "2026-03-12T18:00:00.000Z"
+        "start_time": "2026-03-12T18:17:54.000Z"
+    },
+    {
+        "contestant_names_odds": "Den Helder, (2.15) VERSES Groningen Gaster, (1.62)",
+        "contestant_names": "Den Helder VERSES Groningen Gaster",
+        "start_time_aest": "2026-03-13T05:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "BNXT League",
+        "contestants": [
+            {
+                "full_name": "Den Helder",
+                "position": "HOME",
+                "short_name": "Den Helder"
+            },
+            {
+                "full_name": "Groningen Gaster",
+                "position": "AWAY",
+                "short_name": "Groningen Gaster"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Den Helder",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Groningen Gaster",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Den Helder v Groningen Gaster",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-12T18:30:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Miami (FL), (2) VERSES Louisville, (1.8)",
+        "contestant_names": "Miami (FL) VERSES Louisville",
+        "start_time_aest": "2026-03-13T05:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Miami (FL)",
+                "position": "HOME",
+                "short_name": "Miami (FL)"
+            },
+            {
+                "full_name": "Louisville",
+                "position": "AWAY",
+                "short_name": "Louisville"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Miami (FL)",
+                "returnWin": 2
+            },
+            {
+                "name": "Louisville",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Miami (FL) v Louisville",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-12T18:30:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Seton Hall, (1.62) VERSES Creighton, (2.3)",
+        "contestant_names": "Seton Hall VERSES Creighton",
+        "start_time_aest": "2026-03-13T05:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Seton Hall",
+                "position": "HOME",
+                "short_name": "Seton Hall"
+            },
+            {
+                "full_name": "Creighton",
+                "position": "AWAY",
+                "short_name": "Creighton"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Seton Hall",
+                "returnWin": 1.62
+            },
+            {
+                "name": "Creighton",
+                "returnWin": 2.3
+            }
+        ],
+        "match_name": "Seton Hall v Creighton",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-12T18:30:00.000Z"
     }
 ]
