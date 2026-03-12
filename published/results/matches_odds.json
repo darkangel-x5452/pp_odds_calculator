@@ -1,67 +1,98 @@
 [
     {
-        "contestant_names_odds": "Yang P H/Hu L F, (2.2) VERSES Maulana A/Jamil I C S, (1.6)",
-        "contestant_names": "Yang P H/Hu L F VERSES Maulana A/Jamil I C S",
-        "start_time_aest": "2026-03-13T04:20:00+11:00",
-        "sport_name": "Badminton",
-        "competition_name": "Badminton World Tour Doubles",
-        "tournamentName": "Swiss Open Mixed Doubles",
+        "contestant_names_odds": "Svendborg, (1.62) VERSES FOG Naestved, (2.15)",
+        "contestant_names": "Svendborg VERSES FOG Naestved",
+        "start_time_aest": "2026-03-13T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Denmark Basketligaen",
         "contestants": [
             {
-                "full_name": "Yang P H/Hu L F",
+                "full_name": "Svendborg",
                 "position": "HOME",
-                "short_name": "Yang P H/Hu L F"
+                "short_name": "Svendborg"
             },
             {
-                "full_name": "Maulana A/Jamil I C S",
+                "full_name": "FOG Naestved",
                 "position": "AWAY",
-                "short_name": "Maulana/Jamil"
+                "short_name": "FOG Naestved"
             }
         ],
         "propositions": [
             {
-                "name": "Yang P H/Hu L F",
-                "returnWin": 2.2
+                "name": "Svendborg",
+                "returnWin": 1.62
             },
             {
-                "name": "Maulana A/Jamil I C S",
-                "returnWin": 1.6
+                "name": "FOG Naestved",
+                "returnWin": 2.15
             }
         ],
-        "match_name": "Yang P H/Hu L F v Maulana/Jamil",
+        "match_name": "Svendborg v FOG Naestved",
         "betOption": "Head To Head",
-        "start_time": "2026-03-12T17:20:00.000Z"
+        "start_time": "2026-03-12T18:00:00.000Z"
     },
     {
-        "contestant_names_odds": "Toledo, (1.77) VERSES Bowling Green, (2.05)",
-        "contestant_names": "Toledo VERSES Bowling Green",
-        "start_time_aest": "2026-03-13T04:30:00+11:00",
+        "contestant_names_odds": "George Mason, (1.65) VERSES St Bonaventure, (2.25)",
+        "contestant_names": "George Mason VERSES St Bonaventure",
+        "start_time_aest": "2026-03-13T05:00:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
         "contestants": [
             {
-                "full_name": "Toledo",
+                "full_name": "George Mason",
                 "position": "HOME",
-                "short_name": "Toledo"
+                "short_name": "George Mason"
             },
             {
-                "full_name": "Bowling Green",
+                "full_name": "St Bonaventure",
                 "position": "AWAY",
-                "short_name": "Bowling Green"
+                "short_name": "St Bonaventure"
             }
         ],
         "propositions": [
             {
-                "name": "Toledo",
-                "returnWin": 1.77
+                "name": "George Mason",
+                "returnWin": 1.65
             },
             {
-                "name": "Bowling Green",
-                "returnWin": 2.05
+                "name": "St Bonaventure",
+                "returnWin": 2.25
             }
         ],
-        "match_name": "Toledo v Bowling Green",
+        "match_name": "George Mason v St Bonaventure",
         "betOption": "Head To Head",
-        "start_time": "2026-03-12T17:30:00.000Z"
+        "start_time": "2026-03-12T18:00:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Kkk Mosir Krosno, (2.1) VERSES Czarni Slupsk, (1.65)",
+        "contestant_names": "Kkk Mosir Krosno VERSES Czarni Slupsk",
+        "start_time_aest": "2026-03-13T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Poland Energa Basket Liga",
+        "contestants": [
+            {
+                "full_name": "Kkk Mosir Krosno",
+                "position": "HOME",
+                "short_name": "Kkk Mosir Krosno"
+            },
+            {
+                "full_name": "Czarni Slupsk",
+                "position": "AWAY",
+                "short_name": "Czarni Slupsk"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Kkk Mosir Krosno",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Czarni Slupsk",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Kkk Mosir Krosno v Czarni Slupsk",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-12T18:00:00.000Z"
     }
 ]
