@@ -32,6 +32,38 @@
         "start_time": "2026-03-12T16:00:00.000Z"
     },
     {
+        "contestant_names_odds": "WilliamMary, (1.53) VERSES Nth Carolina AT, (2.4)",
+        "contestant_names": "WilliamMary VERSES Nth Carolina AT",
+        "start_time_aest": "2026-03-13T03:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "WilliamMary",
+                "position": "HOME",
+                "short_name": "WilliamMary"
+            },
+            {
+                "full_name": "Nth Carolina AT",
+                "position": "AWAY",
+                "short_name": "Nth Carolina AT"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "WilliamMary",
+                "returnWin": 1.53
+            },
+            {
+                "name": "Nth Carolina AT",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "WilliamMary v Nth Carolina AT",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-12T16:00:00.000Z"
+    },
+    {
         "contestant_names_odds": "Ferch/Van Gunst, (1.65) VERSES Savvy/Newberry, (2.1)",
         "contestant_names": "Ferch/Van Gunst VERSES Savvy/Newberry",
         "start_time_aest": "2026-03-13T03:00:00+11:00",
@@ -125,6 +157,38 @@
             }
         ],
         "match_name": "Missouri v Kentucky",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-12T16:30:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Sam Houston St, (2) VERSES Liberty, (1.75)",
+        "contestant_names": "Sam Houston St VERSES Liberty",
+        "start_time_aest": "2026-03-13T03:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "Sam Houston St",
+                "position": "HOME",
+                "short_name": "Sam Houston St"
+            },
+            {
+                "full_name": "Liberty",
+                "position": "AWAY",
+                "short_name": "Liberty"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Sam Houston St",
+                "returnWin": 2
+            },
+            {
+                "name": "Liberty",
+                "returnWin": 1.75
+            }
+        ],
+        "match_name": "Sam Houston St v Liberty",
         "betOption": "Head To Head",
         "start_time": "2026-03-12T16:30:00.000Z"
     }
