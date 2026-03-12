@@ -1,37 +1,5 @@
 [
     {
-        "contestant_names_odds": "Seoul Knights, (1.48) VERSES Wonju, (2.4)",
-        "contestant_names": "Seoul Knights VERSES Wonju",
-        "start_time_aest": "2026-03-12T21:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "South Korea KBL",
-        "contestants": [
-            {
-                "full_name": "Seoul Knights",
-                "position": "HOME",
-                "short_name": "Seoul Knights"
-            },
-            {
-                "full_name": "Wonju",
-                "position": "AWAY",
-                "short_name": "Wonju"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Seoul Knights",
-                "returnWin": 1.48
-            },
-            {
-                "name": "Wonju",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Seoul Knights v Wonju",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-12T10:00:00.000Z"
-    },
-    {
         "contestant_names_odds": "Yokohama Exc, (1.45) VERSES Fukuoka, (2.5)",
         "contestant_names": "Yokohama Exc VERSES Fukuoka",
         "start_time_aest": "2026-03-12T21:05:00+11:00",
@@ -62,5 +30,71 @@
         "match_name": "Yokohama Exc v Fukuoka",
         "betOption": "Head To Head",
         "start_time": "2026-03-12T10:05:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Carle/Cavalle-Reimers, (2.1) VERSES Kempen/Pridankina, (1.65)",
+        "contestant_names": "Carle/Cavalle-Reimers VERSES Kempen/Pridankina",
+        "start_time_aest": "2026-03-12T21:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Doubles",
+        "tournamentName": "WTA 125 Antalya 3 Doubles",
+        "contestants": [
+            {
+                "full_name": "Carle/Cavalle-Reimers",
+                "position": "HOME",
+                "short_name": "Carle/C-Reimers"
+            },
+            {
+                "full_name": "Kempen/Pridankina",
+                "position": "AWAY",
+                "short_name": "Kempen/Pridankina"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Carle/Cavalle-Reimers",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Kempen/Pridankina",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Carle/C-Reimers v Kempen/Pridankina",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-12T10:30:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Gorgodze/Oz, (2.2) VERSES Khromacheva/Zaytseva, (1.6)",
+        "contestant_names": "Gorgodze/Oz VERSES Khromacheva/Zaytseva",
+        "start_time_aest": "2026-03-12T21:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA 125 Doubles",
+        "tournamentName": "WTA 125 Antalya 3 Doubles",
+        "contestants": [
+            {
+                "full_name": "Gorgodze/Oz",
+                "position": "HOME",
+                "short_name": "Gorgodze/Oz"
+            },
+            {
+                "full_name": "Khromacheva/Zaytseva",
+                "position": "AWAY",
+                "short_name": "Khromacheva/Zaytseva"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Gorgodze/Oz",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Khromacheva/Zaytseva",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Gorgodze/Oz v Khromacheva/Zaytseva",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-12T10:30:00.000Z"
     }
 ]
