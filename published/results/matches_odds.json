@@ -1,72 +1,6 @@
 [
     {
-        "contestant_names_odds": "Hsu Y C/Sung Y H, (2) VERSES Li YJ/Wang YD, (1.72)",
-        "contestant_names": "Hsu Y C/Sung Y H VERSES Li YJ/Wang YD",
-        "start_time_aest": "2026-03-13T00:45:00+11:00",
-        "sport_name": "Badminton",
-        "competition_name": "Badminton World Tour Doubles",
-        "tournamentName": "Swiss Open Womens Doubles",
-        "contestants": [
-            {
-                "full_name": "Hsu Y C/Sung Y H",
-                "position": "HOME",
-                "short_name": "Hsu Y C/Sung Y H"
-            },
-            {
-                "full_name": "Li YJ/Wang YD",
-                "position": "AWAY",
-                "short_name": "Li YJ/Wang YD"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Hsu Y C/Sung Y H",
-                "returnWin": 2
-            },
-            {
-                "name": "Li YJ/Wang YD",
-                "returnWin": 1.72
-            }
-        ],
-        "match_name": "Hsu Y C/Sung Y H v Li YJ/Wang YD",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-12T13:45:00.000Z"
-    },
-    {
-        "contestant_names_odds": "Krattiger/Dillier, (1.5) VERSES Adelmo/Mateus, (2.5)",
-        "contestant_names": "Krattiger/Dillier VERSES Adelmo/Mateus",
-        "start_time_aest": "2026-03-13T01:00:00+11:00",
-        "sport_name": "Beach Volleyball",
-        "competition_name": "Beach Pro Tour Mens",
-        "tournamentName": "Beach Pro Tour Elite 16 Joao Pessoa Mens",
-        "contestants": [
-            {
-                "full_name": "Krattiger/Dillier",
-                "position": "HOME",
-                "short_name": "Krattiger/Dllier"
-            },
-            {
-                "full_name": "Adelmo/Mateus",
-                "position": "AWAY",
-                "short_name": "Adelmo/Mateus"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Krattiger/Dillier",
-                "returnWin": 1.5
-            },
-            {
-                "name": "Adelmo/Mateus",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Krattiger/Dllier v Adelmo/Mateus",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-12T14:00:00.000Z"
-    },
-    {
-        "contestant_names_odds": "Hungary, (2.35) VERSES Canada, (1.5)",
+        "contestant_names_odds": "Hungary, (2.5) VERSES Canada, (1.45)",
         "contestant_names": "Hungary VERSES Canada",
         "start_time_aest": "2026-03-13T01:30:00+11:00",
         "sport_name": "Basketball",
@@ -86,15 +20,47 @@
         "propositions": [
             {
                 "name": "Hungary",
-                "returnWin": 2.35
+                "returnWin": 2.5
             },
             {
                 "name": "Canada",
-                "returnWin": 1.5
+                "returnWin": 1.45
             }
         ],
         "match_name": "Hungary v Canada",
         "betOption": "Head To Head",
         "start_time": "2026-03-12T14:30:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Ohio State, (1.77) VERSES Iowa, (2.05)",
+        "contestant_names": "Ohio State VERSES Iowa",
+        "start_time_aest": "2026-03-13T03:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Ohio State",
+                "position": "HOME",
+                "short_name": "Ohio State"
+            },
+            {
+                "full_name": "Iowa",
+                "position": "AWAY",
+                "short_name": "Iowa"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ohio State",
+                "returnWin": 1.77
+            },
+            {
+                "name": "Iowa",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "Ohio State v Iowa",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-12T16:00:00.000Z"
     }
 ]
