@@ -1,132 +1,100 @@
 [
     {
-        "contestant_names_odds": "Guangzhou, (2.25) VERSES Ningbo Rockets, (1.55)",
-        "contestant_names": "Guangzhou VERSES Ningbo Rockets",
-        "start_time_aest": "2026-03-12T22:35:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "China CBA",
+        "contestant_names_odds": "Pedrosa/Campos, (1.6) VERSES Schachter/Pickett, (2.2)",
+        "contestant_names": "Pedrosa/Campos VERSES Schachter/Pickett",
+        "start_time_aest": "2026-03-13T00:00:00+11:00",
+        "sport_name": "Beach Volleyball",
+        "competition_name": "Beach Pro Tour Mens",
+        "tournamentName": "Beach Pro Tour Elite 16 Joao Pessoa Mens",
         "contestants": [
             {
-                "full_name": "Guangzhou",
+                "full_name": "Pedrosa/Campos",
                 "position": "HOME",
-                "short_name": "Guangzhou"
+                "short_name": "Pedrosa/Campos"
             },
             {
-                "full_name": "Ningbo Rockets",
+                "full_name": "Schachter/Pickett",
                 "position": "AWAY",
-                "short_name": "Ningbo Rockets"
+                "short_name": "Schachter/Pckett"
             }
         ],
         "propositions": [
             {
-                "name": "Guangzhou",
-                "returnWin": 2.25
+                "name": "Pedrosa/Campos",
+                "returnWin": 1.6
             },
             {
-                "name": "Ningbo Rockets",
-                "returnWin": 1.55
+                "name": "Schachter/Pickett",
+                "returnWin": 2.2
             }
         ],
-        "match_name": "Guangzhou v Ningbo Rockets",
+        "match_name": "Pedrosa/Campos v Schachter/Pckett",
         "betOption": "Head To Head",
-        "start_time": "2026-03-12T11:35:00.000Z"
+        "start_time": "2026-03-12T13:00:00.000Z"
     },
     {
-        "contestant_names_odds": "Iwanaga R/Nakanishi K, (1.5) VERSES Pratiwi A C/Ramadhanti S F S, (2.4)",
-        "contestant_names": "Iwanaga R/Nakanishi K VERSES Pratiwi A C/Ramadhanti S F S",
-        "start_time_aest": "2026-03-12T23:00:00+11:00",
+        "contestant_names_odds": "SCM Craiova, (2.1) VERSES Rapid Bucuresti, (1.65)",
+        "contestant_names": "SCM Craiova VERSES Rapid Bucuresti",
+        "start_time_aest": "2026-03-13T00:00:00+11:00",
+        "sport_name": "Volleyball",
+        "competition_name": "Romania Divizia A1",
+        "contestants": [
+            {
+                "full_name": "SCM Craiova",
+                "position": "HOME",
+                "short_name": "Scm Craiova"
+            },
+            {
+                "full_name": "Rapid Bucuresti",
+                "position": "AWAY",
+                "short_name": "Rapid Bucuresti"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "SCM Craiova",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Rapid Bucuresti",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Scm Craiova v Rapid Bucuresti",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-12T13:00:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Chen C K/Lin B W, (1.65) VERSES Amsakarunan H/Arjun M R, (2.1)",
+        "contestant_names": "Chen C K/Lin B W VERSES Amsakarunan H/Arjun M R",
+        "start_time_aest": "2026-03-13T00:05:00+11:00",
         "sport_name": "Badminton",
         "competition_name": "Badminton World Tour Doubles",
-        "tournamentName": "Swiss Open Womens Doubles",
+        "tournamentName": "Swiss Open Mens Doubles",
         "contestants": [
             {
-                "full_name": "Iwanaga R/Nakanishi K",
+                "full_name": "Chen C K/Lin B W",
                 "position": "HOME",
-                "short_name": "Iwanaga/Nkanishi"
+                "short_name": "ChenCKLin"
             },
             {
-                "full_name": "Pratiwi A C/Ramadhanti S F S",
+                "full_name": "Amsakarunan H/Arjun M R",
                 "position": "AWAY",
-                "short_name": "Prtiwi/Rmadhanti"
+                "short_name": "Amskarunan/Arjun"
             }
         ],
         "propositions": [
             {
-                "name": "Iwanaga R/Nakanishi K",
-                "returnWin": 1.5
+                "name": "Chen C K/Lin B W",
+                "returnWin": 1.65
             },
             {
-                "name": "Pratiwi A C/Ramadhanti S F S",
-                "returnWin": 2.4
+                "name": "Amsakarunan H/Arjun M R",
+                "returnWin": 2.1
             }
         ],
-        "match_name": "Iwanaga/Nkanishi v Prtiwi/Rmadhanti",
+        "match_name": "ChenCKLin v Amskarunan/Arjun",
         "betOption": "Head To Head",
-        "start_time": "2026-03-12T12:00:00.000Z"
-    },
-    {
-        "contestant_names_odds": "Lin C C/Yang C Y, (2.25) VERSES Hu L F/Jheng Y C, (1.58)",
-        "contestant_names": "Lin C C/Yang C Y VERSES Hu L F/Jheng Y C",
-        "start_time_aest": "2026-03-12T23:00:00+11:00",
-        "sport_name": "Badminton",
-        "competition_name": "Badminton World Tour Doubles",
-        "tournamentName": "Swiss Open Womens Doubles",
-        "contestants": [
-            {
-                "full_name": "Lin C C/Yang C Y",
-                "position": "HOME",
-                "short_name": "LinYang"
-            },
-            {
-                "full_name": "Hu L F/Jheng Y C",
-                "position": "AWAY",
-                "short_name": "HuLJhngYC"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Lin C C/Yang C Y",
-                "returnWin": 2.25
-            },
-            {
-                "name": "Hu L F/Jheng Y C",
-                "returnWin": 1.58
-            }
-        ],
-        "match_name": "LinYang v HuLJhngYC",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-12T12:00:00.000Z"
-    },
-    {
-        "contestant_names_odds": "Tycoon, (2.05) VERSES Hong Kong Lions, (1.66)",
-        "contestant_names": "Tycoon VERSES Hong Kong Lions",
-        "start_time_aest": "2026-03-12T23:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Hong Kong Championship",
-        "contestants": [
-            {
-                "full_name": "Tycoon",
-                "position": "HOME",
-                "short_name": "Tycoon"
-            },
-            {
-                "full_name": "Hong Kong Lions",
-                "position": "AWAY",
-                "short_name": "Hong Kong Lions"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Tycoon",
-                "returnWin": 2.05
-            },
-            {
-                "name": "Hong Kong Lions",
-                "returnWin": 1.66
-            }
-        ],
-        "match_name": "Tycoon v Hong Kong Lions",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-12T12:00:00.000Z"
+        "start_time": "2026-03-12T13:05:00.000Z"
     }
 ]
