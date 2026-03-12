@@ -62,5 +62,38 @@
         "match_name": "Montana v Idaho",
         "betOption": "Head To Head",
         "start_time": "2026-03-12T03:30:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Peng Xiang, (2.35) VERSES Jingkun Liang, (1.53)",
+        "contestant_names": "Peng Xiang VERSES Jingkun Liang",
+        "start_time_aest": "2026-03-12T14:50:00+11:00",
+        "sport_name": "Table Tennis",
+        "competition_name": "WTT Champions",
+        "tournamentName": "WTT Champions Chongqing Mens Singles",
+        "contestants": [
+            {
+                "full_name": "Peng Xiang",
+                "position": "HOME",
+                "short_name": "Xiang"
+            },
+            {
+                "full_name": "Jingkun Liang",
+                "position": "AWAY",
+                "short_name": "Liang Jingkun"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Peng Xiang",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Jingkun Liang",
+                "returnWin": 1.53
+            }
+        ],
+        "match_name": "Xiang v Liang Jingkun",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-12T03:50:00.000Z"
     }
 ]
