@@ -1,71 +1,5 @@
 [
     {
-        "contestant_names_odds": "Montana, (2.45) VERSES Idaho, (1.55)",
-        "contestant_names": "Montana VERSES Idaho",
-        "start_time_aest": "2026-03-12T14:40:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Montana",
-                "position": "HOME",
-                "short_name": "Montana"
-            },
-            {
-                "full_name": "Idaho",
-                "position": "AWAY",
-                "short_name": "Idaho"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Montana",
-                "returnWin": 2.45
-            },
-            {
-                "name": "Idaho",
-                "returnWin": 1.55
-            }
-        ],
-        "match_name": "Montana v Idaho",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-12T03:40:00.000Z",
-        "start_time_aest_old": "2026-03-12T14:30:00+11:00"
-    },
-    {
-        "contestant_names_odds": "Peng Xiang, (2.35) VERSES Jingkun Liang, (1.53)",
-        "contestant_names": "Peng Xiang VERSES Jingkun Liang",
-        "start_time_aest": "2026-03-12T14:50:00+11:00",
-        "sport_name": "Table Tennis",
-        "competition_name": "WTT Champions",
-        "tournamentName": "WTT Champions Chongqing Mens Singles",
-        "contestants": [
-            {
-                "full_name": "Peng Xiang",
-                "position": "HOME",
-                "short_name": "Xiang"
-            },
-            {
-                "full_name": "Jingkun Liang",
-                "position": "AWAY",
-                "short_name": "Liang Jingkun"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Peng Xiang",
-                "returnWin": 2.35
-            },
-            {
-                "name": "Jingkun Liang",
-                "returnWin": 1.53
-            }
-        ],
-        "match_name": "Xiang v Liang Jingkun",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-12T03:50:00.000Z"
-    },
-    {
         "contestant_names_odds": "Adriana Diaz, (1.57) VERSES Eunhye Lee, (2.25)",
         "contestant_names": "Adriana Diaz VERSES Eunhye Lee",
         "start_time_aest": "2026-03-12T15:25:00+11:00",
@@ -97,5 +31,38 @@
         "match_name": "ADiaz v Lee",
         "betOption": "Head To Head",
         "start_time": "2026-03-12T04:25:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Heroic, (2.05) VERSES BetBoom Team, (1.68)",
+        "contestant_names": "Heroic VERSES BetBoom Team",
+        "start_time_aest": "2026-03-12T19:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "tournamentName": "DOTA2 - PGL Wallachia",
+        "contestants": [
+            {
+                "full_name": "Heroic",
+                "position": "HOME",
+                "short_name": "Heroic"
+            },
+            {
+                "full_name": "BetBoom Team",
+                "position": "AWAY",
+                "short_name": "Betboom Team"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Heroic",
+                "returnWin": 2.05
+            },
+            {
+                "name": "BetBoom Team",
+                "returnWin": 1.68
+            }
+        ],
+        "match_name": "Heroic v Betboom Team",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-12T08:00:00.000Z"
     }
 ]
