@@ -1,5 +1,37 @@
 [
     {
+        "contestant_names_odds": "Grand Canyon, (1.58) VERSES Nevada, (2.4)",
+        "contestant_names": "Grand Canyon VERSES Nevada",
+        "start_time_aest": "2026-03-13T08:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Grand Canyon",
+                "position": "HOME",
+                "short_name": "Grand Canyon"
+            },
+            {
+                "full_name": "Nevada",
+                "position": "AWAY",
+                "short_name": "Nevada"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Grand Canyon",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Nevada",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Grand Canyon v Nevada",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-12T21:30:00.000Z"
+    },
+    {
         "contestant_names_odds": "Mihalikova/Olmos, (1.46) VERSES Haverlag/Santamaria, (2.5)",
         "contestant_names": "Mihalikova/Olmos VERSES Haverlag/Santamaria",
         "start_time_aest": "2026-03-13T08:30:00+11:00",
@@ -29,104 +61,6 @@
             }
         ],
         "match_name": "Mihalikova/Olmos v Haverlag/Santamaria",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-12T21:30:00.000Z",
-        "start_time_aest_old": "2026-03-13T08:00:00+11:00"
-    },
-    {
-        "contestant_names_odds": "Duquesne, (1.8) VERSES Rhode Island, (2)",
-        "contestant_names": "Duquesne VERSES Rhode Island",
-        "start_time_aest": "2026-03-13T08:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Duquesne",
-                "position": "HOME",
-                "short_name": "Duquesne"
-            },
-            {
-                "full_name": "Rhode Island",
-                "position": "AWAY",
-                "short_name": "Rhode Island"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Duquesne",
-                "returnWin": 1.8
-            },
-            {
-                "name": "Rhode Island",
-                "returnWin": 2
-            }
-        ],
-        "match_name": "Duquesne v Rhode Island",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-12T21:00:00.000Z"
-    },
-    {
-        "contestant_names_odds": "Danilina/Krunic, (1.65) VERSES Bucsa/Melichar, (2.15)",
-        "contestant_names": "Danilina/Krunic VERSES Bucsa/Melichar",
-        "start_time_aest": "2026-03-13T08:00:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA Doubles",
-        "tournamentName": "WTA Indian Wells Doubles",
-        "contestants": [
-            {
-                "full_name": "Danilina/Krunic",
-                "position": "HOME",
-                "short_name": "Danilina/Krunic"
-            },
-            {
-                "full_name": "Bucsa/Melichar",
-                "position": "AWAY",
-                "short_name": "Bucsa/Melichar"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Danilina/Krunic",
-                "returnWin": 1.65
-            },
-            {
-                "name": "Bucsa/Melichar",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Danilina/Krunic v Bucsa/Melichar",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-12T21:00:00.000Z"
-    },
-    {
-        "contestant_names_odds": "Grand Canyon, (1.55) VERSES Nevada, (2.45)",
-        "contestant_names": "Grand Canyon VERSES Nevada",
-        "start_time_aest": "2026-03-13T08:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
-        "contestants": [
-            {
-                "full_name": "Grand Canyon",
-                "position": "HOME",
-                "short_name": "Grand Canyon"
-            },
-            {
-                "full_name": "Nevada",
-                "position": "AWAY",
-                "short_name": "Nevada"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Grand Canyon",
-                "returnWin": 1.55
-            },
-            {
-                "name": "Nevada",
-                "returnWin": 2.45
-            }
-        ],
-        "match_name": "Grand Canyon v Nevada",
         "betOption": "Head To Head",
         "start_time": "2026-03-12T21:30:00.000Z"
     },
@@ -159,6 +93,39 @@
             }
         ],
         "match_name": "Holy Cross v Army",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-12T22:00:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Errani/Paolini, (2.5) VERSES Siniakova/Townsend, (1.5)",
+        "contestant_names": "Errani/Paolini VERSES Siniakova/Townsend",
+        "start_time_aest": "2026-03-13T09:00:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA Doubles",
+        "tournamentName": "WTA Indian Wells Doubles",
+        "contestants": [
+            {
+                "full_name": "Errani/Paolini",
+                "position": "HOME",
+                "short_name": "Errani/Paolini"
+            },
+            {
+                "full_name": "Siniakova/Townsend",
+                "position": "AWAY",
+                "short_name": "Siniakova/Townsend"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Errani/Paolini",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Siniakova/Townsend",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Errani/Paolini v Siniakova/Townsend",
         "betOption": "Head To Head",
         "start_time": "2026-03-12T22:00:00.000Z"
     }
