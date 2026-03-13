@@ -1,34 +1,98 @@
 [
     {
-        "contestant_names_odds": "Toledo, (1.67) VERSES Massachusetts, (2.2)",
-        "contestant_names": "Toledo VERSES Massachusetts",
-        "start_time_aest": "2026-03-14T08:00:00+11:00",
+        "contestant_names_odds": "Alabama State, (1.6) VERSES ArknsasPineBluff, (2.25)",
+        "contestant_names": "Alabama State VERSES ArknsasPineBluff",
+        "start_time_aest": "2026-03-14T08:30:00+11:00",
         "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball",
+        "competition_name": "NCAA Basketball Women",
         "contestants": [
             {
-                "full_name": "Toledo",
+                "full_name": "Alabama State",
                 "position": "HOME",
-                "short_name": "Toledo"
+                "short_name": "Alabama State"
             },
             {
-                "full_name": "Massachusetts",
+                "full_name": "ArknsasPineBluff",
                 "position": "AWAY",
-                "short_name": "Massachusetts"
+                "short_name": "ArknsasPineBluff"
             }
         ],
         "propositions": [
             {
-                "name": "Toledo",
-                "returnWin": 1.67
+                "name": "Alabama State",
+                "returnWin": 1.6
             },
             {
-                "name": "Massachusetts",
-                "returnWin": 2.2
+                "name": "ArknsasPineBluff",
+                "returnWin": 2.25
             }
         ],
-        "match_name": "Toledo v Massachusetts",
+        "match_name": "Alabama State v ArknsasPineBluff",
         "betOption": "Head To Head",
-        "start_time": "2026-03-13T21:00:00.000Z"
+        "start_time": "2026-03-13T21:30:00.000Z"
+    },
+    {
+        "contestant_names_odds": "UC San Diego, (1.5) VERSES UC Davis, (2.5)",
+        "contestant_names": "UC San Diego VERSES UC Davis",
+        "start_time_aest": "2026-03-14T08:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball Women",
+        "contestants": [
+            {
+                "full_name": "UC San Diego",
+                "position": "HOME",
+                "short_name": "UC San Diego"
+            },
+            {
+                "full_name": "UC Davis",
+                "position": "AWAY",
+                "short_name": "UC Davis"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "UC San Diego",
+                "returnWin": 1.5
+            },
+            {
+                "name": "UC Davis",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "UC San Diego v UC Davis",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-13T21:30:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Pato, (2.5) VERSES Mogi Das Cruzes, (1.45)",
+        "contestant_names": "Pato VERSES Mogi Das Cruzes",
+        "start_time_aest": "2026-03-14T09:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Brazil NBB",
+        "contestants": [
+            {
+                "full_name": "Pato",
+                "position": "HOME",
+                "short_name": "Pato"
+            },
+            {
+                "full_name": "Mogi Das Cruzes",
+                "position": "AWAY",
+                "short_name": "Mogi Das Cruzes"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Pato",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Mogi Das Cruzes",
+                "returnWin": 1.45
+            }
+        ],
+        "match_name": "Pato v Mogi Das Cruzes",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-13T22:30:00.000Z"
     }
 ]
