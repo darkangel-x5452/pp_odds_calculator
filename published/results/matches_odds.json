@@ -1,35 +1,99 @@
 [
     {
-        "contestant_names_odds": "Nongshim Red Force, (2) VERSES NRG, (1.72)",
-        "contestant_names": "Nongshim Red Force VERSES NRG",
-        "start_time_aest": "2026-03-14T04:00:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "Valorant",
-        "tournamentName": "Valorant - Masters Santiago",
+        "contestant_names_odds": "Terrtskul P/Taerattanachai S, (2) VERSES Zhu Y J/Li Q, (1.72)",
+        "contestant_names": "Terrtskul P/Taerattanachai S VERSES Zhu Y J/Li Q",
+        "start_time_aest": "2026-03-14T04:45:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour Doubles",
+        "tournamentName": "Swiss Open Mixed Doubles",
         "contestants": [
             {
-                "full_name": "Nongshim Red Force",
+                "full_name": "Terrtskul P/Taerattanachai S",
                 "position": "HOME",
-                "short_name": "Nongshim Red For"
+                "short_name": "TerrtskuTae"
             },
             {
-                "full_name": "NRG",
+                "full_name": "Zhu Y J/Li Q",
                 "position": "AWAY",
-                "short_name": "Nrg"
+                "short_name": "Zhu Y J/Li Q"
             }
         ],
         "propositions": [
             {
-                "name": "Nongshim Red Force",
+                "name": "Terrtskul P/Taerattanachai S",
                 "returnWin": 2
             },
             {
-                "name": "NRG",
+                "name": "Zhu Y J/Li Q",
                 "returnWin": 1.72
             }
         ],
-        "match_name": "Nongshim Red For v Nrg",
+        "match_name": "TerrtskuTae v Zhu Y J/Li Q",
         "betOption": "Head To Head",
-        "start_time": "2026-03-13T17:00:00.000Z"
+        "start_time": "2026-03-13T17:45:00.000Z"
+    },
+    {
+        "contestant_names_odds": "WBC Wels, (1.68) VERSES Redwell Gunners, (2.05)",
+        "contestant_names": "WBC Wels VERSES Redwell Gunners",
+        "start_time_aest": "2026-03-14T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Austria Bundesliga",
+        "contestants": [
+            {
+                "full_name": "WBC Wels",
+                "position": "HOME",
+                "short_name": "WBC Wels"
+            },
+            {
+                "full_name": "Redwell Gunners",
+                "position": "AWAY",
+                "short_name": "Redwell Gunners"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "WBC Wels",
+                "returnWin": 1.68
+            },
+            {
+                "name": "Redwell Gunners",
+                "returnWin": 2.05
+            }
+        ],
+        "match_name": "WBC Wels v Redwell Gunners",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-13T18:00:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Alabama AM, (1.74) VERSES Prairie View AM, (2.1)",
+        "contestant_names": "Alabama AM VERSES Prairie View AM",
+        "start_time_aest": "2026-03-14T05:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Alabama AM",
+                "position": "HOME",
+                "short_name": "Alabama AM"
+            },
+            {
+                "full_name": "Prairie View AM",
+                "position": "AWAY",
+                "short_name": "Prairie View AM"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Alabama AM",
+                "returnWin": 1.74
+            },
+            {
+                "name": "Prairie View AM",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Alabama AM v Prairie View AM",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-13T18:00:00.000Z"
     }
 ]
