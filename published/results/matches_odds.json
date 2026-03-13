@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names_odds": "Xunyao Shi, (2.2) VERSES Xingtong Chen, (1.6)",
-        "contestant_names": "Xunyao Shi VERSES Xingtong Chen",
-        "start_time_aest": "2026-03-13T23:20:00+11:00",
-        "sport_name": "Table Tennis",
-        "competition_name": "WTT Champions",
-        "tournamentName": "WTT Champions Chongqing Womens Singles",
-        "contestants": [
-            {
-                "full_name": "Xunyao Shi",
-                "position": "HOME",
-                "short_name": "Shi"
-            },
-            {
-                "full_name": "Xingtong Chen",
-                "position": "AWAY",
-                "short_name": "Chen Xingtong"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Xunyao Shi",
-                "returnWin": 2.2
-            },
-            {
-                "name": "Xingtong Chen",
-                "returnWin": 1.6
-            }
-        ],
-        "match_name": "Shi v Chen Xingtong",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-13T12:20:00.000Z"
-    },
-    {
         "contestant_names_odds": "Thamela/Victoria, (1.58) VERSES Kylie/Maixnerova, (2.3)",
         "contestant_names": "Thamela/Victoria VERSES Kylie/Maixnerova",
         "start_time_aest": "2026-03-14T00:00:00+11:00",
@@ -64,5 +31,70 @@
         "match_name": "Thamela/Victoria v Kylie/Maixnerova",
         "betOption": "Head To Head",
         "start_time": "2026-03-13T13:00:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Australia, (2.5) VERSES Netherlands, (1.45)",
+        "contestant_names": "Australia VERSES Netherlands",
+        "start_time_aest": "2026-03-14T00:55:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "3x3 Champions Cup Women",
+        "contestants": [
+            {
+                "full_name": "Australia",
+                "position": "HOME",
+                "short_name": "Australia"
+            },
+            {
+                "full_name": "Netherlands",
+                "position": "AWAY",
+                "short_name": "Netherlands"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Australia",
+                "returnWin": 2.5
+            },
+            {
+                "name": "Netherlands",
+                "returnWin": 1.45
+            }
+        ],
+        "match_name": "Australia v Netherlands",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-13T13:55:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Ievute/Kliokmanaite, (1.6) VERSES Carol Horta/Elize Maia, (2.25)",
+        "contestant_names": "Ievute/Kliokmanaite VERSES Carol Horta/Elize Maia",
+        "start_time_aest": "2026-03-14T01:00:00+11:00",
+        "sport_name": "Beach Volleyball",
+        "competition_name": "Beach Pro Tour Womens",
+        "tournamentName": "Beach Pro Tour Elite 16 Joao Pessoa Wom",
+        "contestants": [
+            {
+                "full_name": "Ievute/Kliokmanaite",
+                "position": "HOME",
+                "short_name": "Ivte/Klokmanaite"
+            },
+            {
+                "full_name": "Carol Horta/Elize Maia",
+                "position": "AWAY",
+                "short_name": "CrlHorta/ElzMaia"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Ievute/Kliokmanaite",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Carol Horta/Elize Maia",
+                "returnWin": 2.25
+            }
+        ],
+        "match_name": "Ivte/Klokmanaite v CrlHorta/ElzMaia",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-13T14:00:00.000Z"
     }
 ]
