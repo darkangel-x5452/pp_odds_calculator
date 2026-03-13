@@ -64,5 +64,38 @@
         "match_name": "Cassone v Kotov",
         "betOption": "Head To Head",
         "start_time": "2026-03-13T14:00:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Nozomi Okuhara, (1.8) VERSES Riko Gunji, (1.9)",
+        "contestant_names": "Nozomi Okuhara VERSES Riko Gunji",
+        "start_time_aest": "2026-03-14T01:15:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour",
+        "tournamentName": "Swiss Open Womens Singles",
+        "contestants": [
+            {
+                "full_name": "Nozomi Okuhara",
+                "position": "HOME",
+                "short_name": "Okuhara"
+            },
+            {
+                "full_name": "Riko Gunji",
+                "position": "AWAY",
+                "short_name": "Gunji"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Nozomi Okuhara",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Riko Gunji",
+                "returnWin": 1.9
+            }
+        ],
+        "match_name": "Okuhara v Gunji",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-13T14:15:00.000Z"
     }
 ]
