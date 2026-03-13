@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names_odds": "Thamela/Victoria, (1.58) VERSES Kylie/Maixnerova, (2.3)",
-        "contestant_names": "Thamela/Victoria VERSES Kylie/Maixnerova",
-        "start_time_aest": "2026-03-14T00:00:00+11:00",
-        "sport_name": "Beach Volleyball",
-        "competition_name": "Beach Pro Tour Womens",
-        "tournamentName": "Beach Pro Tour Elite 16 Joao Pessoa Wom",
-        "contestants": [
-            {
-                "full_name": "Thamela/Victoria",
-                "position": "HOME",
-                "short_name": "Thamela/Victoria"
-            },
-            {
-                "full_name": "Kylie/Maixnerova",
-                "position": "AWAY",
-                "short_name": "Kylie/Maixnerova"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Thamela/Victoria",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Kylie/Maixnerova",
-                "returnWin": 2.3
-            }
-        ],
-        "match_name": "Thamela/Victoria v Kylie/Maixnerova",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-13T13:00:00.000Z"
-    },
-    {
         "contestant_names_odds": "Australia, (2.5) VERSES Netherlands, (1.45)",
         "contestant_names": "Australia VERSES Netherlands",
         "start_time_aest": "2026-03-14T00:55:00+11:00",
@@ -94,6 +61,39 @@
             }
         ],
         "match_name": "Ivte/Klokmanaite v CrlHorta/ElzMaia",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-13T14:00:00.000Z"
+    },
+    {
+        "contestant_names_odds": "BetBoom Team, (2.15) VERSES Team Spirit, (1.62)",
+        "contestant_names": "BetBoom Team VERSES Team Spirit",
+        "start_time_aest": "2026-03-14T01:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "tournamentName": "DOTA2 - PGL Wallachia",
+        "contestants": [
+            {
+                "full_name": "BetBoom Team",
+                "position": "HOME",
+                "short_name": "Betboom Team"
+            },
+            {
+                "full_name": "Team Spirit",
+                "position": "AWAY",
+                "short_name": "Team Spirit"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "BetBoom Team",
+                "returnWin": 2.15
+            },
+            {
+                "name": "Team Spirit",
+                "returnWin": 1.62
+            }
+        ],
+        "match_name": "Betboom Team v Team Spirit",
         "betOption": "Head To Head",
         "start_time": "2026-03-13T14:00:00.000Z"
     }
