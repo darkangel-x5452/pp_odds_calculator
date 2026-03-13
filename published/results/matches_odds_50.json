@@ -30,5 +30,38 @@
         "match_name": "Louisiana Tech v Missouri State",
         "betOption": "Head To Head",
         "start_time": "2026-03-13T16:30:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Cheng X/Zhang C, (1.9) VERSES Hdayatullah J/Pasaribu F A N, (1.8)",
+        "contestant_names": "Cheng X/Zhang C VERSES Hdayatullah J/Pasaribu F A N",
+        "start_time_aest": "2026-03-14T04:00:00+11:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour Doubles",
+        "tournamentName": "Swiss Open Mixed Doubles",
+        "contestants": [
+            {
+                "full_name": "Cheng X/Zhang C",
+                "position": "HOME",
+                "short_name": "ChnXZgC"
+            },
+            {
+                "full_name": "Hdayatullah J/Pasaribu F A N",
+                "position": "AWAY",
+                "short_name": "Hdytullah/Psribu"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Cheng X/Zhang C",
+                "returnWin": 1.9
+            },
+            {
+                "name": "Hdayatullah J/Pasaribu F A N",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "ChnXZgC v Hdytullah/Psribu",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-13T17:00:00.000Z"
     }
 ]
