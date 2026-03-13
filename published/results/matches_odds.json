@@ -2,7 +2,7 @@
     {
         "contestant_names_odds": "Aurora, (2.05) VERSES Tundra Esports, (1.68)",
         "contestant_names": "Aurora VERSES Tundra Esports",
-        "start_time_aest": "2026-03-13T22:30:00+11:00",
+        "start_time_aest": "2026-03-13T22:45:00+11:00",
         "sport_name": "Esports",
         "competition_name": "DOTA2",
         "tournamentName": "DOTA2 - PGL Wallachia",
@@ -30,72 +30,7 @@
         ],
         "match_name": "Aurora v Tundra Esports",
         "betOption": "Head To Head",
-        "start_time": "2026-03-13T11:30:00.000Z",
-        "start_time_aest_old": "2026-03-13T22:00:00+11:00"
-    },
-    {
-        "contestant_names_odds": "Hubei Culture An, (1.66) VERSES Shandong Honey B, (2.05)",
-        "contestant_names": "Hubei Culture An VERSES Shandong Honey B",
-        "start_time_aest": "2026-03-13T22:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "China NBL",
-        "contestants": [
-            {
-                "full_name": "Hubei Culture An",
-                "position": "HOME",
-                "short_name": "Hubei Culture An"
-            },
-            {
-                "full_name": "Shandong Honey B",
-                "position": "AWAY",
-                "short_name": "Shandong Honey B"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Hubei Culture An",
-                "returnWin": 1.66
-            },
-            {
-                "name": "Shandong Honey B",
-                "returnWin": 2.05
-            }
-        ],
-        "match_name": "Hubei Culture An v Shandong Honey B",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-13T11:30:00.000Z"
-    },
-    {
-        "contestant_names_odds": "Hangzhou Jingwei, (2.05) VERSES Shijiazhuang Xia, (1.66)",
-        "contestant_names": "Hangzhou Jingwei VERSES Shijiazhuang Xia",
-        "start_time_aest": "2026-03-13T22:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "China NBL",
-        "contestants": [
-            {
-                "full_name": "Hangzhou Jingwei",
-                "position": "HOME",
-                "short_name": "Hangzhou Jingwei"
-            },
-            {
-                "full_name": "Shijiazhuang Xia",
-                "position": "AWAY",
-                "short_name": "Shijiazhuang Xia"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Hangzhou Jingwei",
-                "returnWin": 2.05
-            },
-            {
-                "name": "Shijiazhuang Xia",
-                "returnWin": 1.66
-            }
-        ],
-        "match_name": "Hangzhou Jingwei v Shijiazhuang Xia",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-13T11:30:00.000Z"
+        "start_time": "2026-03-13T11:45:00.000Z"
     },
     {
         "contestant_names_odds": "Shenzhen, (2.35) VERSES Guangdong, (1.5)",
@@ -194,5 +129,38 @@
         "match_name": "Vieira/Chamereau v Bkovec/Monkhouse",
         "betOption": "Head To Head",
         "start_time": "2026-03-13T12:00:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Xunyao Shi, (2.2) VERSES Xingtong Chen, (1.6)",
+        "contestant_names": "Xunyao Shi VERSES Xingtong Chen",
+        "start_time_aest": "2026-03-13T23:20:00+11:00",
+        "sport_name": "Table Tennis",
+        "competition_name": "WTT Champions",
+        "tournamentName": "WTT Champions Chongqing Womens Singles",
+        "contestants": [
+            {
+                "full_name": "Xunyao Shi",
+                "position": "HOME",
+                "short_name": "Shi"
+            },
+            {
+                "full_name": "Xingtong Chen",
+                "position": "AWAY",
+                "short_name": "Chen Xingtong"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Xunyao Shi",
+                "returnWin": 2.2
+            },
+            {
+                "name": "Xingtong Chen",
+                "returnWin": 1.6
+            }
+        ],
+        "match_name": "Shi v Chen Xingtong",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-13T12:20:00.000Z"
     }
 ]
