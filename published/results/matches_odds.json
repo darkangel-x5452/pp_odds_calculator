@@ -1,37 +1,5 @@
 [
     {
-        "contestant_names_odds": "Pato, (2.5) VERSES Mogi Das Cruzes, (1.45)",
-        "contestant_names": "Pato VERSES Mogi Das Cruzes",
-        "start_time_aest": "2026-03-14T09:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Brazil NBB",
-        "contestants": [
-            {
-                "full_name": "Pato",
-                "position": "HOME",
-                "short_name": "Pato"
-            },
-            {
-                "full_name": "Mogi Das Cruzes",
-                "position": "AWAY",
-                "short_name": "Mogi Das Cruzes"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Pato",
-                "returnWin": 2.5
-            },
-            {
-                "name": "Mogi Das Cruzes",
-                "returnWin": 1.45
-            }
-        ],
-        "match_name": "Pato v Mogi Das Cruzes",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-13T22:30:00.000Z"
-    },
-    {
         "contestant_names_odds": "SC Corinthians, (1.48) VERSES Sendi/Bauru, (2.4)",
         "contestant_names": "SC Corinthians VERSES Sendi/Bauru",
         "start_time_aest": "2026-03-14T10:00:00+11:00",
@@ -64,7 +32,7 @@
         "start_time": "2026-03-13T23:00:00.000Z"
     },
     {
-        "contestant_names_odds": "Arizona, (1.6) VERSES Iowa State, (2.35)",
+        "contestant_names_odds": "Arizona, (1.53) VERSES Iowa State, (2.5)",
         "contestant_names": "Arizona VERSES Iowa State",
         "start_time_aest": "2026-03-14T10:00:00+11:00",
         "sport_name": "Basketball",
@@ -84,11 +52,11 @@
         "propositions": [
             {
                 "name": "Arizona",
-                "returnWin": 1.6
+                "returnWin": 1.53
             },
             {
                 "name": "Iowa State",
-                "returnWin": 2.35
+                "returnWin": 2.5
             }
         ],
         "match_name": "Arizona v Iowa State",
@@ -96,7 +64,7 @@
         "start_time": "2026-03-13T23:00:00.000Z"
     },
     {
-        "contestant_names_odds": "Virginia, (1.58) VERSES Miami (FL), (2.4)",
+        "contestant_names_odds": "Virginia, (1.55) VERSES Miami (FL), (2.45)",
         "contestant_names": "Virginia VERSES Miami (FL)",
         "start_time_aest": "2026-03-14T10:00:00+11:00",
         "sport_name": "Basketball",
@@ -116,11 +84,11 @@
         "propositions": [
             {
                 "name": "Virginia",
-                "returnWin": 1.58
+                "returnWin": 1.55
             },
             {
                 "name": "Miami (FL)",
-                "returnWin": 2.4
+                "returnWin": 2.45
             }
         ],
         "match_name": "Virginia v Miami (FL)",
@@ -158,5 +126,37 @@
         "match_name": "NY Islanders v Los Angeles",
         "betOption": "Head To Head",
         "start_time": "2026-03-13T23:05:00.000Z"
+    },
+    {
+        "contestant_names_odds": "St Josephs, (1.7) VERSES Davidson, (2.15)",
+        "contestant_names": "St Josephs VERSES Davidson",
+        "start_time_aest": "2026-03-14T10:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "St Josephs",
+                "position": "HOME",
+                "short_name": "St Josephs"
+            },
+            {
+                "full_name": "Davidson",
+                "position": "AWAY",
+                "short_name": "Davidson"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "St Josephs",
+                "returnWin": 1.7
+            },
+            {
+                "name": "Davidson",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "St Josephs v Davidson",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-13T23:30:00.000Z"
     }
 ]
