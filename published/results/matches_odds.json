@@ -95,5 +95,37 @@
         "match_name": "Hangzhou Jingwei v Shijiazhuang Xia",
         "betOption": "Head To Head",
         "start_time": "2026-03-13T11:30:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Shenzhen, (2.35) VERSES Guangdong, (1.5)",
+        "contestant_names": "Shenzhen VERSES Guangdong",
+        "start_time_aest": "2026-03-13T23:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "China CBA",
+        "contestants": [
+            {
+                "full_name": "Shenzhen",
+                "position": "HOME",
+                "short_name": "Shenzhen"
+            },
+            {
+                "full_name": "Guangdong",
+                "position": "AWAY",
+                "short_name": "Guangdong"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Shenzhen",
+                "returnWin": 2.35
+            },
+            {
+                "name": "Guangdong",
+                "returnWin": 1.5
+            }
+        ],
+        "match_name": "Shenzhen v Guangdong",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-13T12:00:00.000Z"
     }
 ]
