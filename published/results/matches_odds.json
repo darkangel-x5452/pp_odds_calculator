@@ -1,6 +1,6 @@
 [
     {
-        "contestant_names_odds": "Vancouver, (2.35) VERSES Nashville, (1.58)",
+        "contestant_names_odds": "Vancouver, (2.3) VERSES Nashville, (1.6)",
         "contestant_names": "Vancouver VERSES Nashville",
         "start_time_aest": "2026-03-13T13:09:00+11:00",
         "sport_name": "Ice Hockey",
@@ -20,11 +20,11 @@
         "propositions": [
             {
                 "name": "Vancouver",
-                "returnWin": 2.35
+                "returnWin": 2.3
             },
             {
                 "name": "Nashville",
-                "returnWin": 1.58
+                "returnWin": 1.6
             }
         ],
         "match_name": "Vancouver v Nashville",
@@ -32,7 +32,7 @@
         "start_time": "2026-03-13T02:09:00.000Z"
     },
     {
-        "contestant_names_odds": "Las Vegas, (1.58) VERSES Pittsburgh, (2.35)",
+        "contestant_names_odds": "Las Vegas, (1.55) VERSES Pittsburgh, (2.4)",
         "contestant_names": "Las Vegas VERSES Pittsburgh",
         "start_time_aest": "2026-03-13T13:10:00+11:00",
         "sport_name": "Ice Hockey",
@@ -52,15 +52,47 @@
         "propositions": [
             {
                 "name": "Las Vegas",
-                "returnWin": 1.58
+                "returnWin": 1.55
             },
             {
                 "name": "Pittsburgh",
-                "returnWin": 2.35
+                "returnWin": 2.4
             }
         ],
         "match_name": "Las Vegas v Pittsburgh",
         "betOption": "Head To Head",
         "start_time": "2026-03-13T02:10:00.000Z"
+    },
+    {
+        "contestant_names_odds": "CSU Fullerton, (1.8) VERSES UC Davis, (2)",
+        "contestant_names": "CSU Fullerton VERSES UC Davis",
+        "start_time_aest": "2026-03-13T14:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "CSU Fullerton",
+                "position": "HOME",
+                "short_name": "CSU Fullerton"
+            },
+            {
+                "full_name": "UC Davis",
+                "position": "AWAY",
+                "short_name": "UC Davis"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "CSU Fullerton",
+                "returnWin": 1.8
+            },
+            {
+                "name": "UC Davis",
+                "returnWin": 2
+            }
+        ],
+        "match_name": "CSU Fullerton v UC Davis",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-13T03:30:00.000Z"
     }
 ]
