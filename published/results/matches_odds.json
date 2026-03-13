@@ -1,69 +1,5 @@
 [
     {
-        "contestant_names_odds": "Alabama State, (1.6) VERSES ArknsasPineBluff, (2.25)",
-        "contestant_names": "Alabama State VERSES ArknsasPineBluff",
-        "start_time_aest": "2026-03-14T08:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "Alabama State",
-                "position": "HOME",
-                "short_name": "Alabama State"
-            },
-            {
-                "full_name": "ArknsasPineBluff",
-                "position": "AWAY",
-                "short_name": "ArknsasPineBluff"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Alabama State",
-                "returnWin": 1.6
-            },
-            {
-                "name": "ArknsasPineBluff",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Alabama State v ArknsasPineBluff",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-13T21:30:00.000Z"
-    },
-    {
-        "contestant_names_odds": "UC San Diego, (1.5) VERSES UC Davis, (2.5)",
-        "contestant_names": "UC San Diego VERSES UC Davis",
-        "start_time_aest": "2026-03-14T08:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NCAA Basketball Women",
-        "contestants": [
-            {
-                "full_name": "UC San Diego",
-                "position": "HOME",
-                "short_name": "UC San Diego"
-            },
-            {
-                "full_name": "UC Davis",
-                "position": "AWAY",
-                "short_name": "UC Davis"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "UC San Diego",
-                "returnWin": 1.5
-            },
-            {
-                "name": "UC Davis",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "UC San Diego v UC Davis",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-13T21:30:00.000Z"
-    },
-    {
         "contestant_names_odds": "Pato, (2.5) VERSES Mogi Das Cruzes, (1.45)",
         "contestant_names": "Pato VERSES Mogi Das Cruzes",
         "start_time_aest": "2026-03-14T09:30:00+11:00",
@@ -94,5 +30,101 @@
         "match_name": "Pato v Mogi Das Cruzes",
         "betOption": "Head To Head",
         "start_time": "2026-03-13T22:30:00.000Z"
+    },
+    {
+        "contestant_names_odds": "SC Corinthians, (1.48) VERSES Sendi/Bauru, (2.4)",
+        "contestant_names": "SC Corinthians VERSES Sendi/Bauru",
+        "start_time_aest": "2026-03-14T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Brazil NBB",
+        "contestants": [
+            {
+                "full_name": "SC Corinthians",
+                "position": "HOME",
+                "short_name": "SC Corinthians"
+            },
+            {
+                "full_name": "Sendi/Bauru",
+                "position": "AWAY",
+                "short_name": "Sendi/Bauru"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "SC Corinthians",
+                "returnWin": 1.48
+            },
+            {
+                "name": "Sendi/Bauru",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "SC Corinthians v Sendi/Bauru",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-13T23:00:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Arizona, (1.55) VERSES Iowa State, (2.45)",
+        "contestant_names": "Arizona VERSES Iowa State",
+        "start_time_aest": "2026-03-14T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Arizona",
+                "position": "HOME",
+                "short_name": "Arizona"
+            },
+            {
+                "full_name": "Iowa State",
+                "position": "AWAY",
+                "short_name": "Iowa State"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Arizona",
+                "returnWin": 1.55
+            },
+            {
+                "name": "Iowa State",
+                "returnWin": 2.45
+            }
+        ],
+        "match_name": "Arizona v Iowa State",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-13T23:00:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Virginia, (1.58) VERSES Miami (FL), (2.4)",
+        "contestant_names": "Virginia VERSES Miami (FL)",
+        "start_time_aest": "2026-03-14T10:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "Virginia",
+                "position": "HOME",
+                "short_name": "Virginia"
+            },
+            {
+                "full_name": "Miami (FL)",
+                "position": "AWAY",
+                "short_name": "Miami (FL)"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Virginia",
+                "returnWin": 1.58
+            },
+            {
+                "name": "Miami (FL)",
+                "returnWin": 2.4
+            }
+        ],
+        "match_name": "Virginia v Miami (FL)",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-13T23:00:00.000Z"
     }
 ]
