@@ -1,34 +1,67 @@
 [
     {
-        "contestant_names_odds": "IBK Altos (W), (2.3) VERSES Seoul KIXX (W), (1.55)",
-        "contestant_names": "IBK Altos (W) VERSES Seoul KIXX (W)",
-        "start_time_aest": "2026-03-14T18:00:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "South Korea V League Women",
+        "contestant_names_odds": "Tundra Esports, (2.15) VERSES Team Spirit, (1.62)",
+        "contestant_names": "Tundra Esports VERSES Team Spirit",
+        "start_time_aest": "2026-03-14T19:00:00+11:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "tournamentName": "DOTA2 - PGL Wallachia",
         "contestants": [
             {
-                "full_name": "IBK Altos (W)",
+                "full_name": "Tundra Esports",
                 "position": "HOME",
-                "short_name": "IBK Altos (W)"
+                "short_name": "Tundra Esports"
             },
             {
-                "full_name": "Seoul KIXX (W)",
+                "full_name": "Team Spirit",
                 "position": "AWAY",
-                "short_name": "Seoul KIXX (W)"
+                "short_name": "Team Spirit"
             }
         ],
         "propositions": [
             {
-                "name": "IBK Altos (W)",
-                "returnWin": 2.3
+                "name": "Tundra Esports",
+                "returnWin": 2.15
             },
             {
-                "name": "Seoul KIXX (W)",
-                "returnWin": 1.55
+                "name": "Team Spirit",
+                "returnWin": 1.62
             }
         ],
-        "match_name": "IBK Altos (W) v Seoul KIXX (W)",
+        "match_name": "Tundra Esports v Team Spirit",
         "betOption": "Head To Head",
-        "start_time": "2026-03-14T07:00:00.000Z"
+        "start_time": "2026-03-14T08:00:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Adelaide Thunderbirds, (1.7) VERSES NSW Swifts, (2.1)",
+        "contestant_names": "Adelaide Thunderbirds VERSES NSW Swifts",
+        "start_time_aest": "2026-03-14T19:00:00+11:00",
+        "sport_name": "Netball",
+        "competition_name": "Super Netball",
+        "contestants": [
+            {
+                "full_name": "Adelaide Thunderbirds",
+                "position": "HOME",
+                "short_name": "Adelaide"
+            },
+            {
+                "full_name": "NSW Swifts",
+                "position": "AWAY",
+                "short_name": "NSW Swifts"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Adelaide Thunderbirds",
+                "returnWin": 1.7
+            },
+            {
+                "name": "NSW Swifts",
+                "returnWin": 2.1
+            }
+        ],
+        "match_name": "Adelaide v NSW Swifts",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-14T08:00:00.000Z"
     }
 ]
