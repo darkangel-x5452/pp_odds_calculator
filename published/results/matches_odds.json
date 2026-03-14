@@ -1,69 +1,5 @@
 [
     {
-        "contestant_names_odds": "Serbia, (1.6) VERSES Lithuania, (2.15)",
-        "contestant_names": "Serbia VERSES Lithuania",
-        "start_time_aest": "2026-03-14T19:05:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "3x3 Champions Cup",
-        "contestants": [
-            {
-                "full_name": "Serbia",
-                "position": "HOME",
-                "short_name": "Serbia"
-            },
-            {
-                "full_name": "Lithuania",
-                "position": "AWAY",
-                "short_name": "Lithuania"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Serbia",
-                "returnWin": 1.6
-            },
-            {
-                "name": "Lithuania",
-                "returnWin": 2.15
-            }
-        ],
-        "match_name": "Serbia v Lithuania",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-14T08:05:00.000Z"
-    },
-    {
-        "contestant_names_odds": "Sydney, (1.58) VERSES Brisbane, (2.4)",
-        "contestant_names": "Sydney VERSES Brisbane",
-        "start_time_aest": "2026-03-14T19:10:00+11:00",
-        "sport_name": "AFL Football",
-        "competition_name": "AFL",
-        "contestants": [
-            {
-                "full_name": "Sydney",
-                "position": "HOME",
-                "short_name": "Sydney"
-            },
-            {
-                "full_name": "Brisbane",
-                "position": "AWAY",
-                "short_name": "Brisbane"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Sydney",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Brisbane",
-                "returnWin": 2.4
-            }
-        ],
-        "match_name": "Sydney v Brisbane",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-14T08:10:00.000Z"
-    },
-    {
         "contestant_names_odds": "Collingwood, (1.6) VERSES Adelaide, (2.35)",
         "contestant_names": "Collingwood VERSES Adelaide",
         "start_time_aest": "2026-03-14T19:35:00+11:00",
@@ -94,5 +30,37 @@
         "match_name": "Collingwood v Adelaide",
         "betOption": "Head To Head",
         "start_time": "2026-03-14T08:35:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Changhua Bll, (2.4) VERSES Taiwan Beer, (1.48)",
+        "contestant_names": "Changhua Bll VERSES Taiwan Beer",
+        "start_time_aest": "2026-03-14T20:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Taiwan Super Basketball Challenge",
+        "contestants": [
+            {
+                "full_name": "Changhua Bll",
+                "position": "HOME",
+                "short_name": "Changhua Bll"
+            },
+            {
+                "full_name": "Taiwan Beer",
+                "position": "AWAY",
+                "short_name": "Taiwan Beer"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Changhua Bll",
+                "returnWin": 2.4
+            },
+            {
+                "name": "Taiwan Beer",
+                "returnWin": 1.48
+            }
+        ],
+        "match_name": "Changhua Bll v Taiwan Beer",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-14T09:00:00.000Z"
     }
 ]
