@@ -1,1 +1,68 @@
-[]
+[
+    {
+        "contestant_names_odds": "Paul Jubb, (1.9) VERSES Maxim Mrva, (1.8)",
+        "contestant_names": "Paul Jubb VERSES Maxim Mrva",
+        "start_time_aest": "2026-03-14T21:30:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Challenger",
+        "tournamentName": "Challenger Hersonissos 2",
+        "contestants": [
+            {
+                "full_name": "Paul Jubb",
+                "position": "HOME",
+                "short_name": "Jubb"
+            },
+            {
+                "full_name": "Maxim Mrva",
+                "position": "AWAY",
+                "short_name": "Mrva"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Paul Jubb",
+                "returnWin": 1.9
+            },
+            {
+                "name": "Maxim Mrva",
+                "returnWin": 1.8
+            }
+        ],
+        "match_name": "Jubb v Mrva",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-14T10:30:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Mohamad Zakaria, (1.8) VERSES Joel Makin, (1.95)",
+        "contestant_names": "Mohamad Zakaria VERSES Joel Makin",
+        "start_time_aest": "2026-03-14T21:45:00+11:00",
+        "sport_name": "Squash",
+        "competition_name": "PSA",
+        "tournamentName": "Australian Open Mens",
+        "contestants": [
+            {
+                "full_name": "Mohamad Zakaria",
+                "position": "HOME",
+                "short_name": "Zakaria"
+            },
+            {
+                "full_name": "Joel Makin",
+                "position": "AWAY",
+                "short_name": "Makin"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Mohamad Zakaria",
+                "returnWin": 1.8
+            },
+            {
+                "name": "Joel Makin",
+                "returnWin": 1.95
+            }
+        ],
+        "match_name": "Zakaria v Makin",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-14T10:45:00.000Z"
+    }
+]
