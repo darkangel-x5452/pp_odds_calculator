@@ -1,73 +1,8 @@
 [
     {
-        "contestant_names_odds": "Fijian Drua, (2.1) VERSES Brumbies, (1.74)",
-        "contestant_names": "Fijian Drua VERSES Brumbies",
-        "start_time_aest": "2026-03-14T14:35:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "Super Rugby Pacific",
-        "contestants": [
-            {
-                "full_name": "Fijian Drua",
-                "position": "HOME",
-                "short_name": "Fijian Drua"
-            },
-            {
-                "full_name": "Brumbies",
-                "position": "AWAY",
-                "short_name": "Brumbies"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Fijian Drua",
-                "returnWin": 2.1
-            },
-            {
-                "name": "Brumbies",
-                "returnWin": 1.74
-            }
-        ],
-        "match_name": "Fijian Drua v Brumbies",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-14T03:35:00.000Z"
-    },
-    {
-        "contestant_names_odds": "Dang Qiu, (2.25) VERSES Ruibo Wen, (1.57)",
-        "contestant_names": "Dang Qiu VERSES Ruibo Wen",
-        "start_time_aest": "2026-03-14T14:45:00+11:00",
-        "sport_name": "Table Tennis",
-        "competition_name": "WTT Champions",
-        "tournamentName": "WTT Champions Chongqing Mens Singles",
-        "contestants": [
-            {
-                "full_name": "Dang Qiu",
-                "position": "HOME",
-                "short_name": "Qiu"
-            },
-            {
-                "full_name": "Ruibo Wen",
-                "position": "AWAY",
-                "short_name": "Wen"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Dang Qiu",
-                "returnWin": 2.25
-            },
-            {
-                "name": "Ruibo Wen",
-                "returnWin": 1.57
-            }
-        ],
-        "match_name": "Qiu v Wen",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-14T03:45:00.000Z"
-    },
-    {
         "contestant_names_odds": "San Diego State, (1.7) VERSES New Mexico, (2.15)",
         "contestant_names": "San Diego State VERSES New Mexico",
-        "start_time_aest": "2026-03-14T15:00:00+11:00",
+        "start_time_aest": "2026-03-14T15:25:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "NCAA Basketball",
         "contestants": [
@@ -94,7 +29,8 @@
         ],
         "match_name": "San Diego State v New Mexico",
         "betOption": "Head To Head",
-        "start_time": "2026-03-14T04:00:00.000Z"
+        "start_time": "2026-03-14T04:25:00.000Z",
+        "start_time_aest_old": "2026-03-14T15:00:00+11:00"
     },
     {
         "contestant_names_odds": "Wests Tigers, (1.55) VERSES Nth Qld, (2.45)",
@@ -159,5 +95,102 @@
         "match_name": "Denso (W) v PFU Bluecats (W)",
         "betOption": "Head To Head",
         "start_time": "2026-03-14T04:05:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Yun-Ju Lin, (2.1) VERSES Tomokazu Harimoto, (1.65)",
+        "contestant_names": "Yun-Ju Lin VERSES Tomokazu Harimoto",
+        "start_time_aest": "2026-03-14T15:45:00+11:00",
+        "sport_name": "Table Tennis",
+        "competition_name": "WTT Champions",
+        "tournamentName": "WTT Champions Chongqing Mens Singles",
+        "contestants": [
+            {
+                "full_name": "Yun-Ju Lin",
+                "position": "HOME",
+                "short_name": "Lin YJ"
+            },
+            {
+                "full_name": "Tomokazu Harimoto",
+                "position": "AWAY",
+                "short_name": "Harimoto T"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Yun-Ju Lin",
+                "returnWin": 2.1
+            },
+            {
+                "name": "Tomokazu Harimoto",
+                "returnWin": 1.65
+            }
+        ],
+        "match_name": "Lin YJ v Harimoto T",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-14T04:45:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Busan Sonicboom, (2.05) VERSES Seoul Knights, (1.66)",
+        "contestant_names": "Busan Sonicboom VERSES Seoul Knights",
+        "start_time_aest": "2026-03-14T16:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "South Korea KBL",
+        "contestants": [
+            {
+                "full_name": "Busan Sonicboom",
+                "position": "HOME",
+                "short_name": "Busan Sonicboom"
+            },
+            {
+                "full_name": "Seoul Knights",
+                "position": "AWAY",
+                "short_name": "Seoul Knights"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Busan Sonicboom",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Seoul Knights",
+                "returnWin": 1.66
+            }
+        ],
+        "match_name": "Busan Sonicboom v Seoul Knights",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-14T05:00:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Jeonju KCC Egis, (2.05) VERSES Anyang, (1.66)",
+        "contestant_names": "Jeonju KCC Egis VERSES Anyang",
+        "start_time_aest": "2026-03-14T16:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "South Korea KBL",
+        "contestants": [
+            {
+                "full_name": "Jeonju KCC Egis",
+                "position": "HOME",
+                "short_name": "Jeonju KCC Egis"
+            },
+            {
+                "full_name": "Anyang",
+                "position": "AWAY",
+                "short_name": "Anyang"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Jeonju KCC Egis",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Anyang",
+                "returnWin": 1.66
+            }
+        ],
+        "match_name": "Jeonju KCC Egis v Anyang",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-14T05:00:00.000Z"
     }
 ]
