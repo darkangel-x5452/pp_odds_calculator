@@ -32,6 +32,38 @@
         "start_time": "2026-03-14T02:40:00.000Z"
     },
     {
+        "contestant_names_odds": "Zonkeys De Tijua, (1.45) VERSES Venados Mazatlan, (2.5)",
+        "contestant_names": "Zonkeys De Tijua VERSES Venados Mazatlan",
+        "start_time_aest": "2026-03-14T14:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Mexico CIBACOPA",
+        "contestants": [
+            {
+                "full_name": "Zonkeys De Tijua",
+                "position": "HOME",
+                "short_name": "Zonkeys De Tijua"
+            },
+            {
+                "full_name": "Venados Mazatlan",
+                "position": "AWAY",
+                "short_name": "Venados Mazatlan"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Zonkeys De Tijua",
+                "returnWin": 1.45
+            },
+            {
+                "name": "Venados Mazatlan",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Zonkeys De Tijua v Venados Mazatlan",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-14T03:00:00.000Z"
+    },
+    {
         "contestant_names_odds": "Spears Kubota, (1.62) VERSES Wild Knights, (2.2)",
         "contestant_names": "Spears Kubota VERSES Wild Knights",
         "start_time_aest": "2026-03-14T14:00:00+11:00",
@@ -62,5 +94,102 @@
         "match_name": "Spears Kubota v Wild Knights",
         "betOption": "Head To Head",
         "start_time": "2026-03-14T03:00:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Osaka, (1.45) VERSES Toyama Grouses, (2.5)",
+        "contestant_names": "Osaka VERSES Toyama Grouses",
+        "start_time_aest": "2026-03-14T14:05:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Japan B League",
+        "contestants": [
+            {
+                "full_name": "Osaka",
+                "position": "HOME",
+                "short_name": "Osaka"
+            },
+            {
+                "full_name": "Toyama Grouses",
+                "position": "AWAY",
+                "short_name": "Toyama Grouses"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Osaka",
+                "returnWin": 1.45
+            },
+            {
+                "name": "Toyama Grouses",
+                "returnWin": 2.5
+            }
+        ],
+        "match_name": "Osaka v Toyama Grouses",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-14T03:05:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Fijian Drua, (2.05) VERSES Brumbies, (1.77)",
+        "contestant_names": "Fijian Drua VERSES Brumbies",
+        "start_time_aest": "2026-03-14T14:35:00+11:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "Super Rugby Pacific",
+        "contestants": [
+            {
+                "full_name": "Fijian Drua",
+                "position": "HOME",
+                "short_name": "Fijian Drua"
+            },
+            {
+                "full_name": "Brumbies",
+                "position": "AWAY",
+                "short_name": "Brumbies"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Fijian Drua",
+                "returnWin": 2.05
+            },
+            {
+                "name": "Brumbies",
+                "returnWin": 1.77
+            }
+        ],
+        "match_name": "Fijian Drua v Brumbies",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-14T03:35:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Dang Qiu, (2.25) VERSES Ruibo Wen, (1.57)",
+        "contestant_names": "Dang Qiu VERSES Ruibo Wen",
+        "start_time_aest": "2026-03-14T14:45:00+11:00",
+        "sport_name": "Table Tennis",
+        "competition_name": "WTT Champions",
+        "tournamentName": "WTT Champions Chongqing Mens Singles",
+        "contestants": [
+            {
+                "full_name": "Dang Qiu",
+                "position": "HOME",
+                "short_name": "Qiu"
+            },
+            {
+                "full_name": "Ruibo Wen",
+                "position": "AWAY",
+                "short_name": "Wen"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Dang Qiu",
+                "returnWin": 2.25
+            },
+            {
+                "name": "Ruibo Wen",
+                "returnWin": 1.57
+            }
+        ],
+        "match_name": "Qiu v Wen",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-14T03:45:00.000Z"
     }
 ]
