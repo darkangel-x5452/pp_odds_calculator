@@ -1,101 +1,5 @@
 [
     {
-        "contestant_names_odds": "Astros, (1.62) VERSES Flamengo, (2.1)",
-        "contestant_names": "Astros VERSES Flamengo",
-        "start_time_aest": "2026-03-14T13:40:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Champions League Americas",
-        "contestants": [
-            {
-                "full_name": "Astros",
-                "position": "HOME",
-                "short_name": "Astros"
-            },
-            {
-                "full_name": "Flamengo",
-                "position": "AWAY",
-                "short_name": "Flamengo"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Astros",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Flamengo",
-                "returnWin": 2.1
-            }
-        ],
-        "match_name": "Astros v Flamengo",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-14T02:40:00.000Z"
-    },
-    {
-        "contestant_names_odds": "Zonkeys De Tijua, (1.45) VERSES Venados Mazatlan, (2.5)",
-        "contestant_names": "Zonkeys De Tijua VERSES Venados Mazatlan",
-        "start_time_aest": "2026-03-14T14:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Mexico CIBACOPA",
-        "contestants": [
-            {
-                "full_name": "Zonkeys De Tijua",
-                "position": "HOME",
-                "short_name": "Zonkeys De Tijua"
-            },
-            {
-                "full_name": "Venados Mazatlan",
-                "position": "AWAY",
-                "short_name": "Venados Mazatlan"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Zonkeys De Tijua",
-                "returnWin": 1.45
-            },
-            {
-                "name": "Venados Mazatlan",
-                "returnWin": 2.5
-            }
-        ],
-        "match_name": "Zonkeys De Tijua v Venados Mazatlan",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-14T03:00:00.000Z"
-    },
-    {
-        "contestant_names_odds": "Spears Kubota, (1.62) VERSES Wild Knights, (2.2)",
-        "contestant_names": "Spears Kubota VERSES Wild Knights",
-        "start_time_aest": "2026-03-14T14:00:00+11:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "Japan League One",
-        "contestants": [
-            {
-                "full_name": "Spears Kubota",
-                "position": "HOME",
-                "short_name": "Spears Kubota"
-            },
-            {
-                "full_name": "Wild Knights",
-                "position": "AWAY",
-                "short_name": "Wild Knights"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Spears Kubota",
-                "returnWin": 1.62
-            },
-            {
-                "name": "Wild Knights",
-                "returnWin": 2.2
-            }
-        ],
-        "match_name": "Spears Kubota v Wild Knights",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-14T03:00:00.000Z"
-    },
-    {
         "contestant_names_odds": "Osaka, (1.45) VERSES Toyama Grouses, (2.5)",
         "contestant_names": "Osaka VERSES Toyama Grouses",
         "start_time_aest": "2026-03-14T14:05:00+11:00",
@@ -128,7 +32,7 @@
         "start_time": "2026-03-14T03:05:00.000Z"
     },
     {
-        "contestant_names_odds": "Fijian Drua, (2.05) VERSES Brumbies, (1.77)",
+        "contestant_names_odds": "Fijian Drua, (2) VERSES Brumbies, (1.8)",
         "contestant_names": "Fijian Drua VERSES Brumbies",
         "start_time_aest": "2026-03-14T14:35:00+11:00",
         "sport_name": "Rugby Union",
@@ -148,11 +52,11 @@
         "propositions": [
             {
                 "name": "Fijian Drua",
-                "returnWin": 2.05
+                "returnWin": 2
             },
             {
                 "name": "Brumbies",
-                "returnWin": 1.77
+                "returnWin": 1.8
             }
         ],
         "match_name": "Fijian Drua v Brumbies",
@@ -191,5 +95,37 @@
         "match_name": "Qiu v Wen",
         "betOption": "Head To Head",
         "start_time": "2026-03-14T03:45:00.000Z"
+    },
+    {
+        "contestant_names_odds": "San Diego State, (1.7) VERSES New Mexico, (2.15)",
+        "contestant_names": "San Diego State VERSES New Mexico",
+        "start_time_aest": "2026-03-14T15:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NCAA Basketball",
+        "contestants": [
+            {
+                "full_name": "San Diego State",
+                "position": "HOME",
+                "short_name": "San Diego State"
+            },
+            {
+                "full_name": "New Mexico",
+                "position": "AWAY",
+                "short_name": "New Mexico"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "San Diego State",
+                "returnWin": 1.7
+            },
+            {
+                "name": "New Mexico",
+                "returnWin": 2.15
+            }
+        ],
+        "match_name": "San Diego State v New Mexico",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-14T04:00:00.000Z"
     }
 ]
