@@ -1,89 +1,5 @@
 [
     {
-        "contestant_names_prop": "Schweriner SC (W), (2.5) VERSES Allianz MTV Stuttgart (W), (1.46)",
-        "contestant_names": "Schweriner SC (W) VERSES Allianz MTV Stuttgart (W)",
-        "start_time_aest": "2026-03-15T03:15:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Germany 1. Bundesliga Women",
-        "contestants": [
-            {
-                "full_name": "Schweriner SC (W)",
-                "position": "HOME",
-                "short_name": "Schweriner (W)"
-            },
-            {
-                "full_name": "Allianz MTV Stuttgart (W)",
-                "position": "AWAY",
-                "short_name": "Allianz MTV (W)"
-            }
-        ],
-        "match_name": "Schweriner (W) v Allianz MTV (W)",
-        "start_time": "2026-03-14T16:15:00.000Z"
-    },
-    {
-        "contestant_names_prop": "KK Igokea, (1.72) VERSES KK Bosna, (2)",
-        "contestant_names": "KK Igokea VERSES KK Bosna",
-        "start_time_aest": "2026-03-15T03:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "ABA League",
-        "contestants": [
-            {
-                "full_name": "KK Igokea",
-                "position": "HOME",
-                "short_name": "KK Igokea"
-            },
-            {
-                "full_name": "KK Bosna",
-                "position": "AWAY",
-                "short_name": "KK Bosna"
-            }
-        ],
-        "match_name": "KK Igokea v KK Bosna",
-        "start_time": "2026-03-14T16:30:00.000Z"
-    },
-    {
-        "contestant_names_prop": "NH Ostrava, (2.4) VERSES Usti nad Labem, (1.48)",
-        "contestant_names": "NH Ostrava VERSES Usti nad Labem",
-        "start_time_aest": "2026-03-15T03:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Czech Republic NBL",
-        "contestants": [
-            {
-                "full_name": "NH Ostrava",
-                "position": "HOME",
-                "short_name": "NH Ostrava"
-            },
-            {
-                "full_name": "Usti nad Labem",
-                "position": "AWAY",
-                "short_name": "Usti nad Labem"
-            }
-        ],
-        "match_name": "NH Ostrava v Usti nad Labem",
-        "start_time": "2026-03-14T16:30:00.000Z"
-    },
-    {
-        "contestant_names_prop": "SmAesch Pfeffingen (W), (2.35) VERSES Kanti Schaffhausen (W), (1.52)",
-        "contestant_names": "SmAesch Pfeffingen (W) VERSES Kanti Schaffhausen (W)",
-        "start_time_aest": "2026-03-15T03:30:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Switzerland NLA Women",
-        "contestants": [
-            {
-                "full_name": "SmAesch Pfeffingen (W)",
-                "position": "HOME",
-                "short_name": "Pfeffingen (W)"
-            },
-            {
-                "full_name": "Kanti Schaffhausen (W)",
-                "position": "AWAY",
-                "short_name": "Kanti Schaff (W)"
-            }
-        ],
-        "match_name": "Pfeffingen (W) v Kanti Schaff (W)",
-        "start_time": "2026-03-14T16:30:00.000Z"
-    },
-    {
         "contestant_names_prop": "Wales, (2.25) VERSES Italy, (1.58)",
         "contestant_names": "Wales VERSES Italy",
         "start_time_aest": "2026-03-15T03:40:00+11:00",
@@ -103,5 +19,68 @@
         ],
         "match_name": "Wales v Italy",
         "start_time": "2026-03-14T16:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Hallmann Vienna, (1.55) VERSES Studentski Centa, (2.3)",
+        "contestant_names": "Hallmann Vienna VERSES Studentski Centa",
+        "start_time_aest": "2026-03-15T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "ABA League",
+        "contestants": [
+            {
+                "full_name": "Hallmann Vienna",
+                "position": "HOME",
+                "short_name": "Hallmann Vienna"
+            },
+            {
+                "full_name": "Studentski Centa",
+                "position": "AWAY",
+                "short_name": "Studentski Centa"
+            }
+        ],
+        "match_name": "Hallmann Vienna v Studentski Centa",
+        "start_time": "2026-03-14T17:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Minyor 2015, (1.72) VERSES Academic Bultex, (2)",
+        "contestant_names": "Minyor 2015 VERSES Academic Bultex",
+        "start_time_aest": "2026-03-15T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Bulgaria NBL",
+        "contestants": [
+            {
+                "full_name": "Minyor 2015",
+                "position": "HOME",
+                "short_name": "Minyor 2015"
+            },
+            {
+                "full_name": "Academic Bultex",
+                "position": "AWAY",
+                "short_name": "Academic Bultex"
+            }
+        ],
+        "match_name": "Minyor 2015 v Academic Bultex",
+        "start_time": "2026-03-14T17:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Olomoucko, (1.6) VERSES Blk Slavia Praha, (2.15)",
+        "contestant_names": "Olomoucko VERSES Blk Slavia Praha",
+        "start_time_aest": "2026-03-15T04:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Czech Republic NBL",
+        "contestants": [
+            {
+                "full_name": "Olomoucko",
+                "position": "HOME",
+                "short_name": "Olomoucko"
+            },
+            {
+                "full_name": "Blk Slavia Praha",
+                "position": "AWAY",
+                "short_name": "Blk Slavia Praha"
+            }
+        ],
+        "match_name": "Olomoucko v Blk Slavia Praha",
+        "start_time": "2026-03-14T17:00:00.000Z"
     }
 ]
