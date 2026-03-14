@@ -1,67 +1,98 @@
 [
     {
-        "contestant_names_odds": "Tundra Esports, (2.15) VERSES Team Spirit, (1.62)",
-        "contestant_names": "Tundra Esports VERSES Team Spirit",
-        "start_time_aest": "2026-03-14T19:00:00+11:00",
-        "sport_name": "Esports",
-        "competition_name": "DOTA2",
-        "tournamentName": "DOTA2 - PGL Wallachia",
+        "contestant_names_odds": "Serbia, (1.6) VERSES Lithuania, (2.15)",
+        "contestant_names": "Serbia VERSES Lithuania",
+        "start_time_aest": "2026-03-14T19:05:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "3x3 Champions Cup",
         "contestants": [
             {
-                "full_name": "Tundra Esports",
+                "full_name": "Serbia",
                 "position": "HOME",
-                "short_name": "Tundra Esports"
+                "short_name": "Serbia"
             },
             {
-                "full_name": "Team Spirit",
+                "full_name": "Lithuania",
                 "position": "AWAY",
-                "short_name": "Team Spirit"
+                "short_name": "Lithuania"
             }
         ],
         "propositions": [
             {
-                "name": "Tundra Esports",
-                "returnWin": 2.15
+                "name": "Serbia",
+                "returnWin": 1.6
             },
             {
-                "name": "Team Spirit",
-                "returnWin": 1.62
+                "name": "Lithuania",
+                "returnWin": 2.15
             }
         ],
-        "match_name": "Tundra Esports v Team Spirit",
+        "match_name": "Serbia v Lithuania",
         "betOption": "Head To Head",
-        "start_time": "2026-03-14T08:00:00.000Z"
+        "start_time": "2026-03-14T08:05:00.000Z"
     },
     {
-        "contestant_names_odds": "Adelaide Thunderbirds, (1.7) VERSES NSW Swifts, (2.1)",
-        "contestant_names": "Adelaide Thunderbirds VERSES NSW Swifts",
-        "start_time_aest": "2026-03-14T19:00:00+11:00",
-        "sport_name": "Netball",
-        "competition_name": "Super Netball",
+        "contestant_names_odds": "Sydney, (1.58) VERSES Brisbane, (2.4)",
+        "contestant_names": "Sydney VERSES Brisbane",
+        "start_time_aest": "2026-03-14T19:10:00+11:00",
+        "sport_name": "AFL Football",
+        "competition_name": "AFL",
         "contestants": [
             {
-                "full_name": "Adelaide Thunderbirds",
+                "full_name": "Sydney",
                 "position": "HOME",
-                "short_name": "Adelaide"
+                "short_name": "Sydney"
             },
             {
-                "full_name": "NSW Swifts",
+                "full_name": "Brisbane",
                 "position": "AWAY",
-                "short_name": "NSW Swifts"
+                "short_name": "Brisbane"
             }
         ],
         "propositions": [
             {
-                "name": "Adelaide Thunderbirds",
-                "returnWin": 1.7
+                "name": "Sydney",
+                "returnWin": 1.58
             },
             {
-                "name": "NSW Swifts",
-                "returnWin": 2.1
+                "name": "Brisbane",
+                "returnWin": 2.4
             }
         ],
-        "match_name": "Adelaide v NSW Swifts",
+        "match_name": "Sydney v Brisbane",
         "betOption": "Head To Head",
-        "start_time": "2026-03-14T08:00:00.000Z"
+        "start_time": "2026-03-14T08:10:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Collingwood, (1.6) VERSES Adelaide, (2.35)",
+        "contestant_names": "Collingwood VERSES Adelaide",
+        "start_time_aest": "2026-03-14T19:35:00+11:00",
+        "sport_name": "AFL Football",
+        "competition_name": "AFL",
+        "contestants": [
+            {
+                "full_name": "Collingwood",
+                "position": "HOME",
+                "short_name": "Collingwood"
+            },
+            {
+                "full_name": "Adelaide",
+                "position": "AWAY",
+                "short_name": "Adelaide"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Collingwood",
+                "returnWin": 1.6
+            },
+            {
+                "name": "Adelaide",
+                "returnWin": 2.35
+            }
+        ],
+        "match_name": "Collingwood v Adelaide",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-14T08:35:00.000Z"
     }
 ]
