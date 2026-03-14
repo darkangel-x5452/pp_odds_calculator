@@ -1,38 +1,5 @@
 [
     {
-        "contestant_names_odds": "Paul Jubb, (1.9) VERSES Maxim Mrva, (1.8)",
-        "contestant_names": "Paul Jubb VERSES Maxim Mrva",
-        "start_time_aest": "2026-03-14T21:30:00+11:00",
-        "sport_name": "Tennis",
-        "competition_name": "Challenger",
-        "tournamentName": "Challenger Hersonissos 2",
-        "contestants": [
-            {
-                "full_name": "Paul Jubb",
-                "position": "HOME",
-                "short_name": "Jubb"
-            },
-            {
-                "full_name": "Maxim Mrva",
-                "position": "AWAY",
-                "short_name": "Mrva"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Paul Jubb",
-                "returnWin": 1.9
-            },
-            {
-                "name": "Maxim Mrva",
-                "returnWin": 1.8
-            }
-        ],
-        "match_name": "Jubb v Mrva",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-14T10:30:00.000Z"
-    },
-    {
         "contestant_names_odds": "Mohamad Zakaria, (1.8) VERSES Joel Makin, (1.95)",
         "contestant_names": "Mohamad Zakaria VERSES Joel Makin",
         "start_time_aest": "2026-03-14T21:45:00+11:00",
@@ -64,5 +31,37 @@
         "match_name": "Zakaria v Makin",
         "betOption": "Head To Head",
         "start_time": "2026-03-14T10:45:00.000Z"
+    },
+    {
+        "contestant_names_odds": "Yulon Luxgen, (1.77) VERSES Keelung Black Ki, (1.9)",
+        "contestant_names": "Yulon Luxgen VERSES Keelung Black Ki",
+        "start_time_aest": "2026-03-14T22:00:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Taiwan Super Basketball Challenge",
+        "contestants": [
+            {
+                "full_name": "Yulon Luxgen",
+                "position": "HOME",
+                "short_name": "Yulon Luxgen"
+            },
+            {
+                "full_name": "Keelung Black Ki",
+                "position": "AWAY",
+                "short_name": "Keelung Black Ki"
+            }
+        ],
+        "propositions": [
+            {
+                "name": "Yulon Luxgen",
+                "returnWin": 1.77
+            },
+            {
+                "name": "Keelung Black Ki",
+                "returnWin": 1.9
+            }
+        ],
+        "match_name": "Yulon Luxgen v Keelung Black Ki",
+        "betOption": "Head To Head",
+        "start_time": "2026-03-14T11:00:00.000Z"
     }
 ]
