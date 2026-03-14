@@ -1,38 +1,6 @@
 [
     {
-        "contestant_names_odds": "Besiktas (W), (1.58) VERSES Kuzeyboru (W), (2.25)",
-        "contestant_names": "Besiktas (W) VERSES Kuzeyboru (W)",
-        "start_time_aest": "2026-03-14T22:00:00+11:00",
-        "sport_name": "Volleyball",
-        "competition_name": "Turkish Womens Volleyball League",
-        "contestants": [
-            {
-                "full_name": "Besiktas (W)",
-                "position": "HOME",
-                "short_name": "Besiktas (W)"
-            },
-            {
-                "full_name": "Kuzeyboru (W)",
-                "position": "AWAY",
-                "short_name": "Kuzeyboru (W)"
-            }
-        ],
-        "propositions": [
-            {
-                "name": "Besiktas (W)",
-                "returnWin": 1.58
-            },
-            {
-                "name": "Kuzeyboru (W)",
-                "returnWin": 2.25
-            }
-        ],
-        "match_name": "Besiktas (W) v Kuzeyboru (W)",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-14T11:00:00.000Z"
-    },
-    {
-        "contestant_names_odds": "Lundgaard D/Vestergaard M, (1.72) VERSES Sukphun P/Teeraratsakul P, (2)",
+        "contestant_names_prop": "Lundgaard D/Vestergaard M, (1.65) VERSES Sukphun P/Teeraratsakul P, (2.1)",
         "contestant_names": "Lundgaard D/Vestergaard M VERSES Sukphun P/Teeraratsakul P",
         "start_time_aest": "2026-03-14T22:20:00+11:00",
         "sport_name": "Badminton",
@@ -50,18 +18,134 @@
                 "short_name": "Skn/TerrtsklPk"
             }
         ],
-        "propositions": [
+        "match_name": "Lndgd/Vstrgard v Skn/TerrtsklPk",
+        "start_time": "2026-03-14T11:20:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Rain Shine Pntrs, (1.45) VERSES Macau BlackBears, (2.5)",
+        "contestant_names": "Rain Shine Pntrs VERSES Macau BlackBears",
+        "start_time_aest": "2026-03-14T22:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Philippines PBA Cup",
+        "contestants": [
             {
-                "name": "Lundgaard D/Vestergaard M",
-                "returnWin": 1.72
+                "full_name": "Rain Shine Pntrs",
+                "position": "HOME",
+                "short_name": "Rain Shine Pntrs"
             },
             {
-                "name": "Sukphun P/Teeraratsakul P",
-                "returnWin": 2
+                "full_name": "Macau BlackBears",
+                "position": "AWAY",
+                "short_name": "Macau BlackBears"
             }
         ],
-        "match_name": "Lndgd/Vstrgard v Skn/TerrtsklPk",
-        "betOption": "Head To Head",
-        "start_time": "2026-03-14T11:20:00.000Z"
+        "match_name": "Rain Shine Pntrs v Macau BlackBears",
+        "start_time": "2026-03-14T11:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "GTK Gliwice, (2.1) VERSES Gornik Walbrzych, (1.65)",
+        "contestant_names": "GTK Gliwice VERSES Gornik Walbrzych",
+        "start_time_aest": "2026-03-14T22:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "Poland Energa Basket Liga",
+        "contestants": [
+            {
+                "full_name": "GTK Gliwice",
+                "position": "HOME",
+                "short_name": "GTK Gliwice"
+            },
+            {
+                "full_name": "Gornik Walbrzych",
+                "position": "AWAY",
+                "short_name": "Gornik Walbrzych"
+            }
+        ],
+        "match_name": "GTK Gliwice v Gornik Walbrzych",
+        "start_time": "2026-03-14T11:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Miwa Harimoto, (2.35) VERSES Xunyao Shi, (1.53)",
+        "contestant_names": "Miwa Harimoto VERSES Xunyao Shi",
+        "start_time_aest": "2026-03-14T22:30:00+11:00",
+        "sport_name": "Table Tennis",
+        "competition_name": "WTT Champions",
+        "tournamentName": "WTT Champions Chongqing Womens Singles",
+        "contestants": [
+            {
+                "full_name": "Miwa Harimoto",
+                "position": "HOME",
+                "short_name": "Harimoto"
+            },
+            {
+                "full_name": "Xunyao Shi",
+                "position": "AWAY",
+                "short_name": "Shi"
+            }
+        ],
+        "match_name": "Harimoto v Shi",
+        "start_time": "2026-03-14T11:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Jiangsu Dragons, (1.52) VERSES Nanjing Monkey K, (2.3)",
+        "contestant_names": "Jiangsu Dragons VERSES Nanjing Monkey K",
+        "start_time_aest": "2026-03-14T22:35:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "China CBA",
+        "contestants": [
+            {
+                "full_name": "Jiangsu Dragons",
+                "position": "HOME",
+                "short_name": "Jiangsu Dragons"
+            },
+            {
+                "full_name": "Nanjing Monkey K",
+                "position": "AWAY",
+                "short_name": "Nanjing Monkey K"
+            }
+        ],
+        "match_name": "Jiangsu Dragons v Nanjing Monkey K",
+        "start_time": "2026-03-14T11:35:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Zhejiang Chouzho, (2.2) VERSES Zhejiang Lions, (1.57)",
+        "contestant_names": "Zhejiang Chouzho VERSES Zhejiang Lions",
+        "start_time_aest": "2026-03-14T22:35:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "China CBA",
+        "contestants": [
+            {
+                "full_name": "Zhejiang Chouzho",
+                "position": "HOME",
+                "short_name": "Zhejiang Chouzho"
+            },
+            {
+                "full_name": "Zhejiang Lions",
+                "position": "AWAY",
+                "short_name": "Zhejiang Lions"
+            }
+        ],
+        "match_name": "Zhejiang Chouzho v Zhejiang Lions",
+        "start_time": "2026-03-14T11:35:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Shandong Heroes, (1.52) VERSES Qingdao, (2.3)",
+        "contestant_names": "Shandong Heroes VERSES Qingdao",
+        "start_time_aest": "2026-03-14T22:35:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "China CBA",
+        "contestants": [
+            {
+                "full_name": "Shandong Heroes",
+                "position": "HOME",
+                "short_name": "Shandong Heroes"
+            },
+            {
+                "full_name": "Qingdao",
+                "position": "AWAY",
+                "short_name": "Qingdao"
+            }
+        ],
+        "match_name": "Shandong Heroes v Qingdao",
+        "start_time": "2026-03-14T11:35:00.000Z"
     }
 ]
