@@ -1,47 +1,5 @@
 [
     {
-        "contestant_names_prop": "LA Lakers, (2.05) VERSES Denver, (1.8)",
-        "contestant_names": "LA Lakers VERSES Denver",
-        "start_time_aest": "2026-03-15T11:40:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "LA Lakers",
-                "position": "HOME",
-                "short_name": "LA Lakers"
-            },
-            {
-                "full_name": "Denver",
-                "position": "AWAY",
-                "short_name": "Denver"
-            }
-        ],
-        "match_name": "LA Lakers v Denver",
-        "start_time": "2026-03-15T00:40:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Platense, (1.45) VERSES Union Santa Fe, (2.5)",
-        "contestant_names": "Platense VERSES Union Santa Fe",
-        "start_time_aest": "2026-03-15T12:00:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "Argentina Liga Nacional de Basket",
-        "contestants": [
-            {
-                "full_name": "Platense",
-                "position": "HOME",
-                "short_name": "Platense"
-            },
-            {
-                "full_name": "Union Santa Fe",
-                "position": "AWAY",
-                "short_name": "Union Santa Fe"
-            }
-        ],
-        "match_name": "Platense v Union Santa Fe",
-        "start_time": "2026-03-15T01:00:00.000Z"
-    },
-    {
         "contestant_names_prop": "Utah, (1.65) VERSES Pittsburgh, (2.2)",
         "contestant_names": "Utah VERSES Pittsburgh",
         "start_time_aest": "2026-03-15T12:05:00+11:00",
@@ -60,12 +18,13 @@
             }
         ],
         "match_name": "Utah v Pittsburgh",
+        "match_shortName": "NHL Utah-Pit Hd to Hd",
         "start_time": "2026-03-15T01:05:00.000Z"
     },
     {
         "contestant_names_prop": "Andreozzi/Guinard, (2) VERSES Rinderknech/Vacherot, (1.75)",
         "contestant_names": "Andreozzi/Guinard VERSES Rinderknech/Vacherot",
-        "start_time_aest": "2026-03-15T12:05:00+11:00",
+        "start_time_aest": "2026-03-15T12:08:32+11:00",
         "sport_name": "Tennis",
         "competition_name": "Masters Doubles",
         "tournamentName": "Masters Indian Wells Doubles",
@@ -82,6 +41,7 @@
             }
         ],
         "match_name": "Andreozzi/Guinard v Rinderknech/Vacherot",
-        "start_time": "2026-03-15T01:05:00.000Z"
+        "match_shortName": "Mas Ind Guin-Vach Hd to Hd",
+        "start_time": "2026-03-15T01:08:32.000Z"
     }
 ]
