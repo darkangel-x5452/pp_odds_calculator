@@ -1,69 +1,5 @@
 [
     {
-        "contestant_names_prop": "Dallas, (1.52) VERSES Detroit, (2.5)",
-        "contestant_names": "Dallas VERSES Detroit",
-        "start_time_aest": "2026-03-15T11:08:00+11:00",
-        "sport_name": "Ice Hockey",
-        "competition_name": "NHL",
-        "contestants": [
-            {
-                "full_name": "Dallas",
-                "position": "HOME",
-                "short_name": "Dallas"
-            },
-            {
-                "full_name": "Detroit",
-                "position": "AWAY",
-                "short_name": "Detroit"
-            }
-        ],
-        "match_name": "Dallas v Detroit",
-        "start_time": "2026-03-15T00:08:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Miami, (1.56) VERSES Orlando, (2.5)",
-        "contestant_names": "Miami VERSES Orlando",
-        "start_time_aest": "2026-03-15T11:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Miami",
-                "position": "HOME",
-                "short_name": "Miami"
-            },
-            {
-                "full_name": "Orlando",
-                "position": "AWAY",
-                "short_name": "Orlando"
-            }
-        ],
-        "match_name": "Miami v Orlando",
-        "start_time": "2026-03-15T00:10:00.000Z"
-    },
-    {
-        "contestant_names_prop": "SILVA Bruno, (2.35) VERSES JOHNSON Charles, (1.6)",
-        "contestant_names": "SILVA Bruno VERSES JOHNSON Charles",
-        "start_time_aest": "2026-03-15T11:15:00+11:00",
-        "sport_name": "UFC",
-        "competition_name": "UFC",
-        "tournamentName": "UFC Fight Night - Emmett vs Vallejos",
-        "contestants": [
-            {
-                "full_name": "SILVA Bruno",
-                "position": "HOME",
-                "short_name": "SilvaB"
-            },
-            {
-                "full_name": "JOHNSON Charles",
-                "position": "AWAY",
-                "short_name": "Johnson"
-            }
-        ],
-        "match_name": "SilvaB v Johnson",
-        "start_time": "2026-03-15T00:15:00.000Z"
-    },
-    {
         "contestant_names_prop": "LA Lakers, (2.05) VERSES Denver, (1.8)",
         "contestant_names": "LA Lakers VERSES Denver",
         "start_time_aest": "2026-03-15T11:40:00+11:00",
@@ -104,5 +40,48 @@
         ],
         "match_name": "Platense v Union Santa Fe",
         "start_time": "2026-03-15T01:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Utah, (1.65) VERSES Pittsburgh, (2.2)",
+        "contestant_names": "Utah VERSES Pittsburgh",
+        "start_time_aest": "2026-03-15T12:05:00+11:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL",
+        "contestants": [
+            {
+                "full_name": "Utah",
+                "position": "HOME",
+                "short_name": "Utah"
+            },
+            {
+                "full_name": "Pittsburgh",
+                "position": "AWAY",
+                "short_name": "Pittsburgh"
+            }
+        ],
+        "match_name": "Utah v Pittsburgh",
+        "start_time": "2026-03-15T01:05:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Andreozzi/Guinard, (2) VERSES Rinderknech/Vacherot, (1.75)",
+        "contestant_names": "Andreozzi/Guinard VERSES Rinderknech/Vacherot",
+        "start_time_aest": "2026-03-15T12:05:00+11:00",
+        "sport_name": "Tennis",
+        "competition_name": "Masters Doubles",
+        "tournamentName": "Masters Indian Wells Doubles",
+        "contestants": [
+            {
+                "full_name": "Andreozzi/Guinard",
+                "position": "HOME",
+                "short_name": "Andreozzi/Guinard"
+            },
+            {
+                "full_name": "Rinderknech/Vacherot",
+                "position": "AWAY",
+                "short_name": "Rinderknech/Vacherot"
+            }
+        ],
+        "match_name": "Andreozzi/Guinard v Rinderknech/Vacherot",
+        "start_time": "2026-03-15T01:05:00.000Z"
     }
 ]
