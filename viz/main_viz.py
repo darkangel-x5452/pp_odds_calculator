@@ -2,8 +2,8 @@ import pandas as pd
 import plotly.express as px
 
 if __name__ == "__main__":
-
-    data_pd = pd.read_csv("data/results/bet_records_shared - Sheet1.csv", skiprows=5)
+    file_path = "/mnt/c/Users/s/Downloads/bet_records_shared_-_main_all.csv"
+    data_pd = pd.read_csv(file_path, skiprows=6)
 
     x = "chatgpt_favour"
     y = "win"
@@ -11,12 +11,12 @@ if __name__ == "__main__":
     # colour = "sport"
 
     data_pd = data_pd.dropna(subset=[x, y, colour]).where(data_pd[x] != 0)
+    # data_pd = data_pd.dropna(subset=[x, y, colour]).where(data_pd[y] >= 2.0)
+    data_pd = data_pd.dropna(subset=[colour])
 
     centroids = data_pd.groupby(colour)[[x,y]].mean().reset_index()
 
     category_colors = {'Loss':'red', 'Won':'green'}
-
-
     # Interactive scatter plot
     fig = px.scatter(
         data_pd, 
