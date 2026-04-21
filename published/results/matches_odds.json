@@ -1,29 +1,5 @@
 [
     {
-        "contestant_names_prop": "Costoulas/Jorge, (2.05) VERSES Huergo/Gorgodze, (1.68)",
-        "contestant_names": "Costoulas/Jorge VERSES Huergo/Gorgodze",
-        "start_time_aest": "2026-04-22T03:40:00+10:00",
-        "sport_name": "Tennis",
-        "competition_name": "WTA 125 Doubles",
-        "tournamentName": "WTA 125 Oeiras 4 Doubles",
-        "contestants": [
-            {
-                "full_name": "Costoulas/Jorge",
-                "position": "HOME",
-                "short_name": "Costoulas/Jorge"
-            },
-            {
-                "full_name": "Huergo/Gorgodze",
-                "position": "AWAY",
-                "short_name": "Huergo/Gorgodze"
-            }
-        ],
-        "match_name": "Costoulas/Jorge v Huergo/Gorgodze",
-        "match_shortName": "125 Oe4 JrgM-GrzE Hd to Hd",
-        "start_time": "2026-04-21T17:40:00.000Z",
-        "start_time_aest_old": "2026-04-22T03:30:00+10:00"
-    },
-    {
         "contestant_names_prop": "Arka Gdynia, (1.9) VERSES Slask Wroclaw, (1.8)",
         "contestant_names": "Arka Gdynia VERSES Slask Wroclaw",
         "start_time_aest": "2026-04-22T04:15:00+10:00",
@@ -66,5 +42,27 @@
         "match_name": "Leicester v Sheffield",
         "match_shortName": "Eng LeiR-ShfS Hd to Hd",
         "start_time": "2026-04-21T18:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Barcelona, (1.52) VERSES Crvena Zvezda, (2.45)",
+        "contestant_names": "Barcelona VERSES Crvena Zvezda",
+        "start_time_aest": "2026-04-22T04:45:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "EuroLeague",
+        "contestants": [
+            {
+                "full_name": "Barcelona",
+                "position": "HOME",
+                "short_name": "Barcelona"
+            },
+            {
+                "full_name": "Crvena Zvezda",
+                "position": "AWAY",
+                "short_name": "Crvena Zvezda"
+            }
+        ],
+        "match_name": "Barcelona v Crvena Zvezda",
+        "match_shortName": "Eur Brca-CrZd Hd to Hd",
+        "start_time": "2026-04-21T18:45:00.000Z"
     }
 ]
