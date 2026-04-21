@@ -1,28 +1,6 @@
 [
     {
-        "contestant_names_prop": "NY Mets, (1.65) VERSES Minnesota, (2.3)",
-        "contestant_names": "NY Mets VERSES Minnesota",
-        "start_time_aest": "2026-04-22T09:10:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "contestants": [
-            {
-                "full_name": "NY Mets",
-                "position": "HOME",
-                "short_name": "NY Mets"
-            },
-            {
-                "full_name": "Minnesota",
-                "position": "AWAY",
-                "short_name": "Minnesota"
-            }
-        ],
-        "match_name": "NY Mets v Minnesota",
-        "match_shortName": "MLB NYMt-Minn Hd to Hd",
-        "start_time": "2026-04-21T23:10:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Chicago Cubs, (1.8) VERSES Philadelphia, (2.05)",
+        "contestant_names_prop": "Chicago Cubs, (1.85) VERSES Philadelphia, (2)",
         "contestant_names": "Chicago Cubs VERSES Philadelphia",
         "start_time_aest": "2026-04-22T09:40:00+10:00",
         "sport_name": "Baseball",
@@ -88,7 +66,7 @@
         "start_time": "2026-04-22T00:00:00.000Z"
     },
     {
-        "contestant_names_prop": "Texas, (1.85) VERSES Pittsburgh, (2)",
+        "contestant_names_prop": "Texas, (1.9) VERSES Pittsburgh, (1.95)",
         "contestant_names": "Texas VERSES Pittsburgh",
         "start_time_aest": "2026-04-22T10:05:00+10:00",
         "sport_name": "Baseball",
@@ -108,5 +86,93 @@
         "match_name": "Texas v Pittsburgh",
         "match_shortName": "MLB Texs-Ptsb Hd to Hd",
         "start_time": "2026-04-22T00:05:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Reales Vega, (1.72) VERSES Titanes Licey, (2)",
+        "contestant_names": "Reales Vega VERSES Titanes Licey",
+        "start_time_aest": "2026-04-22T10:30:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "Dominican Republic LNB",
+        "contestants": [
+            {
+                "full_name": "Reales Vega",
+                "position": "HOME",
+                "short_name": "Reales Vega"
+            },
+            {
+                "full_name": "Titanes Licey",
+                "position": "AWAY",
+                "short_name": "Titanes Licey"
+            }
+        ],
+        "match_name": "Reales Vega v Titanes Licey",
+        "match_shortName": "Dom RDLV-Tita Hd to Hd",
+        "start_time": "2026-04-22T00:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Colorado, (2.25) VERSES San Diego, (1.68)",
+        "contestant_names": "Colorado VERSES San Diego",
+        "start_time_aest": "2026-04-22T10:40:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "contestants": [
+            {
+                "full_name": "Colorado",
+                "position": "HOME",
+                "short_name": "Colorado"
+            },
+            {
+                "full_name": "San Diego",
+                "position": "AWAY",
+                "short_name": "San Diego"
+            }
+        ],
+        "match_name": "Colorado v San Diego",
+        "match_shortName": "MLB Clrd-SnDg Hd to Hd",
+        "start_time": "2026-04-22T00:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Puebla, (1.62) VERSES Queretaro, (2.15)",
+        "contestant_names": "Puebla VERSES Queretaro",
+        "start_time_aest": "2026-04-22T11:00:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "contestants": [
+            {
+                "full_name": "Puebla",
+                "position": "HOME",
+                "short_name": "Puebla"
+            },
+            {
+                "full_name": "Queretaro",
+                "position": "AWAY",
+                "short_name": "Queretaro"
+            }
+        ],
+        "match_name": "Puebla v Queretaro",
+        "match_shortName": "Mex Peba-CQtr Hd to Hd",
+        "start_time": "2026-04-22T01:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Veracruz, (1.75) VERSES Tabasco, (1.95)",
+        "contestant_names": "Veracruz VERSES Tabasco",
+        "start_time_aest": "2026-04-22T11:00:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "contestants": [
+            {
+                "full_name": "Veracruz",
+                "position": "HOME",
+                "short_name": "Veracruz"
+            },
+            {
+                "full_name": "Tabasco",
+                "position": "AWAY",
+                "short_name": "Tabasco"
+            }
+        ],
+        "match_name": "Veracruz v Tabasco",
+        "match_shortName": "Mex Vcrz-Tabs Hd to Hd",
+        "start_time": "2026-04-22T01:00:00.000Z"
     }
 ]
