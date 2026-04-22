@@ -1,27 +1,5 @@
 [
     {
-        "contestant_names_prop": "Sao Jose Dos Cam, (1.62) VERSES Mogi Das Cruzes, (2.1)",
-        "contestant_names": "Sao Jose Dos Cam VERSES Mogi Das Cruzes",
-        "start_time_aest": "2026-04-23T08:30:00+10:00",
-        "sport_name": "Basketball",
-        "competition_name": "Brazil NBB",
-        "contestants": [
-            {
-                "full_name": "Sao Jose Dos Cam",
-                "position": "HOME",
-                "short_name": "Sao Jose Dos Cam"
-            },
-            {
-                "full_name": "Mogi Das Cruzes",
-                "position": "AWAY",
-                "short_name": "Mogi Das Cruzes"
-            }
-        ],
-        "match_name": "Sao Jose Dos Cam v Mogi Das Cruzes",
-        "match_shortName": "Bra Sao -MgDs Hd to Hd",
-        "start_time": "2026-04-22T22:30:00.000Z"
-    },
-    {
         "contestant_names_prop": "Detroit, (1.75) VERSES Milwaukee, (2.15)",
         "contestant_names": "Detroit VERSES Milwaukee",
         "start_time_aest": "2026-04-23T08:40:00+10:00",
@@ -86,5 +64,27 @@
         "match_name": "Washington v Atlanta",
         "match_shortName": "MLB Wash-Atln Hd to Hd",
         "start_time": "2026-04-22T22:45:00.000Z"
+    },
+    {
+        "contestant_names_prop": "NY Mets, (1.65) VERSES Minnesota, (2.3)",
+        "contestant_names": "NY Mets VERSES Minnesota",
+        "start_time_aest": "2026-04-23T09:10:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "contestants": [
+            {
+                "full_name": "NY Mets",
+                "position": "HOME",
+                "short_name": "NY Mets"
+            },
+            {
+                "full_name": "Minnesota",
+                "position": "AWAY",
+                "short_name": "Minnesota"
+            }
+        ],
+        "match_name": "NY Mets v Minnesota",
+        "match_shortName": "MLB NYMt-Minn Hd to Hd",
+        "start_time": "2026-04-22T23:10:00.000Z"
     }
 ]
