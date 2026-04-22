@@ -1,30 +1,8 @@
 [
     {
-        "contestant_names_prop": "NY Mets, (1.65) VERSES Minnesota, (2.3)",
-        "contestant_names": "NY Mets VERSES Minnesota",
-        "start_time_aest": "2026-04-23T09:10:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "contestants": [
-            {
-                "full_name": "NY Mets",
-                "position": "HOME",
-                "short_name": "NY Mets"
-            },
-            {
-                "full_name": "Minnesota",
-                "position": "AWAY",
-                "short_name": "Minnesota"
-            }
-        ],
-        "match_name": "NY Mets v Minnesota",
-        "match_shortName": "MLB NYMt-Minn Hd to Hd",
-        "start_time": "2026-04-22T23:10:00.000Z"
-    },
-    {
         "contestant_names_prop": "Nuevo Laredo, (1.62) VERSES Jalisco, (2.15)",
         "contestant_names": "Nuevo Laredo VERSES Jalisco",
-        "start_time_aest": "2026-04-23T09:30:00+10:00",
+        "start_time_aest": "2026-04-23T10:30:00+10:00",
         "sport_name": "Baseball",
         "competition_name": "Mexico Baseball",
         "contestants": [
@@ -41,7 +19,8 @@
         ],
         "match_name": "Nuevo Laredo v Jalisco",
         "match_shortName": "Mex Nuev-Jlsc Hd to Hd",
-        "start_time": "2026-04-22T23:30:00.000Z"
+        "start_time": "2026-04-23T00:30:00.000Z",
+        "start_time_aest_old": "2026-04-23T09:30:00+10:00"
     },
     {
         "contestant_names_prop": "Chicago Cubs, (1.52) VERSES Philadelphia, (2.6)",
@@ -64,5 +43,203 @@
         "match_name": "Chicago Cubs v Philadelphia",
         "match_shortName": "MLB CCub-Phly Hd to Hd",
         "start_time": "2026-04-22T23:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Heroes De Moca, (1.62) VERSES Caneros Del Este, (2.15)",
+        "contestant_names": "Heroes De Moca VERSES Caneros Del Este",
+        "start_time_aest": "2026-04-23T10:00:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "Dominican Republic LNB",
+        "contestants": [
+            {
+                "full_name": "Heroes De Moca",
+                "position": "HOME",
+                "short_name": "Heroes De Moca"
+            },
+            {
+                "full_name": "Caneros Del Este",
+                "position": "AWAY",
+                "short_name": "Caneros Del Este"
+            }
+        ],
+        "match_name": "Heroes De Moca v Caneros Del Este",
+        "match_shortName": "Dom Hero-DelE Hd to Hd",
+        "start_time": "2026-04-23T00:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Texas, (1.95) VERSES Pittsburgh, (1.9)",
+        "contestant_names": "Texas VERSES Pittsburgh",
+        "start_time_aest": "2026-04-23T10:05:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "contestants": [
+            {
+                "full_name": "Texas",
+                "position": "HOME",
+                "short_name": "Texas"
+            },
+            {
+                "full_name": "Pittsburgh",
+                "position": "AWAY",
+                "short_name": "Pittsburgh"
+            }
+        ],
+        "match_name": "Texas v Pittsburgh",
+        "match_shortName": "MLB Texs-Ptsb Hd to Hd",
+        "start_time": "2026-04-23T00:05:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Nacional Fray, (1.57) VERSES CA Penarol, (2.2)",
+        "contestant_names": "Nacional Fray VERSES CA Penarol",
+        "start_time_aest": "2026-04-23T10:15:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "Uruguay LUB",
+        "contestants": [
+            {
+                "full_name": "Nacional Fray",
+                "position": "HOME",
+                "short_name": "Nacional Fray"
+            },
+            {
+                "full_name": "CA Penarol",
+                "position": "AWAY",
+                "short_name": "CA Penarol"
+            }
+        ],
+        "match_name": "Nacional Fray v CA Penarol",
+        "match_shortName": "Uru FraB-Cpnr Hd to Hd",
+        "start_time": "2026-04-23T00:15:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Ceb Puerto Montt, (2.1) VERSES Depor Valdivia, (1.62)",
+        "contestant_names": "Ceb Puerto Montt VERSES Depor Valdivia",
+        "start_time_aest": "2026-04-23T10:30:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "Chile LNB",
+        "contestants": [
+            {
+                "full_name": "Ceb Puerto Montt",
+                "position": "HOME",
+                "short_name": "Ceb Puerto Montt"
+            },
+            {
+                "full_name": "Depor Valdivia",
+                "position": "AWAY",
+                "short_name": "Depor Valdivia"
+            }
+        ],
+        "match_name": "Ceb Puerto Montt v Depor Valdivia",
+        "match_shortName": "Chl PMon-DVda Hd to Hd",
+        "start_time": "2026-04-23T00:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Marineros De Pue, (2) VERSES Indios San Fran, (1.72)",
+        "contestant_names": "Marineros De Pue VERSES Indios San Fran",
+        "start_time_aest": "2026-04-23T10:30:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "Dominican Republic LNB",
+        "contestants": [
+            {
+                "full_name": "Marineros De Pue",
+                "position": "HOME",
+                "short_name": "Marineros De Pue"
+            },
+            {
+                "full_name": "Indios San Fran",
+                "position": "AWAY",
+                "short_name": "Indios San Fran"
+            }
+        ],
+        "match_name": "Marineros De Pue v Indios San Fran",
+        "match_shortName": "Dom Mari-IndS Hd to Hd",
+        "start_time": "2026-04-23T00:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Colorado, (2.3) VERSES San Diego, (1.65)",
+        "contestant_names": "Colorado VERSES San Diego",
+        "start_time_aest": "2026-04-23T10:40:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "contestants": [
+            {
+                "full_name": "Colorado",
+                "position": "HOME",
+                "short_name": "Colorado"
+            },
+            {
+                "full_name": "San Diego",
+                "position": "AWAY",
+                "short_name": "San Diego"
+            }
+        ],
+        "match_name": "Colorado v San Diego",
+        "match_shortName": "MLB Clrd-SnDg Hd to Hd",
+        "start_time": "2026-04-23T00:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Campeche, (1.58) VERSES Quintana Roo, (2.25)",
+        "contestant_names": "Campeche VERSES Quintana Roo",
+        "start_time_aest": "2026-04-23T11:00:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "contestants": [
+            {
+                "full_name": "Campeche",
+                "position": "HOME",
+                "short_name": "Campeche"
+            },
+            {
+                "full_name": "Quintana Roo",
+                "position": "AWAY",
+                "short_name": "Quintana Roo"
+            }
+        ],
+        "match_name": "Campeche v Quintana Roo",
+        "match_shortName": "Mex Camp-Qutn Hd to Hd",
+        "start_time": "2026-04-23T01:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Puebla, (1.8) VERSES Queretaro, (1.9)",
+        "contestant_names": "Puebla VERSES Queretaro",
+        "start_time_aest": "2026-04-23T11:00:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "contestants": [
+            {
+                "full_name": "Puebla",
+                "position": "HOME",
+                "short_name": "Puebla"
+            },
+            {
+                "full_name": "Queretaro",
+                "position": "AWAY",
+                "short_name": "Queretaro"
+            }
+        ],
+        "match_name": "Puebla v Queretaro",
+        "match_shortName": "Mex Peba-CQtr Hd to Hd",
+        "start_time": "2026-04-23T01:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Veracruz, (1.8) VERSES Tabasco, (1.9)",
+        "contestant_names": "Veracruz VERSES Tabasco",
+        "start_time_aest": "2026-04-23T11:00:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "contestants": [
+            {
+                "full_name": "Veracruz",
+                "position": "HOME",
+                "short_name": "Veracruz"
+            },
+            {
+                "full_name": "Tabasco",
+                "position": "AWAY",
+                "short_name": "Tabasco"
+            }
+        ],
+        "match_name": "Veracruz v Tabasco",
+        "match_shortName": "Mex Vcrz-Tabs Hd to Hd",
+        "start_time": "2026-04-23T01:00:00.000Z"
     }
 ]
