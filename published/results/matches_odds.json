@@ -1,71 +1,5 @@
 [
     {
-        "contestant_names_prop": "Detroit, (1.75) VERSES Milwaukee, (2.15)",
-        "contestant_names": "Detroit VERSES Milwaukee",
-        "start_time_aest": "2026-04-23T08:40:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "contestants": [
-            {
-                "full_name": "Detroit",
-                "position": "HOME",
-                "short_name": "Detroit"
-            },
-            {
-                "full_name": "Milwaukee",
-                "position": "AWAY",
-                "short_name": "Milwaukee"
-            }
-        ],
-        "match_name": "Detroit v Milwaukee",
-        "match_shortName": "MLB Dtrt-Mlwk Hd to Hd",
-        "start_time": "2026-04-22T22:40:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Boston, (2.1) VERSES NY Yankees, (1.75)",
-        "contestant_names": "Boston VERSES NY Yankees",
-        "start_time_aest": "2026-04-23T08:45:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "contestants": [
-            {
-                "full_name": "Boston",
-                "position": "HOME",
-                "short_name": "Boston"
-            },
-            {
-                "full_name": "NY Yankees",
-                "position": "AWAY",
-                "short_name": "NY Yankees"
-            }
-        ],
-        "match_name": "Boston v NY Yankees",
-        "match_shortName": "MLB Bstn-NYYn Hd to Hd",
-        "start_time": "2026-04-22T22:45:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Washington, (2.3) VERSES Atlanta, (1.65)",
-        "contestant_names": "Washington VERSES Atlanta",
-        "start_time_aest": "2026-04-23T08:45:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "contestants": [
-            {
-                "full_name": "Washington",
-                "position": "HOME",
-                "short_name": "Washington"
-            },
-            {
-                "full_name": "Atlanta",
-                "position": "AWAY",
-                "short_name": "Atlanta"
-            }
-        ],
-        "match_name": "Washington v Atlanta",
-        "match_shortName": "MLB Wash-Atln Hd to Hd",
-        "start_time": "2026-04-22T22:45:00.000Z"
-    },
-    {
         "contestant_names_prop": "NY Mets, (1.65) VERSES Minnesota, (2.3)",
         "contestant_names": "NY Mets VERSES Minnesota",
         "start_time_aest": "2026-04-23T09:10:00+10:00",
@@ -86,5 +20,27 @@
         "match_name": "NY Mets v Minnesota",
         "match_shortName": "MLB NYMt-Minn Hd to Hd",
         "start_time": "2026-04-22T23:10:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Nuevo Laredo, (1.62) VERSES Jalisco, (2.15)",
+        "contestant_names": "Nuevo Laredo VERSES Jalisco",
+        "start_time_aest": "2026-04-23T09:30:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "contestants": [
+            {
+                "full_name": "Nuevo Laredo",
+                "position": "HOME",
+                "short_name": "Nuevo Laredo"
+            },
+            {
+                "full_name": "Jalisco",
+                "position": "AWAY",
+                "short_name": "Jalisco"
+            }
+        ],
+        "match_name": "Nuevo Laredo v Jalisco",
+        "match_shortName": "Mex Nuev-Jlsc Hd to Hd",
+        "start_time": "2026-04-22T23:30:00.000Z"
     }
 ]
