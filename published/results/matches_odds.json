@@ -1,46 +1,90 @@
 [
     {
-        "contestant_names_prop": "Miami, (1.7) VERSES St Louis, (2.2)",
-        "contestant_names": "Miami VERSES St Louis",
-        "start_time_aest": "2026-04-23T02:10:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
+        "contestant_names_prop": "Graz UBSC, (1.65) VERSES WBC Wels, (2.1)",
+        "contestant_names": "Graz UBSC VERSES WBC Wels",
+        "start_time_aest": "2026-04-23T03:00:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "Austria Bundesliga",
         "contestants": [
             {
-                "full_name": "Miami",
+                "full_name": "Graz UBSC",
                 "position": "HOME",
-                "short_name": "Miami"
+                "short_name": "Graz UBSC"
             },
             {
-                "full_name": "St Louis",
+                "full_name": "WBC Wels",
                 "position": "AWAY",
-                "short_name": "St Louis"
+                "short_name": "WBC Wels"
             }
         ],
-        "match_name": "Miami v St Louis",
-        "match_shortName": "MLB Miam-StLs Hd to Hd",
-        "start_time": "2026-04-22T16:10:00.000Z"
+        "match_name": "Graz UBSC v WBC Wels",
+        "match_shortName": "Aut Graz-Wels Hd to Hd",
+        "start_time": "2026-04-22T17:00:00.000Z"
     },
     {
-        "contestant_names_prop": "Ratiopharm Ulm, (1.62) VERSES Alba Berlin, (2.15)",
-        "contestant_names": "Ratiopharm Ulm VERSES Alba Berlin",
-        "start_time_aest": "2026-04-23T02:30:00+10:00",
+        "contestant_names_prop": "Traiskirchen, (2.1) VERSES Kapfenburg, (1.65)",
+        "contestant_names": "Traiskirchen VERSES Kapfenburg",
+        "start_time_aest": "2026-04-23T03:00:00+10:00",
         "sport_name": "Basketball",
-        "competition_name": "Germany Bundesliga",
+        "competition_name": "Austria Bundesliga",
         "contestants": [
             {
-                "full_name": "Ratiopharm Ulm",
+                "full_name": "Traiskirchen",
                 "position": "HOME",
-                "short_name": "Ratiopharm Ulm"
+                "short_name": "Traiskirchen"
             },
             {
-                "full_name": "Alba Berlin",
+                "full_name": "Kapfenburg",
                 "position": "AWAY",
-                "short_name": "Alba Berlin"
+                "short_name": "Kapfenburg"
             }
         ],
-        "match_name": "Ratiopharm Ulm v Alba Berlin",
-        "match_shortName": "Ger RpUl-Berl Hd to Hd",
-        "start_time": "2026-04-22T16:30:00.000Z"
+        "match_name": "Traiskirchen v Kapfenburg",
+        "match_shortName": "Aut Tskn-Kpfb Hd to Hd",
+        "start_time": "2026-04-22T17:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Swans Gmunden, (1.75) VERSES Redwell Gunners, (1.95)",
+        "contestant_names": "Swans Gmunden VERSES Redwell Gunners",
+        "start_time_aest": "2026-04-23T03:00:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "Austria Bundesliga",
+        "contestants": [
+            {
+                "full_name": "Swans Gmunden",
+                "position": "HOME",
+                "short_name": "Swans Gmunden"
+            },
+            {
+                "full_name": "Redwell Gunners",
+                "position": "AWAY",
+                "short_name": "Redwell Gunners"
+            }
+        ],
+        "match_name": "Swans Gmunden v Redwell Gunners",
+        "match_shortName": "Aut Gmdn-RedG Hd to Hd",
+        "start_time": "2026-04-22T17:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "IK Eos, (1.95) VERSES Djurgarden, (1.73)",
+        "contestant_names": "IK Eos VERSES Djurgarden",
+        "start_time_aest": "2026-04-23T03:00:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "Sweden Superettan",
+        "contestants": [
+            {
+                "full_name": "IK Eos",
+                "position": "HOME",
+                "short_name": "IK Eos"
+            },
+            {
+                "full_name": "Djurgarden",
+                "position": "AWAY",
+                "short_name": "Djurgarden"
+            }
+        ],
+        "match_name": "IK Eos v Djurgarden",
+        "match_shortName": "Sw2 IEos-Drdn Hd to Hd",
+        "start_time": "2026-04-22T17:00:00.000Z"
     }
 ]
