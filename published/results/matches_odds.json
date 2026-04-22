@@ -1,49 +1,5 @@
 [
     {
-        "contestant_names_prop": "Puebla, (1.62) VERSES Queretaro, (2.15)",
-        "contestant_names": "Puebla VERSES Queretaro",
-        "start_time_aest": "2026-04-22T11:00:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Mexico Baseball",
-        "contestants": [
-            {
-                "full_name": "Puebla",
-                "position": "HOME",
-                "short_name": "Puebla"
-            },
-            {
-                "full_name": "Queretaro",
-                "position": "AWAY",
-                "short_name": "Queretaro"
-            }
-        ],
-        "match_name": "Puebla v Queretaro",
-        "match_shortName": "Mex Peba-CQtr Hd to Hd",
-        "start_time": "2026-04-22T01:00:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Veracruz, (1.75) VERSES Tabasco, (1.95)",
-        "contestant_names": "Veracruz VERSES Tabasco",
-        "start_time_aest": "2026-04-22T11:00:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Mexico Baseball",
-        "contestants": [
-            {
-                "full_name": "Veracruz",
-                "position": "HOME",
-                "short_name": "Veracruz"
-            },
-            {
-                "full_name": "Tabasco",
-                "position": "AWAY",
-                "short_name": "Tabasco"
-            }
-        ],
-        "match_name": "Veracruz v Tabasco",
-        "match_shortName": "Mex Vcrz-Tabs Hd to Hd",
-        "start_time": "2026-04-22T01:00:00.000Z"
-    },
-    {
         "contestant_names_prop": "Aguascalientes, (1.95) VERSES Saltillo, (1.75)",
         "contestant_names": "Aguascalientes VERSES Saltillo",
         "start_time_aest": "2026-04-22T11:30:00+10:00",
@@ -174,5 +130,49 @@
         "match_name": "Seattle v Athletics",
         "match_shortName": "MLB Seat-Athl Hd to Hd",
         "start_time": "2026-04-22T01:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "San Francisco, (2.5) VERSES LA Dodgers, (1.55)",
+        "contestant_names": "San Francisco VERSES LA Dodgers",
+        "start_time_aest": "2026-04-22T11:45:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "contestants": [
+            {
+                "full_name": "San Francisco",
+                "position": "HOME",
+                "short_name": "San Francisco"
+            },
+            {
+                "full_name": "LA Dodgers",
+                "position": "AWAY",
+                "short_name": "LA Dodgers"
+            }
+        ],
+        "match_name": "San Francisco v LA Dodgers",
+        "match_shortName": "MLB SFrn-LADg Hd to Hd",
+        "start_time": "2026-04-22T01:45:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Leon, (2.15) VERSES Oaxaca, (1.62)",
+        "contestant_names": "Leon VERSES Oaxaca",
+        "start_time_aest": "2026-04-22T12:00:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "contestants": [
+            {
+                "full_name": "Leon",
+                "position": "HOME",
+                "short_name": "Leon"
+            },
+            {
+                "full_name": "Oaxaca",
+                "position": "AWAY",
+                "short_name": "Oaxaca"
+            }
+        ],
+        "match_name": "Leon v Oaxaca",
+        "match_shortName": "Mex Leon-Oxca Hd to Hd",
+        "start_time": "2026-04-22T02:00:00.000Z"
     }
 ]
