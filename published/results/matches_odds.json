@@ -2,7 +2,7 @@
     {
         "contestant_names_prop": "Xtreme Gaming, (1.75) VERSES Team Spirit, (1.95)",
         "contestant_names": "Xtreme Gaming VERSES Team Spirit",
-        "start_time_aest": "2026-04-22T23:00:00+10:00",
+        "start_time_aest": "2026-04-22T23:30:00+10:00",
         "sport_name": "Esports",
         "competition_name": "DOTA2",
         "tournamentName": "DOTA2 - PGL Wallachia",
@@ -20,6 +20,51 @@
         ],
         "match_name": "Xtreme Gaming v Team Spirit",
         "match_shortName": "DT2 Wal Xtre-Sprt Hd to Hd",
-        "start_time": "2026-04-22T13:00:00.000Z"
+        "start_time": "2026-04-22T13:30:00.000Z",
+        "start_time_aest_old": "2026-04-22T23:00:00+10:00"
+    },
+    {
+        "contestant_names_prop": "Si Jiahui, (1.65) VERSES Hossein Vafaei, (2.15)",
+        "contestant_names": "Si Jiahui VERSES Hossein Vafaei",
+        "start_time_aest": "2026-04-22T23:30:00+10:00",
+        "sport_name": "Snooker",
+        "competition_name": "World Snooker Championship",
+        "contestants": [
+            {
+                "full_name": "Si Jiahui",
+                "position": "HOME",
+                "short_name": "Jiahui Si"
+            },
+            {
+                "full_name": "Hossein Vafaei",
+                "position": "AWAY",
+                "short_name": "Vafaei"
+            }
+        ],
+        "match_name": "Jiahui Si v Vafaei",
+        "match_shortName": "WSC Jiah-Vafa Result",
+        "start_time": "2026-04-22T13:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Lucknow, (2.15) VERSES Rajasthan, (1.7)",
+        "contestant_names": "Lucknow VERSES Rajasthan",
+        "start_time_aest": "2026-04-23T00:00:00+10:00",
+        "sport_name": "Cricket",
+        "competition_name": "IPL Matches",
+        "contestants": [
+            {
+                "full_name": "Lucknow",
+                "position": "HOME",
+                "short_name": "Lucknow"
+            },
+            {
+                "full_name": "Rajasthan",
+                "position": "AWAY",
+                "short_name": "Rajasthan"
+            }
+        ],
+        "match_name": "Lucknow v Rajasthan",
+        "match_shortName": "IPL Lcknow-Rajast Hd to Hd",
+        "start_time": "2026-04-22T14:00:00.000Z"
     }
 ]
