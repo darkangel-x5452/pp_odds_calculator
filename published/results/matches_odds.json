@@ -1,6 +1,6 @@
 [
     {
-        "contestant_names_prop": "Samsunspor, (1.85) VERSES Trabzonspor, (1.85)",
+        "contestant_names_prop": "Samsunspor, (1.75) VERSES Trabzonspor, (1.95)",
         "contestant_names": "Samsunspor VERSES Trabzonspor",
         "start_time_aest": "2026-04-24T01:45:00+10:00",
         "sport_name": "Soccer",
@@ -44,7 +44,7 @@
         "start_time": "2026-04-23T16:00:00.000Z"
     },
     {
-        "contestant_names_prop": "Rishon LeZion, (1.57) VERSES Maccabi Ashdod, (2.2)",
+        "contestant_names_prop": "Rishon LeZion, (1.55) VERSES Maccabi Ashdod, (2.25)",
         "contestant_names": "Rishon LeZion VERSES Maccabi Ashdod",
         "start_time_aest": "2026-04-24T02:00:00+10:00",
         "sport_name": "Basketball",
@@ -85,6 +85,29 @@
         ],
         "match_name": "Huddinge Basket v Malbas",
         "match_shortName": "Sw2 Hgde-Mlbs Hd to Hd",
+        "start_time": "2026-04-23T16:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "BetBoom Team, (1.55) VERSES Team Spirit, (2.3)",
+        "contestant_names": "BetBoom Team VERSES Team Spirit",
+        "start_time_aest": "2026-04-24T02:00:00+10:00",
+        "sport_name": "Esports",
+        "competition_name": "DOTA2",
+        "tournamentName": "DOTA2 - PGL Wallachia",
+        "contestants": [
+            {
+                "full_name": "BetBoom Team",
+                "position": "HOME",
+                "short_name": "Betboom Team"
+            },
+            {
+                "full_name": "Team Spirit",
+                "position": "AWAY",
+                "short_name": "Team Spirit"
+            }
+        ],
+        "match_name": "Betboom Team v Team Spirit",
+        "match_shortName": "DT2 Wal Betb-Sprt Hd to Hd",
         "start_time": "2026-04-23T16:00:00.000Z"
     }
 ]
