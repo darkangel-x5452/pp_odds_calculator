@@ -1,49 +1,5 @@
 [
     {
-        "contestant_names_prop": "Colorado, (2.25) VERSES San Diego, (1.68)",
-        "contestant_names": "Colorado VERSES San Diego",
-        "start_time_aest": "2026-04-24T05:10:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "contestants": [
-            {
-                "full_name": "Colorado",
-                "position": "HOME",
-                "short_name": "Colorado"
-            },
-            {
-                "full_name": "San Diego",
-                "position": "AWAY",
-                "short_name": "San Diego"
-            }
-        ],
-        "match_name": "Colorado v San Diego",
-        "match_shortName": "MLB Clrd-SnDg Hd to Hd",
-        "start_time": "2026-04-23T19:10:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Josh Rock, (1.95) VERSES Michael van Gerwen, (1.85)",
-        "contestant_names": "Josh Rock VERSES Michael van Gerwen",
-        "start_time_aest": "2026-04-24T05:20:00+10:00",
-        "sport_name": "Darts",
-        "competition_name": "PDC Premier League Matches",
-        "contestants": [
-            {
-                "full_name": "Josh Rock",
-                "position": "HOME",
-                "short_name": "Rock Josh"
-            },
-            {
-                "full_name": "Michael van Gerwen",
-                "position": "AWAY",
-                "short_name": "Van Gerwen"
-            }
-        ],
-        "match_name": "Rock Josh  v Van Gerwen",
-        "match_shortName": "PPL Rock-VnGr Hd to Hd",
-        "start_time": "2026-04-23T19:20:00.000Z"
-    },
-    {
         "contestant_names_prop": "Arizona, (1.68) VERSES Chicago WSox, (2.25)",
         "contestant_names": "Arizona VERSES Chicago WSox",
         "start_time_aest": "2026-04-24T05:40:00+10:00",
@@ -131,5 +87,49 @@
         "match_name": "Team Liquid v Lyon",
         "match_shortName": "LoL EWC Lqud-Lyon Hd to Hd",
         "start_time": "2026-04-23T21:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Boston, (2.25) VERSES NY Yankees, (1.68)",
+        "contestant_names": "Boston VERSES NY Yankees",
+        "start_time_aest": "2026-04-24T08:10:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "contestants": [
+            {
+                "full_name": "Boston",
+                "position": "HOME",
+                "short_name": "Boston"
+            },
+            {
+                "full_name": "NY Yankees",
+                "position": "AWAY",
+                "short_name": "NY Yankees"
+            }
+        ],
+        "match_name": "Boston v NY Yankees",
+        "match_shortName": "MLB Bstn-NYYn Hd to Hd",
+        "start_time": "2026-04-23T22:10:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Depor San Jose, (2.25) VERSES Olimpia Kings, (1.55)",
+        "contestant_names": "Depor San Jose VERSES Olimpia Kings",
+        "start_time_aest": "2026-04-24T08:30:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "Paraguay Primera",
+        "contestants": [
+            {
+                "full_name": "Depor San Jose",
+                "position": "HOME",
+                "short_name": "Depor San Jose"
+            },
+            {
+                "full_name": "Olimpia Kings",
+                "position": "AWAY",
+                "short_name": "Olimpia Kings"
+            }
+        ],
+        "match_name": "Depor San Jose v Olimpia Kings",
+        "match_shortName": "Par DSJs-Olim Hd to Hd",
+        "start_time": "2026-04-23T22:30:00.000Z"
     }
 ]
