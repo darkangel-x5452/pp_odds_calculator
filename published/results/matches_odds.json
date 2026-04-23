@@ -23,51 +23,6 @@
         "start_time_aest_old": "2026-04-24T04:10:00+10:00"
     },
     {
-        "contestant_names_prop": "Est Movistar, (2.35) VERSES Zaragoza, (1.5)",
-        "contestant_names": "Est Movistar VERSES Zaragoza",
-        "start_time_aest": "2026-04-24T04:00:00+10:00",
-        "sport_name": "Basketball",
-        "competition_name": "Spain Liga Women",
-        "contestants": [
-            {
-                "full_name": "Est Movistar",
-                "position": "HOME",
-                "short_name": "Est Movistar"
-            },
-            {
-                "full_name": "Zaragoza",
-                "position": "AWAY",
-                "short_name": "Zaragoza"
-            }
-        ],
-        "match_name": "Est Movistar v Zaragoza",
-        "match_shortName": "SW1 EMvs-Zarg Hd to Hd",
-        "start_time": "2026-04-23T18:00:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Flyquest, (1.65) VERSES Sentinels, (2.1)",
-        "contestant_names": "Flyquest VERSES Sentinels",
-        "start_time_aest": "2026-04-24T04:00:00+10:00",
-        "sport_name": "Esports",
-        "competition_name": "League of Legends",
-        "tournamentName": "LoL - Esports World Cup",
-        "contestants": [
-            {
-                "full_name": "Flyquest",
-                "position": "HOME",
-                "short_name": "Flyquest"
-            },
-            {
-                "full_name": "Sentinels",
-                "position": "AWAY",
-                "short_name": "Sentinels"
-            }
-        ],
-        "match_name": "Flyquest v Sentinels",
-        "match_shortName": "LoL EWC Flyq-Snt Hd to Hd",
-        "start_time": "2026-04-23T18:00:00.000Z"
-    },
-    {
         "contestant_names_prop": "Kyren Wilson, (1.62) VERSES Mark Allen, (2.2)",
         "contestant_names": "Kyren Wilson VERSES Mark Allen",
         "start_time_aest": "2026-04-24T04:10:00+10:00",
@@ -110,5 +65,49 @@
         "match_name": "Chicago Cubs v Philadelphia",
         "match_shortName": "MLB CCub-Phly Hd to Hd",
         "start_time": "2026-04-23T18:20:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Stephen Bunting, (2.1) VERSES Jonny Clayton, (1.7)",
+        "contestant_names": "Stephen Bunting VERSES Jonny Clayton",
+        "start_time_aest": "2026-04-24T04:50:00+10:00",
+        "sport_name": "Darts",
+        "competition_name": "PDC Premier League Matches",
+        "contestants": [
+            {
+                "full_name": "Stephen Bunting",
+                "position": "HOME",
+                "short_name": "Bunting"
+            },
+            {
+                "full_name": "Jonny Clayton",
+                "position": "AWAY",
+                "short_name": "Clayton J"
+            }
+        ],
+        "match_name": "Bunting v Clayton J",
+        "match_shortName": "PPL Btng-Clay Hd to Hd",
+        "start_time": "2026-04-23T18:50:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Valence Romans, (1.58) VERSES Brive, (2.3)",
+        "contestant_names": "Valence Romans VERSES Brive",
+        "start_time_aest": "2026-04-24T05:00:00+10:00",
+        "sport_name": "Rugby Union",
+        "competition_name": "France Pro D2",
+        "contestants": [
+            {
+                "full_name": "Valence Romans",
+                "position": "HOME",
+                "short_name": "Valence Romans"
+            },
+            {
+                "full_name": "Brive",
+                "position": "AWAY",
+                "short_name": "Brive"
+            }
+        ],
+        "match_name": "Valence Romans v Brive",
+        "match_shortName": "FD2 Vale-Briv Hd to Hd",
+        "start_time": "2026-04-23T19:00:00.000Z"
     }
 ]
