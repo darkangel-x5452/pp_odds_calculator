@@ -1,45 +1,13 @@
 [
     {
-        "contestant_names_prop": "Team Liquid, (1.87) VERSES Lyon, (1.8)",
-        "contestant_names": "Team Liquid VERSES Lyon",
-        "start_time_aest": "2026-04-24T07:00:00+10:00",
-        "sport_name": "Esports",
-        "competition_name": "League of Legends",
-        "tournamentName": "LoL - Esports World Cup",
-        "contestants": [
-            {
-                "full_name": "Team Liquid",
-                "position": "HOME",
-                "short_name": "Team Liquid"
-            },
-            {
-                "full_name": "Lyon",
-                "position": "AWAY",
-                "short_name": "Lyon"
-            }
-        ],
-        "match_name": "Team Liquid v Lyon",
-        "match_shortName": "LoL EWC Lqud-Lyon Hd to Hd",
-        "start_time": "2026-04-23T21:00:00.000Z"
-    },
-    {
         "contestant_names_prop": "Boston, (2.2) VERSES NY Yankees, (1.7)",
         "contestant_names": "Boston VERSES NY Yankees",
         "start_time_aest": "2026-04-24T08:10:00+10:00",
         "sport_name": "Baseball",
         "competition_name": "Major League Baseball",
-        "contestants": [
-            {
-                "full_name": "Boston",
-                "position": "HOME",
-                "short_name": "Boston"
-            },
-            {
-                "full_name": "NY Yankees",
-                "position": "AWAY",
-                "short_name": "NY Yankees"
-            }
-        ],
+        "HOME_contestant": "Boston",
+        "AWAY_contestant": "NY Yankees",
+        "comp_stats": "home_perc=43.86, low_perc_won=60.53, low_total=38.0, high_perc_won=47.37, high_total=19.0",
         "match_name": "Boston v NY Yankees",
         "match_shortName": "MLB Bstn-NYYn Hd to Hd",
         "start_time": "2026-04-23T22:10:00.000Z"
@@ -50,18 +18,9 @@
         "start_time_aest": "2026-04-24T08:30:00+10:00",
         "sport_name": "Basketball",
         "competition_name": "Paraguay Primera",
-        "contestants": [
-            {
-                "full_name": "Depor San Jose",
-                "position": "HOME",
-                "short_name": "Depor San Jose"
-            },
-            {
-                "full_name": "Olimpia Kings",
-                "position": "AWAY",
-                "short_name": "Olimpia Kings"
-            }
-        ],
+        "HOME_contestant": "Depor San Jose",
+        "AWAY_contestant": "Olimpia Kings",
+        "comp_stats": "home_perc=100.0, low_perc_won=0.0, low_total=0.0, high_perc_won=100.0, high_total=1.0",
         "match_name": "Depor San Jose v Olimpia Kings",
         "match_shortName": "Par DSJs-Olim Hd to Hd",
         "start_time": "2026-04-23T22:30:00.000Z"
@@ -72,20 +31,25 @@
         "start_time_aest": "2026-04-24T09:00:00+10:00",
         "sport_name": "Basketball",
         "competition_name": "NBA",
-        "contestants": [
-            {
-                "full_name": "Atlanta",
-                "position": "HOME",
-                "short_name": "Atlanta"
-            },
-            {
-                "full_name": "New York",
-                "position": "AWAY",
-                "short_name": "New York"
-            }
-        ],
+        "HOME_contestant": "Atlanta",
+        "AWAY_contestant": "New York",
+        "comp_stats": "home_perc=51.28, low_perc_won=64.0, low_total=25.0, high_perc_won=50.0, high_total=14.0",
         "match_name": "Atlanta v New York",
         "match_shortName": "NBA Atl-NYK Hd to Hd",
+        "start_time": "2026-04-23T23:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Samuel Pupo, (1.6) VERSES Joel Vaughan, (2.2)",
+        "contestant_names": "Samuel Pupo VERSES Joel Vaughan",
+        "start_time_aest": "2026-04-24T09:00:00+10:00",
+        "sport_name": "Surfing",
+        "competition_name": "WSL Mens Championship Tour",
+        "tournamentName": "WSL Mens Margaret River Heat Winners",
+        "HOME_contestant": "Samuel Pupo",
+        "AWAY_contestant": "Joel Vaughan",
+        "comp_stats": "home_perc=36.36, low_perc_won=62.5, low_total=8.0, high_perc_won=66.67, high_total=3.0",
+        "match_name": "Pupo S v Vaughan",
+        "match_shortName": "WSL MRv Pupo S-Vughan Hd2Hd",
         "start_time": "2026-04-23T23:00:00.000Z"
     }
 ]
