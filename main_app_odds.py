@@ -24,8 +24,8 @@ def run_app():
     resp_jn = resp_raw.json()
     if "-info-service" in odds_api:
         gmo.get_matches_matches(input_jn=resp_jn)
-    elif "recommendation-service" in odds_api:
-        gmo.get_matches_comps(input_jn=resp_jn)
+    # elif "recommendation-service" in odds_api:
+    #     gmo.get_matches_comps(input_jn=resp_jn)
     else:
         print("Unknown ODDS_API endpoint.")
     print("App is stopped.")

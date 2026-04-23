@@ -98,11 +98,9 @@ class ResultsAnalysis(SchemaName):
 
 
         data_statements = [f"{data_dir}/{_file}" for _file in data_files if _file.startswith("statement_4912079")]
+        data_transact = [f"{data_dir}/{_file}" for _file in data_files if _file.startswith("Transaction Details ")]
 
-        self.src_data_ls = data_statements + [
-            "data/source/odd_site/results/Transaction Details 2026-01-01 to 2026-01-31.csv",
-            "data/source/odd_site/results/Transaction Details 2026-02-01 to 2026-02-28.csv",
-        ]
+        self.src_data_ls = data_statements + data_transact
         
         self.hist_files_ls = [
             "data/results/matches_odds_50_historical.json",
@@ -159,6 +157,10 @@ class ResultsAnalysis(SchemaName):
             file_name = _file.split("/")[-1]
             data_df = pd.read_csv(_file, skiprows=3, on_bad_lines="skip")
             data_df_copy = data_df.copy()
+            find = data_df_copy[data_df_copy["Description"].str.contains("5338939")]
+            if len(find) > 0:
+                print(f"Found match code in description: {find['Description'].iloc[0]}")
+                print(find)
             if file_name.startswith("statement"):
                 dropna_subset = ["Time (AEST)"]
                 filter_rows = ~data_df_copy[self.description_col].str.startswith(

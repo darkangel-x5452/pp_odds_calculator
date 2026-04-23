@@ -4,7 +4,10 @@ from zoneinfo import ZoneInfo
 
 from datetime import datetime
 
+import pandas as pd
 import requests
+
+from analysis.result_analysis.utils.variables_names import SchemaName
 
 
 class GetMatchesOdds:
@@ -26,7 +29,7 @@ class GetMatchesOdds:
         self.doubles_only_sports = [
             "tennis",
             "badminton",
-            ]
+        ]
 
         self.ignore_sports = [
             # "cricket",  # Too long and can be cancelled for weather
@@ -37,7 +40,7 @@ class GetMatchesOdds:
         ]
         self.ignore_competitions = [
             # terrible percentage results, not worth attempting
-            "NHL", 
+            "NHL",
             "Challenger",
             "ITF Womens",
             "ITF Mens",
@@ -45,17 +48,18 @@ class GetMatchesOdds:
             "WTA 125 Tour",
             "Mexico CIBACOPA",
             "Argentina Liga A",
-            
             # These ones so low, best against ai  wins well.
-            "Triple A Minor League", # for low and high odds
-            "Turkey TBL", # for low and high odds
-            "China CBA", # for high odds
-            "South Korea KBL", # for high odds
-            "Counter Strike 2", # for low odds
+            "Triple A Minor League",  # for low and high odds
+            "Turkey TBL",  # for low and high odds
+            "China CBA",  # for high odds
+            "South Korea KBL",  # for high odds
+            "Counter Strike 2",  # for low odds
         ]
 
         self.high_odds = 3.5
         self.min_odds = 1.5
+
+        self.odds_analysis_fp = "data/results/win_rate_sport_genre_competition_name.csv"
 
         self.lower_odds_result_path = "published/results/matches_odds.json"
         self.lower_odds_historical_path = "data/results/matches_odds_historical.json"
@@ -130,11 +134,14 @@ class GetMatchesOdds:
                     if (
                         _existing_match["start_time_aest"]
                         != _new_match["start_time_aest"]
-                        
                     ):
                         if "start_time_aest_old" not in _existing_match.keys():
                             _new_match.update(
-                                {"start_time_aest_old": _existing_match["start_time_aest"]}
+                                {
+                                    "start_time_aest_old": _existing_match[
+                                        "start_time_aest"
+                                    ]
+                                }
                             )
                     break
             if match_exists is False:
@@ -222,7 +229,7 @@ class GetMatchesOdds:
             if two_lower_odds_flag is True:
                 two_lower_odds_flag = (
                     False
-                    if return_win < self.min_odds #and return_win <= self.high_odds
+                    if return_win < self.min_odds  # and return_win <= self.high_odds
                     else True
                 )
         return two_lower_odds_flag
@@ -235,11 +242,54 @@ class GetMatchesOdds:
                 not_fifty_flag = True if return_win >= self.min_odds else False
         return not not_fifty_flag
 
+    def _get_comp_statistics(
+        self,
+        stats_data: pd.DataFrame,
+        comp_name: str,
+        sport_name: str,
+        tournament_name: str,
+    ) -> str:
+
+        comp_stat_data = stats_data[
+            stats_data[SchemaName.ColNames.competition_name_col].isin(
+                [comp_name, tournament_name]
+            )
+            & stats_data[SchemaName.ColNames.sport_name_col].isin(
+                [sport_name, comp_name]
+            )
+        ]
+        cols = [
+            SchemaName.ColNames.home_percentage_col,
+            SchemaName.ColNames.won_odds_low_percentage_col,
+            SchemaName.ColNames.total_odds_low_col,
+            SchemaName.ColNames.won_odds_high_percentage_col,
+            SchemaName.ColNames.total_odds_high_col,
+        ]
+        rename_cols = {
+            SchemaName.ColNames.home_percentage_col: "home_perc",
+            SchemaName.ColNames.won_odds_low_percentage_col: "low_perc_won",
+            SchemaName.ColNames.total_odds_low_col: "low_total",
+            SchemaName.ColNames.won_odds_high_percentage_col: "high_perc_won",
+            SchemaName.ColNames.total_odds_high_col: "high_total",
+        }
+        if len(comp_stat_data) > 1:
+            raise ValueError(
+                f"Expected one row of comp stats data for comp '{comp_name}' and sport '{sport_name}' but got {len(comp_stat_data)} rows"
+            )
+        if len(comp_stat_data) == 0:
+            result = None
+        else:
+            row = comp_stat_data.iloc[0]
+            result = ", ".join(f"{rename_cols.get(col, col)}={row[col]}" for col in cols) if row is not None else ""
+        return result
+
     def _handle_matches(self, matches: list[dict]) -> dict[str, list[dict]]:
         all_matches_ls: dict[str, list[dict]] = {
             "lower_odds": [],
             "fifty_odds": [],
         }
+
+        odds_analysis_pd = pd.read_csv(self.odds_analysis_fp)
         for _match in matches:
             inPlay = _match["inPlay"]
             if inPlay is True:
@@ -296,7 +346,9 @@ class GetMatchesOdds:
                     continue
                 # bettingStatus = _market['bettingStatus']
                 propositions = _market["propositions"]
-                match_shortName = _market["shortName"] if "shortName" in _market.keys() else None
+                match_shortName = (
+                    _market["shortName"] if "shortName" in _market.keys() else None
+                )
                 propositions_len = len(propositions)
                 if propositions_len != 2:
                     continue
@@ -319,7 +371,11 @@ class GetMatchesOdds:
                     cleaned_contestants[0]["full_name"] = full_name_0
                     cleaned_contestants[1]["full_name"] = full_name_1
                 doubles_or_other_flag = True
-                if sportName.lower() in self.doubles_only_sports and "/" not in full_name_0 and "/" not in full_name_1:
+                if (
+                    sportName.lower() in self.doubles_only_sports
+                    and "/" not in full_name_0
+                    and "/" not in full_name_1
+                ):
                     print(
                         f"Expected doubles match for '{sportName}' but got '{match_name}' with propositions '{full_name_0}' and '{full_name_1}'"
                     )
@@ -348,6 +404,19 @@ class GetMatchesOdds:
                     aest_dt = start_time_aest.astimezone(ZoneInfo("Australia/Sydney"))
                     aest_dt_iso = aest_dt.isoformat()
 
+                    comp_stats_str = self._get_comp_statistics(
+                        stats_data=odds_analysis_pd,
+                        comp_name=competitionName,
+                        sport_name=sportName,
+                        tournament_name=tournamentName,
+                    )
+                    # compress contestants dict
+                    contestants_locations = {
+                        f"{item['position']}_contestant": item["full_name"]
+                        for item in contestants
+                    }
+
+
                     match_details = {
                         "contestant_names_prop": contestant_full_names_odds,
                         "contestant_names": contestant_full_names,
@@ -355,8 +424,11 @@ class GetMatchesOdds:
                         "sport_name": sportName,
                         "competition_name": competitionName,
                         "tournamentName": tournamentName,
-                        "contestants": cleaned_contestants,
+                        "HOME_contestant": contestants_locations["HOME_contestant"],
+                        "AWAY_contestant": contestants_locations["AWAY_contestant"],
+                        # "contestants": cleaned_contestants,
                         # "propositions": clean_propositions,
+                        "comp_stats": comp_stats_str,
                         "match_name": match_name,
                         "match_shortName": match_shortName,
                         # "competitors": competitors,
