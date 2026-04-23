@@ -1,49 +1,5 @@
 [
     {
-        "contestant_names_prop": "Stephen Bunting, (2.2) VERSES Jonny Clayton, (1.65)",
-        "contestant_names": "Stephen Bunting VERSES Jonny Clayton",
-        "start_time_aest": "2026-04-24T04:50:00+10:00",
-        "sport_name": "Darts",
-        "competition_name": "PDC Premier League Matches",
-        "contestants": [
-            {
-                "full_name": "Stephen Bunting",
-                "position": "HOME",
-                "short_name": "Bunting"
-            },
-            {
-                "full_name": "Jonny Clayton",
-                "position": "AWAY",
-                "short_name": "Clayton J"
-            }
-        ],
-        "match_name": "Bunting v Clayton J",
-        "match_shortName": "PPL Btng-Clay Hd to Hd",
-        "start_time": "2026-04-23T18:50:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Valence Romans, (1.58) VERSES Brive, (2.3)",
-        "contestant_names": "Valence Romans VERSES Brive",
-        "start_time_aest": "2026-04-24T05:00:00+10:00",
-        "sport_name": "Rugby Union",
-        "competition_name": "France Pro D2",
-        "contestants": [
-            {
-                "full_name": "Valence Romans",
-                "position": "HOME",
-                "short_name": "Valence Romans"
-            },
-            {
-                "full_name": "Brive",
-                "position": "AWAY",
-                "short_name": "Brive"
-            }
-        ],
-        "match_name": "Valence Romans v Brive",
-        "match_shortName": "FD2 Vale-Briv Hd to Hd",
-        "start_time": "2026-04-23T19:00:00.000Z"
-    },
-    {
         "contestant_names_prop": "Colorado, (2.25) VERSES San Diego, (1.68)",
         "contestant_names": "Colorado VERSES San Diego",
         "start_time_aest": "2026-04-24T05:10:00+10:00",
@@ -152,5 +108,28 @@
         "match_name": "Humphries Luke  v Littler Luke",
         "match_shortName": "PPL Hump-Litt Hd to Hd",
         "start_time": "2026-04-23T19:50:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Team Liquid, (1.87) VERSES Lyon, (1.8)",
+        "contestant_names": "Team Liquid VERSES Lyon",
+        "start_time_aest": "2026-04-24T07:00:00+10:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "tournamentName": "LoL - Esports World Cup",
+        "contestants": [
+            {
+                "full_name": "Team Liquid",
+                "position": "HOME",
+                "short_name": "Team Liquid"
+            },
+            {
+                "full_name": "Lyon",
+                "position": "AWAY",
+                "short_name": "Lyon"
+            }
+        ],
+        "match_name": "Team Liquid v Lyon",
+        "match_shortName": "LoL EWC Lqud-Lyon Hd to Hd",
+        "start_time": "2026-04-23T21:00:00.000Z"
     }
 ]
