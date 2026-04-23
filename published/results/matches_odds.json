@@ -1,71 +1,5 @@
 [
     {
-        "contestant_names_prop": "Campeche, (1.58) VERSES Quintana Roo, (2.25)",
-        "contestant_names": "Campeche VERSES Quintana Roo",
-        "start_time_aest": "2026-04-23T11:00:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Mexico Baseball",
-        "contestants": [
-            {
-                "full_name": "Campeche",
-                "position": "HOME",
-                "short_name": "Campeche"
-            },
-            {
-                "full_name": "Quintana Roo",
-                "position": "AWAY",
-                "short_name": "Quintana Roo"
-            }
-        ],
-        "match_name": "Campeche v Quintana Roo",
-        "match_shortName": "Mex Camp-Qutn Hd to Hd",
-        "start_time": "2026-04-23T01:00:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Puebla, (1.8) VERSES Queretaro, (1.9)",
-        "contestant_names": "Puebla VERSES Queretaro",
-        "start_time_aest": "2026-04-23T11:00:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Mexico Baseball",
-        "contestants": [
-            {
-                "full_name": "Puebla",
-                "position": "HOME",
-                "short_name": "Puebla"
-            },
-            {
-                "full_name": "Queretaro",
-                "position": "AWAY",
-                "short_name": "Queretaro"
-            }
-        ],
-        "match_name": "Puebla v Queretaro",
-        "match_shortName": "Mex Peba-CQtr Hd to Hd",
-        "start_time": "2026-04-23T01:00:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Veracruz, (1.8) VERSES Tabasco, (1.9)",
-        "contestant_names": "Veracruz VERSES Tabasco",
-        "start_time_aest": "2026-04-23T11:00:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Mexico Baseball",
-        "contestants": [
-            {
-                "full_name": "Veracruz",
-                "position": "HOME",
-                "short_name": "Veracruz"
-            },
-            {
-                "full_name": "Tabasco",
-                "position": "AWAY",
-                "short_name": "Tabasco"
-            }
-        ],
-        "match_name": "Veracruz v Tabasco",
-        "match_shortName": "Mex Vcrz-Tabs Hd to Hd",
-        "start_time": "2026-04-23T01:00:00.000Z"
-    },
-    {
         "contestant_names_prop": "Aguascalientes, (1.95) VERSES Saltillo, (1.75)",
         "contestant_names": "Aguascalientes VERSES Saltillo",
         "start_time_aest": "2026-04-23T11:30:00+10:00",
@@ -152,5 +86,71 @@
         "match_name": "Yucatan v Mexico",
         "match_shortName": "Mex Yuct-Mexc Hd to Hd",
         "start_time": "2026-04-23T01:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Arizona, (1.65) VERSES Chicago WSox, (2.3)",
+        "contestant_names": "Arizona VERSES Chicago WSox",
+        "start_time_aest": "2026-04-23T11:40:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "contestants": [
+            {
+                "full_name": "Arizona",
+                "position": "HOME",
+                "short_name": "Arizona"
+            },
+            {
+                "full_name": "Chicago WSox",
+                "position": "AWAY",
+                "short_name": "Chicago WSox"
+            }
+        ],
+        "match_name": "Arizona v Chicago WSox",
+        "match_shortName": "MLB Ariz-ChWS Hd to Hd",
+        "start_time": "2026-04-23T01:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "San Francisco, (2.6) VERSES LA Dodgers, (1.52)",
+        "contestant_names": "San Francisco VERSES LA Dodgers",
+        "start_time_aest": "2026-04-23T11:45:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "contestants": [
+            {
+                "full_name": "San Francisco",
+                "position": "HOME",
+                "short_name": "San Francisco"
+            },
+            {
+                "full_name": "LA Dodgers",
+                "position": "AWAY",
+                "short_name": "LA Dodgers"
+            }
+        ],
+        "match_name": "San Francisco v LA Dodgers",
+        "match_shortName": "MLB SFrn-LADg Hd to Hd",
+        "start_time": "2026-04-23T01:45:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Monclova, (1.52) VERSES Dorados De Chihu, (2.35)",
+        "contestant_names": "Monclova VERSES Dorados De Chihu",
+        "start_time_aest": "2026-04-23T11:45:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "contestants": [
+            {
+                "full_name": "Monclova",
+                "position": "HOME",
+                "short_name": "Monclova"
+            },
+            {
+                "full_name": "Dorados De Chihu",
+                "position": "AWAY",
+                "short_name": "Dorados De Chihu"
+            }
+        ],
+        "match_name": "Monclova v Dorados De Chihu",
+        "match_shortName": "Mex Monc-Dora Hd to Hd",
+        "start_time": "2026-04-23T01:45:00.000Z"
     }
 ]
