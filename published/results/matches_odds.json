@@ -2,7 +2,7 @@
     {
         "contestant_names_prop": "Toronto, (2.25) VERSES Cleveland, (1.67)",
         "contestant_names": "Toronto VERSES Cleveland",
-        "start_time_aest": "2026-04-24T10:00:00+10:00",
+        "start_time_aest": "2026-04-24T10:10:00+10:00",
         "sport_name": "Basketball",
         "competition_name": "NBA",
         "HOME_contestant": "Toronto",
@@ -10,7 +10,8 @@
         "comp_stats": "home_perc=51.28, low_perc_won=64.0, low_total=25.0, high_perc_won=50.0, high_total=14.0",
         "match_name": "Toronto v Cleveland",
         "match_shortName": "NBA Tor-Cle Hd to Hd",
-        "start_time": "2026-04-24T00:00:00.000Z"
+        "start_time": "2026-04-24T00:10:00.000Z",
+        "start_time_aest_old": "2026-04-24T10:00:00+10:00"
     },
     {
         "contestant_names_prop": "Texas, (1.65) VERSES Pittsburgh, (2.3)",
@@ -24,5 +25,70 @@
         "match_name": "Texas v Pittsburgh",
         "match_shortName": "MLB Texs-Ptsb Hd to Hd",
         "start_time": "2026-04-24T00:05:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Reales Vega, (1.65) VERSES Leones, (2.1)",
+        "contestant_names": "Reales Vega VERSES Leones",
+        "start_time_aest": "2026-04-24T10:30:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "Dominican Republic LNB",
+        "HOME_contestant": "Reales Vega",
+        "AWAY_contestant": "Leones",
+        "comp_stats": "home_perc=50.0, low_perc_won=0.0, low_total=1.0, high_perc_won=0.0, high_total=1.0",
+        "match_name": "Reales Vega v Leones",
+        "match_shortName": "Dom RDLV-Lens Hd to Hd",
+        "start_time": "2026-04-24T00:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Campeche, (1.6) VERSES Quintana Roo, (2.2)",
+        "contestant_names": "Campeche VERSES Quintana Roo",
+        "start_time_aest": "2026-04-24T11:00:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Campeche",
+        "AWAY_contestant": "Quintana Roo",
+        "comp_stats": "home_perc=18.18, low_perc_won=54.55, low_total=11.0, high_perc_won=0.0, high_total=0.0",
+        "match_name": "Campeche v Quintana Roo",
+        "match_shortName": "Mex Camp-Qutn Hd to Hd",
+        "start_time": "2026-04-24T01:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Puebla (Game 2), (1.72) VERSES Queretaro (Game 2), (2)",
+        "contestant_names": "Puebla (Game 2) VERSES Queretaro (Game 2)",
+        "start_time_aest": "2026-04-24T11:00:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Puebla (Game 2)",
+        "AWAY_contestant": "Queretaro (Game 2)",
+        "comp_stats": "home_perc=18.18, low_perc_won=54.55, low_total=11.0, high_perc_won=0.0, high_total=0.0",
+        "match_name": "Puebla v Queretaro (Game 2)",
+        "match_shortName": "Mex Peba-CQtr Hd to Hd G2",
+        "start_time": "2026-04-24T01:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Veracruz, (1.58) VERSES Tabasco, (2.25)",
+        "contestant_names": "Veracruz VERSES Tabasco",
+        "start_time_aest": "2026-04-24T11:00:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Veracruz",
+        "AWAY_contestant": "Tabasco",
+        "comp_stats": "home_perc=18.18, low_perc_won=54.55, low_total=11.0, high_perc_won=0.0, high_total=0.0",
+        "match_name": "Veracruz v Tabasco",
+        "match_shortName": "Mex Vcrz-Tabs Hd to Hd",
+        "start_time": "2026-04-24T01:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Aguascalientes, (2) VERSES Saltillo, (1.72)",
+        "contestant_names": "Aguascalientes VERSES Saltillo",
+        "start_time_aest": "2026-04-24T11:30:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Aguascalientes",
+        "AWAY_contestant": "Saltillo",
+        "comp_stats": "home_perc=18.18, low_perc_won=54.55, low_total=11.0, high_perc_won=0.0, high_total=0.0",
+        "match_name": "Aguascalientes v Saltillo",
+        "match_shortName": "Mex Agu-Stlo Hd to Hd",
+        "start_time": "2026-04-24T01:30:00.000Z"
     }
 ]
