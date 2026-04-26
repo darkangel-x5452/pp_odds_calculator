@@ -1,21 +1,8 @@
 [
     {
-        "contestant_names_prop": "Bank Of Taiwan, (1.66) VERSES Keelung Black Ki, (2.05)",
-        "contestant_names": "Bank Of Taiwan VERSES Keelung Black Ki",
-        "start_time_aest": "2026-04-26T19:00:00+10:00",
-        "sport_name": "Basketball",
-        "competition_name": "Taiwan Super Basketball Challenge",
-        "HOME_contestant": "Bank Of Taiwan",
-        "AWAY_contestant": "Keelung Black Ki",
-        "comp_stats": "home_perc=55.56, low_perc_won=75.0, low_total=8.0, high_perc_won=100.0, high_total=1.0",
-        "match_name": "Bank Of Taiwan v Keelung Black Ki",
-        "match_shortName": "TSB BkTa-Keel Hd to Hd",
-        "start_time": "2026-04-26T09:00:00.000Z"
-    },
-    {
         "contestant_names_prop": "Mark Selby, (1.5) VERSES Wu Yize, (2.5)",
         "contestant_names": "Mark Selby VERSES Wu Yize",
-        "start_time_aest": "2026-04-26T19:00:00+10:00",
+        "start_time_aest": "2026-04-26T19:03:00+10:00",
         "sport_name": "Snooker",
         "competition_name": "World Snooker Championship",
         "HOME_contestant": "Mark Selby",
@@ -23,7 +10,8 @@
         "comp_stats": "home_perc=100.0, low_perc_won=100.0, low_total=2.0, high_perc_won=0.0, high_total=0.0",
         "match_name": "Selby v Yize",
         "match_shortName": "WSC Slby-Yize Result",
-        "start_time": "2026-04-26T09:00:00.000Z"
+        "start_time": "2026-04-26T09:03:00.000Z",
+        "start_time_aest_old": "2026-04-26T19:00:00+10:00"
     },
     {
         "contestant_names_prop": "CITIC Brothers, (1.87) VERSES Fubon, (1.87)",
@@ -39,7 +27,7 @@
         "start_time": "2026-04-26T09:05:00.000Z"
     },
     {
-        "contestant_names_prop": "Rakuten Monkeys, (1.87) VERSES Weichuan Dragons, (1.87)",
+        "contestant_names_prop": "Rakuten Monkeys, (1.8) VERSES Weichuan Dragons, (1.95)",
         "contestant_names": "Rakuten Monkeys VERSES Weichuan Dragons",
         "start_time_aest": "2026-04-26T19:05:00+10:00",
         "sport_name": "Baseball",
@@ -50,5 +38,18 @@
         "match_name": "Rakuten Monkeys v Weichuan Dragons",
         "match_shortName": "TBL RktM-Wchn Hd to Hd",
         "start_time": "2026-04-26T09:05:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Hong Kong, (2.25) VERSES Thailand, (1.55)",
+        "contestant_names": "Hong Kong VERSES Thailand",
+        "start_time_aest": "2026-04-26T19:10:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "3x3 Champions Cup",
+        "HOME_contestant": "Hong Kong",
+        "AWAY_contestant": "Thailand",
+        "comp_stats": null,
+        "match_name": "Hong Kong v Thailand",
+        "match_shortName": "CC HnKn-Thai Hd to Hd",
+        "start_time": "2026-04-26T09:10:00.000Z"
     }
 ]
