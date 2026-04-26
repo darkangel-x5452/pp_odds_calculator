@@ -1,6 +1,6 @@
 [
     {
-        "contestant_names_prop": "Arizona, (2.1) VERSES San Diego, (1.75)",
+        "contestant_names_prop": "Arizona, (2.15) VERSES San Diego, (1.75)",
         "contestant_names": "Arizona VERSES San Diego",
         "start_time_aest": "2026-04-27T06:05:00+10:00",
         "sport_name": "Baseball",
@@ -37,5 +37,44 @@
         "match_name": "LA Dodgers v Chicago Cubs",
         "match_shortName": "MLB LADg-CCub Hd to Hd",
         "start_time": "2026-04-26T20:10:00.000Z"
+    },
+    {
+        "contestant_names_prop": "NY Mets (Game 2), (1.58) VERSES Colorado (Game 2), (2.5)",
+        "contestant_names": "NY Mets (Game 2) VERSES Colorado (Game 2)",
+        "start_time_aest": "2026-04-27T06:40:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "NY Mets (Game 2)",
+        "AWAY_contestant": "Colorado (Game 2)",
+        "comp_stats": "home_perc=43.86, low_perc_won=60.53, low_total=38.0, high_perc_won=47.37, high_total=19.0",
+        "match_name": "NY Mets v Colorado - Game 2",
+        "match_shortName": "MLB NYMt-Clrd Hd to Hd G2",
+        "start_time": "2026-04-26T20:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Sendi/Bauru, (1.8) VERSES Paulistano, (1.86)",
+        "contestant_names": "Sendi/Bauru VERSES Paulistano",
+        "start_time_aest": "2026-04-27T07:00:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "Brazil NBB",
+        "HOME_contestant": "Sendi/Bauru",
+        "AWAY_contestant": "Paulistano",
+        "comp_stats": "home_perc=42.11, low_perc_won=80.0, low_total=10.0, high_perc_won=55.56, high_total=9.0",
+        "match_name": "Sendi/Bauru v Paulistano",
+        "match_shortName": "Bra Baur-Plts Hd to Hd",
+        "start_time": "2026-04-26T21:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Caneros Del Este, (2) VERSES Marineros De Pue, (1.72)",
+        "contestant_names": "Caneros Del Este VERSES Marineros De Pue",
+        "start_time_aest": "2026-04-27T07:00:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "Dominican Republic LNB",
+        "HOME_contestant": "Caneros Del Este",
+        "AWAY_contestant": "Marineros De Pue",
+        "comp_stats": "home_perc=50.0, low_perc_won=0.0, low_total=1.0, high_perc_won=0.0, high_total=1.0",
+        "match_name": "Caneros Del Este v Marineros De Pue",
+        "match_shortName": "Dom DelE-Mari Hd to Hd",
+        "start_time": "2026-04-26T21:00:00.000Z"
     }
 ]
