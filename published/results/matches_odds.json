@@ -1,38 +1,8 @@
 [
     {
-        "contestant_names_prop": "Athletics, (1.8) VERSES Kansas City, (2.05)",
-        "contestant_names": "Athletics VERSES Kansas City",
-        "start_time_aest": "2026-05-01T05:05:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "Athletics",
-        "AWAY_contestant": "Kansas City",
-        "HOME_contestant_short": "Athletics",
-        "AWAY_contestant_short": "Kansas City",
-        "comp_stats": "home_perc=41.94, low_perc_won=62.79, low_total=43.0, high_perc_won=47.37, high_total=19.0",
-        "match_name": "Athletics v Kansas City",
-        "match_shortName": "MLB Athl-KnsC Hd to Hd",
-        "start_time": "2026-04-30T19:05:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Jonny Clayton, (1.8) VERSES Gian van Veen, (2)",
-        "contestant_names": "Jonny Clayton VERSES Gian van Veen",
-        "start_time_aest": "2026-05-01T05:20:00+10:00",
-        "sport_name": "Darts",
-        "competition_name": "PDC Premier League Matches",
-        "HOME_contestant": "Jonny Clayton",
-        "AWAY_contestant": "Gian van Veen",
-        "HOME_contestant_short": "Clayton J",
-        "AWAY_contestant_short": "Van Veen Gian",
-        "comp_stats": "home_perc=28.57, low_perc_won=80.0, low_total=5.0, high_perc_won=50.0, high_total=2.0",
-        "match_name": "Clayton J  v Van Veen Gian",
-        "match_shortName": "PPL Clay-Van Hd to Hd",
-        "start_time": "2026-04-30T19:20:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Baltimore (Game 2), (1.8) VERSES Houston (Game 2), (2.05)",
+        "contestant_names_prop": "Baltimore (Game 2), (1.75) VERSES Houston (Game 2), (2.15)",
         "contestant_names": "Baltimore (Game 2) VERSES Houston (Game 2)",
-        "start_time_aest": "2026-05-01T05:35:00+10:00",
+        "start_time_aest": "2026-05-01T06:05:00+10:00",
         "sport_name": "Baseball",
         "competition_name": "Major League Baseball",
         "HOME_contestant": "Baltimore (Game 2)",
@@ -42,7 +12,8 @@
         "comp_stats": "home_perc=41.94, low_perc_won=62.79, low_total=43.0, high_perc_won=47.37, high_total=19.0",
         "match_name": "Baltimore v Houston (Game 2)",
         "match_shortName": "MLB Balt-Hstn Hd to Hd G2",
-        "start_time": "2026-04-30T19:35:00.000Z"
+        "start_time": "2026-04-30T20:05:00.000Z",
+        "start_time_aest_old": "2026-05-01T05:35:00+10:00"
     },
     {
         "contestant_names_prop": "Luke Humphries, (1.62) VERSES Michael van Gerwen, (2.25)",
@@ -137,5 +108,21 @@
         "match_name": "Philadelphia v San Francisco (Game 2)",
         "match_shortName": "MLB Phly-SFrn Hd to Hd G2",
         "start_time": "2026-04-30T21:35:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Luke Thompson, (1.6) VERSES Winter Vincent, (2.2)",
+        "contestant_names": "Luke Thompson VERSES Winter Vincent",
+        "start_time_aest": "2026-05-01T08:30:00+10:00",
+        "sport_name": "Surfing",
+        "competition_name": "WSL Mens Championship Tour",
+        "tournamentName": "WSL Mens Gold Coast Heat Winners",
+        "HOME_contestant": "Luke Thompson",
+        "AWAY_contestant": "Winter Vincent",
+        "HOME_contestant_short": "Thompson",
+        "AWAY_contestant_short": "Vincent",
+        "comp_stats": "home_perc=33.33, low_perc_won=66.67, low_total=9.0, high_perc_won=66.67, high_total=3.0",
+        "match_name": "Thompson v Vincent",
+        "match_shortName": "WSL GCP LThomp-Vncent Hd2Hd",
+        "start_time": "2026-04-30T22:30:00.000Z"
     }
 ]
