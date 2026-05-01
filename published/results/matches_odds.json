@@ -1,20 +1,5 @@
 [
     {
-        "contestant_names_prop": "Toronto, (2.6) VERSES Cleveland, (1.52)",
-        "contestant_names": "Toronto VERSES Cleveland",
-        "start_time_aest": "2026-05-02T09:35:00+10:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "HOME_contestant": "Toronto",
-        "AWAY_contestant": "Cleveland",
-        "HOME_contestant_short": "Toronto",
-        "AWAY_contestant_short": "Cleveland",
-        "comp_stats": "home_perc=55.81, low_perc_won=57.14, low_total=28.0, high_perc_won=46.67, high_total=15.0",
-        "match_name": "Toronto v Cleveland",
-        "match_shortName": "NBA Tor-Cle Hd to Hd",
-        "start_time": "2026-05-01T23:35:00.000Z"
-    },
-    {
         "contestant_names_prop": "Kanoa Igarashi, (1.6) VERSES Liam OBrien, (2.2)",
         "contestant_names": "Kanoa Igarashi VERSES Liam OBrien",
         "start_time_aest": "2026-05-02T10:00:00+10:00",
@@ -61,6 +46,21 @@
         "start_time": "2026-05-02T00:15:00.000Z"
     },
     {
+        "contestant_names_prop": "Pittsburgh, (1.75) VERSES Cincinnati, (2.15)",
+        "contestant_names": "Pittsburgh VERSES Cincinnati",
+        "start_time_aest": "2026-05-02T10:18:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Pittsburgh",
+        "AWAY_contestant": "Cincinnati",
+        "HOME_contestant_short": "Pittsburgh",
+        "AWAY_contestant_short": "Cincinnati",
+        "comp_stats": "home_perc=41.94, low_perc_won=62.79, low_total=43.0, high_perc_won=47.37, high_total=19.0",
+        "match_name": "Pittsburgh v Cincinnati",
+        "match_shortName": "MLB Ptsb-Cinc Hd to Hd",
+        "start_time": "2026-05-02T00:18:00.000Z"
+    },
+    {
         "contestant_names_prop": "Indios San Fran, (1.85) VERSES Metros De Santia, (1.85)",
         "contestant_names": "Indios San Fran VERSES Metros De Santia",
         "start_time_aest": "2026-05-02T10:30:00+10:00",
@@ -89,21 +89,6 @@
         "match_name": "Colorado v Atlanta",
         "match_shortName": "MLB Clrd-Atln Hd to Hd",
         "start_time": "2026-05-02T00:40:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Veracruz, (1.75) VERSES Quintana Roo, (1.95)",
-        "contestant_names": "Veracruz VERSES Quintana Roo",
-        "start_time_aest": "2026-05-02T11:00:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Mexico Baseball",
-        "HOME_contestant": "Veracruz",
-        "AWAY_contestant": "Quintana Roo",
-        "HOME_contestant_short": "Veracruz",
-        "AWAY_contestant_short": "Quintana Roo",
-        "comp_stats": "home_perc=16.67, low_perc_won=58.33, low_total=12.0, high_perc_won=0.0, high_total=0.0",
-        "match_name": "Veracruz v Quintana Roo",
-        "match_shortName": "Mex Vcrz-Qutn Hd to Hd",
-        "start_time": "2026-05-02T01:00:00.000Z"
     },
     {
         "contestant_names_prop": "Queretaro, (1.9) VERSES Campeche, (1.8)",
@@ -136,6 +121,52 @@
         "start_time": "2026-05-02T01:00:00.000Z"
     },
     {
+        "contestant_names_prop": "Veracruz, (1.75) VERSES Quintana Roo, (1.95)",
+        "contestant_names": "Veracruz VERSES Quintana Roo",
+        "start_time_aest": "2026-05-02T11:00:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Veracruz",
+        "AWAY_contestant": "Quintana Roo",
+        "HOME_contestant_short": "Veracruz",
+        "AWAY_contestant_short": "Quintana Roo",
+        "comp_stats": "home_perc=16.67, low_perc_won=58.33, low_total=12.0, high_perc_won=0.0, high_total=0.0",
+        "match_name": "Veracruz v Quintana Roo",
+        "match_shortName": "Mex Vcrz-Qutn Hd to Hd",
+        "start_time": "2026-05-02T01:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Connor OLeary, (1.72) VERSES Joel Vaughan, (2)",
+        "contestant_names": "Connor OLeary VERSES Joel Vaughan",
+        "start_time_aest": "2026-05-02T11:10:00+10:00",
+        "sport_name": "Surfing",
+        "competition_name": "WSL Mens Championship Tour",
+        "tournamentName": "WSL Mens Gold Coast Heat Winners",
+        "HOME_contestant": "Connor OLeary",
+        "AWAY_contestant": "Joel Vaughan",
+        "HOME_contestant_short": "OLeary",
+        "AWAY_contestant_short": "Vaughan",
+        "comp_stats": "home_perc=33.33, low_perc_won=66.67, low_total=9.0, high_perc_won=66.67, high_total=3.0",
+        "match_name": "OLeary v Vaughan",
+        "match_shortName": "WSL GCP OLeary-Vughan Hd2Hd",
+        "start_time": "2026-05-02T01:10:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Yucatan, (1.65) VERSES Puebla, (2.1)",
+        "contestant_names": "Yucatan VERSES Puebla",
+        "start_time_aest": "2026-05-02T11:30:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Yucatan",
+        "AWAY_contestant": "Puebla",
+        "HOME_contestant_short": "Yucatan",
+        "AWAY_contestant_short": "Puebla",
+        "comp_stats": "home_perc=16.67, low_perc_won=58.33, low_total=12.0, high_perc_won=0.0, high_total=0.0",
+        "match_name": "Yucatan v Puebla",
+        "match_shortName": "Mex Yuct-Peba Hd to Hd",
+        "start_time": "2026-05-02T01:30:00.000Z"
+    },
+    {
         "contestant_names_prop": "Laguna, (1.52) VERSES Dorados De Chihu, (2.35)",
         "contestant_names": "Laguna VERSES Dorados De Chihu",
         "start_time_aest": "2026-05-02T11:30:00+10:00",
@@ -163,21 +194,6 @@
         "comp_stats": "home_perc=16.67, low_perc_won=58.33, low_total=12.0, high_perc_won=0.0, high_total=0.0",
         "match_name": "Monterrey v Jalisco",
         "match_shortName": "Mex Mnty-Jlsc Hd to Hd",
-        "start_time": "2026-05-02T01:30:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Yucatan, (1.65) VERSES Puebla, (2.1)",
-        "contestant_names": "Yucatan VERSES Puebla",
-        "start_time_aest": "2026-05-02T11:30:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Mexico Baseball",
-        "HOME_contestant": "Yucatan",
-        "AWAY_contestant": "Puebla",
-        "HOME_contestant_short": "Yucatan",
-        "AWAY_contestant_short": "Puebla",
-        "comp_stats": "home_perc=16.67, low_perc_won=58.33, low_total=12.0, high_perc_won=0.0, high_total=0.0",
-        "match_name": "Yucatan v Puebla",
-        "match_shortName": "Mex Yuct-Peba Hd to Hd",
         "start_time": "2026-05-02T01:30:00.000Z"
     }
 ]
