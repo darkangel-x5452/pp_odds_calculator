@@ -1,6 +1,6 @@
 [
     {
-        "contestant_names_prop": "Kiwoom Heroes, (2.4) VERSES Doosan, (1.6)",
+        "contestant_names_prop": "Kiwoom Heroes, (2.4) VERSES Doosan, (1.58)",
         "contestant_names": "Kiwoom Heroes VERSES Doosan",
         "start_time_aest": "2026-05-02T18:00:00+10:00",
         "sport_name": "Baseball",
@@ -60,7 +60,7 @@
         "start_time": "2026-05-02T08:00:00.000Z"
     },
     {
-        "contestant_names_prop": "Bangladesh, (1.6) VERSES New Zealand, (2.3)",
+        "contestant_names_prop": "Bangladesh, (1.7) VERSES New Zealand, (2.1)",
         "contestant_names": "Bangladesh VERSES New Zealand",
         "start_time_aest": "2026-05-02T18:00:00+10:00",
         "sport_name": "Cricket",
@@ -73,5 +73,51 @@
         "match_name": "Bangladesh v New Zealand",
         "match_shortName": "T20 Ban-NZ Hd to Hd",
         "start_time": "2026-05-02T08:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Unified 7-Eleven, (2.05) VERSES Rakuten Monkeys, (1.72)",
+        "contestant_names": "Unified 7-Eleven VERSES Rakuten Monkeys",
+        "start_time_aest": "2026-05-02T18:05:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Chinese Professional Baseball League",
+        "HOME_contestant": "Unified 7-Eleven",
+        "AWAY_contestant": "Rakuten Monkeys",
+        "HOME_contestant_short": "Unified 7-Eleven",
+        "AWAY_contestant_short": "Rakuten Monkeys",
+        "comp_stats": "home_perc=50.0, low_perc_won=41.67, low_total=12.0, high_perc_won=66.67, high_total=6.0",
+        "match_name": "Unified 7-Eleven v Rakuten Monkeys",
+        "match_shortName": "TBL 7-11-RktM Hd to Hd",
+        "start_time": "2026-05-02T08:05:00.000Z"
+    },
+    {
+        "contestant_names_prop": "TSG Hawks, (1.75) VERSES CITIC Brothers, (2)",
+        "contestant_names": "TSG Hawks VERSES CITIC Brothers",
+        "start_time_aest": "2026-05-02T18:05:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Chinese Professional Baseball League",
+        "HOME_contestant": "TSG Hawks",
+        "AWAY_contestant": "CITIC Brothers",
+        "HOME_contestant_short": "TSG Hawks",
+        "AWAY_contestant_short": "CITIC Brothers",
+        "comp_stats": "home_perc=50.0, low_perc_won=41.67, low_total=12.0, high_perc_won=66.67, high_total=6.0",
+        "match_name": "TSG Hawks v CITIC Brothers",
+        "match_shortName": "TBL TSG-CTC Hd to Hd",
+        "start_time": "2026-05-02T08:05:00.000Z"
+    },
+    {
+        "contestant_names_prop": "FAN DomMar, (2.3) VERSES STEELE Kody, (1.62)",
+        "contestant_names": "FAN DomMar VERSES STEELE Kody",
+        "start_time_aest": "2026-05-02T18:10:00+10:00",
+        "sport_name": "UFC",
+        "competition_name": "UFC",
+        "tournamentName": "UFC FN - Della Maddalena vs Prates",
+        "HOME_contestant": "FAN DomMar",
+        "AWAY_contestant": "STEELE Kody",
+        "HOME_contestant_short": "Fan",
+        "AWAY_contestant_short": "Steele",
+        "comp_stats": "home_perc=71.43, low_perc_won=50.0, low_total=4.0, high_perc_won=0.0, high_total=3.0",
+        "match_name": "Fan v Steele",
+        "match_shortName": "UFC DvP FanDM-Steele Hd2Hd",
+        "start_time": "2026-05-02T08:10:00.000Z"
     }
 ]
