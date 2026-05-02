@@ -1,20 +1,5 @@
 [
     {
-        "contestant_names_prop": "Colorado, (2.5) VERSES Atlanta, (1.55)",
-        "contestant_names": "Colorado VERSES Atlanta",
-        "start_time_aest": "2026-05-02T10:40:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "Colorado",
-        "AWAY_contestant": "Atlanta",
-        "HOME_contestant_short": "Colorado",
-        "AWAY_contestant_short": "Atlanta",
-        "comp_stats": "home_perc=41.94, low_perc_won=62.79, low_total=43.0, high_perc_won=47.37, high_total=19.0",
-        "match_name": "Colorado v Atlanta",
-        "match_shortName": "MLB Clrd-Atln Hd to Hd",
-        "start_time": "2026-05-02T00:40:00.000Z"
-    },
-    {
         "contestant_names_prop": "Queretaro, (1.9) VERSES Campeche, (1.8)",
         "contestant_names": "Queretaro VERSES Campeche",
         "start_time_aest": "2026-05-02T11:00:00+10:00",
@@ -151,7 +136,7 @@
         "start_time": "2026-05-02T01:35:00.000Z"
     },
     {
-        "contestant_names_prop": "LA Angels, (2) VERSES NY Mets, (1.87)",
+        "contestant_names_prop": "LA Angels, (1.95) VERSES NY Mets, (1.9)",
         "contestant_names": "LA Angels VERSES NY Mets",
         "start_time_aest": "2026-05-02T11:38:00+10:00",
         "sport_name": "Baseball",
@@ -194,5 +179,35 @@
         "match_name": "San Diego v Chicago WSox",
         "match_shortName": "MLB SnDg-ChWS Hd to Hd",
         "start_time": "2026-05-02T01:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Seattle, (1.7) VERSES Kansas City, (2.2)",
+        "contestant_names": "Seattle VERSES Kansas City",
+        "start_time_aest": "2026-05-02T11:45:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Seattle",
+        "AWAY_contestant": "Kansas City",
+        "HOME_contestant_short": "Seattle",
+        "AWAY_contestant_short": "Kansas City",
+        "comp_stats": "home_perc=41.94, low_perc_won=62.79, low_total=43.0, high_perc_won=47.37, high_total=19.0",
+        "match_name": "Seattle v Kansas City",
+        "match_shortName": "MLB Seat-KnsC Hd to Hd",
+        "start_time": "2026-05-02T01:45:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Monclova, (1.58) VERSES Nuevo Laredo, (2.25)",
+        "contestant_names": "Monclova VERSES Nuevo Laredo",
+        "start_time_aest": "2026-05-02T11:45:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Monclova",
+        "AWAY_contestant": "Nuevo Laredo",
+        "HOME_contestant_short": "Monclova",
+        "AWAY_contestant_short": "Nuevo Laredo",
+        "comp_stats": "home_perc=16.67, low_perc_won=58.33, low_total=12.0, high_perc_won=0.0, high_total=0.0",
+        "match_name": "Monclova v Nuevo Laredo",
+        "match_shortName": "Mex Monc-Nuev Hd to Hd",
+        "start_time": "2026-05-02T01:45:00.000Z"
     }
 ]
