@@ -1,20 +1,5 @@
 [
     {
-        "contestant_names_prop": "San Diego, (1.55) VERSES Chicago WSox, (2.5)",
-        "contestant_names": "San Diego VERSES Chicago WSox",
-        "start_time_aest": "2026-05-03T10:40:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "San Diego",
-        "AWAY_contestant": "Chicago WSox",
-        "HOME_contestant_short": "San Diego",
-        "AWAY_contestant_short": "Chicago WSox",
-        "comp_stats": "home_perc=41.94, low_perc_won=62.79, low_total=43.0, high_perc_won=47.37, high_total=19.0",
-        "match_name": "San Diego v Chicago WSox",
-        "match_shortName": "MLB SnDg-ChWS Hd to Hd",
-        "start_time": "2026-05-03T00:40:00.000Z"
-    },
-    {
         "contestant_names_prop": "Yucatan, (1.75) VERSES Puebla, (1.95)",
         "contestant_names": "Yucatan VERSES Puebla",
         "start_time_aest": "2026-05-03T11:00:00+10:00",
@@ -42,6 +27,21 @@
         "comp_stats": null,
         "match_name": "Kansai Chargers v Sk Super Kings",
         "match_shortName": "JP2 Kansai-Sk Sup Hd to Hd",
+        "start_time": "2026-05-03T01:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "WK Hurricanes, (2.15) VERSES EK Sunrisers, (1.68)",
+        "contestant_names": "WK Hurricanes VERSES EK Sunrisers",
+        "start_time_aest": "2026-05-03T11:00:00+10:00",
+        "sport_name": "Cricket",
+        "competition_name": "Japan Premier League T20",
+        "HOME_contestant": "WK Hurricanes",
+        "AWAY_contestant": "EK Sunrisers",
+        "HOME_contestant_short": "Wk Hurricanes",
+        "AWAY_contestant_short": "Ek Sunrisers",
+        "comp_stats": null,
+        "match_name": "Wk Hurricanes v Ek Sunrisers",
+        "match_shortName": "JP2 Wk Hur-Ek Sun Hd to Hd",
         "start_time": "2026-05-03T01:00:00.000Z"
     },
     {
@@ -73,5 +73,20 @@
         "match_name": "Seattle v Kansas City",
         "match_shortName": "MLB Seat-KnsC Hd to Hd",
         "start_time": "2026-05-03T01:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Tasmania Devils, (1.5) VERSES Sandringham, (2.5)",
+        "contestant_names": "Tasmania Devils VERSES Sandringham",
+        "start_time_aest": "2026-05-03T12:05:00+10:00",
+        "sport_name": "AFL Football",
+        "competition_name": "Victorian Football League",
+        "HOME_contestant": "Tasmania Devils",
+        "AWAY_contestant": "Sandringham",
+        "HOME_contestant_short": "Tasmania Devils",
+        "AWAY_contestant_short": "Sandringham",
+        "comp_stats": "home_perc=12.5, low_perc_won=0.0, low_total=4.0, high_perc_won=75.0, high_total=4.0",
+        "match_name": "Tasmania Devils v Sandringham",
+        "match_shortName": "VFL Tasma-Sndhm NxRdHH 03/05",
+        "start_time": "2026-05-03T02:05:00.000Z"
     }
 ]
