@@ -1,6 +1,6 @@
 [
     {
-        "contestant_names_prop": "Detroit, (1.9) VERSES Boston, (1.95)",
+        "contestant_names_prop": "Detroit, (1.92) VERSES Boston, (1.92)",
         "contestant_names": "Detroit VERSES Boston",
         "start_time_aest": "2026-05-05T08:40:00+10:00",
         "sport_name": "Baseball",
@@ -30,7 +30,7 @@
         "start_time": "2026-05-04T22:40:00.000Z"
     },
     {
-        "contestant_names_prop": "Tampa Bay, (1.85) VERSES Toronto, (2)",
+        "contestant_names_prop": "Tampa Bay, (1.8) VERSES Toronto, (2.05)",
         "contestant_names": "Tampa Bay VERSES Toronto",
         "start_time_aest": "2026-05-05T08:40:00+10:00",
         "sport_name": "Baseball",
@@ -43,5 +43,20 @@
         "match_name": "Tampa Bay v Toronto",
         "match_shortName": "MLB TmpB-Torn Hd to Hd",
         "start_time": "2026-05-04T22:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "NY Yankees, (1.5) VERSES Baltimore, (2.7)",
+        "contestant_names": "NY Yankees VERSES Baltimore",
+        "start_time_aest": "2026-05-05T09:05:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "NY Yankees",
+        "AWAY_contestant": "Baltimore",
+        "HOME_contestant_short": "NY Yankees",
+        "AWAY_contestant_short": "Baltimore",
+        "comp_stats": "home_perc=41.94, low_perc_won=62.79, low_total=43.0, high_perc_won=47.37, high_total=19.0",
+        "match_name": "NY Yankees v Baltimore",
+        "match_shortName": "MLB NYYn-Balt Hd to Hd",
+        "start_time": "2026-05-04T23:05:00.000Z"
     }
 ]
