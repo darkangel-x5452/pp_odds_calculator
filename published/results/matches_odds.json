@@ -45,7 +45,7 @@
         "start_time": "2026-05-05T22:40:00.000Z"
     },
     {
-        "contestant_names_prop": "Tampa Bay, (1.75) VERSES Toronto, (2.15)",
+        "contestant_names_prop": "Tampa Bay, (1.8) VERSES Toronto, (2.05)",
         "contestant_names": "Tampa Bay VERSES Toronto",
         "start_time_aest": "2026-05-06T08:40:00+10:00",
         "sport_name": "Baseball",
@@ -60,7 +60,7 @@
         "start_time": "2026-05-05T22:40:00.000Z"
     },
     {
-        "contestant_names_prop": "Washington, (2) VERSES Minnesota, (1.87)",
+        "contestant_names_prop": "Washington, (1.95) VERSES Minnesota, (1.9)",
         "contestant_names": "Washington VERSES Minnesota",
         "start_time_aest": "2026-05-06T08:45:00+10:00",
         "sport_name": "Baseball",
@@ -75,7 +75,7 @@
         "start_time": "2026-05-05T22:45:00.000Z"
     },
     {
-        "contestant_names_prop": "NY Yankees, (1.75) VERSES Texas, (2.15)",
+        "contestant_names_prop": "NY Yankees, (1.75) VERSES Texas, (2.1)",
         "contestant_names": "NY Yankees VERSES Texas",
         "start_time_aest": "2026-05-06T09:05:00+10:00",
         "sport_name": "Baseball",
@@ -105,7 +105,7 @@
         "start_time": "2026-05-05T23:08:00.000Z"
     },
     {
-        "contestant_names_prop": "Nuevo Laredo, (1.62) VERSES Caliente De Dura, (2.15)",
+        "contestant_names_prop": "Nuevo Laredo, (1.68) VERSES Caliente De Dura, (2.05)",
         "contestant_names": "Nuevo Laredo VERSES Caliente De Dura",
         "start_time_aest": "2026-05-06T09:30:00+10:00",
         "sport_name": "Baseball",
@@ -133,5 +133,50 @@
         "match_name": "Uniceub Brb v Flamengo",
         "match_shortName": "Bra Unic-Fmgo Hd to Hd",
         "start_time": "2026-05-05T23:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Chicago Cubs, (1.62) VERSES Cincinnati, (2.4)",
+        "contestant_names": "Chicago Cubs VERSES Cincinnati",
+        "start_time_aest": "2026-05-06T09:40:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Chicago Cubs",
+        "AWAY_contestant": "Cincinnati",
+        "HOME_contestant_short": "Chicago Cubs",
+        "AWAY_contestant_short": "Cincinnati",
+        "comp_stats": "home_perc=41.94, low_perc_won=62.79, low_total=43.0, high_perc_won=47.37, high_total=19.0",
+        "match_name": "Chicago Cubs v Cincinnati",
+        "match_shortName": "MLB CCub-Cinc Hd to Hd",
+        "start_time": "2026-05-05T23:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Kansas City, (1.95) VERSES Cleveland, (1.9)",
+        "contestant_names": "Kansas City VERSES Cleveland",
+        "start_time_aest": "2026-05-06T09:40:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Kansas City",
+        "AWAY_contestant": "Cleveland",
+        "HOME_contestant_short": "Kansas City",
+        "AWAY_contestant_short": "Cleveland",
+        "comp_stats": "home_perc=41.94, low_perc_won=62.79, low_total=43.0, high_perc_won=47.37, high_total=19.0",
+        "match_name": "Kansas City v Cleveland",
+        "match_shortName": "MLB KnsC-Clev Hd to Hd",
+        "start_time": "2026-05-05T23:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Obras Sanitarias, (1.5) VERSES Cordoba, (2.35)",
+        "contestant_names": "Obras Sanitarias VERSES Cordoba",
+        "start_time_aest": "2026-05-06T10:00:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "Argentina Liga Nacional de Basket",
+        "HOME_contestant": "Obras Sanitarias",
+        "AWAY_contestant": "Cordoba",
+        "HOME_contestant_short": "Obras Sanitarias",
+        "AWAY_contestant_short": "Cordoba",
+        "comp_stats": "home_perc=58.82, low_perc_won=75.0, low_total=8.0, high_perc_won=22.22, high_total=9.0",
+        "match_name": "Obras Sanitarias v Cordoba",
+        "match_shortName": "Arg Oras-ICdb Hd to Hd",
+        "start_time": "2026-05-06T00:00:00.000Z"
     }
 ]
