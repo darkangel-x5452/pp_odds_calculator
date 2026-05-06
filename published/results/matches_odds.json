@@ -1,20 +1,5 @@
 [
     {
-        "contestant_names_prop": "NY Yankees, (1.6) VERSES Texas, (2.4)",
-        "contestant_names": "NY Yankees VERSES Texas",
-        "start_time_aest": "2026-05-07T09:05:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "NY Yankees",
-        "AWAY_contestant": "Texas",
-        "HOME_contestant_short": "NY Yankees",
-        "AWAY_contestant_short": "Texas",
-        "comp_stats": "home_perc=41.94, low_perc_won=62.79, low_total=43.0, high_perc_won=47.37, high_total=19.0",
-        "match_name": "NY Yankees v Texas",
-        "match_shortName": "MLB NYYn-Texs Hd to Hd",
-        "start_time": "2026-05-06T23:05:00.000Z"
-    },
-    {
         "contestant_names_prop": "Chicago Cubs, (1.6) VERSES Cincinnati, (2.4)",
         "contestant_names": "Chicago Cubs VERSES Cincinnati",
         "start_time_aest": "2026-05-07T09:40:00+10:00",
@@ -45,6 +30,21 @@
         "start_time": "2026-05-06T23:40:00.000Z"
     },
     {
+        "contestant_names_prop": "Nuevo Laredo, (1.62) VERSES Caliente De Dura, (2.15)",
+        "contestant_names": "Nuevo Laredo VERSES Caliente De Dura",
+        "start_time_aest": "2026-05-07T10:00:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Nuevo Laredo",
+        "AWAY_contestant": "Caliente De Dura",
+        "HOME_contestant_short": "Nuevo Laredo",
+        "AWAY_contestant_short": "Caliente De Dura",
+        "comp_stats": "home_perc=16.67, low_perc_won=58.33, low_total=12.0, high_perc_won=0.0, high_total=0.0",
+        "match_name": "Nuevo Laredo v Caliente De Dura",
+        "match_shortName": "Mex Nuev-Cali Hd to Hd",
+        "start_time": "2026-05-07T00:00:00.000Z"
+    },
+    {
         "contestant_names_prop": "Titanes Licey, (1.75) VERSES Reales Vega, (1.95)",
         "contestant_names": "Titanes Licey VERSES Reales Vega",
         "start_time_aest": "2026-05-07T10:30:00+10:00",
@@ -58,5 +58,50 @@
         "match_name": "Titanes Licey v Reales Vega",
         "match_shortName": "Dom Tita-RDLV Hd to Hd",
         "start_time": "2026-05-07T00:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Hebraica Macabi, (2.1) VERSES Aguada, (1.62)",
+        "contestant_names": "Hebraica Macabi VERSES Aguada",
+        "start_time_aest": "2026-05-07T10:45:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "Uruguay LUB",
+        "HOME_contestant": "Hebraica Macabi",
+        "AWAY_contestant": "Aguada",
+        "HOME_contestant_short": "Hebraica Macabi",
+        "AWAY_contestant_short": "Aguada",
+        "comp_stats": "home_perc=44.44, low_perc_won=66.67, low_total=3.0, high_perc_won=50.0, high_total=6.0",
+        "match_name": "Hebraica Macabi v Aguada",
+        "match_shortName": "Uru HeMa-Agua Hd to Hd",
+        "start_time": "2026-05-07T00:45:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Queretaro, (1.68) VERSES Oaxaca, (2.05)",
+        "contestant_names": "Queretaro VERSES Oaxaca",
+        "start_time_aest": "2026-05-07T11:00:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Queretaro",
+        "AWAY_contestant": "Oaxaca",
+        "HOME_contestant_short": "Queretaro",
+        "AWAY_contestant_short": "Oaxaca",
+        "comp_stats": "home_perc=16.67, low_perc_won=58.33, low_total=12.0, high_perc_won=0.0, high_total=0.0",
+        "match_name": "Queretaro v Oaxaca",
+        "match_shortName": "Mex CQtr-Oxca Hd to Hd",
+        "start_time": "2026-05-07T01:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Puebla, (1.75) VERSES Quintana Roo, (1.95)",
+        "contestant_names": "Puebla VERSES Quintana Roo",
+        "start_time_aest": "2026-05-07T11:00:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Puebla",
+        "AWAY_contestant": "Quintana Roo",
+        "HOME_contestant_short": "Puebla",
+        "AWAY_contestant_short": "Quintana Roo",
+        "comp_stats": "home_perc=16.67, low_perc_won=58.33, low_total=12.0, high_perc_won=0.0, high_total=0.0",
+        "match_name": "Puebla v Quintana Roo",
+        "match_shortName": "Mex Peba-Qutn Hd to Hd",
+        "start_time": "2026-05-07T01:00:00.000Z"
     }
 ]
