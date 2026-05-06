@@ -1,6 +1,6 @@
 [
     {
-        "contestant_names_prop": "LA Angels, (1.95) VERSES Chicago WSox, (1.9)",
+        "contestant_names_prop": "LA Angels, (2) VERSES Chicago WSox, (1.87)",
         "contestant_names": "LA Angels VERSES Chicago WSox",
         "start_time_aest": "2026-05-07T06:07:00+10:00",
         "sport_name": "Baseball",
@@ -30,6 +30,21 @@
         "start_time": "2026-05-06T20:10:00.000Z"
     },
     {
+        "contestant_names_prop": "Grindavik, (1.5) VERSES Valur, (2.4)",
+        "contestant_names": "Grindavik VERSES Valur",
+        "start_time_aest": "2026-05-07T06:15:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "Iceland Premier League",
+        "HOME_contestant": "Grindavik",
+        "AWAY_contestant": "Valur",
+        "HOME_contestant_short": "Grindavik",
+        "AWAY_contestant_short": "Valur",
+        "comp_stats": "home_perc=66.67, low_perc_won=66.67, low_total=3.0, high_perc_won=100.0, high_total=3.0",
+        "match_name": "Grindavik v Valur",
+        "match_shortName": "Ice Gdvk-Vlur Hd to Hd",
+        "start_time": "2026-05-06T20:15:00.000Z"
+    },
+    {
         "contestant_names_prop": "Malvin, (1.8) VERSES Def Sporting, (1.86)",
         "contestant_names": "Malvin VERSES Def Sporting",
         "start_time_aest": "2026-05-07T08:15:00+10:00",
@@ -43,5 +58,20 @@
         "match_name": "Malvin v Def Sporting",
         "match_shortName": "Uru Mlvi-DSpt Hd to Hd",
         "start_time": "2026-05-06T22:15:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Detroit, (1.92) VERSES Boston, (1.92)",
+        "contestant_names": "Detroit VERSES Boston",
+        "start_time_aest": "2026-05-07T08:40:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Detroit",
+        "AWAY_contestant": "Boston",
+        "HOME_contestant_short": "Detroit",
+        "AWAY_contestant_short": "Boston",
+        "comp_stats": "home_perc=41.94, low_perc_won=62.79, low_total=43.0, high_perc_won=47.37, high_total=19.0",
+        "match_name": "Detroit v Boston",
+        "match_shortName": "MLB Dtrt-Bstn Hd to Hd",
+        "start_time": "2026-05-06T22:40:00.000Z"
     }
 ]
