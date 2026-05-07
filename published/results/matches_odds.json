@@ -1,23 +1,8 @@
 [
     {
-        "contestant_names_prop": "SC Corinthians, (1.97) VERSES Minas TC, (1.72)",
-        "contestant_names": "SC Corinthians VERSES Minas TC",
-        "start_time_aest": "2026-05-08T09:00:00+10:00",
-        "sport_name": "Basketball",
-        "competition_name": "Brazil NBB",
-        "HOME_contestant": "SC Corinthians",
-        "AWAY_contestant": "Minas TC",
-        "HOME_contestant_short": "SC Corinthians",
-        "AWAY_contestant_short": "Minas TC",
-        "comp_stats": "home_perc=42.86, low_perc_won=83.33, low_total=12.0, high_perc_won=55.56, high_total=9.0",
-        "match_name": "SC Corinthians v Minas TC",
-        "match_shortName": "Bra Cthn-Mina Hd to Hd",
-        "start_time": "2026-05-07T23:00:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Detroit, (1.6) VERSES Cleveland, (2.4)",
+        "contestant_names_prop": "Detroit, (1.62) VERSES Cleveland, (2.35)",
         "contestant_names": "Detroit VERSES Cleveland",
-        "start_time_aest": "2026-05-08T09:00:00+10:00",
+        "start_time_aest": "2026-05-08T09:10:00+10:00",
         "sport_name": "Basketball",
         "competition_name": "NBA",
         "HOME_contestant": "Detroit",
@@ -27,10 +12,11 @@
         "comp_stats": "home_perc=54.55, low_perc_won=55.17, low_total=29.0, high_perc_won=46.67, high_total=15.0",
         "match_name": "Detroit v Cleveland",
         "match_shortName": "NBA Det-Cle Hd to Hd",
-        "start_time": "2026-05-07T23:00:00.000Z"
+        "start_time": "2026-05-07T23:10:00.000Z",
+        "start_time_aest_old": "2026-05-08T09:00:00+10:00"
     },
     {
-        "contestant_names_prop": "Boston, (1.85) VERSES Tampa Bay, (2)",
+        "contestant_names_prop": "Boston, (1.87) VERSES Tampa Bay, (2)",
         "contestant_names": "Boston VERSES Tampa Bay",
         "start_time_aest": "2026-05-08T09:10:00+10:00",
         "sport_name": "Baseball",
@@ -133,5 +119,35 @@
         "match_name": "Caneros Del Este v Heroes De Moca",
         "match_shortName": "Dom DelE-Hero Hd to Hd",
         "start_time": "2026-05-08T00:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Boston College, (1.66) VERSES Csd Colo Colo, (2.05)",
+        "contestant_names": "Boston College VERSES Csd Colo Colo",
+        "start_time_aest": "2026-05-08T10:30:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "Chile LNB",
+        "HOME_contestant": "Boston College",
+        "AWAY_contestant": "Csd Colo Colo",
+        "HOME_contestant_short": "Boston College",
+        "AWAY_contestant_short": "Csd Colo Colo",
+        "comp_stats": "home_perc=42.86, low_perc_won=28.57, low_total=7.0, high_perc_won=0.0, high_total=0.0",
+        "match_name": "Boston College v Csd Colo Colo",
+        "match_shortName": "Chl Bost-Colo Hd to Hd",
+        "start_time": "2026-05-08T00:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Soles S Domingo, (1.65) VERSES Leones, (2.1)",
+        "contestant_names": "Soles S Domingo VERSES Leones",
+        "start_time_aest": "2026-05-08T10:30:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "Dominican Republic LNB",
+        "HOME_contestant": "Soles S Domingo",
+        "AWAY_contestant": "Leones",
+        "HOME_contestant_short": "Soles S Domingo",
+        "AWAY_contestant_short": "Leones",
+        "comp_stats": "home_perc=57.14, low_perc_won=33.33, low_total=3.0, high_perc_won=50.0, high_total=4.0",
+        "match_name": "Soles S Domingo v Leones",
+        "match_shortName": "Dom SSDo-Lens Hd to Hd",
+        "start_time": "2026-05-08T00:30:00.000Z"
     }
 ]
