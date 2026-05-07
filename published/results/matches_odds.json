@@ -1,20 +1,5 @@
 [
     {
-        "contestant_names_prop": "Colorado, (2.2) VERSES NY Mets, (1.7)",
-        "contestant_names": "Colorado VERSES NY Mets",
-        "start_time_aest": "2026-05-08T05:10:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "Colorado",
-        "AWAY_contestant": "NY Mets",
-        "HOME_contestant_short": "Colorado",
-        "AWAY_contestant_short": "NY Mets",
-        "comp_stats": "home_perc=43.28, low_perc_won=60.42, low_total=48.0, high_perc_won=47.37, high_total=19.0",
-        "match_name": "Colorado v NY Mets",
-        "match_shortName": "MLB Clrd-NYMt Hd to Hd",
-        "start_time": "2026-05-07T19:10:00.000Z"
-    },
-    {
         "contestant_names_prop": "Arizona, (1.9) VERSES Pittsburgh, (1.95)",
         "contestant_names": "Arizona VERSES Pittsburgh",
         "start_time_aest": "2026-05-08T05:40:00+10:00",
@@ -88,5 +73,35 @@
         "match_name": "Philadelphia v Athletics",
         "match_shortName": "MLB Phly-Athl Hd to Hd",
         "start_time": "2026-05-07T22:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "SC Corinthians, (1.95) VERSES Minas TC, (1.73)",
+        "contestant_names": "SC Corinthians VERSES Minas TC",
+        "start_time_aest": "2026-05-08T09:00:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "Brazil NBB",
+        "HOME_contestant": "SC Corinthians",
+        "AWAY_contestant": "Minas TC",
+        "HOME_contestant_short": "SC Corinthians",
+        "AWAY_contestant_short": "Minas TC",
+        "comp_stats": "home_perc=42.86, low_perc_won=83.33, low_total=12.0, high_perc_won=55.56, high_total=9.0",
+        "match_name": "SC Corinthians v Minas TC",
+        "match_shortName": "Bra Cthn-Mina Hd to Hd",
+        "start_time": "2026-05-07T23:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Detroit, (1.62) VERSES Cleveland, (2.35)",
+        "contestant_names": "Detroit VERSES Cleveland",
+        "start_time_aest": "2026-05-08T09:00:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "HOME_contestant": "Detroit",
+        "AWAY_contestant": "Cleveland",
+        "HOME_contestant_short": "Detroit",
+        "AWAY_contestant_short": "Cleveland",
+        "comp_stats": "home_perc=54.55, low_perc_won=55.17, low_total=29.0, high_perc_won=46.67, high_total=15.0",
+        "match_name": "Detroit v Cleveland",
+        "match_shortName": "NBA Det-Cle Hd to Hd",
+        "start_time": "2026-05-07T23:00:00.000Z"
     }
 ]
