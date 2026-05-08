@@ -1,20 +1,5 @@
 [
     {
-        "contestant_names_prop": "Michael Smith, (1.52) VERSES Ian White, (2.5)",
-        "contestant_names": "Michael Smith VERSES Ian White",
-        "start_time_aest": "2026-05-09T06:30:00+10:00",
-        "sport_name": "Darts",
-        "competition_name": "European Tour",
-        "HOME_contestant": "Michael Smith",
-        "AWAY_contestant": "Ian White",
-        "HOME_contestant_short": "Smith M",
-        "AWAY_contestant_short": "White",
-        "comp_stats": "home_perc=53.85, low_perc_won=44.44, low_total=9.0, high_perc_won=0.0, high_total=4.0",
-        "match_name": "Smith M v White",
-        "match_shortName": "IDO SmtM-Whit Hd to Hd",
-        "start_time": "2026-05-08T20:30:00.000Z"
-    },
-    {
         "contestant_names_prop": "Cincinnati, (1.8) VERSES Houston, (2.05)",
         "contestant_names": "Cincinnati VERSES Houston",
         "start_time_aest": "2026-05-09T08:10:00+10:00",
@@ -43,5 +28,35 @@
         "match_name": "Philadelphia v New York",
         "match_shortName": "NBA Phi-NYK Hd to Hd",
         "start_time": "2026-05-08T23:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Baltimore, (1.75) VERSES Athletics, (2.15)",
+        "contestant_names": "Baltimore VERSES Athletics",
+        "start_time_aest": "2026-05-09T09:05:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Baltimore",
+        "AWAY_contestant": "Athletics",
+        "HOME_contestant_short": "Baltimore",
+        "AWAY_contestant_short": "Athletics",
+        "comp_stats": "home_perc=43.28, low_perc_won=60.42, low_total=48.0, high_perc_won=47.37, high_total=19.0",
+        "match_name": "Baltimore v Athletics",
+        "match_shortName": "MLB Balt-Athl Hd to Hd",
+        "start_time": "2026-05-08T23:05:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Cleveland, (1.68) VERSES Minnesota, (2.25)",
+        "contestant_names": "Cleveland VERSES Minnesota",
+        "start_time_aest": "2026-05-09T09:15:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Cleveland",
+        "AWAY_contestant": "Minnesota",
+        "HOME_contestant_short": "Cleveland",
+        "AWAY_contestant_short": "Minnesota",
+        "comp_stats": "home_perc=43.28, low_perc_won=60.42, low_total=48.0, high_perc_won=47.37, high_total=19.0",
+        "match_name": "Cleveland v Minnesota",
+        "match_shortName": "MLB Clev-Minn Hd to Hd",
+        "start_time": "2026-05-08T23:15:00.000Z"
     }
 ]
