@@ -1,8 +1,8 @@
 [
     {
-        "contestant_names_prop": "Philadelphia, (1.6) VERSES New York, (2.4)",
+        "contestant_names_prop": "Philadelphia, (1.65) VERSES New York, (2.3)",
         "contestant_names": "Philadelphia VERSES New York",
-        "start_time_aest": "2026-05-09T09:00:00+10:00",
+        "start_time_aest": "2026-05-09T09:10:00+10:00",
         "sport_name": "Basketball",
         "competition_name": "NBA",
         "HOME_contestant": "Philadelphia",
@@ -12,7 +12,8 @@
         "comp_stats": "home_perc=54.55, low_perc_won=55.17, low_total=29.0, high_perc_won=46.67, high_total=15.0",
         "match_name": "Philadelphia v New York",
         "match_shortName": "NBA Phi-NYK Hd to Hd",
-        "start_time": "2026-05-08T23:00:00.000Z"
+        "start_time": "2026-05-08T23:10:00.000Z",
+        "start_time_aest_old": "2026-05-09T09:00:00+10:00"
     },
     {
         "contestant_names_prop": "Baltimore, (1.75) VERSES Athletics, (2.15)",
@@ -75,7 +76,7 @@
         "start_time": "2026-05-08T23:10:00.000Z"
     },
     {
-        "contestant_names_prop": "Cleveland, (1.68) VERSES Minnesota, (2.25)",
+        "contestant_names_prop": "Cleveland, (1.7) VERSES Minnesota, (2.2)",
         "contestant_names": "Cleveland VERSES Minnesota",
         "start_time_aest": "2026-05-09T09:15:00+10:00",
         "sport_name": "Baseball",
@@ -117,6 +118,36 @@
         "comp_stats": "home_perc=43.28, low_perc_won=60.42, low_total=48.0, high_perc_won=47.37, high_total=19.0",
         "match_name": "Chicago WSox v Seattle",
         "match_shortName": "MLB ChWS-Seat Hd to Hd",
+        "start_time": "2026-05-08T23:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Kansas City, (1.7) VERSES Detroit, (2.2)",
+        "contestant_names": "Kansas City VERSES Detroit",
+        "start_time_aest": "2026-05-09T09:40:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Kansas City",
+        "AWAY_contestant": "Detroit",
+        "HOME_contestant_short": "Kansas City",
+        "AWAY_contestant_short": "Detroit",
+        "comp_stats": "home_perc=43.28, low_perc_won=60.42, low_total=48.0, high_perc_won=47.37, high_total=19.0",
+        "match_name": "Kansas City v Detroit",
+        "match_shortName": "MLB KnsC-Dtrt Hd to Hd",
+        "start_time": "2026-05-08T23:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Milwaukee, (2.05) VERSES NY Yankees, (1.8)",
+        "contestant_names": "Milwaukee VERSES NY Yankees",
+        "start_time_aest": "2026-05-09T09:40:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Milwaukee",
+        "AWAY_contestant": "NY Yankees",
+        "HOME_contestant_short": "Milwaukee",
+        "AWAY_contestant_short": "NY Yankees",
+        "comp_stats": "home_perc=43.28, low_perc_won=60.42, low_total=48.0, high_perc_won=47.37, high_total=19.0",
+        "match_name": "Milwaukee v NY Yankees",
+        "match_shortName": "MLB Mlwk-NYYn Hd to Hd",
         "start_time": "2026-05-08T23:40:00.000Z"
     }
 ]
