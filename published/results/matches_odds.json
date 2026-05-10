@@ -1,20 +1,5 @@
 [
     {
-        "contestant_names_prop": "Kansas City, (1.8) VERSES Detroit, (2.05)",
-        "contestant_names": "Kansas City VERSES Detroit",
-        "start_time_aest": "2026-05-11T09:20:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "Kansas City",
-        "AWAY_contestant": "Detroit",
-        "HOME_contestant_short": "Kansas City",
-        "AWAY_contestant_short": "Detroit",
-        "comp_stats": "home_perc=43.28, low_perc_won=60.42, low_total=48.0, high_perc_won=47.37, high_total=19.0",
-        "match_name": "Kansas City v Detroit",
-        "match_shortName": "MLB KnsC-Dtrt Hd to Hd",
-        "start_time": "2026-05-10T23:20:00.000Z"
-    },
-    {
         "contestant_names_prop": "Minnesota, (2.6) VERSES San Antonio, (1.52)",
         "contestant_names": "Minnesota VERSES San Antonio",
         "start_time_aest": "2026-05-11T09:42:00+10:00",
@@ -90,7 +75,7 @@
         "start_time": "2026-05-11T00:00:00.000Z"
     },
     {
-        "contestant_names_prop": "Csd Colo Colo, (1.9) VERSES Boston College, (1.77)",
+        "contestant_names_prop": "Csd Colo Colo, (1.95) VERSES Boston College, (1.73)",
         "contestant_names": "Csd Colo Colo VERSES Boston College",
         "start_time_aest": "2026-05-11T10:00:00+10:00",
         "sport_name": "Basketball",
@@ -103,5 +88,20 @@
         "match_name": "Csd Colo Colo v Boston College",
         "match_shortName": "Chl Colo-Bost Hd to Hd",
         "start_time": "2026-05-11T00:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Golden State, (1.68) VERSES Phoenix, (2.15)",
+        "contestant_names": "Golden State VERSES Phoenix",
+        "start_time_aest": "2026-05-11T10:30:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "WNBA",
+        "HOME_contestant": "Golden State",
+        "AWAY_contestant": "Phoenix",
+        "HOME_contestant_short": "Golden State",
+        "AWAY_contestant_short": "Phoenix",
+        "comp_stats": "home_perc=0.0, low_perc_won=0.0, low_total=1.0, high_perc_won=0.0, high_total=0.0",
+        "match_name": "Golden State v Phoenix",
+        "match_shortName": "WNB GSV-Phx Hd to Hd",
+        "start_time": "2026-05-11T00:30:00.000Z"
     }
 ]
