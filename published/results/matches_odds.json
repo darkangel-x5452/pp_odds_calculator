@@ -1,20 +1,5 @@
 [
     {
-        "contestant_names_prop": "Southampton, (1.75) VERSES Middlesbrough, (2)",
-        "contestant_names": "Southampton VERSES Middlesbrough",
-        "start_time_aest": "2026-05-13T05:00:00+10:00",
-        "sport_name": "Soccer",
-        "competition_name": "English Championship",
-        "HOME_contestant": "Southampton",
-        "AWAY_contestant": "Middlesbrough",
-        "HOME_contestant_short": "Southampton",
-        "AWAY_contestant_short": "Middlesbrough",
-        "comp_stats": null,
-        "match_name": "Southampton v Middlesbrough",
-        "match_shortName": "EFL Sthamp-Midbro WnrOfTie",
-        "start_time": "2026-05-12T19:00:00.000Z"
-    },
-    {
         "contestant_names_prop": "Tindastoll, (1.52) VERSES Grindavik, (2.35)",
         "contestant_names": "Tindastoll VERSES Grindavik",
         "start_time_aest": "2026-05-13T05:15:00+10:00",
@@ -28,5 +13,20 @@
         "match_name": "Tindastoll v Grindavik",
         "match_shortName": "Ice Tida-Gdvk Hd to Hd",
         "start_time": "2026-05-12T19:15:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Cleveland, (1.75) VERSES LA Angels, (2.15)",
+        "contestant_names": "Cleveland VERSES LA Angels",
+        "start_time_aest": "2026-05-13T08:10:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Cleveland",
+        "AWAY_contestant": "LA Angels",
+        "HOME_contestant_short": "Cleveland",
+        "AWAY_contestant_short": "LA Angels",
+        "comp_stats": "home_perc=43.28, low_perc_won=60.42, low_total=48.0, high_perc_won=47.37, high_total=19.0",
+        "match_name": "Cleveland v LA Angels",
+        "match_shortName": "MLB Clev-LAAn Hd to Hd",
+        "start_time": "2026-05-12T22:10:00.000Z"
     }
 ]
