@@ -1,50 +1,5 @@
 [
     {
-        "contestant_names_prop": "Chicago WSox, (2) VERSES Kansas City, (1.85)",
-        "contestant_names": "Chicago WSox VERSES Kansas City",
-        "start_time_aest": "2026-05-13T09:40:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "Chicago WSox",
-        "AWAY_contestant": "Kansas City",
-        "HOME_contestant_short": "Chicago WSox",
-        "AWAY_contestant_short": "Kansas City",
-        "comp_stats": "home_perc=43.28, low_perc_won=60.42, low_total=48.0, high_perc_won=47.37, high_total=19.0",
-        "match_name": "Chicago WSox v Kansas City",
-        "match_shortName": "MLB ChWS-KnsC Hd to Hd",
-        "start_time": "2026-05-12T23:40:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Minnesota, (1.92) VERSES Miami, (1.92)",
-        "contestant_names": "Minnesota VERSES Miami",
-        "start_time_aest": "2026-05-13T09:40:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "Minnesota",
-        "AWAY_contestant": "Miami",
-        "HOME_contestant_short": "Minnesota",
-        "AWAY_contestant_short": "Miami",
-        "comp_stats": "home_perc=43.28, low_perc_won=60.42, low_total=48.0, high_perc_won=47.37, high_total=19.0",
-        "match_name": "Minnesota v Miami",
-        "match_shortName": "MLB Minn-Miam Hd to Hd",
-        "start_time": "2026-05-12T23:40:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Milwaukee, (1.68) VERSES San Diego, (2.25)",
-        "contestant_names": "Milwaukee VERSES San Diego",
-        "start_time_aest": "2026-05-13T09:40:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "Milwaukee",
-        "AWAY_contestant": "San Diego",
-        "HOME_contestant_short": "Milwaukee",
-        "AWAY_contestant_short": "San Diego",
-        "comp_stats": "home_perc=43.28, low_perc_won=60.42, low_total=48.0, high_perc_won=47.37, high_total=19.0",
-        "match_name": "Milwaukee v San Diego",
-        "match_shortName": "MLB Mlwk-SnDg Hd to Hd",
-        "start_time": "2026-05-12T23:40:00.000Z"
-    },
-    {
         "contestant_names_prop": "Leones, (1.95) VERSES Titanes Licey, (1.75)",
         "contestant_names": "Leones VERSES Titanes Licey",
         "start_time_aest": "2026-05-13T10:00:00+10:00",
@@ -120,7 +75,7 @@
         "start_time": "2026-05-13T00:30:00.000Z"
     },
     {
-        "contestant_names_prop": "Papua New Guinea, (1.5) VERSES Samoa, (2.5)",
+        "contestant_names_prop": "Papua New Guinea, (1.52) VERSES Samoa, (2.5)",
         "contestant_names": "Papua New Guinea VERSES Samoa",
         "start_time_aest": "2026-05-13T10:30:00+10:00",
         "sport_name": "Cricket",
@@ -133,5 +88,50 @@
         "match_name": "Papua New Guinea v Samoa",
         "match_shortName": "T20 PNG-Samoa Hd to Hd",
         "start_time": "2026-05-13T00:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Hebraica Macabi, (1.77) VERSES Aguada, (1.9)",
+        "contestant_names": "Hebraica Macabi VERSES Aguada",
+        "start_time_aest": "2026-05-13T10:45:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "Uruguay LUB",
+        "HOME_contestant": "Hebraica Macabi",
+        "AWAY_contestant": "Aguada",
+        "HOME_contestant_short": "Hebraica Macabi",
+        "AWAY_contestant_short": "Aguada",
+        "comp_stats": "home_perc=45.45, low_perc_won=60.0, low_total=5.0, high_perc_won=50.0, high_total=6.0",
+        "match_name": "Hebraica Macabi v Aguada",
+        "match_shortName": "Uru HeMa-Agua Hd to Hd",
+        "start_time": "2026-05-13T00:45:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Campeche, (1.8) VERSES Yucatan, (1.9)",
+        "contestant_names": "Campeche VERSES Yucatan",
+        "start_time_aest": "2026-05-13T11:00:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Campeche",
+        "AWAY_contestant": "Yucatan",
+        "HOME_contestant_short": "Campeche",
+        "AWAY_contestant_short": "Yucatan",
+        "comp_stats": "home_perc=30.43, low_perc_won=54.55, low_total=22.0, high_perc_won=100.0, high_total=1.0",
+        "match_name": "Campeche v Yucatan",
+        "match_shortName": "Mex Camp-Yuct Hd to Hd",
+        "start_time": "2026-05-13T01:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Puebla, (1.95) VERSES Leon, (1.75)",
+        "contestant_names": "Puebla VERSES Leon",
+        "start_time_aest": "2026-05-13T11:00:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Puebla",
+        "AWAY_contestant": "Leon",
+        "HOME_contestant_short": "Puebla",
+        "AWAY_contestant_short": "Leon",
+        "comp_stats": "home_perc=30.43, low_perc_won=54.55, low_total=22.0, high_perc_won=100.0, high_total=1.0",
+        "match_name": "Puebla v Leon",
+        "match_shortName": "Mex Peba-Leon Hd to Hd",
+        "start_time": "2026-05-13T01:00:00.000Z"
     }
 ]
