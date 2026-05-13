@@ -157,10 +157,10 @@ class ResultsAnalysis(SchemaName):
             file_name = _file.split("/")[-1]
             data_df = pd.read_csv(_file, skiprows=3, on_bad_lines="skip")
             data_df_copy = data_df.copy()
-            find = data_df_copy[data_df_copy["Description"].str.contains("5338939")]
-            if len(find) > 0:
-                print(f"Found match code in description: {find['Description'].iloc[0]}")
-                print(find)
+            # find = data_df_copy[data_df_copy["Description"].str.contains("5338939")]
+            # if len(find) > 0:
+            #     print(f"Found match code in description: {find['Description'].iloc[0]}")
+            #     print(find)
             if file_name.startswith("statement"):
                 dropna_subset = ["Time (AEST)"]
                 filter_rows = ~data_df_copy[self.description_col].str.startswith(
@@ -314,6 +314,9 @@ class ResultsAnalysis(SchemaName):
                 ],
                 axis=1,
             )
+            if "HOME_contestant" in hist_odds_cln_df.columns and "AWAY_contestant" in hist_odds_cln_df.columns:
+                hist_odds_cln_df["home_full_name"] = hist_odds_cln_df["home_full_name"].combine_first(hist_odds_cln_df["HOME_contestant"])
+                hist_odds_cln_df["away_full_name"] = hist_odds_cln_df["away_full_name"].combine_first(hist_odds_cln_df["AWAY_contestant"])
 
             hist_odds_cln_df[self.sport_genre_col] = np.where(
                 hist_odds_cln_df["sport_name"].isin(non_sports_list),
@@ -330,13 +333,21 @@ class ResultsAnalysis(SchemaName):
                 hist_odds_cln_df.loc[mask, self.sport_genre_col] + " Doubles"
             )
             combined_df = pd.concat([combined_df, hist_odds_cln_df], ignore_index=True)
-        # hist_df[hist_df["home_full_name"]=='Aleksandar Kovacevic']
         combined_df = combined_df.drop(columns=[contestants_col]).drop_duplicates()
         # TODO: Need to remove dupes caused by start time changing
         return combined_df
 
     def _flatten_players(self, lst):
         # d = {x["position"]: x for x in lst}
+        if lst is np.nan:
+            return pd.Series(
+                {
+                    "home_full_name": None,
+                    "home_short_name": None,
+                    "away_full_name": None,
+                    "away_short_name": None,
+                }
+            )
         return pd.Series(
             {
                 "home_full_name": lst[0].get("full_name", None),

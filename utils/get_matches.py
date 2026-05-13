@@ -411,8 +411,12 @@ class GetMatchesOdds:
                         tournament_name=tournamentName,
                     )
                     # compress contestants dict
-                    contestants_locations = {
+                    contestants_locations_full = {
                         f"{item['position']}_contestant": item["full_name"]
+                        for item in contestants
+                    }
+                    contestants_locations_short = {
+                        f"{item['position']}_contestant": item["short_name"]
                         for item in contestants
                     }
 
@@ -424,8 +428,10 @@ class GetMatchesOdds:
                         "sport_name": sportName,
                         "competition_name": competitionName,
                         "tournamentName": tournamentName,
-                        "HOME_contestant": contestants_locations["HOME_contestant"],
-                        "AWAY_contestant": contestants_locations["AWAY_contestant"],
+                        "HOME_contestant": contestants_locations_full["HOME_contestant"],
+                        "AWAY_contestant": contestants_locations_full["AWAY_contestant"],
+                        "HOME_contestant_short": contestants_locations_short["HOME_contestant"],
+                        "AWAY_contestant_short": contestants_locations_short["AWAY_contestant"],
                         # "contestants": cleaned_contestants,
                         # "propositions": clean_propositions,
                         "comp_stats": comp_stats_str,
