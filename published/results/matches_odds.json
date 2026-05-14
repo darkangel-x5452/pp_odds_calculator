@@ -2,7 +2,7 @@
     {
         "contestant_names_prop": "Boston, (1.85) VERSES Philadelphia, (2)",
         "contestant_names": "Boston VERSES Philadelphia",
-        "start_time_aest": "2026-05-15T08:45:00+10:00",
+        "start_time_aest": "2026-05-15T09:05:00+10:00",
         "sport_name": "Baseball",
         "competition_name": "Major League Baseball",
         "HOME_contestant": "Boston",
@@ -12,7 +12,8 @@
         "comp_stats": "home_perc=43.28, low_perc_won=60.42, low_total=48.0, high_perc_won=47.37, high_total=19.0",
         "match_name": "Boston v Philadelphia",
         "match_shortName": "MLB Bstn-Phly Hd to Hd",
-        "start_time": "2026-05-14T22:45:00.000Z"
+        "start_time": "2026-05-14T23:05:00.000Z",
+        "start_time_aest_old": "2026-05-15T08:45:00+10:00"
     },
     {
         "contestant_names_prop": "Luke Thompson, (1.6) VERSES Tom Butland, (2.2)",
@@ -29,6 +30,21 @@
         "match_name": "LThompson v Butland",
         "match_shortName": "WSL NZH LThomp-Btland Hd2Hd",
         "start_time": "2026-05-14T22:48:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Clarke Road United, (1.8) VERSES Bess Motors Marchin Patriots, (2)",
+        "contestant_names": "Clarke Road United VERSES Bess Motors Marchin Patriots",
+        "start_time_aest": "2026-05-15T09:00:00+10:00",
+        "sport_name": "Cricket",
+        "competition_name": "Trinidad T20 Festival",
+        "HOME_contestant": "Clarke Road United",
+        "AWAY_contestant": "Bess Motors Marchin Patriots",
+        "HOME_contestant_short": "Clarke Road Unit",
+        "AWAY_contestant_short": "Bess Motors Marc",
+        "comp_stats": null,
+        "match_name": "Clarke Road Unit v Bess Motors Marc",
+        "match_shortName": "TFT Clarke-Bess M Hd to Hd",
+        "start_time": "2026-05-14T23:00:00.000Z"
     },
     {
         "contestant_names_prop": "Atlanta, (1.52) VERSES Chicago Cubs, (2.6)",
@@ -138,7 +154,7 @@
         "start_time": "2026-05-15T00:00:00.000Z"
     },
     {
-        "contestant_names_prop": "Dallas, (1.58) VERSES Minnesota, (2.35)",
+        "contestant_names_prop": "Dallas, (1.55) VERSES Minnesota, (2.4)",
         "contestant_names": "Dallas VERSES Minnesota",
         "start_time_aest": "2026-05-15T10:00:00+10:00",
         "sport_name": "Basketball",
@@ -151,5 +167,21 @@
         "match_name": "Dallas v Minnesota",
         "match_shortName": "WNB Dal-Min Hd to Hd",
         "start_time": "2026-05-15T00:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Seth Moniz, (2.2) VERSES Ramzi Boukhiam, (1.6)",
+        "contestant_names": "Seth Moniz VERSES Ramzi Boukhiam",
+        "start_time_aest": "2026-05-15T10:02:00+10:00",
+        "sport_name": "Surfing",
+        "competition_name": "WSL Mens Championship Tour",
+        "tournamentName": "WSL Mens New Zealand Heat Winners",
+        "HOME_contestant": "Seth Moniz",
+        "AWAY_contestant": "Ramzi Boukhiam",
+        "HOME_contestant_short": "Moniz",
+        "AWAY_contestant_short": "Boukhiam",
+        "comp_stats": "home_perc=33.33, low_perc_won=66.67, low_total=12.0, high_perc_won=66.67, high_total=3.0",
+        "match_name": "Moniz v Boukhiam",
+        "match_shortName": "WSL NZH Moniz-Boukhm Hd2Hd",
+        "start_time": "2026-05-15T00:02:00.000Z"
     }
 ]
