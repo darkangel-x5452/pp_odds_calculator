@@ -46,7 +46,7 @@
         "start_time": "2026-05-15T22:45:00.000Z"
     },
     {
-        "contestant_names_prop": "Washington, (2.2) VERSES Baltimore, (1.7)",
+        "contestant_names_prop": "Washington, (2.15) VERSES Baltimore, (1.75)",
         "contestant_names": "Washington VERSES Baltimore",
         "start_time_aest": "2026-05-16T08:45:00+10:00",
         "sport_name": "Baseball",
@@ -77,7 +77,7 @@
         "start_time": "2026-05-15T22:50:00.000Z"
     },
     {
-        "contestant_names_prop": "Cleveland, (1.58) VERSES Detroit, (2.45)",
+        "contestant_names_prop": "Cleveland, (1.56) VERSES Detroit, (2.5)",
         "contestant_names": "Cleveland VERSES Detroit",
         "start_time_aest": "2026-05-16T09:00:00+10:00",
         "sport_name": "Basketball",
@@ -122,21 +122,6 @@
         "start_time": "2026-05-15T23:05:00.000Z"
     },
     {
-        "contestant_names_prop": "Tampa Bay, (1.85) VERSES Miami, (2)",
-        "contestant_names": "Tampa Bay VERSES Miami",
-        "start_time_aest": "2026-05-16T09:10:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "Tampa Bay",
-        "AWAY_contestant": "Miami",
-        "HOME_contestant_short": "Tampa Bay",
-        "AWAY_contestant_short": "Miami",
-        "comp_stats": "home_perc=43.28, low_perc_won=60.42, low_total=48.0, high_perc_won=47.37, high_total=19.0",
-        "match_name": "Tampa Bay v Miami",
-        "match_shortName": "MLB TmpB-Miam Hd to Hd",
-        "start_time": "2026-05-15T23:10:00.000Z"
-    },
-    {
         "contestant_names_prop": "Cleveland, (1.7) VERSES Cincinnati, (2.2)",
         "contestant_names": "Cleveland VERSES Cincinnati",
         "start_time_aest": "2026-05-16T09:10:00+10:00",
@@ -164,6 +149,21 @@
         "comp_stats": "home_perc=43.28, low_perc_won=60.42, low_total=48.0, high_perc_won=47.37, high_total=19.0",
         "match_name": "Minnesota v Milwaukee",
         "match_shortName": "MLB Minn-Mlwk Hd to Hd",
+        "start_time": "2026-05-15T23:10:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Tampa Bay, (1.85) VERSES Miami, (2)",
+        "contestant_names": "Tampa Bay VERSES Miami",
+        "start_time_aest": "2026-05-16T09:10:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Tampa Bay",
+        "AWAY_contestant": "Miami",
+        "HOME_contestant_short": "Tampa Bay",
+        "AWAY_contestant_short": "Miami",
+        "comp_stats": "home_perc=43.28, low_perc_won=60.42, low_total=48.0, high_perc_won=47.37, high_total=19.0",
+        "match_name": "Tampa Bay v Miami",
+        "match_shortName": "MLB TmpB-Miam Hd to Hd",
         "start_time": "2026-05-15T23:10:00.000Z"
     }
 ]
