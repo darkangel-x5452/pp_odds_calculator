@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names_prop": "GOMEZ JNR Michael, (1.55) VERSES MCGREGOR Lee, (2.4)",
-        "contestant_names": "GOMEZ JNR Michael VERSES MCGREGOR Lee",
-        "start_time_aest": "2026-05-17T06:00:00+10:00",
-        "sport_name": "Boxing",
-        "competition_name": "Allen vs Hrgovic - Dave vs Goliath",
-        "HOME_contestant": "GOMEZ JNR Michael",
-        "AWAY_contestant": "MCGREGOR Lee",
-        "HOME_contestant_short": "Gomez Jnr",
-        "AWAY_contestant_short": "Mcgregor",
-        "comp_stats": null,
-        "match_name": "Gomez Jnr v Mcgregor",
-        "match_shortName": "Box Gomez-Mcgrgr Hd to Hd",
-        "start_time": "2026-05-16T20:00:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Team Liquid, (2.05) VERSES Cloud9, (1.68)",
-        "contestant_names": "Team Liquid VERSES Cloud9",
-        "start_time_aest": "2026-05-17T06:00:00+10:00",
-        "sport_name": "Esports",
-        "competition_name": "League of Legends",
-        "tournamentName": "LoL - LCS",
-        "HOME_contestant": "Team Liquid",
-        "AWAY_contestant": "Cloud9",
-        "HOME_contestant_short": "Team Liquid",
-        "AWAY_contestant_short": "Cloud9",
-        "comp_stats": "home_perc=0.0,low_perc_won=0.0,low_total=1.0,high_perc_won=0.0,high_total=1.0",
-        "match_name": "Team Liquid v Cloud9",
-        "match_shortName": "LoL LCS Lqud-Clou Hd to Hd",
-        "start_time": "2026-05-16T20:00:00.000Z"
-    },
-    {
         "contestant_names_prop": "Pittsburgh, (2.4) VERSES Philadelphia, (1.6)",
         "contestant_names": "Pittsburgh VERSES Philadelphia",
         "start_time_aest": "2026-05-17T06:05:00+10:00",
@@ -74,5 +43,37 @@
         "match_name": "Tampa Bay v Miami",
         "match_shortName": "MLB TmpB-Miam Hd to Hd",
         "start_time": "2026-05-16T20:10:00.000Z"
+    },
+    {
+        "contestant_names_prop": "SOPAJ Benardo, (1.72) VERSES CUAMBA Timothy, (2.1)",
+        "contestant_names": "SOPAJ Benardo VERSES CUAMBA Timothy",
+        "start_time_aest": "2026-05-17T07:00:00+10:00",
+        "sport_name": "UFC",
+        "competition_name": "UFC",
+        "tournamentName": "UFC Fight Night- Allen vs Costa",
+        "HOME_contestant": "SOPAJ Benardo",
+        "AWAY_contestant": "CUAMBA Timothy",
+        "HOME_contestant_short": "Sopaj",
+        "AWAY_contestant_short": "Cuamba",
+        "comp_stats": "home_perc=62.5,low_perc_won=60.0,low_total=5.0,high_perc_won=0.0,high_total=3.0",
+        "match_name": "Sopaj v Cuamba",
+        "match_shortName": "UFC AvC Sopaj-Cuamba Hd2Hd",
+        "start_time": "2026-05-16T21:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "VERETENNIKOV Nikolay, (2.05) VERSES WILLIAMS Khaos, (1.76)",
+        "contestant_names": "VERETENNIKOV Nikolay VERSES WILLIAMS Khaos",
+        "start_time_aest": "2026-05-17T07:00:00+10:00",
+        "sport_name": "UFC",
+        "competition_name": "UFC",
+        "tournamentName": "UFC Fight Night- Allen vs Costa",
+        "HOME_contestant": "VERETENNIKOV Nikolay",
+        "AWAY_contestant": "WILLIAMS Khaos",
+        "HOME_contestant_short": "Veretennikov",
+        "AWAY_contestant_short": "WilliamsK",
+        "comp_stats": "home_perc=62.5,low_perc_won=60.0,low_total=5.0,high_perc_won=0.0,high_total=3.0",
+        "match_name": "Veretennikov v WilliamsK",
+        "match_shortName": "UFC AvC Verete-WilsK Hd2Hd",
+        "start_time": "2026-05-16T21:00:00.000Z"
     }
 ]
