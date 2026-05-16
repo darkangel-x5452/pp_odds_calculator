@@ -31,7 +31,7 @@
         "start_time": "2026-05-16T22:10:00.000Z"
     },
     {
-        "contestant_names_prop": "PETROSKI Andre, (1.53) VERSES BRUNDAGE Cody, (2.5)",
+        "contestant_names_prop": "PETROSKI Andre, (1.62) VERSES BRUNDAGE Cody, (2.3)",
         "contestant_names": "PETROSKI Andre VERSES BRUNDAGE Cody",
         "start_time_aest": "2026-05-17T08:45:00+10:00",
         "sport_name": "UFC",
@@ -62,21 +62,6 @@
         "start_time": "2026-05-16T23:00:00.000Z"
     },
     {
-        "contestant_names_prop": "Monterrey, (1.58) VERSES Laguna, (2.25)",
-        "contestant_names": "Monterrey VERSES Laguna",
-        "start_time_aest": "2026-05-17T09:00:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Mexico Baseball",
-        "HOME_contestant": "Monterrey",
-        "AWAY_contestant": "Laguna",
-        "HOME_contestant_short": "Monterrey",
-        "AWAY_contestant_short": "Laguna",
-        "comp_stats": "home_perc=36.67,low_perc_won=51.72,low_total=29.0,high_perc_won=100.0,high_total=1.0",
-        "match_name": "Monterrey v Laguna",
-        "match_shortName": "Mex Mnty-Lgna Hd to Hd",
-        "start_time": "2026-05-16T23:00:00.000Z"
-    },
-    {
         "contestant_names_prop": "ShopifyRebellion, (2.15) VERSES Disguised, (1.62)",
         "contestant_names": "ShopifyRebellion VERSES Disguised",
         "start_time_aest": "2026-05-17T09:00:00+10:00",
@@ -90,6 +75,21 @@
         "comp_stats": "home_perc=0.0,low_perc_won=0.0,low_total=1.0,high_perc_won=0.0,high_total=1.0",
         "match_name": "ShopifyRebellion v Disguised",
         "match_shortName": "LoL LCS Shpf-Disg Hd to Hd",
+        "start_time": "2026-05-16T23:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Monterrey, (1.58) VERSES Laguna, (2.25)",
+        "contestant_names": "Monterrey VERSES Laguna",
+        "start_time_aest": "2026-05-17T09:00:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Monterrey",
+        "AWAY_contestant": "Laguna",
+        "HOME_contestant_short": "Monterrey",
+        "AWAY_contestant_short": "Laguna",
+        "comp_stats": "home_perc=36.67,low_perc_won=51.72,low_total=29.0,high_perc_won=100.0,high_total=1.0",
+        "match_name": "Monterrey v Laguna",
+        "match_shortName": "Mex Mnty-Lgna Hd to Hd",
         "start_time": "2026-05-16T23:00:00.000Z"
     },
     {
@@ -121,5 +121,65 @@
         "match_name": "Houston v Texas",
         "match_shortName": "MLB Hstn-Texs Hd to Hd",
         "start_time": "2026-05-16T23:10:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Minnesota, (2.05) VERSES Milwaukee, (1.8)",
+        "contestant_names": "Minnesota VERSES Milwaukee",
+        "start_time_aest": "2026-05-17T09:10:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Minnesota",
+        "AWAY_contestant": "Milwaukee",
+        "HOME_contestant_short": "Minnesota",
+        "AWAY_contestant_short": "Milwaukee",
+        "comp_stats": "home_perc=43.84,low_perc_won=61.54,low_total=52.0,high_perc_won=42.86,high_total=21.0",
+        "match_name": "Minnesota v Milwaukee",
+        "match_shortName": "MLB Minn-Mlwk Hd to Hd",
+        "start_time": "2026-05-16T23:10:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Atlanta, (1.85) VERSES Boston, (2)",
+        "contestant_names": "Atlanta VERSES Boston",
+        "start_time_aest": "2026-05-17T09:15:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Atlanta",
+        "AWAY_contestant": "Boston",
+        "HOME_contestant_short": "Atlanta",
+        "AWAY_contestant_short": "Boston",
+        "comp_stats": "home_perc=43.84,low_perc_won=61.54,low_total=52.0,high_perc_won=42.86,high_total=21.0",
+        "match_name": "Atlanta v Boston",
+        "match_shortName": "MLB Atln-Bstn Hd to Hd",
+        "start_time": "2026-05-16T23:15:00.000Z"
+    },
+    {
+        "contestant_names_prop": "NY Mets, (2) VERSES NY Yankees, (1.85)",
+        "contestant_names": "NY Mets VERSES NY Yankees",
+        "start_time_aest": "2026-05-17T09:15:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "NY Mets",
+        "AWAY_contestant": "NY Yankees",
+        "HOME_contestant_short": "NY Mets",
+        "AWAY_contestant_short": "NY Yankees",
+        "comp_stats": "home_perc=43.84,low_perc_won=61.54,low_total=52.0,high_perc_won=42.86,high_total=21.0",
+        "match_name": "NY Mets v NY Yankees",
+        "match_shortName": "MLB NYMt-NYYn Hd to Hd",
+        "start_time": "2026-05-16T23:15:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Seattle, (1.6) VERSES San Diego, (2.4)",
+        "contestant_names": "Seattle VERSES San Diego",
+        "start_time_aest": "2026-05-17T09:15:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Seattle",
+        "AWAY_contestant": "San Diego",
+        "HOME_contestant_short": "Seattle",
+        "AWAY_contestant_short": "San Diego",
+        "comp_stats": "home_perc=43.84,low_perc_won=61.54,low_total=52.0,high_perc_won=42.86,high_total=21.0",
+        "match_name": "Seattle v San Diego",
+        "match_shortName": "MLB Seat-SnDg Hd to Hd",
+        "start_time": "2026-05-16T23:15:00.000Z"
     }
 ]
