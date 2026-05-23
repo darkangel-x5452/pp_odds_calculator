@@ -1,6 +1,6 @@
 [
     {
-        "contestant_names_prop": "North Melbourne, (2.5) VERSES Gold Coast, (1.53)",
+        "contestant_names_prop": "North Melbourne, (2.35) VERSES Gold Coast, (1.6)",
         "contestant_names": "North Melbourne VERSES Gold Coast",
         "start_time_aest": "2026-05-23T13:15:00+10:00",
         "sport_name": "AFL Football",
@@ -30,6 +30,21 @@
         "start_time": "2026-05-23T03:30:00.000Z"
     },
     {
+        "contestant_names_prop": "Tijuana, (1.5) VERSES Laguna, (2.4)",
+        "contestant_names": "Tijuana VERSES Laguna",
+        "start_time_aest": "2026-05-23T13:35:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Tijuana",
+        "AWAY_contestant": "Laguna",
+        "HOME_contestant_short": "Tijuana",
+        "AWAY_contestant_short": "Laguna",
+        "comp_stats": "home_perc=36.67,low_perc_won=51.72,low_total=29.0,high_perc_won=100.0,high_total=1.0",
+        "match_name": "Tijuana v Laguna",
+        "match_shortName": "Mex Tjna-Lgna Hd to Hd",
+        "start_time": "2026-05-23T03:35:00.000Z"
+    },
+    {
         "contestant_names_prop": "Franklin, (1.83) VERSES Hawkes Bay Hawks, (1.83)",
         "contestant_names": "Franklin VERSES Hawkes Bay Hawks",
         "start_time_aest": "2026-05-23T14:00:00+10:00",
@@ -43,5 +58,21 @@
         "match_name": "Franklin v Hawkes Bay Hawks",
         "match_shortName": "NZL Fkln-Hawk Hd to Hd",
         "start_time": "2026-05-23T04:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Bao L J/Cao Z H, (2.25) VERSES Chen F S T/Luo X M, (1.58)",
+        "contestant_names": "Bao L J/Cao Z H VERSES Chen F S T/Luo X M",
+        "start_time_aest": "2026-05-23T14:10:00+10:00",
+        "sport_name": "Badminton",
+        "competition_name": "Badminton World Tour Doubles",
+        "tournamentName": "Malaysia Masters Womens Doubles",
+        "HOME_contestant": "Bao L J/Cao Z H",
+        "AWAY_contestant": "Chen F S T/Luo X M",
+        "HOME_contestant_short": "BaoLHCaoZH",
+        "AWAY_contestant_short": "CheFSLuoXM",
+        "comp_stats": "home_perc=47.62,low_perc_won=87.5,low_total=8.0,high_perc_won=53.85,high_total=13.0",
+        "match_name": "BaoLHCaoZH v CheFSLuoXM",
+        "match_shortName": "WTD MaW BLHCZH-CFSLXM Hd2Hd",
+        "start_time": "2026-05-23T04:10:00.000Z"
     }
 ]
