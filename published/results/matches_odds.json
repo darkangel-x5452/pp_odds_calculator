@@ -1,20 +1,5 @@
 [
     {
-        "contestant_names_prop": "Kansas City, (2.15) VERSES NY Yankees, (1.75)",
-        "contestant_names": "Kansas City VERSES NY Yankees",
-        "start_time_aest": "2026-05-26T05:40:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "Kansas City",
-        "AWAY_contestant": "NY Yankees",
-        "HOME_contestant_short": "Kansas City",
-        "AWAY_contestant_short": "NY Yankees",
-        "comp_stats": "home_perc=43.53,low_perc_won=59.68,low_total=62.0,high_perc_won=47.83,high_total=23.0",
-        "match_name": "Kansas City v NY Yankees",
-        "match_shortName": "MLB KnsC-NYYn Hd to Hd",
-        "start_time": "2026-05-25T19:40:00.000Z"
-    },
-    {
         "contestant_names_prop": "NY Mets, (1.75) VERSES Cincinnati, (2.15)",
         "contestant_names": "NY Mets VERSES Cincinnati",
         "start_time_aest": "2026-05-26T06:10:00+10:00",
@@ -61,7 +46,7 @@
         "start_time": "2026-05-25T21:05:00.000Z"
     },
     {
-        "contestant_names_prop": "Cleveland, (1.58) VERSES Washington, (2.5)",
+        "contestant_names_prop": "Cleveland, (1.6) VERSES Washington, (2.4)",
         "contestant_names": "Cleveland VERSES Washington",
         "start_time_aest": "2026-05-26T08:10:00+10:00",
         "sport_name": "Baseball",
@@ -76,7 +61,7 @@
         "start_time": "2026-05-25T22:10:00.000Z"
     },
     {
-        "contestant_names_prop": "San Diego, (2.05) VERSES Philadelphia, (1.8)",
+        "contestant_names_prop": "San Diego, (2) VERSES Philadelphia, (1.85)",
         "contestant_names": "San Diego VERSES Philadelphia",
         "start_time_aest": "2026-05-26T08:40:00+10:00",
         "sport_name": "Baseball",
@@ -119,5 +104,20 @@
         "match_name": "Toronto v Miami",
         "match_shortName": "MLB Torn-Miam Hd to Hd",
         "start_time": "2026-05-25T23:07:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Cleveland, (2.1) VERSES New York, (1.77)",
+        "contestant_names": "Cleveland VERSES New York",
+        "start_time_aest": "2026-05-26T10:00:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "HOME_contestant": "Cleveland",
+        "AWAY_contestant": "New York",
+        "HOME_contestant_short": "Cleveland",
+        "AWAY_contestant_short": "New York",
+        "comp_stats": "home_perc=56.52,low_perc_won=58.06,low_total=31.0,high_perc_won=46.67,high_total=15.0",
+        "match_name": "Cleveland v New York",
+        "match_shortName": "NBA Cle-NYK Hd to Hd",
+        "start_time": "2026-05-26T00:00:00.000Z"
     }
 ]
