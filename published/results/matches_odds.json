@@ -1,6 +1,6 @@
 [
     {
-        "contestant_names_prop": "Cleveland, (1.75) VERSES Washington, (2.15)",
+        "contestant_names_prop": "Cleveland, (1.75) VERSES Washington, (2.1)",
         "contestant_names": "Cleveland VERSES Washington",
         "start_time_aest": "2026-05-27T08:10:00+10:00",
         "sport_name": "Baseball",
@@ -15,7 +15,7 @@
         "start_time": "2026-05-26T22:10:00.000Z"
     },
     {
-        "contestant_names_prop": "Baltimore, (2) VERSES Tampa Bay, (1.85)",
+        "contestant_names_prop": "Baltimore, (1.95) VERSES Tampa Bay, (1.9)",
         "contestant_names": "Baltimore VERSES Tampa Bay",
         "start_time_aest": "2026-05-27T08:35:00+10:00",
         "sport_name": "Baseball",
@@ -88,5 +88,65 @@
         "match_name": "Toronto v Miami",
         "match_shortName": "MLB Torn-Miam Hd to Hd",
         "start_time": "2026-05-26T23:07:00.000Z"
+    },
+    {
+        "contestant_names_prop": "NY Mets, (1.95) VERSES Cincinnati, (1.9)",
+        "contestant_names": "NY Mets VERSES Cincinnati",
+        "start_time_aest": "2026-05-27T09:10:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "NY Mets",
+        "AWAY_contestant": "Cincinnati",
+        "HOME_contestant_short": "NY Mets",
+        "AWAY_contestant_short": "Cincinnati",
+        "comp_stats": "home_perc=43.53,low_perc_won=59.68,low_total=62.0,high_perc_won=47.83,high_total=23.0",
+        "match_name": "NY Mets v Cincinnati",
+        "match_shortName": "MLB NYMt-Cinc Hd to Hd",
+        "start_time": "2026-05-26T23:10:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Chicago WSox, (2) VERSES Minnesota, (1.87)",
+        "contestant_names": "Chicago WSox VERSES Minnesota",
+        "start_time_aest": "2026-05-27T09:40:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Chicago WSox",
+        "AWAY_contestant": "Minnesota",
+        "HOME_contestant_short": "Chicago WSox",
+        "AWAY_contestant_short": "Minnesota",
+        "comp_stats": "home_perc=43.53,low_perc_won=59.68,low_total=62.0,high_perc_won=47.83,high_total=23.0",
+        "match_name": "Chicago WSox v Minnesota",
+        "match_shortName": "MLB ChWS-Minn Hd to Hd",
+        "start_time": "2026-05-26T23:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Kansas City, (2.6) VERSES NY Yankees, (1.52)",
+        "contestant_names": "Kansas City VERSES NY Yankees",
+        "start_time_aest": "2026-05-27T09:40:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Kansas City",
+        "AWAY_contestant": "NY Yankees",
+        "HOME_contestant_short": "Kansas City",
+        "AWAY_contestant_short": "NY Yankees",
+        "comp_stats": "home_perc=43.53,low_perc_won=59.68,low_total=62.0,high_perc_won=47.83,high_total=23.0",
+        "match_name": "Kansas City v NY Yankees",
+        "match_shortName": "MLB KnsC-NYYn Hd to Hd",
+        "start_time": "2026-05-26T23:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Nuevo Laredo, (1.62) VERSES Monclova, (2.15)",
+        "contestant_names": "Nuevo Laredo VERSES Monclova",
+        "start_time_aest": "2026-05-27T10:00:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Nuevo Laredo",
+        "AWAY_contestant": "Monclova",
+        "HOME_contestant_short": "Nuevo Laredo",
+        "AWAY_contestant_short": "Monclova",
+        "comp_stats": "home_perc=36.59,low_perc_won=51.35,low_total=37.0,high_perc_won=100.0,high_total=4.0",
+        "match_name": "Nuevo Laredo v Monclova",
+        "match_shortName": "Mex Nuev-Monc Hd to Hd",
+        "start_time": "2026-05-27T00:00:00.000Z"
     }
 ]
