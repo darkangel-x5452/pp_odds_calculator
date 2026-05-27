@@ -1,20 +1,5 @@
 [
     {
-        "contestant_names_prop": "Telekom Baskets, (1.62) VERSES s.Oliver Baskets, (2.15)",
-        "contestant_names": "Telekom Baskets VERSES s.Oliver Baskets",
-        "start_time_aest": "2026-05-28T04:30:00+10:00",
-        "sport_name": "Basketball",
-        "competition_name": "Germany Bundesliga",
-        "HOME_contestant": "Telekom Baskets",
-        "AWAY_contestant": "s.Oliver Baskets",
-        "HOME_contestant_short": "Telekom Baskets",
-        "AWAY_contestant_short": "s.Oliver Baskets",
-        "comp_stats": "home_perc=64.29,low_perc_won=27.27,low_total=11.0,high_perc_won=100.0,high_total=3.0",
-        "match_name": "Telekom Baskets  v s.Oliver Baskets",
-        "match_shortName": "Ger Tele-s.Ov Hd to Hd",
-        "start_time": "2026-05-27T18:30:00.000Z"
-    },
-    {
         "contestant_names_prop": "Real Madrid, (1.66) VERSES Saski Baskonia, (2.05)",
         "contestant_names": "Real Madrid VERSES Saski Baskonia",
         "start_time_aest": "2026-05-28T05:00:00+10:00",
@@ -30,7 +15,7 @@
         "start_time": "2026-05-27T19:00:00.000Z"
     },
     {
-        "contestant_names_prop": "Crystal Palace, (1.55) VERSES Rayo Vallecano, (2.35)",
+        "contestant_names_prop": "Crystal Palace, (1.5) VERSES Rayo Vallecano, (2.5)",
         "contestant_names": "Crystal Palace VERSES Rayo Vallecano",
         "start_time_aest": "2026-05-28T05:00:00+10:00",
         "sport_name": "Soccer",
@@ -43,5 +28,35 @@
         "match_name": "Crystal Palace v Rayo Vallecano",
         "match_shortName": "ECL CrystP-RyoVal WnrOfTie",
         "start_time": "2026-05-27T19:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Athletics, (2) VERSES Seattle, (1.85)",
+        "contestant_names": "Athletics VERSES Seattle",
+        "start_time_aest": "2026-05-28T05:05:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Athletics",
+        "AWAY_contestant": "Seattle",
+        "HOME_contestant_short": "Athletics",
+        "AWAY_contestant_short": "Seattle",
+        "comp_stats": "home_perc=43.53,low_perc_won=59.68,low_total=62.0,high_perc_won=47.83,high_total=23.0",
+        "match_name": "Athletics v Seattle",
+        "match_shortName": "MLB Athl-Seat Hd to Hd",
+        "start_time": "2026-05-27T19:05:00.000Z"
+    },
+    {
+        "contestant_names_prop": "San Francisco, (2) VERSES Arizona, (1.87)",
+        "contestant_names": "San Francisco VERSES Arizona",
+        "start_time_aest": "2026-05-28T05:45:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "San Francisco",
+        "AWAY_contestant": "Arizona",
+        "HOME_contestant_short": "San Francisco",
+        "AWAY_contestant_short": "Arizona",
+        "comp_stats": "home_perc=43.53,low_perc_won=59.68,low_total=62.0,high_perc_won=47.83,high_total=23.0",
+        "match_name": "San Francisco v Arizona",
+        "match_shortName": "MLB SFrn-Ariz Hd to Hd",
+        "start_time": "2026-05-27T19:45:00.000Z"
     }
 ]
