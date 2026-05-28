@@ -1,6 +1,6 @@
 [
     {
-        "contestant_names_prop": "Baltimore, (1.8) VERSES Toronto, (2.05)",
+        "contestant_names_prop": "Baltimore, (1.75) VERSES Toronto, (2.1)",
         "contestant_names": "Baltimore VERSES Toronto",
         "start_time_aest": "2026-05-29T08:35:00+10:00",
         "sport_name": "Baseball",
@@ -28,6 +28,21 @@
         "match_name": "Pittsburgh v Chicago Cubs",
         "match_shortName": "MLB Ptsb-CCub Hd to Hd",
         "start_time": "2026-05-28T22:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Campeche (Game 1), (1.55) VERSES Quintana Roo (Game 1), (2.3)",
+        "contestant_names": "Campeche (Game 1) VERSES Quintana Roo (Game 1)",
+        "start_time_aest": "2026-05-29T09:00:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Campeche (Game 1)",
+        "AWAY_contestant": "Quintana Roo (Game 1)",
+        "HOME_contestant_short": "Campeche",
+        "AWAY_contestant_short": "Quintana Roo (G1)",
+        "comp_stats": "home_perc=36.59,low_perc_won=51.35,low_total=37.0,high_perc_won=100.0,high_total=4.0",
+        "match_name": "Campeche v Quintana Roo (G1)",
+        "match_shortName": "Mex Camp-Qutn Hd to Hd G1",
+        "start_time": "2026-05-28T23:00:00.000Z"
     },
     {
         "contestant_names_prop": "Carril Oes Pic, (1.55) VERSES Gimnasia Y Esgri, (2.25)",
@@ -73,5 +88,20 @@
         "match_name": "Nuevo Laredo v Monclova",
         "match_shortName": "Mex Nuev-Monc Hd to Hd",
         "start_time": "2026-05-28T23:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Texas, (1.7) VERSES Houston, (2.2)",
+        "contestant_names": "Texas VERSES Houston",
+        "start_time_aest": "2026-05-29T10:05:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Texas",
+        "AWAY_contestant": "Houston",
+        "HOME_contestant_short": "Texas",
+        "AWAY_contestant_short": "Houston",
+        "comp_stats": "home_perc=43.53,low_perc_won=59.68,low_total=62.0,high_perc_won=47.83,high_total=23.0",
+        "match_name": "Texas v Houston",
+        "match_shortName": "MLB Texs-Hstn Hd to Hd",
+        "start_time": "2026-05-29T00:05:00.000Z"
     }
 ]
