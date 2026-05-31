@@ -1,35 +1,5 @@
 [
     {
-        "contestant_names_prop": "Oklahoma City, (1.65) VERSES San Antonio, (2.3)",
-        "contestant_names": "Oklahoma City VERSES San Antonio",
-        "start_time_aest": "2026-05-31T10:15:00+10:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "HOME_contestant": "Oklahoma City",
-        "AWAY_contestant": "San Antonio",
-        "HOME_contestant_short": "Oklahoma City",
-        "AWAY_contestant_short": "San Antonio",
-        "comp_stats": "home_perc=55.56,low_perc_won=64.86,low_total=37.0,high_perc_won=47.06,high_total=17.0",
-        "match_name": "Oklahoma City v San Antonio",
-        "match_shortName": "NBA OKC-SAS Hd to Hd",
-        "start_time": "2026-05-31T00:15:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Laguna, (1.85) VERSES Jalisco, (1.85)",
-        "contestant_names": "Laguna VERSES Jalisco",
-        "start_time_aest": "2026-05-31T10:30:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Mexico Baseball",
-        "HOME_contestant": "Laguna",
-        "AWAY_contestant": "Jalisco",
-        "HOME_contestant_short": "Laguna",
-        "AWAY_contestant_short": "Jalisco",
-        "comp_stats": "home_perc=41.67,low_perc_won=47.62,low_total=42.0,high_perc_won=83.33,high_total=6.0",
-        "match_name": "Laguna v Jalisco",
-        "match_shortName": "Mex Lgna-Jlsc Hd to Hd",
-        "start_time": "2026-05-31T00:30:00.000Z"
-    },
-    {
         "contestant_names_prop": "Dorados De Chihu, (1.85) VERSES Aguascalientes, (1.85)",
         "contestant_names": "Dorados De Chihu VERSES Aguascalientes",
         "start_time_aest": "2026-05-31T11:00:00+10:00",
@@ -58,6 +28,36 @@
         "match_name": "Tabasco v Oaxaca",
         "match_shortName": "Mex Tabs-Oxca Hd to Hd",
         "start_time": "2026-05-31T01:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Casey, (1.95) VERSES GWS Res, (1.8)",
+        "contestant_names": "Casey VERSES GWS Res",
+        "start_time_aest": "2026-05-31T11:05:00+10:00",
+        "sport_name": "AFL Football",
+        "competition_name": "Victorian Football League",
+        "HOME_contestant": "Casey",
+        "AWAY_contestant": "GWS Res",
+        "HOME_contestant_short": "Casey",
+        "AWAY_contestant_short": "GWS Res",
+        "comp_stats": "home_perc=11.11,low_perc_won=0.0,low_total=4.0,high_perc_won=80.0,high_total=5.0",
+        "match_name": "Casey v GWS Res",
+        "match_shortName": "VFL R10 Casey-GWS Hd2Hd",
+        "start_time": "2026-05-31T01:05:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Brisbane Res, (2.1) VERSES Frankston, (1.68)",
+        "contestant_names": "Brisbane Res VERSES Frankston",
+        "start_time_aest": "2026-05-31T11:05:00+10:00",
+        "sport_name": "AFL Football",
+        "competition_name": "Victorian Football League",
+        "HOME_contestant": "Brisbane Res",
+        "AWAY_contestant": "Frankston",
+        "HOME_contestant_short": "Brisbane Res",
+        "AWAY_contestant_short": "Frankston",
+        "comp_stats": "home_perc=11.11,low_perc_won=0.0,low_total=4.0,high_perc_won=80.0,high_total=5.0",
+        "match_name": "Brisbane Res v Frankston",
+        "match_shortName": "VFL R10 Bris-Frnkst Hd2Hd",
+        "start_time": "2026-05-31T01:05:00.000Z"
     },
     {
         "contestant_names_prop": "Caliente De Dura, (1.95) VERSES Nuevo Laredo, (1.75)",
@@ -103,5 +103,50 @@
         "match_name": "Monclova v Saltillo",
         "match_shortName": "Mex Monc-Stlo Hd to Hd",
         "start_time": "2026-05-31T01:45:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Essendon, (2.15) VERSES Werribee, (1.65)",
+        "contestant_names": "Essendon VERSES Werribee",
+        "start_time_aest": "2026-05-31T12:05:00+10:00",
+        "sport_name": "AFL Football",
+        "competition_name": "Victorian Football League",
+        "HOME_contestant": "Essendon",
+        "AWAY_contestant": "Werribee",
+        "HOME_contestant_short": "Essendon",
+        "AWAY_contestant_short": "Werribee",
+        "comp_stats": "home_perc=11.11,low_perc_won=0.0,low_total=4.0,high_perc_won=80.0,high_total=5.0",
+        "match_name": "Essendon v Werribee",
+        "match_shortName": "VFL R10 Ess-Weribe Hd2Hd",
+        "start_time": "2026-05-31T02:05:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Athletics, (2.3) VERSES NY Yankees, (1.65)",
+        "contestant_names": "Athletics VERSES NY Yankees",
+        "start_time_aest": "2026-05-31T12:05:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Athletics",
+        "AWAY_contestant": "NY Yankees",
+        "HOME_contestant_short": "Athletics",
+        "AWAY_contestant_short": "NY Yankees",
+        "comp_stats": "home_perc=44.68,low_perc_won=60.29,low_total=68.0,high_perc_won=42.31,high_total=26.0",
+        "match_name": "Athletics v NY Yankees",
+        "match_shortName": "MLB Athl-NYYn Hd to Hd",
+        "start_time": "2026-05-31T02:05:00.000Z"
+    },
+    {
+        "contestant_names_prop": "LA Dodgers, (1.8) VERSES Philadelphia, (2.05)",
+        "contestant_names": "LA Dodgers VERSES Philadelphia",
+        "start_time_aest": "2026-05-31T12:10:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "LA Dodgers",
+        "AWAY_contestant": "Philadelphia",
+        "HOME_contestant_short": "LA Dodgers",
+        "AWAY_contestant_short": "Philadelphia",
+        "comp_stats": "home_perc=44.68,low_perc_won=60.29,low_total=68.0,high_perc_won=42.31,high_total=26.0",
+        "match_name": "LA Dodgers v Philadelphia",
+        "match_shortName": "MLB LADg-Phly Hd to Hd",
+        "start_time": "2026-05-31T02:10:00.000Z"
     }
 ]
