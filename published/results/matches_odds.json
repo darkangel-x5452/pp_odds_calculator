@@ -2,7 +2,7 @@
     {
         "contestant_names_prop": "Dabrowski/Stefani, (1.52) VERSES Siegemund/Zvonareva, (2.35)",
         "contestant_names": "Dabrowski/Stefani VERSES Siegemund/Zvonareva",
-        "start_time_aest": "2026-06-02T21:00:00+10:00",
+        "start_time_aest": "2026-06-02T21:15:00+10:00",
         "sport_name": "Tennis",
         "competition_name": "French Open Doubles",
         "tournamentName": "French Open Womens Doubles",
@@ -13,7 +13,8 @@
         "comp_stats": "home_perc=66.67,low_perc_won=50.0,low_total=6.0,high_perc_won=0.0,high_total=0.0",
         "match_name": "Dabrowski/Stefani v Siegemund/Zvonareva",
         "match_shortName": "FRN WDb Stni-ZvnV Hd to Hd",
-        "start_time": "2026-06-02T11:00:00.000Z"
+        "start_time": "2026-06-02T11:15:00.000Z",
+        "start_time_aest_old": "2026-06-02T21:00:00+10:00"
     },
     {
         "contestant_names_prop": "Belgium, (1.86) VERSES Lithuania, (1.8)",
@@ -44,5 +45,35 @@
         "match_name": "Pakistan v Australia",
         "match_shortName": "ODI Pak-Aus Hd2Hd",
         "start_time": "2026-06-02T11:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Puerto Rico, (1.6) VERSES Brazil, (2.15)",
+        "contestant_names": "Puerto Rico VERSES Brazil",
+        "start_time_aest": "2026-06-02T21:45:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "3x3 Mens World Cup",
+        "HOME_contestant": "Puerto Rico",
+        "AWAY_contestant": "Brazil",
+        "HOME_contestant_short": "Puerto Rico",
+        "AWAY_contestant_short": "Brazil",
+        "comp_stats": "home_perc=0.0,low_perc_won=0.0,low_total=1.0,high_perc_won=0.0,high_total=1.0",
+        "match_name": "Puerto Rico v Brazil",
+        "match_shortName": "F3M PRco-Braz Hd to Hd",
+        "start_time": "2026-06-02T11:45:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Scotland (W), (1.95) VERSES Bangladesh (W), (1.85)",
+        "contestant_names": "Scotland (W) VERSES Bangladesh (W)",
+        "start_time_aest": "2026-06-02T22:00:00+10:00",
+        "sport_name": "Cricket",
+        "competition_name": "Womens T20 Internationals",
+        "HOME_contestant": "Scotland (W)",
+        "AWAY_contestant": "Bangladesh (W)",
+        "HOME_contestant_short": "Scotland (W)",
+        "AWAY_contestant_short": "Bangladesh (W)",
+        "comp_stats": "home_perc=50.0,low_perc_won=50.0,low_total=4.0,high_perc_won=0.0,high_total=0.0",
+        "match_name": "Scotland (W) v Bangladesh (W)",
+        "match_shortName": "W20 Scotla-Ban Hd to Hd",
+        "start_time": "2026-06-02T12:00:00.000Z"
     }
 ]
