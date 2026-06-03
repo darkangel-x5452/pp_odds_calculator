@@ -1,20 +1,5 @@
 [
     {
-        "contestant_names_prop": "Seattle, (1.7) VERSES NY Mets, (2.2)",
-        "contestant_names": "Seattle VERSES NY Mets",
-        "start_time_aest": "2026-06-04T05:40:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "Seattle",
-        "AWAY_contestant": "NY Mets",
-        "HOME_contestant_short": "Seattle",
-        "AWAY_contestant_short": "NY Mets",
-        "comp_stats": "home_perc=44.68,low_perc_won=60.29,low_total=68.0,high_perc_won=42.31,high_total=26.0",
-        "match_name": "Seattle v NY Mets",
-        "match_shortName": "MLB Seat-NYMt Hd to Hd",
-        "start_time": "2026-06-03T19:40:00.000Z"
-    },
-    {
         "contestant_names_prop": "Boston, (1.68) VERSES Baltimore, (2.25)",
         "contestant_names": "Boston VERSES Baltimore",
         "start_time_aest": "2026-06-04T08:45:00+10:00",
@@ -28,5 +13,20 @@
         "match_name": "Boston v Baltimore",
         "match_shortName": "MLB Bstn-Balt Hd to Hd",
         "start_time": "2026-06-03T22:45:00.000Z"
+    },
+    {
+        "contestant_names_prop": "NY Yankees, (1.68) VERSES Cleveland, (2.25)",
+        "contestant_names": "NY Yankees VERSES Cleveland",
+        "start_time_aest": "2026-06-04T09:05:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "NY Yankees",
+        "AWAY_contestant": "Cleveland",
+        "HOME_contestant_short": "NY Yankees",
+        "AWAY_contestant_short": "Cleveland",
+        "comp_stats": "home_perc=44.68,low_perc_won=60.29,low_total=68.0,high_perc_won=42.31,high_total=26.0",
+        "match_name": "NY Yankees v Cleveland",
+        "match_shortName": "MLB NYYn-Clev Hd to Hd",
+        "start_time": "2026-06-03T23:05:00.000Z"
     }
 ]
