@@ -1,36 +1,5 @@
 [
     {
-        "contestant_names_prop": "NY Yankees, (1.9) VERSES Boston, (1.95)",
-        "contestant_names": "NY Yankees VERSES Boston",
-        "start_time_aest": "2026-06-07T10:30:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "NY Yankees",
-        "AWAY_contestant": "Boston",
-        "HOME_contestant_short": "NY Yankees",
-        "AWAY_contestant_short": "Boston",
-        "comp_stats": "home_perc=45.71,low_perc_won=58.11,low_total=74.0,high_perc_won=45.16,high_total=31.0",
-        "match_name": "NY Yankees v Boston",
-        "match_shortName": "MLB NYYn-Bstn Hd to Hd",
-        "start_time": "2026-06-07T00:30:00.000Z",
-        "start_time_aest_old": "2026-06-07T09:35:00+10:00"
-    },
-    {
-        "contestant_names_prop": "Texas, (1.85) VERSES Cleveland, (2)",
-        "contestant_names": "Texas VERSES Cleveland",
-        "start_time_aest": "2026-06-07T09:35:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "Texas",
-        "AWAY_contestant": "Cleveland",
-        "HOME_contestant_short": "Texas",
-        "AWAY_contestant_short": "Cleveland",
-        "comp_stats": "home_perc=45.71,low_perc_won=58.11,low_total=74.0,high_perc_won=45.16,high_total=31.0",
-        "match_name": "Texas v Cleveland",
-        "match_shortName": "MLB Texs-Clev Hd to Hd",
-        "start_time": "2026-06-06T23:35:00.000Z"
-    },
-    {
         "contestant_names_prop": "Quintana Roo, (1.9) VERSES Queretaro, (1.8)",
         "contestant_names": "Quintana Roo VERSES Queretaro",
         "start_time_aest": "2026-06-07T10:00:00+10:00",
@@ -46,7 +15,7 @@
         "start_time": "2026-06-07T00:00:00.000Z"
     },
     {
-        "contestant_names_prop": "Aguascalientes, (1.75) VERSES Jalisco, (1.95)",
+        "contestant_names_prop": "Aguascalientes, (1.72) VERSES Jalisco, (2)",
         "contestant_names": "Aguascalientes VERSES Jalisco",
         "start_time_aest": "2026-06-07T10:00:00+10:00",
         "sport_name": "Baseball",
@@ -76,7 +45,7 @@
         "start_time": "2026-06-07T00:00:00.000Z"
     },
     {
-        "contestant_names_prop": "Saltillo, (1.75) VERSES Dorados De Chihu, (1.95)",
+        "contestant_names_prop": "Saltillo, (1.72) VERSES Dorados De Chihu, (2)",
         "contestant_names": "Saltillo VERSES Dorados De Chihu",
         "start_time_aest": "2026-06-07T10:00:00+10:00",
         "sport_name": "Baseball",
@@ -121,6 +90,21 @@
         "start_time": "2026-06-07T00:15:00.000Z"
     },
     {
+        "contestant_names_prop": "NY Yankees, (1.9) VERSES Boston, (1.95)",
+        "contestant_names": "NY Yankees VERSES Boston",
+        "start_time_aest": "2026-06-07T10:30:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "NY Yankees",
+        "AWAY_contestant": "Boston",
+        "HOME_contestant_short": "NY Yankees",
+        "AWAY_contestant_short": "Boston",
+        "comp_stats": "home_perc=45.71,low_perc_won=58.11,low_total=74.0,high_perc_won=45.16,high_total=31.0",
+        "match_name": "NY Yankees v Boston",
+        "match_shortName": "MLB NYYn-Bstn Hd to Hd",
+        "start_time": "2026-06-07T00:30:00.000Z"
+    },
+    {
         "contestant_names_prop": "Laguna, (1.75) VERSES Caliente De Dura, (1.95)",
         "contestant_names": "Laguna VERSES Caliente De Dura",
         "start_time_aest": "2026-06-07T10:30:00+10:00",
@@ -149,5 +133,21 @@
         "match_name": "Leones Quilpue v U De Concepcion",
         "match_shortName": "Chl LQlp-UCpn Hd to Hd",
         "start_time": "2026-06-07T00:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "LUNA Santiago, (2) VERSES MITCHELL Bryce, (1.8)",
+        "contestant_names": "LUNA Santiago VERSES MITCHELL Bryce",
+        "start_time_aest": "2026-06-07T10:45:00+10:00",
+        "sport_name": "UFC",
+        "competition_name": "UFC",
+        "tournamentName": "UFC Fight Night - Muhammad vs Bonfim",
+        "HOME_contestant": "LUNA Santiago",
+        "AWAY_contestant": "MITCHELL Bryce",
+        "HOME_contestant_short": "Luna",
+        "AWAY_contestant_short": "Mitchell B",
+        "comp_stats": "home_perc=62.5,low_perc_won=60.0,low_total=5.0,high_perc_won=0.0,high_total=3.0",
+        "match_name": "Luna v Mitchell B",
+        "match_shortName": "UFC MvB Luna-MtchlB Hd2Hd",
+        "start_time": "2026-06-07T00:45:00.000Z"
     }
 ]
