@@ -93,6 +93,7 @@ class ResultsAnalysis(SchemaName):
         data_raw_dir = "/mnt/c/Users/s/Downloads/"
         data_dir = "data/source/odd_site/results/"
         copy_missing_prefixed_files(source_dir=data_raw_dir, dest_dir=data_dir, prefix="statement_4912079")
+        copy_missing_prefixed_files(source_dir=data_raw_dir, dest_dir=data_dir, prefix="Transaction Details ")
 
         data_files = os.listdir(data_dir)
 
@@ -149,6 +150,150 @@ class ResultsAnalysis(SchemaName):
             "includes super over",
         ]
 
+        self.doubles_sports = ["Tennis", "Badminton"]
+
+    def collect_all_transaction_data(self) -> pd.DataFrame:
+        debit_col = "Debit"
+        timestamp_aest_col = self.timestamp_aest_col
+        result_df = pd.DataFrame()
+        combined_df = pd.DataFrame()
+        for _file in self.src_data_ls:
+            file_name = _file.split("/")[-1]
+            data_df = pd.read_csv(_file, skiprows=3, on_bad_lines="skip")
+            data_df_copy = data_df.copy()
+            # find = data_df_copy[data_df_copy["Description"].str.contains("919901")]
+            # if len(find) > 0:
+            #     print(f"Found match code in description: {find['Description'].iloc[0]}")
+            #     print(find)
+            # if file_name.startswith("statement"):
+            keep_state_cols = [
+                # 'Credit',
+            'Date (AEST)',
+            'Time (AEST)',
+            'Odds',
+            'Result',
+            'Debit',
+            'Description',
+            # 'Detail',
+            # 'Running Balance'
+            # 'Type',
+            ]
+
+            # data_df_copy = data_df_copy[data_df_copy["Description"].str.contains("75115519323509901")]
+            # if len(data_df_copy) == 0:
+            #     continue
+            if file_name.startswith("statement"):
+                # dropna_subset = ["Time (AEST)"]
+                # filter_rows = ~data_df_copy[self.description_col].str.startswith(
+                #     ("Transaction number: ", "Withdrawal", "Deposit")
+                # )
+                # data_df_copy = data_df_copy.dropna(subset=dropna_subset)
+                # data_df_copy = data_df_copy[filter_rows]
+                data_df_copy = data_df_copy.dropna(subset=["Description"])
+                data_df_copy = data_df_copy
+            elif file_name.startswith("Transaction"):
+                # dropna_subset = ["Bet Type"]
+                # data_df_copy = data_df_copy.dropna(subset=dropna_subset)
+                # dropna_subset = ["Fixed Price Odds"]
+                # data_df_copy = data_df_copy.dropna(subset=dropna_subset)
+                data_df_copy = data_df_copy.dropna(subset=["Description"])
+                data_df_copy = data_df_copy
+            else:
+                # continue
+                raise ValueError("Bad file naming.")
+            if file_name.startswith("statement"):
+                data_cln_df = self._statement_description_extraction(
+                    input_df=data_df_copy
+                )
+            elif file_name.startswith("Transaction"):
+                data_cln_df = self._transaction_description_extraction(
+                    input_df=data_df_copy
+                )
+            else:
+                raise ValueError("Bad file naming.")
+            data_cln_df["transaction_number"] = data_cln_df["Description"].str.extract(
+                r"(?i)transaction\s+number:\s*(\d+)"
+            )
+
+            combined_df = pd.concat([combined_df, data_cln_df], ignore_index=True)
+
+        bets_only_pd = combined_df.dropna(subset=["Odds"]).drop_duplicates()
+        transaction_resuly_only_pd = combined_df[combined_df["Odds"].isna()].drop_duplicates()
+        ##################
+        join_cols = ["transaction_number"]  # change this to your join key
+
+        merged = bets_only_pd.merge(
+            transaction_resuly_only_pd,
+            how="left",
+            on=join_cols,
+            suffixes=("", "_right")
+        )
+
+        # coalesce every shared column: bets_only_pd first, then transaction_resuly_only_pd
+        for col in bets_only_pd.columns:
+            if col not in join_cols:
+                right_col = f"{col}_right"
+                if right_col in merged.columns:
+                    merged[col] = merged[col].combine_first(merged[right_col])
+
+        # remove right-side duplicate columns
+        right_cols = [f"{col}_right" for col in bets_only_pd.columns if col not in join_cols]
+        merged = merged.drop(columns=[c for c in right_cols if c in merged.columns])
+
+        data_cln_df = merged
+
+        ####################
+        data_cln_df[debit_col] = (
+            data_cln_df[debit_col].replace(r"[\$,]", "", regex=True).astype(float)
+        )
+        data_cln_df["return_price"] = data_cln_df["return_price"].astype(float)
+
+        data_cln_df["timestamp_aest"] = pd.to_datetime(
+            data_cln_df["Date (AEST)"] + ", " + data_cln_df["Time (AEST)"],
+            format="%a %d %b %Y, %H:%M:%S",
+        ).dt.tz_localize("Australia/Sydney", ambiguous=False, nonexistent="shift_forward")
+
+        group_cols = ["match_code", "odds_on", "Date (AEST)"]
+        sum_col = "return_price"
+        max_col = "Date (AEST)"
+
+        agg_dict = {
+            "return_price": "sum",
+            debit_col: "sum",
+            timestamp_aest_col: "min",
+        }
+
+        for col in data_cln_df.columns:
+            if col not in group_cols + [sum_col, max_col]:
+                agg_dict[col] = "first"
+
+        df_agg = data_cln_df.groupby(group_cols, as_index=False).agg(agg_dict)
+
+        # Create hash id column
+        hash_cols = [self.match_code_col, self.odds_on_col, timestamp_aest_col]
+        df_agg[self.hash_id_col] = pd.util.hash_pandas_object(
+            df_agg[hash_cols].astype(str), index=False
+        ).astype(str)
+        keep_cols = [
+            self.description_col,
+            self.odds_on_col,
+            self.return_price_col,
+            self.match_code_col,
+            # "Date (AEST)",
+            # "Time (AEST)",
+            "timestamp_aest",
+            # "Type",
+            # "Description",
+            # "Detail",
+            "Odds",
+            "Result",
+            debit_col,
+            self.hash_id_col,
+        ]
+        df_agg = df_agg[keep_cols]
+        result_df = pd.concat([result_df, df_agg], ignore_index=True)
+        return result_df
+    
     def read_and_cln_data(self) -> pd.DataFrame:
         debit_col = "Debit"
         timestamp_aest_col = self.timestamp_aest_col
@@ -157,7 +302,7 @@ class ResultsAnalysis(SchemaName):
             file_name = _file.split("/")[-1]
             data_df = pd.read_csv(_file, skiprows=3, on_bad_lines="skip")
             data_df_copy = data_df.copy()
-            # find = data_df_copy[data_df_copy["Description"].str.contains("5338939")]
+            # find = data_df_copy[data_df_copy["Description"].str.contains("919901")]
             # if len(find) > 0:
             #     print(f"Found match code in description: {find['Description'].iloc[0]}")
             #     print(find)
@@ -327,7 +472,7 @@ class ResultsAnalysis(SchemaName):
             mask = (
                 hist_odds_cln_df["home_full_name"].str.contains("/", na=False)
                 | hist_odds_cln_df["away_full_name"].str.contains("/", na=False)
-            ) & hist_odds_cln_df["sport_name"].isin(["Tennis", "Badminton"])
+            ) & hist_odds_cln_df["sport_name"].isin(self.doubles_sports)
 
             hist_odds_cln_df.loc[mask, self.sport_genre_col] = (
                 hist_odds_cln_df.loc[mask, self.sport_genre_col] + " Doubles"
@@ -910,12 +1055,15 @@ class ResultsAnalysis(SchemaName):
 if __name__ == "__main__":
     print("Hi.")
     ra = ResultsAnalysis()
+    # ra.collect_all_transaction_data()
     data_df = ra.read_and_cln_data()
     hist_df = ra.read_hist_data()
     ra.update_prob_data_rows(data_df)
     prob_df = ra.read_prob_data()
 
     results = ra.combine_metadata(data_df, hist_df, prob_df)
+
+    
     results_2 = ra.add_home_results(data_input=results)
     # results_2 = results[
     #     [

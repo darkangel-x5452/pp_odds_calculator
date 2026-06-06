@@ -1,6 +1,7 @@
 import json
 import os
 from zoneinfo import ZoneInfo
+from collections import defaultdict
 
 from datetime import datetime
 
@@ -31,30 +32,82 @@ class GetMatchesOdds:
             "badminton",
         ]
 
-        self.ignore_sports = [
+        # self.ignore_sports = [
             # "cricket",  # Too long and can be cancelled for weather
             # "golf",  # Too long and can be cancelled for weather
             # "snooker",  # Too long
             # "baseball",  # Too long and can be cancelled for weather
             # "darts",  # Too long
-        ]
-        self.ignore_competitions = [
+        # ]
+        # self.ignore_competitions = [
+        #     # terrible percentage results, not worth attempting
+        #     "NHL",
+        #     "Challenger",
+        #     "ITF Womens",
+        #     "ITF Mens",
+        #     "WTA 125 Tour",
+        #     "Mexico CIBACOPA",
+        #     "Argentina Liga A",
+        #     "Korea Baseball Championship",
+        #     "Navi Mumbai Premier League T20",
+        #     "Finland Korisliiga Women",
+        #     "European Tour",
+        #     # These ones so low, best against ai  wins well.
+        #     "Triple A Minor League",  # for low and high odds
+        #     "Turkey TBL",  # for low and high odds
+        #     "China CBA",  # for high odds
+        #     "South Korea KBL",  # for high odds
+        #     "Counter Strike 2",  # for low odds
+        # ]
+        # self.ignore_sport_competitions_raw = {
+        #     # terrible percentage results, not worth attempting
+        #     "Ice Hockey": "NHL",
+        #     "Basketball": "Argentina Liga A",
+        #     "Tennis": "Challenger",
+        #     "Darts": "European Tour",
+        #     "Basketball": "Finland Korisliiga Women",
+        #     "Tennis": "ITF Mens",
+        #     "Tennis": "ITF Womens",
+        #     "Baseball": "Korea Baseball Championship",
+        #     "Baseball": "Mexico CIBACOPA",
+        #     "Cricket": "Navi Mumbai Premier League T20",
+        #     "Tennis": "WTA 125 Tour",
+        #     # These ones so low, best against ai  wins well.
+        #     "Baseball": "Triple A Minor League",  # for low and high odds
+        #     "Basketball": "Turkey TBL",  # for low and high odds
+        #     "Basketball": "China CBA",  # for high odds
+        #     "Basketball": "South Korea KBL",  # for high odds
+        #     "Esport": "Counter Strike 2",  # for low odds
+        # }
+
+        raw_pairs = [
             # terrible percentage results, not worth attempting
-            "NHL",
-            "Challenger",
-            "ITF Womens",
-            "ITF Mens",
-            "China CBA",
-            "WTA 125 Tour",
-            "Mexico CIBACOPA",
-            "Argentina Liga A",
-            # These ones so low, best against ai  wins well.
-            "Triple A Minor League",  # for low and high odds
-            "Turkey TBL",  # for low and high odds
-            "China CBA",  # for high odds
-            "South Korea KBL",  # for high odds
-            "Counter Strike 2",  # for low odds
+            ("Ice Hockey", "NHL"),
+            ("Basketball", "Argentina Liga A"),
+            ("Tennis", "Challenger"),
+            ("Darts", "European Tour"),
+            ("Basketball", "Finland Korisliiga Women"),
+            ("Tennis", "ITF Mens"),
+            ("Tennis", "ITF Womens"),
+            ("Baseball", "Korea Baseball Championship"),
+            ("Baseball", "Mexico CIBACOPA"),
+            ("Cricket", "Navi Mumbai Premier League T20"),
+            ("Tennis", "WTA 125 Tour"),
+
+            # These ones so low, best against ai wins well.
+            ("Baseball", "Triple A Minor League"),  # for low and high odds
+            ("Basketball", "Turkey TBL"),          # for low and high odds
+            ("Basketball", "China CBA"),           # for high odds
+            ("Basketball", "South Korea KBL"),     # for high odds
+            ("Esport", "Counter Strike 2"),        # for low odds
         ]
+
+        ignore_sport_competitions_raw = defaultdict(list)
+
+        for sport, competition in raw_pairs:
+            ignore_sport_competitions_raw[sport].append(competition)
+
+        self.ignore_sport_competitions_cln = dict(ignore_sport_competitions_raw)
 
         self.high_odds = 3.5
         self.min_odds = 1.5
@@ -250,6 +303,8 @@ class GetMatchesOdds:
         tournament_name: str,
     ) -> str:
 
+        if sport_name.lower() in self.doubles_only_sports and "Doubles" not in sport_name:
+            sport_name = f"{sport_name} Doubles"
         comp_stat_data = stats_data[
             stats_data[SchemaName.ColNames.competition_name_col].isin(
                 [comp_name, tournament_name]
@@ -280,7 +335,7 @@ class GetMatchesOdds:
             result = None
         else:
             row = comp_stat_data.iloc[0]
-            result = ", ".join(f"{rename_cols.get(col, col)}={row[col]}" for col in cols) if row is not None else ""
+            result = ",".join(f"{rename_cols.get(col, col)}={row[col]}" for col in cols) if row is not None else ""
         return result
 
     def _handle_matches(self, matches: list[dict]) -> dict[str, list[dict]]:
@@ -303,12 +358,21 @@ class GetMatchesOdds:
                 _match["tournamentName"] if "tournamentName" in _match else None
             )
             sportName: str = _match["sportName"]
-            if sportName.lower() in self.ignore_sports:
-                print(f"Ignoring {sportName} match: {match_name}")
-                continue
-            if competitionName in self.ignore_competitions:
-                print(f"Ignoring {sportName} match: {match_name}")
-                continue
+            # if sportName.lower() in self.ignore_sports:
+            #     print(f"Ignoring {sportName} match: {match_name}")
+            #     continue
+
+            # self.ignore_sport_competitions
+            if sportName in self.ignore_sport_competitions_cln.keys():
+                if (
+                    competitionName in self.ignore_sport_competitions_cln[sportName]
+                    or tournamentName in self.ignore_sport_competitions_cln[sportName]
+                ):
+                    print(f"Ignoring sport '{sportName}', competition '{competitionName}', tournament '{tournamentName}', match '{match_name}'")
+                    continue
+            # if competitionName in self.ignore_competitions:
+            #     print(f"Ignoring {sportName} match: {match_name}")
+            #     continue
             for _contestant in contestants:
                 _contestant.pop("image", None)  # None if key not found
                 _contestant.pop("isHome", None)  # None if key not found
