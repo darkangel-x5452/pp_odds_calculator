@@ -1,50 +1,5 @@
 [
     {
-        "contestant_names_prop": "Minnesota, (1.9) VERSES Kansas City, (1.95)",
-        "contestant_names": "Minnesota VERSES Kansas City",
-        "start_time_aest": "2026-06-06T11:35:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "Minnesota",
-        "AWAY_contestant": "Kansas City",
-        "HOME_contestant_short": "Minnesota",
-        "AWAY_contestant_short": "Kansas City",
-        "comp_stats": "home_perc=45.71,low_perc_won=58.11,low_total=74.0,high_perc_won=45.16,high_total=31.0",
-        "match_name": "Minnesota v Kansas City",
-        "match_shortName": "MLB Minn-KnsC Hd to Hd",
-        "start_time": "2026-06-06T01:35:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Arizona, (1.75) VERSES Washington, (2.15)",
-        "contestant_names": "Arizona VERSES Washington",
-        "start_time_aest": "2026-06-06T11:40:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "Arizona",
-        "AWAY_contestant": "Washington",
-        "HOME_contestant_short": "Arizona",
-        "AWAY_contestant_short": "Washington",
-        "comp_stats": "home_perc=45.71,low_perc_won=58.11,low_total=74.0,high_perc_won=45.16,high_total=31.0",
-        "match_name": "Arizona v Washington",
-        "match_shortName": "MLB Ariz-Wash Hd to Hd",
-        "start_time": "2026-06-06T01:40:00.000Z"
-    },
-    {
-        "contestant_names_prop": "San Diego, (1.75) VERSES NY Mets, (2.15)",
-        "contestant_names": "San Diego VERSES NY Mets",
-        "start_time_aest": "2026-06-06T11:40:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "San Diego",
-        "AWAY_contestant": "NY Mets",
-        "HOME_contestant_short": "San Diego",
-        "AWAY_contestant_short": "NY Mets",
-        "comp_stats": "home_perc=45.71,low_perc_won=58.11,low_total=74.0,high_perc_won=45.16,high_total=31.0",
-        "match_name": "San Diego v NY Mets",
-        "match_shortName": "MLB SnDg-NYMt Hd to Hd",
-        "start_time": "2026-06-06T01:40:00.000Z"
-    },
-    {
         "contestant_names_prop": "Los Angeles, (2.1) VERSES Dallas, (1.7)",
         "contestant_names": "Los Angeles VERSES Dallas",
         "start_time_aest": "2026-06-06T12:00:00+10:00",
@@ -60,7 +15,7 @@
         "start_time": "2026-06-06T02:00:00.000Z"
     },
     {
-        "contestant_names_prop": "Portland, (1.58) VERSES Phoenix, (2.35)",
+        "contestant_names_prop": "Portland, (1.55) VERSES Phoenix, (2.4)",
         "contestant_names": "Portland VERSES Phoenix",
         "start_time_aest": "2026-06-06T12:00:00+10:00",
         "sport_name": "Basketball",
@@ -73,6 +28,36 @@
         "match_name": "Portland v Phoenix",
         "match_shortName": "WNB Por-Phx Hd to Hd",
         "start_time": "2026-06-06T02:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Frankston, (2.15) VERSES Southport, (1.65)",
+        "contestant_names": "Frankston VERSES Southport",
+        "start_time_aest": "2026-06-06T12:05:00+10:00",
+        "sport_name": "AFL Football",
+        "competition_name": "Victorian Football League",
+        "HOME_contestant": "Frankston",
+        "AWAY_contestant": "Southport",
+        "HOME_contestant_short": "Frankston",
+        "AWAY_contestant_short": "Southport",
+        "comp_stats": "home_perc=20.0,low_perc_won=0.0,low_total=5.0,high_perc_won=80.0,high_total=5.0",
+        "match_name": "Frankston v Southport",
+        "match_shortName": "VFL R11 Frnkst-Sthprt Hd2Hd",
+        "start_time": "2026-06-06T02:05:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Collingwood, (2.5) VERSES Casey, (1.5)",
+        "contestant_names": "Collingwood VERSES Casey",
+        "start_time_aest": "2026-06-06T12:05:00+10:00",
+        "sport_name": "AFL Football",
+        "competition_name": "Victorian Football League",
+        "HOME_contestant": "Collingwood",
+        "AWAY_contestant": "Casey",
+        "HOME_contestant_short": "Collingwood",
+        "AWAY_contestant_short": "Casey",
+        "comp_stats": "home_perc=20.0,low_perc_won=0.0,low_total=5.0,high_perc_won=80.0,high_total=5.0",
+        "match_name": "Collingwood v Casey",
+        "match_shortName": "VFL R11 Coll-Casey Hd2Hd",
+        "start_time": "2026-06-06T02:05:00.000Z"
     },
     {
         "contestant_names_prop": "LA Dodgers, (1.52) VERSES LA Angels, (2.6)",
