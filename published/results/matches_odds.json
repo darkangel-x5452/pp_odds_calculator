@@ -1,20 +1,5 @@
 [
     {
-        "contestant_names_prop": "Toronto, (1.55) VERSES Chicago, (2.4)",
-        "contestant_names": "Toronto VERSES Chicago",
-        "start_time_aest": "2026-06-08T05:00:00+10:00",
-        "sport_name": "Basketball",
-        "competition_name": "WNBA",
-        "HOME_contestant": "Toronto",
-        "AWAY_contestant": "Chicago",
-        "HOME_contestant_short": "Toronto",
-        "AWAY_contestant_short": "Chicago",
-        "comp_stats": "home_perc=54.55,low_perc_won=62.5,low_total=8.0,high_perc_won=66.67,high_total=3.0",
-        "match_name": "Toronto v Chicago",
-        "match_shortName": "WNB Tor-Chi Hd to Hd",
-        "start_time": "2026-06-07T19:00:00.000Z"
-    },
-    {
         "contestant_names_prop": "Latvia, (1.57) VERSES Germany, (2.2)",
         "contestant_names": "Latvia VERSES Germany",
         "start_time_aest": "2026-06-08T05:05:00+10:00",
@@ -45,7 +30,7 @@
         "start_time": "2026-06-07T19:10:00.000Z"
     },
     {
-        "contestant_names_prop": "Arizona, (1.75) VERSES Washington, (2.15)",
+        "contestant_names_prop": "Arizona, (1.75) VERSES Washington, (2.1)",
         "contestant_names": "Arizona VERSES Washington",
         "start_time_aest": "2026-06-08T05:15:00+10:00",
         "sport_name": "Baseball",
@@ -73,5 +58,51 @@
         "match_name": "Mexico v Tabasco (Game 2)",
         "match_shortName": "Mex Mexc-Tabs Hd to Hd G2",
         "start_time": "2026-06-07T20:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Cloud9, (1.68) VERSES Lyon, (2.05)",
+        "contestant_names": "Cloud9 VERSES Lyon",
+        "start_time_aest": "2026-06-08T06:00:00+10:00",
+        "sport_name": "Esports",
+        "competition_name": "League of Legends",
+        "tournamentName": "LoL - LCS",
+        "HOME_contestant": "Cloud9",
+        "AWAY_contestant": "Lyon",
+        "HOME_contestant_short": "Cloud9",
+        "AWAY_contestant_short": "Lyon",
+        "comp_stats": "home_perc=0.0,low_perc_won=0.0,low_total=1.0,high_perc_won=0.0,high_total=1.0",
+        "match_name": "Cloud9 v Lyon",
+        "match_shortName": "LoL LCS Clou-Lyon Hd to Hd",
+        "start_time": "2026-06-07T20:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "San Diego, (1.92) VERSES NY Mets, (1.92)",
+        "contestant_names": "San Diego VERSES NY Mets",
+        "start_time_aest": "2026-06-08T06:10:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "San Diego",
+        "AWAY_contestant": "NY Mets",
+        "HOME_contestant_short": "San Diego",
+        "AWAY_contestant_short": "NY Mets",
+        "comp_stats": "home_perc=45.71,low_perc_won=58.11,low_total=74.0,high_perc_won=45.16,high_total=31.0",
+        "match_name": "San Diego v NY Mets",
+        "match_shortName": "MLB SnDg-NYMt Hd to Hd",
+        "start_time": "2026-06-07T20:10:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Titanes Licey, (1.9) VERSES Indios San Fran, (1.8)",
+        "contestant_names": "Titanes Licey VERSES Indios San Fran",
+        "start_time_aest": "2026-06-08T07:30:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "Dominican Republic LNB",
+        "HOME_contestant": "Titanes Licey",
+        "AWAY_contestant": "Indios San Fran",
+        "HOME_contestant_short": "Titanes Licey",
+        "AWAY_contestant_short": "Indios San Fran",
+        "comp_stats": "home_perc=53.33,low_perc_won=44.44,low_total=9.0,high_perc_won=50.0,high_total=6.0",
+        "match_name": "Titanes Licey v Indios San Fran",
+        "match_shortName": "Dom Tita-IndS Hd to Hd",
+        "start_time": "2026-06-07T21:30:00.000Z"
     }
 ]
