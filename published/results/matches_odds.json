@@ -1,20 +1,5 @@
 [
     {
-        "contestant_names_prop": "Germany, (1.5) VERSES France, (2.35)",
-        "contestant_names": "Germany VERSES France",
-        "start_time_aest": "2026-06-08T02:40:00+10:00",
-        "sport_name": "Basketball",
-        "competition_name": "3x3 Mens World Cup",
-        "HOME_contestant": "Germany",
-        "AWAY_contestant": "France",
-        "HOME_contestant_short": "Germany",
-        "AWAY_contestant_short": "France",
-        "comp_stats": "home_perc=25.0,low_perc_won=33.33,low_total=3.0,high_perc_won=0.0,high_total=1.0",
-        "match_name": "Germany v France",
-        "match_shortName": "F3M Gmny-Fra Hd to Hd",
-        "start_time": "2026-06-07T16:40:00.000Z"
-    },
-    {
         "contestant_names_prop": "Pardubice, (2.35) VERSES CEZ Nymburk, (1.5)",
         "contestant_names": "Pardubice VERSES CEZ Nymburk",
         "start_time_aest": "2026-06-08T03:00:00+10:00",
@@ -30,7 +15,7 @@
         "start_time": "2026-06-07T17:00:00.000Z"
     },
     {
-        "contestant_names_prop": "Anadolu Efes, (2) VERSES Fenerbahce, (1.7)",
+        "contestant_names_prop": "Anadolu Efes, (1.88) VERSES Fenerbahce, (1.78)",
         "contestant_names": "Anadolu Efes VERSES Fenerbahce",
         "start_time_aest": "2026-06-08T03:00:00+10:00",
         "sport_name": "Basketball",
@@ -45,7 +30,22 @@
         "start_time": "2026-06-07T17:00:00.000Z"
     },
     {
-        "contestant_names_prop": "Atlanta, (1.65) VERSES Pittsburgh, (2.3)",
+        "contestant_names_prop": "Netherlands, (1.52) VERSES Azerbaijan, (2.3)",
+        "contestant_names": "Netherlands VERSES Azerbaijan",
+        "start_time_aest": "2026-06-08T03:35:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "3x3 Womens World Cup",
+        "HOME_contestant": "Netherlands",
+        "AWAY_contestant": "Azerbaijan",
+        "HOME_contestant_short": "Netherlands",
+        "AWAY_contestant_short": "Azerbaijan",
+        "comp_stats": "home_perc=37.5,low_perc_won=50.0,low_total=6.0,high_perc_won=100.0,high_total=2.0",
+        "match_name": "Netherlands v Azerbaijan",
+        "match_shortName": "F3W Neth-Azbj Hd to Hd",
+        "start_time": "2026-06-07T17:35:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Atlanta, (1.68) VERSES Pittsburgh, (2.25)",
         "contestant_names": "Atlanta VERSES Pittsburgh",
         "start_time_aest": "2026-06-08T03:35:00+10:00",
         "sport_name": "Baseball",
@@ -90,18 +90,48 @@
         "start_time": "2026-06-07T17:35:00.000Z"
     },
     {
-        "contestant_names_prop": "Netherlands, (1.52) VERSES Azerbaijan, (2.3)",
-        "contestant_names": "Netherlands VERSES Azerbaijan",
-        "start_time_aest": "2026-06-08T03:35:00+10:00",
-        "sport_name": "Basketball",
-        "competition_name": "3x3 Womens World Cup",
-        "HOME_contestant": "Netherlands",
-        "AWAY_contestant": "Azerbaijan",
-        "HOME_contestant_short": "Netherlands",
-        "AWAY_contestant_short": "Azerbaijan",
-        "comp_stats": "home_perc=37.5,low_perc_won=50.0,low_total=6.0,high_perc_won=100.0,high_total=2.0",
-        "match_name": "Netherlands v Azerbaijan",
-        "match_shortName": "F3W Neth-Azbj Hd to Hd",
-        "start_time": "2026-06-07T17:35:00.000Z"
+        "contestant_names_prop": "Toronto, (1.75) VERSES Baltimore, (2.15)",
+        "contestant_names": "Toronto VERSES Baltimore",
+        "start_time_aest": "2026-06-08T03:37:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Toronto",
+        "AWAY_contestant": "Baltimore",
+        "HOME_contestant_short": "Toronto",
+        "AWAY_contestant_short": "Baltimore",
+        "comp_stats": "home_perc=45.71,low_perc_won=58.11,low_total=74.0,high_perc_won=45.16,high_total=31.0",
+        "match_name": "Toronto v Baltimore",
+        "match_shortName": "MLB Torn-Balt Hd to Hd",
+        "start_time": "2026-06-07T17:37:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Detroit, (1.87) VERSES Seattle, (2)",
+        "contestant_names": "Detroit VERSES Seattle",
+        "start_time_aest": "2026-06-08T03:40:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Detroit",
+        "AWAY_contestant": "Seattle",
+        "HOME_contestant_short": "Detroit",
+        "AWAY_contestant_short": "Seattle",
+        "comp_stats": "home_perc=45.71,low_perc_won=58.11,low_total=74.0,high_perc_won=45.16,high_total=31.0",
+        "match_name": "Detroit v Seattle",
+        "match_shortName": "MLB Dtrt-Seat Hd to Hd",
+        "start_time": "2026-06-07T17:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Miami, (1.95) VERSES Tampa Bay, (1.9)",
+        "contestant_names": "Miami VERSES Tampa Bay",
+        "start_time_aest": "2026-06-08T03:40:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Miami",
+        "AWAY_contestant": "Tampa Bay",
+        "HOME_contestant_short": "Miami",
+        "AWAY_contestant_short": "Tampa Bay",
+        "comp_stats": "home_perc=45.71,low_perc_won=58.11,low_total=74.0,high_perc_won=45.16,high_total=31.0",
+        "match_name": "Miami v Tampa Bay",
+        "match_shortName": "MLB Miam-TmpB Hd to Hd",
+        "start_time": "2026-06-07T17:40:00.000Z"
     }
 ]
