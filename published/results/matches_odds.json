@@ -1,20 +1,5 @@
 [
     {
-        "contestant_names_prop": "Texas, (1.7) VERSES Cleveland, (2.2)",
-        "contestant_names": "Texas VERSES Cleveland",
-        "start_time_aest": "2026-06-08T04:35:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "Texas",
-        "AWAY_contestant": "Cleveland",
-        "HOME_contestant_short": "Texas",
-        "AWAY_contestant_short": "Cleveland",
-        "comp_stats": "home_perc=45.71,low_perc_won=58.11,low_total=74.0,high_perc_won=45.16,high_total=31.0",
-        "match_name": "Texas v Cleveland",
-        "match_shortName": "MLB Texs-Clev Hd to Hd",
-        "start_time": "2026-06-07T18:35:00.000Z"
-    },
-    {
         "contestant_names_prop": "Toronto, (1.55) VERSES Chicago, (2.4)",
         "contestant_names": "Toronto VERSES Chicago",
         "start_time_aest": "2026-06-08T05:00:00+10:00",
@@ -45,7 +30,7 @@
         "start_time": "2026-06-07T19:05:00.000Z"
     },
     {
-        "contestant_names_prop": "Colorado, (2.5) VERSES Milwaukee, (1.58)",
+        "contestant_names_prop": "Colorado, (2.5) VERSES Milwaukee, (1.55)",
         "contestant_names": "Colorado VERSES Milwaukee",
         "start_time_aest": "2026-06-08T05:10:00+10:00",
         "sport_name": "Baseball",
@@ -73,5 +58,20 @@
         "match_name": "Arizona v Washington",
         "match_shortName": "MLB Ariz-Wash Hd to Hd",
         "start_time": "2026-06-07T19:15:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Mexico (Game 2), (1.52) VERSES Tabasco (Game 2), (2.35)",
+        "contestant_names": "Mexico (Game 2) VERSES Tabasco (Game 2)",
+        "start_time_aest": "2026-06-08T06:00:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Mexico (Game 2)",
+        "AWAY_contestant": "Tabasco (Game 2)",
+        "HOME_contestant_short": "Mexico",
+        "AWAY_contestant_short": "Tabasco (Game 2)",
+        "comp_stats": "home_perc=42.0,low_perc_won=47.73,low_total=44.0,high_perc_won=83.33,high_total=6.0",
+        "match_name": "Mexico v Tabasco (Game 2)",
+        "match_shortName": "Mex Mexc-Tabs Hd to Hd G2",
+        "start_time": "2026-06-07T20:00:00.000Z"
     }
 ]
