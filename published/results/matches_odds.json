@@ -2,7 +2,7 @@
     {
         "contestant_names_prop": "Kyrgios/Bublik, (1.87) VERSES Paul/Seggerman, (1.87)",
         "contestant_names": "Kyrgios/Bublik VERSES Paul/Seggerman",
-        "start_time_aest": "2026-06-09T04:05:00+10:00",
+        "start_time_aest": "2026-06-09T04:45:00+10:00",
         "sport_name": "Tennis",
         "competition_name": "ATP Doubles",
         "tournamentName": "ATP Stuttgart Doubles",
@@ -13,10 +13,11 @@
         "comp_stats": "home_perc=57.14,low_perc_won=64.29,low_total=28.0,high_perc_won=28.57,high_total=7.0",
         "match_name": "Kyrgios/Bublik v Paul/Seggerman",
         "match_shortName": "ATP Stu Bubk-Srmn Hd to Hd",
-        "start_time": "2026-06-08T18:05:00.000Z"
+        "start_time": "2026-06-08T18:45:00.000Z",
+        "start_time_aest_old": "2026-06-09T04:05:00+10:00"
     },
     {
-        "contestant_names_prop": "Nanterre, (2.3) VERSES Monaco, (1.52)",
+        "contestant_names_prop": "Nanterre, (2.25) VERSES Monaco, (1.55)",
         "contestant_names": "Nanterre VERSES Monaco",
         "start_time_aest": "2026-06-09T05:00:00+10:00",
         "sport_name": "Basketball",
@@ -89,5 +90,20 @@
         "match_name": "Tampa Bay v Boston",
         "match_shortName": "MLB TmpB-Bstn Hd to Hd",
         "start_time": "2026-06-08T22:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Toronto, (2.5) VERSES Philadelphia, (1.58)",
+        "contestant_names": "Toronto VERSES Philadelphia",
+        "start_time_aest": "2026-06-09T09:07:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Toronto",
+        "AWAY_contestant": "Philadelphia",
+        "HOME_contestant_short": "Toronto",
+        "AWAY_contestant_short": "Philadelphia",
+        "comp_stats": "home_perc=45.71,low_perc_won=58.11,low_total=74.0,high_perc_won=45.16,high_total=31.0",
+        "match_name": "Toronto v Philadelphia",
+        "match_shortName": "MLB Torn-Phly Hd to Hd",
+        "start_time": "2026-06-08T23:07:00.000Z"
     }
 ]
