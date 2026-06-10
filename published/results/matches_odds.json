@@ -1,20 +1,5 @@
 [
     {
-        "contestant_names_prop": "Detroit, (1.75) VERSES Minnesota, (2.1)",
-        "contestant_names": "Detroit VERSES Minnesota",
-        "start_time_aest": "2026-06-10T10:30:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "Detroit",
-        "AWAY_contestant": "Minnesota",
-        "HOME_contestant_short": "Detroit",
-        "AWAY_contestant_short": "Minnesota",
-        "comp_stats": "home_perc=45.71,low_perc_won=58.11,low_total=74.0,high_perc_won=45.16,high_total=31.0",
-        "match_name": "Detroit v Minnesota",
-        "match_shortName": "MLB Dtrt-Minn Hd to Hd",
-        "start_time": "2026-06-10T00:30:00.000Z"
-    },
-    {
         "contestant_names_prop": "Colorado, (2.3) VERSES Chicago Cubs, (1.65)",
         "contestant_names": "Colorado VERSES Chicago Cubs",
         "start_time_aest": "2026-06-10T10:40:00+10:00",
@@ -45,7 +30,7 @@
         "start_time": "2026-06-10T01:00:00.000Z"
     },
     {
-        "contestant_names_prop": "Puebla, (1.5) VERSES Saltillo, (2.4)",
+        "contestant_names_prop": "Puebla, (1.52) VERSES Saltillo, (2.35)",
         "contestant_names": "Puebla VERSES Saltillo",
         "start_time_aest": "2026-06-10T11:00:00+10:00",
         "sport_name": "Baseball",
@@ -120,7 +105,7 @@
         "start_time": "2026-06-10T01:30:00.000Z"
     },
     {
-        "contestant_names_prop": "Tabasco, (1.68) VERSES Caliente De Dura, (2.05)",
+        "contestant_names_prop": "Tabasco, (1.65) VERSES Caliente De Dura, (2.1)",
         "contestant_names": "Tabasco VERSES Caliente De Dura",
         "start_time_aest": "2026-06-10T11:30:00+10:00",
         "sport_name": "Baseball",
@@ -133,5 +118,35 @@
         "match_name": "Tabasco v Caliente De Dura",
         "match_shortName": "Mex Tabs-Cali Hd to Hd",
         "start_time": "2026-06-10T01:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Yucatan, (2.2) VERSES Aguascalientes, (1.6)",
+        "contestant_names": "Yucatan VERSES Aguascalientes",
+        "start_time_aest": "2026-06-10T11:30:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Yucatan",
+        "AWAY_contestant": "Aguascalientes",
+        "HOME_contestant_short": "Yucatan",
+        "AWAY_contestant_short": "Aguascalientes",
+        "comp_stats": "home_perc=42.0,low_perc_won=47.73,low_total=44.0,high_perc_won=83.33,high_total=6.0",
+        "match_name": "Yucatan v Aguascalientes",
+        "match_shortName": "Mex Yuct-Agu Hd to Hd",
+        "start_time": "2026-06-10T01:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "LA Angels, (2.05) VERSES Houston, (1.8)",
+        "contestant_names": "LA Angels VERSES Houston",
+        "start_time_aest": "2026-06-10T11:38:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "LA Angels",
+        "AWAY_contestant": "Houston",
+        "HOME_contestant_short": "LA Angels",
+        "AWAY_contestant_short": "Houston",
+        "comp_stats": "home_perc=45.71,low_perc_won=58.11,low_total=74.0,high_perc_won=45.16,high_total=31.0",
+        "match_name": "LA Angels v Houston",
+        "match_shortName": "MLB LAAn-Hstn Hd to Hd",
+        "start_time": "2026-06-10T01:38:00.000Z"
     }
 ]
