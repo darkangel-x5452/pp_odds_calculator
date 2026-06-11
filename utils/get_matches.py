@@ -99,7 +99,7 @@ class GetMatchesOdds:
             ("Basketball", "Turkey TBL"),          # for low and high odds
             ("Basketball", "China CBA"),           # for high odds
             ("Basketball", "South Korea KBL"),     # for high odds
-            ("Esport", "Counter Strike 2"),        # for low odds
+            ("Esports", "Counter Strike 2"),        # for low odds
         ]
 
         ignore_sport_competitions_raw = defaultdict(list)
@@ -314,18 +314,21 @@ class GetMatchesOdds:
             )
         ]
         cols = [
-            SchemaName.ColNames.home_percentage_col,
+            # SchemaName.ColNames.home_percentage_col,
+            SchemaName.ColNames.low_home_percentage_col,
             SchemaName.ColNames.won_odds_low_percentage_col,
             SchemaName.ColNames.total_odds_low_col,
+            SchemaName.ColNames.high_home_percentage_col,
             SchemaName.ColNames.won_odds_high_percentage_col,
             SchemaName.ColNames.total_odds_high_col,
         ]
         rename_cols = {
-            SchemaName.ColNames.home_percentage_col: "home_perc",
-            SchemaName.ColNames.won_odds_low_percentage_col: "low_perc_won",
-            SchemaName.ColNames.total_odds_low_col: "low_total",
-            SchemaName.ColNames.won_odds_high_percentage_col: "high_perc_won",
-            SchemaName.ColNames.total_odds_high_col: "high_total",
+            SchemaName.ColNames.low_home_percentage_col: "lohopt",
+            SchemaName.ColNames.won_odds_low_percentage_col: "loptwn",
+            SchemaName.ColNames.total_odds_low_col: "loto",
+            SchemaName.ColNames.high_home_percentage_col: "hihopt",
+            SchemaName.ColNames.won_odds_high_percentage_col: "hiptwn",
+            SchemaName.ColNames.total_odds_high_col: "hito",
         }
         if len(comp_stat_data) > 1:
             raise ValueError(

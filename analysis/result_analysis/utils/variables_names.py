@@ -13,3 +13,7 @@ class SchemaName:
         tournament_name_col: str = "tournament_name"
         percentage_col: str = "percentage"
         home_percentage_col: str = "home_percentage"
+        low_home_percentage_col: str = "low_home_percentage"
+        high_home_percentage_col: str = "high_home_percentage"
+        low_group_total_col: str = "low_group_total"
+        high_group_total_col: str = "high_group_total"

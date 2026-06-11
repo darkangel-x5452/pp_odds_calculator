@@ -102,6 +102,8 @@ class ResultsAnalysis(SchemaName):
         data_transact = [f"{data_dir}/{_file}" for _file in data_files if _file.startswith("Transaction Details ")]
 
         self.src_data_ls = data_statements + data_transact
+
+        self.odds_divider = 1.85
         
         self.hist_files_ls = [
             "data/results/matches_odds_50_historical.json",
@@ -782,7 +784,7 @@ class ResultsAnalysis(SchemaName):
 
     def create_metadata_results(self, data_input: pd.DataFrame):
 
-        # Save results to CSV
+        # Sport results
         sport_total_win_rate = self._calculate_win_ratio(
             data_input=data_input, group_by=[self.sport_genre_col]
         )
@@ -790,7 +792,6 @@ class ResultsAnalysis(SchemaName):
             data_input=data_input, group_by=[self.sport_genre_col]
         )
 
-        # Merge Data
         sport_home_win_rate = sport_home_win_rate.rename(
             {"percentage": "home_percentage", "group_total": "home_group_total"}, axis=1
         )
@@ -809,25 +810,51 @@ class ResultsAnalysis(SchemaName):
         comp_home_win_rate = self._calculate_home_diff(
             data_input=data_input, group_by=comp_group_by
         )
-
-        # Merge Data
         comp_home_win_rate = comp_home_win_rate.rename(
-            {"percentage": "home_percentage", "group_total": "home_group_total"}, axis=1
+            {"percentage": self.ColNames().home_percentage_col, "group_total": "home_group_total"}, axis=1
         )
         combined_rate = comp_total_win_rate.merge(
             comp_home_win_rate, on=comp_group_by, how="outer"
         )
+
+        # Home win rate by odds divider
+        low_odds_data = data_input[data_input["Odds"] <= self.odds_divider]
+        comp_home_win_rate_odds_low = self._calculate_home_diff(
+            data_input=low_odds_data.fillna(0), group_by=comp_group_by
+        )
+        comp_home_win_rate_odds_low = comp_home_win_rate_odds_low.rename(
+            {"percentage": self.ColNames().low_home_percentage_col, "group_total": self.ColNames().low_group_total_col}, axis=1
+        )
+        comp_home_win_rate_odds_low = comp_home_win_rate_odds_low.fillna(0)
+        combined_rate = combined_rate.merge(
+            comp_home_win_rate_odds_low, on=comp_group_by, how="outer"
+        )
+        
+        high_odds_data = data_input[data_input["Odds"] > self.odds_divider]
+        comp_home_win_rate_odds_high = self._calculate_home_diff(
+            data_input=high_odds_data, group_by=comp_group_by
+        )
+        comp_home_win_rate_odds_high = comp_home_win_rate_odds_high.rename(
+            {"percentage": self.ColNames().high_home_percentage_col, "group_total": self.ColNames().high_group_total_col}, axis=1
+        )
+        comp_home_win_rate_odds_high = comp_home_win_rate_odds_high.fillna(0)
+        combined_rate = combined_rate.merge(
+            comp_home_win_rate_odds_high, on=comp_group_by, how="outer"
+        )
+
         combined_rate = combined_rate[
             [
                 "sport_genre",
                 "competition_name",
                 "percentage",
-                "group_total",
-                "home_percentage",
+                self.ColNames.low_home_percentage_col,
                 self.ColNames.won_odds_low_percentage_col,
                 self.ColNames.total_odds_low_col,
+                self.ColNames.high_home_percentage_col,
                 self.ColNames.won_odds_high_percentage_col,
                 self.ColNames.total_odds_high_col,
+                self.ColNames.home_percentage_col,
+                "group_total",
                 self.ColNames.won_odds_low_mean_col,
                 self.ColNames.won_odds_high_mean_col,
                 "won_probability",
@@ -907,7 +934,7 @@ class ResultsAnalysis(SchemaName):
         win_rate_low_odds_mean = (
             data_input.loc[
                 (data_input[self.result_col] == "Credit")
-                & (data_input[calc_col] <= 1.85),
+                & (data_input[calc_col] <= self.odds_divider),
                 group_cols + [calc_col],
             ]
             .groupby(group_cols, dropna=False)[calc_col]
@@ -920,7 +947,7 @@ class ResultsAnalysis(SchemaName):
         win_rate_high_odds_mean = (
             data_input.loc[
                 (data_input[self.result_col] == "Credit")
-                & (data_input[calc_col] > 1.85),
+                & (data_input[calc_col] > self.odds_divider),
                 group_cols + [calc_col],
             ]
             .groupby(group_cols, dropna=False)[calc_col]
@@ -933,7 +960,7 @@ class ResultsAnalysis(SchemaName):
         # Win ratio below low odds
         bet_total_odds_low = self.ColNames.total_odds_low_col
         win_rate_low_odds_pct = (
-            data_input.loc[(data_input[calc_col] <= 1.85), :]
+            data_input.loc[(data_input[calc_col] <= self.odds_divider), :]
             .groupby(group_cols + [self.result_col])
             .size()
             .unstack(fill_value=0)
@@ -962,7 +989,7 @@ class ResultsAnalysis(SchemaName):
         count_odds_high = "count_odds_high"
         won_odds_high_percentage = self.ColNames.won_odds_high_percentage_col
         win_rate_high_odds_pct = (
-            data_input.loc[(data_input[calc_col] > 1.85), :]
+            data_input.loc[(data_input[calc_col] > self.odds_divider), :]
             .groupby(group_cols + [self.result_col])
             .size()
             .unstack(fill_value=0)
