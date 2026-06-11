@@ -1,20 +1,5 @@
 [
     {
-        "contestant_names_prop": "Pittsburgh, (2.5) VERSES LA Dodgers, (1.55)",
-        "contestant_names": "Pittsburgh VERSES LA Dodgers",
-        "start_time_aest": "2026-06-12T08:40:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "Pittsburgh",
-        "AWAY_contestant": "LA Dodgers",
-        "HOME_contestant_short": "Pittsburgh",
-        "AWAY_contestant_short": "LA Dodgers",
-        "comp_stats": "lohopt=43.68,loptwn=56.32,loto=87.0,hihopt=61.11,hiptwn=38.89,hito=36.0",
-        "match_name": "Pittsburgh v LA Dodgers",
-        "match_shortName": "MLB Ptsb-LADg Hd to Hd",
-        "start_time": "2026-06-11T22:40:00.000Z"
-    },
-    {
         "contestant_names_prop": "Baltimore, (1.95) VERSES Seattle, (1.9)",
         "contestant_names": "Baltimore VERSES Seattle",
         "start_time_aest": "2026-06-12T09:05:00+10:00",
@@ -45,21 +30,6 @@
         "start_time": "2026-06-11T23:15:00.000Z"
     },
     {
-        "contestant_names_prop": "Atlanta, (1.6) VERSES New York, (2.3)",
-        "contestant_names": "Atlanta VERSES New York",
-        "start_time_aest": "2026-06-12T09:30:00+10:00",
-        "sport_name": "Basketball",
-        "competition_name": "WNBA",
-        "HOME_contestant": "Atlanta",
-        "AWAY_contestant": "New York",
-        "HOME_contestant_short": "Atlanta",
-        "AWAY_contestant_short": "New York",
-        "comp_stats": "lohopt=55.56,loptwn=66.67,loto=9.0,hihopt=66.67,hiptwn=66.67,hito=3.0",
-        "match_name": "Atlanta v New York",
-        "match_shortName": "WNB Atl-NYL Hd to Hd",
-        "start_time": "2026-06-11T23:30:00.000Z"
-    },
-    {
         "contestant_names_prop": "Canada, (2.3) VERSES France, (1.55)",
         "contestant_names": "Canada VERSES France",
         "start_time_aest": "2026-06-12T09:30:00+10:00",
@@ -72,6 +42,21 @@
         "comp_stats": "lohopt=100.0,loptwn=0.0,loto=3.0,hihopt=nan,hiptwn=0.0,hito=0.0",
         "match_name": "Canada v France",
         "match_shortName": "MNL Can-Fra Hd to Hd",
+        "start_time": "2026-06-11T23:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Atlanta, (1.6) VERSES New York, (2.3)",
+        "contestant_names": "Atlanta VERSES New York",
+        "start_time_aest": "2026-06-12T09:30:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "WNBA",
+        "HOME_contestant": "Atlanta",
+        "AWAY_contestant": "New York",
+        "HOME_contestant_short": "Atlanta",
+        "AWAY_contestant_short": "New York",
+        "comp_stats": "lohopt=55.56,loptwn=66.67,loto=9.0,hihopt=66.67,hiptwn=66.67,hito=3.0",
+        "match_name": "Atlanta v New York",
+        "match_shortName": "WNB Atl-NYL Hd to Hd",
         "start_time": "2026-06-11T23:30:00.000Z"
     },
     {
@@ -103,5 +88,20 @@
         "match_name": "Gimnasia Y Esgri v Quimsa",
         "match_shortName": "Arg Gimn-Qmsa Hd to Hd",
         "start_time": "2026-06-12T00:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "West Indies, (1.68) VERSES Sri Lanka, (2.15)",
+        "contestant_names": "West Indies VERSES Sri Lanka",
+        "start_time_aest": "2026-06-12T10:30:00+10:00",
+        "sport_name": "Cricket",
+        "competition_name": "Twenty20 Internationals",
+        "HOME_contestant": "West Indies",
+        "AWAY_contestant": "Sri Lanka",
+        "HOME_contestant_short": "West Indies",
+        "AWAY_contestant_short": "Sri Lanka",
+        "comp_stats": "lohopt=33.33,loptwn=100.0,loto=3.0,hihopt=100.0,hiptwn=0.0,hito=1.0",
+        "match_name": "West Indies v Sri Lanka",
+        "match_shortName": "T20 WI-SL Hd to Hd",
+        "start_time": "2026-06-12T00:30:00.000Z"
     }
 ]
