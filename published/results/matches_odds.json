@@ -1,38 +1,8 @@
 [
     {
-        "contestant_names_prop": "Germany U23, (1.97) VERSES Croatia U23, (1.72)",
-        "contestant_names": "Germany U23 VERSES Croatia U23",
-        "start_time_aest": "2026-06-17T00:55:00+10:00",
-        "sport_name": "Basketball",
-        "competition_name": "FIBA 3x3 Nations U23 League Men",
-        "HOME_contestant": "Germany U23",
-        "AWAY_contestant": "Croatia U23",
-        "HOME_contestant_short": "Germany U23",
-        "AWAY_contestant_short": "Croatia U23",
-        "comp_stats": "lohopt=0.0,loptwn=100.0,loto=1.0,hihopt=nan,hiptwn=0.0,hito=0.0",
-        "match_name": "Germany U23 v Croatia U23",
-        "match_shortName": "23M Gmny-Croa Hd to Hd",
-        "start_time": "2026-06-16T14:55:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Netherlands, (1.62) VERSES Canada, (2.25)",
-        "contestant_names": "Netherlands VERSES Canada",
-        "start_time_aest": "2026-06-17T01:00:00+10:00",
-        "sport_name": "Cricket",
-        "competition_name": "ICC Cricket World Cup League 2",
-        "HOME_contestant": "Netherlands",
-        "AWAY_contestant": "Canada",
-        "HOME_contestant_short": "Netherlands",
-        "AWAY_contestant_short": "Canada",
-        "comp_stats": "lohopt=100.0,loptwn=0.0,loto=3.0,hihopt=66.67,hiptwn=33.33,hito=3.0",
-        "match_name": "Netherlands v Canada",
-        "match_shortName": "WC2 Neth-Can Hd to Hd",
-        "start_time": "2026-06-16T15:00:00.000Z"
-    },
-    {
         "contestant_names_prop": "Doumbia/Polmans, (2.4) VERSES Miedler/Cabral, (1.52)",
         "contestant_names": "Doumbia/Polmans VERSES Miedler/Cabral",
-        "start_time_aest": "2026-06-17T01:00:00+10:00",
+        "start_time_aest": "2026-06-17T01:30:00+10:00",
         "sport_name": "Tennis",
         "competition_name": "ATP Doubles",
         "tournamentName": "ATP Halle Doubles",
@@ -43,7 +13,8 @@
         "comp_stats": "lohopt=58.62,loptwn=65.52,loto=29.0,hihopt=50.0,hiptwn=25.0,hito=8.0",
         "match_name": "Doumbia/Polmans v Miedler/Cabral",
         "match_shortName": "ATP Hal Polm-CbrF Hd to Hd",
-        "start_time": "2026-06-16T15:00:00.000Z"
+        "start_time": "2026-06-16T15:30:00.000Z",
+        "start_time_aest_old": "2026-06-17T01:00:00+10:00"
     },
     {
         "contestant_names_prop": "Ukraine, (1.55) VERSES Greece, (2.25)",
@@ -61,18 +32,49 @@
         "start_time": "2026-06-16T15:05:00.000Z"
     },
     {
-        "contestant_names_prop": "Ukraine, (1.52) VERSES Greece, (2.3)",
-        "contestant_names": "Ukraine VERSES Greece",
-        "start_time_aest": "2026-06-17T01:05:00+10:00",
+        "contestant_names_prop": "Czech Republic, (2.15) VERSES Great Britain, (1.6)",
+        "contestant_names": "Czech Republic VERSES Great Britain",
+        "start_time_aest": "2026-06-17T01:30:00+10:00",
         "sport_name": "Basketball",
         "competition_name": "FIBA 3x3 Europe Cup Mens",
-        "HOME_contestant": "Ukraine",
-        "AWAY_contestant": "Greece",
-        "HOME_contestant_short": "Ukraine",
-        "AWAY_contestant_short": "Greece",
+        "HOME_contestant": "Czech Republic",
+        "AWAY_contestant": "Great Britain",
+        "HOME_contestant_short": "Czech Republic",
+        "AWAY_contestant_short": "Great Britain",
         "comp_stats": null,
-        "match_name": "Ukraine v Greece",
-        "match_shortName": "E3M Ukrn-Grce Hd to Hd",
-        "start_time": "2026-06-16T15:05:00.000Z"
+        "match_name": "Czech Republic v Great Britain",
+        "match_shortName": "E3M CzRp-GBR Hd to Hd",
+        "start_time": "2026-06-16T15:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Czech Republic, (2.15) VERSES Great Britain, (1.6)",
+        "contestant_names": "Czech Republic VERSES Great Britain",
+        "start_time_aest": "2026-06-17T01:30:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "FIBA 3x3 Europe Cup Mens",
+        "HOME_contestant": "Czech Republic",
+        "AWAY_contestant": "Great Britain",
+        "HOME_contestant_short": "Czech Republic",
+        "AWAY_contestant_short": "Great Britain",
+        "comp_stats": null,
+        "match_name": "Czech Republic v Great Britain",
+        "match_shortName": "E3M CzRp-GBR Hd to Hd",
+        "start_time": "2026-06-16T15:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Muchova/Williams, (1.6) VERSES Olmos/Routliffe, (2.25)",
+        "contestant_names": "Muchova/Williams VERSES Olmos/Routliffe",
+        "start_time_aest": "2026-06-17T01:30:00+10:00",
+        "sport_name": "Tennis",
+        "competition_name": "WTA Doubles",
+        "tournamentName": "WTA Berlin Doubles",
+        "HOME_contestant": "Muchova/Williams",
+        "AWAY_contestant": "Olmos/Routliffe",
+        "HOME_contestant_short": "Muchova/Williams",
+        "AWAY_contestant_short": "Olmos/Routliffe",
+        "comp_stats": "lohopt=56.67,loptwn=53.33,loto=30.0,hihopt=50.0,hiptwn=70.0,hito=10.0",
+        "match_name": "Muchova/Williams v Olmos/Routliffe",
+        "match_shortName": "WTA Bln WilS-Rlfe Hd to Hd",
+        "start_time": "2026-06-16T15:30:00.000Z"
     }
 ]
