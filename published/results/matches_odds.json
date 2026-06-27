@@ -1,23 +1,8 @@
 [
     {
-        "contestant_names_prop": "Heroes De Moca, (1.75) VERSES Indios San Fran, (1.95)",
-        "contestant_names": "Heroes De Moca VERSES Indios San Fran",
-        "start_time_aest": "2026-06-27T10:00:00+10:00",
-        "sport_name": "Basketball",
-        "competition_name": "Dominican Republic LNB",
-        "HOME_contestant": "Heroes De Moca",
-        "AWAY_contestant": "Indios San Fran",
-        "HOME_contestant_short": "Heroes De Moca",
-        "AWAY_contestant_short": "Indios San Fran",
-        "comp_stats": "lohopt=50.0,loptwn=40.0,loto=10.0,hihopt=66.67,hiptwn=50.0,hito=6.0",
-        "match_name": "Heroes De Moca v Indios San Fran",
-        "match_shortName": "Dom Hero-IndS Hd to Hd",
-        "start_time": "2026-06-27T00:00:00.000Z"
-    },
-    {
         "contestant_names_prop": "Gerwyn Price, (1.55) VERSES James Wade, (2.4)",
         "contestant_names": "Gerwyn Price VERSES James Wade",
-        "start_time_aest": "2026-06-27T10:00:00+10:00",
+        "start_time_aest": "2026-06-27T10:15:00+10:00",
         "sport_name": "Darts",
         "competition_name": "US Darts Masters",
         "HOME_contestant": "Gerwyn Price",
@@ -27,7 +12,8 @@
         "comp_stats": null,
         "match_name": "Price v Wade",
         "match_shortName": "WSM Prce-Wade Hd to Hd",
-        "start_time": "2026-06-27T00:00:00.000Z"
+        "start_time": "2026-06-27T00:15:00.000Z",
+        "start_time_aest_old": "2026-06-27T10:00:00+10:00"
     },
     {
         "contestant_names_prop": "Minnesota, (1.6) VERSES Colorado, (2.4)",
@@ -90,7 +76,7 @@
         "start_time": "2026-06-27T01:00:00.000Z"
     },
     {
-        "contestant_names_prop": "San Francisco Unicorns, (1.9) VERSES Seattle Orcas, (1.9)",
+        "contestant_names_prop": "San Francisco Unicorns, (1.92) VERSES Seattle Orcas, (1.85)",
         "contestant_names": "San Francisco Unicorns VERSES Seattle Orcas",
         "start_time_aest": "2026-06-27T11:30:00+10:00",
         "sport_name": "Cricket",
@@ -103,5 +89,50 @@
         "match_name": "San Francisco v Seattle",
         "match_shortName": "MLC SnFran-Seatle Hd to Hd",
         "start_time": "2026-06-27T01:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "LA Angels, (1.95) VERSES Athletics, (1.9)",
+        "contestant_names": "LA Angels VERSES Athletics",
+        "start_time_aest": "2026-06-27T11:38:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "LA Angels",
+        "AWAY_contestant": "Athletics",
+        "HOME_contestant_short": "LA Angels",
+        "AWAY_contestant_short": "Athletics",
+        "comp_stats": "lohopt=44.23,loptwn=55.77,loto=104.0,hihopt=55.81,hiptwn=44.19,hito=43.0",
+        "match_name": "LA Angels v Athletics",
+        "match_shortName": "MLB LAAn-Athl Hd to Hd",
+        "start_time": "2026-06-27T01:38:00.000Z"
+    },
+    {
+        "contestant_names_prop": "San Diego, (2.25) VERSES LA Dodgers, (1.68)",
+        "contestant_names": "San Diego VERSES LA Dodgers",
+        "start_time_aest": "2026-06-27T11:45:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "San Diego",
+        "AWAY_contestant": "LA Dodgers",
+        "HOME_contestant_short": "San Diego",
+        "AWAY_contestant_short": "LA Dodgers",
+        "comp_stats": "lohopt=44.23,loptwn=55.77,loto=104.0,hihopt=55.81,hiptwn=44.19,hito=43.0",
+        "match_name": "San Diego v LA Dodgers",
+        "match_shortName": "MLB SnDg-LADg Hd to Hd",
+        "start_time": "2026-06-27T01:45:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Golden State, (2) VERSES Atlanta, (1.8)",
+        "contestant_names": "Golden State VERSES Atlanta",
+        "start_time_aest": "2026-06-27T12:00:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "WNBA",
+        "HOME_contestant": "Golden State",
+        "AWAY_contestant": "Atlanta",
+        "HOME_contestant_short": "Golden State",
+        "AWAY_contestant_short": "Atlanta",
+        "comp_stats": "lohopt=64.29,loptwn=50.0,loto=14.0,hihopt=80.0,hiptwn=60.0,hito=5.0",
+        "match_name": "Golden State v Atlanta",
+        "match_shortName": "WNB GSV-Atl Hd to Hd",
+        "start_time": "2026-06-27T02:00:00.000Z"
     }
 ]
