@@ -1,35 +1,5 @@
 [
     {
-        "contestant_names_prop": "San Francisco, (2.5) VERSES Atlanta, (1.55)",
-        "contestant_names": "San Francisco VERSES Atlanta",
-        "start_time_aest": "2026-06-29T06:05:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "San Francisco",
-        "AWAY_contestant": "Atlanta",
-        "HOME_contestant_short": "San Francisco",
-        "AWAY_contestant_short": "Atlanta",
-        "comp_stats": "lohopt=44.23,loptwn=55.77,loto=104.0,hihopt=55.81,hiptwn=44.19,hito=43.0",
-        "match_name": "San Francisco v Atlanta",
-        "match_shortName": "MLB SFrn-Atln Hd to Hd",
-        "start_time": "2026-06-28T20:05:00.000Z"
-    },
-    {
-        "contestant_names_prop": "San Diego, (2.15) VERSES LA Dodgers, (1.75)",
-        "contestant_names": "San Diego VERSES LA Dodgers",
-        "start_time_aest": "2026-06-29T06:10:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "San Diego",
-        "AWAY_contestant": "LA Dodgers",
-        "HOME_contestant_short": "San Diego",
-        "AWAY_contestant_short": "LA Dodgers",
-        "comp_stats": "lohopt=44.23,loptwn=55.77,loto=104.0,hihopt=55.81,hiptwn=44.19,hito=43.0",
-        "match_name": "San Diego v LA Dodgers",
-        "match_shortName": "MLB SnDg-LADg Hd to Hd",
-        "start_time": "2026-06-28T20:10:00.000Z"
-    },
-    {
         "contestant_names_prop": "Los Angeles Knight Riders, (1.75) VERSES Seattle Orcas, (2.05)",
         "contestant_names": "Los Angeles Knight Riders VERSES Seattle Orcas",
         "start_time_aest": "2026-06-29T07:30:00+10:00",
@@ -60,7 +30,7 @@
         "start_time": "2026-06-28T22:00:00.000Z"
     },
     {
-        "contestant_names_prop": "Golden State, (1.8) VERSES New York, (2)",
+        "contestant_names_prop": "Golden State, (1.75) VERSES New York, (2.05)",
         "contestant_names": "Golden State VERSES New York",
         "start_time_aest": "2026-06-29T09:00:00+10:00",
         "sport_name": "Basketball",
@@ -103,5 +73,20 @@
         "match_name": "Sandoval Cain  v Lee",
         "match_shortName": "Box Sandov-Lee Hd to Hd",
         "start_time": "2026-06-29T01:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "San Francisco Unicorns, (1.9) VERSES Washington Freedom, (1.9)",
+        "contestant_names": "San Francisco Unicorns VERSES Washington Freedom",
+        "start_time_aest": "2026-06-29T11:30:00+10:00",
+        "sport_name": "Cricket",
+        "competition_name": "Major League Cricket",
+        "HOME_contestant": "San Francisco Unicorns",
+        "AWAY_contestant": "Washington Freedom",
+        "HOME_contestant_short": "San Francisco",
+        "AWAY_contestant_short": "Washington",
+        "comp_stats": "lohopt=75.0,loptwn=0.0,loto=4.0,hihopt=nan,hiptwn=0.0,hito=0.0",
+        "match_name": "San Francisco v Washington",
+        "match_shortName": "MLC SnFran-Wshgtn Hd to Hd",
+        "start_time": "2026-06-29T01:30:00.000Z"
     }
 ]
