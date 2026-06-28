@@ -1,20 +1,5 @@
 [
     {
-        "contestant_names_prop": "LA Angels, (1.92) VERSES Athletics, (1.92)",
-        "contestant_names": "LA Angels VERSES Athletics",
-        "start_time_aest": "2026-06-29T05:15:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "LA Angels",
-        "AWAY_contestant": "Athletics",
-        "HOME_contestant_short": "LA Angels",
-        "AWAY_contestant_short": "Athletics",
-        "comp_stats": "lohopt=44.23,loptwn=55.77,loto=104.0,hihopt=55.81,hiptwn=44.19,hito=43.0",
-        "match_name": "LA Angels v Athletics",
-        "match_shortName": "MLB LAAn-Athl Hd to Hd",
-        "start_time": "2026-06-28T19:15:00.000Z"
-    },
-    {
         "contestant_names_prop": "Chile U23, (1.57) VERSES Puerto Rico U23, (2.2)",
         "contestant_names": "Chile U23 VERSES Puerto Rico U23",
         "start_time_aest": "2026-06-29T05:45:00+10:00",
@@ -88,5 +73,35 @@
         "match_name": "Indios San Fran v Heroes De Moca",
         "match_shortName": "Dom IndS-Hero Hd to Hd",
         "start_time": "2026-06-28T22:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Golden State, (1.8) VERSES New York, (2)",
+        "contestant_names": "Golden State VERSES New York",
+        "start_time_aest": "2026-06-29T09:00:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "WNBA",
+        "HOME_contestant": "Golden State",
+        "AWAY_contestant": "New York",
+        "HOME_contestant_short": "Golden State",
+        "AWAY_contestant_short": "New York",
+        "comp_stats": "lohopt=64.29,loptwn=50.0,loto=14.0,hihopt=80.0,hiptwn=60.0,hito=5.0",
+        "match_name": "Golden State v New York",
+        "match_shortName": "WNB GSV-NYL Hd to Hd",
+        "start_time": "2026-06-28T23:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Boston, (1.9) VERSES NY Yankees, (1.95)",
+        "contestant_names": "Boston VERSES NY Yankees",
+        "start_time_aest": "2026-06-29T09:20:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Boston",
+        "AWAY_contestant": "NY Yankees",
+        "HOME_contestant_short": "Boston",
+        "AWAY_contestant_short": "NY Yankees",
+        "comp_stats": "lohopt=44.23,loptwn=55.77,loto=104.0,hihopt=55.81,hiptwn=44.19,hito=43.0",
+        "match_name": "Boston v NY Yankees",
+        "match_shortName": "MLB Bstn-NYYn Hd to Hd",
+        "start_time": "2026-06-28T23:20:00.000Z"
     }
 ]
