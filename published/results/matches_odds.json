@@ -2,7 +2,7 @@
     {
         "contestant_names_prop": "King/Dabrowski, (1.68) VERSES Pavic/Stollar, (2.05)",
         "contestant_names": "King/Dabrowski VERSES Pavic/Stollar",
-        "start_time_aest": "2026-07-06T02:00:00+10:00",
+        "start_time_aest": "2026-07-06T02:15:00+10:00",
         "sport_name": "Tennis",
         "competition_name": "Wimbledon Doubles",
         "tournamentName": "Wimbledon Mixed Doubles",
@@ -13,7 +13,8 @@
         "comp_stats": "lohopt=50.0,loptwn=50.0,loto=2.0,hihopt=50.0,hiptwn=50.0,hito=4.0",
         "match_name": "King/Dabrowski v Pavic/Stollar",
         "match_shortName": "Wim XDb Dwsk-StlF Hd to Hd",
-        "start_time": "2026-07-05T16:00:00.000Z"
+        "start_time": "2026-07-05T16:15:00.000Z",
+        "start_time_aest_old": "2026-07-06T02:00:00+10:00"
     },
     {
         "contestant_names_prop": "Cabral/Perez, (2.15) VERSES Skupski/Krawczyk, (1.62)",
@@ -45,5 +46,35 @@
         "match_name": "Atlanta v NY Mets",
         "match_shortName": "MLB Atln-NYMt Hd to Hd",
         "start_time": "2026-07-05T16:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Washington, (1.75) VERSES Pittsburgh, (2.15)",
+        "contestant_names": "Washington VERSES Pittsburgh",
+        "start_time_aest": "2026-07-06T03:00:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Washington",
+        "AWAY_contestant": "Pittsburgh",
+        "HOME_contestant_short": "Washington",
+        "AWAY_contestant_short": "Pittsburgh",
+        "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
+        "match_name": "Washington v Pittsburgh",
+        "match_shortName": "MLB Wash-Ptsb Hd to Hd",
+        "start_time": "2026-07-05T17:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "South Sudan, (1.62) VERSES Cameroon, (2.1)",
+        "contestant_names": "South Sudan VERSES Cameroon",
+        "start_time_aest": "2026-07-06T03:00:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "FIBA World Cup Qualification",
+        "HOME_contestant": "South Sudan",
+        "AWAY_contestant": "Cameroon",
+        "HOME_contestant_short": "South Sudan",
+        "AWAY_contestant_short": "Cameroon",
+        "comp_stats": "lohopt=25.0,loptwn=75.0,loto=4.0,hihopt=nan,hiptwn=0.0,hito=0.0",
+        "match_name": "South Sudan v Cameroon",
+        "match_shortName": "FWC SSd-Camr Hd to Hd",
+        "start_time": "2026-07-05T17:00:00.000Z"
     }
 ]
