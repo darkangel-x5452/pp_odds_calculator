@@ -1,23 +1,8 @@
 [
     {
-        "contestant_names_prop": "Chicago, (2.4) VERSES LA Lakers, (1.55)",
-        "contestant_names": "Chicago VERSES LA Lakers",
-        "start_time_aest": "2026-07-17T08:00:00+10:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA Summer League",
-        "HOME_contestant": "Chicago",
-        "AWAY_contestant": "LA Lakers",
-        "HOME_contestant_short": "Chicago",
-        "AWAY_contestant_short": "LA Lakers",
-        "comp_stats": null,
-        "match_name": "Chicago v LA Lakers",
-        "match_shortName": "NBS Chi-LAL Hd to Hd",
-        "start_time": "2026-07-16T22:00:00.000Z"
-    },
-    {
         "contestant_names_prop": "Philadelphia, (1.8) VERSES NY Mets, (2.05)",
         "contestant_names": "Philadelphia VERSES NY Mets",
-        "start_time_aest": "2026-07-17T09:10:00+10:00",
+        "start_time_aest": "2026-07-17T08:10:00+10:00",
         "sport_name": "Baseball",
         "competition_name": "Major League Baseball",
         "HOME_contestant": "Philadelphia",
@@ -27,7 +12,8 @@
         "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
         "match_name": "Philadelphia v NY Mets",
         "match_shortName": "MLB Phly-NYMt Hd to Hd",
-        "start_time": "2026-07-16T23:10:00.000Z"
+        "start_time": "2026-07-16T22:10:00.000Z",
+        "start_time_aest_old": "2026-07-17T09:10:00+10:00"
     },
     {
         "contestant_names_prop": "Larre Borges, (1.55) VERSES Lagomar, (2.25)",
@@ -58,5 +44,20 @@
         "match_name": "Albatros v Montevideo BBC",
         "match_shortName": "Ur2 Alba-MvBC Hd to Hd",
         "start_time": "2026-07-16T23:15:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Atlanta, (2.3) VERSES Memphis, (1.6)",
+        "contestant_names": "Atlanta VERSES Memphis",
+        "start_time_aest": "2026-07-17T10:00:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA Summer League",
+        "HOME_contestant": "Atlanta",
+        "AWAY_contestant": "Memphis",
+        "HOME_contestant_short": "Atlanta",
+        "AWAY_contestant_short": "Memphis",
+        "comp_stats": null,
+        "match_name": "Atlanta v Memphis",
+        "match_shortName": "NBS Atl-Mem Hd to Hd",
+        "start_time": "2026-07-17T00:00:00.000Z"
     }
 ]
