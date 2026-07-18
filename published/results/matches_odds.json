@@ -1,23 +1,8 @@
 [
     {
-        "contestant_names_prop": "Veracruz, (1.68) VERSES Queretaro, (2.05)",
-        "contestant_names": "Veracruz VERSES Queretaro",
-        "start_time_aest": "2026-07-18T11:00:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Mexico Baseball",
-        "HOME_contestant": "Veracruz",
-        "AWAY_contestant": "Queretaro",
-        "HOME_contestant_short": "Veracruz",
-        "AWAY_contestant_short": "Queretaro",
-        "comp_stats": "lohopt=48.33,loptwn=46.67,loto=60.0,hihopt=45.45,hiptwn=54.55,hito=11.0",
-        "match_name": "Veracruz v Queretaro",
-        "match_shortName": "Mex Vcrz-CQtr Hd to Hd",
-        "start_time": "2026-07-18T01:00:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Miami, (2.45) VERSES Detroit, (1.53)",
+        "contestant_names_prop": "Miami, (2.5) VERSES Detroit, (1.52)",
         "contestant_names": "Miami VERSES Detroit",
-        "start_time_aest": "2026-07-18T11:00:00+10:00",
+        "start_time_aest": "2026-07-18T11:03:00+10:00",
         "sport_name": "Basketball",
         "competition_name": "NBA Summer League",
         "HOME_contestant": "Miami",
@@ -27,7 +12,8 @@
         "comp_stats": null,
         "match_name": "Miami v Detroit",
         "match_shortName": "NBS Mia-Det Hd to Hd",
-        "start_time": "2026-07-18T01:00:00.000Z"
+        "start_time": "2026-07-18T01:03:00.000Z",
+        "start_time_aest_old": "2026-07-18T11:00:00+10:00"
     },
     {
         "contestant_names_prop": "Jalisco, (1.6) VERSES Saltillo, (2.2)",
@@ -148,5 +134,35 @@
         "match_name": "Athletics v Washington",
         "match_shortName": "MLB Athl-Wash Hd to Hd",
         "start_time": "2026-07-18T01:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Monclova, (1.68) VERSES Caliente De Dura, (2.05)",
+        "contestant_names": "Monclova VERSES Caliente De Dura",
+        "start_time_aest": "2026-07-18T11:45:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Monclova",
+        "AWAY_contestant": "Caliente De Dura",
+        "HOME_contestant_short": "Monclova",
+        "AWAY_contestant_short": "Caliente De Dura",
+        "comp_stats": "lohopt=48.33,loptwn=46.67,loto=60.0,hihopt=45.45,hiptwn=54.55,hito=11.0",
+        "match_name": "Monclova v Caliente De Dura",
+        "match_shortName": "Mex Monc-Cali Hd to Hd",
+        "start_time": "2026-07-18T01:45:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Phoenix, (1.53) VERSES Connecticut, (2.45)",
+        "contestant_names": "Phoenix VERSES Connecticut",
+        "start_time_aest": "2026-07-18T12:00:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "WNBA",
+        "HOME_contestant": "Phoenix",
+        "AWAY_contestant": "Connecticut",
+        "HOME_contestant_short": "Phoenix",
+        "AWAY_contestant_short": "Connecticut",
+        "comp_stats": "lohopt=62.5,loptwn=56.25,loto=16.0,hihopt=71.43,hiptwn=71.43,hito=7.0",
+        "match_name": "Phoenix v Connecticut",
+        "match_shortName": "WNB Phx-Con Hd to Hd",
+        "start_time": "2026-07-18T02:00:00.000Z"
     }
 ]
