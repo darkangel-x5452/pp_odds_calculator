@@ -1,6 +1,6 @@
 [
     {
-        "contestant_names_prop": "Cleveland, (2.15) VERSES Minnesota, (1.75)",
+        "contestant_names_prop": "Cleveland, (2.1) VERSES Minnesota, (1.75)",
         "contestant_names": "Cleveland VERSES Minnesota",
         "start_time_aest": "2026-07-21T08:40:00+10:00",
         "sport_name": "Baseball",
@@ -30,7 +30,7 @@
         "start_time": "2026-07-20T23:05:00.000Z"
     },
     {
-        "contestant_names_prop": "Toronto, (1.62) VERSES Tampa Bay, (2.4)",
+        "contestant_names_prop": "Toronto, (1.6) VERSES Tampa Bay, (2.4)",
         "contestant_names": "Toronto VERSES Tampa Bay",
         "start_time_aest": "2026-07-21T09:07:00+10:00",
         "sport_name": "Baseball",
@@ -105,6 +105,21 @@
         "start_time": "2026-07-20T23:40:00.000Z"
     },
     {
+        "contestant_names_prop": "Dallas, (2.55) VERSES New York, (1.5)",
+        "contestant_names": "Dallas VERSES New York",
+        "start_time_aest": "2026-07-21T10:00:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "WNBA",
+        "HOME_contestant": "Dallas",
+        "AWAY_contestant": "New York",
+        "HOME_contestant_short": "Dallas",
+        "AWAY_contestant_short": "New York",
+        "comp_stats": "lohopt=62.5,loptwn=56.25,loto=16.0,hihopt=71.43,hiptwn=71.43,hito=7.0",
+        "match_name": "Dallas v New York",
+        "match_shortName": "WNB Dal-NYL Hd to Hd",
+        "start_time": "2026-07-21T00:00:00.000Z"
+    },
+    {
         "contestant_names_prop": "Chicago Cubs, (1.9) VERSES Detroit, (1.95)",
         "contestant_names": "Chicago Cubs VERSES Detroit",
         "start_time_aest": "2026-07-21T10:05:00+10:00",
@@ -118,5 +133,50 @@
         "match_name": "Chicago Cubs v Detroit",
         "match_shortName": "MLB CCub-Dtrt Hd to Hd",
         "start_time": "2026-07-21T00:05:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Texas, (1.6) VERSES Chicago WSox, (2.4)",
+        "contestant_names": "Texas VERSES Chicago WSox",
+        "start_time_aest": "2026-07-21T10:05:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Texas",
+        "AWAY_contestant": "Chicago WSox",
+        "HOME_contestant_short": "Texas",
+        "AWAY_contestant_short": "Chicago WSox",
+        "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
+        "match_name": "Texas v Chicago WSox",
+        "match_shortName": "MLB Texs-ChWS Hd to Hd",
+        "start_time": "2026-07-21T00:05:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Houston, (1.8) VERSES Miami, (2.05)",
+        "contestant_names": "Houston VERSES Miami",
+        "start_time_aest": "2026-07-21T10:10:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Houston",
+        "AWAY_contestant": "Miami",
+        "HOME_contestant_short": "Houston",
+        "AWAY_contestant_short": "Miami",
+        "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
+        "match_name": "Houston v Miami",
+        "match_shortName": "MLB Hstn-Miam Hd to Hd",
+        "start_time": "2026-07-21T00:10:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Sayago, (1.66) VERSES Stockolmo, (2.05)",
+        "contestant_names": "Sayago VERSES Stockolmo",
+        "start_time_aest": "2026-07-21T10:30:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "Uruguay Liga Metro",
+        "HOME_contestant": "Sayago",
+        "AWAY_contestant": "Stockolmo",
+        "HOME_contestant_short": "Sayago",
+        "AWAY_contestant_short": "Stockolmo",
+        "comp_stats": "lohopt=0.0,loptwn=50.0,loto=2.0,hihopt=0.0,hiptwn=0.0,hito=1.0",
+        "match_name": "Sayago v Stockolmo",
+        "match_shortName": "Ur2 Saya-Stoc Hd to Hd",
+        "start_time": "2026-07-21T00:30:00.000Z"
     }
 ]
