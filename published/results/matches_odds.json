@@ -60,7 +60,7 @@
         "start_time": "2026-07-24T23:10:00.000Z"
     },
     {
-        "contestant_names_prop": "Boston, (1.8) VERSES Toronto, (2.05)",
+        "contestant_names_prop": "Boston, (1.75) VERSES Toronto, (2.1)",
         "contestant_names": "Boston VERSES Toronto",
         "start_time_aest": "2026-07-25T09:15:00+10:00",
         "sport_name": "Baseball",
@@ -75,7 +75,7 @@
         "start_time": "2026-07-24T23:15:00.000Z"
     },
     {
-        "contestant_names_prop": "Olvivol Mundial, (2.35) VERSES Verdirrojo, (1.5)",
+        "contestant_names_prop": "Olvivol Mundial, (2.3) VERSES Verdirrojo, (1.52)",
         "contestant_names": "Olvivol Mundial VERSES Verdirrojo",
         "start_time_aest": "2026-07-25T09:15:00+10:00",
         "sport_name": "Basketball",
@@ -88,5 +88,50 @@
         "match_name": "Olvivol Mundial v Verdirrojo",
         "match_shortName": "Ur2 Olvi-Verd Hd to Hd",
         "start_time": "2026-07-24T23:15:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Montreal, (1.8) VERSES Ottawa, (1.86)",
+        "contestant_names": "Montreal VERSES Ottawa",
+        "start_time_aest": "2026-07-25T09:30:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "Canadian Elite Basketball League",
+        "HOME_contestant": "Montreal",
+        "AWAY_contestant": "Ottawa",
+        "HOME_contestant_short": "Montreal",
+        "AWAY_contestant_short": "Ottawa",
+        "comp_stats": "lohopt=100.0,loptwn=50.0,loto=2.0,hihopt=nan,hiptwn=0.0,hito=0.0",
+        "match_name": "Montreal v Ottawa",
+        "match_shortName": "Can Mtrl-Otta Hd to Hd",
+        "start_time": "2026-07-24T23:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Chicago WSox, (1.75) VERSES Houston, (2.1)",
+        "contestant_names": "Chicago WSox VERSES Houston",
+        "start_time_aest": "2026-07-25T09:40:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Chicago WSox",
+        "AWAY_contestant": "Houston",
+        "HOME_contestant_short": "Chicago WSox",
+        "AWAY_contestant_short": "Houston",
+        "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
+        "match_name": "Chicago WSox v Houston",
+        "match_shortName": "MLB ChWS-Hstn Hd to Hd",
+        "start_time": "2026-07-24T23:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Texas, (1.95) VERSES Seattle, (1.9)",
+        "contestant_names": "Texas VERSES Seattle",
+        "start_time_aest": "2026-07-25T10:05:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Texas",
+        "AWAY_contestant": "Seattle",
+        "HOME_contestant_short": "Texas",
+        "AWAY_contestant_short": "Seattle",
+        "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
+        "match_name": "Texas v Seattle",
+        "match_shortName": "MLB Texs-Seat Hd to Hd",
+        "start_time": "2026-07-25T00:05:00.000Z"
     }
 ]
