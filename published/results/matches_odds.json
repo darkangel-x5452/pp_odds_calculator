@@ -1,6 +1,6 @@
 [
     {
-        "contestant_names_prop": "Texas, (1.95) VERSES Seattle, (1.9)",
+        "contestant_names_prop": "Texas, (2) VERSES Seattle, (1.87)",
         "contestant_names": "Texas VERSES Seattle",
         "start_time_aest": "2026-07-25T10:05:00+10:00",
         "sport_name": "Baseball",
@@ -15,7 +15,7 @@
         "start_time": "2026-07-25T00:05:00.000Z"
     },
     {
-        "contestant_names_prop": "Minnesota, (1.75) VERSES Athletics, (2.15)",
+        "contestant_names_prop": "Minnesota, (1.7) VERSES Athletics, (2.2)",
         "contestant_names": "Minnesota VERSES Athletics",
         "start_time_aest": "2026-07-25T10:10:00+10:00",
         "sport_name": "Baseball",
@@ -30,7 +30,7 @@
         "start_time": "2026-07-25T00:10:00.000Z"
     },
     {
-        "contestant_names_prop": "St Louis, (1.68) VERSES Cincinnati, (2.25)",
+        "contestant_names_prop": "St Louis, (1.7) VERSES Cincinnati, (2.2)",
         "contestant_names": "St Louis VERSES Cincinnati",
         "start_time_aest": "2026-07-25T10:15:00+10:00",
         "sport_name": "Baseball",
@@ -73,5 +73,35 @@
         "match_name": "Puerto Montt Bas v Aba Ancud",
         "match_shortName": "Chl Puer-Ancu Hd to Hd",
         "start_time": "2026-07-25T00:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Queretaro, (1.95) VERSES Oaxaca, (1.75)",
+        "contestant_names": "Queretaro VERSES Oaxaca",
+        "start_time_aest": "2026-07-25T11:00:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Queretaro",
+        "AWAY_contestant": "Oaxaca",
+        "HOME_contestant_short": "Queretaro",
+        "AWAY_contestant_short": "Oaxaca",
+        "comp_stats": "lohopt=48.33,loptwn=46.67,loto=60.0,hihopt=45.45,hiptwn=54.55,hito=11.0",
+        "match_name": "Queretaro v Oaxaca",
+        "match_shortName": "Mex CQtr-Oaxc Hd to Hd",
+        "start_time": "2026-07-25T01:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Dorados De Chihu, (1.8) VERSES Nuevo Laredo, (1.9)",
+        "contestant_names": "Dorados De Chihu VERSES Nuevo Laredo",
+        "start_time_aest": "2026-07-25T11:00:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Dorados De Chihu",
+        "AWAY_contestant": "Nuevo Laredo",
+        "HOME_contestant_short": "Dorados De Chihu",
+        "AWAY_contestant_short": "Nuevo Laredo",
+        "comp_stats": "lohopt=48.33,loptwn=46.67,loto=60.0,hihopt=45.45,hiptwn=54.55,hito=11.0",
+        "match_name": "Dorados De Chihu v Nuevo Laredo",
+        "match_shortName": "Mex Dora-Nuev Hd to Hd",
+        "start_time": "2026-07-25T01:00:00.000Z"
     }
 ]
