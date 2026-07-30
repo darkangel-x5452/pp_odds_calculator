@@ -1,38 +1,8 @@
 [
     {
-        "contestant_names_prop": "Veracruz, (2.1) VERSES Tabasco, (1.65)",
-        "contestant_names": "Veracruz VERSES Tabasco",
-        "start_time_aest": "2026-07-30T11:00:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Mexico Baseball",
-        "HOME_contestant": "Veracruz",
-        "AWAY_contestant": "Tabasco",
-        "HOME_contestant_short": "Veracruz",
-        "AWAY_contestant_short": "Tabasco",
-        "comp_stats": "lohopt=48.33,loptwn=46.67,loto=60.0,hihopt=45.45,hiptwn=54.55,hito=11.0",
-        "match_name": "Veracruz v Tabasco",
-        "match_shortName": "Mex Vcrz-Tabs Hd to Hd",
-        "start_time": "2026-07-30T01:00:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Oaxaca, (1.65) VERSES Leon, (2.1)",
-        "contestant_names": "Oaxaca VERSES Leon",
-        "start_time_aest": "2026-07-30T11:00:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Mexico Baseball",
-        "HOME_contestant": "Oaxaca",
-        "AWAY_contestant": "Leon",
-        "HOME_contestant_short": "Oaxaca",
-        "AWAY_contestant_short": "Leon",
-        "comp_stats": "lohopt=48.33,loptwn=46.67,loto=60.0,hihopt=45.45,hiptwn=54.55,hito=11.0",
-        "match_name": "Oaxaca v Leon",
-        "match_shortName": "Mex Oaxc-Leon Hd to Hd",
-        "start_time": "2026-07-30T01:00:00.000Z"
-    },
-    {
         "contestant_names_prop": "Nam/Yuzuki, (1.75) VERSES Isaro/Paris, (2)",
         "contestant_names": "Nam/Yuzuki VERSES Isaro/Paris",
-        "start_time_aest": "2026-07-30T11:00:00+10:00",
+        "start_time_aest": "2026-07-30T11:06:39+10:00",
         "sport_name": "Tennis",
         "competition_name": "ATP Doubles",
         "tournamentName": "ATP Los Cabos Doubles",
@@ -43,7 +13,8 @@
         "comp_stats": "lohopt=58.14,loptwn=65.12,loto=43.0,hihopt=54.55,hiptwn=18.18,hito=11.0",
         "match_name": "Nam/Yuzuki v Isaro/Paris",
         "match_shortName": "ATP Lcd Yuzu-PrsJ Hd to Hd",
-        "start_time": "2026-07-30T01:00:00.000Z"
+        "start_time": "2026-07-30T01:06:39.000Z",
+        "start_time_aest_old": "2026-07-30T11:00:00+10:00"
     },
     {
         "contestant_names_prop": "Caliente De Dura, (1.8) VERSES Monterrey, (1.9)",
@@ -121,7 +92,7 @@
         "start_time": "2026-07-30T01:45:00.000Z"
     },
     {
-        "contestant_names_prop": "Phoenix, (2.45) VERSES Golden State, (1.53)",
+        "contestant_names_prop": "Phoenix, (2.3) VERSES Golden State, (1.6)",
         "contestant_names": "Phoenix VERSES Golden State",
         "start_time_aest": "2026-07-30T12:00:00+10:00",
         "sport_name": "Basketball",
@@ -134,5 +105,51 @@
         "match_name": "Phoenix v Golden State",
         "match_shortName": "WNB Phx-GSV Hd to Hd",
         "start_time": "2026-07-30T02:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "LA Dodgers, (1.55) VERSES Seattle, (2.5)",
+        "contestant_names": "LA Dodgers VERSES Seattle",
+        "start_time_aest": "2026-07-30T12:10:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "LA Dodgers",
+        "AWAY_contestant": "Seattle",
+        "HOME_contestant_short": "LA Dodgers",
+        "AWAY_contestant_short": "Seattle",
+        "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
+        "match_name": "LA Dodgers v Seattle",
+        "match_shortName": "MLB LADg-Seat Hd to Hd",
+        "start_time": "2026-07-30T02:10:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Stalder/Hijikata, (1.65) VERSES Reyes-Varela/Liutarevich, (2.15)",
+        "contestant_names": "Stalder/Hijikata VERSES Reyes-Varela/Liutarevich",
+        "start_time_aest": "2026-07-30T12:30:00+10:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP Doubles",
+        "tournamentName": "ATP Los Cabos Doubles",
+        "HOME_contestant": "Stalder/Hijikata",
+        "AWAY_contestant": "Reyes-Varela/Liutarevich",
+        "HOME_contestant_short": "Stalder/Hijikata",
+        "AWAY_contestant_short": "R-Varela/Liutarevich",
+        "comp_stats": "lohopt=58.14,loptwn=65.12,loto=43.0,hihopt=54.55,hiptwn=18.18,hito=11.0",
+        "match_name": "Stalder/Hijikata v R-Varela/Liutarevich",
+        "match_shortName": "ATP Lcd Hiji-Liut Hd to Hd",
+        "start_time": "2026-07-30T02:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Tijuana, (1.5) VERSES Laguna, (2.4)",
+        "contestant_names": "Tijuana VERSES Laguna",
+        "start_time_aest": "2026-07-30T12:35:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Tijuana",
+        "AWAY_contestant": "Laguna",
+        "HOME_contestant_short": "Tijuana",
+        "AWAY_contestant_short": "Laguna",
+        "comp_stats": "lohopt=48.33,loptwn=46.67,loto=60.0,hihopt=45.45,hiptwn=54.55,hito=11.0",
+        "match_name": "Tijuana v Laguna",
+        "match_shortName": "Mex Tjna-Lgna Hd to Hd",
+        "start_time": "2026-07-30T02:35:00.000Z"
     }
 ]
