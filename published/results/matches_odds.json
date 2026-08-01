@@ -1,50 +1,5 @@
 [
     {
-        "contestant_names_prop": "LA Angels, (2.4) VERSES Milwaukee, (1.6)",
-        "contestant_names": "LA Angels VERSES Milwaukee",
-        "start_time_aest": "2026-08-01T11:38:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "LA Angels",
-        "AWAY_contestant": "Milwaukee",
-        "HOME_contestant_short": "LA Angels",
-        "AWAY_contestant_short": "Milwaukee",
-        "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
-        "match_name": "LA Angels v Milwaukee",
-        "match_shortName": "MLB LAAn-Mlwk Hd to Hd",
-        "start_time": "2026-08-01T01:38:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Athletics, (2.2) VERSES Detroit, (1.7)",
-        "contestant_names": "Athletics VERSES Detroit",
-        "start_time_aest": "2026-08-01T11:40:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "Athletics",
-        "AWAY_contestant": "Detroit",
-        "HOME_contestant_short": "Athletics",
-        "AWAY_contestant_short": "Detroit",
-        "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
-        "match_name": "Athletics v Detroit",
-        "match_shortName": "MLB Athl-Dtrt Hd to Hd",
-        "start_time": "2026-08-01T01:40:00.000Z"
-    },
-    {
-        "contestant_names_prop": "San Diego, (1.68) VERSES San Francisco, (2.25)",
-        "contestant_names": "San Diego VERSES San Francisco",
-        "start_time_aest": "2026-08-01T11:45:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "San Diego",
-        "AWAY_contestant": "San Francisco",
-        "HOME_contestant_short": "San Diego",
-        "AWAY_contestant_short": "San Francisco",
-        "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
-        "match_name": "San Diego v San Francisco",
-        "match_shortName": "MLB SnDg-SFrn Hd to Hd",
-        "start_time": "2026-08-01T01:45:00.000Z"
-    },
-    {
         "contestant_names_prop": "LA Dodgers, (1.75) VERSES Boston, (2.15)",
         "contestant_names": "LA Dodgers VERSES Boston",
         "start_time_aest": "2026-08-01T12:10:00+10:00",
@@ -73,5 +28,36 @@
         "match_name": "Seattle v Minnesota",
         "match_shortName": "MLB Seat-Minn Hd to Hd",
         "start_time": "2026-08-01T02:10:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Tijuana, (1.65) VERSES Monclova, (2.1)",
+        "contestant_names": "Tijuana VERSES Monclova",
+        "start_time_aest": "2026-08-01T12:35:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Tijuana",
+        "AWAY_contestant": "Monclova",
+        "HOME_contestant_short": "Tijuana",
+        "AWAY_contestant_short": "Monclova",
+        "comp_stats": "lohopt=48.33,loptwn=46.67,loto=60.0,hihopt=45.45,hiptwn=54.55,hito=11.0",
+        "match_name": "Tijuana v Monclova",
+        "match_shortName": "Mex Tjna-Monc Hd to Hd",
+        "start_time": "2026-08-01T02:35:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Escobar/Poonacha, (2.05) VERSES Reynolds/Watt, (1.72)",
+        "contestant_names": "Escobar/Poonacha VERSES Reynolds/Watt",
+        "start_time_aest": "2026-08-01T12:35:00+10:00",
+        "sport_name": "Tennis",
+        "competition_name": "ATP Doubles",
+        "tournamentName": "ATP Los Cabos Doubles",
+        "HOME_contestant": "Escobar/Poonacha",
+        "AWAY_contestant": "Reynolds/Watt",
+        "HOME_contestant_short": "Escobar/Poonacha",
+        "AWAY_contestant_short": "Reynolds/Watt",
+        "comp_stats": "lohopt=58.14,loptwn=65.12,loto=43.0,hihopt=54.55,hiptwn=18.18,hito=11.0",
+        "match_name": "Escobar/Poonacha v Reynolds/Watt",
+        "match_shortName": "ATP Lcd Pcha-Watt Hd to Hd",
+        "start_time": "2026-08-01T02:35:00.000Z"
     }
 ]
