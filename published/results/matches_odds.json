@@ -1,20 +1,5 @@
 [
     {
-        "contestant_names_prop": "LA Dodgers, (1.55) VERSES Boston, (2.5)",
-        "contestant_names": "LA Dodgers VERSES Boston",
-        "start_time_aest": "2026-08-02T11:10:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "LA Dodgers",
-        "AWAY_contestant": "Boston",
-        "HOME_contestant_short": "LA Dodgers",
-        "AWAY_contestant_short": "Boston",
-        "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
-        "match_name": "LA Dodgers v Boston",
-        "match_shortName": "MLB LADg-Bstn Hd to Hd",
-        "start_time": "2026-08-02T01:10:00.000Z"
-    },
-    {
         "contestant_names_prop": "LA Angels, (2.25) VERSES Milwaukee, (1.68)",
         "contestant_names": "LA Angels VERSES Milwaukee",
         "start_time_aest": "2026-08-02T11:38:00+10:00",
@@ -43,5 +28,35 @@
         "match_name": "Athletics v Detroit",
         "match_shortName": "MLB Athl-Dtrt Hd to Hd",
         "start_time": "2026-08-02T01:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Yucatan (Game 2), (2) VERSES Puebla (Game 2), (1.72)",
+        "contestant_names": "Yucatan (Game 2) VERSES Puebla (Game 2)",
+        "start_time_aest": "2026-08-02T13:00:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Yucatan (Game 2)",
+        "AWAY_contestant": "Puebla (Game 2)",
+        "HOME_contestant_short": "Yucatan",
+        "AWAY_contestant_short": "Puebla (Game 2)",
+        "comp_stats": "lohopt=48.33,loptwn=46.67,loto=60.0,hihopt=45.45,hiptwn=54.55,hito=11.0",
+        "match_name": "Yucatan v Puebla (Game 2)",
+        "match_shortName": "Mex Yuct-Peba Hd to Hd G2",
+        "start_time": "2026-08-02T03:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "ROACH Lamont, (1.7) VERSES ZEPEDA William, (2.1)",
+        "contestant_names": "ROACH Lamont VERSES ZEPEDA William",
+        "start_time_aest": "2026-08-02T13:00:00+10:00",
+        "sport_name": "Boxing",
+        "competition_name": "Roach v Zepeda",
+        "HOME_contestant": "ROACH Lamont",
+        "AWAY_contestant": "ZEPEDA William",
+        "HOME_contestant_short": "Roach",
+        "AWAY_contestant_short": "Zepeda",
+        "comp_stats": null,
+        "match_name": "Roach v Zepeda",
+        "match_shortName": "Box Roach-Zepeda Hd to Hd",
+        "start_time": "2026-08-02T03:00:00.000Z"
     }
 ]
