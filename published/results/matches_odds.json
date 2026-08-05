@@ -1,18 +1,19 @@
 [
     {
-        "contestant_names_prop": "Monterrey (Game 1), (1.6) VERSES Nuevo Laredo (Game 1), (2.2)",
-        "contestant_names": "Monterrey (Game 1) VERSES Nuevo Laredo (Game 1)",
-        "start_time_aest": "2026-08-06T09:00:00+10:00",
+        "contestant_names_prop": "NY Yankees, (1.65) VERSES St Louis, (2.3)",
+        "contestant_names": "NY Yankees VERSES St Louis",
+        "start_time_aest": "2026-08-06T09:35:00+10:00",
         "sport_name": "Baseball",
-        "competition_name": "Mexico Baseball",
-        "HOME_contestant": "Monterrey (Game 1)",
-        "AWAY_contestant": "Nuevo Laredo (Game 1)",
-        "HOME_contestant_short": "Monterrey",
-        "AWAY_contestant_short": "Nuevo Laredo (Game 1)",
-        "comp_stats": "lohopt=48.33,loptwn=46.67,loto=60.0,hihopt=45.45,hiptwn=54.55,hito=11.0",
-        "match_name": "Monterrey v Nuevo Laredo (Game 1)",
-        "match_shortName": "Mex Mnty-Nuev Hd to Hd G1",
-        "start_time": "2026-08-05T23:00:00.000Z"
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "NY Yankees",
+        "AWAY_contestant": "St Louis",
+        "HOME_contestant_short": "NY Yankees",
+        "AWAY_contestant_short": "St Louis",
+        "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
+        "match_name": "NY Yankees v St Louis",
+        "match_shortName": "MLB NYYn-StLs Hd to Hd",
+        "start_time": "2026-08-05T23:35:00.000Z",
+        "start_time_aest_old": "2026-08-06T09:05:00+10:00"
     },
     {
         "contestant_names_prop": "Philadelphia, (1.52) VERSES Washington, (2.6)",
@@ -27,21 +28,6 @@
         "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
         "match_name": "Philadelphia v Washington",
         "match_shortName": "MLB Phly-Wash Hd to Hd",
-        "start_time": "2026-08-05T23:05:00.000Z"
-    },
-    {
-        "contestant_names_prop": "NY Yankees, (1.65) VERSES St Louis, (2.3)",
-        "contestant_names": "NY Yankees VERSES St Louis",
-        "start_time_aest": "2026-08-06T09:05:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "NY Yankees",
-        "AWAY_contestant": "St Louis",
-        "HOME_contestant_short": "NY Yankees",
-        "AWAY_contestant_short": "St Louis",
-        "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
-        "match_name": "NY Yankees v St Louis",
-        "match_shortName": "MLB NYYn-StLs Hd to Hd",
         "start_time": "2026-08-05T23:05:00.000Z"
     },
     {
@@ -60,7 +46,7 @@
         "start_time": "2026-08-05T23:10:00.000Z"
     },
     {
-        "contestant_names_prop": "Atlanta, (1.75) VERSES Miami, (2.1)",
+        "contestant_names_prop": "Atlanta, (1.75) VERSES Miami, (2.15)",
         "contestant_names": "Atlanta VERSES Miami",
         "start_time_aest": "2026-08-06T09:15:00+10:00",
         "sport_name": "Baseball",
@@ -102,6 +88,21 @@
         "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
         "match_name": "Kansas City v Minnesota",
         "match_shortName": "MLB KnsC-Minn Hd to Hd",
+        "start_time": "2026-08-05T23:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Milwaukee, (1.75) VERSES Pittsburgh, (2.15)",
+        "contestant_names": "Milwaukee VERSES Pittsburgh",
+        "start_time_aest": "2026-08-06T09:40:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Milwaukee",
+        "AWAY_contestant": "Pittsburgh",
+        "HOME_contestant_short": "Milwaukee",
+        "AWAY_contestant_short": "Pittsburgh",
+        "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
+        "match_name": "Milwaukee v Pittsburgh",
+        "match_shortName": "MLB Mlwk-Ptsb Hd to Hd",
         "start_time": "2026-08-05T23:40:00.000Z"
     }
 ]
