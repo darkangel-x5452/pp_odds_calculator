@@ -2,7 +2,7 @@
     {
         "contestant_names_prop": "Siniakova/Zhang, (1.6) VERSES Gauff/Mcnally, (2.25)",
         "contestant_names": "Siniakova/Zhang VERSES Gauff/Mcnally",
-        "start_time_aest": "2026-08-09T06:00:00+10:00",
+        "start_time_aest": "2026-08-09T06:05:00+10:00",
         "sport_name": "Tennis",
         "competition_name": "WTA Doubles",
         "tournamentName": "WTA Toronto Doubles",
@@ -13,7 +13,8 @@
         "comp_stats": "lohopt=63.16,loptwn=60.53,loto=38.0,hihopt=57.14,hiptwn=57.14,hito=14.0",
         "match_name": "Siniakova/Zhang v Gauff/Mcnally",
         "match_shortName": "WTA Tor ZhnS-McNC Hd to Hd",
-        "start_time": "2026-08-08T20:00:00.000Z"
+        "start_time": "2026-08-08T20:05:00.000Z",
+        "start_time_aest_old": "2026-08-09T06:00:00+10:00"
     },
     {
         "contestant_names_prop": "Miami, (1.65) VERSES LA Angels, (2.3)",
@@ -31,7 +32,7 @@
         "start_time": "2026-08-08T20:10:00.000Z"
     },
     {
-        "contestant_names_prop": "Venezuela, (2) VERSES Colombia, (1.7)",
+        "contestant_names_prop": "Venezuela, (2.05) VERSES Colombia, (1.66)",
         "contestant_names": "Venezuela VERSES Colombia",
         "start_time_aest": "2026-08-09T06:30:00+10:00",
         "sport_name": "Basketball",
@@ -46,7 +47,7 @@
         "start_time": "2026-08-08T20:30:00.000Z"
     },
     {
-        "contestant_names_prop": "Toronto, (2) VERSES Phoenix SA, (1.7)",
+        "contestant_names_prop": "Toronto, (1.88) VERSES Phoenix SA, (1.78)",
         "contestant_names": "Toronto VERSES Phoenix SA",
         "start_time_aest": "2026-08-09T06:55:00+10:00",
         "sport_name": "Basketball",
@@ -59,5 +60,36 @@
         "match_name": "Toronto v Phoenix SA",
         "match_shortName": "Chl Tor-Phoe Hd to Hd",
         "start_time": "2026-08-08T20:55:00.000Z"
+    },
+    {
+        "contestant_names_prop": "WILLIAMSON Troy, (2.2) VERSES SIMPSON Callum, (1.65)",
+        "contestant_names": "WILLIAMSON Troy VERSES SIMPSON Callum",
+        "start_time_aest": "2026-08-09T07:00:00+10:00",
+        "sport_name": "Boxing",
+        "competition_name": "Williamson v Simpson",
+        "HOME_contestant": "WILLIAMSON Troy",
+        "AWAY_contestant": "SIMPSON Callum",
+        "HOME_contestant_short": "Williamson",
+        "AWAY_contestant_short": "Simpson",
+        "comp_stats": null,
+        "match_name": "Williamson v Simpson",
+        "match_shortName": "Box Wllmsn-Smpson Hd to Hd",
+        "start_time": "2026-08-08T21:00:00.000Z"
+    },
+    {
+        "contestant_names_prop": "JOHNS Miles, (1.67) VERSES ROSAS Jessie, (2.2)",
+        "contestant_names": "JOHNS Miles VERSES ROSAS Jessie",
+        "start_time_aest": "2026-08-09T07:00:00+10:00",
+        "sport_name": "UFC",
+        "competition_name": "UFC",
+        "tournamentName": "UFC Fight Night - Gamrot vs Salkilld",
+        "HOME_contestant": "JOHNS Miles",
+        "AWAY_contestant": "ROSAS Jessie",
+        "HOME_contestant_short": "Johns",
+        "AWAY_contestant_short": "Rosas",
+        "comp_stats": "lohopt=30.0,loptwn=70.0,loto=10.0,hihopt=50.0,hiptwn=50.0,hito=6.0",
+        "match_name": "Johns v Rosas",
+        "match_shortName": "UFC UvD Johns-Rosas Hd2Hd",
+        "start_time": "2026-08-08T21:00:00.000Z"
     }
 ]
