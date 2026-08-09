@@ -1,24 +1,8 @@
 [
     {
-        "contestant_names_prop": "QUARANTILLO Billy, (2.6) VERSES DIEGO FERREIRA Carlos, (1.5)",
-        "contestant_names": "QUARANTILLO Billy VERSES DIEGO FERREIRA Carlos",
-        "start_time_aest": "2026-08-09T11:45:00+10:00",
-        "sport_name": "UFC",
-        "competition_name": "UFC",
-        "tournamentName": "UFC Fight Night - Gamrot vs Salkilld",
-        "HOME_contestant": "QUARANTILLO Billy",
-        "AWAY_contestant": "DIEGO FERREIRA Carlos",
-        "HOME_contestant_short": "Quarantillo",
-        "AWAY_contestant_short": "Diego Ferreira",
-        "comp_stats": "lohopt=30.0,loptwn=70.0,loto=10.0,hihopt=50.0,hiptwn=50.0,hito=6.0",
-        "match_name": "Quarantillo v Diego Ferreira",
-        "match_shortName": "UFC UvD Qrntlo-DgFerr Hd2Hd",
-        "start_time": "2026-08-09T01:45:00.000Z"
-    },
-    {
         "contestant_names_prop": "Seattle, (1.8) VERSES Tampa Bay, (2.05)",
         "contestant_names": "Seattle VERSES Tampa Bay",
-        "start_time_aest": "2026-08-09T11:50:00+10:00",
+        "start_time_aest": "2026-08-09T11:59:00+10:00",
         "sport_name": "Baseball",
         "competition_name": "Major League Baseball",
         "HOME_contestant": "Seattle",
@@ -28,7 +12,8 @@
         "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
         "match_name": "Seattle v Tampa Bay",
         "match_shortName": "MLB Seat-TmpB Hd to Hd",
-        "start_time": "2026-08-09T01:50:00.000Z"
+        "start_time": "2026-08-09T01:59:00.000Z",
+        "start_time_aest_old": "2026-08-09T11:50:00+10:00"
     },
     {
         "contestant_names_prop": "JOHNSON Cherneka, (1.85) VERSES THORSLUND Dina, (1.92)",
@@ -91,5 +76,20 @@
         "match_name": "Watanabe/Taguchi v KimJHJangHJ",
         "match_shortName": "WTD KoX WatTag-KJHJa Hd2Hd",
         "start_time": "2026-08-09T02:20:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Tijuana, (1.55) VERSES Laguna, (2.3)",
+        "contestant_names": "Tijuana VERSES Laguna",
+        "start_time_aest": "2026-08-09T12:35:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Tijuana",
+        "AWAY_contestant": "Laguna",
+        "HOME_contestant_short": "Tijuana",
+        "AWAY_contestant_short": "Laguna",
+        "comp_stats": "lohopt=48.33,loptwn=46.67,loto=60.0,hihopt=45.45,hiptwn=54.55,hito=11.0",
+        "match_name": "Tijuana v Laguna",
+        "match_shortName": "Mex Tjna-Lgna Hd to Hd",
+        "start_time": "2026-08-09T02:35:00.000Z"
     }
 ]
