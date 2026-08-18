@@ -1,50 +1,5 @@
 [
     {
-        "contestant_names_prop": "Boston, (1.6) VERSES Arizona, (2.4)",
-        "contestant_names": "Boston VERSES Arizona",
-        "start_time_aest": "2026-08-19T09:10:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "Boston",
-        "AWAY_contestant": "Arizona",
-        "HOME_contestant_short": "Boston",
-        "AWAY_contestant_short": "Arizona",
-        "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
-        "match_name": "Boston v Arizona",
-        "match_shortName": "MLB Bstn-Ariz Hd to Hd",
-        "start_time": "2026-08-18T23:10:00.000Z"
-    },
-    {
-        "contestant_names_prop": "NY Mets, (2) VERSES San Diego, (1.85)",
-        "contestant_names": "NY Mets VERSES San Diego",
-        "start_time_aest": "2026-08-19T09:10:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "NY Mets",
-        "AWAY_contestant": "San Diego",
-        "HOME_contestant_short": "NY Mets",
-        "AWAY_contestant_short": "San Diego",
-        "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
-        "match_name": "NY Mets v San Diego",
-        "match_shortName": "MLB NYMt-SnDg Hd to Hd",
-        "start_time": "2026-08-18T23:10:00.000Z"
-    },
-    {
-        "contestant_names_prop": "South Sudan, (1.58) VERSES Argentina, (2.25)",
-        "contestant_names": "South Sudan VERSES Argentina",
-        "start_time_aest": "2026-08-19T09:30:00+10:00",
-        "sport_name": "Basketball",
-        "competition_name": "Olympic Games Womens Qualifying",
-        "HOME_contestant": "South Sudan",
-        "AWAY_contestant": "Argentina",
-        "HOME_contestant_short": "South Sudan",
-        "AWAY_contestant_short": "Argentina",
-        "comp_stats": null,
-        "match_name": "South Sudan v Argentina",
-        "match_shortName": "OGW SSd-Arg Hd to Hd",
-        "start_time": "2026-08-18T23:30:00.000Z"
-    },
-    {
         "contestant_names_prop": "Kansas City, (1.65) VERSES Athletics, (2.3)",
         "contestant_names": "Kansas City VERSES Athletics",
         "start_time_aest": "2026-08-19T09:40:00+10:00",
@@ -75,7 +30,7 @@
         "start_time": "2026-08-18T23:40:00.000Z"
     },
     {
-        "contestant_names_prop": "Milwaukee, (1.58) VERSES Seattle, (2.5)",
+        "contestant_names_prop": "Milwaukee, (1.6) VERSES Seattle, (2.4)",
         "contestant_names": "Milwaukee VERSES Seattle",
         "start_time_aest": "2026-08-19T09:40:00+10:00",
         "sport_name": "Baseball",
@@ -133,5 +88,50 @@
         "match_name": "Texas v Washington",
         "match_shortName": "MLB Texs-Wash Hd to Hd",
         "start_time": "2026-08-19T00:05:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Houston, (1.6) VERSES LA Angels, (2.4)",
+        "contestant_names": "Houston VERSES LA Angels",
+        "start_time_aest": "2026-08-19T10:10:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Houston",
+        "AWAY_contestant": "LA Angels",
+        "HOME_contestant_short": "Houston",
+        "AWAY_contestant_short": "LA Angels",
+        "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
+        "match_name": "Houston v LA Angels",
+        "match_shortName": "MLB Hstn-LAAn Hd to Hd",
+        "start_time": "2026-08-19T00:10:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Banfield, (1.5) VERSES FC Midland, (2.4)",
+        "contestant_names": "Banfield VERSES FC Midland",
+        "start_time_aest": "2026-08-19T10:15:00+10:00",
+        "sport_name": "Soccer",
+        "competition_name": "Argentina Copa",
+        "HOME_contestant": "Banfield",
+        "AWAY_contestant": "FC Midland",
+        "HOME_contestant_short": "Banfield",
+        "AWAY_contestant_short": "FC Midland",
+        "comp_stats": "lohopt=0.0,loptwn=100.0,loto=1.0,hihopt=nan,hiptwn=0.0,hito=0.0",
+        "match_name": "Banfield v FC Midland",
+        "match_shortName": "Arg Banfld-Mdland WnrOfTie",
+        "start_time": "2026-08-19T00:15:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Colorado, (2.6) VERSES LA Dodgers, (1.52)",
+        "contestant_names": "Colorado VERSES LA Dodgers",
+        "start_time_aest": "2026-08-19T10:40:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Colorado",
+        "AWAY_contestant": "LA Dodgers",
+        "HOME_contestant_short": "Colorado",
+        "AWAY_contestant_short": "LA Dodgers",
+        "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
+        "match_name": "Colorado v LA Dodgers",
+        "match_shortName": "MLB Clrd-LADg Hd to Hd",
+        "start_time": "2026-08-19T00:40:00.000Z"
     }
 ]
