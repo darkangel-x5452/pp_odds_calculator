@@ -15,7 +15,7 @@
         "start_time": "2026-08-20T23:36:00.000Z"
     },
     {
-        "contestant_names_prop": "Houston, (2) VERSES Las Vegas, (1.8)",
+        "contestant_names_prop": "Houston, (2.1) VERSES Las Vegas, (1.75)",
         "contestant_names": "Houston VERSES Las Vegas",
         "start_time_aest": "2026-08-21T10:00:00+10:00",
         "sport_name": "American Football",
@@ -75,7 +75,7 @@
         "start_time": "2026-08-21T00:10:00.000Z"
     },
     {
-        "contestant_names_prop": "Corinthians, (1.62) VERSES Rosario FC, (2.2)",
+        "contestant_names_prop": "Corinthians, (1.65) VERSES Rosario FC, (2.15)",
         "contestant_names": "Corinthians VERSES Rosario FC",
         "start_time_aest": "2026-08-21T10:30:00+10:00",
         "sport_name": "Soccer",
@@ -88,5 +88,35 @@
         "match_name": "Corinthians v Rosario FC",
         "match_shortName": "CLb Corthn-Rosrio WnrOfTie",
         "start_time": "2026-08-21T00:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Tabasco, (1.65) VERSES Oaxaca, (2.1)",
+        "contestant_names": "Tabasco VERSES Oaxaca",
+        "start_time_aest": "2026-08-21T11:30:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Mexico Baseball",
+        "HOME_contestant": "Tabasco",
+        "AWAY_contestant": "Oaxaca",
+        "HOME_contestant_short": "Tabasco",
+        "AWAY_contestant_short": "Oaxaca",
+        "comp_stats": "lohopt=48.33,loptwn=46.67,loto=60.0,hihopt=45.45,hiptwn=54.55,hito=11.0",
+        "match_name": "Tabasco v Oaxaca",
+        "match_shortName": "Mex Tabs-Oaxc Hd to Hd",
+        "start_time": "2026-08-21T01:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "LA Chargers, (1.9) VERSES San Francisco, (1.9)",
+        "contestant_names": "LA Chargers VERSES San Francisco",
+        "start_time_aest": "2026-08-21T12:00:00+10:00",
+        "sport_name": "American Football",
+        "competition_name": "NFL Preseason",
+        "HOME_contestant": "LA Chargers",
+        "AWAY_contestant": "San Francisco",
+        "HOME_contestant_short": "LA Chargers",
+        "AWAY_contestant_short": "San Francisco",
+        "comp_stats": null,
+        "match_name": "LA Chargers v San Francisco",
+        "match_shortName": "NFP LAC-SFr Hd to Hd",
+        "start_time": "2026-08-21T02:00:00.000Z"
     }
 ]
