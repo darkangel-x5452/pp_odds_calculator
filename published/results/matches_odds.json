@@ -1,23 +1,8 @@
 [
     {
-        "contestant_names_prop": "LA Rams, (1.95) VERSES New Orleans, (1.85)",
-        "contestant_names": "LA Rams VERSES New Orleans",
-        "start_time_aest": "2026-08-23T06:00:00+10:00",
-        "sport_name": "American Football",
-        "competition_name": "NFL Preseason",
-        "HOME_contestant": "LA Rams",
-        "AWAY_contestant": "New Orleans",
-        "HOME_contestant_short": "LA Rams",
-        "AWAY_contestant_short": "New Orleans",
-        "comp_stats": null,
-        "match_name": "LA Rams v New Orleans",
-        "match_shortName": "NFP LAR-NOr Hd to Hd",
-        "start_time": "2026-08-22T20:00:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Miami, (2.35) VERSES NY Giants, (1.6)",
+        "contestant_names_prop": "Miami, (2.4) VERSES NY Giants, (1.58)",
         "contestant_names": "Miami VERSES NY Giants",
-        "start_time_aest": "2026-08-23T06:00:00+10:00",
+        "start_time_aest": "2026-08-23T06:03:00+10:00",
         "sport_name": "American Football",
         "competition_name": "NFL Preseason",
         "HOME_contestant": "Miami",
@@ -27,26 +12,11 @@
         "comp_stats": null,
         "match_name": "Miami v NY Giants",
         "match_shortName": "NFP Mia-NYG Hd to Hd",
-        "start_time": "2026-08-22T20:00:00.000Z"
+        "start_time": "2026-08-22T20:03:00.000Z",
+        "start_time_aest_old": "2026-08-23T06:00:00+10:00"
     },
     {
-        "contestant_names_prop": "Sentinels, (1.95) VERSES Flyquest, (1.75)",
-        "contestant_names": "Sentinels VERSES Flyquest",
-        "start_time_aest": "2026-08-23T06:00:00+10:00",
-        "sport_name": "Esports",
-        "competition_name": "League of Legends",
-        "tournamentName": "LoL - LCS",
-        "HOME_contestant": "Sentinels",
-        "AWAY_contestant": "Flyquest",
-        "HOME_contestant_short": "Sentinels",
-        "AWAY_contestant_short": "Flyquest",
-        "comp_stats": "lohopt=0.0,loptwn=0.0,loto=1.0,hihopt=50.0,hiptwn=50.0,hito=2.0",
-        "match_name": "Sentinels v Flyquest",
-        "match_shortName": "LoL LCS Snt-Flyq Hd to Hd",
-        "start_time": "2026-08-22T20:00:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Miami, (1.55) VERSES Washington, (2.5)",
+        "contestant_names_prop": "Miami, (1.52) VERSES Washington, (2.6)",
         "contestant_names": "Miami VERSES Washington",
         "start_time_aest": "2026-08-23T06:10:00+10:00",
         "sport_name": "Baseball",
@@ -59,5 +29,21 @@
         "match_name": "Miami v Washington",
         "match_shortName": "MLB Miam-Wash Hd to Hd",
         "start_time": "2026-08-22T20:10:00.000Z"
+    },
+    {
+        "contestant_names_prop": "SPIVAC Sergey, (2.25) VERSES PETRINO Vitor, (1.65)",
+        "contestant_names": "SPIVAC Sergey VERSES PETRINO Vitor",
+        "start_time_aest": "2026-08-23T07:00:00+10:00",
+        "sport_name": "UFC",
+        "competition_name": "UFC",
+        "tournamentName": "UFC Fight Night - Hernandez vs Rodrigues",
+        "HOME_contestant": "SPIVAC Sergey",
+        "AWAY_contestant": "PETRINO Vitor",
+        "HOME_contestant_short": "Spivac",
+        "AWAY_contestant_short": "Vitor",
+        "comp_stats": "lohopt=30.0,loptwn=70.0,loto=10.0,hihopt=50.0,hiptwn=50.0,hito=6.0",
+        "match_name": "Spivac v Vitor",
+        "match_shortName": "UFC HvR Spivak-Vitor Hd2Hd",
+        "start_time": "2026-08-22T21:00:00.000Z"
     }
 ]
