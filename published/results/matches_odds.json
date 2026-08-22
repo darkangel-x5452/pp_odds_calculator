@@ -1,38 +1,8 @@
 [
     {
-        "contestant_names_prop": "Chunichi, (1.55) VERSES Tokyo Yakult, (2.5)",
-        "contestant_names": "Chunichi VERSES Tokyo Yakult",
-        "start_time_aest": "2026-08-22T15:00:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Japanese Baseball League",
-        "HOME_contestant": "Chunichi",
-        "AWAY_contestant": "Tokyo Yakult",
-        "HOME_contestant_short": "Chunichi",
-        "AWAY_contestant_short": "Tokyo Yakult",
-        "comp_stats": "lohopt=35.94,loptwn=64.06,loto=64.0,hihopt=36.59,hiptwn=63.41,hito=41.0",
-        "match_name": "Chunichi v Tokyo Yakult",
-        "match_shortName": "JBL Chnc-TokY Hd to Hd",
-        "start_time": "2026-08-22T05:00:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Yomiuri, (1.87) VERSES Hiroshima Toyo, (1.95)",
-        "contestant_names": "Yomiuri VERSES Hiroshima Toyo",
-        "start_time_aest": "2026-08-22T15:00:00+10:00",
-        "sport_name": "Baseball",
-        "competition_name": "Japanese Baseball League",
-        "HOME_contestant": "Yomiuri",
-        "AWAY_contestant": "Hiroshima Toyo",
-        "HOME_contestant_short": "Yomiuri",
-        "AWAY_contestant_short": "Hiroshima Toyo",
-        "comp_stats": "lohopt=35.94,loptwn=64.06,loto=64.0,hihopt=36.59,hiptwn=63.41,hito=41.0",
-        "match_name": "Yomiuri v Hiroshima Toyo",
-        "match_shortName": "JBL Ymri-HrTy Hd to Hd",
-        "start_time": "2026-08-22T05:00:00.000Z"
-    },
-    {
         "contestant_names_prop": "Nigma Galaxy, (2.3) VERSES BoomBoys, (1.55)",
         "contestant_names": "Nigma Galaxy VERSES BoomBoys",
-        "start_time_aest": "2026-08-22T15:00:00+10:00",
+        "start_time_aest": "2026-08-22T15:15:00+10:00",
         "sport_name": "Esports",
         "competition_name": "DOTA2",
         "tournamentName": "DOTA2 - The International",
@@ -43,7 +13,8 @@
         "comp_stats": "lohopt=47.62,loptwn=71.43,loto=42.0,hihopt=31.58,hiptwn=42.11,hito=19.0",
         "match_name": "Nigma Galaxy v Boomboys",
         "match_shortName": "DT2 TIN Ngma-Boom Hd to Hd",
-        "start_time": "2026-08-22T05:00:00.000Z"
+        "start_time": "2026-08-22T05:15:00.000Z",
+        "start_time_aest_old": "2026-08-22T15:00:00+10:00"
     },
     {
         "contestant_names_prop": "Baek H N/Lee S H, (1.65) VERSES Li Y J/Luo X M, (2.1)",
@@ -60,5 +31,20 @@
         "match_name": "BaekhLee v Li Y J/Luo X M",
         "match_shortName": "WcD WWD BaekhL-Li Luo Hd2Hd",
         "start_time": "2026-08-22T05:45:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Qatar U23, (1.7) VERSES Turkmenistan U23, (2)",
+        "contestant_names": "Qatar U23 VERSES Turkmenistan U23",
+        "start_time_aest": "2026-08-22T15:55:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "FIBA 3x3 Nations U23 League Men",
+        "HOME_contestant": "Qatar U23",
+        "AWAY_contestant": "Turkmenistan U23",
+        "HOME_contestant_short": "Qatar U23",
+        "AWAY_contestant_short": "Turkmenistan U23",
+        "comp_stats": "lohopt=14.29,loptwn=57.14,loto=7.0,hihopt=nan,hiptwn=0.0,hito=0.0",
+        "match_name": "Qatar U23 v Turkmenistan U23",
+        "match_shortName": "23M Qtar-Trkm Hd to Hd",
+        "start_time": "2026-08-22T05:55:00.000Z"
     }
 ]
