@@ -1,6 +1,6 @@
 [
     {
-        "contestant_names_prop": "NY Yankees, (1.75) VERSES Tampa Bay, (2.15)",
+        "contestant_names_prop": "NY Yankees, (1.7) VERSES Tampa Bay, (2.2)",
         "contestant_names": "NY Yankees VERSES Tampa Bay",
         "start_time_aest": "2026-09-24T09:05:00+10:00",
         "sport_name": "Baseball",
@@ -15,7 +15,7 @@
         "start_time": "2026-09-23T23:05:00.000Z"
     },
     {
-        "contestant_names_prop": "Boston, (1.75) VERSES Cleveland, (2.15)",
+        "contestant_names_prop": "Boston, (1.7) VERSES Cleveland, (2.2)",
         "contestant_names": "Boston VERSES Cleveland",
         "start_time_aest": "2026-09-24T09:10:00+10:00",
         "sport_name": "Baseball",
@@ -60,7 +60,7 @@
         "start_time": "2026-09-23T23:40:00.000Z"
     },
     {
-        "contestant_names_prop": "New York, (2.4) VERSES Atlanta, (1.55)",
+        "contestant_names_prop": "New York, (2.45) VERSES Atlanta, (1.53)",
         "contestant_names": "New York VERSES Atlanta",
         "start_time_aest": "2026-09-24T10:00:00+10:00",
         "sport_name": "Basketball",
@@ -90,6 +90,21 @@
         "start_time": "2026-09-24T00:05:00.000Z"
     },
     {
+        "contestant_names_prop": "Dallas, (1.52) VERSES Minnesota, (2.5)",
+        "contestant_names": "Dallas VERSES Minnesota",
+        "start_time_aest": "2026-09-24T10:05:00+10:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL Preseason",
+        "HOME_contestant": "Dallas",
+        "AWAY_contestant": "Minnesota",
+        "HOME_contestant_short": "Dallas",
+        "AWAY_contestant_short": "Minnesota",
+        "comp_stats": null,
+        "match_name": "Dallas v Minnesota",
+        "match_shortName": "NPS Dall-Min Hd to Hd",
+        "start_time": "2026-09-24T00:05:00.000Z"
+    },
+    {
         "contestant_names_prop": "Colorado, (2.4) VERSES Arizona, (1.62)",
         "contestant_names": "Colorado VERSES Arizona",
         "start_time_aest": "2026-09-24T10:40:00+10:00",
@@ -103,5 +118,20 @@
         "match_name": "Colorado v Arizona",
         "match_shortName": "MLB Clrd-Ariz Hd to Hd",
         "start_time": "2026-09-24T00:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Salvadorenos Bc, (2.25) VERSES Cojute, (1.55)",
+        "contestant_names": "Salvadorenos Bc VERSES Cojute",
+        "start_time_aest": "2026-09-24T11:15:00+10:00",
+        "sport_name": "Basketball",
+        "competition_name": "El Salvador Liga Mayor",
+        "HOME_contestant": "Salvadorenos Bc",
+        "AWAY_contestant": "Cojute",
+        "HOME_contestant_short": "Salvadorenos Bc",
+        "AWAY_contestant_short": "Cojute",
+        "comp_stats": null,
+        "match_name": "Salvadorenos Bc v Cojute",
+        "match_shortName": "ESL Salv-Coju Hd to Hd",
+        "start_time": "2026-09-24T01:15:00.000Z"
     }
 ]
