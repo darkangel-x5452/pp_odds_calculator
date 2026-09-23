@@ -1,8 +1,8 @@
 [
     {
-        "contestant_names_prop": "Indiana, (1.6) VERSES Minnesota, (2.3)",
+        "contestant_names_prop": "Indiana, (1.62) VERSES Minnesota, (2.25)",
         "contestant_names": "Indiana VERSES Minnesota",
-        "start_time_aest": "2026-09-23T10:00:00+10:00",
+        "start_time_aest": "2026-09-23T10:03:00+10:00",
         "sport_name": "Basketball",
         "competition_name": "WNBA",
         "HOME_contestant": "Indiana",
@@ -12,7 +12,8 @@
         "comp_stats": "lohopt=62.5,loptwn=56.25,loto=16.0,hihopt=71.43,hiptwn=71.43,hito=7.0",
         "match_name": "Indiana v Minnesota",
         "match_shortName": "WNB Ind-Min Hd to Hd",
-        "start_time": "2026-09-23T00:00:00.000Z"
+        "start_time": "2026-09-23T00:03:00.000Z",
+        "start_time_aest_old": "2026-09-23T10:00:00+10:00"
     },
     {
         "contestant_names_prop": "Texas, (1.8) VERSES NY Mets, (2.05)",
@@ -45,7 +46,7 @@
         "start_time": "2026-09-23T00:05:00.000Z"
     },
     {
-        "contestant_names_prop": "South Australia, (2.1) VERSES Tasmania, (1.7)",
+        "contestant_names_prop": "South Australia, (2.25) VERSES Tasmania, (1.62)",
         "contestant_names": "South Australia VERSES Tasmania",
         "start_time_aest": "2026-09-23T10:30:00+10:00",
         "sport_name": "Cricket",
@@ -118,5 +119,20 @@
         "match_name": "Seattle v Houston",
         "match_shortName": "MLB Seat-Hstn Hd to Hd",
         "start_time": "2026-09-23T01:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "San Francisco, (2.15) VERSES Minnesota, (1.75)",
+        "contestant_names": "San Francisco VERSES Minnesota",
+        "start_time_aest": "2026-09-23T11:45:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "San Francisco",
+        "AWAY_contestant": "Minnesota",
+        "HOME_contestant_short": "San Francisco",
+        "AWAY_contestant_short": "Minnesota",
+        "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
+        "match_name": "San Francisco v Minnesota",
+        "match_shortName": "MLB SFrn-Minn Hd to Hd",
+        "start_time": "2026-09-23T01:45:00.000Z"
     }
 ]
