@@ -2,7 +2,7 @@
     {
         "contestant_names_prop": "NY Yankees (Game 2), (1.92) VERSES Baltimore (Game 2), (1.92)",
         "contestant_names": "NY Yankees (Game 2) VERSES Baltimore (Game 2)",
-        "start_time_aest": "2026-09-26T09:05:00+10:00",
+        "start_time_aest": "2026-09-26T09:35:00+10:00",
         "sport_name": "Baseball",
         "competition_name": "Major League Baseball",
         "HOME_contestant": "NY Yankees (Game 2)",
@@ -12,10 +12,11 @@
         "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
         "match_name": "NY Yankees v Baltimore (Game 2)",
         "match_shortName": "MLB NYYn-Balt Hd to Hd G2",
-        "start_time": "2026-09-25T23:05:00.000Z"
+        "start_time": "2026-09-25T23:35:00.000Z",
+        "start_time_aest_old": "2026-09-26T09:05:00+10:00"
     },
     {
-        "contestant_names_prop": "Washington, (1.6) VERSES Boston, (2.3)",
+        "contestant_names_prop": "Washington, (1.62) VERSES Boston, (2.25)",
         "contestant_names": "Washington VERSES Boston",
         "start_time_aest": "2026-09-26T09:05:00+10:00",
         "sport_name": "Ice Hockey",
@@ -45,7 +46,7 @@
         "start_time": "2026-09-25T23:07:00.000Z"
     },
     {
-        "contestant_names_prop": "Miami, (2) VERSES Atlanta, (1.87)",
+        "contestant_names_prop": "Miami, (1.95) VERSES Atlanta, (1.9)",
         "contestant_names": "Miami VERSES Atlanta",
         "start_time_aest": "2026-09-26T09:10:00+10:00",
         "sport_name": "Baseball",
@@ -88,6 +89,36 @@
         "match_name": "Milwaukee v St Louis",
         "match_shortName": "MLB Mlwk-StLs Hd to Hd",
         "start_time": "2026-09-25T23:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Minnesota, (1.7) VERSES Dallas, (2.1)",
+        "contestant_names": "Minnesota VERSES Dallas",
+        "start_time_aest": "2026-09-26T10:05:00+10:00",
+        "sport_name": "Ice Hockey",
+        "competition_name": "NHL Preseason",
+        "HOME_contestant": "Minnesota",
+        "AWAY_contestant": "Dallas",
+        "HOME_contestant_short": "Minnesota",
+        "AWAY_contestant_short": "Dallas",
+        "comp_stats": null,
+        "match_name": "Minnesota v Dallas",
+        "match_shortName": "NPS Min-Dall Hd to Hd",
+        "start_time": "2026-09-26T00:05:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Minnesota, (2.05) VERSES Texas, (1.8)",
+        "contestant_names": "Minnesota VERSES Texas",
+        "start_time_aest": "2026-09-26T10:10:00+10:00",
+        "sport_name": "Baseball",
+        "competition_name": "Major League Baseball",
+        "HOME_contestant": "Minnesota",
+        "AWAY_contestant": "Texas",
+        "HOME_contestant_short": "Minnesota",
+        "AWAY_contestant_short": "Texas",
+        "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
+        "match_name": "Minnesota v Texas",
+        "match_shortName": "MLB Minn-Texs Hd to Hd",
+        "start_time": "2026-09-26T00:10:00.000Z"
     },
     {
         "contestant_names_prop": "Australia, (1.75) VERSES South Africa, (2.05)",
