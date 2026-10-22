@@ -1,23 +1,8 @@
 [
     {
-        "contestant_names_prop": "Sam Houston St, (2.3) VERSES New Mexico State, (1.6)",
-        "contestant_names": "Sam Houston St VERSES New Mexico State",
-        "start_time_aest": "2026-10-22T11:00:00+11:00",
-        "sport_name": "American Football",
-        "competition_name": "College Football",
-        "HOME_contestant": "Sam Houston St",
-        "AWAY_contestant": "New Mexico State",
-        "HOME_contestant_short": "Sam Houston St",
-        "AWAY_contestant_short": "New Mexico State",
-        "comp_stats": null,
-        "match_name": "Sam Houston St v New Mexico State",
-        "match_shortName": "COL SmHs-NMSU Hd to Hd",
-        "start_time": "2026-10-22T00:00:00.000Z"
-    },
-    {
         "contestant_names_prop": "Atlanta, (1.52) VERSES Golden State, (2.5)",
         "contestant_names": "Atlanta VERSES Golden State",
-        "start_time_aest": "2026-10-22T11:00:00+11:00",
+        "start_time_aest": "2026-10-22T11:10:00+11:00",
         "sport_name": "Basketball",
         "competition_name": "WNBA",
         "HOME_contestant": "Atlanta",
@@ -27,7 +12,8 @@
         "comp_stats": "lohopt=62.5,loptwn=56.25,loto=16.0,hihopt=71.43,hiptwn=71.43,hito=7.0",
         "match_name": "Atlanta v Golden State",
         "match_shortName": "WNB Atl-GSV Hd to Hd",
-        "start_time": "2026-10-22T00:00:00.000Z"
+        "start_time": "2026-10-22T00:10:00.000Z",
+        "start_time_aest_old": "2026-10-22T11:00:00+11:00"
     },
     {
         "contestant_names_prop": "Memphis, (1.8) VERSES Utah, (2.05)",
@@ -58,5 +44,20 @@
         "match_name": "New Orleans v Indiana",
         "match_shortName": "NBA NOP-Ind Hd to Hd",
         "start_time": "2026-10-22T00:10:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Salvadorenos Bc, (1.55) VERSES San Salvador, (2.25)",
+        "contestant_names": "Salvadorenos Bc VERSES San Salvador",
+        "start_time_aest": "2026-10-22T12:15:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "El Salvador Liga Mayor",
+        "HOME_contestant": "Salvadorenos Bc",
+        "AWAY_contestant": "San Salvador",
+        "HOME_contestant_short": "Salvadorenos Bc",
+        "AWAY_contestant_short": "San Salvador",
+        "comp_stats": null,
+        "match_name": "Salvadorenos Bc v San Salvador",
+        "match_shortName": "ESL Salv-San Hd to Hd",
+        "start_time": "2026-10-22T01:15:00.000Z"
     }
 ]
