@@ -1,38 +1,8 @@
 [
     {
-        "contestant_names_prop": "Luke Woodhouse, (1.6) VERSES Dirk van Duijvenbode, (2.3)",
-        "contestant_names": "Luke Woodhouse VERSES Dirk van Duijvenbode",
-        "start_time_aest": "2026-10-23T04:15:00+11:00",
-        "sport_name": "Darts",
-        "competition_name": "European Championship",
-        "HOME_contestant": "Luke Woodhouse",
-        "AWAY_contestant": "Dirk van Duijvenbode",
-        "HOME_contestant_short": "Woodhouse Luke",
-        "AWAY_contestant_short": "Van Duijvenbode",
-        "comp_stats": null,
-        "match_name": "Woodhouse Luke  v Van Duijvenbode",
-        "match_shortName": "Eur Wood-VanD Hd to Hd",
-        "start_time": "2026-10-22T17:15:00.000Z"
-    },
-    {
-        "contestant_names_prop": "Alba Berlin, (1.8) VERSES Castors Braine, (1.9)",
-        "contestant_names": "Alba Berlin VERSES Castors Braine",
-        "start_time_aest": "2026-10-23T04:30:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "EuroCup Women",
-        "HOME_contestant": "Alba Berlin",
-        "AWAY_contestant": "Castors Braine",
-        "HOME_contestant_short": "Alba Berlin",
-        "AWAY_contestant_short": "Castors Braine",
-        "comp_stats": "lohopt=0.0,loptwn=0.0,loto=2.0,hihopt=0.0,hiptwn=100.0,hito=1.0",
-        "match_name": "Alba Berlin v Castors Braine",
-        "match_shortName": "ECW AlBr-Brne Hd to Hd",
-        "start_time": "2026-10-22T17:30:00.000Z"
-    },
-    {
         "contestant_names_prop": "Danny Noppert, (1.75) VERSES Stephen Bunting, (2.05)",
         "contestant_names": "Danny Noppert VERSES Stephen Bunting",
-        "start_time_aest": "2026-10-23T04:45:00+11:00",
+        "start_time_aest": "2026-10-23T04:50:00+11:00",
         "sport_name": "Darts",
         "competition_name": "European Championship",
         "HOME_contestant": "Danny Noppert",
@@ -42,7 +12,8 @@
         "comp_stats": null,
         "match_name": "Danny Noppert v Bunting",
         "match_shortName": "Eur Nopp-Btng Hd to Hd",
-        "start_time": "2026-10-22T17:45:00.000Z"
+        "start_time": "2026-10-22T17:50:00.000Z",
+        "start_time_aest_old": "2026-10-23T04:45:00+11:00"
     },
     {
         "contestant_names_prop": "Bayern Munich, (2.05) VERSES Dubai Basketball, (1.72)",
@@ -75,7 +46,7 @@
         "start_time": "2026-10-22T18:00:00.000Z"
     },
     {
-        "contestant_names_prop": "Maccabi Tel Aviv, (2.45) VERSES Real Madrid, (1.52)",
+        "contestant_names_prop": "Maccabi Tel Aviv, (2.5) VERSES Real Madrid, (1.5)",
         "contestant_names": "Maccabi Tel Aviv VERSES Real Madrid",
         "start_time_aest": "2026-10-23T05:05:00+11:00",
         "sport_name": "Basketball",
@@ -88,5 +59,65 @@
         "match_name": "Maccabi Tel Aviv v Real Madrid",
         "match_shortName": "Eur MaTA-Real Hd to Hd",
         "start_time": "2026-10-22T18:05:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Niels Zonneveld, (1.65) VERSES Cameron Menzies, (2.2)",
+        "contestant_names": "Niels Zonneveld VERSES Cameron Menzies",
+        "start_time_aest": "2026-10-23T05:20:00+11:00",
+        "sport_name": "Darts",
+        "competition_name": "European Championship",
+        "HOME_contestant": "Niels Zonneveld",
+        "AWAY_contestant": "Cameron Menzies",
+        "HOME_contestant_short": "Zonneveld Niels",
+        "AWAY_contestant_short": "Menzies",
+        "comp_stats": null,
+        "match_name": "Zonneveld Niels  v Menzies",
+        "match_shortName": "Eur Zonn-Mnze Hd to Hd",
+        "start_time": "2026-10-22T18:20:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Olimpia Milano, (1.8) VERSES Barcelona, (1.95)",
+        "contestant_names": "Olimpia Milano VERSES Barcelona",
+        "start_time_aest": "2026-10-23T05:30:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "EuroLeague",
+        "HOME_contestant": "Olimpia Milano",
+        "AWAY_contestant": "Barcelona",
+        "HOME_contestant_short": "Olimpia Milano",
+        "AWAY_contestant_short": "Barcelona",
+        "comp_stats": "lohopt=66.67,loptwn=50.0,loto=6.0,hihopt=80.0,hiptwn=20.0,hito=5.0",
+        "match_name": "Olimpia Milano v Barcelona",
+        "match_shortName": "Eur OMln-Brca Hd to Hd",
+        "start_time": "2026-10-22T18:30:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Partizan, (1.9) VERSES Crvena Zvezda, (1.85)",
+        "contestant_names": "Partizan VERSES Crvena Zvezda",
+        "start_time_aest": "2026-10-23T05:45:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "EuroLeague",
+        "HOME_contestant": "Partizan",
+        "AWAY_contestant": "Crvena Zvezda",
+        "HOME_contestant_short": "Partizan",
+        "AWAY_contestant_short": "Crvena Zvezda",
+        "comp_stats": "lohopt=66.67,loptwn=50.0,loto=6.0,hihopt=80.0,hiptwn=20.0,hito=5.0",
+        "match_name": "Partizan v Crvena Zvezda",
+        "match_shortName": "Eur Part-CrZd Hd to Hd",
+        "start_time": "2026-10-22T18:45:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Gerwyn Price, (1.6) VERSES Rob Cross, (2.3)",
+        "contestant_names": "Gerwyn Price VERSES Rob Cross",
+        "start_time_aest": "2026-10-23T05:45:00+11:00",
+        "sport_name": "Darts",
+        "competition_name": "European Championship",
+        "HOME_contestant": "Gerwyn Price",
+        "AWAY_contestant": "Rob Cross",
+        "HOME_contestant_short": "Price",
+        "AWAY_contestant_short": "Rob Cross",
+        "comp_stats": null,
+        "match_name": "Price v Rob Cross",
+        "match_shortName": "Eur Prce-Cros Hd to Hd",
+        "start_time": "2026-10-22T18:45:00.000Z"
     }
 ]
