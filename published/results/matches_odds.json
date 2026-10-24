@@ -1,23 +1,8 @@
 [
     {
-        "contestant_names_prop": "Milwaukee, (1.52) VERSES Tampa Bay, (2.6)",
-        "contestant_names": "Milwaukee VERSES Tampa Bay",
-        "start_time_aest": "2026-10-24T11:00:00+11:00",
-        "sport_name": "Baseball",
-        "competition_name": "Major League Baseball",
-        "HOME_contestant": "Milwaukee",
-        "AWAY_contestant": "Tampa Bay",
-        "HOME_contestant_short": "Milwaukee",
-        "AWAY_contestant_short": "Tampa Bay",
-        "comp_stats": "lohopt=44.76,loptwn=55.24,loto=105.0,hihopt=56.52,hiptwn=43.48,hito=46.0",
-        "match_name": "Milwaukee v Tampa Bay",
-        "match_shortName": "MLB Mlwk-TmpB Hd to Hd",
-        "start_time": "2026-10-24T00:00:00.000Z"
-    },
-    {
         "contestant_names_prop": "Team Secret Whal, (2.15) VERSES Lyon, (1.62)",
         "contestant_names": "Team Secret Whal VERSES Lyon",
-        "start_time_aest": "2026-10-24T11:00:00+11:00",
+        "start_time_aest": "2026-10-24T11:05:00+11:00",
         "sport_name": "Esports",
         "competition_name": "League of Legends",
         "tournamentName": "LoL - World Championships",
@@ -28,10 +13,11 @@
         "comp_stats": null,
         "match_name": "Team Secret Whal v Lyon",
         "match_shortName": "LoL WC Team-Lyon Hd to Hd",
-        "start_time": "2026-10-24T00:00:00.000Z"
+        "start_time": "2026-10-24T00:05:00.000Z",
+        "start_time_aest_old": "2026-10-24T11:00:00+11:00"
     },
     {
-        "contestant_names_prop": "Miami, (2.05) VERSES Detroit, (1.8)",
+        "contestant_names_prop": "Miami, (2.1) VERSES Detroit, (1.77)",
         "contestant_names": "Miami VERSES Detroit",
         "start_time_aest": "2026-10-24T11:10:00+11:00",
         "sport_name": "Basketball",
@@ -46,7 +32,7 @@
         "start_time": "2026-10-24T00:10:00.000Z"
     },
     {
-        "contestant_names_prop": "Tulsa, (1.9) VERSES Army, (1.9)",
+        "contestant_names_prop": "Tulsa, (1.95) VERSES Army, (1.85)",
         "contestant_names": "Tulsa VERSES Army",
         "start_time_aest": "2026-10-24T11:30:00+11:00",
         "sport_name": "American Football",
@@ -74,5 +60,20 @@
         "match_name": "Racing De Chivil v Boca Juniors",
         "match_shortName": "Arg Chiv-BocJ Hd to Hd",
         "start_time": "2026-10-24T01:05:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Salvadorenos Bc, (1.66) VERSES Izalco, (2.05)",
+        "contestant_names": "Salvadorenos Bc VERSES Izalco",
+        "start_time_aest": "2026-10-24T12:15:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "El Salvador Liga Mayor",
+        "HOME_contestant": "Salvadorenos Bc",
+        "AWAY_contestant": "Izalco",
+        "HOME_contestant_short": "Salvadorenos Bc",
+        "AWAY_contestant_short": "Izalco",
+        "comp_stats": null,
+        "match_name": "Salvadorenos Bc v Izalco",
+        "match_shortName": "ESL Salv-Izal Hd to Hd",
+        "start_time": "2026-10-24T01:15:00.000Z"
     }
 ]
