@@ -1,23 +1,8 @@
 [
     {
-        "contestant_names_prop": "Washington, (1.92) VERSES Charlotte, (1.92)",
-        "contestant_names": "Washington VERSES Charlotte",
-        "start_time_aest": "2026-10-31T10:10:00+11:00",
-        "sport_name": "Basketball",
-        "competition_name": "NBA",
-        "HOME_contestant": "Washington",
-        "AWAY_contestant": "Charlotte",
-        "HOME_contestant_short": "Washington",
-        "AWAY_contestant_short": "Charlotte",
-        "comp_stats": "lohopt=51.28,loptwn=64.1,loto=39.0,hihopt=64.71,hiptwn=47.06,hito=17.0",
-        "match_name": "Washington v Charlotte",
-        "match_shortName": "NBA Was-Cha Hd to Hd",
-        "start_time": "2026-10-30T23:10:00.000Z"
-    },
-    {
         "contestant_names_prop": "UCF, (2.1) VERSES Baylor, (1.75)",
         "contestant_names": "UCF VERSES Baylor",
-        "start_time_aest": "2026-10-31T10:33:00+11:00",
+        "start_time_aest": "2026-10-31T10:35:00+11:00",
         "sport_name": "American Football",
         "competition_name": "College Football",
         "HOME_contestant": "UCF",
@@ -27,7 +12,8 @@
         "comp_stats": null,
         "match_name": "UCF v Baylor",
         "match_shortName": "COL UCF-Bayl Hd to Hd",
-        "start_time": "2026-10-30T23:33:00.000Z"
+        "start_time": "2026-10-30T23:35:00.000Z",
+        "start_time_aest_old": "2026-10-31T10:33:00+11:00"
     },
     {
         "contestant_names_prop": "Marco Mignot, (2) VERSES Seth Moniz, (1.72)",
@@ -59,5 +45,20 @@
         "match_name": "Philadelphia v New York",
         "match_shortName": "NBA Phi-NYK Hd to Hd",
         "start_time": "2026-10-30T23:40:00.000Z"
+    },
+    {
+        "contestant_names_prop": "Dallas, (2.65) VERSES Houston, (1.5)",
+        "contestant_names": "Dallas VERSES Houston",
+        "start_time_aest": "2026-10-31T11:10:00+11:00",
+        "sport_name": "Basketball",
+        "competition_name": "NBA",
+        "HOME_contestant": "Dallas",
+        "AWAY_contestant": "Houston",
+        "HOME_contestant_short": "Dallas",
+        "AWAY_contestant_short": "Houston",
+        "comp_stats": "lohopt=51.28,loptwn=64.1,loto=39.0,hihopt=64.71,hiptwn=47.06,hito=17.0",
+        "match_name": "Dallas v Houston",
+        "match_shortName": "NBA Dal-Hou Hd to Hd",
+        "start_time": "2026-10-31T00:10:00.000Z"
     }
 ]
